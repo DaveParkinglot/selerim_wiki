@@ -1,0 +1,10 @@
+- 3 millenia ago the prime Discordant (chaotic) and Ordered (lawful) gods allied against Tharizdun, carving his physical form into 3 sections, and shattering his spiritual form into 3 shards
+- As it was decided that Tharizdun must never be allowed to manifest himself again, his form and spirit were kept divided and far from each other
+- The Ordered Gods retained the 3 physical sections
+	- Bahamut was given the upper physical (LG)
+	- The Red Knight was given the middle physical (LN)
+	- Asmodeus, Lord of Hell, was given the lower physical (LE)
+- The Discordant Gods hold the 3 spiritual shards
+	- Avandra was given the upper spiritual shard (CG)
+	- The middle spiritual shard was given to Gelf Darkheart, gnomish god of war, but was lost in the Astral Plane on a long-forgotten crusade  (CN)
+	- Lolth was given the lower spiritual shard (CE)

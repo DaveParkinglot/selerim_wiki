@@ -1,0 +1,4 @@
+- The city of the dead, located on [[Ghoulfen Island]]
+- Bastion for those who prefer to live in death than to face the afterlife
+- Many make the pilgrimage themselves, and those less fortunate may win their passage via the [[The Necronaut of Mournholde]]
+- Legends say that the nearby river may be a phantom tributary of the River Styx that flows through the Nine Hells
