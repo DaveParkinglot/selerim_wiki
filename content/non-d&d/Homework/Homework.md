@@ -1,0 +1,37 @@
+- the critical voice
+	- pick a 24 hour period of time and count how many times you find yourself in your head listening to your critical voice
+	- critical voice is the voice that tells you something isn't going to work, second guess yourself, etc.
+- how do you manage triggered feelings
+	- bring examples of what style you are
+	- 3 styles
+		- distracting by being busy
+		- repress/dismiss feelings, "sit on it"
+		- make decisions
+-  the blank screen
+	- who do you observe that approaches you that you do not end up feeling fine afterwards
+- where do I feel my feelings?
+	- getting physically triggered: roll eyes, walk out of room
+	- observe how you react when you hear the critical voice, manage your triggered feelings, or feel disrupted by others
+		- how do you ignite physically
+
+Session 2
+- Learn where you ignite physically
+- Learn how to go through your feelings first and then think second
+- It is never one triggered feeling that is the problem
+	- Past situations and feelings about a person can arise
+- non-triggered vs triggered
+- Active listening
+- When you are triggered by the critical voice or other people
+	- Shift and notice your physical reaction to the disruption
+	- Drop and go to "the blank screen"
+- All week long when you hear a dialogue in your head/the critical voice
+	- Instead of lighting up physically, shift and notice where you ignite physically
+	- Go to the blank screen and use the technique from the session
+	- If you hear any simple words after you drop to the blank screen, take note of them
+	- Don't immediately react, take time to shift & drop before responding
+		- Don't make immediate responses, take time to think and mull it over
+	- Settle things and don't spin on them, creating tension and anxiety
+Session 3
+- Drop to blank screen and make a decision about what to say
+- Or wait if you can't think about what to say or do
+- 

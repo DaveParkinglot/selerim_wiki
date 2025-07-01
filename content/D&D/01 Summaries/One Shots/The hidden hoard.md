@@ -1,0 +1,4 @@
+- find ambience (wow?)
+- Figure out xp and loot
+- Key opens door
+- 

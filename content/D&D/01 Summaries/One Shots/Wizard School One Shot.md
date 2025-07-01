@@ -1,0 +1,7 @@
+- 3 sessions? Provide 2 choices at the end of each session: e.g., do you want to help free the High Rollers? or do you want to help Hugh Mann get powerful enough so that he himself can defeat Proklor the Despoiler?
+- at the white grove
+- Hugh Mann, masquerading as master of infernal magicks "Daemon Flamefist" is the teacher
+	- Bopus is masquerading as the shrill goblin Tarp and helping him
+	- and OR PUDDING is pretending to be a hulking knight in armor who guards “Daemon”’s room perception checks to notice his green skin
+	- Hugh, as the last remaining High Rollers, is searching for forgotten lore that would explain how to access The Fathomless Vault of Tzastis, so he can make a deal for his former party's souls
+	-
