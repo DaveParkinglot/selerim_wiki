@@ -7,65 +7,169 @@ Wiki page for worldbuilding and information about the Selerim and Selerim 5K D&D
 
 Github repo:
 https://github.com/DaveParkinglot/selerim_wiki
+# 🕰️ Timeline of Selerim and Tiialia
 
-# 🕰️ Timeline of Selerim
+## Untold Ages Ago
 
-## 📜 Untold Ages Ago
-- **The Sundering of Elves**: Corellon and Lolth separate, dividing the elvish pantheon into the Seldarine and the Dark Seldarine. This rift gives rise to the elves and the drow.
+**Untold Ages Ago**
 
-## 🪐 8,000 B.T.
-- A dead planet is settled by Astral Drow led by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), who secretly plans to overthrow the [Seldarine](https://5e.tools/tables.html#elf%20deities%20(the%20seldarine)_mtf).
+The unity of the elvish peoples is ended.  
+[Corellon](https://5e.tools/deities.html#corellon%20larethian_elven_mtf) and [Lolth](https://5e.tools/deities.html#lolth_drow_mtf) separate, as do their respective deific followers, [The Seldarine](https://5e.tools/tables.html#elf%20deities%20(the%20seldarine)_mtf) and [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20(the%20dark%20seldarine)_mtf). In time, this societal fracture gives rise to the elves and the drow.
 
-## 🔮 7,500 B.T.
-- [Kirith Sotheril](https://5e.tools/deities.html#kirith%20sotheril_elven_mtf) divines Selvetarm's intent. The Seldarine begin a galaxy-spanning search.
+---
 
-## ⚔️ 6,000 B.T.
-- War breaks out between Selvetarm's drow legions and the Seldarine across the planet now called Selerim.
+## 8,000 B.T.
 
-## 🌍 5,000 B.T.
-- The Seldarine triumph. Selvetarm is banished to the Abyss. The world is restored and gifted to his former slaves—diverse peoples from many worlds.
+**8,000 Years Before the Founding of Tiialia (B.T.)**
 
-## 🔗 3,000 B.T.
-- [[Tharizdun]] is chained and sundered by an unlikely alliance of gods.
+The lifeless husk of a planet on the far rim of the galaxy is settled by a group of Astral Drow led by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), Champion of Lolth. In secret, Selvetarm plans to spend 3 millennia raising an army to invade other worlds and ultimately overthrow [The Seldarine](https://5e.tools/tables.html#elf%20deities%20(the%20seldarine)_mtf), the Elvish pantheon of deities.
 
-## 🐉 2,300 B.T.
-- The first dragons are summoned to Selerim by elves and worshipped as gods.
+---
 
-## ⚔️ 2,000 B.T.
-- The bronze dragon **Timphiliax** is slain by Barbanus the Slayer. His poison transforms the Verdant Dragonfields into The Forsaken Expanse. This ignites the **Generations’ War** between humans and elves.
+## 7,500 B.T.
 
-## 🕊️ 1,200 B.T.
-- The long war between humans and elves ends after both societies collapse.
+**7,500 B.T.**
 
-## 🌊 1,000 B.T.
-- The Darkwells of the Frostbore Peaks erupt, flooding central Selerim for 250 years and isolating many regions.
+The ever-vigilant [Kirith Sotheril](https://5e.tools/deities.html#kirith%20sotheril_elven_mtf) divines the intent of Selvetarm's long absence, and The Seldarine begin a galaxy spanning search for him and his growing armies.
 
-## 👑 300 B.T.
-- Dwarf holdings are unified under **[[Geblorgurin the Grand]]**.
+---
 
-## 🏴‍☠️ 250 B.T.
-- The city of **Scrimshaw** is founded by the Seven Pirate Kings.
+## 6,000 B.T.
 
-## 🛡️ 20 B.T.
-- Geblorgurin allies with elves and gnomes of the Tanglewood Peninsula to repel an invasion by the Vlorn Dynasty (drow from the Underdark).
+**6,000 B.T.**
 
-## 🏰 0 B.T. – Founding of Tiialia
-- The Kingdom of **Tiialia** is founded by **Geblorgurin the Grand** and his human allies.
+The Seldarine locate Selvetarm and the vastness of his drow legions. War rages across the surface of the planet, now known as Selerim.
 
-## ⚰️ Year 2
-- Geblorgurin dies at 402, passing to **Moradin’s Forge**.
+---
 
-## 🪦 Year 131
-- [[Galgitch, The Afterking|Galgitch]] founds **Mournholde**, atop a ruined necropolis.
+## 5,000 B.T.
 
-## 🌳 Year 144
-- The elvish town of **Mitlin** is founded.
+**5,000 B.T.**
 
-## 🐍 Year 150
-- The **Serpent Wars** begin due to Tiialian expansion into Yuan-Ti lands in **[[Corrodreth, The Salted City]]**.
+Triumphant at last, The Seldarine banish Selvetarm to The Abyss, while his surviving followers flee beyond sight, into the depths of the world.  
 
-## 🔚 Year 161
-- Corrodreth is destroyed, ending the Serpent Wars.
+Before departing, the elf gods restore the war-scarred world and bequeath it to Selvetarm's former slaves—a diverse multitude, stolen from countless worlds.  
 
-## 👑 Year 264
-- **Nino Esposito** is crowned King of Tiialia.
+This gift, recompense for their brutal captivity at the hands of The Seldarine’s fallen kin, marks the dawn of a new age in Selerim's history.
+
+---
+
+## 3,000 B.T.
+
+**3,000 B.T.**
+
+The dark god [[Tharizdun]] is chained and sundered by an unlikely alliance of the Discordant and Ordered Gods.
+
+---
+
+## 2,300 B.T.
+
+**2,300 B.T.**
+
+The first dragons are summoned to Selerim by elves, who soon come to worship them as gods.
+
+---
+
+## 2,000 B.T.
+
+**2,000 B.T.**
+
+The great bronze dragon Timphiliax is slain by the human Barbanus the Slayer. With his dying breath, Timphiliax poisons the Verdant Dragonfields, which in time will become The Forsaken Expanse.  
+
+This event sparks the hostilities that leads to the Generations' War between humans and elves.
+
+---
+
+## 1,200 B.T.
+
+**1,200 B.T.**
+
+Human and elf hostilities taper off after both their societies collapse from centuries of war.
+
+---
+
+## 1,000 B.T.
+
+**1,000 B.T.**
+
+The Darkwells of the Frostbore Peaks begin to erupt with water, a phenomenon that continues for 250 years. This floods much of the central continent of Selerim. Many regions that were once connected are now isolated from each other by an unnaturally cold body of water.
+
+---
+
+## 300 B.T.
+
+**300 B.T.**
+
+Dwarf holdings in Selerim are united under the kingship of [[Geblorgurin the Grand, King of the Dwarves|Geblorgurin the Grand]].
+
+---
+
+## 250 B.T.
+
+**250 B.T.**
+
+The free city of Scrimshaw is founded by the Seven Pirate Kings.
+
+---
+
+## 20 B.T.
+
+**20 B.T.**
+
+Geblorgurin forms a short-term alliance with the disparate elf and gnome factions of the Tanglewood Peninsula to defeat an invasion by the Vlorn Dynasty, a faction of drow from The Underdark.
+
+---
+
+## 0 B.T.
+
+**The Founding of Tiialia - 0 B.T.**
+
+The founding of The Kingdom of Tiialia by Geblorgurin and his human allies.
+
+---
+
+## Year 2
+
+**Year 2**
+
+Geblorgurin the Grand dies, passing on to Moradin's Forge at the age of 402.
+
+---
+
+## Year 131
+
+**Year 131**
+
+[[Galgitch, The Afterking|Galgitch]], later known as "The Afterking" founds the city of [[Mournholde]] atop the ruined necropolis of a vanquished lich.
+
+---
+
+## Year 144
+
+**Year 144**
+
+The elvish town of Mitlin is founded, the first of many new settlements on the Tanglewood Peninsula.
+
+---
+
+## Year 150
+
+**Year 150**
+
+Aggressive Tiialan expansionism leads to the Serpent Wars with the Yuan-Ti of [[Corrodreth, The Salted City|Corrodreth]].
+
+---
+
+## Year 161
+
+**Year 161**
+
+The Yuan-Ti city of Corrodreth is at last destroyed by Tiialia, marking the end of the Serpent Wars.
+
+---
+
+## Year 264
+
+**Year 264**
+
+Coronation of Tiialia's current king, Nino Esposito.
