@@ -1,7 +1,0 @@
-- His family has served the [[The Esposito Family]] for generations
-- An age old bargain between the Epositos and the Dentes states that the Espositos pay for passage aboard the [[The Necronaut of Mournholde]] when a Dente who has loyally served them reaches the age of 75
-		- This bargain was struck between Albert's great great great great grandfather, Albert, and the progenitor of the Esposito family, Quintino
-		- This practice has withstood the test of time, and there are now several generations of Dentes living in [[Mournholde]]
-- He has a daughter named Allie (short for Alberta) who lives in the countryside working as a cleric of the god Selune
--  She plans to take his place after he soon embarks on the [[The Necronaut of Mournholde]]
-- He is 74 years old
