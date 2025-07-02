@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "daveparkinglot.github.io/selerim_wiki",
+    baseUrl: "https://daveparkinglot.github.io/selerim_wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
