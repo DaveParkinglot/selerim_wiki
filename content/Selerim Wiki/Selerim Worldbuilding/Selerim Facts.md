@@ -1,0 +1,4 @@
+- See Selerim timeline
+- The world is analogous to Earth. There is 1 moon and 1 sun.
+- The most widely used calendar is the Tiialan Calendar, which has 13 months of 28 days each
+- Sorcerers were anomalously rare until the blood of slain dragons from the war between elves and humans seeped into the earth, near the present day Forsaken Expanse

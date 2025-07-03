@@ -1,0 +1,3 @@
+- A paladin of Tyr, hailing from Crillville
+- Has a child with the half-giant druid Maple Summer
+- After retiring from adventuring with the High Rollers, he will become a missionary spreading the word of Tyr around
