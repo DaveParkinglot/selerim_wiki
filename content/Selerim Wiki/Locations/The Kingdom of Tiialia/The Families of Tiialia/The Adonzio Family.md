@@ -1,0 +1,3 @@
+- Current ruling family of the Kingdom of Tiialia, they rule from the capital city of Nova Jersaeria
+- The king of Tiialia, Antonio Adonzio, is the patriarch of the Adonzio family
+- The Adonzios allied with [[Selerim Wiki/Locations/The Kingdom of Tiialia/The Families of Tiialia/The Landucci Family]] after the Midsummer Massacre, in what became known as the Adonzio Accord
