@@ -9,4 +9,4 @@ Wiki page for worldbuilding and information about the Selerim and Selerim 5K D&D
 Github repo:
 https://github.com/DaveParkinglot/selerim_wiki
 
-[[Selerim Wiki/Selerim Timeline]]
+[[Selerim Timeline]]
