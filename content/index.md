@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Selerim Campaign Setting Wiki","cssclasses":""}
+{"publish":true,"title":"Welcome to Selerim","cssclasses":""}
 ---
 
 Wiki page for worldbuilding and information about the Selerim and Selerim 5K D&D campaign settings.
@@ -9,4 +9,4 @@ Wiki page for worldbuilding and information about the Selerim and Selerim 5K D&D
 Github repo:
 https://github.com/DaveParkinglot/selerim_wiki
 
-[[Selerim Timeline]]
+[[Selerim Wiki/Selerim Timeline]]
