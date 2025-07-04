@@ -1,0 +1,6 @@
+- A small insular town of mages
+- There is a mage college there by the same name
+- The White Grove swears fealty to Tiialia. Most of Tiialia's artillery mages, who famously laid waste to Corrodreth, went to The White Grove
+- Divine, Arcane, Primal, and Infernal magics are the basis of the 4 schools of The White Grove
+	-Each of the 4 trees represents one of these magics
+	-The primal tree was sacrificed to stop the Corrodreth invasion during the Serpent Wars
