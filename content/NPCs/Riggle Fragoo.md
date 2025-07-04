@@ -1,0 +1,3 @@
+- Bullywug magic item salesman
+- Owns The Monkey's Pawn in the sewer for shady dealings, and Riggle's Runeshop in the marketplace for less shady dealings
+- Sssergio and Cock Strombolinov work for him
