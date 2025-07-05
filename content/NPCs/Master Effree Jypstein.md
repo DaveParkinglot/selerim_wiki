@@ -1,4 +1,4 @@
-![[Selerim Wiki/z_assets/ephram.png]]
+![[Selerim Wiki/z_assets/effree.png]]
 - Effree was a wizard, and part of an adventuring party with Blackhorn the Barbarian and Geelayne the Cleric
 - As they grew in power, Effree became secretive of his purposes and began to frequently consort with his patron, Myrkul the Lord of Bones
 - Geelayne was killed on one of their adventures and rather than "wasting" the Scroll of Resurrection, Effree opted to use necromantic magic he had just learned to bring her back.
