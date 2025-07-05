@@ -1,6 +1,0 @@
-- Last remaining member of the once powerful [[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]
-- He still holds some sway, and has become a Tiialan spymaster, supporting [[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Landucci Family]] and [[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Adonzio Family]]
-- He was friends with [[Player Characters/The High Rollers/Francis Greenstrider De Luca]]’s father
-- They were spies together back when they were younger
-	- "Nino" was the fourth son of the Esposito family, and never had a thought of becoming a leader within the family
-	- Now, he is the last member of his family, and he has the Fanto-Domingos to thank for everything
