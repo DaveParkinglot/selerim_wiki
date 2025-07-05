@@ -1,14 +1,14 @@
 - Once the king of a nearly forgotten dwarvish empire (dead for ~250 years), Geblorgurin is still spoken about today amongst adventurers because of the many monuments he left behind.
 	- It is said that these monuments contain great artifacts of power, but the monuments are said to test those who enter them. Only the worthy may wield the artifacts Geblorgurin left behind.
 	- Dwarves (especially those of Geblorgurin's time) are fiercely protective of their belongings in life, but in death they desire nothing more than to have their belongings used by worthy individuals
-- Geblorgurin was the first wielder of [[The Gem of Eyes\|gem of eyes]]
+- Geblorgurin was the first wielder of [[D&D/DM Notes/The Gem of Eyes\|gem of eyes]]
 	- From the shell of a Marut that fell from sky, Geblorgurin pried the gem.
 	- The dead Marut's shell, Geblorgurin used to forge his armor.
 -
 
 Notes from #Clint Clint's hour long meeting in Mitlin with Melvin the elvish wizard.
 
-  [[The Gem of Eyes\|Gem of Eyes]]
+  [[D&D/DM Notes/The Gem of Eyes\|Gem of Eyes]]
 
 - The gem was originally found in the crater of a fallen star by Geblorgurin himself
 - He used it to great effect in the never ending fight against incursions from the Vlorn

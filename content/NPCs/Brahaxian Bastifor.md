@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-07-04T01:20:00.000-04:00","modified":"2025-07-04T01:20:00.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-04T01:20:00.000-04:00","modified":"2025-07-04T01:20:00.000-04:00","published":"2025-07-04T01:20:00.000-04:00","cssclasses":"","role":"Shopkeeper","location":"Crabbley","ancestry":"Elf","gender":"M"}
 ---
 
 
 ## Brahaxian Bastifor
-![[z_assets/brahaxian_bastifor.png]]
+![[Selerim Wiki/z_assets/brahaxian_bastifor.png]]
 ### 🧠 Summary
 Trophy husband of [[NPCs/Antoona Bastifor]].
 
