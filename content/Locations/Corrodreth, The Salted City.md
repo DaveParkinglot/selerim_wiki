@@ -1,0 +1,4 @@
+- Now a desolate ruin, occasionally sparking with magical energies 
+- Something dark lurks in the deepest antechambers of the ruined city….
+- Destroyed by Tiialia generations ago, the city was ruled by Yuan-Ti serpent people
+- The Tiialans salted it and the surrounding area after the decade long "Serpent Wars"
