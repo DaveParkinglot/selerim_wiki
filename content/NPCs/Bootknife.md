@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T19:26:33.000-04:00","modified":"2025-07-06T20:01:51.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T19:26:33.000-04:00","modified":"2025-07-06T20:11:09.000-04:00","cssclasses":""}
 ---
 
 
@@ -13,7 +13,7 @@ Merchant, uncle, extraordinary liar.
 - **Gender**: Male
 - **Location**: Varies
 - **Role**: Roguish Fiend, Thief, Part-time Merchant
-- **Affiliation:** `= this.Affiliation`
+- **Affiliation:** None
 
 ### Background
 Called many things by many people, Bootknife is an enigma who will sell to you at a discount one day and slit your throat the next.

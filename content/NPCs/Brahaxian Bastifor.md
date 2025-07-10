@@ -1,34 +1,35 @@
+---
+{"publish":true,"created":"2025-07-04T01:20:00.000-04:00","modified":"2025-07-06T20:13:02.000-04:00","cssclasses":""}
+---
 
-## Brahaxian Bastifor
+
 ![[z_assets/brahaxian_bastifor.png]]
-### 🧠 Summary
-Trophy husband of [[NPCs/Antoona Bastifor]].
+### Summary
+Trophy husband, shopkeeper.
 
-### 🧬 Details
-- **Ancestry**: Elf
-- **Gender**: Male  
-- **Role**: Shopkeeper  
-- **Location**: Crabbley  
+### Key Details
+- **Age**: 42
+- **Ancestry**: Half-Elf
+- **Gender**: Male
+- **Location**: Crabbley
+- **Role**: Shopkeeper
+- **Affiliation:** [[Crabbley Council\|Crabbley Council]]
 
-### 🤝 Relationships
+### Background
 
-| Type | Name                  | Role               |
-|------|-----------------------|--------------------|
-| Wife | [[NPCs/Antoona Bastifor]]  | Mayor of Crabbley  |
 
-### 🧭 Personality & Beliefs
+### Relationships
 
-- **Faction**:  
+| Name                 | Relationship |
+| -------------------- | ------------ |
+| [[NPCs/Antoona Bastifor]] | Wife         |
+
+### Attributes
+- **Voice**: 
 - **Traits**:  
-- **Ideals**:  
-- **Bonds**:  
-- **Flaws**:  
-- **Beliefs**:  
-- **Voice**:  
-- **Eyes / Hair**:  
-- **Life Events**:  
+- **Ideals:** 
+- **Eyes / Hair**: 
 
-### 🎯 Goals
-
-- **Short-term**:  
-- **Long-term**:  
+### Goals
+- **Short-term**: Advise his mayor wife on external threats
+- **Long-term**: Ensure his shop stays in business

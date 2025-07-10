@@ -1,4 +1,25 @@
-![[z_assets/effree.png]]
+---
+{"publish":true,"created":"2025-07-09T13:45:14.000-04:00","modified":"2025-07-09T13:52:59.000-04:00","cssclasses":""}
+---
+
+
+![[master_effree_jypstein_rip_.webp]]
+### Summary
+- Effree Jyfstein, once known as Effree the Sullen, and later known by his pseudonym "The Master."
+-  Prior to his villainy, he was a member of the famous adventuring party The Three. His fellow party members were Blackhorn the Barbarian and Geelayne the Cleric.
+- As The Three grew in power, Effree became secretive of his purposes and began to frequently consort with his necromantic patron Myrkul the Lord of Bones.
+- After The Three disbanded due to Effree's actions, he spent time living as a noble in Scrimshaw, before retreating to his ancestral home in the Jyfstein Isles.
+- Some time after that, Effree became a powerful lich and sought to control or end all life on Selerim. Thankfully, he was killed in his lair by The High Rollers.
+
+### Key Details
+- **Age**: ??
+- **Ancestry**: Human
+- **Gender**: Male
+- **Location**: The Jyfstein Isles
+- **Role**: Lich, Former Archwizard Adventurer
+- **Affiliation:** None
+
+### Background
 - Effree was a wizard, and part of an adventuring party with Blackhorn the Barbarian and Geelayne the Cleric
 - As they grew in power, Effree became secretive of his purposes and began to frequently consort with his patron, Myrkul the Lord of Bones
 - Geelayne was killed on one of their adventures and rather than "wasting" the Scroll of Resurrection, Effree opted to use necromantic magic he had just learned to bring her back.
@@ -43,4 +64,19 @@ Note found on Dr. Drendle's desk at the Aldwood Lighthouse.
 
 **_Kind regards,_**  
 
-**_Master_**
+**_Master
+
+### Relationships
+
+| Name  | Relationship |
+| ----- | ------------ |
+
+### Attributes
+- **Voice**:
+- **Traits**:  
+- **Ideals:**
+- **Eyes / Hair**:  
+
+### Goals
+- **Short-term**:  
+- **Long-term**:  
