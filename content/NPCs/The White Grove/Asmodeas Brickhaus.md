@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-18T12:08:23.000-04:00","modified":"2025-07-18T12:23:52.619-04:00","published":"2025-07-18T12:23:52.619-04:00","cssclasses":"","Age":"19","Ancestry":"Tiefling","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"]}
+{"publish":true,"created":"2025-07-18T12:08:23.000-04:00","modified":"2025-07-18T12:28:08.833-04:00","published":"2025-07-18T12:28:08.833-04:00","cssclasses":"","Age":"19","Ancestry":"Tiefling","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"]}
 ---
 
 ![[Selerim Wiki/z_assets/asmodeas_brickhaus.png|300]]
@@ -16,13 +16,13 @@ A jock freshman sorcerer who is very adept at harnessing his ancestry to use inf
 
 ### Background
 - He has an on again off again girlfriend named Stephenie, who also happens to be a drow from Vlorngroth.
+- He asked fellow student [[Tony Gorgonzoli]] to get some some alcohol during a study session, and in exchange he would teach Tony how to conjure a flaming sword. Things got heated and Tony color sprayed him in front of everyone in the library, a very alpha move.
 
 ### Relationships
 
 | Name                     | Relationship |
 | ------------------------ | ------------ |
 | [[NPCs/The White Grove/Stephenie Stalacnicz]] | Girlfriend   |
-
 
 ### Attributes
 - **Voice**: Surfer jock
