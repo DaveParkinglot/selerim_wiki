@@ -11,7 +11,8 @@ Affiliation:
 ---
 
 ![[ray_stilts.webp]]
-### Summary
+
+### Overview
 No summary available.
 
 ### Key Details
@@ -22,20 +23,13 @@ No summary available.
 - **Role**: Entrepreneur, Former Patron of The High Rollers
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

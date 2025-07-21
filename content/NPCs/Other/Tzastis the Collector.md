@@ -1,3 +1,13 @@
+### Overview
+
+
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
+
+
 - Archfey who collects mortals as trophies
 - They wants to preserve the history of notable people, places, and events
 - They has a preference for "collecting" notable mortals, but some say he has entire towns on display in his Fathomless Vault, frozen in place

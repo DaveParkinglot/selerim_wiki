@@ -1,10 +1,22 @@
 ---
-{"publish":true,"created":"2025-07-18T11:45:15.000-04:00","modified":"2025-07-18T12:24:25.000-04:00","cssclasses":""}
+Age: "14"
+Ancestry: Human
+Gender: Male
+Location:
+  - "[[Locations/The White Grove]]"
+Role:
+  - Student
+  - Freshman
+Affiliation:
+  - None
 ---
 
 ![[z_assets/vowel_noosins.png|300]]
-### Summary
+
+### Overview
 A selectively mute student studying at The White Grove.
+
+- Stole Temur Octagon's notes for The Earl.
 
 ### Key Details
 - **Age**: 14
@@ -14,8 +26,11 @@ A selectively mute student studying at The White Grove.
 - **Role**: Student,Freshman
 - **Affiliation:** None
 
-### Background
-- Stole Temur Octagon's notes for The Earl.
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
@@ -26,14 +41,4 @@ A selectively mute student studying at The White Grove.
 | [[NPCs/The White Grove/Stibby Flimstock]]      | Study buddy          |
 | [[NPCs/The White Grove/Curtottix Dragopolese]] | Study buddy          |
 
-### Attributes
-- **Voice**: 
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  
-
-
+![[z_assets/vowel_noosins.png|300]]

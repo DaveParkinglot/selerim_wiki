@@ -1,10 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-09T13:42:15.000-04:00","modified":"2025-07-09T13:44:30.000-04:00","cssclasses":""}
+Age: "??"
+Ancestry: Dwarf
+Gender: Male
+Location:
+  - Scrimshaw City, Varies
+Role:
+  - Bard, Bandmember (Drummer)
+Affiliation:
+  - None
 ---
 
-
 ![[blostin_lord_of_the_sticks.webp]]
-### Summary
+
+### Overview
 No summary available.
 
 ### Key Details
@@ -15,20 +23,13 @@ No summary available.
 - **Role**: Bard, Bandmember (Drummer)
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

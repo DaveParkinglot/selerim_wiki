@@ -1,10 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:14.000-04:00","modified":"2025-07-09T13:52:33.000-04:00","cssclasses":""}
+Age: "??"
+Ancestry: Tabaxi
+Gender: Male
+Location:
+  - Edge of The Forsaken Expanse
+Role:
+  - Ferryman
+Affiliation:
+  - None
 ---
 
-
 ![[jom_dee_the_desert_ferryman.webp]]
-### Summary
+
+### Overview
 No summary available.
 
 ### Key Details
@@ -15,20 +23,13 @@ No summary available.
 - **Role**: Ferryman
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

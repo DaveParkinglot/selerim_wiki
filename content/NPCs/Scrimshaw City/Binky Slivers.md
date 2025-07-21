@@ -1,10 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-09T13:42:15.000-04:00","modified":"2025-07-09T13:44:31.000-04:00","cssclasses":""}
+Age: "??"
+Ancestry: Fiend (Devil)
+Gender: Male
+Location:
+  - Scrimshaw City
+Role:
+  - Bartender and dealer
+Affiliation:
+  - None
 ---
 
-
 ![[binky_slivers.webp]]
-### Summary
+
+### Overview
 No summary available.
 
 ### Key Details
@@ -15,20 +23,13 @@ No summary available.
 - **Role**: Bartender and dealer
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

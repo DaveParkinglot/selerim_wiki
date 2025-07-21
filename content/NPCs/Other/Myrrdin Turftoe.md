@@ -1,10 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:14.000-04:00","modified":"2025-07-09T14:02:26.000-04:00","cssclasses":""}
+Age: "286"
+Ancestry: Halfling
+Gender: Male
+Location:
+  - The Wild Thicket
+Role:
+  - Archdruid, Mentor
+Affiliation:
+  - None
 ---
 
-
 ![[myrrdin_turftoe.webp]]
-### Summary
+
+### Overview
 - He is the druid that rescued Frankie from being attacked by minions of Tzastis the Collector.
 - He also then trained Frankie in druidcraft.
 - As an old mentor he likes to test or quiz Frankie on his druidic knowledge.
@@ -18,20 +26,13 @@
 - **Role**: Archdruid, Mentor
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

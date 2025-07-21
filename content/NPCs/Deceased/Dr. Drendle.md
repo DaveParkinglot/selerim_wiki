@@ -1,10 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:13.000-04:00","modified":"2025-07-09T13:56:02.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:43.222-04:00","modified":"2025-07-21T11:32:22.920-04:00","published":"2025-07-21T11:32:22.920-04:00","cssclasses":"","Age":"??","Ancestry":"Undead Human","Gender":"Male","Location":["Dead"],"Role":["Necromancer"],"Affiliation":["None"]}
 ---
 
 
 ![[dr_drendle_rip_.webp]]
-### Summary
+
+### Overview
 No summary available.
 
 ### Key Details
@@ -15,20 +16,13 @@ No summary available.
 - **Role**: Necromancer
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

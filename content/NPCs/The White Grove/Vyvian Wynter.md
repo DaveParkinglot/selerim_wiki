@@ -1,10 +1,22 @@
 ---
-{"publish":true,"created":"2025-07-18T11:47:25.000-04:00","modified":"2025-07-18T12:24:39.000-04:00","cssclasses":""}
+Age: "16"
+Ancestry: Human
+Gender: Female
+Location:
+  - "[[Locations/The White Grove]]"
+Role:
+  - Student
+  - Freshman
+Affiliation:
+  - None
 ---
 
 ![[z_assets/vyvian_wynter.png|300]]
-### Summary
+
+### Overview
 A friendly/bossy girl studying at The White Grove.
+
+- Tries to protect [[NPCs/The White Grove/Vowel Noosins]] from those who would take advantage of his meek will.
 
 ### Key Details
 - **Age**: 16
@@ -14,9 +26,11 @@ A friendly/bossy girl studying at The White Grove.
 - **Role**: Student,Freshman
 - **Affiliation:** None
 
-### Background
-- Tries to protect [[NPCs/The White Grove/Vowel Noosins]] from those who would take advantage of his meek will.
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
@@ -26,14 +40,4 @@ A friendly/bossy girl studying at The White Grove.
 | [[NPCs/The White Grove/Stibby Flimstock]]      | Study buddy            |
 | [[NPCs/The White Grove/Curtottix Dragopolese]] | Study buddy            |
 
-### Attributes
-- **Voice**: Vaguely Australian
-- **Traits**:  
-- **Ideals:** Studying makes you a good person
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:
-- **Long-term**: Study hard and become a great wizard
-
-
+![[z_assets/vyvian_wynter.png|300]]

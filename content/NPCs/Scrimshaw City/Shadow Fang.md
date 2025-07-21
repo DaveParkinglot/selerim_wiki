@@ -11,7 +11,8 @@ Affiliation:
 ---
 
 ![[shadow_fang.webp]]
-### Summary
+
+### Overview
 No summary available.
 
 ### Key Details
@@ -22,20 +23,13 @@ No summary available.
 - **Role**: Bounty Hunter
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

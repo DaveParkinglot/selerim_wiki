@@ -1,10 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:14.000-04:00","modified":"2025-07-09T13:52:21.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:45.740-04:00","modified":"2025-07-21T11:32:44.317-04:00","published":"2025-07-21T11:32:44.317-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Blacksmith"],"Affiliation":["None"]}
 ---
 
 
 ![[jack_black_jack_smith.webp]]
-### Summary
+
+### Overview
 - His friends call him Jack "Don't call me 'Black Jack'" Black Jack Smith
 - Owner of the blacksmith shop Steel Yourself.
 - Once had his own party montage with The High Rollers.
@@ -18,20 +19,13 @@
 - **Role**: Blacksmith
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

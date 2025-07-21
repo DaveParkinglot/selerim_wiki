@@ -1,10 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-09T13:42:15.000-04:00","modified":"2025-07-09T13:47:23.000-04:00","cssclasses":""}
+Age: ??
+Ancestry: Half-Orc
+Gender: Male
+Location:
+  - Scrimshaw City
+Role:
+  - Pawn Shop Owner
+Affiliation:
+  - None
 ---
 
-
 ![[arno_rickshir.webp]]
-### Summary
+
+### Overview
 - Owner of Boldriver Pawn Shop, the best place to buy and trade magic items in Scrimshaw City
 - Sometimes travels around in his Pocket Pawn Shop, a version of his pawn shop that fits inside of a wagon
 - Inseparable from his best friend, the sentient bag of holding named Deep Tote
@@ -18,20 +26,13 @@
 - **Role**: Pawn Shop Owner
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

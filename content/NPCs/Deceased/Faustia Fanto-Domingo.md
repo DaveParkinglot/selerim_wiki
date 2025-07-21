@@ -1,10 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:14.000-04:00","modified":"2025-07-09T13:55:55.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:43.230-04:00","modified":"2025-07-21T11:32:25.192-04:00","published":"2025-07-21T11:32:25.192-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Female","Location":["Nova Jersaeria"],"Role":["Court Witch"],"Affiliation":["None"]}
 ---
 
 
 ![[faustia_fanto_domingo_rip_.webp]]
-### Summary
+
+### Overview
 - Cunning enchanter wizard, and matriarch of the Fanto-Domingo family.
 - She orchestrated the Midsummer Massacre that wiped out the Espositos.
 - She was in league with the tyrant Lord Draco Landucci, and sought to rule all of Tiialia through the puppet king Antonio Adonzio.
@@ -18,20 +19,13 @@
 - **Role**: Court Witch
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

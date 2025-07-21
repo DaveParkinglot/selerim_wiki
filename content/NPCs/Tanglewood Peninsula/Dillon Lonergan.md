@@ -1,10 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:13.000-04:00","modified":"2025-07-09T14:00:26.000-04:00","cssclasses":""}
+Age: "??"
+Ancestry: Kobold
+Gender: Male
+Location:
+  - Crabbley
+Role:
+  - Master Inventor
+Affiliation:
+  - None
 ---
 
-
 ![[dillon_lonergan_master_inventor.webp]]
-### Summary
+
+### Overview
 No summary available.
 
 ### Key Details
@@ -15,20 +23,13 @@ No summary available.
 - **Role**: Master Inventor
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

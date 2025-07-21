@@ -1,10 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:14.000-04:00","modified":"2025-07-09T13:58:52.000-04:00","cssclasses":""}
+Age: "??"
+Ancestry: Half-Elf
+Gender: Male
+Location:
+  - Oasis
+Role:
+  - Wagon Dealer, Maniacal Businessman
+Affiliation:
+  - None
 ---
 
-
 ![[trilbee_rampo.webp]]
-### Summary
+
+### Overview
 - Owner of Rampo Wagons after his hostile takeover of Werner Wagons. They really don't make em like they used to.
 - Trilbee's son Willy was killed by The High Rollers after he participated in a plot to take over the Tanglewood Peninsula.
 - Trilbee was taken as a prisoner by The High Rollers after they mounted an assault on Lord Draco Landucci's sand yacht, which was polluting Oasis and the surrounding area.
@@ -18,20 +26,13 @@
 - **Role**: Wagon Dealer, Maniacal Businessman
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

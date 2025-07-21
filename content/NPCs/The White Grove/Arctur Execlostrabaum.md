@@ -1,10 +1,21 @@
 ---
-{"publish":true,"created":"2025-07-18T11:19:21.000-04:00","modified":"2025-07-18T11:44:44.000-04:00","cssclasses":""}
+Age: "214"
+Ancestry: Dwarf
+Gender: M
+Location:
+  - "[[Locations/The White Grove]]"
+Role:
+  - Headmaster
+Affiliation:
+  - "[[Locations/The Kingdom of Tiialia/Nova Jersaeria]]"
 ---
 
 ![[z_assets/arctur_execlostrabaum.png|300]]
-### Summary
+
+### Overview
 Headmaster of [[Locations/The White Grove]] with disturbingly liberal magical philosophies.
+
+- He is a nephew of [[NPCs/Deceased/Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
 
 ### Key Details
 - **Age**: 214
@@ -14,8 +25,11 @@ Headmaster of [[Locations/The White Grove]] with disturbingly liberal magical ph
 - **Role**: Headmaster
 - **Affiliation:** [[Locations/The Kingdom of Tiialia/Nova Jersaeria\|Nova Jersaeria]]
 
-### Background
-- He is a nephew of [[NPCs/Deceased/Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
@@ -23,15 +37,4 @@ Headmaster of [[Locations/The White Grove]] with disturbingly liberal magical ph
 | ---- | ------------ |
 |      |              |
 
-
-### Attributes
-- **Voice**: Old, wizened
-- **Traits**:  
-- **Ideals:** Magic should be shared with all peoples
-- **Eyes / Hair**:  Gray eyes, white hair
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  Teach magic and magic philosophies to all the peoples of the world
-
-
+![[z_assets/arctur_execlostrabaum.png|300]]

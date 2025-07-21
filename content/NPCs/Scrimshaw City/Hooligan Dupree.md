@@ -1,10 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:14.000-04:00","modified":"2025-07-09T13:50:36.000-04:00","cssclasses":""}
+Age: "??"
+Ancestry: Satyr
+Gender: Male
+Location:
+  - Scrimshaw City
+Role:
+  - Failed Adventurer, Bartender, Salt Spitter
+Affiliation:
+  - None
 ---
 
-
 ![[hooligan_dupree.webp]]
-### Summary
+
+### Overview
 - One of Eros' friends from before he joined The High Rollers.
 - Tired of being a lazy bum with too much time to party, Hooligan tried to become an adventurer.
 - This led him to join Tavernstool, and he couldn't handle the amount of hazing. He was fortunately saved by The High Rollers.
@@ -18,20 +26,13 @@
 - **Role**: Failed Adventurer, Bartender, Salt Spitter
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

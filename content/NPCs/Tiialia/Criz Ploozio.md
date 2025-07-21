@@ -1,10 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:13.000-04:00","modified":"2025-07-09T14:03:45.000-04:00","cssclasses":""}
+Age: "??"
+Ancestry: Kobold
+Gender: Male
+Location:
+  - Nova Jersaeria Sewers
+Role:
+  - Shopkeeper
+Affiliation:
+  - None
 ---
 
-
 ![[criz_ploozio.webp]]
-### Summary
+
+### Overview
 No summary available.
 
 ### Key Details
@@ -15,21 +23,14 @@ No summary available.
 - **Role**: Shopkeeper
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name              | Relationship |
 | ----------------- | ------------ |
 | [[NPCs/Tiialia/Riggle Fragoo]] | Competitor   |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

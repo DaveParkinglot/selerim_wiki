@@ -1,10 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:14.000-04:00","modified":"2025-07-09T13:52:42.000-04:00","cssclasses":""}
+Age: "??"
+Ancestry: Human
+Gender: Male
+Location:
+  - Nova Jersaeria
+Role:
+  - Tyrant Lord
+Affiliation:
+  - None
 ---
 
-
 ![[lord_draco_landucci_rip_.webp]]
-### Summary
+
+### Overview
 - Tiialan Lord, Landucci Family patriarch, and the High Commander of the Legions of Tiialia. Former sand yacht owner.
 - He sought to rule all of Tiialia through the puppet king Antonio Adonzio.
 - He was killed by The High Rollers in the Nova Jersaeria throne room, along with Faustia Fanto-Domingo and his burly twin sons Lorus and Korus.
@@ -17,20 +25,13 @@
 - **Role**: Tyrant Lord
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

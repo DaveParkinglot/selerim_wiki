@@ -1,10 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-09T13:45:13.000-04:00","modified":"2025-07-18T12:14:07.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:43.211-04:00","modified":"2025-07-21T11:32:17.049-04:00","published":"2025-07-21T11:32:17.049-04:00","cssclasses":"","Age":"66","Ancestry":"Human","Gender":"Male","Location":["Breakwater Cove"],"Role":["Bartender, Retired Captain"],"Affiliation":["None"]}
 ---
 
 
 ![[captain_winchester_bone.webp]]
-### Summary
+
+### Overview
 No summary available.
 
 ### Key Details
@@ -15,20 +16,13 @@ No summary available.
 - **Role**: Bartender, Retired Captain
 - **Affiliation:** None
 
-### Background
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
-
-### Attributes
-- **Voice**:
-- **Traits**:  
-- **Ideals:**
-- **Eyes / Hair**:  
-
-### Goals
-- **Short-term**:  
-- **Long-term**:  

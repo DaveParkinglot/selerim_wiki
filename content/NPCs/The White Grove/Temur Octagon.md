@@ -1,10 +1,22 @@
 ---
-{"publish":true,"created":"2025-07-18T12:03:21.000-04:00","modified":"2025-07-18T12:24:34.000-04:00","cssclasses":""}
+Age: "22"
+Ancestry: Human
+Gender: Male
+Location:
+  - "[[Locations/The White Grove]]"
+Role:
+  - Student
+  - Morganth Cultist
+Affiliation:
+  - "[[D&D/One Shots/Morganth's LEGION OF DOOM]]"
 ---
 
 ![[z_assets/temur_octagon.png|300]]
-### Summary
-A pompous student who, as it turns out, was only infiltrating The White Grove to further the interests of [[Morganth's Legion of Doom]].
+
+### Overview
+A pompous student who, as it turns out, was only infiltrating The White Grove to further the interests of [[D&D/One Shots/Morganth's LEGION OF DOOM]].
+
+- Temur was posing as a student at The White Grove, but he actually was only there to sabotage the school and steal information on [[NPCs/Other/Tzastis the Collector]] from the library.
 
 ### Key Details
 - **Age**: 22
@@ -12,11 +24,13 @@ A pompous student who, as it turns out, was only infiltrating The White Grove to
 - **Gender**: Male
 - **Location**: [[Locations/The White Grove\|The White Grove]]
 - **Role**: Student,Morganth Cultist
-- **Affiliation:** [[Morganth's Legion of Doom\|Morganth's Legion of Doom]]
+- **Affiliation:** [[D&D/One Shots/Morganth's LEGION OF DOOM\|Morganth's LEGION OF DOOM]]
 
-### Background
-- Temur was posing as a student at The White Grove, but he actually was only there to sabotage the school and steal information on [[NPCs/Other/Tzastis the Collector]] from the library.
-
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
 
 ### Relationships
 
@@ -24,14 +38,4 @@ A pompous student who, as it turns out, was only infiltrating The White Grove to
 | ---- | ------------ |
 |      |              |
 
-### Attributes
-- **Voice**: Pompous douchebag jock
-- **Traits**: 
-- **Ideals:** Step on anyone beneath you to climb the ladder of success
-- **Appearance**:
-
-### Goals
-- **Short-term**: Work with Morganth to further his own ends
-- **Long-term**: Go into arcane investment banking
-
-
+![[z_assets/temur_octagon.png|300]]
