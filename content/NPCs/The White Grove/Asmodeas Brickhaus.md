@@ -1,15 +1,7 @@
 ---
-Age: "19"
-Ancestry: Tiefling
-Gender: Male
-Location:
-  - "[[Locations/The White Grove]]"
-Role:
-  - Student
-  - Freshman
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:45.295-04:00","modified":"2025-07-21T16:26:27.721-04:00","published":"2025-07-21T16:26:27.721-04:00","cssclasses":"","Age":"19","Ancestry":"Tiefling","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"]}
 ---
+
 
 ![[z_assets/asmodeas_brickhaus.png|300]]
 
@@ -39,4 +31,3 @@ A jock freshman sorcerer who is very adept at harnessing his ancestry to use inf
 | ------------------------ | ------------ |
 | [[NPCs/The White Grove/Stephenie Stalacnicz]] | Girlfriend   |
 
-![[z_assets/asmodeas_brickhaus.png|300]]

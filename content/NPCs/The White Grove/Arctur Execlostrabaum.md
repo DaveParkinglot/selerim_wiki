@@ -1,19 +1,12 @@
 ---
-Age: "214"
-Ancestry: Dwarf
-Gender: M
-Location:
-  - "[[Locations/The White Grove]]"
-Role:
-  - Headmaster
-Affiliation:
-  - "[[Locations/The Kingdom of Tiialia/Nova Jersaeria]]"
+{"publish":true,"created":"2025-07-21T11:30:45.269-04:00","modified":"2025-07-21T16:26:03.635-04:00","published":"2025-07-21T16:26:03.635-04:00","cssclasses":"","Age":"214","Ancestry":"Dwarf","Gender":"M","Location":["[[Locations/The White Grove]]"],"Role":["Headmaster"],"Affiliation":["[[Nova Jersaeria]]"]}
 ---
+
 
 ![[z_assets/arctur_execlostrabaum.png|300]]
 
 ### Overview
-Headmaster of [[Locations/The White Grove]] with disturbingly liberal magical philosophies.
+Headmaster of [[The White Grove]] with disturbingly liberal magical philosophies.
 
 - He is a nephew of [[NPCs/Deceased/Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
 
@@ -29,7 +22,7 @@ Headmaster of [[Locations/The White Grove]] with disturbingly liberal magical ph
 - **Voice**: 
 - **Traits**: 
 - **Ideals:** 
-- **Appearance**:
+- **Appearance**: 
 
 ### Relationships
 
@@ -37,4 +30,3 @@ Headmaster of [[Locations/The White Grove]] with disturbingly liberal magical ph
 | ---- | ------------ |
 |      |              |
 
-![[z_assets/arctur_execlostrabaum.png|300]]
