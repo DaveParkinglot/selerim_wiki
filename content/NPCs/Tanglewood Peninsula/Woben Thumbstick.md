@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Goblin
-Gender: Male
-Location:
-  - Crabbley
-Role:
-  - Adventurer, Rogue
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:38:13.000-04:00","cssclasses":""}
 ---
+
 
 ![[woben_thumbstick.webp]]
 

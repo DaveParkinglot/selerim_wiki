@@ -1,13 +1,14 @@
 ---
-Age: "??"
+Age: ??
 Ancestry: Human
 Gender: Male
 Location:
-  - Crillville
+- Crillville
 Role:
-  - War Cleric
+- War Cleric
 Affiliation:
-  - None
+- None
+Appearances: []
 ---
 
 ![[dimroy.webp]]

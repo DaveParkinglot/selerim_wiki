@@ -1,35 +1,28 @@
 ---
-Age: "??"
-Ancestry: Dwarf
-Gender: Male
-Location:
-  - Scrimshaw City
-Role:
-  - Bodyguard
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T12:38:13.000-04:00","cssclasses":""}
 ---
 
-![[choncho_stonetooth.webp]]
+
+![[z_assets/Pasted image 20250725123156.png|300]]
 
 ### Overview
-No summary available.
-
+ The steadfast bodyguard of [[NPCs/Scrimshaw City/Garm Deepmine]], he has unswerving loyalty to the Deepmines and their company [[Deepmine Delvings]].
 ### Key Details
-- **Age**: ??
+- **Age**: 76
 - **Ancestry**: Dwarf
 - **Gender**: Male
 - **Location**: Scrimshaw City
 - **Role**: Bodyguard
-- **Affiliation:** None
+- **Affiliation:** Deepmine Delvings
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Grizzled and gruff
 - **Traits**: 
 - **Ideals:** 
-- **Appearance**:
+- **Appearance**: 
 
 ### Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name              | Relationship |
+| ----------------- | ------------ |
+| [[NPCs/Scrimshaw City/Garm Deepmine]] | Employer     |

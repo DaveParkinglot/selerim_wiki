@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Half-Orc
-Gender: Female
-Location:
-  - Scrimshaw City
-Role:
-  - Sellsword
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:33:52.000-04:00","cssclasses":""}
 ---
+
 
 ![[zagga_darling_darlington.webp]]
 

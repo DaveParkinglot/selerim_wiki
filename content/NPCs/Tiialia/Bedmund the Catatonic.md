@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.627-04:00","modified":"2025-07-21T11:32:40.524-04:00","published":"2025-07-21T11:32:40.524-04:00","cssclasses":"","Age":"??","Ancestry":"Deep Gnome","Gender":"Male","Location":["The High Roller's Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:39:18.000-04:00","cssclasses":""}
 ---
 
 

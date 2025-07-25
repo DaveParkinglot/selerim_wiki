@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Drow
-Gender: Male
-Location:
-  - Scrimshaw City
-Role:
-  - Investigative Journalist
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:33:37.000-04:00","cssclasses":""}
 ---
+
 
 ![[malthusius_inkwell.webp]]
 

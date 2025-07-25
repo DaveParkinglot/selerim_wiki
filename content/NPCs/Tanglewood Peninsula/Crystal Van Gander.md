@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Human
-Gender: Female
-Location:
-  - Crabbley
-Role:
-  - Hedge Warlock
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:35:59.000-04:00","cssclasses":""}
 ---
+
 
 ![[crystal_van_gander.webp]]
 

@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Half-Giant
-Gender: Female
-Location:
-  - Nova Jersaeria
-Role:
-  - Druid
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:39:48.000-04:00","cssclasses":""}
 ---
+
 
 ![[maple_summer.webp]]
 

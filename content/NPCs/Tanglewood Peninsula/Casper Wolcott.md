@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Dwarf
-Gender: Male
-Location:
-  - Crabbley
-Role:
-  - Blacksmith
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:35:51.000-04:00","cssclasses":""}
 ---
+
 
 ![[casper_wolcott.webp]]
 

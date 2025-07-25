@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Undead Human
-Gender: Male
-Location:
-  - Tiialia
-Role:
-  - Plaguemaster, lawyer
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T11:48:06.000-04:00","cssclasses":""}
 ---
+
 
 ![[plaguemaster_drendle_rip_.webp]]
 

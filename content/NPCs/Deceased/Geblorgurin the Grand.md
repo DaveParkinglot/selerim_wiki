@@ -1,14 +1,7 @@
 ---
-Age: Deceased
-Ancestry: Dwarf
-Gender: Male
-Location:
-  - Dead
-Role:
-  - King of the Dwarves
-Affiliation:
-  - "[[Locations/The Kingdom of Tiialia/Nova Jersaeria]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T11:47:48.000-04:00","cssclasses":""}
 ---
+
 
 ![[garm_deepmine.webp]]
 
@@ -18,12 +11,12 @@ Once the king of a nearly forgotten dwarvish empire (dead for ~250 years), Geblo
 -
 	- It is said that these monuments contain great artifacts of power, but the monuments are said to test those who enter them. Only the worthy may wield the artifacts Geblorgurin left behind.
 	- Dwarves (especially those of Geblorgurin's time) are fiercely protective of their belongings in life, but in death they desire nothing more than to have their belongings used by worthy individuals
-- Geblorgurin was the first wielder of [[D&D/DM Notes/The Gem of Eyes\|gem of eyes]]
+- Geblorgurin was the first wielder of [[Jordan's Notes/DM Notes/The Gem of Eyes\|gem of eyes]]
 	- From the shell of a Marut that fell from sky, Geblorgurin pried the gem.
 	- The dead Marut's shell, Geblorgurin used to forge his armor.
 -
 Notes from [[Player Characters/The High Rollers/Clint Weapon\|Clint Weapon's]] hour long meeting in Mitlin with Melvin the elvish wizard.
-  [[D&D/DM Notes/The Gem of Eyes\|Gem of Eyes]]
+  [[Jordan's Notes/DM Notes/The Gem of Eyes\|Gem of Eyes]]
 - The gem was originally found in the crater of a fallen star by Geblorgurin himself
 - He used it to great effect in the never ending fight against incursions from the Vlorn
 - Clint would know that the Vlorn Dynasty is a faction in the Underdark led by the drow (dark elves)

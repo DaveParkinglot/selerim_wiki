@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.379-04:00","modified":"2025-07-21T16:26:42.185-04:00","published":"2025-07-21T16:26:42.185-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Professor of Infernal Magicks"],"Affiliation":["None"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:38:34.000-04:00","cssclasses":""}
 ---
 
 

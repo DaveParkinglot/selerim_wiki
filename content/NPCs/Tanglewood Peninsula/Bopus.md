@@ -1,14 +1,7 @@
 ---
-Age: "64"
-Ancestry: Gnome
-Gender: Male
-Location:
-  - The Cronium Caves, Crabbley
-Role:
-  - Gnome Diplomat
-Affiliation:
-  - Cronium Gnomes
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:35:09.000-04:00","cssclasses":""}
 ---
+
 
 ![[z_assets/bopus.webp]]
 

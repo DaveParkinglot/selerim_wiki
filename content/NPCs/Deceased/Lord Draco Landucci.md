@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Human
-Gender: Male
-Location:
-  - Nova Jersaeria
-Role:
-  - Tyrant Lord
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T11:48:02.000-04:00","cssclasses":""}
 ---
+
 
 ![[lord_draco_landucci_rip_.webp]]
 

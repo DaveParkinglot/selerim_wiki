@@ -1,14 +1,7 @@
 ---
-Age: "42"
-Ancestry: Half-Elf
-Gender: Male
-Location:
-  - Crabbley
-Role:
-  - Shopkeeper
-Affiliation:
-  - "[[Crabbley Council]]"
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:35:26.000-04:00","cssclasses":""}
 ---
+
 
 ![[z_assets/brahaxian_bastifor.png]]
 

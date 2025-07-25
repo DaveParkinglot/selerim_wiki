@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Welcome to Selerim","created":"2025-07-02T19:01:27.000-04:00","modified":"2025-07-05T08:48:08.557-04:00","published":"2025-07-05T08:48:08.557-04:00","cssclasses":""}
+{"publish":true,"title":"Welcome to Selerim","created":"2025-07-02T19:01:27.000-04:00","modified":"2025-07-05T08:48:08.000-04:00","cssclasses":""}
 ---
 
 Summaries:

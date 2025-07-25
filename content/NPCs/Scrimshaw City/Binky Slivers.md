@@ -1,27 +1,20 @@
 ---
-Age: "??"
-Ancestry: Fiend (Devil)
-Gender: Male
-Location:
-  - Scrimshaw City
-Role:
-  - Bartender and dealer
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T12:27:54.000-04:00","cssclasses":""}
 ---
 
-![[binky_slivers.webp]]
+
+![[z_assets/binky_slivers.png|300]]
 
 ### Overview
 No summary available.
 
 ### Key Details
-- **Age**: ??
-- **Ancestry**: Fiend (Devil)
+- **Age**: 267
+- **Ancestry**: Rakshasa
 - **Gender**: Male
 - **Location**: Scrimshaw City
-- **Role**: Bartender and dealer
-- **Affiliation:** None
+- **Role**: Bartender,Dealer,Fixer
+- **Affiliation:** Tavernstool
 
 ### Attributes
 - **Voice**: 
@@ -31,5 +24,6 @@ No summary available.
 
 ### Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name          | Relationship |
+| ------------- | ------------ |
+| [[NPCs/Scrimshaw City/Hugh Mann]] | Boss         |

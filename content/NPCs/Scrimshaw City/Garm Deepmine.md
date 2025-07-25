@@ -1,35 +1,29 @@
 ---
-Age: "??"
-Ancestry: Dwarf
-Gender: Male
-Location:
-  - Scrimshaw City
-Role:
-  - Mob Boss
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T12:38:06.000-04:00","cssclasses":""}
 ---
 
-![[garm_deepmine.webp]]
+
+![[z_assets/Pasted image 20250725123643.png|300]]
 
 ### Overview
-No summary available.
+Legitimate businessman and patriarch of the Deepmine family. Often accompanied by his loyal bodyguard [[NPCs/Scrimshaw City/Choncho Stonetooth]].
 
 ### Key Details
-- **Age**: ??
+- **Age**: 97
 - **Ancestry**: Dwarf
 - **Gender**: Male
 - **Location**: Scrimshaw City
-- **Role**: Mob Boss
-- **Affiliation:** None
+- **Role**: Company Head
+- **Affiliation:** Deepmine Delvings
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Some kind of mob boss
 - **Traits**: 
 - **Ideals:** 
-- **Appearance**:
+- **Appearance**: 
 
 ### Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                   | Relationship |
+| ---------------------- | ------------ |
+| [[NPCs/Scrimshaw City/Choncho Stonetooth]] | Bodyguard    |

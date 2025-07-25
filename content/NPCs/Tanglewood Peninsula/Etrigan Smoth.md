@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Human
-Gender: Male
-Location:
-  - Crabbley
-Role:
-  - Scribe
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:36:47.000-04:00","cssclasses":""}
 ---
+
 
 ![[etrigan_smoth.webp]]
 

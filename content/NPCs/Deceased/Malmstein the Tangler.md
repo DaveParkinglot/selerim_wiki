@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Elf
-Gender: Male
-Location:
-  - Tanglewood Peninsula
-Role:
-  - Eco-Terrorist, Druid
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T11:48:03.000-04:00","cssclasses":""}
 ---
+
 
 ![[malmstein_the_tangler_rip_.webp]]
 

@@ -1,14 +1,7 @@
 ---
-Age: ??
-Ancestry: Dwarf
-Gender: Male
-Location:
-  - Scrimshaw City
-Role:
-  - Former Gladiator Trainer
-Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers]]"
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:33:50.000-04:00","cssclasses":""}
 ---
+
 
 ![[usus_sussy_grimsby.webp]]
 

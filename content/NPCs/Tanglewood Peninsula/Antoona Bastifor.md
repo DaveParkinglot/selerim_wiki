@@ -1,14 +1,7 @@
 ---
-Age: "43"
-Ancestry: Elf
-Gender: Female
-Location:
-  - Crabbley
-Role:
-  - Mayor
-Affiliation:
-  - "[[Crabbley Council]]"
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:34:13.000-04:00","cssclasses":""}
 ---
+
 
 ![[z_assets/antoona_bastifor.png]]
 

@@ -1,14 +1,7 @@
 ---
-Age: "??"
-Ancestry: Human
-Gender: Male
-Location:
-  - The Jyfstein Isles
-Role:
-  - Lich, Former Archwizard Adventurer
-Affiliation:
-  - None
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T11:48:05.000-04:00","cssclasses":""}
 ---
+
 
 ![[master_effree_jypstein_rip_.webp]]
 
@@ -24,7 +17,7 @@ Affiliation:
 - Geelayne was killed on one of their adventures and rather than "wasting" the Scroll of Resurrection, Effree opted to use necromantic magic he had just learned to bring her back.
 	- Geelayne became a shade of herself for months, and Effree and Blackhorn became estranged.
 	- Geelayne eventually regained a fraction of her former power and struck out with rangers from Mitlin to end the threat that Effree posed to the world, but she failed and was once again resurrected by Effree, this time as a banshee
-- Since their party disbanded, Effree became a noble in Scrimshaw for some time, where he procured the [[D&D/DM Notes/The Gem of Eyes\|Gem of Eyes]] from Garm Deepmine.
+- Since their party disbanded, Effree became a noble in Scrimshaw for some time, where he procured the [[Jordan's Notes/DM Notes/The Gem of Eyes\|Gem of Eyes]] from Garm Deepmine.
 	- After this, he became reclusive, eventually moving to his family's ancestral islands.
 	-  Since then, he has been collecting other powerful magical artifacts left behind by Geblorgurin such as the Ioun Stone and the Manual of Flesh Golems that he carries on his person
 - He believes Clint Weapon will join him in the end because the way he sees it, the remnant of his power in the Gem of Eyes has surely corrupted Clint
