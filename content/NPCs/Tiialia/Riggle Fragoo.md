@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:40:06.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:40:06.000-04:00","published":"2025-07-25T11:40:06.000-04:00","cssclasses":"","Age":"??","Ancestry":"Bullywug","Gender":"Male","Location":["Nova Jersaeria","Nova Jersaeria Sewers"],"Role":["Business man, Magic item purveyor"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
 ---
 
 

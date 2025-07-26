@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:37:06.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:37:06.000-04:00","published":"2025-07-25T11:37:06.000-04:00","cssclasses":"","Age":"??","Ancestry":"Elf","Gender":"Male","Location":["Mitlin"],"Role":["Lead Ranger"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]","[[Kindlethicket - Envoys of Mitlin]]","[[Kindlethicket - The Winter Hunt]]","[[The Marrowsucker Contract]]"]}
 ---
 
 

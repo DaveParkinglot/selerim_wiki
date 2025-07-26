@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:39:38.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:39:38.000-04:00","published":"2025-07-25T11:39:38.000-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Captain"],"Affiliation":["None"],"Appearances":["[[Dunland's Raiders]]"]}
 ---
 
 

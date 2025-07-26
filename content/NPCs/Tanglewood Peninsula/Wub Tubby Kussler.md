@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:38:15.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:38:15.000-04:00","published":"2025-07-25T11:38:15.000-04:00","cssclasses":"","Age":"??","Ancestry":"Hobgoblin","Gender":"Male","Location":["Crabbley"],"Role":["Bouncer"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
 ---
 
 

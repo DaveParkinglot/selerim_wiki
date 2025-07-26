@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T12:06:01.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T12:06:01.000-04:00","published":"2025-07-25T12:06:01.000-04:00","cssclasses":"","Age":"??","Ancestry":"Marut","Gender":"N/A","Location":["Sigil, City of Doors"],"Role":["Unbiased, Unstoppable Machine of Death","Marut of The Primus"],"Affiliation":["The Primus"],"Appearances":["[[-The High Rollers Campaign-]]"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:35:52.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:35:52.000-04:00","published":"2025-07-25T11:35:52.000-04:00","cssclasses":"","Age":"??","Ancestry":"Dragonborn","Gender":"Male","Location":["Crabbley"],"Role":["Adventurer, Bard, Head Chef"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
 ---
 
 

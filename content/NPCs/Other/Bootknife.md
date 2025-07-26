@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T11:31:57.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T11:31:57.000-04:00","published":"2025-07-25T11:31:57.000-04:00","cssclasses":"","Age":"37","Ancestry":"Goblin","Gender":"Male","Location":["Varies"],"Role":["Roguish Fiend, Thief, Part-time Merchant"],"Affiliation":["None"],"Appearances":["[[Adventure Log/Bootknife's Bounty|Bootknife's Bounty]]"]}
 ---
 
 
