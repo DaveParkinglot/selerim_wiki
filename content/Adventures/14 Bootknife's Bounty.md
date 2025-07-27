@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:14:33.907-04:00","published":"2025-07-27T17:14:33.907-04:00","cssclasses":"","DM":"Jordan","Players":["Gorrie","Mike Doom","Ethan","David"],"Platform":"Foundry"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:46:22.255-04:00","published":"2025-07-27T17:46:22.255-04:00","cssclasses":"","DM":"Jordan","Players":["Brian","Mike Doom","Ethan","David"],"Platform":"Foundry"}
 ---
 
 ## Details
@@ -18,7 +18,7 @@
 ## Players & Characters
 | Player              | Character Name              | Race     | Class   |
 | ------------------- | --------------------------- | -------- | ------- |
-| Gorrie | Galath Goatjumper Kalageaku | Goliath  | Paladin |
+| Brian | Galath Goatjumper Kalageaku | Goliath  | Paladin |
 | Mike Doom | Joey Babaganoush            | Human    | Monk    |
 | Ethan | Jaemee Babaganoush          | Human    | Wizard  |
 | David | Talco                       | Tiefling | Bard    |
