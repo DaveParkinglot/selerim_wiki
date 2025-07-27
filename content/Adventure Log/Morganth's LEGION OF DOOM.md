@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-25T10:49:04.000-04:00","published":"2025-07-25T10:49:04.000-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Laura","Mike Doom","Ethan"],"Platform":"Foundry"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-25T10:49:04.533-04:00","published":"2025-07-25T10:49:04.533-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Laura","Mike Doom","Ethan"],"Platform":"Foundry"}
 ---
 
 ## Adventure Premise

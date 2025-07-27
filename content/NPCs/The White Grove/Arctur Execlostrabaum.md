@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:38:23.000-04:00","published":"2025-07-25T11:38:23.000-04:00","cssclasses":"","Age":"214","Ancestry":"Dwarf","Gender":"M","Location":["[[Locations/The White Grove]]"],"Role":["Headmaster"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[The White Grove]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.269-04:00","modified":"2025-07-25T11:38:23.457-04:00","published":"2025-07-25T11:38:23.457-04:00","cssclasses":"","Age":"214","Ancestry":"Dwarf","Gender":"M","Location":["[[Locations/The White Grove]]"],"Role":["Headmaster"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[The White Grove]]"]}
 ---
 
 

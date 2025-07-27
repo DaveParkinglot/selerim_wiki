@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T12:47:13.000-04:00","published":"2025-07-25T12:47:13.000-04:00","cssclasses":"","Age":"35","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City","Crabbley"],"Role":["Chief Accountant, Bracketologist"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventure Log/-The High Rollers Campaign-]]","[[Adventure Log/Arby's Sauce|Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.913-04:00","modified":"2025-07-25T12:47:13.356-04:00","published":"2025-07-25T12:47:13.356-04:00","cssclasses":"","Age":"35","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City","Crabbley"],"Role":["Chief Accountant, Bracketologist"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventure Log/-The High Rollers Campaign-]]","[[Adventure Log/Arby's Sauce|Arby's Sauce]]"]}
 ---
 
 

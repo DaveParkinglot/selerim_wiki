@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:38:32.000-04:00","published":"2025-07-25T11:38:32.000-04:00","cssclasses":"","Age":"7","Ancestry":"Kobold","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["Vlorngroth"],"Appearances":["[[The White Grove]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.350-04:00","modified":"2025-07-25T11:38:32.215-04:00","published":"2025-07-25T11:38:32.215-04:00","cssclasses":"","Age":"7","Ancestry":"Kobold","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["Vlorngroth"],"Appearances":["[[The White Grove]]"]}
 ---
 
 

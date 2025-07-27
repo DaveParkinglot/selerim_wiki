@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T11:19:09.000-04:00","modified":"2025-07-25T11:27:29.000-04:00","published":"2025-07-25T11:27:29.000-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"]}
+{"publish":true,"created":"2025-07-25T11:19:09.450-04:00","modified":"2025-07-25T11:27:29.909-04:00","published":"2025-07-25T11:27:29.909-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"]}
 ---
 
 # Players & Characters

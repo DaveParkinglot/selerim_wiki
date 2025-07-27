@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-25T10:41:15.000-04:00","published":"2025-07-25T10:41:15.000-04:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-25T10:41:15.959-04:00","published":"2025-07-25T10:41:15.959-04:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20"}
 ---
 
 ## Adventure Premise

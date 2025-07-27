@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T11:48:06.000-04:00","published":"2025-07-25T11:48:06.000-04:00","cssclasses":"","Age":"??","Ancestry":"Undead Human","Gender":"Male","Location":["Tiialia"],"Role":["Plaguemaster, lawyer"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.283-04:00","modified":"2025-07-25T11:48:06.638-04:00","published":"2025-07-25T11:48:06.638-04:00","cssclasses":"","Age":"??","Ancestry":"Undead Human","Gender":"Male","Location":["Tiialia"],"Role":["Plaguemaster, lawyer"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
 ---
 
 

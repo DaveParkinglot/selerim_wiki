@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T12:38:06.000-04:00","published":"2025-07-25T12:38:06.000-04:00","cssclasses":"","Age":"97","Ancestry":"Dwarf","Gender":"Male","Location":["Scrimshaw City"],"Role":["Company Head"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.885-04:00","modified":"2025-07-25T12:38:06.034-04:00","published":"2025-07-25T12:38:06.034-04:00","cssclasses":"","Age":"97","Ancestry":"Dwarf","Gender":"Male","Location":["Scrimshaw City"],"Role":["Company Head"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[-The High Rollers Campaign-]]"]}
 ---
 
 

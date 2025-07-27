@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-25T11:33:37.000-04:00","published":"2025-07-25T11:33:37.000-04:00","cssclasses":"","Age":"??","Ancestry":"Drow","Gender":"Male","Location":["Scrimshaw City"],"Role":["Investigative Journalist"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]","[[Adventure Log/Arby's Sauce|Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.065-04:00","modified":"2025-07-25T11:33:37.293-04:00","published":"2025-07-25T11:33:37.293-04:00","cssclasses":"","Age":"??","Ancestry":"Drow","Gender":"Male","Location":["Scrimshaw City"],"Role":["Investigative Journalist"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]","[[Adventure Log/Arby's Sauce|Arby's Sauce]]"]}
 ---
 
 

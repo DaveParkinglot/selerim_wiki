@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:38:59.000-04:00","published":"2025-07-25T11:38:59.000-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["King of Tiialia"],"Affiliation":["[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]","[[The High Rollers]]"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.570-04:00","modified":"2025-07-25T11:38:59.222-04:00","published":"2025-07-25T11:38:59.222-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["King of Tiialia"],"Affiliation":["[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]","[[The High Rollers]]"],"Appearances":["[[-The High Rollers Campaign-]]"]}
 ---
 
 

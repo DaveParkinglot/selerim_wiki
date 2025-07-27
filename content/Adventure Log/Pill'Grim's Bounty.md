@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-25T10:51:51.000-04:00","published":"2025-07-25T10:51:51.000-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Leah","Evan","Alex","Mike Doom"],"Platform":"In person"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-25T10:51:51.871-04:00","published":"2025-07-25T10:51:51.871-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Leah","Evan","Alex","Mike Doom"],"Platform":"In person"}
 ---
 
 ## Adventure Premise

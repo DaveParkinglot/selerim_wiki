@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-25T11:39:42.000-04:00","published":"2025-07-25T11:39:42.000-04:00","cssclasses":"","Age":"??","Ancestry":"Yuan Ti","Gender":"Male","Location":["Nova Jersaeria Sewers"],"Role":["Bodyguard"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.683-04:00","modified":"2025-07-25T11:39:42.018-04:00","published":"2025-07-25T11:39:42.018-04:00","cssclasses":"","Age":"??","Ancestry":"Yuan Ti","Gender":"Male","Location":["Nova Jersaeria Sewers"],"Role":["Bodyguard"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
 ---
 
 

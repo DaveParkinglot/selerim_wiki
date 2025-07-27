@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T12:03:41.000-04:00","published":"2025-07-25T12:03:41.000-04:00","cssclasses":"","Age":"??","Ancestry":"Drow, Draegloth","Gender":"Male","Location":["Vlorngroth"],"Role":["Villain","Destroyer of Worlds"],"Affiliation":["Vlorngroth"],"Appearances":["[[Adventure Log/Vlorngroth - The Manor of Madness]]","[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.410-04:00","modified":"2025-07-25T12:03:41.971-04:00","published":"2025-07-25T12:03:41.971-04:00","cssclasses":"","Age":"??","Ancestry":"Drow, Draegloth","Gender":"Male","Location":["Vlorngroth"],"Role":["Villain","Destroyer of Worlds"],"Affiliation":["Vlorngroth"],"Appearances":["[[Adventure Log/Vlorngroth - The Manor of Madness]]","[[-The High Rollers Campaign-]]"]}
 ---
 
 
