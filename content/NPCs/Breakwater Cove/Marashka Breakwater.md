@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T11:17:12.872-04:00","modified":"2025-07-25T11:49:18.917-04:00","published":"2025-07-25T11:49:18.917-04:00","cssclasses":"","Age":null,"Ancestry":null,"Gender":null,"Location":null,"Role":null,"Affiliation":null,"Appearances":["[[The Crimsonclaw Bounty]]"]}
+{"publish":true,"created":"2025-07-25T11:17:12.872-04:00","modified":"2025-07-27T17:21:11.894-04:00","published":"2025-07-27T17:21:11.894-04:00","cssclasses":"","Age":null,"Ancestry":null,"Gender":null,"Location":null,"Role":null,"Affiliation":null,"Appearances":["[[21 The Crimsonclaw Bounty]]"]}
 ---
 
 

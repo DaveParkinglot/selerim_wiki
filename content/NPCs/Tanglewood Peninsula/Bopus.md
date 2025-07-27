@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.523-04:00","modified":"2025-07-25T11:35:09.917-04:00","published":"2025-07-25T11:35:09.917-04:00","cssclasses":"","Age":"64","Ancestry":"Gnome","Gender":"Male","Location":["The Cronium Caves, Crabbley"],"Role":["Gnome Diplomat"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[-The High Rollers Campaign-]]","[[Pill'Grim's Bounty]]","[[The Crimsonclaw Bounty]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.523-04:00","modified":"2025-07-27T17:21:11.918-04:00","published":"2025-07-27T17:21:11.918-04:00","cssclasses":"","Age":"64","Ancestry":"Gnome","Gender":"Male","Location":["The Cronium Caves, Crabbley"],"Role":["Gnome Diplomat"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[06 Pill'Grim's Bounty]]","[[21 The Crimsonclaw Bounty]]"]}
 ---
 
 

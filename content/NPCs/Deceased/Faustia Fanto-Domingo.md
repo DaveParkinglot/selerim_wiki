@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.230-04:00","modified":"2025-07-25T11:47:43.313-04:00","published":"2025-07-25T11:47:43.313-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Female","Location":["Nova Jersaeria"],"Role":["Court Witch"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.230-04:00","modified":"2025-07-27T17:21:10.878-04:00","published":"2025-07-27T17:21:10.878-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Female","Location":["Nova Jersaeria"],"Role":["Court Witch"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

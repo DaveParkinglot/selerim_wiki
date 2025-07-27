@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.323-04:00","modified":"2025-07-25T11:38:30.103-04:00","published":"2025-07-25T11:38:30.103-04:00","cssclasses":"","Age":"24","Ancestry":"Orc","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Super Senior"],"Affiliation":["None"],"Appearances":["[[The White Grove]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.323-04:00","modified":"2025-07-27T17:15:57.817-04:00","published":"2025-07-27T17:15:57.817-04:00","cssclasses":"","Age":"24","Ancestry":"Orc","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Super Senior"],"Affiliation":["None"],"Appearances":["[[The White Grove]]"]}
 ---
 
 

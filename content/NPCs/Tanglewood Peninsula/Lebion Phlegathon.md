@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.965-04:00","modified":"2025-07-25T11:37:06.822-04:00","published":"2025-07-25T11:37:06.822-04:00","cssclasses":"","Age":"??","Ancestry":"Elf","Gender":"Male","Location":["Mitlin"],"Role":["Lead Ranger"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]","[[Kindlethicket - Envoys of Mitlin]]","[[Kindlethicket - The Winter Hunt]]","[[The Marrowsucker Contract]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.965-04:00","modified":"2025-07-27T17:21:11.783-04:00","published":"2025-07-27T17:21:11.783-04:00","cssclasses":"","Age":"??","Ancestry":"Elf","Gender":"Male","Location":["Mitlin"],"Role":["Lead Ranger"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[16 Kindlethicket - The Winter Hunt]]","[[18 The Marrowsucker Contract]]"]}
 ---
 
 

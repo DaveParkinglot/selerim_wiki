@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.006-04:00","modified":"2025-07-25T11:33:30.251-04:00","published":"2025-07-25T11:33:30.251-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City"],"Role":["Vagrant"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.006-04:00","modified":"2025-07-27T17:21:11.059-04:00","published":"2025-07-27T17:21:11.059-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City"],"Role":["Vagrant"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

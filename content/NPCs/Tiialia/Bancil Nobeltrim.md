@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.598-04:00","modified":"2025-07-25T11:39:02.145-04:00","published":"2025-07-25T11:39:02.145-04:00","cssclasses":"","Age":"??","Ancestry":"Half-Elf","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Former Member of The High Roller, Paladin, Family Guy"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.598-04:00","modified":"2025-07-27T17:21:11.284-04:00","published":"2025-07-27T17:21:11.284-04:00","cssclasses":"","Age":"??","Ancestry":"Half-Elf","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Former Member of The High Roller, Paladin, Family Guy"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

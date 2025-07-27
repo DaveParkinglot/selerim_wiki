@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.349-04:00","modified":"2025-07-25T12:03:52.566-04:00","published":"2025-07-25T12:03:52.566-04:00","cssclasses":"","Age":"42","Ancestry":"Drow","Gender":"Male","Location":["Vlorngroth","Tiialia"],"Role":["Gunslinger Bounty Hunter, Former Inquisitor"],"Affiliation":["Vlorngroth","[[The High Rollers]]"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.349-04:00","modified":"2025-07-27T17:21:10.934-04:00","published":"2025-07-27T17:21:10.934-04:00","cssclasses":"","Age":"42","Ancestry":"Drow","Gender":"Male","Location":["Vlorngroth","Tiialia"],"Role":["Gunslinger Bounty Hunter, Former Inquisitor"],"Affiliation":["Vlorngroth","[[The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

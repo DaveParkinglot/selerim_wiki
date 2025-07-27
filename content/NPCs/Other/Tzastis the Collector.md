@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-25T11:32:14.155-04:00","published":"2025-07-25T11:32:14.155-04:00","cssclasses":"","Age":"??","Ancestry":"Archfey","Gender":"Varies","Location":["The Fathomless Vault"],"Role":["Archfey","Collector of Relevant Mortals"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-27T17:21:10.964-04:00","published":"2025-07-27T17:21:10.964-04:00","cssclasses":"","Age":"??","Ancestry":"Archfey","Gender":"Varies","Location":["The Fathomless Vault"],"Role":["Archfey","Collector of Relevant Mortals"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 ![[z_assets/tzastis.png|300]]

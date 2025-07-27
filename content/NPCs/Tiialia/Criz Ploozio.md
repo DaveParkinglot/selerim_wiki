@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.711-04:00","modified":"2025-07-25T11:39:44.719-04:00","published":"2025-07-25T11:39:44.719-04:00","cssclasses":"","Age":"??","Ancestry":"Kobold","Gender":"Male","Location":["Nova Jersaeria Sewers"],"Role":["Shopkeeper"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.711-04:00","modified":"2025-07-27T17:21:11.300-04:00","published":"2025-07-27T17:21:11.300-04:00","cssclasses":"","Age":"??","Ancestry":"Kobold","Gender":"Male","Location":["Nova Jersaeria Sewers"],"Role":["Shopkeeper"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

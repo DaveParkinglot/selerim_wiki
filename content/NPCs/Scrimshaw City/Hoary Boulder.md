@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.913-04:00","modified":"2025-07-25T12:47:13.356-04:00","published":"2025-07-25T12:47:13.356-04:00","cssclasses":"","Age":"35","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City","Crabbley"],"Role":["Chief Accountant, Bracketologist"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventure Log/-The High Rollers Campaign-]]","[[Adventure Log/Arby's Sauce|Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.913-04:00","modified":"2025-07-27T17:21:11.506-04:00","published":"2025-07-27T17:21:11.506-04:00","cssclasses":"","Age":"35","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City","Crabbley"],"Role":["Chief Accountant, Bracketologist"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]","[[09 Arby's Sauce|09 Arby's Sauce]]"]}
 ---
 
 
 ![[z_assets/Pasted image 20250725123914.png|300]]
 
 ### Overview
-[[-The High Rollers Campaign-]]
+[[00 -The High Rollers Campaign-]]
 - "Nothing better than a crisp glass of pink lemonade in the morning". Everyone's favorite 35 year old kid.
 - Hoary was brought into [[NPCs/Tanglewood Peninsula/Sleeto Van Coof]]'s heist of [[NPCs/Tanglewood Peninsula/Beezlebop]]'s hidden manor after [[Player Characters/The High Rollers/The High Rollers]] convinced him that hanging out in his mom's basement was less cool than adventuring.
 - Hoary lost his right eye after being kidnapped by kobolds.

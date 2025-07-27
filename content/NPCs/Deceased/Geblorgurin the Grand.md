@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.238-04:00","modified":"2025-07-25T11:47:48.709-04:00","published":"2025-07-25T11:47:48.709-04:00","cssclasses":"","Age":"Deceased","Ancestry":"Dwarf","Gender":"Male","Location":["Dead"],"Role":["King of the Dwarves"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.238-04:00","modified":"2025-07-27T17:21:10.888-04:00","published":"2025-07-27T17:21:10.888-04:00","cssclasses":"","Age":"Deceased","Ancestry":"Dwarf","Gender":"Male","Location":["Dead"],"Role":["King of the Dwarves"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.716-04:00","modified":"2025-07-25T12:27:24.554-04:00","published":"2025-07-25T12:27:24.554-04:00","cssclasses":"","Age":"3","Ancestry":"Galeb Duhr, Rock Elemental","Gender":"Male","Location":["Scrimshaw City"],"Role":["Rock","Mascot"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.716-04:00","modified":"2025-07-27T17:21:11.003-04:00","published":"2025-07-27T17:21:11.003-04:00","cssclasses":"","Age":"3","Ancestry":"Galeb Duhr, Rock Elemental","Gender":"Male","Location":["Scrimshaw City"],"Role":["Rock","Mascot"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

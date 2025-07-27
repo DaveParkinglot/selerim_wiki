@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.151-04:00","modified":"2025-07-25T11:38:08.365-04:00","published":"2025-07-25T11:38:08.365-04:00","cssclasses":"","Age":"??","Ancestry":"Goblin","Gender":"Female","Location":["Crabbley"],"Role":["Intern"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.151-04:00","modified":"2025-07-27T17:21:11.252-04:00","published":"2025-07-27T17:21:11.252-04:00","cssclasses":"","Age":"??","Ancestry":"Goblin","Gender":"Female","Location":["Crabbley"],"Role":["Intern"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

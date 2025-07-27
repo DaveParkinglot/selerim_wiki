@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.542-04:00","modified":"2025-07-25T11:38:53.760-04:00","published":"2025-07-25T11:38:53.760-04:00","cssclasses":"","Age":"74","Ancestry":"Human","Gender":"Male","Location":["The Esposito Vineyard, Nova Jersaeria"],"Role":["Butler"],"Affiliation":["[[The High Rollers]]","[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.542-04:00","modified":"2025-07-27T17:21:11.273-04:00","published":"2025-07-27T17:21:11.273-04:00","cssclasses":"","Age":"74","Ancestry":"Human","Gender":"Male","Location":["The Esposito Vineyard, Nova Jersaeria"],"Role":["Butler"],"Affiliation":["[[The High Rollers]]","[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

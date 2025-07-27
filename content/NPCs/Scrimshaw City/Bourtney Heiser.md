@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.688-04:00","modified":"2025-07-25T12:27:29.893-04:00","published":"2025-07-25T12:27:29.893-04:00","cssclasses":"","Age":"44","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City"],"Role":["Barkeep"],"Affiliation":["None"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.688-04:00","modified":"2025-07-27T17:21:10.999-04:00","published":"2025-07-27T17:21:10.999-04:00","cssclasses":"","Age":"44","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City"],"Role":["Barkeep"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

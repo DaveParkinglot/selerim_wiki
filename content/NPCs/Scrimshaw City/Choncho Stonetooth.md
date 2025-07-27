@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.801-04:00","modified":"2025-07-25T12:38:13.028-04:00","published":"2025-07-25T12:38:13.028-04:00","cssclasses":"","Age":"76","Ancestry":"Dwarf","Gender":"Male","Location":["Scrimshaw City"],"Role":["Bodyguard"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[-The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.801-04:00","modified":"2025-07-27T17:21:11.018-04:00","published":"2025-07-27T17:21:11.018-04:00","cssclasses":"","Age":"76","Ancestry":"Dwarf","Gender":"Male","Location":["Scrimshaw City"],"Role":["Bodyguard"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
