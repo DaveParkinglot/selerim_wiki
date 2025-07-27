@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.885-04:00","modified":"2025-07-27T17:21:11.034-04:00","published":"2025-07-27T17:21:11.034-04:00","cssclasses":"","Age":"97","Ancestry":"Dwarf","Gender":"Male","Location":["Scrimshaw City"],"Role":["Company Head"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.885-04:00","modified":"2025-07-27T17:34:12.375-04:00","published":"2025-07-27T17:34:12.375-04:00","cssclasses":"","Age":"97","Ancestry":"Dwarf","Gender":"Male","Location":["Scrimshaw City"],"Role":["Company Head"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[z_assets/Pasted image 20250725123643.png|300]]
+![[z_assets/garm_deepmine.png|300]]
 
 ### Overview
 Legitimate businessman and patriarch of the Deepmine family. Often accompanied by his loyal bodyguard [[NPCs/Scrimshaw City/Choncho Stonetooth]].

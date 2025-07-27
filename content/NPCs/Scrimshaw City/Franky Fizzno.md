@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.857-04:00","modified":"2025-07-27T17:21:11.854-04:00","published":"2025-07-27T17:21:11.854-04:00","cssclasses":"","Age":"53","Ancestry":"Halfling","Gender":"Male","Location":["Scrimshaw City","Varies"],"Role":["Bard, Bandmember (Lead Lutist)"],"Affiliation":["Crag Delta"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.857-04:00","modified":"2025-07-27T17:34:20.906-04:00","published":"2025-07-27T17:34:20.906-04:00","cssclasses":"","Age":"53","Ancestry":"Halfling","Gender":"Male","Location":["Scrimshaw City","Varies"],"Role":["Bard, Bandmember (Lead Lutist)"],"Affiliation":["Crag Delta"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 
-![[z_assets/Pasted image 20250725123452.png|300]]
+![[z_assets/frankie_fizzno.png|300]]
 
 ### Overview
  - He and [[NPCs/Scrimshaw City/Blostin Brawnslag]] gave the first quest to [[Player Characters/The High Rollers/The High Rollers]] after they requested that the party track down and locate [[NPCs/Scrimshaw City/Spurgon Bogolog]], their missing frontman.

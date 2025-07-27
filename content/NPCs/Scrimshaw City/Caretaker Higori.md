@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.774-04:00","modified":"2025-07-27T17:21:11.013-04:00","published":"2025-07-27T17:21:11.013-04:00","cssclasses":"","Age":"93","Ancestry":"Sea Elf","Gender":"Male","Location":["Scrimshaw City"],"Role":["Rogue"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.774-04:00","modified":"2025-07-27T17:34:48.095-04:00","published":"2025-07-27T17:34:48.095-04:00","cssclasses":"","Age":"93","Ancestry":"Sea Elf","Gender":"Male","Location":["Scrimshaw City"],"Role":["Rogue"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[z_assets/Pasted image 20250725122954.png|300]]
+![[z_assets/caretaker_higori.png|300]]
 
 ### Overview
 - Garderner, herbalist, healer, and the caretaker of the Henge of Avandra in [[Locations/Scrimshaw City]].

@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.828-04:00","modified":"2025-07-27T17:21:11.022-04:00","published":"2025-07-27T17:21:11.022-04:00","cssclasses":"","Age":"??","Ancestry":"Tiefling","Gender":"Male","Location":["Scrimshaw City"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.828-04:00","modified":"2025-07-27T17:34:58.519-04:00","published":"2025-07-27T17:34:58.519-04:00","cssclasses":"","Age":"??","Ancestry":"Tiefling","Gender":"Male","Location":["Scrimshaw City"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[z_assets/Pasted image 20250725123338.png|300]]
+![[z_assets/euron_underfoe.png|300]]
 
 ### Overview
 Gaunt and terse tiefling who operates the Gobblefirn Apothecary after Old Mr. Gobblefirn's strange disappearance.

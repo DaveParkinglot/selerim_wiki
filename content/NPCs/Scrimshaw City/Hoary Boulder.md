@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.913-04:00","modified":"2025-07-27T17:21:11.506-04:00","published":"2025-07-27T17:21:11.506-04:00","cssclasses":"","Age":"35","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City","Crabbley"],"Role":["Chief Accountant, Bracketologist"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]","[[09 Arby's Sauce|09 Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.913-04:00","modified":"2025-07-27T17:34:08.298-04:00","published":"2025-07-27T17:34:08.298-04:00","cssclasses":"","Age":"35","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City","Crabbley"],"Role":["Chief Accountant, Bracketologist"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]","[[09 Arby's Sauce|09 Arby's Sauce]]"]}
 ---
 
 
-![[z_assets/Pasted image 20250725123914.png|300]]
+![[z_assets/hoary_boulder.png|300]]
 
 ### Overview
 [[00 -The High Rollers Campaign-]]
