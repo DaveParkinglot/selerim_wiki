@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.433-04:00","modified":"2025-07-27T17:55:41.347-04:00","published":"2025-07-27T17:55:41.347-04:00","cssclasses":"","Age":"17","Ancestry":"Tiefling","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.433-04:00","modified":"2025-07-27T18:13:45.888-04:00","published":"2025-07-27T18:13:45.888-04:00","cssclasses":"","Age":"17","Ancestry":"Tiefling","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -15,9 +15,10 @@ A tiefling student at [[The White Grove]] who is very uncertain and bad at infer
 - **Location**: [[Locations/The White Grove\|The White Grove]]
 - **Role**: Student,Freshman
 - **Affiliation:** None
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: High pitched and unsure
 - **Traits**: 
 - **Ideals:** 
 - **Appearance**:

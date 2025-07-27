@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.514-04:00","modified":"2025-07-27T17:56:07.284-04:00","published":"2025-07-27T17:56:07.284-04:00","cssclasses":"","Age":"16","Ancestry":"Human","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.514-04:00","modified":"2025-07-27T18:13:51.947-04:00","published":"2025-07-27T18:13:51.947-04:00","cssclasses":"","Age":"16","Ancestry":"Human","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -17,9 +17,10 @@ A friendly/bossy girl studying at The White Grove.
 - **Location**: [[Locations/The White Grove\|The White Grove]]
 - **Role**: Student,Freshman
 - **Affiliation:** None
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Vaguely Australian
 - **Traits**: 
 - **Ideals:** 
 - **Appearance**:

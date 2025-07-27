@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.254-04:00","modified":"2025-07-27T17:21:10.903-04:00","published":"2025-07-27T17:21:10.903-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Tyrant Lord"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Human
+Gender: Male
+Location:
+  - Nova Jersaeria
+Role:
+  - Tyrant Lord
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[lord_draco_landucci_rip_.webp]]
 
@@ -17,6 +26,7 @@
 - **Location**: Nova Jersaeria
 - **Role**: Tyrant Lord
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

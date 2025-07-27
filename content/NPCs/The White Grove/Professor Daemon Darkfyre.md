@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.379-04:00","modified":"2025-07-27T17:55:36.305-04:00","published":"2025-07-27T17:55:36.305-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Professor of Infernal Magicks"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.379-04:00","modified":"2025-07-27T18:15:37.694-04:00","published":"2025-07-27T18:15:37.694-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Professor of Infernal Magicks"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -18,9 +18,10 @@ The newest professor to be employed by The White Grove, a very peculiar hire. No
 - **Location**: [[Locations/The White Grove\|The White Grove]]
 - **Role**: Professor of Infernal Magicks
 - **Affiliation:** None
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Bored, talks slow like everyone and everything is just insufferable
 - **Traits**: 
 - **Ideals:** 
 - **Appearance**:

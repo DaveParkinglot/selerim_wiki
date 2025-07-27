@@ -1,7 +1,17 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.715-04:00","modified":"2025-07-27T17:21:11.442-04:00","published":"2025-07-27T17:21:11.442-04:00","cssclasses":"","Age":"??","Ancestry":"Kobold","Gender":"Male","Location":["Crabbley"],"Role":["Master Inventor"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[06 Pill'Grim's Bounty]]"]}
+Age: ??
+Ancestry: Kobold
+Gender: Male
+Location:
+  - Crabbley
+Role:
+  - Master Inventor
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
+  - "[[Adventures/06 Pill'Grim's Bounty]]"
 ---
-
 
 ![[dillon_lonergan_master_inventor.webp]]
 
@@ -15,6 +25,7 @@ No summary available.
 - **Location**: Crabbley
 - **Role**: Master Inventor
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/06 Pill'Grim's Bounty\|06 Pill'Grim's Bounty]]
 
 ### Attributes
 - **Voice**: 

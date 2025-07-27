@@ -1,7 +1,12 @@
 ---
-{"publish":true,"created":"2025-07-27T17:33:27.000-04:00","modified":"2025-07-27T17:34:34.930-04:00","published":"2025-07-27T17:34:34.930-04:00","cssclasses":"","Age":null,"Ancestry":null,"Gender":null,"Location":null,"Role":null,"Affiliation":null,"Appearances":null}
+Age: 
+Ancestry: 
+Gender: 
+Location: 
+Role: 
+Affiliation: 
+Appearances:
 ---
-
 
 ![[z_assets/falsus_omnibus.png|300]]
 
@@ -15,6 +20,7 @@ A paragraph or bulleted list that describes the character. Might include signifi
 - **Location**: `= this.Location`
 - **Role**: `= this.Role`
 - **Affiliation:** `= this.Affiliation`
+- **Appearances:** `= this.Appearances`
 
 ### Attributes
 - **Voice**: 

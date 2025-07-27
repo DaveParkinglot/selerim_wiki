@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.655-04:00","modified":"2025-07-27T17:21:11.359-04:00","published":"2025-07-27T17:21:11.359-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Captain"],"Affiliation":["None"],"Appearances":["[[01 Dunland's Raiders]]"]}
+Age: ??
+Ancestry: Human
+Gender: Male
+Location:
+  - Nova Jersaeria
+Role:
+  - Captain
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/01 Dunland's Raiders]]"
 ---
-
 
 ![[captain_crebain_dunland.webp]]
 
@@ -15,6 +24,7 @@ No summary available.
 - **Location**: Nova Jersaeria
 - **Role**: Captain
 - **Affiliation:** None
+- **Appearances:** [[Adventures/01 Dunland's Raiders\|01 Dunland's Raiders]]
 
 ### Attributes
 - **Voice**: 

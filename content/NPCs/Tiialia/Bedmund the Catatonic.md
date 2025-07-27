@@ -1,7 +1,17 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.627-04:00","modified":"2025-07-27T17:21:11.389-04:00","published":"2025-07-27T17:21:11.389-04:00","cssclasses":"","Age":"??","Ancestry":"Deep Gnome","Gender":"Male","Location":["The High Roller's Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Deep Gnome
+Gender: Male
+Location:
+  - The High Roller's Vineyard
+Role:
+  - Sleepy Wizard
+Affiliation:
+  - "[[Player Characters/The High Rollers/The High Rollers]]"
+Appearances:
+  - "[[Adventures/02 Vlorngroth - The Manor of Madness]]"
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[bedmund_the_catatonic.webp]]
 
@@ -17,6 +27,7 @@
 - **Location**: The High Roller's Vineyard
 - **Role**: Sleepy Wizard
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
+- **Appearances:** [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

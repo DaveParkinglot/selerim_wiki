@@ -1,7 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.690-04:00","modified":"2025-07-27T17:21:11.589-04:00","published":"2025-07-27T17:21:11.589-04:00","cssclasses":"","Age":"??","Ancestry":"Half-Giant","Gender":"Male","Location":["Crillville"],"Role":["Paladin, Commander of the CDF"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[10 The Lost Archives of Wigglestaff]]","[[12 The Rentpire Strikes Back]]"]}
+Age: ??
+Ancestry: Half-Giant
+Gender: Male
+Location:
+  - Crillville
+Role:
+  - Paladin, Commander of the CDF
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
+  - "[[Adventures/10 The Lost Archives of Wigglestaff]]"
+  - "[[Adventures/12 The Rentpire Strikes Back]]"
 ---
-
 
 ![[dick_gunbarrel.webp]]
 
@@ -15,6 +26,7 @@ No summary available.
 - **Location**: Crillville
 - **Role**: Paladin, Commander of the CDF
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/10 The Lost Archives of Wigglestaff\|10 The Lost Archives of Wigglestaff]],[[Adventures/12 The Rentpire Strikes Back\|12 The Rentpire Strikes Back]]
 
 ### Attributes
 - **Voice**: 

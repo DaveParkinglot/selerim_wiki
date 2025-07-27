@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.744-04:00","modified":"2025-07-27T17:21:11.008-04:00","published":"2025-07-27T17:21:11.008-04:00","cssclasses":"","Age":"32","Ancestry":"Tiefling","Gender":"Male","Location":["Scrimshaw City, The High Seas, Varies"],"Role":["Ship Captain"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: "32"
+Ancestry: Tiefling
+Gender: Male
+Location:
+  - Scrimshaw City, The High Seas, Varies
+Role:
+  - Ship Captain
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[z_assets/captain_chorn_chinfer.png|300]]
 
@@ -17,6 +26,7 @@
 - **Location**: Scrimshaw City, The High Seas, Varies
 - **Role**: Ship Captain
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Sailor yarrr

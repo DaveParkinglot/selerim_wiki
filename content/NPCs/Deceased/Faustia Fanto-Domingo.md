@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.230-04:00","modified":"2025-07-27T17:21:10.878-04:00","published":"2025-07-27T17:21:10.878-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Female","Location":["Nova Jersaeria"],"Role":["Court Witch"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Human
+Gender: Female
+Location:
+  - Nova Jersaeria
+Role:
+  - Court Witch
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[faustia_fanto_domingo_rip_.webp]]
 
@@ -18,6 +27,7 @@
 - **Location**: Nova Jersaeria
 - **Role**: Court Witch
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

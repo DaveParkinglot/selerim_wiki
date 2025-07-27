@@ -1,7 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.182-04:00","modified":"2025-07-27T17:21:11.867-04:00","published":"2025-07-27T17:21:11.867-04:00","cssclasses":"","Age":"32","Ancestry":"Halfling","Gender":"Male","Location":["Scrimshaw City","Varies"],"Role":["Bard, Bandmember (Lead Singer)"],"Affiliation":["Crag Delta"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
+Age: "32"
+Ancestry: Halfling
+Gender: Male
+Location:
+  - Scrimshaw City
+  - Varies
+Role:
+  - Bard, Bandmember (Lead Singer)
+Affiliation:
+  - Crag Delta
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
+  - "[[Adventures/20 Spring Cleaning in Scrimshaw City]]"
 ---
-
 
 ![[spurgon_bogolog.webp]]
 
@@ -18,6 +29,7 @@
 - **Location**: Scrimshaw City,Varies
 - **Role**: Bard, Bandmember (Lead Singer)
 - **Affiliation:** Crag Delta
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/20 Spring Cleaning in Scrimshaw City\|20 Spring Cleaning in Scrimshaw City]]
 
 ### Attributes
 - **Voice**: 

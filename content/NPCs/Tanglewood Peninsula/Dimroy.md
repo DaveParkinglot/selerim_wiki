@@ -23,6 +23,7 @@ No summary available.
 - **Location**: Crillville
 - **Role**: War Cleric
 - **Affiliation:** None
+- **Appearances:** `= this.Appearances`
 
 ### Attributes
 - **Voice**: 

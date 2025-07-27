@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.470-04:00","modified":"2025-07-27T17:21:10.958-04:00","published":"2025-07-27T17:21:10.958-04:00","cssclasses":"","Age":"??","Ancestry":"Fey Dragon","Gender":"Male","Location":["Varies"],"Role":["Fey Messenger"],"Affiliation":["The Summer Court"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Fey Dragon
+Gender: Male
+Location:
+  - Varies
+Role:
+  - Fey Messenger
+Affiliation:
+  - The Summer Court
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[z_assets/skitterdream.png|300]]
 
@@ -21,6 +30,7 @@ Provided a boon to [[Player Characters/The High Rollers/The High Rollers]] befor
 - **Location**: Varies
 - **Role**: Fey Messenger
 - **Affiliation:** The Summer Court
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Mystical but high pitched

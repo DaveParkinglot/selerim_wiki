@@ -1,7 +1,17 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.943-04:00","modified":"2025-07-27T17:21:11.513-04:00","published":"2025-07-27T17:21:11.513-04:00","cssclasses":"","Age":"??","Ancestry":"Satyr","Gender":"Male","Location":["Scrimshaw City"],"Role":["Failed Adventurer, Bartender, Salt Spitter"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[09 Arby's Sauce|09 Arby's Sauce]]"]}
+Age: ??
+Ancestry: Satyr
+Gender: Male
+Location:
+  - Scrimshaw City
+Role:
+  - Failed Adventurer, Bartender, Salt Spitter
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
+  - "[[Adventures/09 Arby's Sauce\|09 Arby's Sauce]]"
 ---
-
 
 ![[hooligan_dupree.webp]]
 
@@ -18,6 +28,7 @@
 - **Location**: Scrimshaw City
 - **Role**: Failed Adventurer, Bartender, Salt Spitter
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/09 Arby's Sauce\|09 Arby's Sauce]]
 
 ### Attributes
 - **Voice**: 

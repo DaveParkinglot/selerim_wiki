@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.632-04:00","modified":"2025-07-27T17:21:11.841-04:00","published":"2025-07-27T17:21:11.841-04:00","cssclasses":"","Age":"78","Ancestry":"Dwarf","Gender":"Male","Location":["Scrimshaw City, Varies"],"Role":["Bard, Bandmember (Drummer)"],"Affiliation":["Crag Delta"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.632-04:00","modified":"2025-07-27T18:11:56.084-04:00","published":"2025-07-27T18:11:56.084-04:00","cssclasses":"","Age":"78","Ancestry":"Dwarf","Gender":"Male","Location":["Scrimshaw City, Varies"],"Role":["Bard, Bandmember (Drummer)"],"Affiliation":["Crag Delta"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 
@@ -18,6 +18,7 @@
 - **Location**: Scrimshaw City, Varies
 - **Role**: Bard, Bandmember (Drummer)
 - **Affiliation:** Crag Delta
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/20 Spring Cleaning in Scrimshaw City\|20 Spring Cleaning in Scrimshaw City]]
 
 ### Attributes
 - **Voice**: 

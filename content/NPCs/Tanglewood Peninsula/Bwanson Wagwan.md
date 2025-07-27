@@ -1,7 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.580-04:00","modified":"2025-07-27T17:21:11.766-04:00","published":"2025-07-27T17:21:11.766-04:00","cssclasses":"","Age":"??","Ancestry":"Owlin","Gender":"Male","Location":["Mitlin"],"Role":["Former High Roller, Druid, Magic Shop Owner"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[18 The Marrowsucker Contract]]"]}
+Age: ??
+Ancestry: Owlin
+Gender: Male
+Location:
+  - Mitlin
+Role:
+  - Former High Roller, Druid, Magic Shop Owner
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
+  - "[[Adventures/15 Kindlethicket - Envoys of Mitlin]]"
+  - "[[Adventures/18 The Marrowsucker Contract]]"
 ---
-
 
 ![[bwanson_wagwan.webp]]
 
@@ -15,6 +26,7 @@ No summary available.
 - **Location**: Mitlin
 - **Role**: Former High Roller, Druid, Magic Shop Owner
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/18 The Marrowsucker Contract\|18 The Marrowsucker Contract]]
 
 ### Attributes
 - **Voice**: 

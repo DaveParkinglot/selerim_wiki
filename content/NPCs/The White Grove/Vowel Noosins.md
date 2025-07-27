@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.487-04:00","modified":"2025-07-27T17:55:43.938-04:00","published":"2025-07-27T17:55:43.938-04:00","cssclasses":"","Age":"14","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.487-04:00","modified":"2025-07-27T18:13:57.565-04:00","published":"2025-07-27T18:13:57.565-04:00","cssclasses":"","Age":"14","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -17,9 +17,10 @@ A selectively mute student studying at The White Grove.
 - **Location**: [[Locations/The White Grove\|The White Grove]]
 - **Role**: Student,Freshman
 - **Affiliation:** None
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Mute
 - **Traits**: 
 - **Ideals:** 
 - **Appearance**:

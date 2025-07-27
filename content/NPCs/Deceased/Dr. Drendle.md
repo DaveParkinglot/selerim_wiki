@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.222-04:00","modified":"2025-07-27T17:21:10.844-04:00","published":"2025-07-27T17:21:10.844-04:00","cssclasses":"","Age":"??","Ancestry":"Undead Human","Gender":"Male","Location":["Dead"],"Role":["Necromancer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Undead Human
+Gender: Male
+Location:
+  - Dead
+Role:
+  - Necromancer
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[dr_drendle_rip_.webp]]
 
@@ -15,6 +24,7 @@ No summary available.
 - **Location**: Dead
 - **Role**: Necromancer
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

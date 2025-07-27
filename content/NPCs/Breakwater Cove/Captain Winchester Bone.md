@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.211-04:00","modified":"2025-07-27T17:21:11.886-04:00","published":"2025-07-27T17:21:11.886-04:00","cssclasses":"","Age":"66","Ancestry":"Human","Gender":"Male","Location":["Breakwater Cove"],"Role":["Bartender, Retired Captain"],"Affiliation":["None"],"Appearances":["[[07 The Hidden Hoard of Winchester Bone]]","[[08 Sharky's Revenge]]","[[14 Bootknife's Bounty|14 Bootknife's Bounty]]","[[21 The Crimsonclaw Bounty]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.211-04:00","modified":"2025-07-27T18:07:54.270-04:00","published":"2025-07-27T18:07:54.270-04:00","cssclasses":"","Age":"66","Ancestry":"Human","Gender":"Male","Location":["Breakwater Cove"],"Role":["Bartender, Retired Captain"],"Affiliation":["None"],"Appearances":["[[07 The Hidden Hoard of Winchester Bone]]","[[08 Sharky's Revenge]]","[[14 Bootknife's Bounty|14 Bootknife's Bounty]]","[[21 The Crimsonclaw Bounty]]"]}
 ---
 
 
@@ -23,6 +23,7 @@ Once a renowned pirate captain, he now owns Bone Tavern in [[Breakwater Cove]]. 
 - **Location**: Breakwater Cove
 - **Role**: Bartender, Retired Captain
 - **Affiliation:** None
+- **Appearances:** [[Adventures/07 The Hidden Hoard of Winchester Bone\|07 The Hidden Hoard of Winchester Bone]],[[Adventures/08 Sharky's Revenge\|08 Sharky's Revenge]],[[Adventures/14 Bootknife's Bounty\|14 Bootknife's Bounty]],[[Adventures/21 The Crimsonclaw Bounty\|21 The Crimsonclaw Bounty]]
 
 ### Attributes
 - **Voice**: Old pirate. Yarrrr

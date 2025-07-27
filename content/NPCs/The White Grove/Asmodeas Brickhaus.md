@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.295-04:00","modified":"2025-07-27T17:55:10.046-04:00","published":"2025-07-27T17:55:10.046-04:00","cssclasses":"","Age":"19","Ancestry":"Tiefling","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.295-04:00","modified":"2025-07-27T18:14:38.404-04:00","published":"2025-07-27T18:14:38.404-04:00","cssclasses":"","Age":"19","Ancestry":"Tiefling","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -18,9 +18,10 @@ A jock freshman sorcerer who is very adept at harnessing his ancestry to use inf
 - **Location**: [[Locations/The White Grove\|The White Grove]]
 - **Role**: Student,Freshman
 - **Affiliation:** None
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Cool guy jock aha
 - **Traits**: 
 - **Ideals:** 
 - **Appearance**:

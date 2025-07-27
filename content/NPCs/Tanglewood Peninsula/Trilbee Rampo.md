@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.190-04:00","modified":"2025-07-27T17:21:11.258-04:00","published":"2025-07-27T17:21:11.258-04:00","cssclasses":"","Age":"??","Ancestry":"Half-Elf","Gender":"Male","Location":["Oasis"],"Role":["Wagon Dealer, Maniacal Businessman"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Half-Elf
+Gender: Male
+Location:
+  - Oasis
+Role:
+  - Wagon Dealer, Maniacal Businessman
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[trilbee_rampo.webp]]
 
@@ -18,6 +27,7 @@
 - **Location**: Oasis
 - **Role**: Wagon Dealer, Maniacal Businessman
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

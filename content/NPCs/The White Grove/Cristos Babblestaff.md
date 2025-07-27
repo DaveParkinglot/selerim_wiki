@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.323-04:00","modified":"2025-07-27T17:55:19.532-04:00","published":"2025-07-27T17:55:19.532-04:00","cssclasses":"","Age":"24","Ancestry":"Orc","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Super Senior"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.323-04:00","modified":"2025-07-27T18:14:34.334-04:00","published":"2025-07-27T18:14:34.334-04:00","cssclasses":"","Age":"24","Ancestry":"Orc","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Super Senior"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -18,9 +18,10 @@ A studious and sometimes douchey orc studying at [[The White Grove]].
 - **Location**: [[Locations/The White Grove\|The White Grove]]
 - **Role**: Student,Super Senior
 - **Affiliation:** None
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Dumb douchey
 - **Traits**: 
 - **Ideals:** 
 - **Appearance**:

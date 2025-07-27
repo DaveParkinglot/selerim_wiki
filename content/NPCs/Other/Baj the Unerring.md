@@ -1,7 +1,17 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.296-04:00","modified":"2025-07-27T17:21:10.929-04:00","published":"2025-07-27T17:21:10.929-04:00","cssclasses":"","Age":"??","Ancestry":"Marut","Gender":"N/A","Location":["Sigil, City of Doors"],"Role":["Unbiased, Unstoppable Machine of Death","Marut of The Primus"],"Affiliation":["The Primus"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Marut
+Gender: N/A
+Location:
+  - Sigil, City of Doors
+Role:
+  - Unbiased, Unstoppable Machine of Death
+  - Marut of The Primus
+Affiliation:
+  - The Primus
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[z_assets/baj_the_unerring.png|300]]
 
@@ -17,6 +27,7 @@
 - **Location**: Sigil, City of Doors
 - **Role**: Unbiased, Unstoppable Machine of Death,Marut of The Primus
 - **Affiliation:** The Primus
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

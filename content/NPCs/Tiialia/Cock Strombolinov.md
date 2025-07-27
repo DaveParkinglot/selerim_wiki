@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.683-04:00","modified":"2025-07-27T17:21:11.296-04:00","published":"2025-07-27T17:21:11.296-04:00","cssclasses":"","Age":"??","Ancestry":"Yuan Ti","Gender":"Male","Location":["Nova Jersaeria Sewers"],"Role":["Bodyguard"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Yuan Ti
+Gender: Male
+Location:
+  - Nova Jersaeria Sewers
+Role:
+  - Bodyguard
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[cock_strombolinov.webp]]
 
@@ -15,6 +24,7 @@ No summary available.
 - **Location**: Nova Jersaeria Sewers
 - **Role**: Bodyguard
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

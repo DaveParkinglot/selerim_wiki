@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.769-04:00","modified":"2025-07-27T17:21:11.193-04:00","published":"2025-07-27T17:21:11.193-04:00","cssclasses":"","Age":"??","Ancestry":"Gnome","Gender":"Male","Location":["The Cronium Caves, Crabbley"],"Role":["Clone of Bopus"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Gnome
+Gender: Male
+Location:
+  - The Cronium Caves, Crabbley
+Role:
+  - Clone of Bopus
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[dopus.webp]]
 
@@ -15,6 +24,7 @@ No summary available.
 - **Location**: The Cronium Caves, Crabbley
 - **Role**: Clone of Bopus
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

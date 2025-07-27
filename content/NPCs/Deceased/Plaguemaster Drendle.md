@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.283-04:00","modified":"2025-07-27T17:21:10.923-04:00","published":"2025-07-27T17:21:10.923-04:00","cssclasses":"","Age":"??","Ancestry":"Undead Human","Gender":"Male","Location":["Tiialia"],"Role":["Plaguemaster, lawyer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Undead Human
+Gender: Male
+Location:
+  - Tiialia
+Role:
+  - Plaguemaster, lawyer
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[plaguemaster_drendle_rip_.webp]]
 
@@ -16,6 +25,7 @@
 - **Location**: Tiialia
 - **Role**: Plaguemaster, lawyer
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

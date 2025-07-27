@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.892-04:00","modified":"2025-07-27T17:21:11.334-04:00","published":"2025-07-27T17:21:11.334-04:00","cssclasses":"","Age":"??","Ancestry":"Tiefling","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Tiefling
+Gender: Male
+Location:
+  - Nova Jersaeria
+Role:
+  - Alchemist
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[spirulina_augustine.webp]]
 
@@ -15,6 +24,7 @@ No summary available.
 - **Location**: Nova Jersaeria
 - **Role**: Alchemist
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.350-04:00","modified":"2025-07-27T17:55:24.571-04:00","published":"2025-07-27T17:55:24.571-04:00","cssclasses":"","Age":"7","Ancestry":"Kobold","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["Vlorngroth"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.350-04:00","modified":"2025-07-27T18:13:21.038-04:00","published":"2025-07-27T18:13:21.038-04:00","cssclasses":"","Age":"7","Ancestry":"Kobold","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["Vlorngroth"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -19,9 +19,10 @@ A young kobold hailing from the underground city of [[Vlorngroth]], currently st
 - **Location**: [[Locations/The White Grove\|The White Grove]]
 - **Role**: Student,Freshman
 - **Affiliation:** Vlorngroth
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Squeaky hissing
 - **Traits**: 
 - **Ideals:** 
 - **Appearance**:

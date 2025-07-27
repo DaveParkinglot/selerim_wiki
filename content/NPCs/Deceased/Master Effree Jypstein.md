@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.274-04:00","modified":"2025-07-27T17:21:10.915-04:00","published":"2025-07-27T17:21:10.915-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["The Jyfstein Isles"],"Role":["Lich, Former Archwizard Adventurer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Human
+Gender: Male
+Location:
+  - The Jyfstein Isles
+Role:
+  - Lich, Former Archwizard Adventurer
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[master_effree_jypstein_rip_.webp]]
 
@@ -47,6 +56,7 @@ Note found on Dr. Drendle's desk at the Aldwood Lighthouse.
 - **Location**: The Jyfstein Isles
 - **Role**: Lich, Former Archwizard Adventurer
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.151-04:00","modified":"2025-07-27T17:21:11.252-04:00","published":"2025-07-27T17:21:11.252-04:00","cssclasses":"","Age":"??","Ancestry":"Goblin","Gender":"Female","Location":["Crabbley"],"Role":["Intern"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Goblin
+Gender: Female
+Location:
+  - Crabbley
+Role:
+  - Intern
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[stellica_gombermin.webp]]
 
@@ -16,6 +25,7 @@
 - **Location**: Crabbley
 - **Role**: Intern
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

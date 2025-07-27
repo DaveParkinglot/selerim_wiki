@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.406-04:00","modified":"2025-07-27T17:55:39.562-04:00","published":"2025-07-27T17:55:39.562-04:00","cssclasses":"","Age":"22","Ancestry":"Drow Elf","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Junior"],"Affiliation":["Vlorngroth"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.406-04:00","modified":"2025-07-27T18:14:48.920-04:00","published":"2025-07-27T18:14:48.920-04:00","cssclasses":"","Age":"22","Ancestry":"Drow Elf","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Junior"],"Affiliation":["Vlorngroth"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -17,9 +17,10 @@ A savant student who tested out of a good deal of classes. She started as a juni
 - **Location**: [[Locations/The White Grove\|The White Grove]]
 - **Role**: Student,Junior
 - **Affiliation:** Vlorngroth
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Mean girls
 - **Traits**: 
 - **Ideals:** 
 - **Appearance**:

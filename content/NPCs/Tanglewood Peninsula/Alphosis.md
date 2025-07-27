@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.270-04:00","modified":"2025-07-25T11:33:59.194-04:00","published":"2025-07-25T11:33:59.194-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":null,"Location":["Crillville"],"Role":["Paladin"],"Affiliation":["None"],"Appearances":[]}
+{"publish":true,"created":"2025-07-21T11:30:44.270-04:00","modified":"2025-07-27T18:11:44.799-04:00","published":"2025-07-27T18:11:44.799-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":null,"Location":["Crillville"],"Role":["Paladin"],"Affiliation":["None"],"Appearances":[]}
 ---
 
 
@@ -15,6 +15,7 @@ No summary available.
 - **Location**: Crillville
 - **Role**: Paladin
 - **Affiliation:** None
+- **Appearances:** `= this.Appearances`
 
 ### Attributes
 - **Voice**: 

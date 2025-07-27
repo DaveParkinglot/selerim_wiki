@@ -1,7 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.800-04:00","modified":"2025-07-27T17:21:11.317-04:00","published":"2025-07-27T17:21:11.317-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Female","Location":["Nova Jersaeria"],"Role":["Shopkeeper"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+Age: ??
+Ancestry: Human
+Gender: Female
+Location:
+  - Nova Jersaeria
+Role:
+  - Shopkeeper
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 -The High Rollers Campaign-]]"
 ---
-
 
 ![[maxime_bleu.webp]]
 
@@ -15,6 +24,7 @@ No summary available.
 - **Location**: Nova Jersaeria
 - **Role**: Shopkeeper
 - **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 
