@@ -1,1 +1,0 @@
-	make faction markdown template
