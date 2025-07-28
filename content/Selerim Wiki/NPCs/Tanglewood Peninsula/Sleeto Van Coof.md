@@ -1,0 +1,38 @@
+---
+Age: ??
+Ancestry: Human
+Gender: Male
+Location:
+  - Crabbley
+Role:
+  - Spymaster
+Affiliation:
+  - None
+Appearances:
+  - "[[Selerim Wiki/Adventures/00 -The High Rollers Campaign-]]"
+---
+
+![[sleeto_van_coof.webp]]
+
+### Overview
+No summary available.
+
+### Key Details
+- **Age**: ??
+- **Ancestry**: Human
+- **Gender**: Male
+- **Location**: Crabbley
+- **Role**: Spymaster
+- **Affiliation:** None
+- **Appearances:** [[Selerim Wiki/Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
+
+### Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**:
+
+### Relationships
+
+| Name  | Relationship |
+| ----- | ------------ |
