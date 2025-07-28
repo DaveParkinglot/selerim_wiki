@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:15:24.000-04:00","published":"2025-07-27T17:15:24.000-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Laura","Mike Doom","Leah","Michael"],"Platform":"Foundry"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:15:24.264-04:00","published":"2025-07-27T17:15:24.264-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Laura","Mike Doom","Leah","Michael"],"Platform":"Foundry"}
 ---
 
 ## Details

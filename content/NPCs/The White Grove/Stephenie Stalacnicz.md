@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-27T18:14:48.000-04:00","published":"2025-07-27T18:14:48.000-04:00","cssclasses":"","Age":"22","Ancestry":"Drow Elf","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Junior"],"Affiliation":["Vlorngroth"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.406-04:00","modified":"2025-07-27T18:14:48.920-04:00","published":"2025-07-27T18:14:48.920-04:00","cssclasses":"","Age":"22","Ancestry":"Drow Elf","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Junior"],"Affiliation":["Vlorngroth"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 

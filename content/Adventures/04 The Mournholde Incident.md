@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:15:17.000-04:00","published":"2025-07-27T17:15:17.000-04:00","cssclasses":"","DM":"Mike Doom","Players":["Ethan","Logan","Jordan","Peter","Jimmy"],"Platform":"Roll20"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:15:17.809-04:00","published":"2025-07-27T17:15:17.809-04:00","cssclasses":"","DM":"Mike Doom","Players":["Ethan","Logan","Jordan","Peter","Jimmy"],"Platform":"Roll20"}
 ---
 
 ## Details

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:14:44.000-04:00","published":"2025-07-27T17:14:44.000-04:00","cssclasses":"","DM":"Jordan","Players":["Cale","Laura","Leah","Meagan","Peter"],"Platform":"In person"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:14:44.760-04:00","published":"2025-07-27T17:14:44.760-04:00","cssclasses":"","DM":"Jordan","Players":["Cale","Laura","Leah","Meagan","Peter"],"Platform":"In person"}
 ---
 
 ## Details

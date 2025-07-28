@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:21:55.000-04:00","published":"2025-07-27T17:21:55.000-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Platform":"Foundry"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:21:55.480-04:00","published":"2025-07-27T17:21:55.480-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Platform":"Foundry"}
 ---
 
 ## Details

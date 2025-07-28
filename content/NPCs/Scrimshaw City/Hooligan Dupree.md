@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-27T18:18:36.000-04:00","published":"2025-07-27T18:18:36.000-04:00","cssclasses":"","Age":"??","Ancestry":"Satyr","Gender":"Male","Location":["Scrimshaw City"],"Role":["Failed Adventurer, Bartender, Salt Spitter"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[09 Arby's Sauce|09 Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.943-04:00","modified":"2025-07-27T18:18:36.492-04:00","published":"2025-07-27T18:18:36.492-04:00","cssclasses":"","Age":"??","Ancestry":"Satyr","Gender":"Male","Location":["Scrimshaw City"],"Role":["Failed Adventurer, Bartender, Salt Spitter"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[09 Arby's Sauce|09 Arby's Sauce]]"]}
 ---
 
 

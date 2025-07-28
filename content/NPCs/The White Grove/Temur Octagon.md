@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-27T18:15:07.000-04:00","published":"2025-07-27T18:15:07.000-04:00","cssclasses":"","Age":"22","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Morganth Cultist"],"Affiliation":["[[Jordan's Notes/One Shots/Morganth's LEGION OF DOOM]]"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.460-04:00","modified":"2025-07-27T18:15:07.783-04:00","published":"2025-07-27T18:15:07.783-04:00","cssclasses":"","Age":"22","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Morganth Cultist"],"Affiliation":["[[Jordan's Notes/One Shots/Morganth's LEGION OF DOOM]]"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
