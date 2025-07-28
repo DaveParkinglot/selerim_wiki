@@ -1,0 +1,7 @@
+- The White Grove is encircled by four great trees, which are said to represent the four fundamental pillars of magic—arcane, divine, primal, and infernal. 
+- Though the college pre-dates Tiialia, most of Tiialia's artillery mages, who famously laid waste to Corrodreth, were students of The White Grove.
+- The Primal Tree has been withered since its magic was channeled to stave off an invasion from Corrodreth, during the Serpent Wars.
+- During the Serpent Wars, the Grove was heavily co-opted by The Kingdom of Tiialia, in order to train its artillery mages. Since then it has been jokingly called TACC, or "Tiialan Arcane Cannon College"
+- Recently, admission has opened up to anyone with magical abilities—not just those training to become Tiialan artillery mages.
+- [[NPCs/The White Grove/Arctur Execlostrabaum]], the highly eccentric Tiialan archmage, has been chosen as the headmaster of the school. 
+	- It goes without saying that his highly progressive mindset has been a topic of discussion amongst conservative Tiialans. He believes magic is a staple of the world, to be shared with all peoples whether north, south, above, or... below...
