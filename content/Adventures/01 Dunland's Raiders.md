@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:14:41.211-04:00","published":"2025-07-27T17:14:41.211-04:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-30T08:48:07.000-04:00","published":"2025-07-30T08:48:07.000-04:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20"}
 ---
 
 ## Details
 - **DM**: Mike Doom
 - **Platform:** Roll20
--
+
 ## Adventure Premise
 - You are members of the Tialan army serving in a special cohort called Dunlands Raiders under Captain Crebain Dunland. Your homelands are under attack by the forces of an evil warlock named Morganth.
 - The fate of all Tiialia may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
@@ -16,12 +16,13 @@
 - Eclipse Malificent was working for unknown forces, and turned on the party. He stole the Blackfyre Orb, using it to teleport to some abyssal plane.
 
 ## Players & Characters
-| Player | Character Name | Race | Class |
-|---|---|---|---|
-| Peter | Eclipse Malificent, Sir Chauncy the Brave | Half-Orc, Human | Druid, Paladin |
-| Jimmy | Sam Hornblower | Half-Elf | Fighter |
-| Logan | David Bluke | Half-Elf | Rogue |
-| Jordan | Montius "Monty" Landucci | Human | Fighter |
-| George | Skeeter Lutz | Human | Barbarian |
-| Michael | Cecil Qwezikin III | Gnome | Sorcerer |
-| Evan | Jersesus Mike XLVII | Tiefling | Cleric |
+| Player              | Character Name           | Race     | Class     |
+| ------------------- | ------------------------ | -------- | --------- |
+| Peter | Eclipse Malificent       | Half-Orc | Druid     |
+| Peter | Sir Chauncy the Brave    | Human    | Paladin   |
+| Jimmy | Sam Hornblower           | Half-Elf | Fighter   |
+| Logan | David Bluke              | Half-Elf | Rogue     |
+| Jordan | Montius "Monty" Landucci | Human    | Fighter   |
+| George | Skeeter Lutz             | Human    | Barbarian |
+| Michael | Cecil Qwezikin III       | Gnome    | Sorcerer  |
+| Evan | Jersesus Mike XLVII      | Tiefling | Cleric    |

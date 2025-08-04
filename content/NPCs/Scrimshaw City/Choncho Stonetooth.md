@@ -1,16 +1,7 @@
 ---
-Age: "76"
-Ancestry: Dwarf
-Gender: Male
-Location:
-  - Scrimshaw City
-Role:
-  - Bodyguard
-Affiliation:
-  - Deepmine Delvings
-Appearances:
-  - "[[Adventures/00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-03T19:36:11.000-04:00","published":"2025-08-03T19:36:11.000-04:00","cssclasses":"","Age":"76","Ancestry":"Dwarf","Gender":"Male","Location":["Scrimshaw City"],"Role":["Bodyguard"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
+
 
 ![[z_assets/choncho_stonetooth.png|300]]
 

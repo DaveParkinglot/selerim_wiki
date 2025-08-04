@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.976-04:00","modified":"2025-07-27T18:18:33.646-04:00","published":"2025-07-27T18:18:33.646-04:00","cssclasses":"","Age":"??","Ancestry":"Fiend (Devil)","Gender":"Male","Location":["Scrimshaw City"],"Role":["Former High Roller, El Presidente"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-07-27T18:18:33.000-04:00","published":"2025-07-27T18:18:33.000-04:00","cssclasses":"","Age":"??","Ancestry":"Fiend (Devil)","Gender":"Male","Location":["Scrimshaw City"],"Role":["Former High Roller, El Presidente"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 

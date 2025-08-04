@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:15:20.905-04:00","published":"2025-07-27T17:15:20.905-04:00","cssclasses":"","DM":"Bishop","Players":["Laura","Sam","Jordan"],"Platform":"Foundry"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:15:20.000-04:00","published":"2025-07-27T17:15:20.000-04:00","cssclasses":"","DM":"Bishop","Players":["Laura","Sam","Jordan"],"Platform":"Foundry"}
 ---
 
 ## Details

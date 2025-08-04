@@ -1,16 +1,7 @@
 ---
-Age: "44"
-Ancestry: Human
-Gender: Male
-Location:
-  - Scrimshaw City
-Role:
-  - Barkeep
-Affiliation:
-  - None
-Appearances:
-  - "[[Adventures/00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-03T21:40:45.186-04:00","published":"2025-08-03T21:40:45.186-04:00","cssclasses":"","Age":"44","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City"],"Role":["Barkeep"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
+
 
 ![[z_assets/bourtney_heiser.png|300]]
 

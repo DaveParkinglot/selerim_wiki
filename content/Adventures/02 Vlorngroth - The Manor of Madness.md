@@ -1,6 +1,10 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:15:28.755-04:00","published":"2025-07-27T17:15:28.755-04:00","cssclasses":"","DM":"Jordan","Players":["George","Mike Doom","Peter","Ethan"],"Platform":"Roll20"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-28T15:08:34.000-04:00","published":"2025-07-28T15:08:34.000-04:00","cssclasses":"","DM":"Jordan","Players":["George","Mike Doom","Peter","Ethan"],"Platform":"Roll20"}
 ---
+
+
+[Vlorngroth Setting Overview](https://docs.google.com/document/d/1Khg-5iz74twmw0lpm7uGhwpwCMst3jfx5cegsmLIgOQ/edit?usp=sharing)
+[Inquisitor's Dossier](https://docs.google.com/document/d/1ArZ-0E5nj7U-n0llsEE5PBI-tQCMPfwaBV-JBpxr8Ak/edit?usp=sharing)
 
 ## Details
 - **DM**: Jordan
