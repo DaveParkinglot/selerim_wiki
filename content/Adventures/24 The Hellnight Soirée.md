@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-03T20:47:11.283-04:00","modified":"2025-08-03T21:41:47.763-04:00","published":"2025-08-03T21:41:47.763-04:00","cssclasses":"","DM":"Jordan","Players":null,"Platform":["Foundry"]}
+{"publish":true,"created":"2025-08-03T20:47:11.000-04:00","modified":"2025-08-03T21:41:47.000-04:00","published":"2025-08-03T21:41:47.000-04:00","cssclasses":"","DM":"Jordan","Players":null,"Platform":["Foundry"]}
 ---
 
 ## Details

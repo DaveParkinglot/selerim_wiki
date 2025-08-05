@@ -1,0 +1,30 @@
+---
+{"publish":true,"created":"2025-08-05T13:44:04.000-04:00","modified":"2025-08-05T13:46:28.000-04:00","published":"2025-08-05T13:46:28.000-04:00","cssclasses":"","Age":"??","Ancestry":"Fiend (Devil)","Gender":"M","Location":["Avernus"],"Role":["Hell Baron"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
+---
+
+
+![[z_assets/baron_neffery.png|300]]
+
+### Overview
+A paragraph or bulleted list that describes the character. Might include significant life events, goals, motivations, etc.
+
+### Key Details
+- **Age**: ??
+- **Ancestry**: Fiend (Devil)
+- **Gender**: M
+- **Location**: Avernus
+- **Role**: Hell Baron
+- **Affiliation:** None
+
+### Attributes
+- **Voice**: Polite English
+- **Traits**: 
+- **Ideals:** Be ruthless in business dealings, but be polite while doing it
+- **Appearance**: 15 feet tall devil from hell
+
+### Relationships
+
+| Name | Relationship |
+| ---- | ------------ |
+|      |              |
+
