@@ -1,12 +1,13 @@
 ---
-{"publish":true,"created":"2025-08-05T13:44:04.000-04:00","modified":"2025-08-05T13:46:28.000-04:00","published":"2025-08-05T13:46:28.000-04:00","cssclasses":"","Age":"??","Ancestry":"Fiend (Devil)","Gender":"M","Location":["Avernus"],"Role":["Hell Baron"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
+{"publish":true,"created":"2025-08-05T13:44:04.000-04:00","modified":"2025-08-05T16:26:44.864-04:00","published":"2025-08-05T16:26:44.864-04:00","cssclasses":"","Age":"??","Ancestry":"Fiend (Devil)","Gender":"M","Location":["Avernus"],"Role":["Hell Baron"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
 ---
 
 
 ![[z_assets/baron_neffery.png|300]]
 
 ### Overview
-A paragraph or bulleted list that describes the character. Might include significant life events, goals, motivations, etc.
+- A powerful hell baron who made a name for himself in the Blood War, he is constantly trying to usurp the holdings of other fiends across the multiverse.
+- Though he may seem polite, he is always looking for leverage in order to dominate and subjugate others.
 
 ### Key Details
 - **Age**: ??

@@ -25,5 +25,4 @@
 | [[Adventures/22 The Great Tiialan Heist\|22 The Great Tiialan Heist]]                         | Ethan     | <ul><li>Bishop</li><li>Mike Doom</li><li>Jordan</li><li>Devin</li></ul>                                            | Foundry                                  |
 | [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]         | Jordan    | <ul><li>Ethan</li><li>Mike Doom</li><li>Brian</li></ul>                                                            | Foundry                                  |
 | [[Adventures/24 The Hellnight Soirée\|24 The Hellnight Soirée]]                               | Jordan    | <ul><li>Laura</li><li>Brian</li><li>Mike Doom</li></ul>                                                            | <ul><li>Foundry</li></ul>                |
-| [[Adventures/Extras/Binky Sliver's Hellnight Dossier\|Binky Sliver's Hellnight Dossier]]      | \-        | \-                                                                                                                 | \-                                       |
 

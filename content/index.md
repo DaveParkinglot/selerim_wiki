@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Welcome to Selerim","created":"2025-07-02T19:01:27.000-04:00","modified":"2025-07-27T17:29:49.000-04:00","published":"2025-07-27T17:29:49.000-04:00","cssclasses":""}
+{"publish":true,"title":"Welcome to Selerim","created":"2025-07-02T19:01:27.000-04:00","modified":"2025-08-10T19:12:54.238-04:00","published":"2025-08-10T19:12:54.238-04:00","cssclasses":""}
 ---
 
 **Summary Page Quick-Links:**
@@ -9,7 +9,7 @@
 
 Wiki page for worldbuilding and information about the Selerim and Selerim 5K D&D campaign settings.
 
-**Some of these notes may be unfinished.**
+**Some (or even most) of these notes may be unfinished.**
 
 Github repo:
 https://github.com/DaveParkinglot/selerim_wiki
