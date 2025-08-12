@@ -1,16 +1,7 @@
 ---
-Age: ??
-Ancestry: Elf
-Gender: Male
-Location:
-  - Tanglewood Peninsula
-Role:
-  - Eco-Terrorist, Druid
-Affiliation:
-  - None
-Appearances:
-  - "[[Adventures/00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-12T09:14:57.798-04:00","published":"2025-08-12T09:14:57.798-04:00","cssclasses":"","Age":"??","Ancestry":"Elf","Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Eco-Terrorist, Druid"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
+
 
 ![[malmstein_the_tangler_rip_.webp]]
 

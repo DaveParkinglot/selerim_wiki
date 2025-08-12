@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-30T08:48:07.000-04:00","published":"2025-07-30T08:48:07.000-04:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-08-12T09:05:25.077-04:00","published":"2025-08-12T09:05:25.077-04:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20"}
 ---
 
 ## Details
@@ -7,7 +7,7 @@
 - **Platform:** Roll20
 
 ## Adventure Premise
-- You are members of the Tialan army serving in a special cohort called Dunlands Raiders under Captain Crebain Dunland. Your homelands are under attack by the forces of an evil warlock named Morganth.
+- You are members of the Tiialan army serving in a special cohort called Dunlands Raiders under Captain Crebain Dunland. Your homelands are under attack by the forces of an evil warlock named Morganth.
 - The fate of all Tiialia may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
 
 ## Outcomes

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-03T20:47:11.283-04:00","modified":"2025-08-05T15:07:58.476-04:00","published":"2025-08-05T15:07:58.476-04:00","cssclasses":"","DM":"Jordan","Players":["Laura","Brian","Mike Doom"],"Platform":["Foundry"]}
+{"publish":true,"created":"2025-08-03T20:47:11.283-04:00","modified":"2025-08-12T09:24:54.575-04:00","published":"2025-08-12T09:24:54.575-04:00","cssclasses":"","DM":"Jordan","Players":["Laura","Brian","Mike Doom"],"Platform":["Foundry"]}
 ---
 
 ## Details
@@ -13,7 +13,11 @@
 - Binky has provided his research into the most important guests: [[Selerim Worldbuilding/Extras/Binky Sliver's Hellnight Dossier]].
 
 ## Outcomes
-- List of adventure outcomes
+- The brave adventurers took up the job of bouncers at the soirée, successfully turning away the Diaboli Non Grata [[NPCs/Other/Humana]] and [[NPCs/Other/Billy Bubbler]] with clever deception and favors.
+- They were unable to talk down [[NPCs/Other/Chauncy the Unrepentant]] from a fight, but soundly defeated him and sent him back to the Lower Planes, 
+- They cleverly pitted the entourages of [[NPCs/Other/Baron Neffery]] and [[NPCs/Other/Pazuzu]] against each other while eating hors d'oeuvres.
+- Towards the end of the evening, they sparked a fight in the ballroom which erupted into a brutal full blown melee.
+- The entourages of both [[NPCs/Other/Pazuzu]] and the [[NPCs/Other/Baron Neffery\|Baron]] were severely weakened, and their new Fiend Feud will prevent either of them from initiating a hostile takeover of [[NPCs/Scrimshaw City/Hugh Mann]]'s Fiend Franchise in [[Locations/Scrimshaw City]].
 
 ## Players & Characters
 | Player              | Character Name           | Race    | Class   |

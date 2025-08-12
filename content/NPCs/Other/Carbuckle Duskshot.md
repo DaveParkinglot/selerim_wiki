@@ -1,18 +1,7 @@
 ---
-Age: "42"
-Ancestry: Drow
-Gender: Male
-Location:
-  - Vlorngroth
-  - Tiialia
-Role:
-  - Gunslinger Bounty Hunter, Former Inquisitor
-Affiliation:
-  - Vlorngroth
-  - "[[Player Characters/The High Rollers/The High Rollers]]"
-Appearances:
-  - "[[Adventures/00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-12T09:10:18.474-04:00","published":"2025-08-12T09:10:18.474-04:00","cssclasses":"","Age":"42","Ancestry":"Drow","Gender":"Male","Location":["Vlorngroth","Tiialia"],"Role":["Gunslinger Bounty Hunter, Former Inquisitor"],"Affiliation":["Vlorngroth","[[The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
+
 
 ![[z_assets/carbuckle_duskshot.png|300]]
 
