@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T11:17:12.000-04:00","modified":"2025-07-27T18:10:45.000-04:00","published":"2025-07-27T18:10:45.000-04:00","cssclasses":"","Age":null,"Ancestry":null,"Gender":null,"Location":null,"Role":null,"Affiliation":null,"Appearances":["[[21 The Crimsonclaw Bounty]]"]}
+{"publish":true,"created":"2025-07-25T11:17:12.000-04:00","modified":"2025-08-14T15:53:32.600-04:00","published":"2025-08-14T15:53:32.600-04:00","cssclasses":"","Age":"??","Ancestry":["Half-Elf"],"Gender":"Female","Location":["Breakwater Cove"],"Role":["Ship Captain"],"Affiliation":["None"],"Appearances":["[[21 The Crimsonclaw Bounty]]"]}
 ---
 
 
@@ -9,12 +9,12 @@
 A paragraph or bulleted list that describes the character. Might include significant life events, goals, motivations, etc.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
+- **Age**: ??
+- **Ancestry**: Half-Elf
+- **Gender**: Female
+- **Location**: Breakwater Cove
+- **Role**: Ship Captain
+- **Affiliation:** None
 - **Appearances:** [[Adventures/21 The Crimsonclaw Bounty\|21 The Crimsonclaw Bounty]]
 
 ### Attributes

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:12:33.121-04:00","published":"2025-08-14T15:12:33.121-04:00","cssclasses":"","Age":"??","Ancestry":["Devil"],"Gender":"Male","Location":["Dead"],"Role":["Former El Presidente"],"Affiliation":["[[Tavernstool]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:56:05.872-04:00","published":"2025-08-14T15:56:05.872-04:00","cssclasses":"","Age":"347","Ancestry":["Devil"],"Gender":"Male","Location":["Dead"],"Role":["Former El Presidente"],"Affiliation":["[[Tavernstool]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 ![[z_assets/lord_davos_portnoir_human.jpg|200]] ![[z_assets/lord_davos_portnoir_devil.png|300]]
@@ -9,7 +9,7 @@
 - He was sent screaming back to the Nine Hells after [[NPCs/Scrimshaw City/Hugh Mann]] and [[Player Characters/The High Rollers/The High Rollers]] slew him in his lair beneath the Tavernstool Office Complex.
 
 ### Key Details
-- **Age**: ??
+- **Age**: 347
 - **Ancestry**: Devil
 - **Gender**: Male
 - **Location**: Dead
