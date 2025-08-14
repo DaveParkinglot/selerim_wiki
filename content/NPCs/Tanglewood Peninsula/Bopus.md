@@ -1,18 +1,7 @@
 ---
-Age: "64"
-Ancestry: Gnome
-Gender: Male
-Location:
-  - The Cronium Caves, Crabbley
-Role:
-  - Gnome Diplomat
-Affiliation:
-  - Cronium Gnomes
-Appearances:
-  - "[[Adventures/00 -The High Rollers Campaign-]]"
-  - "[[Adventures/06 Pill'Grim's Bounty]]"
-  - "[[Adventures/21 The Crimsonclaw Bounty]]"
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-08-14T15:06:58.538-04:00","published":"2025-08-14T15:06:58.538-04:00","cssclasses":"","Age":"64","Ancestry":"Gnome","Gender":"Male","Location":["The Cronium Caves, Crabbley"],"Role":["Gnome Diplomat"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[06 Pill'Grim's Bounty]]","[[21 The Crimsonclaw Bounty]]"]}
 ---
+
 
 ![[z_assets/bopus.webp]]
 

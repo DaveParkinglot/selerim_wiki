@@ -1,17 +1,7 @@
 ---
-Age: "3"
-Ancestry: Galeb Duhr, Rock Elemental
-Gender: Male
-Location:
-  - Scrimshaw City
-Role:
-  - Rock
-  - Mascot
-Affiliation:
-  - None
-Appearances:
-  - "[[Adventures/00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:24:05.732-04:00","published":"2025-08-14T15:24:05.732-04:00","cssclasses":"","Age":"3","Ancestry":["Galeb Duhr, Rock Elemental"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Rock","Mascot"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
+
 
 ![[z_assets/caleb_duhr.png|300]]
 
@@ -23,7 +13,7 @@ Appearances:
 - **Age**: 3
 - **Ancestry**: Galeb Duhr, Rock Elemental
 - **Gender**: Male
-- **Location**: Scrimshaw City
+- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Rock,Mascot
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

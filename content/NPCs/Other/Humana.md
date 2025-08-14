@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-12T08:54:32.000-04:00","modified":"2025-08-12T08:57:43.206-04:00","published":"2025-08-12T08:57:43.206-04:00","cssclasses":"","Age":"??","Ancestry":"Night Hag","Gender":"Female","Location":["Varies"],"Role":["Soul Dealer"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
+{"publish":true,"created":"2025-08-12T08:54:32.000-04:00","modified":"2025-08-14T15:09:10.812-04:00","published":"2025-08-14T15:09:10.812-04:00","cssclasses":"","Age":"??","Ancestry":"Night Hag","Gender":"Female","Location":["Varies"],"Role":["Soul Dealer"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
 ---
 
 
@@ -21,7 +21,7 @@
 ### Attributes
 - **Voice**: Posh British
 - **Traits**: Loves to receive favors and gifts
-- **Ideals:** 
+- **Ideals:** Strong souls survive, and weak souls get sold en masse
 - **Appearance**: Blue skinned night hag
 
 ### Relationships

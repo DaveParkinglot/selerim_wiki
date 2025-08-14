@@ -1,41 +1,33 @@
 ---
-Age: ??
-Ancestry: Human
-Gender: Female
-Location:
-  - Nova Jersaeria
-Role:
-  - Court Witch
-Affiliation:
-  - None
-Appearances:
-  - "[[Adventures/00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T14:40:25.765-04:00","published":"2025-08-14T14:40:25.765-04:00","cssclasses":"","Age":"46","Ancestry":["Human"],"Gender":"Female","Location":["Nova Jersaeria"],"Role":["Court Witch"],"Affiliation":["[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Fanto-Domingo Family]]","[[The Landucci Family]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[faustia_fanto_domingo_rip_.webp]]
+
+![[z_assets/faustia_fanto-domingo.png|300]]
 
 ### Overview
-- Cunning enchanter wizard, and matriarch of the Fanto-Domingo family.
-- She orchestrated the Midsummer Massacre that wiped out the Espositos.
-- She was in league with the tyrant Lord Draco Landucci, and sought to rule all of Tiialia through the puppet king Antonio Adonzio.
-- She was killed by The High Rollers in the Nova Jersaeria throne room during their confrontation with Lord Draco Landucci and his burly twin sons.
+- Cunning enchantress, and matriarch of [[The Fanto-Domingo Family]]
+- She orchestrated the Midsummer Massacre that wiped out [[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]].
+- She was in league with the tyrant [[NPCs/Deceased/Lord Draco Landucci]], and sought to rule all of Tiialia through the puppet king Antonio Adonzio.
+- She was killed by [[Player Characters/The High Rollers/The High Rollers]] in the [[Locations/The Kingdom of Tiialia/Nova Jersaeria]] throne room during their confrontation with Lord Draco Landucci and his burly twin sons.
 
 ### Key Details
-- **Age**: ??
+- **Age**: 46
 - **Ancestry**: Human
 - **Gender**: Female
 - **Location**: Nova Jersaeria
 - **Role**: Court Witch
-- **Affiliation:** None
+- **Affiliation:** [[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Fanto-Domingo Family\|The Fanto-Domingo Family]],[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Landucci Family\|The Landucci Family]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
-- **Voice**: 
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Voice**: Witchy
+- **Traits**: Mean
+- **Ideals:** Gain power and influence in Tiialia
+- **Appearance**: Black haired with a resting bitch face
 
 ### Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                    | Relationship   |
+| ----------------------- | -------------- |
+| [[NPCs/Deceased/Lord Draco Landucci]] | Co-Conspirator |

@@ -1,29 +1,36 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-07-27T18:18:32.000-04:00","published":"2025-07-27T18:18:32.000-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["Scrimshaw City"],"Role":["Blood Hunter, COO of The Spicy Meatball"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[09 Arby's Sauce|09 Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-08-14T15:46:59.649-04:00","published":"2025-08-14T15:46:59.649-04:00","cssclasses":"","Age":"??","Ancestry":["Human"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[Locations/The Spicy Meatball]]"],"Role":["Acting CEO","Blood Hunter"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[09 Arby's Sauce|09 Arby's Sauce]]"]}
 ---
 
 
-![[loeb.webp]]
+![[z_assets/loeb.png|300]]
 
 ### Overview
-No summary available.
+- Originally, Loeb was [[Player Characters/The High Rollers/Tadeusz]]'s blood hunter battle buddy who was lost after their voyage to kill a kraken went wrong.
+- Like all blood hunters, he is steely on the surface, with a bestial fury underneath. He uses this very effectively in managing [[The Spicy Meatball]] and all of its misfit workers in the absence of [[Player Characters/The High Rollers/Tadeusz]] and the rest of [[The High Rollers]].
 
 ### Key Details
 - **Age**: ??
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: Scrimshaw City
-- **Role**: Blood Hunter, COO of The Spicy Meatball
-- **Affiliation:** None
+- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]],[[Locations/The Spicy Meatball\|The Spicy Meatball]]
+- **Role**: Acting CEO,Blood Hunter
+- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/09 Arby's Sauce\|09 Arby's Sauce]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Geralt of Rivia
 - **Traits**: 
 - **Ideals:** 
-- **Appearance**:
+- **Appearance**: 
 
 ### Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                       | Relationship  |
+| -------------------------- | ------------- |
+| [[Player Characters/The High Rollers/Tadeusz]]                | Blood Brother |
+| [[NPCs/Scrimshaw City/Arbeits Gemeinschaften]] | Employee      |
+| [[NPCs/Scrimshaw City/Hooligan Dupree]]        | Employee      |
+| [[NPCs/Scrimshaw City/Usus 'Sussy' Grimsby]]           | Employee      |
+| [[NPCs/Scrimshaw City/Hoary Boulder]]          | Employee      |
+| [[NPCs/Scrimshaw City/Caleb Duhr]]             | Employee      |
