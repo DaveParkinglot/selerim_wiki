@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-14T15:47:23.396-04:00","published":"2025-08-14T15:47:23.396-04:00","cssclasses":"","Age":"??","Ancestry":"Deep Gnome","Gender":"Male","Location":["The High Roller's Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-22T12:49:46.866-04:00","published":"2025-08-22T12:49:46.866-04:00","cssclasses":"","Age":"??","Ancestry":"Deep Gnome","Gender":"Male","Location":["The High Roller's Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[bedmund_the_catatonic.webp]]
+![[z_assets/bedmund_the_catatonic.png|300]]
 
 ### Overview
 - He was once a prisoner of the Vlorn Dynasty, sequestered away in Duskveil Asylum, until he managed to escape after being interrogated by inquisitors one fateful evening.

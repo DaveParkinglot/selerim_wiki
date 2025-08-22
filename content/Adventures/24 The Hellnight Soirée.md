@@ -10,7 +10,7 @@
 - [[NPCs/Scrimshaw City/Hugh Mann]], El Presidente of Scrimshaw, has vanished from the city on the eve of his own party, the [[Selerim Worldbuilding/Holidays/Hellnight]] Soirée.
 - [[NPCs/Scrimshaw City/Binky Slivers]], bartender at The High Roller and Mann's fixer, has called you in because of your previous success in eliminating the demonic presence at the Crystal Theatre.
 - Binky believes the situation to be grim, and has said as much:  "The El Presidente's absence leaves us open to a hostile takeover by young professionals and barons of hell alike."
-- Binky has provided his research into the most important guests: [[Selerim Worldbuilding/Extras/Binky Sliver's Hellnight Dossier]].
+- Binky has provided his research into the most important guests: [[Selerim Worldbuilding/Adventure Handouts/Binky Sliver's Hellnight Dossier]].
 
 ## Outcomes
 - The brave adventurers took up the job of bouncers at the soirée, successfully turning away the Diaboli Non Grata [[NPCs/Other/Humana]] and [[NPCs/Other/Billy Bubbler]] with clever deception and favors.
