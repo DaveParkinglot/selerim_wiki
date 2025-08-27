@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-26T23:27:19.000-04:00","modified":"2025-08-27T08:46:09.006-04:00","published":"2025-08-27T08:46:09.006-04:00","cssclasses":"","Age":"45","Ancestry":["Human"],"Gender":"Male","Location":"Batiste Family Manor, Nova Jersaeria","Role":"Conman, Crime affiliate","Affiliation":"Batiste Family","Appearances":["[[22 The Great Tiialan Heist]]"]}
+{"publish":true,"created":"2025-08-26T23:27:19.000-04:00","modified":"2025-08-27T08:46:09.000-04:00","published":"2025-08-27T08:46:09.000-04:00","cssclasses":"","Age":"45","Ancestry":["Human"],"Gender":"Male","Location":"Batiste Family Manor, Nova Jersaeria","Role":"Conman, Crime affiliate","Affiliation":"Batiste Family","Appearances":["[[22 The Great Tiialan Heist]]"]}
 ---
 
 

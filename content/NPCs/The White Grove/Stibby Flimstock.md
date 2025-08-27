@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-27T18:13:45.000-04:00","published":"2025-07-27T18:13:45.000-04:00","cssclasses":"","Age":"17","Ancestry":"Tiefling","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-27T09:38:58.276-04:00","published":"2025-08-27T09:38:58.276-04:00","cssclasses":"","Age":"17","Ancestry":"Tiefling","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
 ![[z_assets/stibby_flimstock.png|300]]
 
 ### Overview
-A tiefling student at [[The White Grove]] who is very uncertain and bad at infernal magic.
+- A tiefling student at [[The White Grove]] who is very uncertain and bad at infernal magic.
 
 ### Key Details
 - **Age**: 17

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:55:53.000-04:00","published":"2025-08-14T15:55:53.000-04:00","cssclasses":"","Age":"326","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["El Presidente","Former Adventurer"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]","Tavernstool"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:55:53.061-04:00","published":"2025-08-14T15:55:53.061-04:00","cssclasses":"","Age":"326","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["El Presidente","Former Adventurer"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]","Tavernstool"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 

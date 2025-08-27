@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:11:54.000-04:00","published":"2025-08-14T15:11:54.000-04:00","cssclasses":"","Age":"45","Ancestry":["Tiefling"],"Gender":"Male","Location":["Scrimshaw City"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:11:54.935-04:00","published":"2025-08-14T15:11:54.935-04:00","cssclasses":"","Age":"45","Ancestry":["Tiefling"],"Gender":"Male","Location":["Scrimshaw City"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-08-22T13:00:41.000-04:00","published":"2025-08-22T13:00:41.000-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Larry","Bishop","George","Bucher","Matt"],"Platform":"Foundry"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-08-22T13:00:41.626-04:00","published":"2025-08-22T13:00:41.626-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Larry","Bishop","George","Bucher","Matt"],"Platform":"Foundry"}
 ---
 
 Handouts:

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:41:52.000-04:00","published":"2025-08-14T15:41:52.000-04:00","cssclasses":"","Age":"48","Ancestry":["Bugbear"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bouncer, Former Monster Wrangler"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[09 Arby's Sauce|09 Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:41:52.974-04:00","published":"2025-08-14T15:41:52.974-04:00","cssclasses":"","Age":"48","Ancestry":["Bugbear"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bouncer, Former Monster Wrangler"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[09 Arby's Sauce|09 Arby's Sauce]]"]}
 ---
 
 

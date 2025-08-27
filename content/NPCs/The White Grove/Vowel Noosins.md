@@ -1,13 +1,12 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-27T18:13:57.000-04:00","published":"2025-07-27T18:13:57.000-04:00","cssclasses":"","Age":"14","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-27T09:38:52.417-04:00","published":"2025-08-27T09:38:52.417-04:00","cssclasses":"","Age":"14","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
 ![[z_assets/vowel_noosins.png|300]]
 
 ### Overview
-A selectively mute student studying at The White Grove.
-
+- A selectively mute student studying at The White Grove.
 - Stole Temur Octagon's notes for The Earl.
 
 ### Key Details

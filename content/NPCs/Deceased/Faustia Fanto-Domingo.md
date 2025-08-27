@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T14:40:25.000-04:00","published":"2025-08-14T14:40:25.000-04:00","cssclasses":"","Age":"46","Ancestry":["Human"],"Gender":"Female","Location":["Nova Jersaeria"],"Role":["Court Witch"],"Affiliation":["[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Fanto-Domingo Family]]","[[The Landucci Family]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T14:40:25.765-04:00","published":"2025-08-14T14:40:25.765-04:00","cssclasses":"","Age":"46","Ancestry":["Human"],"Gender":"Female","Location":["Nova Jersaeria"],"Role":["Court Witch"],"Affiliation":["[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Fanto-Domingo Family]]","[[The Landucci Family]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

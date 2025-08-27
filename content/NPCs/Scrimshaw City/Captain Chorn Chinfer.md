@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:24:03.000-04:00","published":"2025-08-14T15:24:03.000-04:00","cssclasses":"","Age":"32","Ancestry":["Tiefling"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Ship Captain"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:24:03.235-04:00","published":"2025-08-14T15:24:03.235-04:00","cssclasses":"","Age":"32","Ancestry":["Tiefling"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Ship Captain"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

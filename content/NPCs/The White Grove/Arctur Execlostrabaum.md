@@ -1,13 +1,12 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-27T18:12:28.000-04:00","published":"2025-07-27T18:12:28.000-04:00","cssclasses":"","Age":"214","Ancestry":"Dwarf","Gender":"M","Location":["[[Locations/The White Grove]]"],"Role":["Headmaster"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-27T09:38:45.487-04:00","published":"2025-08-27T09:38:45.487-04:00","cssclasses":"","Age":"214","Ancestry":"Dwarf","Gender":"M","Location":["[[Locations/The White Grove]]"],"Role":["Headmaster"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
 ![[z_assets/arctur_execlostrabaum.png|300]]
 
 ### Overview
-Headmaster of [[The White Grove]] with disturbingly liberal magical philosophies.
-
+- Headmaster of [[The White Grove]] with disturbingly liberal magical philosophies.
 - He is a nephew of [[NPCs/Deceased/Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
 
 ### Key Details

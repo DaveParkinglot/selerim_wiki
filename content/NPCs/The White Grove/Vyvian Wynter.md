@@ -1,13 +1,12 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-07-27T18:13:51.000-04:00","published":"2025-07-27T18:13:51.000-04:00","cssclasses":"","Age":"16","Ancestry":"Human","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-27T09:38:49.717-04:00","published":"2025-08-27T09:38:49.717-04:00","cssclasses":"","Age":"16","Ancestry":"Human","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
 ![[z_assets/vyvian_wynter.png|300]]
 
 ### Overview
-A friendly/bossy girl studying at The White Grove.
-
+- A friendly/bossy girl studying at The White Grove.
 - Tries to protect [[NPCs/The White Grove/Vowel Noosins]] from those who would take advantage of his meek will.
 
 ### Key Details

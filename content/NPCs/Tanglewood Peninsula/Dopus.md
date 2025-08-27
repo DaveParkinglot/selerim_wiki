@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-08-14T15:07:13.000-04:00","published":"2025-08-14T15:07:13.000-04:00","cssclasses":"","Age":"??","Ancestry":"Gnome","Gender":"Male","Location":["The Cronium Caves, Crabbley"],"Role":["Clone of Bopus"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-08-14T15:07:13.004-04:00","published":"2025-08-14T15:07:13.004-04:00","cssclasses":"","Age":"??","Ancestry":"Gnome","Gender":"Male","Location":["The Cronium Caves, Crabbley"],"Role":["Clone of Bopus"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
