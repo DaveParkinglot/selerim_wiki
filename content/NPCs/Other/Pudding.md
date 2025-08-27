@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:09:33.102-04:00","published":"2025-08-14T15:09:33.102-04:00","cssclasses":"","Age":"22","Ancestry":"Troll","Gender":"Male","Location":["The Underdark","The Fathomless Vault","Mitlin","Scrimshaw City"],"Role":["Helpful Troll"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[Adventures/16 Kindlethicket - The Winter Hunt]]","[[Adventures/20 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:09:33.000-04:00","published":"2025-08-14T15:09:33.000-04:00","cssclasses":"","Age":"22","Ancestry":"Troll","Gender":"Male","Location":["The Underdark","The Fathomless Vault","Mitlin","Scrimshaw City"],"Role":["Helpful Troll"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[Adventures/16 Kindlethicket - The Winter Hunt]]","[[Adventures/20 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 

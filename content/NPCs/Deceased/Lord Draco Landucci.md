@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T14:48:56.582-04:00","published":"2025-08-14T14:48:56.582-04:00","cssclasses":"","Age":"56","Ancestry":["Human"],"Gender":"Male","Location":["Nova Jersaeria"],"Role":["Tyrant Lord"],"Affiliation":["[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Landucci Family]]","[[The Fanto-Domingo Family]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T14:48:56.000-04:00","published":"2025-08-14T14:48:56.000-04:00","cssclasses":"","Age":"56","Ancestry":["Human"],"Gender":"Male","Location":["Nova Jersaeria"],"Role":["Tyrant Lord"],"Affiliation":["[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Landucci Family]]","[[The Fanto-Domingo Family]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 ![[z_assets/lord_draco_landucci.png|300]]

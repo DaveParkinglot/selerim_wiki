@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-08-14T15:07:11.314-04:00","published":"2025-08-14T15:07:11.314-04:00","cssclasses":"","Age":"42","Ancestry":"Half-Elf","Gender":"Male","Location":["Crabbley"],"Role":["Shopkeeper"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-08-14T15:07:11.000-04:00","published":"2025-08-14T15:07:11.000-04:00","cssclasses":"","Age":"42","Ancestry":"Half-Elf","Gender":"Male","Location":["Crabbley"],"Role":["Shopkeeper"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

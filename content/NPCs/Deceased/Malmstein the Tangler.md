@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T14:53:13.508-04:00","published":"2025-08-14T14:53:13.508-04:00","cssclasses":"","Age":"48","Ancestry":["Half-Elf"],"Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Eco-Terrorist, Druid"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T14:53:13.000-04:00","published":"2025-08-14T14:53:13.000-04:00","cssclasses":"","Age":"48","Ancestry":["Half-Elf"],"Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Eco-Terrorist, Druid"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

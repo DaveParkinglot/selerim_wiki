@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-22T12:49:46.866-04:00","published":"2025-08-22T12:49:46.866-04:00","cssclasses":"","Age":"??","Ancestry":"Deep Gnome","Gender":"Male","Location":["The High Roller's Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-22T12:49:46.000-04:00","published":"2025-08-22T12:49:46.000-04:00","cssclasses":"","Age":"??","Ancestry":"Deep Gnome","Gender":"Male","Location":["The High Roller's Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 -The High Rollers Campaign-]]"]}
 ---
 
 

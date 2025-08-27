@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:23:53.752-04:00","published":"2025-08-14T15:23:53.752-04:00","cssclasses":"","Age":"53","Ancestry":["Halfling"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]","Varies"],"Role":["Bard, Bandmember (Lead Lutist)"],"Affiliation":["Crag Delta"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:23:53.000-04:00","published":"2025-08-14T15:23:53.000-04:00","cssclasses":"","Age":"53","Ancestry":["Halfling"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]","Varies"],"Role":["Bard, Bandmember (Lead Lutist)"],"Affiliation":["Crag Delta"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 

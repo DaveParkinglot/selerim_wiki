@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-16T21:13:04.000-04:00","modified":"2025-08-16T21:31:48.481-04:00","published":"2025-08-16T21:31:48.481-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Brian"],"Platform":"Foundry"}
+{"publish":true,"created":"2025-08-16T21:13:04.000-04:00","modified":"2025-08-16T21:31:48.000-04:00","published":"2025-08-16T21:31:48.000-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Brian"],"Platform":"Foundry"}
 ---
 
 ## Details
