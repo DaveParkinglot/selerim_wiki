@@ -1,12 +1,13 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-08-14T15:07:11.314-04:00","published":"2025-08-14T15:07:11.314-04:00","cssclasses":"","Age":"42","Ancestry":"Half-Elf","Gender":"Male","Location":["Crabbley"],"Role":["Shopkeeper"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-05T08:40:24.913-04:00","published":"2025-09-05T08:40:24.913-04:00","cssclasses":"","Age":"42","Ancestry":"Half-Elf","Gender":"Male","Location":["Crabbley"],"Role":["Shopkeeper"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[z_assets/brahaxian_bastifor.png]]
+![[z_assets/brahaxian_bastifor.png|300]]
 
 ### Overview
-Trophy husband, shopkeeper.
+- Trophy husband of Mayor [[NPCs/Tanglewood Peninsula/Antoona Bastifor]].
+- Shopkeeper at Bastifor's General Store in Crabbley.
 
 ### Key Details
 - **Age**: 42
@@ -14,11 +15,11 @@ Trophy husband, shopkeeper.
 - **Gender**: Male
 - **Location**: Crabbley
 - **Role**: Shopkeeper
-- **Affiliation:** [[Crabbley Council\|Crabbley Council]]
+- **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: High society fancy
 - **Traits**: 
 - **Ideals:** 
 - **Appearance**:

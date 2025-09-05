@@ -1,9 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-25T11:19:09.000-04:00","modified":"2025-07-30T08:48:24.000-04:00","published":"2025-07-30T08:48:24.000-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"]}
+{"publish":true,"created":"2025-07-25T11:19:09.000-04:00","modified":"2025-09-05T08:21:13.207-04:00","published":"2025-09-05T08:21:13.207-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"]}
 ---
 
-The OG Campaign. [Session Notes and Campaign Calendar archived here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDrepZ6ufuBd06czok7yZsXPGo6cuFXygRQpcnKU0MQsEsPHQac3FE7obJlYtZXZ4WPgaxIftdBcd-/pubhtml).
-
+The OG Selerim Campaign. [Session Notes and Campaign Calendar archived here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDrepZ6ufuBd06czok7yZsXPGo6cuFXygRQpcnKU0MQsEsPHQac3FE7obJlYtZXZ4WPgaxIftdBcd-/pubhtml).
 
 # Players & Characters
 | Player              | Character Name                 | Race      | Class        |

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-07-27T17:15:02.000-04:00","published":"2025-07-27T17:15:02.000-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Devin","Mike Doom"],"Platform":"Foundry"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-05T08:36:19.979-04:00","published":"2025-09-05T08:36:19.979-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Devin","Mike Doom"],"Platform":"Foundry"}
 ---
 
 ## Details
@@ -14,7 +14,7 @@
 - Whoever your character is, whether brave or foolish, they will soon leave the safety of the town to track Old Crimsonclaw through the twisting trails of the Tanglewood wilds...
 
 ## Outcomes
-- The party retrieved the bounty and a map from Bopus the Gnome after some carousing at the Crab Claw Inn.
+- The party retrieved the bounty and a map from [[NPCs/Tanglewood Peninsula/Bopus]] after some carousing at the Crab Claw Inn.
 - After leaving town, they ventured through the Tanglewood Wilds until they reached the old Greenspring Trail.
 - While traveling the trail, they looted a dead member of the Crillville Defense Force and barely escaped an ambush by crocodiles, thanks to a friendly mud mephit named Jiggy Mudpie.
 - Unbelievably, the manticore Old Crimsonclaw's nest was made atop the Leaky Bucket, the lost sailing ship of the famous privateer [[NPCs/Breakwater Cove/Captain Winchester Bone]].
