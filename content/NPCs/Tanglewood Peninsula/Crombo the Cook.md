@@ -1,15 +1,17 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-05T08:40:35.630-04:00","published":"2025-09-05T08:40:35.630-04:00","cssclasses":"","Age":"??","Ancestry":"Dragonborn","Gender":"Male","Location":["Crabbley"],"Role":["Adventurer, Bard, Head Chef"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-10T09:02:58.482-04:00","published":"2025-09-10T09:02:58.482-04:00","cssclasses":"","Age":"17","Ancestry":"Dragonborn","Gender":"Male","Location":["Crabbley"],"Role":["Adventurer, Bard, Head Chef"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[crombo_the_unchained_cook.webp]]
+![[z_assets/crombo_the_cook.png|300]]
 
 ### Overview
-Goes by "The Unchained" after he was rescued from being kidnapped by kobolds.
+- Carefree dragonborn bard who wants to be an adventurer, unfortunately he is also the full time head chef at The Soggy Bottom and his work schedule is insane.
+- He goes by "The Unchained" after he was rescued from being kidnapped by kobolds.
+- He is attempting to create an adventuring party with [[NPCs/Tanglewood Peninsula/Bondoon Jr.]]
 
 ### Key Details
-- **Age**: ??
+- **Age**: 17
 - **Ancestry**: Dragonborn
 - **Gender**: Male
 - **Location**: Crabbley
@@ -18,12 +20,14 @@ Goes by "The Unchained" after he was rescued from being kidnapped by kobolds.
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
-- **Voice**: 
+- **Voice**: Normal
 - **Traits**: 
 - **Ideals:** 
-- **Appearance**:
+- **Appearance**: 
 
 ### Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                   | Relationship |
+| ---------------------- | ------------ |
+| [[NPCs/Tanglewood Peninsula/Bondoon Jr.]]        | Party Member |
+| [[NPCs/Tanglewood Peninsula/Grasbo the Barkeep]] | Boss         |

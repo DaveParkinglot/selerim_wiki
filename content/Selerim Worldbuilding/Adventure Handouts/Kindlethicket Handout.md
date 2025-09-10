@@ -11,7 +11,3 @@ Handout for [[Adventures/15 Kindlethicket - Envoys of Mitlin]]
 
 Map of the Tanglewood Peninsula, with the location of the Fey Crossing circled in yellow:
 ![[z_assets/kindlethicket_map_location.png]]
-
-  
-  
-**

@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-04T11:26:51.951-04:00","published":"2025-09-04T11:26:51.951-04:00","cssclasses":"","Age":"45","Ancestry":"Human","Gender":"Female","Location":["Crabbley"],"Role":["Former Adventurer, Sorcerer, Advisor"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-10T09:02:40.414-04:00","published":"2025-09-10T09:02:40.414-04:00","cssclasses":"","Age":"45","Ancestry":"Human","Gender":"Female","Location":["Crabbley"],"Role":["Former Adventurer","Wizard","Advisor"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[z_assets/Pasted image 20250904112436.png|300]]
+![[z_assets/bolla_van_gander.png|300]]
 
 ### Overview
-- Former adventurer, powerful sorcerer and advisor to Mayor [[NPCs/Tanglewood Peninsula/Antoona Bastifor]].
+- Former adventurer, powerful wizard, and advisor to Mayor [[NPCs/Tanglewood Peninsula/Antoona Bastifor]].
 - She was an adventurer with her husband [[NPCs/Tanglewood Peninsula/Biltus Van Gander]] before they settled down to start a family in the sleepy fishing village of [[Crabbley]].
 
 ### Key Details
@@ -14,7 +14,7 @@
 - **Ancestry**: Human
 - **Gender**: Female
 - **Location**: Crabbley
-- **Role**: Former Adventurer, Sorcerer, Advisor
+- **Role**: Former Adventurer,Wizard,Advisor
 - **Affiliation:** [[Crabbley Council\|Crabbley Council]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 

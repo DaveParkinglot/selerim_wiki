@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-05T08:43:55.800-04:00","published":"2025-09-05T08:43:55.800-04:00","cssclasses":"","Age":"22","Ancestry":"Orc","Gender":"Female","Location":["Crabbley"],"Role":["Barbarian Adventurer"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-10T09:02:26.541-04:00","published":"2025-09-10T09:02:26.541-04:00","cssclasses":"","Age":"22","Ancestry":"Orc","Gender":"Female","Location":["Crabbley"],"Role":["Barbarian Adventurer"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[z_assets/Pasted image 20250904112157.png|300]]
+![[z_assets/blotta_balmer.png|300]]
 
 ### Overview
 - A proud orc barbarian, member of the Crabbley based adventuring party The Backbreakers, and [[NPCs/Tanglewood Peninsula/Gronstew Bogbeast]]'s second in command.

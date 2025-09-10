@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-04T11:26:57.482-04:00","published":"2025-09-04T11:26:57.482-04:00","cssclasses":"","Age":"48","Ancestry":"Human","Gender":"Male","Location":["Crabbley"],"Role":["Farmer","Former Adventurer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-10T09:02:01.113-04:00","published":"2025-09-10T09:02:01.113-04:00","cssclasses":"","Age":"48","Ancestry":"Human","Gender":"Male","Location":["Crabbley"],"Role":["Farmer","Former Adventurer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[z_assets/Pasted image 20250904111656.png|300]]
+![[z_assets/biltus_van_gander.png|300]]
 
 ### Overview
 - Biltus was formerly an adventurer before he and his family settled down as farmers in Crabbley.
