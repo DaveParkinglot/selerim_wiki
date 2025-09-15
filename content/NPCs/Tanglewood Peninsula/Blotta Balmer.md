@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-10T09:02:26.541-04:00","published":"2025-09-10T09:02:26.541-04:00","cssclasses":"","Age":"22","Ancestry":"Orc","Gender":"Female","Location":["Crabbley"],"Role":["Barbarian Adventurer"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-12T12:06:57.430-04:00","published":"2025-09-12T12:06:57.430-04:00","cssclasses":"","Age":"22","Ancestry":"Orc","Gender":"Female","Location":["Crabbley"],"Role":["Barbarian Adventurer"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -20,9 +20,9 @@
 
 ### Attributes
 - **Voice**: 
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Traits**: Aggressive to enemies, kindly to her close friends. I watch over my friends as if they were a litter of newborn pups.
+- **Ideals:** Change. Life is like the seasons, in constant change, and we must change with it. (Chaotic)
+- **Appearance**: Tall orc woman with blue tribal tattoos on her face
 
 ### Relationships
 

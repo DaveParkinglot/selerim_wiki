@@ -1,29 +1,31 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-08-14T15:06:32.603-04:00","published":"2025-08-14T15:06:32.603-04:00","cssclasses":"","Age":"??","Ancestry":"Goblin","Gender":"Male","Location":["Crabbley"],"Role":["Barkeep, Small Business Owner"],"Affiliation":["None"],"Appearances":[]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-15T10:16:05.956-04:00","published":"2025-09-15T10:16:05.956-04:00","cssclasses":"","Age":"60","Ancestry":"Goblin","Gender":"Male","Location":["Crabbley"],"Role":["Barkeep, Small Business Owner"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[grasbo_the_barkeep.webp]]
+![[z_assets/grasbo.png|300]]
 
 ### Overview
-No summary available.
+Aspiring restauranteur in Crabbley. Owns the popular watering hole The Soggy Bottom Tavern.
 
 ### Key Details
-- **Age**: ??
+- **Age**: 60
 - **Ancestry**: Goblin
 - **Gender**: Male
 - **Location**: Crabbley
 - **Role**: Barkeep, Small Business Owner
-- **Affiliation:** None
-- **Appearances:** `= this.Appearances`
+- **Affiliation:** [[Crabbley Council\|Crabbley Council]]
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 
 - **Traits**: 
 - **Ideals:** 
-- **Appearance**:
+- **Appearance**: 
 
 ### Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                | Relationship |
+| ------------------- | ------------ |
+| [[NPCs/Tanglewood Peninsula/Crombo the Cook]] | Employee     |
+| [[NPCs/Tanglewood Peninsula/Mister Barone]]   | Employee     |

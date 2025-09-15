@@ -1,27 +1,28 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-14T15:06:49.453-04:00","published":"2025-08-14T15:06:49.453-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["Crabbley"],"Role":["Entrepreneur, Former Patron of The High Rollers"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-15T10:15:07.381-04:00","published":"2025-09-15T10:15:07.381-04:00","cssclasses":"","Age":"44","Ancestry":"Human","Gender":"Male","Location":["Crabbley"],"Role":["Entrepreneur, Former Patron of The High Rollers"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[ray_stilts.webp]]
+![[z_assets/ray_stilts.png|300]]
 
 ### Overview
-No summary available.
+- Owner of Pinny Stilts, Inc. His co-owner Pinny went missing while sailing Boater's Bay.
+- For a while, he employed [[Player Characters/The High Rollers/The High Rollers]] to conduct salvage operations along the coastlines of the Tanglewood Peninsula.
 
 ### Key Details
-- **Age**: ??
+- **Age**: 44
 - **Ancestry**: Human
 - **Gender**: Male
 - **Location**: Crabbley
 - **Role**: Entrepreneur, Former Patron of The High Rollers
-- **Affiliation:** None
+- **Affiliation:** [[Crabbley Council\|Crabbley Council]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
-- **Voice**: 
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Voice**: Sleazy
+- **Traits**: Ambitious
+- **Ideals:** Making money is a beautiful thing.
+- **Appearance**: Wears ostentatious purple clothes.
 
 ### Relationships
 

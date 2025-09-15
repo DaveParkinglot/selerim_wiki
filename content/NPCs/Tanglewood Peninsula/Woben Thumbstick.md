@@ -1,29 +1,31 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-14T15:05:26.601-04:00","published":"2025-08-14T15:05:26.601-04:00","cssclasses":"","Age":"??","Ancestry":"Goblin","Gender":"Male","Location":["Crabbley"],"Role":["Adventurer, Rogue"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-15T10:14:43.917-04:00","published":"2025-09-15T10:14:43.917-04:00","cssclasses":"","Age":"16","Ancestry":"Goblin","Gender":"Male","Location":["Crabbley"],"Role":["Adventurer, Rogue"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[woben_thumbstick.webp]]
+![[z_assets/woben_thumbstick.png|300]]
 
 ### Overview
-No summary available.
+- Relatively incompetent rogue adventurer. Bites off more than he can chew too often, but his party members always have his back.
 
 ### Key Details
-- **Age**: ??
+- **Age**: 16
 - **Ancestry**: Goblin
 - **Gender**: Male
 - **Location**: Crabbley
 - **Role**: Adventurer, Rogue
-- **Affiliation:** None
+- **Affiliation:** The Backbreakers
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
-- **Voice**: 
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Voice**: High pitched New York gangster
+- **Traits**: I hide scraps of food and trinkets away in my pockets.
+- **Ideals:** That jewelry would look better in my pocket.
+- **Appearance**: Small ugly goblin boy
 
 ### Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                  | Relationship |
+| --------------------- | ------------ |
+| [[NPCs/Tanglewood Peninsula/Gronstew Bogbeast]] | Leader       |
+| [[NPCs/Tanglewood Peninsula/Blotta Balmer]]     | Party Member |

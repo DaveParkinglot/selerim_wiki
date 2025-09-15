@@ -1,30 +1,32 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-14T15:05:28.349-04:00","published":"2025-08-14T15:05:28.349-04:00","cssclasses":"","Age":"??","Ancestry":"Goblin","Gender":"Female","Location":["Crabbley"],"Role":["Intern"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-15T10:14:55.736-04:00","published":"2025-09-15T10:14:55.736-04:00","cssclasses":"","Age":"19","Ancestry":"Goblin","Gender":"Female","Location":["Crabbley"],"Role":["Intern","Staffer","Aspiring Politician"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[stellica_gombermin.webp]]
+![[z_assets/stellica_gombermin.png|300]]
 
 ### Overview
 - Mayor Boje's devoted intern, Stellica went on to become the next mayor's intern as well after Boje turned into an abominable crab-based monster.
+- She now works for the current mayor of [[Crabbley]], [[NPCs/Tanglewood Peninsula/Antoona Bastifor]].
 - She aspires to one day have a Bachelor's of Arts degree in Political Science. No goblin has ever gotten this type of degree, so this would be huge for her.
 
 ### Key Details
-- **Age**: ??
+- **Age**: 19
 - **Ancestry**: Goblin
 - **Gender**: Female
 - **Location**: Crabbley
-- **Role**: Intern
-- **Affiliation:** None
+- **Role**: Intern,Staffer,Aspiring Politician
+- **Affiliation:** [[Crabbley Council\|Crabbley Council]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
-- **Voice**: 
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Voice**: High pitched and girlish
+- **Traits**: Eager and naive
+- **Ideals:** If I work hard enough, I will become a great politician
+- **Appearance**: Short goblin girl with black hair and spectacles
 
 ### Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                 | Relationship |
+| -------------------- | ------------ |
+| [[NPCs/Tanglewood Peninsula/Antoona Bastifor]] | Boss         |
