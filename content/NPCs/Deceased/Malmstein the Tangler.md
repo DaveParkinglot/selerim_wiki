@@ -7,7 +7,7 @@
 
 ### Overview
 - One very angry druid, and the former leader of the eco-terrorist organization [[The Tanglers]]. 
-- He crashed the [[Selerim Worldbuilding/Holidays/Crab Fest]] and caused quite an issue for [[Crabbley]] and [[Crillville]], but he was put in his place one fateful Monday during the Invasion of Crillville.
+- He crashed the [[Selerim Worldbuilding/Holidays/Crab Fest]] and caused quite an issue for [[Locations/Crabbley]] and [[Crillville]], but he was put in his place one fateful Monday during the Invasion of Crillville.
 - Ultimately, he was captured by [[Player Characters/The High Rollers/The High Rollers]] and impaled on [[NPCs/Tanglewood Peninsula/Dick Gunbarrel]]'s greatsword.
 
 ### Key Details

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-15T10:14:55.736-04:00","published":"2025-09-15T10:14:55.736-04:00","cssclasses":"","Age":"19","Ancestry":"Goblin","Gender":"Female","Location":["Crabbley"],"Role":["Intern","Staffer","Aspiring Politician"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:53:45.632-04:00","published":"2025-09-17T12:53:45.632-04:00","cssclasses":"","Age":"19","Ancestry":"Goblin","Gender":"Female","Location":["[[Locations/Crabbley]]"],"Role":["Intern","Staffer","Aspiring Politician"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -14,7 +14,7 @@
 - **Age**: 19
 - **Ancestry**: Goblin
 - **Gender**: Female
-- **Location**: Crabbley
+- **Location**: [[Locations/Crabbley\|Crabbley]]
 - **Role**: Intern,Staffer,Aspiring Politician
 - **Affiliation:** [[Crabbley Council\|Crabbley Council]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

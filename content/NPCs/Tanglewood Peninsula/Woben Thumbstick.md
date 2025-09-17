@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-15T10:14:43.917-04:00","published":"2025-09-15T10:14:43.917-04:00","cssclasses":"","Age":"16","Ancestry":"Goblin","Gender":"Male","Location":["Crabbley"],"Role":["Adventurer, Rogue"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:53:49.552-04:00","published":"2025-09-17T12:53:49.552-04:00","cssclasses":"","Age":"16","Ancestry":"Goblin","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Rogue"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -12,7 +12,7 @@
 - **Age**: 16
 - **Ancestry**: Goblin
 - **Gender**: Male
-- **Location**: Crabbley
+- **Location**: [[Locations/Crabbley\|Crabbley]]
 - **Role**: Adventurer, Rogue
 - **Affiliation:** The Backbreakers
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

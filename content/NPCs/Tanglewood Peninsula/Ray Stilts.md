@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-15T10:15:07.381-04:00","published":"2025-09-15T10:15:07.381-04:00","cssclasses":"","Age":"44","Ancestry":"Human","Gender":"Male","Location":["Crabbley"],"Role":["Entrepreneur, Former Patron of The High Rollers"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:53:41.320-04:00","published":"2025-09-17T12:53:41.320-04:00","cssclasses":"","Age":"44","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Entrepreneur, Former Patron of The High Rollers"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -13,7 +13,7 @@
 - **Age**: 44
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: Crabbley
+- **Location**: [[Locations/Crabbley\|Crabbley]]
 - **Role**: Entrepreneur, Former Patron of The High Rollers
 - **Affiliation:** [[Crabbley Council\|Crabbley Council]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-15T10:33:51.203-04:00","published":"2025-09-15T10:33:51.203-04:00","cssclasses":"","Age":"43","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["King of Tiialia","Former Spymaster"],"Affiliation":["[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]","[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:45:32.181-04:00","published":"2025-09-17T12:45:32.181-04:00","cssclasses":"","Age":"43","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["King of Tiialia","Former Spymaster"],"Affiliation":["[[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]","[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[z_assets/Pasted image 20250915102627.png|300]]
+![[z_assets/antonino_esposito.png|300]]
 
 ### Overview
 - Last known remnant of the blood of the Old Kings of Tiialia.
@@ -35,5 +35,6 @@
 
 ### Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name             | Relationship |
+| ---------------- | ------------ |
+| [[NPCs/Tiialia/Albert Dente]] | Butler       |

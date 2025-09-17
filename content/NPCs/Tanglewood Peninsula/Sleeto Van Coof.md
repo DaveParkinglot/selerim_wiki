@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-15T10:15:03.187-04:00","published":"2025-09-15T10:15:03.187-04:00","cssclasses":"","Age":"49","Ancestry":"Human","Gender":"Male","Location":["Crabbley"],"Role":["Thief","Spymaster"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:53:43.537-04:00","published":"2025-09-17T12:53:43.537-04:00","cssclasses":"","Age":"49","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Thief","Spymaster"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -13,7 +13,7 @@
 - **Age**: 49
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: Crabbley
+- **Location**: [[Locations/Crabbley\|Crabbley]]
 - **Role**: Thief,Spymaster
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

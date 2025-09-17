@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-15T09:45:49.097-04:00","published":"2025-09-15T09:45:49.097-04:00","cssclasses":"","Age":"22","Ancestry":"Kobold","Gender":"Male","Location":["Crabbley","The Cronium Caves"],"Role":["Master Inventor"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[06 The Hunt for Pill'Grim]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-17T12:53:21.649-04:00","published":"2025-09-17T12:53:21.649-04:00","cssclasses":"","Age":"22","Ancestry":"Kobold","Gender":"Male","Location":["[[Locations/Crabbley]]","The Cronium Caves"],"Role":["Master Inventor"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[06 The Hunt for Pill'Grim]]"]}
 ---
 
 
@@ -15,7 +15,7 @@
 - **Age**: 22
 - **Ancestry**: Kobold
 - **Gender**: Male
-- **Location**: Crabbley,The Cronium Caves
+- **Location**: [[Locations/Crabbley\|Crabbley]],The Cronium Caves
 - **Role**: Master Inventor
 - **Affiliation:** Cronium Gnomes
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/06 The Hunt for Pill'Grim\|06 The Hunt for Pill'Grim]]

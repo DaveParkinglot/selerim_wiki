@@ -7,7 +7,7 @@
 - **Platform:** In person
 
 ## Adventure Premise
-- Many automatons created by the renowned inventor [[NPCs/Tanglewood Peninsula/Dillon Lonergan]] malfunctioned under mysterious circumstances last week, wreaking havoc across all of [[Crabbley]].
+- Many automatons created by the renowned inventor [[NPCs/Tanglewood Peninsula/Dillon Lonergan]] malfunctioned under mysterious circumstances last week, wreaking havoc across all of [[Locations/Crabbley]].
 - The notice boards around the town mention a large bounty on the head of the dastardly villain “[[Pill’Grim]]”, who is believed to be the perpetrator of this terrible crime.
 - Meet [[NPCs/Tanglewood Peninsula/Bopus]] at the Crab Claw Inn for more information.
 - Should you succeed in Bopus’ quest, the bounty and the local fame would surely turn your life around.

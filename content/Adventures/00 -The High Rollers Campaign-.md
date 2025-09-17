@@ -23,7 +23,7 @@ The OG Selerim Campaign. [Session Notes and Campaign Calendar archived here](htt
 ## Free the Tanglewood Peninsula
 
 ### Adventure Premise
-- End the threat to [[Crabbley]] and [[Crillville]] by eliminating Malmstein the Tangler and his terroristic druid organization The Tanglers.
+- End the threat to [[Locations/Crabbley]] and [[Crillville]] by eliminating Malmstein the Tangler and his terroristic druid organization The Tanglers.
 ### Outcomes
 - The forces of Crabbley and Crillville retook Crillville after it was occupied by The Tanglers.
 - In the final confrontation, The High Rollers struck down Malmstein, who was summarily executed by Dick Gunbarrel.
@@ -52,7 +52,7 @@ The OG Selerim Campaign. [Session Notes and Campaign Calendar archived here](htt
 ### Adventure Premise
 - Kill the lich [[NPCs/Deceased/Master Effree Jypstein\|Effree Jypstein]] also known as "The Master" and eliminate the threat of his undead hordes to the world of Selerim.
 ### Outcomes
-- With the help of [[NPCs/Other/Carbuckle Duskshot]], The High Rollers snuck through The Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
+- With the help of [[NPCs/Vlorngroth/Carbuckle Duskshot]], The High Rollers snuck through The Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
 - Effree Jypstein was killed and his phylactery was destroyed.
 
 

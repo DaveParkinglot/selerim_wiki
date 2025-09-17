@@ -1,15 +1,16 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-14T15:47:30.516-04:00","published":"2025-08-14T15:47:30.516-04:00","cssclasses":"","Age":"??","Ancestry":"Yuan Ti","Gender":"Male","Location":["Nova Jersaeria Sewers"],"Role":["Bodyguard"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:45:47.357-04:00","published":"2025-09-17T12:45:47.357-04:00","cssclasses":"","Age":"24","Ancestry":"Yuan Ti","Gender":"Male","Location":["Nova Jersaeria Sewers"],"Role":["Bodyguard"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[cock_strombolinov.webp]]
+![[z_assets/cock_strombolinov.png|300]]
 
 ### Overview
-No summary available.
+- A monstrous Yuan-Ti bodyguard with snakes for arms working for the enigmatic merchant [[NPCs/Tiialia/Riggle Fragoo]]. 
+- Loves deadlifts and living in the sewer.
 
 ### Key Details
-- **Age**: ??
+- **Age**: 24
 - **Ancestry**: Yuan Ti
 - **Gender**: Male
 - **Location**: Nova Jersaeria Sewers
@@ -18,10 +19,10 @@ No summary available.
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
-- **Voice**: 
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Voice**: Terse and vaguely eastern European
+- **Traits**: Loves to get a good pump
+- **Ideals:** Become large and protect Riggle to make money and leave the sewer
+- **Appearance**: 7 foot Yuan-Ti with snakes for arms
 
 ### Relationships
 

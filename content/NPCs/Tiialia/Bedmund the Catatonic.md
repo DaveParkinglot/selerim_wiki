@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-08-22T12:49:46.866-04:00","published":"2025-08-22T12:49:46.866-04:00","cssclasses":"","Age":"??","Ancestry":"Deep Gnome","Gender":"Male","Location":["The High Roller's Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:13:17.031-04:00","published":"2025-09-17T12:13:17.031-04:00","cssclasses":"","Age":"57","Ancestry":"Deep Gnome","Gender":"Male","Location":["The High Roller's Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -11,7 +11,7 @@
 - Now, he occasionally provides spells to The High Rollers and stays in the large bed in their vineyard's basement.
 
 ### Key Details
-- **Age**: ??
+- **Age**: 57
 - **Ancestry**: Deep Gnome
 - **Gender**: Male
 - **Location**: The High Roller's Vineyard
@@ -20,10 +20,10 @@
 - **Appearances:** [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
-- **Voice**: 
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Voice**: High pitched, slow and lethargic
+- **Traits**: Enjoys sleeping and casting spells
+- **Ideals:** Sleep can help you uncover secrets you could never find while awake
+- **Appearance**: Short deep gnome with a long beard and extremely pointy ears
 
 ### Relationships
 

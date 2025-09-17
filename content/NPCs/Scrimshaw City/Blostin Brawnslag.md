@@ -8,7 +8,7 @@
 ### Overview
 - He and [[NPCs/Scrimshaw City/Franky Fizzno]] gave the first quest to [[Player Characters/The High Rollers/The High Rollers]] after they requested that the party track down and locate [[NPCs/Scrimshaw City/Spurgon Bogolog]], their missing frontman.
 - World renowned drummer, and one of the 3 members of Crag Delta.
-- They've played venues from [[Crabbley]] to [[Locations/The Kingdom of Tiialia/Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
+- They've played venues from [[Locations/Crabbley]] to [[Locations/The Kingdom of Tiialia/Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
 - His stage name is "Blostin, Lord of the Sticks".
 
 ### Key Details

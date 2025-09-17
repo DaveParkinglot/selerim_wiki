@@ -1,15 +1,15 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-15T10:16:31.909-04:00","published":"2025-09-15T10:16:31.909-04:00","cssclasses":"","Age":"??","Ancestry":"Tiefling","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:46:19.306-04:00","published":"2025-09-17T12:46:19.306-04:00","cssclasses":"","Age":"89","Ancestry":"Tiefling","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
-![[spirulina_augustine.webp]]
+![[z_assets/spirulina_augustine.png|300]]
 
 ### Overview
-No summary available.
+- The kindly old Tiefling woman who owns Spirulina's Solutions in the Tiialan Marketplace.
 
 ### Key Details
-- **Age**: ??
+- **Age**: 89
 - **Ancestry**: Tiefling
 - **Gender**: Male
 - **Location**: Nova Jersaeria
@@ -18,10 +18,10 @@ No summary available.
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
-- **Voice**: 
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Voice**: Kindly old woman
+- **Traits**: Very nice to her customers. Sends gift bags and birthday presents.
+- **Ideals:** Provide for herself while providing healing and sundries to adventurers and commoners alike.
+- **Appearance**: White haired tiefling with brown horns and black eyes. Short.
 
 ### Relationships
 

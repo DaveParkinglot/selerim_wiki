@@ -6,9 +6,9 @@
 ![[z_assets/spurgon_bogolog.png|300]]
 
 ### Overview
-- This hapless halfling made waves in [[Crabbley]] by stealing a sacred merfolk artifact, which caused merfolks to begin attacking the town. This became the inciting incident for the [[Player Characters/The High Rollers/The High Rollers]]' first quest in [[Crabbley]].
+- This hapless halfling made waves in [[Locations/Crabbley]] by stealing a sacred merfolk artifact, which caused merfolks to begin attacking the town. This became the inciting incident for the [[Player Characters/The High Rollers/The High Rollers]]' first quest in [[Locations/Crabbley]].
 - Lead singer of Crag Delta. For someone with such sticky fingers he sure can play the lyre!
-- One of the 3 members of Crag Delta. They've played venues from [[Crabbley]] to [[Locations/The Kingdom of Tiialia/Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
+- One of the 3 members of Crag Delta. They've played venues from [[Locations/Crabbley]] to [[Locations/The Kingdom of Tiialia/Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
 - His stage name is "The Spurg".
 
 ### Key Details
