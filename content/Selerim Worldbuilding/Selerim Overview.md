@@ -11,7 +11,7 @@
 - Much of the world was ravaged by the nameless war between [The Seldarine](https://5e.tools/tables.html#elf%20deities%20(the%20seldarine)_mtf) and [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20(the%20dark%20seldarine)_mtf), fought 5,000 years before the founding of [[The Kingdom of Tiialia]] (expressed henceforth as B.T.).
 	- Ancient elvish magics used in this war still suffuse much of Selerim's lands, corrupting the very ley lines of the world. 
 	- This leaves only very select regions of the world habitable by most folk. 
-	- There are some who, even to this day, decry the so-called benevolence of The Seldarine's gift. Left to toil on a ruined world, can such a gift be called freedom?
+	- There are some who, even to this day, decry the so-called benevolence of The Seldarine's gift. Left to toil and rebuild a ruined world, can such a gift be called freedom?
 	- Traveling to these Ruined Regions is often deadly, leaving settlement out of the question. The afflictions of these ancient magics were lost to war and time, making them considerably difficult to dispel, even for the most accomplished spellcasters.
 - The flooding from The Darkwells' Eruption between 1,000 and 750 B.T. also had a profound impact on the geography and cultures of Selerim, leaving many regions isolated by what became a new inland sea.
 - Sorcerers were anomalously rare until the blood of slain dragons from the Generations' War seeped into the ground, near the present day Forsaken Expanse. 
