@@ -11,7 +11,7 @@
 - During the journey, you are approached by a goblin cabin boy named Gubbins. He says that his Ol' Uncle [[NPCs/Other/Bootknife]] has a big job coming up out of Breakwater Cove, and that he needs a good crew. The payout seems sizeable, but you'll want to meet this Bootknife fellow first…
 
 ## Outcomes
-- After a run-in with Captain Ghaster, captain of [[Locations/Ghoulfen Island/Mournholde]] necronaut The Slow Decline, the party was attacked by zombie rats and left for dead.
+- After a run-in with Captain Ghaster, captain of [[Locations/Mournholde]] necronaut The Slow Decline, the party was attacked by zombie rats and left for dead.
 - Despite the odds, they lived. After arriving at [[Breakwater Cove]], they successfully took a job from the goblin Bootknife at Bone Tavern, becoming his new crew.
 - After bullying information about a sickly leviathan from the researcher Krillmort Coloradostein, they defeated Captain Ghaster and his skeleton crew and recovered the coveted leviathan scales from the beached leviathan.
 

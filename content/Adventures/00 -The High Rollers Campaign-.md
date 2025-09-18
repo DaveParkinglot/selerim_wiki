@@ -40,7 +40,7 @@ The OG Selerim Campaign. [Session Notes and Campaign Calendar archived here](htt
 ## Restore the Tiialan Royal Line
 
 ### Adventure Premise
-- Remove control of Tiialia from the hands of the tyrant [[NPCs/Deceased/Lord Draco Landucci]] and the nasty [[Locations/The Kingdom of Tiialia/The Families of Tiialia/The Fanto-Domingo Family\|Fanto-Domingo family]].
+- Remove control of Tiialia from the hands of the tyrant [[NPCs/Deceased/Lord Draco Landucci]] and the nasty [[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Fanto-Domingo Family\|Fanto-Domingo family]].
 - Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[NPCs/Tiialia/Antonino Esposito]].
 ### Outcomes
 - The tyrant Lord Draco Landucci was overthrown by The High Rollers and Antonino "Nino" Esposito.

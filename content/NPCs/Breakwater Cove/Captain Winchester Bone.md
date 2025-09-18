@@ -8,7 +8,7 @@
 ### Overview
 Once a renowned pirate captain, he now owns Bone Tavern in [[Breakwater Cove]]. Loves to recount his days of yore to whoever will listen.
 - He has sailed with many crews aboard many ships, but he is most known for his time aboard the Leaky Bucket. 
-- At some point, he had to fight half his crew and his first mate [[Sharky Dolphino]] over some relics they plundered from a ship bound for [[Locations/Ghoulfen Island/Mournholde\|Mournholde, City of the Dead]]. 
+- At some point, he had to fight half his crew and his first mate [[Sharky Dolphino]] over some relics they plundered from a ship bound for [[Locations/Mournholde\|Mournholde, City of the Dead]]. 
 	- The following is Bone's accounting of the events that led to the end of "Bone and Sharky's Crew":
 	    - Sharky, being an orphan cast out of Tiialia, wanted to use powerful artifacts they looted to get revenge on those who had wronged him
 	    - Bone had no choice but to mutiny, and he used one of the artifacts on Sharky and his supporters. 

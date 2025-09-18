@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-09-17T12:39:25.000-04:00","modified":"2025-09-17T12:54:10.383-04:00","published":"2025-09-17T12:54:10.383-04:00","cssclasses":"","Type":["Town"],"Age":"25 years","Population":"800","Affiliation":["None"],"Government":"[[The Crabbley Council]]","Tags":["Coastal","Fishing"]}
+{"publish":true,"created":"2025-09-17T12:39:25.000-04:00","modified":"2025-09-18T08:43:02.273-04:00","published":"2025-09-18T08:43:02.273-04:00","cssclasses":"","Type":["Town"],"Age":"25 years","Population":"800","Affiliation":["None"],"Government":"[[The Crabbley Council]]","Tags":["Coastal","Fishing"]}
 ---
 
-![[z_assets/crabbley.png|300]]
+![[z_assets/crabbley.png|600]]
 
 ### Overview
 - Home of the [[Cult of the Crab]], the famous Soggy Bottom Tavern, the Crab Claw Inn, and so many other fantastic places to take your family!  Come visit scenic Crabbley with your family and get one free commemorative item from The High Rollers gift shop.- 
@@ -10,10 +10,10 @@
 
 ### Key Details
 - **Type**: Town
-- **Age:**  P25Y
-- **Population**:  800
+- **Age:** P25Y
+- **Population**: 800
 - **Affiliation**: None
-- **Government:** [[Selerim Worldbuilding/Factions/The Crabbley Council\|The Crabbley Council]]
+- **Government:** [[Factions/The Crabbley Council\|The Crabbley Council]]
 
 ### Attributes
 - **Appearance**: Beachfront fishing town on the coast of Boater's Bay
