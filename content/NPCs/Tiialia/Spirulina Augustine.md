@@ -1,30 +1,21 @@
 ---
-Age: "89"
-Ancestry: Tiefling
-Gender: Male
-Location:
-  - Nova Jersaeria
-Role:
-  - Alchemist
-Affiliation:
-  - None
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:46:19.306-04:00","published":"2025-09-17T12:46:19.306-04:00","cssclasses":"","Age":"89","Ancestry":"Tiefling","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[spirulina_augustine.png|300]]
+
+![[z_assets/spirulina_augustine.png|300]]
 
 ### Overview
 - The kindly old Tiefling woman who owns Spirulina's Solutions in the Tiialan Marketplace.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 89
+- **Ancestry**: Tiefling
+- **Gender**: Male
+- **Location**: Nova Jersaeria
+- **Role**: Alchemist
+- **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Kindly old woman

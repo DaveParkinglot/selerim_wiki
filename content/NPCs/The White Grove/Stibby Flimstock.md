@@ -1,31 +1,21 @@
 ---
-Age: "17"
-Ancestry: Tiefling
-Gender: Male
-Location:
-  - "[[Selerim Wiki/Locations/The White Grove]]"
-Role:
-  - Student
-  - Freshman
-Affiliation:
-  - None
-Appearances:
-  - "[[23 The White Grove- First Semester]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:04:24.616-04:00","published":"2025-09-24T08:04:24.616-04:00","cssclasses":"","Age":"17","Ancestry":"Tiefling","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
-![[stibby_flimstock.png|300]]
+
+![[z_assets/stibby_flimstock.png|300]]
 
 ### Overview
-- A tiefling student at [[Selerim Wiki/Locations/The White Grove]] who is very uncertain and bad at infernal magic.
+- A tiefling student at [[Locations/The White Grove]] who is very uncertain and bad at infernal magic.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 17
+- **Ancestry**: Tiefling
+- **Gender**: Male
+- **Location**: [[Locations/The White Grove\|The White Grove]]
+- **Role**: Student,Freshman
+- **Affiliation:** None
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
 - **Voice**: High pitched and unsure
@@ -37,7 +27,7 @@ Appearances:
 
 | Name                      | Relationship |
 | ------------------------- | ------------ |
-| [[Vowel Noosins]]         | Study buddy  |
-| [[Vyvian Wynter]]         | Study buddy  |
-| [[Curtottix Dragopolese]] | Study buddy  |
+| [[NPCs/The White Grove/Vowel Noosins]]         | Study buddy  |
+| [[NPCs/The White Grove/Vyvian Wynter]]         | Study buddy  |
+| [[NPCs/The White Grove/Curtottix Dragopolese]] | Study buddy  |
 

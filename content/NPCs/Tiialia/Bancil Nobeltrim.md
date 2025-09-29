@@ -1,40 +1,31 @@
 ---
-Age: "29"
-Ancestry: Half-Elf
-Gender: Male
-Location:
-  - Nova Jersaeria
-Role:
-  - Former Member of The High Roller, Paladin, Family Guy
-Affiliation:
-  - None
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-18T08:29:44.689-04:00","published":"2025-09-18T08:29:44.689-04:00","cssclasses":"","Age":"29","Ancestry":"Half-Elf","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Former Member of The High Roller, Paladin, Family Guy"],"Affiliation":["None"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]"]}
 ---
 
-![[bancil_nobeltrim.png|300]]
+
+![[z_assets/bancil_nobeltrim.png|300]]
 
 ### Overview
-Originally Logan's player character from [[00 -The High Rollers Campaign-]]
+Originally Logan's player character from [[Adventures/00 -The High Rollers Campaign-]]
 
 **Backstory** 
-- Bancil was taken into the temple of Tyr as a child when his savior, [[Dick Gunbarrel]] rescued him from a goblin attack on his village.
+- Bancil was taken into the temple of Tyr as a child when his savior, [[NPCs/Tanglewood Peninsula/Dick Gunbarrel]] rescued him from a goblin attack on his village.
 - He was raised on tales of the xenophobic folk hero Mogul Taybuck, who punished immigrants and had 13 children.
 
 **[[00 -The High Rollers Campaign-]]**
 - A paladin of the god of justice, Tyr. Bancil hails from Crillville. 
-- Bancil adventured with The High Rollers for a long while after besting [[Tadeusz]] in a duel to prove his worth.
+- Bancil adventured with The High Rollers for a long while after besting [[Player Characters/The High Rollers/Tadeusz]] in a duel to prove his worth.
 - Bancil, along with the other High Rollers, performed both great and terrible deeds while adventuring.
-- After the deposition of [[Lord Davos Portnoir]], Bancil settled down with his wife Maple Summer and his bastard son Li'l Mogul, moving to the port city of [[Selerim Wiki/Locations/The Kingdom of Tiialia/Nova Jersaeria]] to spread justice and the word of Tyr.
+- After the deposition of [[NPCs/Deceased/Lord Davos Portnoir]], Bancil settled down with his wife Maple Summer and his bastard son Li'l Mogul, moving to the port city of [[Locations/The Kingdom of Tiialia/Nova Jersaeria]] to spread justice and the word of Tyr.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 29
+- **Ancestry**: Half-Elf
+- **Gender**: Male
+- **Location**: Nova Jersaeria
+- **Role**: Former Member of The High Roller, Paladin, Family Guy
+- **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

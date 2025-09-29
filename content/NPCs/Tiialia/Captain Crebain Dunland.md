@@ -1,30 +1,21 @@
 ---
-Age: "41"
-Ancestry: Human
-Gender: Male
-Location:
-  - Nova Jersaeria
-Role:
-  - Captain
-Affiliation:
-  - None
-Appearances:
-  - "[[01 Dunland's Raiders]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:45:41.971-04:00","published":"2025-09-17T12:45:41.971-04:00","cssclasses":"","Age":"41","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Captain"],"Affiliation":["None"],"Appearances":["[[01 Dunland's Raiders]]"]}
 ---
 
-![[crebain_dunland.png|300]]
+
+![[z_assets/crebain_dunland.png|300]]
 
 ### Overview
-- Captain of Dunlan's Raiders, the Tiialan Commandos who thwarted [[Morganth's Legion of Doom]] when Morganth and his minions attempted to summon demons in the heartland of Tiialia.
+- Captain of Dunlan's Raiders, the Tiialan Commandos who thwarted [[Jordan's Notes/One Shots/Morganth's LEGION OF DOOM]] when Morganth and his minions attempted to summon demons in the heartland of Tiialia.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 41
+- **Ancestry**: Human
+- **Gender**: Male
+- **Location**: Nova Jersaeria
+- **Role**: Captain
+- **Affiliation:** None
+- **Appearances:** [[Adventures/01 Dunland's Raiders\|01 Dunland's Raiders]]
 
 ### Attributes
 - **Voice**: 
