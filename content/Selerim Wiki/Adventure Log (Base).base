@@ -1,0 +1,24 @@
+properties:
+  file.name:
+    displayName: Adventure Name
+views:
+  - type: table
+    name: Adventure Log
+    filters:
+      and:
+        - file.folder.contains("Selerim Wiki/Adventures")
+    order:
+      - file.name
+      - DM
+      - Players
+      - Platform
+      - Sessions
+      - Start Date
+      - End Date
+    sort:
+      - property: Start Date
+        direction: DESC
+    columnSize:
+      note.DM: 141
+      note.Players: 483
+      note.Sessions: 103
