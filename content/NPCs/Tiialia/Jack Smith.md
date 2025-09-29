@@ -1,18 +1,9 @@
 ---
-Age: "40"
-Ancestry: Human
-Gender: Male
-Location:
-  - Nova Jersaeria
-Role:
-  - Blacksmith
-Affiliation:
-  - None
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:45:57.873-04:00","published":"2025-09-17T12:45:57.873-04:00","cssclasses":"","Age":"40","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Blacksmith"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[jack_smith.png|300]]
+
+![[z_assets/jack_smith.png|300]]
 
 ### Overview
 - His friends call him Jack "Don't call me 'Black Jack'" Black Jack Smith
@@ -21,13 +12,13 @@ Appearances:
 - Hates it when you call him Black Jack.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 40
+- **Ancestry**: Human
+- **Gender**: Male
+- **Location**: Nova Jersaeria
+- **Role**: Blacksmith
+- **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Normal

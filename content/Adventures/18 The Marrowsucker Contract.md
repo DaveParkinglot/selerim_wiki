@@ -1,22 +1,15 @@
 ---
-DM: Jordan
-Players:
-  - Brian
-  - Laura
-  - Mike Doom
-  - Peter
-Platform: Foundry
-Sessions: 1
-Start Date: 2025-02-12
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:30:05.276-04:00","published":"2025-09-29T09:30:05.276-04:00","cssclasses":"","DM":"Jordan","Players":["Brian","Laura","Mike Doom","Peter"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-02-12"}
 ---
+
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** Foundry
+- **Sessions:** 1
 
 ## Adventure Premise
 - On the outskirts of the desolate Forsaken Expanse, The Marrowsucker gnoll tribe has been defiling the bones of ancient dragons. They have hoarded "The Substance", a dragon-bone byproduct that the elves of Mitlin consider to be sacred.
-- The wizard [[Melvin Oaksleeves]], of The Oaken Conclave, has put out a call for adventurers to eliminate the gnoll tribe and retrieve the hoarded Substance.
+- The wizard [[NPCs/Tanglewood Peninsula/Melvin Oaksleeves]], of The Oaken Conclave, has put out a call for adventurers to eliminate the gnoll tribe and retrieve the hoarded Substance.
 
 ## Outcomes
 - The party set out from Mitlin, discovering a mysterious camp of eviscerated gnoll corpses in their travels. They braved sandstorms and killed many gnoll bone harvesters in Bonedry Gulch, before taking the fight to the remaining Marrowsuckers in their cave hideout.
@@ -27,7 +20,7 @@ Start Date: 2025-02-12
 ## Players & Characters
 | Player              | Character Name              | Race    | Class     |
 | ------------------- | --------------------------- | ------- | --------- |
-| `= this.Players[0]` | Galath Goatjumper Kalageaku | Goliath | Paladin   |
-| `= this.Players[1]` | Keryn Elaris-Smith          | Elf     | Barbarian |
-| `= this.Players[2]` | Frosty, the Old Salt        | Human   | Cleric    |
-| `= this.Players[3]` | Presinald Schfindin         | Human   | Rogue     |
+| Brian | Galath Goatjumper Kalageaku | Goliath | Paladin   |
+| Laura | Keryn Elaris-Smith          | Elf     | Barbarian |
+| Mike Doom | Frosty, the Old Salt        | Human   | Cleric    |
+| Peter | Presinald Schfindin         | Human   | Rogue     |

@@ -1,4 +1,4 @@
-- The patriarch is Lord Draco Landucci, High Commander of the Legions of Tiialia, and King Antonio [[The Adonzio Family|Adonzio's]] closest ally
+- The patriarch is Lord Draco Landucci, High Commander of the Legions of Tiialia, and King Antonio [[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Adonzio Family\|Adonzio's]] closest ally
 - Draco Landucci has 2 twin sons named Lorus and Korus, who are renowned warriors
 	- He also has a failson named Montius "Monty" Landucci
 	

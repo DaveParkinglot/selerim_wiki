@@ -1,32 +1,23 @@
 ---
-Age: "20"
-Ancestry: Kobold
-Gender: Male
-Location:
-  - Tiialia Countryside
-Role:
-  - Drunk
-Affiliation:
-  - None
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:41:17.032-04:00","published":"2025-09-24T08:41:17.032-04:00","cssclasses":"","Age":"20","Ancestry":"Kobold","Gender":"Male","Location":["Tiialia Countryside"],"Role":["Drunk"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[shemcriz.png|300]]
+
+![[z_assets/shemcriz.png|300]]
 
 ### Overview
 - Shemcriz is a sturdy, thick, and hapless kobold who gets in way over his head way too often.
-- He originally came to the surface with a scouting party from Vlorngroth, but overstayed his welcome in the distillery of the Esposito Vineyard, where he was captured by [[The High Rollers]].
+- He originally came to the surface with a scouting party from Vlorngroth, but overstayed his welcome in the distillery of the Esposito Vineyard, where he was captured by [[Player Characters/The High Rollers/The High Rollers]].
 - Later, he was found by The High Rollers (and luckily saved) while being sacrificed to a yuan-ti god.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 20
+- **Ancestry**: Kobold
+- **Gender**: Male
+- **Location**: Tiialia Countryside
+- **Role**: Drunk
+- **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Frat bro voice

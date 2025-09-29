@@ -1,31 +1,21 @@
 ---
-Age: "45"
-Ancestry:
-  - Tiefling
-Gender: Male
-Location:
-  - Scrimshaw City
-Role:
-  - Alchemist
-Affiliation:
-  - None
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:11:54.935-04:00","published":"2025-08-14T15:11:54.935-04:00","cssclasses":"","Age":"45","Ancestry":["Tiefling"],"Gender":"Male","Location":["Scrimshaw City"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[euron_underfoe.png|300]]
+
+![[z_assets/euron_underfoe.png|300]]
 
 ### Overview
 Gaunt and terse tiefling who operates the Gobblefirn Apothecary after Old Mr. Gobblefirn's strange disappearance.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 45
+- **Ancestry**: Tiefling
+- **Gender**: Male
+- **Location**: Scrimshaw City
+- **Role**: Alchemist
+- **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: High class English gentleman

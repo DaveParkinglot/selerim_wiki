@@ -1,32 +1,22 @@
 ---
-Age: "24"
-Ancestry:
-  - Yuan-ti
-Gender: Male
-Location:
-  - Nova Jersaeria Sewers
-Role:
-  - Bodyguard
-Affiliation:
-  - None
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:40:41.476-04:00","published":"2025-09-24T08:40:41.476-04:00","cssclasses":"","Age":"24","Ancestry":["Yuan-ti"],"Gender":"Male","Location":["Nova Jersaeria Sewers"],"Role":["Bodyguard"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[cock_strombolinov.png|300]]
+
+![[z_assets/cock_strombolinov.png|300]]
 
 ### Overview
-- A monstrous Yuan-ti bodyguard with snakes for arms working for the enigmatic merchant [[Riggle Fragoo]]. 
+- A monstrous Yuan-ti bodyguard with snakes for arms working for the enigmatic merchant [[NPCs/Tiialia/Riggle Fragoo]]. 
 - Loves deadlifts and living in the sewer.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 24
+- **Ancestry**: Yuan-ti
+- **Gender**: Male
+- **Location**: Nova Jersaeria Sewers
+- **Role**: Bodyguard
+- **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Terse and vaguely eastern European
@@ -38,4 +28,4 @@ Appearances:
 
 | Name              | Relationship |
 | ----------------- | ------------ |
-| [[Riggle Fragoo]] | Boss         |
+| [[NPCs/Tiialia/Riggle Fragoo]] | Boss         |

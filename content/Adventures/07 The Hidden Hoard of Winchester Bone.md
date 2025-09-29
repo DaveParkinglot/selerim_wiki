@@ -1,21 +1,14 @@
 ---
-DM: Jordan
-Players:
-  - Ethan
-  - Mike Doom
-  - Jimmy
-  - AJ
-Platform: Foundry
-Sessions: 1
-Start Date: 2024-02-17
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:15:45.201-04:00","published":"2025-09-29T09:15:45.201-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-17"}
 ---
+
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** Foundry
+- **Sessions:** 1
 
 ## Adventure Premise
-- Bone Tavern is failing, and [[Captain Winchester Bone]] needs to remain solvent in his retirement years. Retrieve his hoard of treasure, which is hidden in a quiet cove to the south.
+- Bone Tavern is failing, and [[NPCs/Breakwater Cove/Captain Winchester Bone]] needs to remain solvent in his retirement years. Retrieve his hoard of treasure, which is hidden in a quiet cove to the south.
 
 ## Outcomes
 - The Drakes, as the party began calling themselves, carefully navigated the trap-filled corridors of Bone Cove to find the hidden hoard.
@@ -24,7 +17,7 @@ Start Date: 2024-02-17
 ## Players & Characters
 | Player              | Character Name       | Race      | Class     |
 | ------------------- | -------------------- | --------- | --------- |
-| `= this.Players[0]` | Fingus Bingus        | Half-Elf  | Bard      |
-| `= this.Players[1]` | Curly                | Human     | Fighter   |
-| `= this.Players[2]` | Cromulent Fuckstable | Half-Orc  | Barbarian |
-| `= this.Players[3]` | Wom Batinator        | Human     | Rogue     |
+| Ethan | Fingus Bingus        | Half-Elf  | Bard      |
+| Mike Doom | Curly                | Human     | Fighter   |
+| Jimmy | Cromulent Fuckstable | Half-Orc  | Barbarian |
+| AJ | Wom Batinator        | Human     | Rogue     |

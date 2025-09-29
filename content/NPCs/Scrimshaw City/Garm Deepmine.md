@@ -1,31 +1,21 @@
 ---
-Age: "97"
-Ancestry:
-  - Dwarf
-Gender: Male
-Location:
-  - "[[Scrimshaw City]]"
-Role:
-  - Company Head
-Affiliation:
-  - Deepmine Delvings
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:24:19.271-04:00","published":"2025-08-14T15:24:19.271-04:00","cssclasses":"","Age":"97","Ancestry":["Dwarf"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Company Head"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[garm_deepmine.png|300]]
+
+![[z_assets/garm_deepmine.png|300]]
 
 ### Overview
-Legitimate businessman and patriarch of the Deepmine family. Often accompanied by his loyal bodyguard [[Choncho Stonetooth]].
+Legitimate businessman and patriarch of the Deepmine family. Often accompanied by his loyal bodyguard [[NPCs/Scrimshaw City/Choncho Stonetooth]].
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 97
+- **Ancestry**: Dwarf
+- **Gender**: Male
+- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
+- **Role**: Company Head
+- **Affiliation:** Deepmine Delvings
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Some kind of mob boss
@@ -37,4 +27,4 @@ Legitimate businessman and patriarch of the Deepmine family. Often accompanied b
 
 | Name                   | Relationship |
 | ---------------------- | ------------ |
-| [[Choncho Stonetooth]] | Bodyguard    |
+| [[NPCs/Scrimshaw City/Choncho Stonetooth]] | Bodyguard    |

@@ -1,4 +1,4 @@
-- A blood hunter hailing from [[Forsyth Keep]]
+- A blood hunter hailing from [[Locations/Forsyth Keep]]
 
 Tadeusz post chapter 3 downtime
 - He got an urgent message from Balfur McHannock, leader of the Spellblade School of Bloodhunters asking him to urgently come and help him defeat a griffin that has been terrorizing Whitewater Hold, a keep in the mountains near the Bloodhunter Castle (who's name i forgot).

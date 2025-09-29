@@ -1,19 +1,11 @@
 ---
-DM: Jordan
-Players:
-  - Bishop
-  - Mike Doom
-  - Jimmy
-  - Evan
-  - Ethan
-Platform: Roll20
-Sessions: 1
-Start Date: 2023-08-17
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:02:50.689-04:00","published":"2025-09-29T09:02:50.689-04:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Mike Doom","Jimmy","Evan","Ethan"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-08-17"}
 ---
+
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** Roll20
+- **Sessions:** 1
 
 ## Adventure Premise
 - Upstart duergar rebels led by one-time Inquisitor Initiate Dyksin Poosie have spoken out against [[High Lord Kranicz]]'s "rampant disregard of duergar culture".
@@ -27,8 +19,8 @@ Start Date: 2023-08-17
 ## Players & Characters
 | Player              | Character Name             | Race    | Class   |
 | ------------------- | -------------------------- | ------- | ------- |
-| `= this.Players[0]` | Alela                      | Drow    | Paladin |
-| `= this.Players[1]` | Sister Katharine Voidstone | Drow    | Cleric  |
-| `= this.Players[2]` | Uxeebroth Kuji             | Drow    | Fighter |
-| `= this.Players[3]` | Ashal Fractilian           | Kobold  | Warlock |
-| `= this.Players[4]` | Jebbajaz the Sly           | Duergar | Rogue   |
+| Bishop | Alela                      | Drow    | Paladin |
+| Mike Doom | Sister Katharine Voidstone | Drow    | Cleric  |
+| Jimmy | Uxeebroth Kuji             | Drow    | Fighter |
+| Evan | Ashal Fractilian           | Kobold  | Warlock |
+| Ethan | Jebbajaz the Sly           | Duergar | Rogue   |

@@ -1,24 +1,16 @@
 ---
-DM: Jordan
-Players:
-  - Peter
-  - Leah
-  - Evan
-  - Alex
-  - Mike Doom
-Platform: In person
-Sessions: 1
-Start Date: 2023-11-25
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:10:49.560-04:00","published":"2025-09-29T09:10:49.560-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Leah","Evan","Alex","Mike Doom"],"Platform":"In person","Sessions":1,"Start Date":"2023-11-25"}
 ---
+
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** In person
+- **Sessions:** 1
 
 ## Adventure Premise
-- Many automatons created by the renowned inventor [[Dillon Lonergan]] malfunctioned under mysterious circumstances last week, wreaking havoc across all of [[Crabbley]].
+- Many automatons created by the renowned inventor [[NPCs/Tanglewood Peninsula/Dillon Lonergan]] malfunctioned under mysterious circumstances last week, wreaking havoc across all of [[Locations/Crabbley]].
 - The notice boards around the town mention a large bounty on the head of the dastardly villain “[[Pill’Grim]]”, who is believed to be the perpetrator of this terrible crime.
-- Meet [[Bopus]] at the Crab Claw Inn for more information.
+- Meet [[NPCs/Tanglewood Peninsula/Bopus]] at the Crab Claw Inn for more information.
 - Should you succeed in Bopus’ quest, the bounty and the local fame would surely turn your life around.
 
 ## Outcomes
@@ -27,8 +19,8 @@ Start Date: 2023-11-25
 ## Players & Characters
 | Player              | Character Name                        | Race    | Class   |
 | ------------------- | ------------------------------------- | ------- | ------- |
-| `= this.Players[0]` | Thurney Snooper                       | Human   | Warlock |
-| `= this.Players[1]` | Unknown thanksgiving themed character | Unknown | Unknown |
-| `= this.Players[2]` | Unknown thanksgiving themed character | Unknown | Unknown |
-| `= this.Players[3]` | Green B. Casserole                    | Goblin  | Fighter |
-| `= this.Players[4]` | Frosty, the Old Salt                  | Human   | Cleric  |
+| Peter | Thurney Snooper                       | Human   | Warlock |
+| Leah | Unknown thanksgiving themed character | Unknown | Unknown |
+| Evan | Unknown thanksgiving themed character | Unknown | Unknown |
+| Alex | Green B. Casserole                    | Goblin  | Fighter |
+| Mike Doom | Frosty, the Old Salt                  | Human   | Cleric  |

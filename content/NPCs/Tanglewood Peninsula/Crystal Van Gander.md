@@ -1,19 +1,9 @@
 ---
-Age: "17"
-Ancestry: Human
-Gender: Female
-Location:
-  - "[[Crabbley]]"
-Role:
-  - Hedge Warlock
-  - Farmer
-Affiliation:
-  - None
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-17T12:53:14.904-04:00","published":"2025-09-17T12:53:14.904-04:00","cssclasses":"","Age":"17","Ancestry":"Human","Gender":"Female","Location":["[[Crabbley]]"],"Role":["Hedge Warlock","Farmer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[crystal_van_gander.png|300]]
+
+![[z_assets/crystal_van_gander.png|300]]
 
 ### Overview
 - Edgy hedge warlock teen living on a farm in Crabbley, she wants to be an adventurer like her parents were.
@@ -21,13 +11,13 @@ Appearances:
 - She constantly insists that being a warlock isn't a phase for her.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 17
+- **Ancestry**: Human
+- **Gender**: Female
+- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Role**: Hedge Warlock,Farmer
+- **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Angsty teen girl
@@ -39,5 +29,5 @@ Appearances:
 
 | Name                  | Relationship |
 | --------------------- | ------------ |
-| [[Bolla Van Gander]]  | Mother       |
-| [[Biltus Van Gander]] | Father       |
+| [[NPCs/Tanglewood Peninsula/Bolla Van Gander]]  | Mother       |
+| [[NPCs/Tanglewood Peninsula/Biltus Van Gander]] | Father       |

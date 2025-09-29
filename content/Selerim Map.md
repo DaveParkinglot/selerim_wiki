@@ -1,5 +1,5 @@
 > [!map] Selerim Interactive Map
-> ![[selerim_map.png|300]]
+> ![[z_assets/selerim_map.png|300]]
 ```marker:
   mapName: MAP_NAME
     x: 100
