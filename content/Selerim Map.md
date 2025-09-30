@@ -1,8 +1,3 @@
-> [!map] Selerim Interactive Map
-> ![[z_assets/selerim_map.png|300]]
-```marker:
-  mapName: MAP_NAME
-    x: 100
-    y: 55
-    icon: mdi:anvil
-    colour: #e2c505
+> [!map|minZoom:0-maxZoom:1-defaultZoom: -5] Interactive Map
+> ![[z_assets/selerim_map.png|1200]]
+> 

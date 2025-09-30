@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2025-09-17T12:39:25.000-04:00","modified":"2025-09-24T08:29:08.193-04:00","published":"2025-09-24T08:29:08.193-04:00","cssclasses":"","Type":["Town"],"Age (years)":25,"Population":"800","Affiliation":["None"],"Government":"[[The Crabbley Council]]"}
+{"publish":true,"title":"Crabbley","created":"2025-09-17T12:39:25.000-04:00","modified":"2025-09-30T11:10:32.272-04:00","published":"2025-09-30T11:10:32.272-04:00","cssclasses":"","Type":["Town"],"Age (years)":25,"Population":800,"Affiliation":["None"],"Government":"[[The Crabbley Council]]","marker":{"mapName":"Interactive Map","x":1495,"y":600,"icon":"farm","colour":"green"}}
 ---
 
-![[z_assets/crabbley.png|600]]   ![[z_assets/crabbley_topdown.png|900]]
+![[z_assets/crabbley.png|300]]   ![[z_assets/crabbley_topdown.png|450]]
 ### Overview
 - Home of the [[Cult of the Crab]], the famous Soggy Bottom Tavern, the Crab Claw Inn, and so many other fantastic places to take your family!  Come visit scenic Crabbley with your family and get one free commemorative item from [[Player Characters/The High Rollers/The High Rollers]] gift shop. 
 - A sleepy fishing village without much going on, adventurers are common here because it's on the edge of a great frontier—the Tanglewood Wilds.
@@ -38,3 +38,4 @@
 | Location       | Relationship |
 | -------------- | ------------ |
 | [[Crillville]] | Sister Town  |
+
