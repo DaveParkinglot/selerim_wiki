@@ -1,18 +1,11 @@
 ---
-DM: Jordan
-Players:
-  - Michael
-  - Bishop
-  - Mike Doom
-  - Bucher
-Platform: Foundry
-Sessions: 1
-Start Date: 2024-09-12
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:23:36.188-04:00","published":"2025-09-29T09:23:36.188-04:00","cssclasses":"","DM":"Jordan","Players":["Michael","Bishop","Mike Doom","Bucher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-09-12"}
 ---
+
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** Foundry
+- **Sessions:** 1
 
 ## Adventure Premise
 - It has been 3 months since the brave and patriotic adventuring party ISIS-T slew Ringleader Redtusk on behalf of Dick Gunbarrel and the [[Crillville Defense Force (CDF)]]. Somehow, in this short span of time, an even more insidious threat has arisen...
@@ -25,7 +18,7 @@ Start Date: 2024-09-12
 ## Players & Characters
 | Player              | Character Name   | Race     | Class     |
 | ------------------- | ---------------- | -------- | --------- |
-| `= this.Players[0]` | Bru Ski          | Harengon | Monk      |
-| `= this.Players[1]` | Elenda Duskwood  | Elf      | Rogue     |
-| `= this.Players[2]` | Curly            | Human    | Fighter   |
-| `= this.Players[3]` | Tumeighto Nose   | Half-Orc | Barbarian |
+| Michael | Bru Ski          | Harengon | Monk      |
+| Bishop | Elenda Duskwood  | Elf      | Rogue     |
+| Mike Doom | Curly            | Human    | Fighter   |
+| Bucher | Tumeighto Nose   | Half-Orc | Barbarian |

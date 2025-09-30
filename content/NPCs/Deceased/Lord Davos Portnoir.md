@@ -1,31 +1,21 @@
 ---
-Age: "347"
-Ancestry:
-  - Devil
-Gender: Male
-Location:
-  - Dead
-Role:
-  - Former El Presidente
-Affiliation:
-  - "[[Tavernstool]]"
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:56:05.872-04:00","published":"2025-08-14T15:56:05.872-04:00","cssclasses":"","Age":"347","Ancestry":["Devil"],"Gender":"Male","Location":["Dead"],"Role":["Former El Presidente"],"Affiliation":["[[Tavernstool]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
-![[lord_davos_portnoir_human.jpg|200]] ![[lord_davos_portnoir_devil.png|300]]
+
+![[z_assets/lord_davos_portnoir_human.jpg|200]] ![[z_assets/lord_davos_portnoir_devil.png|300]]
 
 ### Overview
-- The original El Presidente of [[Scrimshaw City]], who turned out to be a devil hiding in plain sight. 
-- He was sent screaming back to the Nine Hells after [[Hugh Mann]] and [[The High Rollers]] slew him in his lair beneath the Tavernstool Office Complex.
+- The original El Presidente of [[Locations/Scrimshaw City]], who turned out to be a devil hiding in plain sight. 
+- He was sent screaming back to the Nine Hells after [[NPCs/Scrimshaw City/Hugh Mann]] and [[Player Characters/The High Rollers/The High Rollers]] slew him in his lair beneath the Tavernstool Office Complex.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 347
+- **Ancestry**: Devil
+- **Gender**: Male
+- **Location**: Dead
+- **Role**: Former El Presidente
+- **Affiliation:** [[Tavernstool\|Tavernstool]]
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Creepy and sinister
@@ -37,4 +27,4 @@ Appearances:
 
 | Name          | Relationship |
 | ------------- | ------------ |
-| [[Hugh Mann]] | Archenemy    |
+| [[NPCs/Scrimshaw City/Hugh Mann]] | Archenemy    |

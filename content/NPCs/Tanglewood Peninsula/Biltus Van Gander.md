@@ -1,33 +1,23 @@
 ---
-Age: "48"
-Ancestry: Human
-Gender: Male
-Location:
-  - "[[Crabbley]]"
-Role:
-  - Farmer
-  - Former Adventurer
-Affiliation:
-  - None
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-17T12:52:42.710-04:00","published":"2025-09-17T12:52:42.710-04:00","cssclasses":"","Age":"48","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Farmer","Former Adventurer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[biltus_van_gander.png|300]]
+
+![[z_assets/biltus_van_gander.png|300]]
 
 ### Overview
 - Biltus was formerly an adventurer before he and his family settled down as farmers in Crabbley.
-- His family housed [[The High Rollers]] for a time, while they were on a quest to rescue the Van Gander's prized hog. 
+- His family housed [[Player Characters/The High Rollers/The High Rollers]] for a time, while they were on a quest to rescue the Van Gander's prized hog. 
 - Unfortunately the prized hog was never recovered from the kobolds who stole it.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 48
+- **Ancestry**: Human
+- **Gender**: Male
+- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Role**: Farmer,Former Adventurer
+- **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Gruff
@@ -39,5 +29,5 @@ Appearances:
 
 | Name                   | Relationship |
 | ---------------------- | ------------ |
-| [[Bolla Van Gander]]   | Wife         |
-| [[Crystal Van Gander]] | Daughter     |
+| [[NPCs/Tanglewood Peninsula/Bolla Van Gander]]   | Wife         |
+| [[NPCs/Tanglewood Peninsula/Crystal Van Gander]] | Daughter     |

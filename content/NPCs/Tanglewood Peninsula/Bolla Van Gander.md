@@ -1,33 +1,22 @@
 ---
-Age: "45"
-Ancestry: Human
-Gender: Female
-Location:
-  - "[[Crabbley]]"
-Role:
-  - Former Adventurer
-  - Wizard
-  - Advisor
-Affiliation:
-  - "[[Crabbley Council]]"
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-17T12:52:49.333-04:00","published":"2025-09-17T12:52:49.333-04:00","cssclasses":"","Age":"45","Ancestry":"Human","Gender":"Female","Location":["[[Locations/Crabbley]]"],"Role":["Former Adventurer","Wizard","Advisor"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[bolla_van_gander.png|300]]
+
+![[z_assets/bolla_van_gander.png|300]]
 
 ### Overview
-- Former adventurer, powerful wizard, and advisor to Mayor [[Antoona Bastifor]].
-- She was an adventurer with her husband [[Biltus Van Gander]] before they settled down to start a family in the sleepy fishing village of [[Crabbley]].
+- Former adventurer, powerful wizard, and advisor to Mayor [[NPCs/Tanglewood Peninsula/Antoona Bastifor]].
+- She was an adventurer with her husband [[NPCs/Tanglewood Peninsula/Biltus Van Gander]] before they settled down to start a family in the sleepy fishing village of [[Crabbley]].
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 45
+- **Ancestry**: Human
+- **Gender**: Female
+- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Role**: Former Adventurer,Wizard,Advisor
+- **Affiliation:** [[Crabbley Council\|Crabbley Council]]
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 
@@ -39,6 +28,6 @@ Appearances:
 
 | Name                   | Relationship |
 | ---------------------- | ------------ |
-| [[Biltus Van Gander]]  | Husband      |
-| [[Crystal Van Gander]] | Daughter     |
-| [[Antoona Bastifor]]   | Boss         |
+| [[NPCs/Tanglewood Peninsula/Biltus Van Gander]]  | Husband      |
+| [[NPCs/Tanglewood Peninsula/Crystal Van Gander]] | Daughter     |
+| [[NPCs/Tanglewood Peninsula/Antoona Bastifor]]   | Boss         |

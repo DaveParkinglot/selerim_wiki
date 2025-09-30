@@ -1,17 +1,11 @@
 ---
-DM: Bishop
-Players:
-  - Laura
-  - Sam
-  - Jordan
-Platform: Foundry
-Sessions: 1
-Start Date: 2024-06-04
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:20:52.504-04:00","published":"2025-09-29T09:20:52.504-04:00","cssclasses":"","DM":"Bishop","Players":["Laura","Sam","Jordan"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-06-04"}
 ---
+
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Bishop
+- **Platform:** Foundry
+- **Sessions:** 1
 
 ## Adventure Premise
 - Rumors have been spreading of a pack of wolves roaming near the village of Grainsford. Some have even claimed to see a figure riding one of the wolves. Investigate this strange incident and the townsfolk will see to it you are rewarded for their efforts.
@@ -23,6 +17,6 @@ Start Date: 2024-06-04
 ## Players & Characters
 | Player              | Character Name   | Race     | Class   |
 | ------------------- | ---------------- | -------- | ------- |
-| `= this.Players[0]` | Mylleria Skeeter | Human    | Ranger  |
-| `= this.Players[1]` | Cornwallis       | Aasimar  | Warlock |
-| `= this.Players[2]` | Miff Tamplecoat  | Harengon | Paladin |
+| Laura | Mylleria Skeeter | Human    | Ranger  |
+| Sam | Cornwallis       | Aasimar  | Warlock |
+| Jordan | Miff Tamplecoat  | Harengon | Paladin |

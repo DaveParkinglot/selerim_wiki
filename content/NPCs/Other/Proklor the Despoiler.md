@@ -1,20 +1,9 @@
 ---
-Age: ??
-Ancestry: Drow, Draegloth
-Gender: Male
-Location:
-  - Vlorngroth
-Role:
-  - Villain
-  - Destroyer of Worlds
-Affiliation:
-  - Vlorngroth
-Appearances:
-  - "[[02 Vlorngroth - The Manor of Madness]]"
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:14:56.498-04:00","published":"2025-08-14T15:14:56.498-04:00","cssclasses":"","Age":"??","Ancestry":"Drow, Draegloth","Gender":"Male","Location":["Vlorngroth"],"Role":["Villain","Destroyer of Worlds"],"Affiliation":["Vlorngroth"],"Appearances":["[[Adventures/02 Vlorngroth - The Manor of Madness]]","[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[proklor_the_despoiler.png|300]]
+
+![[z_assets/proklor_the_despoiler.png|300]]
 
 ### Overview
 An ancient, legendary draegloth demigod who has ravaged kingdoms across dozens of worlds on the material plane.
@@ -23,16 +12,16 @@ An ancient, legendary draegloth demigod who has ravaged kingdoms across dozens o
 - Until recently he resided in Demonweb layer of the abyss with his goddess Lolth
 - Lolth only breaks him out for special occasions, lending his services to drow on worlds where she wants a favor
 - Summoned by a group of Vlorn inquisitor initiates during the events of [[02 Vlorngroth - The Manor of Madness]].
-- He has a spiritual shard of [[Tharizdun, the Chained Oblivion]] contained within him, which is what gives him all his powers
+- He has a spiritual shard of [[Selerim Worldbuilding/Tharizdun, the Chained Oblivion]] contained within him, which is what gives him all his powers
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: ??
+- **Ancestry**: Drow, Draegloth
+- **Gender**: Male
+- **Location**: Vlorngroth
+- **Role**: Villain,Destroyer of Worlds
+- **Affiliation:** Vlorngroth
+- **Appearances:** [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Deep, powerful, mean and Australian

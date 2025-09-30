@@ -1,32 +1,22 @@
 ---
-Age: "56"
-Ancestry: Human
-Gender: Male
-Location:
-  - "[[Crabbley]]"
-Role:
-  - Inkeeper, Small Business Owner
-Affiliation:
-  - "[[Crabbley Council]]"
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
-  - "[[21 The Crimsonclaw Bounty]]"
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-17T12:53:29.629-04:00","published":"2025-09-17T12:53:29.629-04:00","cssclasses":"","Age":"56","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Inkeeper, Small Business Owner"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[21 The Crimsonclaw Bounty]]"]}
 ---
 
-![[innkeeper_roger.png|300]]
+
+![[z_assets/innkeeper_roger.png|300]]
 
 ### Overview
 - The innkeeper at the Crab Claw Inn in Crabbley. 
 - He has put up with a lot of crap through the years, but still loves adventurers.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 56
+- **Ancestry**: Human
+- **Gender**: Male
+- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Role**: Inkeeper, Small Business Owner
+- **Affiliation:** [[Crabbley Council\|Crabbley Council]]
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/21 The Crimsonclaw Bounty\|21 The Crimsonclaw Bounty]]
 
 ### Attributes
 - **Voice**: Normal

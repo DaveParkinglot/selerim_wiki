@@ -1,31 +1,22 @@
 ---
-Age: "31"
-Ancestry: Half-Orc
-Gender: Male
-Location:
-  - "[[Crabbley]]"
-Role:
-  - Adventurer, Barbarian
-Affiliation:
-  - The Backbreakers
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-17T12:53:26.774-04:00","published":"2025-09-17T12:53:26.774-04:00","cssclasses":"","Age":"31","Ancestry":"Half-Orc","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Barbarian"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[gronstew_bogbeast.png|300]]
+
+![[z_assets/gronstew_bogbeast.png|300]]
 
 ### Overview
 - Leader of Gronstew & The Backbreakers, an adventuring party from Crabbley.
-- The Backbreakers were rivals with [[The High Rollers]] for a while, until a gnome-nade killed two of their members.
+- The Backbreakers were rivals with [[Player Characters/The High Rollers/The High Rollers]] for a while, until a gnome-nade killed two of their members.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 31
+- **Ancestry**: Half-Orc
+- **Gender**: Male
+- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Role**: Adventurer, Barbarian
+- **Affiliation:** The Backbreakers
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Gruff and aggressive
@@ -37,5 +28,5 @@ Appearances:
 
 | Name                 | Relationship |
 | -------------------- | ------------ |
-| [[Blotta Balmer]]    | Party Member |
-| [[Woben Thumbstick]] | Party Member |
+| [[NPCs/Tanglewood Peninsula/Blotta Balmer]]    | Party Member |
+| [[NPCs/Tanglewood Peninsula/Woben Thumbstick]] | Party Member |

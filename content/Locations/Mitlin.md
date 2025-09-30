@@ -1,15 +1,8 @@
 ---
-Type:
-  - Town
-Age (years): 120
-Population: 3200
-Affiliation:
-  - None
-Government:
-  - The Oaken Conclave
-  - The Wise Wizards
+{"publish":true,"created":"2025-09-24T08:16:34.000-04:00","modified":"2025-09-24T08:27:30.933-04:00","published":"2025-09-24T08:27:30.933-04:00","cssclasses":"","Type":["Town"],"Age (years)":120,"Population":3200,"Affiliation":["None"],"Government":["The Oaken Conclave","The Wise Wizards"]}
 ---
-![[mitlin.png|500]]
+
+![[z_assets/mitlin.png|500]]
 
 ### Overview
 - Built into the towering trees that grow on the southeast side of the Tanglewood Peninsula, Mitlin is a peaceful town inhabited mainly by elves. 
@@ -17,11 +10,11 @@ Government:
 - The Home Tree, first of the Great Oaks of Mitlin, stands at the center of the town.
 
 ### Key Details
-- **Type**: `= this.Type`
-- **Age:** `= this["Age (years)"]`
-- **Population**: `= this.Population`
-- **Affiliation**: `= this.Affiliation`
-- **Government:** `= this.Government`
+- **Type**: Town
+- **Age:** 120
+- **Population**: 3200
+- **Affiliation**: None
+- **Government:** The Oaken Conclave,The Wise Wizards
 
 ### Attributes
 - **Appearance**: 
@@ -33,7 +26,7 @@ Government:
 - **Points of Interest**: 
 	- Kindlethicket, a fey crossing, is less than a day's journey from Mitlin
 	- The edge of the Forsaken Expanse
-	- Jack of Owl Trades, [[Bwanson Wagwan]]'s magic shop
+	- Jack of Owl Trades, [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]]'s magic shop
 
 ### Hooks
 - Adventure seed 1

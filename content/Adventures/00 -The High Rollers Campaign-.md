@@ -1,48 +1,35 @@
 ---
-DM: Jordan
-Players:
-  - Evan
-  - Logan
-  - Michael
-  - Mike Doom
-  - Peter
-  - George
-  - Fisher
-Platform:
-  - Foundry
-  - Roll20
-Sessions: 69
-Start Date: 2022-07-25
-End Date: 2024-05-24
+{"publish":true,"created":"2025-07-25T11:19:09.000-04:00","modified":"2025-09-29T08:54:43.382-04:00","published":"2025-09-29T08:54:43.382-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"],"Sessions":69,"Start Date":"2022-07-25","End Date":"2024-05-24"}
 ---
+
 The OG campaign.
 [Session Notes and Campaign Calendar archived here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDrepZ6ufuBd06czok7yZsXPGo6cuFXygRQpcnKU0MQsEsPHQac3FE7obJlYtZXZ4WPgaxIftdBcd-/pubhtml).
 
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** Foundry,Roll20
+- **Sessions:** 69
 
 # Players & Characters
 | Player              | Character Name                                                  | Race              | Class        |
 | ------------------- | --------------------------------------------------------------- | ----------------- | ------------ |
-| `= this.Players[0]` | [[Clint Weapon]]                                                | Human             | Barbarian    |
-| `= this.Players[1]` | [[Bancil Nobeltrim]]                                            | Half-Elf          | Paladin      |
-| `= this.Players[1]` | [[Lorundil the Wanderer]]                                       | Half-Elf          | Warlock      |
-| `= this.Players[2]` | [[Otieno]]                                                      | Elf               | Ranger       |
-| `= this.Players[2]` | Otieno, Reborn                                                  | Elf, Dragonmarked | Ranger       |
-| `= this.Players[3]` | [[Hugh Mann]]                                                   | Human             | Wizard       |
-| `= this.Players[3]` | [[Francis Greenstrider De Luca\|Frankie "Greenstider" De Luca]] | Half-Elf          | Druid/Cleric |
-| `= this.Players[4]` | [[Tadeusz]]                                                     | Human             | Blood Hunter |
-| `= this.Players[5]` | [[Eros]]                                                        | Satyr             | Bard         |
-| `= this.Players[5]` | [[P3360 TUR60]]                                                 | Warforged         | Rogue        |
-| `= this.Players[6]` | [[Bwanson Wagwan]]                                              | Owlin             | Druid        |
+| Evan | [[Player Characters/The High Rollers/Clint Weapon]]                                                | Human             | Barbarian    |
+| Logan | [[NPCs/Tiialia/Bancil Nobeltrim]]                                            | Half-Elf          | Paladin      |
+| Logan | [[Player Characters/The High Rollers/Lorundil the Wanderer]]                                       | Half-Elf          | Warlock      |
+| Michael | [[Player Characters/The High Rollers/Otieno]]                                                      | Elf               | Ranger       |
+| Michael | Otieno, Reborn                                                  | Elf, Dragonmarked | Ranger       |
+| Mike Doom | [[NPCs/Scrimshaw City/Hugh Mann]]                                                   | Human             | Wizard       |
+| Mike Doom | [[Player Characters/The High Rollers/Francis Greenstrider De Luca\|Frankie "Greenstider" De Luca]] | Half-Elf          | Druid/Cleric |
+| Peter | [[Player Characters/The High Rollers/Tadeusz]]                                                     | Human             | Blood Hunter |
+| George | [[Eros]]                                                        | Satyr             | Bard         |
+| George | [[P3360 TUR60]]                                                 | Warforged         | Rogue        |
+| Fisher | [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]]                                              | Owlin             | Druid        |
 # Key Adventures/Quests
 
 ## Free the Tanglewood Peninsula
 
 ### Adventure Premise
-- End the threat to [[Crabbley]] and [[Crillville]] by eliminating Malmstein the Tangler and his terroristic druid organization The Tanglers.
+- End the threat to [[Locations/Crabbley]] and [[Crillville]] by eliminating Malmstein the Tangler and his terroristic druid organization The Tanglers.
 ### Outcomes
 - The forces of Crabbley and Crillville retook Crillville after it was occupied by The Tanglers.
 - In the final confrontation, The High Rollers struck down Malmstein, who was summarily executed by Dick Gunbarrel.
@@ -51,7 +38,7 @@ The OG campaign.
 ## Depose Lord Davos Portnoir
 
 ### Adventure Premise
-- Bring rent reductions and prosperity to [[Scrimshaw City]] by defeating [[Lord Davos Portnoir]] and his [[Tavernstool]] fanatics.
+- Bring rent reductions and prosperity to [[Locations/Scrimshaw City]] by defeating [[NPCs/Deceased/Lord Davos Portnoir]] and his [[Tavernstool]] fanatics.
 ### Outcomes
 - Lord Davos Portnoir was sent screaming back to the Nine Hells, and Hugh Mann became the new El Presidente of Scrimshaw City.---
 
@@ -59,8 +46,8 @@ The OG campaign.
 ## Restore the Tiialan Royal Line
 
 ### Adventure Premise
-- Remove control of Tiialia from the hands of the tyrant [[Lord Draco Landucci]] and the nasty [[The Fanto-Domingo Family|Fanto-Domingo family]].
-- Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[Antonino Esposito]].
+- Remove control of Tiialia from the hands of the tyrant [[NPCs/Deceased/Lord Draco Landucci]] and the nasty [[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Fanto-Domingo Family\|Fanto-Domingo family]].
+- Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[NPCs/Tiialia/Antonino Esposito]].
 ### Outcomes
 - The tyrant Lord Draco Landucci was overthrown by The High Rollers and Antonino "Nino" Esposito.
 - Long live the new King of Tiialia: Nino Esposito.
@@ -69,9 +56,9 @@ The OG campaign.
 ## Destroy The Master
 
 ### Adventure Premise
-- Kill the lich [[Master Effree Jypstein|Effree Jypstein]] also known as "The Master" and eliminate the threat of his undead hordes to the world of Selerim.
+- Kill the lich [[NPCs/Deceased/Master Effree Jypstein\|Effree Jypstein]] also known as "The Master" and eliminate the threat of his undead hordes to the world of Selerim.
 ### Outcomes
-- With the help of [[Carbuckle Duskshot]], The High Rollers snuck through The Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
+- With the help of [[NPCs/Vlorngroth/Carbuckle Duskshot]], The High Rollers snuck through The Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
 - Effree Jypstein was killed and his phylactery was destroyed.
 
 

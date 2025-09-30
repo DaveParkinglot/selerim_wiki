@@ -1,33 +1,22 @@
 ---
-Age: ??
-Ancestry:
-  - Demon
-Gender: Male
-Location:
-  - Pazunia
-Role:
-  - Dark Angel of the Four Winds
-  - Eldest Child of the Infinite Abyss
-Affiliation:
-  - None
-Appearances:
-  - "[[24 The Hellnight Soirée]]"
+{"publish":true,"created":"2025-08-12T09:10:18.000-04:00","modified":"2025-08-12T09:16:10.669-04:00","published":"2025-08-12T09:16:10.669-04:00","cssclasses":"","Age":"??","Ancestry":["Demon"],"Gender":"Male","Location":["Pazunia"],"Role":["Dark Angel of the Four Winds","Eldest Child of the Infinite Abyss"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
 ---
 
-![[pazuzu.png|300]]
+
+![[z_assets/pazuzu.png|300]]
 
 ### Overview
 - A storied demon, he is one of the only demon lords with good relations with Asmodeus, Lord of Hell.
 - Some legends say it was Pazuzu himself who corrupted Asmodeus. Other legends say they are just great drinking buddies.
-- He has a Fiend Feud with [[Baron Neffery]] that started after their entourages both clashed at [[Hugh Mann]]'s [[24 The Hellnight Soirée|Hellnight Soirée]]
+- He has a Fiend Feud with [[NPCs/Other/Baron Neffery]] that started after their entourages both clashed at [[NPCs/Scrimshaw City/Hugh Mann]]'s [[Adventures/24 The Hellnight Soirée\|Hellnight Soirée]]
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
+- **Age**: ??
+- **Ancestry**: Demon
+- **Gender**: Male
+- **Location**: Pazunia
+- **Role**: Dark Angel of the Four Winds,Eldest Child of the Infinite Abyss
+- **Affiliation:** None
 
 ### Attributes
 - **Voice**: Aggressively Australian
@@ -39,5 +28,5 @@ Appearances:
 
 | Name              | Relationship |
 | ----------------- | ------------ |
-| [[Baron Neffery]] | Archenemy    |
+| [[NPCs/Other/Baron Neffery]] | Archenemy    |
 

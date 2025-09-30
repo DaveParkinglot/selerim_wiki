@@ -1,19 +1,9 @@
 ---
-Age: "19"
-Ancestry: Tiefling
-Gender: Male
-Location:
-  - "[[Selerim Wiki/Locations/The White Grove]]"
-Role:
-  - Student
-  - Freshman
-Affiliation:
-  - None
-Appearances:
-  - "[[23 The White Grove- First Semester]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:04:24.586-04:00","published":"2025-09-24T08:04:24.586-04:00","cssclasses":"","Age":"19","Ancestry":"Tiefling","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
-![[asmodeas_brickhaus.png|300]]
+
+![[z_assets/asmodeas_brickhaus.png|300]]
 
 ### Overview
 - A jock freshman sorcerer who is very adept at harnessing his ancestry to use infernal magic.
@@ -21,13 +11,13 @@ Appearances:
 - He asked fellow student [[Tony Gorgonzoli]] to get some some alcohol during a study session, and in exchange he would teach Tony how to conjure a flaming sword. Things got heated and Tony color sprayed him in front of everyone in the library, a very alpha move.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 19
+- **Ancestry**: Tiefling
+- **Gender**: Male
+- **Location**: [[Locations/The White Grove\|The White Grove]]
+- **Role**: Student,Freshman
+- **Affiliation:** None
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
 - **Voice**: Cool guy jock aha
@@ -39,5 +29,5 @@ Appearances:
 
 | Name                     | Relationship |
 | ------------------------ | ------------ |
-| [[Stephenie Stalacnicz]] | Girlfriend   |
+| [[NPCs/The White Grove/Stephenie Stalacnicz]] | Girlfriend   |
 

@@ -1,22 +1,11 @@
 ---
-DM: Mike Doom
-Players:
-  - Peter
-  - Jimmy
-  - Logan
-  - Jordan
-  - George
-  - Michael
-  - Evan
-Platform: Roll20
-Sessions: 2
-Start Date: 2023-05-24
-End Date: 2023-05-31
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T08:57:06.211-04:00","published":"2025-09-29T08:57:06.211-04:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-05-24","End Date":"2023-05-31"}
 ---
+
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Mike Doom
+- **Platform:** Roll20
+- **Sessions:** 2
 
 ## Adventure Premise
 - You are members of the Tiialan army serving in a special cohort called Dunlands Raiders under Captain Crebain Dunland. Your homelands are under attack by the forces of an evil warlock named Morganth.
@@ -31,11 +20,11 @@ End Date: 2023-05-31
 ## Players & Characters
 | Player              | Character Name           | Race     | Class     |
 | ------------------- | ------------------------ | -------- | --------- |
-| `= this.Players[0]` | Eclipse Malificent       | Half-Orc | Druid     |
-| `= this.Players[0]` | Sir Chauncy the Brave    | Human    | Paladin   |
-| `= this.Players[1]` | Sam Hornblower           | Half-Elf | Fighter   |
-| `= this.Players[2]` | David Bluke              | Half-Elf | Rogue     |
-| `= this.Players[3]` | Montius "Monty" Landucci | Human    | Fighter   |
-| `= this.Players[4]` | Skeeter Lutz             | Human    | Barbarian |
-| `= this.Players[5]` | Cecil Qwezikin III       | Gnome    | Sorcerer  |
-| `= this.Players[6]` | Jersesus Mike XLVII      | Tiefling | Cleric    |
+| Peter | Eclipse Malificent       | Half-Orc | Druid     |
+| Peter | Sir Chauncy the Brave    | Human    | Paladin   |
+| Jimmy | Sam Hornblower           | Half-Elf | Fighter   |
+| Logan | David Bluke              | Half-Elf | Rogue     |
+| Jordan | Montius "Monty" Landucci | Human    | Fighter   |
+| George | Skeeter Lutz             | Human    | Barbarian |
+| Michael | Cecil Qwezikin III       | Gnome    | Sorcerer  |
+| Evan | Jersesus Mike XLVII      | Tiefling | Cleric    |

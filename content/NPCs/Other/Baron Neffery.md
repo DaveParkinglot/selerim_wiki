@@ -1,31 +1,21 @@
 ---
-Age: ??
-Ancestry:
-  - Fiend (Devil)
-Gender: Male
-Location:
-  - Avernus
-Role:
-  - Hell Baron
-Affiliation:
-  - None
-Appearances:
-  - "[[24 The Hellnight Soirée]]"
+{"publish":true,"created":"2025-08-05T13:44:04.000-04:00","modified":"2025-09-05T08:55:58.338-04:00","published":"2025-09-05T08:55:58.338-04:00","cssclasses":"","Age":"??","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["Avernus"],"Role":["Hell Baron"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
 ---
 
-![[baron_neffery.png|300]]
+
+![[z_assets/baron_neffery.png|300]]
 
 ### Overview
 - A powerful hell baron who made a name for himself in the Blood War, he is constantly trying to usurp the holdings of other fiends across the multiverse.
 - Though he may seem polite, he is always looking for leverage in order to dominate and subjugate others.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
+- **Age**: ??
+- **Ancestry**: Fiend (Devil)
+- **Gender**: Male
+- **Location**: Avernus
+- **Role**: Hell Baron
+- **Affiliation:** None
 
 ### Attributes
 - **Voice**: Polite English
@@ -37,5 +27,5 @@ Appearances:
 
 | Name       | Relationship |
 | ---------- | ------------ |
-| [[Pazuzu]] | Archenemy    |
+| [[NPCs/Other/Pazuzu]] | Archenemy    |
 

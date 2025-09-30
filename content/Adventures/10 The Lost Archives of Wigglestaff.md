@@ -1,23 +1,14 @@
 ---
-DM: Jordan
-Players:
-  - Kyle
-  - Larry
-  - Bishop
-  - George
-  - Bucher
-  - Matt
-Platform: Foundry
-Sessions: 1
-Start Date: 2024-05-02
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:23:13.603-04:00","published":"2025-09-29T09:23:13.603-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Larry","Bishop","George","Bucher","Matt"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-05-02"}
 ---
+
 Handouts:
-[[The Lost Archives of Wigglestaff Handout]]
+[[Selerim Worldbuilding/Adventure Handouts/The Lost Archives of Wigglestaff Handout]]
 
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** Foundry
+- **Sessions:** 1
 
 ## Adventure Premise
 - Dick Gunbarrel, commander of the Crillville Defense Force (CDF) has placed a bounty on the head of Ringleader Redtusk, a half-ogre warlord who has suddenly appeared in the region. Investigate what Redtusk is doing on the island of the former gnome Wigglestaff, and bring his head back to Crillville to make a name for yourself.
@@ -29,9 +20,9 @@ Handouts:
 ## Players & Characters
 | Player              | Character Name   | Race     | Class     |
 | ------------------- | ---------------- | -------- | --------- |
-| `= this.Players[0]` | Crank Creamsicle | Half-Elf | Paladin   |
-| `= this.Players[1]` | Shume Lettux     | Tortle   | Barbarian |
-| `= this.Players[2]` | Elenda Duskwood  | Elf      | Rogue     |
-| `= this.Players[3]` | Liam Neighson    | Centaur  | Druid     |
-| `= this.Players[4]` | Tumeighto Nose   | Half-Orc | Barbarian |
-| `= this.Players[5]` | Pissjar          | Goblin   | Ranger    |
+| Kyle | Crank Creamsicle | Half-Elf | Paladin   |
+| Larry | Shume Lettux     | Tortle   | Barbarian |
+| Bishop | Elenda Duskwood  | Elf      | Rogue     |
+| George | Liam Neighson    | Centaur  | Druid     |
+| Bucher | Tumeighto Nose   | Half-Orc | Barbarian |
+| Matt | Pissjar          | Goblin   | Ranger    |

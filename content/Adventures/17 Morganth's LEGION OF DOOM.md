@@ -1,19 +1,11 @@
 ---
-DM: Jordan
-Players:
-  - Kyle
-  - Laura
-  - Mike Doom
-  - Ethan
-Platform: Foundry
-Sessions: 2
-Start Date: 2025-01-22
-End Date: 2025-01-29
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:29:31.705-04:00","published":"2025-09-29T09:29:31.705-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Laura","Mike Doom","Ethan"],"Platform":"Foundry","Sessions":2,"Start Date":"2025-01-22","End Date":"2025-01-29"}
 ---
+
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** Foundry
+- **Sessions:** 2
 
 ## Adventure Premise
 - Your brilliant leader, the wicked sorcerer MORGANTH, seeks the eldritch powers of a powerful Yuan-Ti warlock who perished in the fall of CORRODRETH, THE SALTED CITY. As a devoted member of MORGANTH'S LEGION OF DOOM, you will aid your master even unto death. As such, you have agreed to infiltrate the accursed city and locate the warlock's tomb.
@@ -25,7 +17,7 @@ End Date: 2025-01-29
 ## Players & Characters
 | Player              | Character Name           | Race    | Class   |
 | ------------------- | ------------------------ | ------- | ------- |
-| `= this.Players[0]` | Papa Vince               | Human   | Ranger  |
-| `= this.Players[1]` | Bianca "Mad Dog" Bianchi | Goliath | Warlock |
-| `= this.Players[2]` | Mad Jack the Fat         | Human   | Fighter |
-| `= this.Players[3]` | Bombus Mitz              | Drow    | Cleric  |
+| Kyle | Papa Vince               | Human   | Ranger  |
+| Laura | Bianca "Mad Dog" Bianchi | Goliath | Warlock |
+| Mike Doom | Mad Jack the Fat         | Human   | Fighter |
+| Ethan | Bombus Mitz              | Drow    | Cleric  |

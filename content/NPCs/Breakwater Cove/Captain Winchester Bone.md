@@ -1,26 +1,14 @@
 ---
-Age: "66"
-Ancestry: Human
-Gender: Male
-Location:
-  - Breakwater Cove
-Role:
-  - Bartender, Retired Captain
-Affiliation:
-  - None
-Appearances:
-  - "[[07 The Hidden Hoard of Winchester Bone]]"
-  - "[[09 Sharky's Revenge]]"
-  - "[[14 Bootknife's Bounty|14 Bootknife's Bounty]]"
-  - "[[21 The Crimsonclaw Bounty]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-09-29T09:38:53.831-04:00","published":"2025-09-29T09:38:53.831-04:00","cssclasses":"","Age":"66","Ancestry":"Human","Gender":"Male","Location":["Breakwater Cove"],"Role":["Bartender, Retired Captain"],"Affiliation":["None"],"Appearances":["[[07 The Hidden Hoard of Winchester Bone]]","[[09 Sharky's Revenge]]","[[14 Bootknife's Bounty|14 Bootknife's Bounty]]","[[21 The Crimsonclaw Bounty]]"]}
 ---
 
-![[winchester_bone.png|300]]
+
+![[z_assets/winchester_bone.png|300]]
 
 ### Overview
 Once a renowned pirate captain, he now owns Bone Tavern in [[Breakwater Cove]]. Loves to recount his days of yore to whoever will listen.
 - He has sailed with many crews aboard many ships, but he is most known for his time aboard the Leaky Bucket. 
-- At some point, he had to fight half his crew and his first mate [[Sharky Dolphino]] over some relics they plundered from a ship bound for [[Mournholde|Mournholde, City of the Dead]]. 
+- At some point, he had to fight half his crew and his first mate [[Sharky Dolphino]] over some relics they plundered from a ship bound for [[Locations/Mournholde\|Mournholde, City of the Dead]]. 
 	- The following is Bone's accounting of the events that led to the end of "Bone and Sharky's Crew":
 	    - Sharky, being an orphan cast out of Tiialia, wanted to use powerful artifacts they looted to get revenge on those who had wronged him
 	    - Bone had no choice but to mutiny, and he used one of the artifacts on Sharky and his supporters. 
@@ -29,13 +17,13 @@ Once a renowned pirate captain, he now owns Bone Tavern in [[Breakwater Cove]]. 
 	    - "Yarr, I chucked that strange vase right in the ocean on me way back home, suppose it's still there buried beneath the waves"
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 66
+- **Ancestry**: Human
+- **Gender**: Male
+- **Location**: Breakwater Cove
+- **Role**: Bartender, Retired Captain
+- **Affiliation:** None
+- **Appearances:** [[Adventures/07 The Hidden Hoard of Winchester Bone\|07 The Hidden Hoard of Winchester Bone]],[[Adventures/09 Sharky's Revenge\|09 Sharky's Revenge]],[[Adventures/14 Bootknife's Bounty\|14 Bootknife's Bounty]],[[Adventures/21 The Crimsonclaw Bounty\|21 The Crimsonclaw Bounty]]
 
 ### Attributes
 - **Voice**: Old pirate. Yarrrr
@@ -48,4 +36,4 @@ Once a renowned pirate captain, he now owns Bone Tavern in [[Breakwater Cove]]. 
 | Name                    | Relationship      |
 | ----------------------- | ----------------- |
 | [[Sharky Dolphino]]     | Former First Mate |
-| [[Marashka Breakwater]] | Former Lover      |
+| [[NPCs/Breakwater Cove/Marashka Breakwater]] | Former Lover      |

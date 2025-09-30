@@ -1,18 +1,9 @@
 ---
-Age: Deceased
-Ancestry: Dwarf
-Gender: Male
-Location:
-  - Dead
-Role:
-  - King of the Dwarves
-Affiliation:
-  - "[[Selerim Wiki/Locations/The Kingdom of Tiialia/Nova Jersaeria]]"
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-09-18T08:29:44.644-04:00","published":"2025-09-18T08:29:44.644-04:00","cssclasses":"","Age":"Deceased","Ancestry":"Dwarf","Gender":"Male","Location":["Dead"],"Role":["King of the Dwarves"],"Affiliation":["[[Locations/The Kingdom of Tiialia/Nova Jersaeria]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[geblorgurin_the_grand.png|300]]
+
+![[z_assets/geblorgurin_the_grand.png|300]]
 
 ### Overview
 - Once the king of the dwarves before his passing, Geblorgurin is highly regarded amongst all the peoples of Selerim, and amongst adventurers because of the many treasure-laden monuments he left behind.
@@ -22,7 +13,7 @@ Appearances:
 	- From the shell of a Marut that fell from sky, Geblorgurin pried the gem.
 	- Of the dead Marut's shell, Geblorgurin did forge his armor and his kingdom.
 
-> Notes from [[Clint Weapon|Clint Weapon's]] hour long meeting in Mitlin with Melvin the elvish wizard.
+> Notes from [[Player Characters/The High Rollers/Clint Weapon\|Clint Weapon's]] hour long meeting in Mitlin with Melvin the elvish wizard.
 > - The Gem of Eyes was originally found in the crater of a fallen star by Geblorgurin himself
 > - He used it to great effect in the never ending fight against incursions from the Vlorn
 > - Clint would know that the Vlorn Dynasty is a faction in the Underdark led by the drow (dark elves)
@@ -37,13 +28,13 @@ Appearances:
 > The meeting ended early because Melvin had to go investigate reports of Vlorn Trolls near the Forsaken Expanse.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: Deceased
+- **Ancestry**: Dwarf
+- **Gender**: Male
+- **Location**: Dead
+- **Role**: King of the Dwarves
+- **Affiliation:** [[Locations/The Kingdom of Tiialia/Nova Jersaeria\|Nova Jersaeria]]
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: 

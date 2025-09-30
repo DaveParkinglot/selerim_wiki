@@ -1,32 +1,22 @@
 ---
-Age: "93"
-Ancestry:
-  - Sea Elf
-Gender: Male
-Location:
-  - "[[Scrimshaw City]]"
-Role:
-  - Rogue
-Affiliation:
-  - None
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:24:00.019-04:00","published":"2025-08-14T15:24:00.019-04:00","cssclasses":"","Age":"93","Ancestry":["Sea Elf"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Rogue"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
-![[caretaker_higori.png|300]]
+
+![[z_assets/caretaker_higori.png|300]]
 
 ### Overview
 - Garderner, herbalist, healer, and the caretaker of the Henge of Avandra in [[Scrimshaw City]].
 - Unseelie fey have been overtaking the henge and upsetting him quite a bit recently.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 93
+- **Ancestry**: Sea Elf
+- **Gender**: Male
+- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
+- **Role**: Rogue
+- **Affiliation:** None
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Soft spoken and wise

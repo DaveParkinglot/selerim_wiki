@@ -1,21 +1,14 @@
 ---
-DM: Jordan
-Players:
-  - Ethan
-  - Mike Doom
-  - Brian
-Platform: Foundry
-Sessions: 3
-Start Date: 2025-08-21
-End Date:
+{"publish":true,"created":"2025-08-16T21:13:04.000-04:00","modified":"2025-09-29T09:36:25.416-04:00","published":"2025-09-29T09:36:25.416-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Brian"],"Platform":"Foundry","Sessions":3,"Start Date":"2025-08-21","End Date":null}
 ---
+
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** Foundry
+- **Sessions:** 3
 
 ## Adventure Premise
-- Over summer break, Headmaster [[Arctur Execlostrabaum]] has challenged the students of The White Grove to a competitive off-campus scavenger hunt.
+- Over summer break, Headmaster [[NPCs/The White Grove/Arctur Execlostrabaum]] has challenged the students of The White Grove to a competitive off-campus scavenger hunt.
 - Students who succeed in the scavenger hunt will be given extra commendations in their culminating portfolio, which makes this an exceedingly valuable extra-curricular (if you care about having a successful career as a spellcaster).
 
 ## Outcomes
@@ -24,6 +17,6 @@ End Date:
 ## Players & Characters
 | Player              | Character Name     | Race   | Class   |
 | ------------------- | ------------------ | ------ | ------- |
-| `= this.Players[0]` | Crimslaw Brutefang | Orc    | Wizard  |
-| `= this.Players[1]` | Tony Gorgonzoli    | Human  | Wizard  |
-| `= this.Players[2]` | The Earl           | Genasi | Warlock |
+| Ethan | Crimslaw Brutefang | Orc    | Wizard  |
+| Mike Doom | Tony Gorgonzoli    | Human  | Wizard  |
+| Brian | The Earl           | Genasi | Warlock |

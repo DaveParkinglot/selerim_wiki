@@ -1,35 +1,22 @@
 ---
-Age: "24"
-Ancestry: Owlin
-Gender: Male
-Location:
-  - Mitlin
-Role:
-  - Former Adventurer
-  - Druid
-  - Merchant
-Affiliation:
-  - "[[The High Rollers]]"
-Appearances:
-  - "[[00 -The High Rollers Campaign-]]"
-  - "[[15 Kindlethicket - Envoys of Mitlin]]"
-  - "[[18 The Marrowsucker Contract]]"
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-10T09:02:52.354-04:00","published":"2025-09-10T09:02:52.354-04:00","cssclasses":"","Age":"24","Ancestry":"Owlin","Gender":"Male","Location":["Mitlin"],"Role":["Former Adventurer","Druid","Merchant"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[18 The Marrowsucker Contract]]"]}
 ---
 
-![[bwanson_wagwan.png|300]]
+
+![[z_assets/bwanson_wagwan.png|300]]
 
 ### Overview
 - Bwanson adventured with [[The High Rollers]] during their time on the Tanglewood Peninsula.
 - He settled down to start his magic shop Jack of Owl Trades in Mitlin with his business partner Scryer Young.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 24
+- **Ancestry**: Owlin
+- **Gender**: Male
+- **Location**: Mitlin
+- **Role**: Former Adventurer,Druid,Merchant
+- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/18 The Marrowsucker Contract\|18 The Marrowsucker Contract]]
 
 ### Attributes
 - **Voice**: High pitched, says "hoo-hoo" like an owl a lot

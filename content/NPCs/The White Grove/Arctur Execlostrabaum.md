@@ -1,31 +1,22 @@
 ---
-Age: "214"
-Ancestry: Dwarf
-Gender: M
-Location:
-  - "[[Selerim Wiki/Locations/The White Grove]]"
-Role:
-  - Headmaster
-Affiliation:
-  - "[[Selerim Wiki/Locations/The Kingdom of Tiialia/Nova Jersaeria]]"
-Appearances:
-  - "[[23 The White Grove- First Semester]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:04:24.581-04:00","published":"2025-09-24T08:04:24.581-04:00","cssclasses":"","Age":"214","Ancestry":"Dwarf","Gender":"M","Location":["[[Locations/The White Grove]]"],"Role":["Headmaster"],"Affiliation":["[[Locations/The Kingdom of Tiialia/Nova Jersaeria]]"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
-![[arctur_execlostrabaum.png|300]]
+
+![[z_assets/arctur_execlostrabaum.png|300]]
 
 ### Overview
-- Headmaster of [[Selerim Wiki/Locations/The White Grove]] with disturbingly liberal magical philosophies.
-- He is a nephew of [[Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
+- Headmaster of [[Locations/The White Grove]] with disturbingly liberal magical philosophies.
+- He is a nephew of [[NPCs/Deceased/Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 214
+- **Ancestry**: Dwarf
+- **Gender**: M
+- **Location**: [[Locations/The White Grove\|The White Grove]]
+- **Role**: Headmaster
+- **Affiliation:** [[Locations/The Kingdom of Tiialia/Nova Jersaeria\|Nova Jersaeria]]
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
 - **Voice**: Wise old man

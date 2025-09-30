@@ -1,17 +1,11 @@
 ---
-DM: Jordan
-Players:
-  - Ethan
-  - Devin
-  - Mike Doom
-Platform: Foundry
-Sessions: 1
-Start Date: 2025-05-14
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:34:17.161-04:00","published":"2025-09-29T09:34:17.161-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Devin","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-05-14"}
 ---
+
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** Foundry
+- **Sessions:** 1
 
 ## Adventure Premise
 - For a sleepy fishing village, Crabbley has always had more than its fair share of threats from both the land and the sea.
@@ -21,15 +15,15 @@ Start Date: 2025-05-14
 - Whoever your character is, whether brave or foolish, they will soon leave the safety of the town to track Old Crimsonclaw through the twisting trails of the Tanglewood wilds...
 
 ## Outcomes
-- The party retrieved the bounty and a map from [[Bopus]] after some carousing at the Crab Claw Inn.
+- The party retrieved the bounty and a map from [[NPCs/Tanglewood Peninsula/Bopus]] after some carousing at the Crab Claw Inn.
 - After leaving town, they ventured through the Tanglewood Wilds until they reached the old Greenspring Trail.
 - While traveling the trail, they looted a dead member of the Crillville Defense Force and barely escaped an ambush by crocodiles, thanks to a friendly mud mephit named Jiggy Mudpie.
-- Unbelievably, the manticore Old Crimsonclaw's nest was made atop the Leaky Bucket, the lost sailing ship of the famous privateer [[Captain Winchester Bone]].
+- Unbelievably, the manticore Old Crimsonclaw's nest was made atop the Leaky Bucket, the lost sailing ship of the famous privateer [[NPCs/Breakwater Cove/Captain Winchester Bone]].
 - After handedly dispatching the manticore, the party was able to loot both the ship and the beast, finding many magical items and a disturbing note from the mutated manticore's creator, "The Gray Mage of Tanglewood".
 
 ## Players & Characters
 | Player          | Character Name                    | Race  | Class   |
 | --------------- | --------------------------------- | ----- | ------- |
-| `= this.Players[0]` | Jaemee "The Unsinkable" Babaganoush | Human | Wizard  |
-| `= this.Players[1]` | "Playing Card" Murphy             | Human | Rogue   |
-| `= this.Players[2]` | The Knight of Confidence          | Human | Fighter |
+| Ethan | Jaemee "The Unsinkable" Babaganoush | Human | Wizard  |
+| Devin | "Playing Card" Murphy             | Human | Rogue   |
+| Mike Doom | The Knight of Confidence          | Human | Fighter |

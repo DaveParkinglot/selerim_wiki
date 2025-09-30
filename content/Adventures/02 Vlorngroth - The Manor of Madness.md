@@ -1,23 +1,15 @@
 ---
-DM: Jordan
-Players:
-  - George
-  - Mike Doom
-  - Peter
-  - Ethan
-Platform: Roll20
-Sessions: 2
-Start Date: 2023-07-06
-End Date: 2023-07-12
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:02:07.002-04:00","published":"2025-09-29T09:02:07.002-04:00","cssclasses":"","DM":"Jordan","Players":["George","Mike Doom","Peter","Ethan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-07-06","End Date":"2023-07-12"}
 ---
+
 Handouts:
-[[Vlorngroth Setting Overview]]
-[[Inquisitor's Dossier]]
+[[Selerim Worldbuilding/Adventure Handouts/Vlorngroth Setting Overview]]
+[[Selerim Worldbuilding/Adventure Handouts/Inquisitor's Dossier]]
 
 ## Details
-- **DM**: `= this.DM`
-- **Platform:** `= this.Platform`
-- **Sessions:** `= this.Sessions`
+- **DM**: Jordan
+- **Platform:** Roll20
+- **Sessions:** 2
 
 ## Adventure Premise
 - You will play as a group of Inquisitor Initiates in the city of [[Vlorngroth]].
@@ -36,11 +28,11 @@ Handouts:
 ## Players & Characters
 | Player              | Character Name         | Race     | Class        |
 | ------------------- | ---------------------- | -------- | ------------ |
-| `= this.Players[0]` | Ashal Fractilian       | Kobold   | Warlock      |
-| `= this.Players[0]` | Feelay Minion          | Drow     | Rogue        |
-| `= this.Players[1]` | Sister Katharine Voidstone | Drow     | Cleric       |
-| `= this.Players[1]` | Ridley                 | Kobold   | Rogue        |
-| `= this.Players[2]` | Dyksin Poesie          | Duergar  | Barbarian    |
-| `= this.Players[2]` | Chamberlain Netherpot  | Duergar  | Fighter      |
-| `= this.Players[3]` | Nompman the Scarred    | Deep Gnome | Blood Hunter |
-| `= this.Players[3]` | Chaslee Golentrix      | Tiefling | Paladin      |
+| George | Ashal Fractilian       | Kobold   | Warlock      |
+| George | Feelay Minion          | Drow     | Rogue        |
+| Mike Doom | Sister Katharine Voidstone | Drow     | Cleric       |
+| Mike Doom | Ridley                 | Kobold   | Rogue        |
+| Peter | Dyksin Poesie          | Duergar  | Barbarian    |
+| Peter | Chamberlain Netherpot  | Duergar  | Fighter      |
+| Ethan | Nompman the Scarred    | Deep Gnome | Blood Hunter |
+| Ethan | Chaslee Golentrix      | Tiefling | Paladin      |
