@@ -1,0 +1,26 @@
+properties:
+  file.name:
+    displayName: Event
+  note.display-date:
+    displayName: Date
+  note.description:
+    displayName: Description
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("Selerim Timeline Events")
+    order:
+      - display-date
+      - file.name
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: display-date
+        direction: ASC
+      - property: description
+        direction: DESC
+    columnSize:
+      note.display-date: 354

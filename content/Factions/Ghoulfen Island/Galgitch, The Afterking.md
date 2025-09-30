@@ -1,0 +1,3 @@
+- Lawful neutral death knight ruler of [[Ghoulfen Island]], he rules from his necropolis in The Ghoulfen, the swampy northern area of the island
+- He was once an adventurer, and though his party succeeded in killing the lich that cursed the island now known as Ghoulfen, he perished in the fighting and became the first undead to rise on the island, but not the last…
+- Realizing his story was not over, he set about creating the island as it exists today
