@@ -1,32 +1,22 @@
 ---
-Age: "22"
-Ancestry: Human
-Gender: Male
-Location:
-  - "[[Selerim Wiki/Locations/The White Grove]]"
-Role:
-  - Student
-  - Morganth Cultist
-Affiliation:
-  - "[[Morganth's Legion of Doom]]"
-Appearances:
-  - "[[23 The White Grove- First Semester]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:04:24.622-04:00","published":"2025-09-24T08:04:24.622-04:00","cssclasses":"","Age":"22","Ancestry":"Human","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Morganth Cultist"],"Affiliation":["[[Jordan's Notes/One Shots/Morganth's LEGION OF DOOM]]"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
-![[temur_octagon.png|300]]
+
+![[z_assets/temur_octagon.png|300]]
 
 ### Overview
 - A pompous student who, as it turns out, was only infiltrating The White Grove to further the interests of [[Morganth's Legion of Doom]].
-- Temur was posing as a student at The White Grove, but he actually was only there to sabotage the school and steal information on [[Tzastis the Collector]] from the library.
+- Temur was posing as a student at The White Grove, but he actually was only there to sabotage the school and steal information on [[NPCs/Other/Tzastis the Collector]] from the library.
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: 22
+- **Ancestry**: Human
+- **Gender**: Male
+- **Location**: [[Locations/The White Grove\|The White Grove]]
+- **Role**: Student,Morganth Cultist
+- **Affiliation:** [[Jordan's Notes/One Shots/Morganth's LEGION OF DOOM\|Morganth's LEGION OF DOOM]]
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
 - **Voice**: Douchey aha

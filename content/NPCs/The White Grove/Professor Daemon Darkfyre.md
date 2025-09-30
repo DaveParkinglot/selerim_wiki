@@ -1,18 +1,9 @@
 ---
-Age: ??
-Ancestry: Human
-Gender: Male
-Location:
-  - "[[Selerim Wiki/Locations/The White Grove]]"
-Role:
-  - Professor of Infernal Magicks
-Affiliation:
-  - None
-Appearances:
-  - "[[23 The White Grove- First Semester]]"
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:04:24.604-04:00","published":"2025-09-24T08:04:24.604-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Professor of Infernal Magicks"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
-![[daemon_darkfyre.webp|300]]
+
+![[z_assets/daemon_darkfyre.webp|300]]
 
 ### Overview
 - The newest professor to be employed by The White Grove, a very peculiar hire. No one knows where Daemon hails from, but he is surprisingly adept at teaching infernal classes including Intro to Infernal and Intermediate Infernal.
@@ -20,13 +11,13 @@ Appearances:
 - Daemon insists that students call him Daemon, and not "Professor Darkfyre".
 
 ### Key Details
-- **Age**: `= this.Age`
-- **Ancestry**: `= this.Ancestry`
-- **Gender**: `= this.Gender`
-- **Location**: `= this.Location`
-- **Role**: `= this.Role`
-- **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Age**: ??
+- **Ancestry**: Human
+- **Gender**: Male
+- **Location**: [[Locations/The White Grove\|The White Grove]]
+- **Role**: Professor of Infernal Magicks
+- **Affiliation:** None
+- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
 
 ### Attributes
 - **Voice**: Bored, talks slow like everyone and everything is just insufferable

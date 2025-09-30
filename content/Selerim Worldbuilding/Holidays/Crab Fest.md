@@ -1,2 +1,2 @@
 - A festival celebrating the lowly, yet ever-versatile crab, held each year on the 10th of Frogus.
-- Usually the festival was held in an open air venue at the Cult of the Crab, but after the attack by [[Malmstein the Tangler]], the festival began introducing security measures.
+- Usually the festival was held in an open air venue at the Cult of the Crab, but after the attack by [[NPCs/Deceased/Malmstein the Tangler]], the festival began introducing security measures.
