@@ -1,11 +1,8 @@
 ---
-Type:
-Age (years):
-Population:
-Affiliation:
-Government:
+{"publish":true,"created":"2025-07-27T17:17:32.000-04:00","modified":"2025-09-24T08:23:32.542-04:00","published":"2025-09-24T08:23:32.542-04:00","cssclasses":"","Type":null,"Age (years)":null,"Population":null,"Affiliation":null,"Government":null}
 ---
-![[Location.webp|300]]
+
+![[Location.webp\|300]]
 
 ### Overview
 A short paragraph or bulleted list describing the location. Could include its purpose, notable features, and general atmosphere.

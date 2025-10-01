@@ -1,3 +1,3 @@
-> [!map|minZoom:0-maxZoom:1-defaultZoom: -5] Interactive Map
-> ![[z_assets/selerim_map.png|1200]]
+> [!map|minZoom:-2-maxZoom:2-zoomStep:0.5] Interactive Map
+> ![[z_assets/selerim_map.png]]
 > 
