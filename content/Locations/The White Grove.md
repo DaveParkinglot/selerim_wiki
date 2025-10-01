@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"The White Grove","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-10-01T10:49:54.068-04:00","published":"2025-10-01T10:49:54.068-04:00","cssclasses":"","Type":["Magical Academy"],"Age (years)":180,"Population":600,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"N/A","marker":{"mapName":"InteractiveMap","x":340,"y":275,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"The White Grove","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-10-01T13:00:51.825-04:00","published":"2025-10-01T13:00:51.825-04:00","cssclasses":"","Type":["Magical Academy"],"Age (years)":180,"Population":600,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"N/A","marker":{"mapName":"InteractiveMap","x":340,"y":275,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ---
 ![[z_assets/the_white_grove.png|600]]
 
 ### Overview
-- The White Grove is perhaps the only reputable magic school in the world, located at a confluence of ley lines on a peninsula above the former holdings of the Corrodreth.
+- The White Grove is perhaps the only reputable magic school in the world, located at a confluence of ley lines on a peninsula above the former holdings of [[Locations/Corrodreth]].
 - The school's campus is encircled by four great trees, which are said to represent the four fundamental pillars of magic—arcane, divine, primal, and infernal. 
 - Though the college pre-dates Tiialia, most of Tiialia's artillery mages, who famously laid waste to Corrodreth, were students of The White Grove.
 - The Primal Tree has been withered since its magic was channeled to stave off an invasion from Corrodreth, during the Serpent Wars.
