@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Crabbley","created":"2025-09-17T12:39:25.000-04:00","modified":"2025-09-30T11:10:32.272-04:00","published":"2025-09-30T11:10:32.272-04:00","cssclasses":"","Type":["Town"],"Age (years)":25,"Population":800,"Affiliation":["None"],"Government":"[[The Crabbley Council]]","marker":{"mapName":"Interactive Map","x":1495,"y":600,"icon":"farm","colour":"green"}}
+{"publish":true,"title":"Crabbley","created":"2025-09-17T12:39:25.000-04:00","modified":"2025-10-01T10:46:58.830-04:00","published":"2025-10-01T10:46:58.830-04:00","cssclasses":"","Type":["Town"],"Age (years)":25,"Population":800,"Affiliation":["None"],"Government":"[[The Crabbley Council]]","marker":{"mapName":"InteractiveMap","x":1485,"y":530,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/crabbley.png|300]]   ![[z_assets/crabbley_topdown.png|450]]

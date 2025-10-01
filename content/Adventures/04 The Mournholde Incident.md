@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:04:43.259-04:00","published":"2025-09-29T09:04:43.259-04:00","cssclasses":"","DM":"Mike Doom","Players":["Ethan","Logan","Jordan","Peter","Jimmy"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-09-19"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-01T11:21:59.378-04:00","published":"2025-10-01T11:21:59.378-04:00","cssclasses":"","DM":"Mike Doom","Players":["Ethan","Logan","Jordan","Peter","Jimmy"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-09-19"}
 ---
 
 ## Details

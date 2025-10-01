@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-24T08:16:34.000-04:00","modified":"2025-09-24T08:27:30.933-04:00","published":"2025-09-24T08:27:30.933-04:00","cssclasses":"","Type":["Town"],"Age (years)":120,"Population":3200,"Affiliation":["None"],"Government":["The Oaken Conclave","The Wise Wizards"]}
+{"publish":true,"title":"Mitlin","created":"2025-09-24T08:16:34.000-04:00","modified":"2025-10-01T10:47:01.337-04:00","published":"2025-10-01T10:47:01.337-04:00","cssclasses":"","Type":["Town"],"Age (years)":120,"Population":3200,"Affiliation":["None"],"Government":["The Oaken Conclave","The Wise Wizards"],"marker":{"mapName":"InteractiveMap","x":1645,"y":515,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/mitlin.png|500]]

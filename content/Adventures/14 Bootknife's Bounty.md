@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:24:17.850-04:00","published":"2025-09-29T09:24:17.850-04:00","cssclasses":"","DM":"Jordan","Players":["Brian","Mike Doom","Ethan","David"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-30"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-01T11:21:59.386-04:00","published":"2025-10-01T11:21:59.386-04:00","cssclasses":"","DM":"Jordan","Players":["Brian","Mike Doom","Ethan","David"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-30"}
 ---
 
 ## Details

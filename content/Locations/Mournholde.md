@@ -1,4 +1,38 @@
-- The city of the dead, located on [[Locations/Ghoulfen Island]]
-- Bastion for those who prefer to live in death than to face the afterlife
-- Many make the pilgrimage themselves, and those less fortunate may win their passage via the [[Factions/Ghoulfen Island/The Necronaut of Mournholde]]
-- Legends say that the nearby river may be a phantom tributary of the River Styx that flows through the Nine Hells
+---
+{"publish":true,"title":"Mournholde","created":"2023-09-20T14:56:26.000-04:00","modified":"2025-10-01T11:22:09.956-04:00","published":"2025-10-01T11:22:09.956-04:00","cssclasses":"","Type":["City of the Dead","Free City"],"Age (years)":130,"Population":7000,"Affiliation":["None"],"Government":["[[Galgitch, The Afterking]]","Mayor Gerard Duck"],"marker":{"mapName":"InteractiveMap","x":920,"y":515,"icon":"mdi:map-marker-outline","colour":"green"}}
+---
+
+![[z_assets/welcome_to_mournholde.png|500]]
+
+### Overview
+- Mournholde, the City of the Dead, has become a bastion for those who would prefer to live in death than to face the uncertainties of the afterlife.
+	- It is not uncommon for an elderly or sick person to attempt the journey to Mournholde, before their time is up.
+	- For those who cannot afford to journey to the city, [[Factions/Ghoulfen Island/The Necronaut of Mournholde]] lottery system takes 50 willing souls to Mournholde to become undead eternals.
+- The city was founded by the adventurer [[Factions/Ghoulfen Island/Galgitch, The Afterking]], who is now known as "The Afterking". Mournholde was built atop the ruined necropolis of a lich he and his adventuring party vanquished.
+- Nothing that dies on Ghoulfen Island stays dead. Some say attribute this to the nearby Ghoulfen River being a phantom tributary of the River Styx.
+
+### Key Details
+- **Type**: City of the Dead,Free City
+- **Age:** 130
+- **Population**: 7000
+- **Affiliation**: None
+- **Government:** [[Factions/Ghoulfen Island/Galgitch, The Afterking\|Galgitch, The Afterking]],Mayor Gerard Duck
+
+### Attributes
+- **Appearance**: Dark, gloomy, gothic
+- **Economy/Resources**: 
+	- Immortality via Undeath
+- **Dangers/Secrets**: 
+	- Paladins and clerics who cannot leave it alone
+- **Points of Interest**:
+	- The (now underground) necropolis of the dead lich
+
+### Hooks
+- Adventure seed 1
+- Adventure seed 2
+- Adventure seed 3
+
+### Connections
+| Location | Relationship |
+| -------- | ------------ |
+|          |              |

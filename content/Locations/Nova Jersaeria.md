@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-18T08:29:38.000-04:00","modified":"2025-09-24T08:41:02.879-04:00","published":"2025-09-24T08:41:02.879-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":"250","Population":95000,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"[[Antonino Esposito|King Antonino Esposito I]]"}
+{"publish":true,"title":"Nova Jersaeria","created":"2025-09-18T08:29:38.000-04:00","modified":"2025-10-01T10:48:56.505-04:00","published":"2025-10-01T10:48:56.505-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":250,"Population":95000,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"[[Antonino Esposito|King Antonino Esposito I]]","marker":{"mapName":"InteractiveMap","x":1095,"y":100,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/nova_jersaeria.png|800]]
