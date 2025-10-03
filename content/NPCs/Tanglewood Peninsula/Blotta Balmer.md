@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-17T12:52:46.613-04:00","published":"2025-09-17T12:52:46.613-04:00","cssclasses":"","Age":"22","Ancestry":"Orc","Gender":"Female","Location":["[[Crabbley]]"],"Role":["Barbarian Adventurer"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:39:37.917-04:00","published":"2025-10-03T09:39:37.917-04:00","cssclasses":"","Age":"22","Ancestry":"Orc","Gender":"Female","Location":["[[Crabbley]]"],"Role":["Barbarian Adventurer"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -19,9 +19,11 @@
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
-- **Voice**: 
-- **Traits**: Aggressive to enemies, kindly to her close friends. I watch over my friends as if they were a litter of newborn pups.
-- **Ideals:** Change. Life is like the seasons, in constant change, and we must change with it. (Chaotic)
+- **Voice**: Gruff, vaguely feminine
+- **Traits**: 
+	- Aggressive to enemies, kindly to her close friends. I watch over my friends as if they were a litter of newborn pups.
+	- Ideal: Change. Life is like the seasons, in constant change, and we must change with it. (Chaotic)
+- **Goals:** Become a powerful warrior, make her party members proud
 - **Appearance**: Tall orc woman with blue tribal tattoos on her face
 
 ### Relationships

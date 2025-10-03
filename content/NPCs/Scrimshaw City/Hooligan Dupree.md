@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-09-29T09:38:57.713-04:00","published":"2025-09-29T09:38:57.713-04:00","cssclasses":"","Age":"32","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Failed Adventurer","Bartender","Aspiring Salt Spitter"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[08 Arby's Sauce|08 Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:48:01.774-04:00","published":"2025-10-03T09:48:01.774-04:00","cssclasses":"","Age":"32","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Failed Adventurer","Bartender","Aspiring Salt Spitter"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[08 Arby's Sauce|08 Arby's Sauce]]"]}
 ---
 
 
@@ -23,7 +23,7 @@
 ### Attributes
 - **Voice**: Dopey stoned guy (Shaggy?)
 - **Traits**: He's not good at stuff and he's very gullible... but he loves hanging out
-- **Ideals:** Hanging out is the best
+- **Goals:** Hanging out is the best
 - **Appearance**: Red haired satyr
 
 ### Relationships

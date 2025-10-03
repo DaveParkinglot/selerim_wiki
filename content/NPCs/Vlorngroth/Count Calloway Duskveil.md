@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-17T12:03:07.000-04:00","modified":"2025-09-17T12:46:28.956-04:00","published":"2025-09-17T12:46:28.956-04:00","cssclasses":"","Age":"163","Ancestry":["Drow","Vampire"],"Gender":"Male","Location":["Vlorngroth"],"Role":["Former Inquisitor"],"Affiliation":["None"],"Appearances":["[[19 Vlorngroth - 2 Manor 2 Madness]]"]}
+{"publish":true,"created":"2025-09-17T12:03:07.000-04:00","modified":"2025-10-03T10:15:31.330-04:00","published":"2025-10-03T10:15:31.330-04:00","cssclasses":"","Age":"163","Ancestry":["Drow","Vampire"],"Gender":"Male","Location":["[[Vlorngroth]]"],"Role":["Former Inquisitor"],"Affiliation":["None"],"Appearances":["[[19 Vlorngroth - 2 Manor 2 Madness]]"]}
 ---
 
 ![[z_assets/calloway_duskveil.png|300]]
@@ -8,26 +8,30 @@
 - His nickname was once The Midnight Marquis, from his time in the Inquisitors
 - His family once owned Duskveil Asylum (aka The Manor of Madness) before it was given over to the cause of the Vlorn Dynasty
 - While he is friends with powerful folk, he himself is not nearly as ambitious, preferring to keep to himself
-- He is old friends with [[High Lord Jorad Kranicz]], and he may have secretly turned him into a vampire so that the High Lord can continue to rule beyond the natural life of a drow…
-- He is a relative of the former Inquisitor turned bounty hunter [[NPCs/Vlorngroth/Carbuckle Duskshot]], who dropped the Veil in favor of the Shot. He is probably his uncle because I think that is very cool
+- He is old friends with [[High Lord Jorad Kranicz]], current leader of the Vlorn Dynasty
+- He is the uncle of the former Inquisitor turned bounty hunter [[NPCs/Vlorngroth/Carbuckle Duskshot]], who dropped the Veil in favor of the Shot
 
 ### Key Details
 - **Age**: 163
 - **Ancestry**: Drow,Vampire
 - **Gender**: Male
-- **Location**: Vlorngroth
+- **Location**: [[Locations/Vlorngroth\|Vlorngroth]]
 - **Role**: Former Inquisitor
 - **Affiliation:** None
+- **Appearances:** [[Adventures/19 Vlorngroth - 2 Manor 2 Madness\|19 Vlorngroth - 2 Manor 2 Madness]]
 
 ### Attributes
 - **Voice**: Southern gentleman
-- **Traits**: Ruthless to underlings, exceedingly respectful to those he considers his peers
-- **Ideals:** Might makes right
+- **Traits**: 
+	- Ruthless to underlings, exceedingly respectful to those he considers his peers
+	- Might makes right
+- **Goals:** Retake his ancestral manse so he can be indulgent there
 - **Appearance**: Tall handsome drow gentleman, wears a long brim hat at nearly all times
 
 ### Relationships
 
-| Name                   | Relationship |
-| ---------------------- | ------------ |
-| [[NPCs/Vlorngroth/Carbuckle Duskshot]] | Nephew       |
+| Name                   | Relationship        |
+| ---------------------- | ------------------- |
+| [[NPCs/Vlorngroth/Carbuckle Duskshot]] | Nephew              |
+| [[NPCs/Vlorngroth/Morbus]]             | Most Loyal Familiar |
 

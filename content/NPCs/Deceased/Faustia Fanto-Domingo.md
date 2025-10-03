@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-09-18T08:29:44.625-04:00","published":"2025-09-18T08:29:44.625-04:00","cssclasses":"","Age":"46","Ancestry":["Human"],"Gender":"Female","Location":["Nova Jersaeria"],"Role":["Court Witch"],"Affiliation":["[[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Fanto-Domingo Family]]","[[The Landucci Family]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:53:16.900-04:00","published":"2025-10-03T09:53:16.900-04:00","cssclasses":"","Age":"46","Ancestry":["Human"],"Gender":"Female","Location":["Nova Jersaeria"],"Role":["Court Witch"],"Affiliation":["[[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Fanto-Domingo Family]]","[[The Landucci Family]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -23,7 +23,7 @@
 ### Attributes
 - **Voice**: Witchy
 - **Traits**: Mean
-- **Ideals:** Gain power and influence in Tiialia
+- **Goals:** Gain power and influence in Tiialia
 - **Appearance**: Black haired with a resting bitch face
 
 ### Relationships

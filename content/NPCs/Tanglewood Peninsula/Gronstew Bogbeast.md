@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-17T12:53:26.774-04:00","published":"2025-09-17T12:53:26.774-04:00","cssclasses":"","Age":"31","Ancestry":"Half-Orc","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Barbarian"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:42:52.619-04:00","published":"2025-10-03T09:42:52.619-04:00","cssclasses":"","Age":"31","Ancestry":"Half-Orc","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Barbarian"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -20,8 +20,10 @@
 
 ### Attributes
 - **Voice**: Gruff and aggressive
-- **Traits**: Despises weakness
-- **Ideals:** Nature. The natural world is more important than all the constructs of civilization. (Neutral)
+- **Traits**: 
+	- Despises weakness
+	- Ideals: Nature. The natural world is more important than all the constructs of civilization. (Neutral)
+- **Goals:** Protect the town of Crabbley, gain renown as an adventuring party
 - **Appearance**: Gray skinned half-orc
 
 ### Relationships

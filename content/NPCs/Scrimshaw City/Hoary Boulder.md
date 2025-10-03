@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-09-29T09:38:57.698-04:00","published":"2025-09-29T09:38:57.698-04:00","cssclasses":"","Age":"35","Ancestry":["Human"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Chief Accountant, Bracketologist"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]","[[08 Arby's Sauce|08 Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:47:56.012-04:00","published":"2025-10-03T09:47:56.012-04:00","cssclasses":"","Age":"35","Ancestry":["Human"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Chief Accountant, Bracketologist"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]","[[08 Arby's Sauce|08 Arby's Sauce]]"]}
 ---
 
 
@@ -28,7 +28,7 @@
 ### Attributes
 - **Voice**: Sounds like a sad lackey "aw gee boss"
 - **Traits**: Loves sports and running the numbers
-- **Ideals:** He wants to work at Tavernstool some day
+- **Goals:** He wants to work at Tavernstool some day
 - **Appearance**: Balding, short, and somewhat ugly. Wears an eye patch well.
 
 ### Relationships

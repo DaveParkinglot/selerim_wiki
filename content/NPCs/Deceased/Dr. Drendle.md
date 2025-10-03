@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:03:37.396-04:00","published":"2025-08-14T15:03:37.396-04:00","cssclasses":"","Age":"52","Ancestry":["Undead Human"],"Gender":"Male","Location":["Dead"],"Role":["Necro-Alchemist","Plaguemancer"],"Affiliation":["[[NPCs/Deceased/Master Effree Jypstein]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:53:26.484-04:00","published":"2025-10-03T09:53:26.484-04:00","cssclasses":"","Age":"52","Ancestry":["Undead Human"],"Gender":"Male","Location":["Dead"],"Role":["Necro-Alchemist","Plaguemancer"],"Affiliation":["[[NPCs/Deceased/Master Effree Jypstein]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 ![[z_assets/dr_drendle.png|300]]
@@ -21,7 +21,7 @@
 ### Attributes
 - **Voice**: Sharp and sinister
 - **Traits**: Undying (literally) loyalty
-- **Ideals:** Bring the gift of undeath to all the peoples of Selerim
+- **Goals:** Bring the gift of undeath to all the peoples of Selerim
 - **Appearance**: Black/green plague doctor outfit
 
 ### Relationships

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:45:32.181-04:00","published":"2025-09-17T12:45:32.181-04:00","cssclasses":"","Age":"43","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["King of Tiialia","Former Spymaster"],"Affiliation":["[[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]","[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:16:05.175-04:00","published":"2025-10-03T10:16:05.175-04:00","cssclasses":"","Age":"43","Ancestry":"Human","Gender":"Male","Location":["[[Nova Jersaeria]]"],"Role":["King of Tiialia","Former Spymaster"],"Affiliation":["[[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]","[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -22,7 +22,7 @@
 - **Age**: 43
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: Nova Jersaeria
+- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: King of Tiialia,Former Spymaster
 - **Affiliation:** [[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family\|The Esposito Family]],[[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
@@ -30,7 +30,7 @@
 ### Attributes
 - **Voice**: Slightly deeper, normal
 - **Traits**: Help my friends and they'll help me
-- **Ideals:** Destroy those who have wronged my family
+- **Goals:** Destroy those who have wronged my family. Be a good king
 - **Appearance**: Wears simple clothes
 
 ### Relationships

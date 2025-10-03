@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-12T09:01:12.000-04:00","modified":"2025-10-01T11:25:01.772-04:00","published":"2025-10-01T11:25:01.772-04:00","cssclasses":"","Age":"26","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["Carceri, The Prison Plane"],"Role":["Betrayer"],"Affiliation":["None"],"Appearances":["[[01 Dunland's Raiders]]","[[00 -The High Rollers Campaign-]]","[[24 The Hellnight Soirée]]"]}
+{"publish":true,"created":"2025-08-12T09:01:12.000-04:00","modified":"2025-10-03T09:50:10.739-04:00","published":"2025-10-03T09:50:10.739-04:00","cssclasses":"","Age":"26","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["Carceri, The Prison Plane"],"Role":["Betrayer"],"Affiliation":["None"],"Appearances":["[[01 Dunland's Raiders]]","[[00 -The High Rollers Campaign-]]","[[24 The Hellnight Soirée]]"]}
 ---
 
 
@@ -22,7 +22,7 @@
 ### Attributes
 - **Voice**: Nasally, with an edge
 - **Traits**: Chauncy has betrayed more friends than he's ever had in the name of making a name for himself.
-- **Ideals:** Return to Selerim and avenge his own death by any means
+- **Goals:** Return to the material plane of Selerim and avenge his own death by any means
 - **Appearance**: Blonde hair, red eyes, black armor
 
 ### Relationships

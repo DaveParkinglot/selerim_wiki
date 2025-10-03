@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The White Grove","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-10-01T13:00:51.825-04:00","published":"2025-10-01T13:00:51.825-04:00","cssclasses":"","Type":["Magical Academy"],"Age (years)":180,"Population":600,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"N/A","marker":{"mapName":"InteractiveMap","x":340,"y":275,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"The White Grove","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-10-03T10:12:30.593-04:00","published":"2025-10-03T10:12:30.593-04:00","cssclasses":"","Type":["Magical Academy"],"Age (years)":180,"Population":600,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"N/A","Appearances":["[[23 The White Grove- First Semester]]","[[25 The White Grove - Summer Vacation]]"],"marker":{"mapName":"InteractiveMap","x":340,"y":275,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ---
@@ -22,6 +22,7 @@
 - **Population**: 600
 - **Affiliation**: [[The Kingdom of Tiialia\|The Kingdom of Tiialia]]
 - **Government:** N/A
+- **Appearances:**  [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]],[[Adventures/25 The White Grove - Summer Vacation\|25 The White Grove - Summer Vacation]]
 
 ### Attributes
 - **Appearance**:

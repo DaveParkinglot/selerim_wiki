@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:09:21.182-04:00","published":"2025-08-14T15:09:21.182-04:00","cssclasses":"","Age":"??","Ancestry":"Fey Dragon","Gender":"Male","Location":["Varies"],"Role":["Fey Messenger"],"Affiliation":["The Summer Court"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:51:39.737-04:00","published":"2025-10-03T09:51:39.737-04:00","cssclasses":"","Age":"??","Ancestry":"Fey Dragon","Gender":"Male","Location":["Varies"],"Role":["Fey Messenger"],"Affiliation":["The Summer Court"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -26,7 +26,7 @@ Provided a boon to [[Player Characters/The High Rollers/The High Rollers]] befor
 ### Attributes
 - **Voice**: Mystical but high pitched
 - **Traits**: 
-- **Ideals:** 
+- **Goals:** 
 - **Appearance**: 
 
 ### Relationships

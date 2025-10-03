@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:53:45.632-04:00","published":"2025-09-17T12:53:45.632-04:00","cssclasses":"","Age":"19","Ancestry":"Goblin","Gender":"Female","Location":["[[Locations/Crabbley]]"],"Role":["Intern","Staffer","Aspiring Politician"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T09:45:07.085-04:00","published":"2025-10-03T09:45:07.085-04:00","cssclasses":"","Age":"19","Ancestry":"Goblin","Gender":"Female","Location":["[[Locations/Crabbley]]"],"Role":["Intern","Staffer","Aspiring Politician"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -22,7 +22,7 @@
 ### Attributes
 - **Voice**: High pitched and girlish
 - **Traits**: Eager and naive
-- **Ideals:** If I work hard enough, I will become a great politician
+- **Goals:** If I work hard enough, I will become a great politician
 - **Appearance**: Short goblin girl with black hair and spectacles
 
 ### Relationships

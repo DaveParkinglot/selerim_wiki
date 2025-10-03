@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:44:56.994-04:00","published":"2025-08-14T15:44:56.994-04:00","cssclasses":"","Age":"52","Ancestry":["Half-Orc"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]","Varies"],"Role":["Pawn Shop Owner"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:45:59.774-04:00","published":"2025-10-03T09:45:59.774-04:00","cssclasses":"","Age":"52","Ancestry":["Half-Orc"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]","Varies"],"Role":["Pawn Shop Owner"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -24,8 +24,8 @@
 ### Attributes
 - **Voice**: Gruff like Rick Harrison
 - **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Goals:** 
+- **Appearance**: 
 
 ### Relationships
 

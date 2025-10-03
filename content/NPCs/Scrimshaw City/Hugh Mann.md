@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:55:53.061-04:00","published":"2025-08-14T15:55:53.061-04:00","cssclasses":"","Age":"326","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["El Presidente","Former Adventurer"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]","Tavernstool"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:48:41.122-04:00","published":"2025-10-03T09:48:41.122-04:00","cssclasses":"","Age":"326","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["El Presidente","Former Adventurer"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]","Tavernstool"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 
@@ -23,8 +23,11 @@
 
 ### Attributes
 - **Voice**: Flat, official, corporate... almost bored at times
-- **Traits**: Uses flattery and can be highly manipulative
-- **Ideals:** Vengeance upon those who have wronged me. Friendship lasts forever.
+- **Traits**: Uses flattery and can be highly manipulative. Friendship lasts forever
+- **Goals:** 
+	- Vengeance upon those who have wronged me
+	- Keep the Abyssal Rift closed
+	- Rule in Scrimshaw without drawing the attention of other fiends
 - **Appearance**: Often appears as human
 
 ### Relationships

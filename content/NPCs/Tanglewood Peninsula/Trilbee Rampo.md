@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-15T10:14:50.333-04:00","published":"2025-09-15T10:14:50.333-04:00","cssclasses":"","Age":"58","Ancestry":"Half-Elf","Gender":"Male","Location":["Oasis"],"Role":["Wagon Dealer, Maniacal Businessman"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T09:45:30.985-04:00","published":"2025-10-03T09:45:30.985-04:00","cssclasses":"","Age":"58","Ancestry":"Half-Elf","Gender":"Male","Location":["Oasis"],"Role":["Wagon Dealer, Maniacal Businessman"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -22,8 +22,8 @@
 
 ### Attributes
 - **Voice**: Pompous businessman voice
-- **Traits**: Too ambitious and conniving for his own good
-- **Ideals:** Greed is great if it gets you places
+- **Traits**: Too ambitious and conniving for his own good. Greed is great if it gets you places
+- **Goals:** Riches and wealth
 - **Appearance**: Wears the finest clothes his money can buy
 
 ### Relationships

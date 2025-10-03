@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-09-05T08:49:25.705-04:00","published":"2025-09-05T08:49:25.705-04:00","cssclasses":"","Age":"48","Ancestry":["Half-Elf"],"Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Eco-Terrorist, Druid"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:52:48.926-04:00","published":"2025-10-03T09:52:48.926-04:00","cssclasses":"","Age":"48","Ancestry":["Half-Elf"],"Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Eco-Terrorist, Druid"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -22,7 +22,7 @@
 ### Attributes
 - **Voice**: Deep harsh and angry
 - **Traits**: Angry at civilization
-- **Ideals:** Unabomber lite
+- **Goals:** Unabomber lite. Rid the wilds of the scourge called "civilization"
 - **Appearance**: Tall guy with tribal vestments
 
 ### Relationships

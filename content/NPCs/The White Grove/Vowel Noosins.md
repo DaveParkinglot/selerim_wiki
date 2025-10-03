@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:04:24.627-04:00","published":"2025-09-24T08:04:24.627-04:00","cssclasses":"","Age":"14","Ancestry":"Human","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:17:46.034-04:00","published":"2025-10-03T10:17:46.034-04:00","cssclasses":"","Age":"14","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -21,8 +21,8 @@
 ### Attributes
 - **Voice**: Mute
 - **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Goals:** Graduate, maybe learn to not be selectively mute some day
+- **Appearance**: 
 
 ### Relationships
 

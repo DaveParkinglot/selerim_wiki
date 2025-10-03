@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:53:43.537-04:00","published":"2025-09-17T12:53:43.537-04:00","cssclasses":"","Age":"49","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Thief","Spymaster"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T09:44:56.635-04:00","published":"2025-10-03T09:44:56.635-04:00","cssclasses":"","Age":"49","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Thief","Spymaster"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -21,7 +21,7 @@
 ### Attributes
 - **Voice**: 
 - **Traits**: I never stop smiling. Nothing rattles me; I have a lie for every occasion. Few people know the real me.
-- **Ideals:** Heaps of coins in a secure vault is all I dream of. I intend to become the leader of the network of smugglers that I belong to.
+- **Goals:** Heaps of coins in a secure vault is all I dream of. I intend to become the leader of the network of smugglers that I belong to.
 - **Appearance**: 
 
 ### Relationships

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-09-29T09:38:57.682-04:00","published":"2025-09-29T09:38:57.682-04:00","cssclasses":"","Age":"48","Ancestry":["Bugbear"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bouncer, Former Monster Wrangler"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[08 Arby's Sauce|08 Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:45:53.900-04:00","published":"2025-10-03T09:45:53.900-04:00","cssclasses":"","Age":"48","Ancestry":["Bugbear"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bouncer, Former Monster Wrangler"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[08 Arby's Sauce|08 Arby's Sauce]]"]}
 ---
 
 
@@ -22,8 +22,8 @@
 ### Attributes
 - **Voice**: Deep, kind of stupid sounding
 - **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Goals:** 
+- **Appearance**: 
 
 ### Relationships
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:06:13.415-04:00","published":"2025-08-14T15:06:13.415-04:00","cssclasses":"","Age":"??","Ancestry":"Archfey","Gender":"Varies","Location":["The Fathomless Vault"],"Role":["Archfey","Collector of Relevant Mortals"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:52:15.333-04:00","published":"2025-10-03T09:52:15.333-04:00","cssclasses":"","Age":"??","Ancestry":"Archfey","Gender":"Varies","Location":["The Fathomless Vault"],"Role":["Archfey","Collector of Relevant Mortals"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 ![[z_assets/tzastis.png|300]]
@@ -22,8 +22,10 @@
 
 ### Attributes
 - **Voice**: Effeminate
-- **Traits**: 
-- **Ideals:** 
+- **Traits**: Inscrutable archfey
+- **Goals:** 
+	- Fill out the Fathomless Vault with notable mortals as trophies
+	- Entertain other powerful guests
 - **Appearance**: 
 
 ### Relationships

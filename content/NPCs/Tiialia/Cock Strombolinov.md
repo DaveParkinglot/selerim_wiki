@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:40:41.476-04:00","published":"2025-09-24T08:40:41.476-04:00","cssclasses":"","Age":"24","Ancestry":["Yuan-ti"],"Gender":"Male","Location":["Nova Jersaeria Sewers"],"Role":["Bodyguard"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:16:37.630-04:00","published":"2025-10-03T10:16:37.630-04:00","cssclasses":"","Age":"24","Ancestry":["Yuan-ti"],"Gender":"Male","Location":["[[Nova Jersaeria]]","Sewers"],"Role":["Bodyguard"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -13,7 +13,7 @@
 - **Age**: 24
 - **Ancestry**: Yuan-ti
 - **Gender**: Male
-- **Location**: Nova Jersaeria Sewers
+- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]],Sewers
 - **Role**: Bodyguard
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
@@ -21,7 +21,7 @@
 ### Attributes
 - **Voice**: Terse and vaguely eastern European
 - **Traits**: Loves to get a good pump
-- **Ideals:** Become large and protect Riggle to make money and leave the sewer
+- **Goals:** Become large AF and protect Riggle to make money and leave the sewer
 - **Appearance**: 7 foot snake man with snakes for arms
 
 ### Relationships

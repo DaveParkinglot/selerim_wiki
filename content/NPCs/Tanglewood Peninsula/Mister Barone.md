@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:53:36.325-04:00","published":"2025-09-17T12:53:36.325-04:00","cssclasses":"","Age":"33","Ancestry":"Hobgoblin","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Bouncer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T09:44:28.680-04:00","published":"2025-10-03T09:44:28.680-04:00","cssclasses":"","Age":"33","Ancestry":"Hobgoblin","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Bouncer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -21,7 +21,7 @@
 ### Attributes
 - **Voice**: Stupid
 - **Traits**: 
-- **Ideals:** 
+- **Goals:** 
 - **Appearance**: 
 
 ### Relationships

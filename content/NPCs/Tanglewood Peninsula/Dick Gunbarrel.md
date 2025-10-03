@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-10T09:03:07.924-04:00","published":"2025-09-10T09:03:07.924-04:00","cssclasses":"","Age":"34","Ancestry":"Half-Giant","Gender":"Male","Location":["Crillville"],"Role":["Paladin, Commander of the CDF"],"Affiliation":["Crillville Defense Force (CDF)"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[10 The Lost Archives of Wigglestaff]]","[[12 The Rentpire Strikes Back]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:41:57.845-04:00","published":"2025-10-03T09:41:57.845-04:00","cssclasses":"","Age":"34","Ancestry":"Half-Giant","Gender":"Male","Location":["Crillville"],"Role":["Paladin, Commander of the CDF"],"Affiliation":["Crillville Defense Force (CDF)"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[10 The Lost Archives of Wigglestaff]]","[[12 The Rentpire Strikes Back]]"]}
 ---
 
 
@@ -21,7 +21,7 @@
 ### Attributes
 - **Voice**: Gruff like Richard Tricky Dick Nixon
 - **Traits**: Aggressive
-- **Ideals:** Keep his town free of outsiders and potential threats
+- **Goals:** Keep his town free of outsiders and potential threats
 - **Appearance**: Very muscular 7 foot tall half-giant wielding a greatsword and plate armor
 
 ### Relationships

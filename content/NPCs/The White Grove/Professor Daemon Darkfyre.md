@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:04:24.604-04:00","published":"2025-09-24T08:04:24.604-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Professor of Infernal Magicks"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:17:56.954-04:00","published":"2025-10-03T10:17:56.954-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Professor of Infernal Magicks"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -22,8 +22,8 @@
 ### Attributes
 - **Voice**: Bored, talks slow like everyone and everything is just insufferable
 - **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Goals:** 
+- **Appearance**: 
 
 ### Relationships
 

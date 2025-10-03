@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:53:49.552-04:00","published":"2025-09-17T12:53:49.552-04:00","cssclasses":"","Age":"16","Ancestry":"Goblin","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Rogue"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T09:45:36.852-04:00","published":"2025-10-03T09:45:36.852-04:00","cssclasses":"","Age":"16","Ancestry":"Goblin","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Rogue"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -20,7 +20,7 @@
 ### Attributes
 - **Voice**: High pitched New York gangster
 - **Traits**: I hide scraps of food and trinkets away in my pockets.
-- **Ideals:** That jewelry would look better in my pocket.
+- **Goals:** That jewelry would look better in my pocket.
 - **Appearance**: Small ugly goblin boy
 
 ### Relationships

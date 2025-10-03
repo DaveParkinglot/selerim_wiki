@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-29T09:38:30.320-04:00","published":"2025-09-29T09:38:30.320-04:00","cssclasses":"","Age":"22","Ancestry":"Kobold","Gender":"Male","Location":["[[Locations/Crabbley]]","The Cronium Caves"],"Role":["Master Inventor"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[05 The Hunt for Pill'Grim]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:42:19.610-04:00","published":"2025-10-03T09:42:19.610-04:00","cssclasses":"","Age":"22","Ancestry":"Kobold","Gender":"Male","Location":["[[Locations/Crabbley]]","The Cronium Caves"],"Role":["Master Inventor"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[05 The Hunt for Pill'Grim]]"]}
 ---
 
 
@@ -23,7 +23,7 @@
 ### Attributes
 - **Voice**: Logical, somewhat uncertain... stutters
 - **Traits**: Meek, but intelligent
-- **Ideals:** Invention as a creative outlet
+- **Goals:** Invent great, bold, and creative things
 - **Appearance**: Gray kobold
 
 ### Relationships

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Mournholde","created":"2023-09-20T14:56:26.000-04:00","modified":"2025-10-01T11:23:14.667-04:00","published":"2025-10-01T11:23:14.667-04:00","cssclasses":"","Type":["City of the Dead","Free City"],"Age (years)":130,"Population":7000,"Affiliation":["None"],"Government":["[[Galgitch, The Afterking]]","Mayor Gerard Duck"],"marker":{"mapName":"InteractiveMap","x":920,"y":515,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"Mournholde","created":"2023-09-20T14:56:26.000-04:00","modified":"2025-10-03T10:14:55.715-04:00","published":"2025-10-03T10:14:55.715-04:00","cssclasses":"","Type":["City of the Dead","Free City"],"Age (years)":130,"Population":7000,"Affiliation":["None"],"Government":["[[Galgitch, The Afterking]]","Mayor Gerard Duck"],"Appearances":["[[04 The Mournholde Incident]]"],"marker":{"mapName":"InteractiveMap","x":920,"y":515,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/welcome_to_mournholde.png|500]]
@@ -17,6 +17,7 @@
 - **Population**: 7000
 - **Affiliation**: None
 - **Government:** [[Factions/Ghoulfen Island/Galgitch, The Afterking\|Galgitch, The Afterking]],Mayor Gerard Duck
+- **Appearances:**  [[Adventures/04 The Mournholde Incident\|04 The Mournholde Incident]]
 
 ### Attributes
 - **Appearance**: Dark, gloomy, gothic

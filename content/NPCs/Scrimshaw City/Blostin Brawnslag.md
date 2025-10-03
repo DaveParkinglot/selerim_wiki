@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-09-18T08:29:44.660-04:00","published":"2025-09-18T08:29:44.660-04:00","cssclasses":"","Age":"78","Ancestry":["Dwarf"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]","Varies"],"Role":["Bard, Bandmember (Drummer)"],"Affiliation":["Crag Delta"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:46:34.544-04:00","published":"2025-10-03T09:46:34.544-04:00","cssclasses":"","Age":"78","Ancestry":["Dwarf"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]","Varies"],"Role":["Bard, Bandmember (Drummer)"],"Affiliation":["Crag Delta"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 
@@ -23,7 +23,7 @@
 ### Attributes
 - **Voice**: 
 - **Traits**: 
-- **Ideals:** 
+- **Goals:** 
 - **Appearance**: 
 
 ### Relationships

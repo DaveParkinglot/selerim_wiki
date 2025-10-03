@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:33:29.000-04:00","modified":"2025-07-25T09:07:07.000-04:00","published":"2025-07-25T09:07:07.000-04:00","cssclasses":"","Age":null,"Ancestry":null,"Gender":null,"Location":null,"Role":null,"Affiliation":null,"Appearances":null}
+{"publish":true,"created":"2025-07-21T11:33:29.000-04:00","modified":"2025-10-03T09:30:44.234-04:00","published":"2025-10-03T09:30:44.234-04:00","cssclasses":"","Age":null,"Ancestry":null,"Gender":null,"Location":null,"Role":null,"Affiliation":null,"Appearances":null}
 ---
 
 
@@ -15,12 +15,13 @@ A paragraph or bulleted list that describes the character. Might include signifi
 - **Location**: `= this.Location`
 - **Role**: `= this.Role`
 - **Affiliation:** `= this.Affiliation`
+- **Appearances:** `= this.Appearances`
 
 ### Attributes
 - **Voice**: 
 - **Traits**: 
-- **Ideals:** 
-- **Appearance**: 
+- **Goals**: 
+- **Appearance:** 
 
 ### Relationships
 

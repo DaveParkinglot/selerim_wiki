@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-12T09:10:18.000-04:00","modified":"2025-08-12T09:16:10.669-04:00","published":"2025-08-12T09:16:10.669-04:00","cssclasses":"","Age":"??","Ancestry":["Demon"],"Gender":"Male","Location":["Pazunia"],"Role":["Dark Angel of the Four Winds","Eldest Child of the Infinite Abyss"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
+{"publish":true,"created":"2025-08-12T09:10:18.000-04:00","modified":"2025-10-03T09:51:09.662-04:00","published":"2025-10-03T09:51:09.662-04:00","cssclasses":"","Age":"??","Ancestry":["Demon"],"Gender":"Male","Location":["Pazunia"],"Role":["Dark Angel of the Four Winds","Eldest Child of the Infinite Abyss"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
 ---
 
 
@@ -21,7 +21,7 @@
 ### Attributes
 - **Voice**: Aggressively Australian
 - **Traits**: Crude
-- **Ideals:** Bring more cool people to join his crew in Pazunia
+- **Goals:** Bring more cool people to join his crew in Pazunia
 - **Appearance**: Giant demon with black wings and a plague mask
 
 ### Relationships

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Mitlin","created":"2025-09-24T08:16:34.000-04:00","modified":"2025-10-01T10:47:01.337-04:00","published":"2025-10-01T10:47:01.337-04:00","cssclasses":"","Type":["Town"],"Age (years)":120,"Population":3200,"Affiliation":["None"],"Government":["The Oaken Conclave","The Wise Wizards"],"marker":{"mapName":"InteractiveMap","x":1645,"y":515,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"Mitlin","created":"2025-09-24T08:16:34.000-04:00","modified":"2025-10-03T10:14:58.344-04:00","published":"2025-10-03T10:14:58.344-04:00","cssclasses":"","Type":["Town"],"Age (years)":120,"Population":3200,"Affiliation":["None"],"Government":["The Oaken Conclave","The Wise Wizards"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[16 Kindlethicket - The Winter Hunt]]","[[18 The Marrowsucker Contract]]"],"marker":{"mapName":"InteractiveMap","x":1645,"y":515,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/mitlin.png|500]]
@@ -15,6 +15,7 @@
 - **Population**: 3200
 - **Affiliation**: None
 - **Government:** The Oaken Conclave,The Wise Wizards
+- **Appearances:**  [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/16 Kindlethicket - The Winter Hunt\|16 Kindlethicket - The Winter Hunt]],[[Adventures/18 The Marrowsucker Contract\|18 The Marrowsucker Contract]]
 
 ### Attributes
 - **Appearance**: 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:46:07.477-04:00","published":"2025-09-17T12:46:07.477-04:00","cssclasses":"","Age":"45","Ancestry":"Bullywug","Gender":"Male","Location":["Nova Jersaeria","Nova Jersaeria Sewers"],"Role":["Business man, Magic item purveyor"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:17:09.958-04:00","published":"2025-10-03T10:17:09.958-04:00","cssclasses":"","Age":"45","Ancestry":"Bullywug","Gender":"Male","Location":["[[Nova Jersaeria]]","Sewers"],"Role":["Business man, Magic item purveyor"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -15,7 +15,7 @@
 - **Age**: 45
 - **Ancestry**: Bullywug
 - **Gender**: Male
-- **Location**: Nova Jersaeria,Nova Jersaeria Sewers
+- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]],Sewers
 - **Role**: Business man, Magic item purveyor
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
@@ -23,7 +23,7 @@
 ### Attributes
 - **Voice**: High pitched, ribbits at times because he's a frogman
 - **Traits**: Loves to do business and haggle
-- **Ideals:** Earning enough money from his businesses so he can bring his family to Nova Jersaeria
+- **Goals:** Earn enough money from his businesses so he can bring his family to Nova Jersaeria
 - **Appearance**: 4'8 frogman wearing simple clothing
 
 ### Relationships

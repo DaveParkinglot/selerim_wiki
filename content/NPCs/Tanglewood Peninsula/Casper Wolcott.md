@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-17T12:53:10.231-04:00","published":"2025-09-17T12:53:10.231-04:00","cssclasses":"","Age":"78","Ancestry":"Dwarf","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Blacksmith"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:41:25.252-04:00","published":"2025-10-03T09:41:25.252-04:00","cssclasses":"","Age":"78","Ancestry":"Dwarf","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Blacksmith"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -20,8 +20,8 @@ Crabbley's one and only strong armed, big bearded blacksmith.
 ### Attributes
 - **Voice**: 
 - **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Goals:** 
+- **Appearance**: 
 
 ### Relationships
 

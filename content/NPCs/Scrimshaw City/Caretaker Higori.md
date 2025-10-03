@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:24:00.019-04:00","published":"2025-08-14T15:24:00.019-04:00","cssclasses":"","Age":"93","Ancestry":["Sea Elf"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Rogue"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:47:06.140-04:00","published":"2025-10-03T09:47:06.140-04:00","cssclasses":"","Age":"93","Ancestry":["Sea Elf"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Rogue"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -21,7 +21,7 @@
 ### Attributes
 - **Voice**: Soft spoken and wise
 - **Traits**: Dislikes adventurers because no one wants to help him
-- **Ideals:** 
+- **Goals:** 
 - **Appearance**: Blue-gray skinned tall sea elf
 
 ### Relationships

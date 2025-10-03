@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-01T11:21:59.405-04:00","published":"2025-10-01T11:21:59.405-04:00","cssclasses":"","Age":"66","Ancestry":"Human","Gender":"Male","Location":["Breakwater Cove"],"Role":["Bartender, Retired Captain"],"Affiliation":["None"],"Appearances":["[[07 The Hidden Hoard of Winchester Bone]]","[[09 Sharky's Revenge]]","[[14 Bootknife's Bounty|14 Bootknife's Bounty]]","[[21 The Crimsonclaw Bounty]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:54:16.947-04:00","published":"2025-10-03T09:54:16.947-04:00","cssclasses":"","Age":"66","Ancestry":"Human","Gender":"Male","Location":["Breakwater Cove"],"Role":["Bartender, Retired Captain"],"Affiliation":["None"],"Appearances":["[[07 The Hidden Hoard of Winchester Bone]]","[[09 Sharky's Revenge]]","[[14 Bootknife's Bounty|14 Bootknife's Bounty]]","[[21 The Crimsonclaw Bounty]]"]}
 ---
 
 
@@ -27,9 +27,9 @@ Once a renowned pirate captain, he now owns Bone Tavern in [[Breakwater Cove]]. 
 
 ### Attributes
 - **Voice**: Old pirate. Yarrrr
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Traits**: Forgetful and sleepy in his old age, but something still remains of the old, bold Captain Bone
+- **Goals:** Keep Bone Tavern afloat
+- **Appearance**: White haired old salt
 
 ### Relationships
 

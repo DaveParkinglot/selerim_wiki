@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-29T09:38:57.726-04:00","published":"2025-09-29T09:38:57.726-04:00","cssclasses":"","Age":"??","Ancestry":["Human"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[Locations/The Spicy Meatball]]"],"Role":["Acting CEO","Blood Hunter"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[08 Arby's Sauce|08 Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:48:49.742-04:00","published":"2025-10-03T09:48:49.742-04:00","cssclasses":"","Age":"??","Ancestry":["Human"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[Locations/The Spicy Meatball]]"],"Role":["Acting CEO","Blood Hunter"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[08 Arby's Sauce|08 Arby's Sauce]]"]}
 ---
 
 
@@ -21,7 +21,7 @@
 ### Attributes
 - **Voice**: Geralt of Rivia
 - **Traits**: 
-- **Ideals:** 
+- **Goals:** 
 - **Appearance**: 
 
 ### Relationships

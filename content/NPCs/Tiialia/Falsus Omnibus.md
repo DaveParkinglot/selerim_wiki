@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-26T23:27:19.000-04:00","modified":"2025-08-27T08:46:09.000-04:00","published":"2025-08-27T08:46:09.000-04:00","cssclasses":"","Age":"45","Ancestry":["Human"],"Gender":"Male","Location":"Batiste Family Manor, Nova Jersaeria","Role":"Conman, Crime affiliate","Affiliation":"Batiste Family","Appearances":["[[22 The Great Tiialan Heist]]"]}
+{"publish":true,"created":"2025-08-26T23:27:19.000-04:00","modified":"2025-10-03T10:16:59.465-04:00","published":"2025-10-03T10:16:59.465-04:00","cssclasses":"","Age":"45","Ancestry":["Human"],"Gender":"Male","Location":["[[Nova Jersaeria]]","Batista Family Manor"],"Role":"Conman, Crime affiliate","Affiliation":"Batiste Family","Appearances":["[[22 The Great Tiialan Heist]]"]}
 ---
 
 
@@ -12,7 +12,7 @@ It seems that, while Falsus Omnibus in theory serves the Batiste family, he most
 - **Age**: 45
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: Batiste Family Manor, Nova Jersaeria
+- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]],Batista Family Manor
 - **Role**: Conman, Crime affiliate
 - **Affiliation:** Batiste Family
 - **Appearances:** [[Adventures/22 The Great Tiialan Heist\|22 The Great Tiialan Heist]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:04:24.586-04:00","published":"2025-09-24T08:04:24.586-04:00","cssclasses":"","Age":"19","Ancestry":"Tiefling","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:18:03.420-04:00","published":"2025-10-03T10:18:03.420-04:00","cssclasses":"","Age":"19","Ancestry":"Tiefling","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -22,8 +22,8 @@
 ### Attributes
 - **Voice**: Cool guy jock aha
 - **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Goals:** 
+- **Appearance**: 
 
 ### Relationships
 

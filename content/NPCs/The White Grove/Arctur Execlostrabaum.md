@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:04:24.581-04:00","published":"2025-09-24T08:04:24.581-04:00","cssclasses":"","Age":"214","Ancestry":"Dwarf","Gender":"M","Location":["[[Locations/The White Grove]]"],"Role":["Headmaster"],"Affiliation":["[[Locations/The Kingdom of Tiialia/Nova Jersaeria]]"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:18:05.395-04:00","published":"2025-10-03T10:18:05.395-04:00","cssclasses":"","Age":"214","Ancestry":"Dwarf","Gender":"M","Location":["[[The White Grove]]"],"Role":["Headmaster"],"Affiliation":["[[Locations/The Kingdom of Tiialia/Nova Jersaeria]]"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 

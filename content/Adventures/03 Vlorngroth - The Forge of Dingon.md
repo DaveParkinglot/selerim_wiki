@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:02:50.689-04:00","published":"2025-09-29T09:02:50.689-04:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Mike Doom","Jimmy","Evan","Ethan"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-08-17"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-03T09:56:19.182-04:00","published":"2025-10-03T09:56:19.182-04:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Mike Doom","Jimmy","Evan","Ethan"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-08-17"}
 ---
 
 ## Details
@@ -8,7 +8,7 @@
 - **Sessions:** 1
 
 ## Adventure Premise
-- Upstart duergar rebels led by one-time Inquisitor Initiate Dyksin Poosie have spoken out against [[High Lord Kranicz]]'s "rampant disregard of duergar culture".
+- Upstart duergar rebels led by one-time Inquisitor Initiate Dyksin Poosie have spoken out against [[High Lord Jorad Kranicz]]'s "rampant disregard of duergar culture".
 - Dyksin and his fellow traitors are holed up at The Forge of Dingon, and initial reports indicate that their position is lightly fortified.
 - They must be dealt with swiftly before they rally more disgruntled, disloyal duergar to their side.
 

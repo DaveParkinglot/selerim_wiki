@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:53:41.320-04:00","published":"2025-09-17T12:53:41.320-04:00","cssclasses":"","Age":"44","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Entrepreneur, Former Patron of The High Rollers"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T09:44:44.890-04:00","published":"2025-10-03T09:44:44.890-04:00","cssclasses":"","Age":"44","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Entrepreneur, Former Patron of The High Rollers"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -21,7 +21,7 @@
 ### Attributes
 - **Voice**: Sleazy
 - **Traits**: Ambitious
-- **Ideals:** Making money is a beautiful thing.
+- **Goals:** Making money
 - **Appearance**: Wears ostentatious purple clothes.
 
 ### Relationships

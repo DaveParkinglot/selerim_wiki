@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-29T09:38:30.299-04:00","published":"2025-09-29T09:38:30.299-04:00","cssclasses":"","Age":"64","Ancestry":"Gnome","Gender":"Male","Location":["[[Locations/Crabbley]]","The Cronium Caves"],"Role":["Gnome Diplomat"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[05 The Hunt for Pill'Grim]]","[[21 The Crimsonclaw Bounty]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:40:40.742-04:00","published":"2025-10-03T09:40:40.742-04:00","cssclasses":"","Age":"64","Ancestry":"Gnome","Gender":"Male","Location":["[[Locations/Crabbley]]","The Cronium Caves"],"Role":["Gnome Diplomat"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[05 The Hunt for Pill'Grim]]","[[21 The Crimsonclaw Bounty]]"]}
 ---
 
 
@@ -34,8 +34,8 @@
 
 ### Attributes
 - **Voice**: High pitched and annoying
-- **Traits**: Patient, friendly, too bubbly at times
-- **Ideals:** The weak should be protected by the strong. Curiosity and inventiveness are crucial.
+- **Traits**: Patient, friendly, too bubbly at times Believes that the weak should be protected by the strong and that curiosity and inventiveness are crucial.
+- **Goals:** Ensure the prosperity of the Cronium Gnomes, assist with inventing cool things
 - **Appearance**: Short gray haired gnome, always wearing a red hat
 
 ### Relationships

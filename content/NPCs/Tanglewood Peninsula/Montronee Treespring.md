@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:53:38.659-04:00","published":"2025-09-17T12:53:38.659-04:00","cssclasses":"","Age":"142","Ancestry":["Half Sea Elf"],"Gender":"Male","Location":["[[Crabbley]]"],"Role":["Archdruid, Leader of The Cult of the Crab"],"Affiliation":["The Cult of the Crab"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T09:44:34.639-04:00","published":"2025-10-03T09:44:34.639-04:00","cssclasses":"","Age":"142","Ancestry":["Half Sea Elf"],"Gender":"Male","Location":["[[Crabbley]]"],"Role":["Archdruid, Leader of The Cult of the Crab"],"Affiliation":["The Cult of the Crab"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -20,7 +20,7 @@
 ### Attributes
 - **Voice**: 
 - **Traits**: 
-- **Ideals:** 
+- **Goals:** 
 - **Appearance**: 
 
 ### Relationships

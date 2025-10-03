@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-17T12:45:41.971-04:00","published":"2025-09-17T12:45:41.971-04:00","cssclasses":"","Age":"41","Ancestry":"Human","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Captain"],"Affiliation":["None"],"Appearances":["[[01 Dunland's Raiders]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:16:30.305-04:00","published":"2025-10-03T10:16:30.305-04:00","cssclasses":"","Age":"41","Ancestry":"Human","Gender":"Male","Location":["[[Nova Jersaeria]]"],"Role":["Captain"],"Affiliation":["None"],"Appearances":["[[01 Dunland's Raiders]]"]}
 ---
 
 
@@ -12,7 +12,7 @@
 - **Age**: 41
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: Nova Jersaeria
+- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: Captain
 - **Affiliation:** None
 - **Appearances:** [[Adventures/01 Dunland's Raiders\|01 Dunland's Raiders]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:17:24.588-04:00","published":"2025-08-14T15:17:24.588-04:00","cssclasses":"","Age":"37","Ancestry":"Goblin","Gender":"Male","Location":["Varies"],"Role":["Roguish Fiend, Thief, Part-time Merchant"],"Affiliation":["None"],"Appearances":["[[14 Bootknife's Bounty|14 Bootknife's Bounty]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:49:53.727-04:00","published":"2025-10-03T09:49:53.727-04:00","cssclasses":"","Age":"37","Ancestry":"Goblin","Gender":"Male","Location":["Varies"],"Role":["Roguish Fiend, Thief, Part-time Merchant"],"Affiliation":["None"],"Appearances":["[[14 Bootknife's Bounty|14 Bootknife's Bounty]]"]}
 ---
 
 
@@ -19,8 +19,10 @@ Merchant, uncle, extraordinary liar. Called many things by many people, Bootknif
 
 ### Attributes
 - **Voice**: Cockney/Australian
-- **Traits**: Customers are better than enemies. Friends are better than customers
-- **Ideals:** Good deals are hard to come by, so be sure to use leverage
+- **Traits**: 
+	- Customers are better than enemies. Friends are better than customers
+	- Good deals are hard to come by, so be sure to use leverage
+- **Goals:** Become a great and powerful merchant
 - **Appearance**: Short goblin with gold earrings and an orange bandana
 
 ### Relationships

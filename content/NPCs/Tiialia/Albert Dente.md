@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-01T11:21:59.410-04:00","published":"2025-10-01T11:21:59.410-04:00","cssclasses":"","Age":"74","Ancestry":"Human","Gender":"Male","Location":["The Esposito Vineyard, Nova Jersaeria"],"Role":["Butler"],"Affiliation":["[[The High Rollers]]","[[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:17:37.205-04:00","published":"2025-10-03T10:17:37.205-04:00","cssclasses":"","Age":"74","Ancestry":"Human","Gender":"Male","Location":["The Esposito Vineyard","[[Nova Jersaeria]]"],"Role":["Butler"],"Affiliation":["[[The High Rollers]]","[[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -17,16 +17,16 @@
 - **Age**: 74
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: The Esposito Vineyard, Nova Jersaeria
+- **Location**: The Esposito Vineyard,[[Locations/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: Butler
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]],[[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family\|The Esposito Family]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes
 - **Voice**: Old man
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Traits**: Exceedingly polite and helpful
+- **Goals:** Board the [[Factions/Ghoulfen Island/The Necronaut of Mournholde]] at age 75
+- **Appearance**: Bald old white butler with mustache
 
 ### Relationships
 

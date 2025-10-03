@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-08-14T15:04:39.476-04:00","published":"2025-08-14T15:04:39.476-04:00","cssclasses":"","Age":"66 (deceased)","Ancestry":["Human"],"Gender":"Male","Location":["The Jyfstein Isles"],"Role":["Lich, Former Archwizard Adventurer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:52:25.500-04:00","published":"2025-10-03T09:52:25.500-04:00","cssclasses":"","Age":"66 (deceased)","Ancestry":["Human"],"Gender":"Male","Location":["The Jyfstein Isles"],"Role":["Lich, Former Archwizard Adventurer"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -27,7 +27,7 @@
 ### Attributes
 - **Voice**: Sinister posh
 - **Traits**: Cartoonishly evil
-- **Ideals:** Spread his plague of undeath, raise [[Player Characters/The High Rollers/The High Rollers]] from the grave and use them to control the world
+- **Goals:** Spread his plague of undeath, raise [[Player Characters/The High Rollers/The High Rollers]] from the grave and use them to control the world
 - **Appearance**: Tall, stick-thin, pale white lich with flowing robes
 
 ### Relationships

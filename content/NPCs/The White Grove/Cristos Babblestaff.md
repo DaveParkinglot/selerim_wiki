@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-24T08:04:24.593-04:00","published":"2025-09-24T08:04:24.593-04:00","cssclasses":"","Age":"24","Ancestry":"Orc","Gender":"Male","Location":["[[Locations/The White Grove]]"],"Role":["Student","Super Senior"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:18:01.225-04:00","published":"2025-10-03T10:18:01.225-04:00","cssclasses":"","Age":"24","Ancestry":"Orc","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Super Senior"],"Affiliation":["None"],"Appearances":["[[23 The White Grove- First Semester]]"]}
 ---
 
 
@@ -21,9 +21,9 @@
 
 ### Attributes
 - **Voice**: Dumb douchey
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Traits**: Gullible, agrees to things without thinking them through. Stubborn
+- **Goals:** Become the first educated member of his family
+- **Appearance**: Orc nerd with a strong build
 
 ### Relationships
 

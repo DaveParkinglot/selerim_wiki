@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-10T09:01:55.170-04:00","published":"2025-09-10T09:01:55.170-04:00","cssclasses":"","Age":"60","Ancestry":"Loxodon","Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Archmage"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[21 The Crimsonclaw Bounty]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:38:53.000-04:00","published":"2025-10-03T09:38:53.000-04:00","cssclasses":"","Age":"60","Ancestry":"Loxodon","Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Archmage"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[21 The Crimsonclaw Bounty]]"]}
 ---
 
 ![[z_assets/beezlebop.png|300]]
@@ -21,8 +21,8 @@
 ### Attributes
 - **Voice**: 
 - **Traits**: 
-- **Ideals:** 
-- **Appearance**:
+- **Goals:** 
+- **Appearance**: 
 
 ### Relationships
 

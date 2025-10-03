@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-09-18T08:29:44.689-04:00","published":"2025-09-18T08:29:44.689-04:00","cssclasses":"","Age":"29","Ancestry":"Half-Elf","Gender":"Male","Location":["Nova Jersaeria"],"Role":["Former Member of The High Roller, Paladin, Family Guy"],"Affiliation":["None"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:16:18.779-04:00","published":"2025-10-03T10:16:18.779-04:00","cssclasses":"","Age":"29","Ancestry":"Half-Elf","Gender":"Male","Location":["[[Nova Jersaeria]]"],"Role":["Former Member of The High Roller, Paladin, Family Guy"],"Affiliation":["None"],"Appearances":["[[Adventures/00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -22,7 +22,7 @@ Originally Logan's player character from [[Adventures/00 -The High Rollers Campa
 - **Age**: 29
 - **Ancestry**: Half-Elf
 - **Gender**: Male
-- **Location**: Nova Jersaeria
+- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: Former Member of The High Roller, Paladin, Family Guy
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
@@ -32,7 +32,8 @@ Originally Logan's player character from [[Adventures/00 -The High Rollers Campa
 - **Traits**: 
 	- I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods. I idolize a particular hero of my faith, and constantly refer to that person’s deeds and example. 
 	- I put too much trust in those who wield power within my temple’s hierarchy.
-- **Ideals:** Charity. I always try to help those in need, no matter what the personal cost. (Good)
+	- Ideal: Charity. I always try to help those in need, no matter what the personal cost. (Good)
+- **Goals:** Find a safe home for his family, spread the good word of Tyr
 - **Appearance**: Red haired handsome half elf wearing plate armor
 
 ### Relationships

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-09-17T12:53:24.441-04:00","published":"2025-09-17T12:53:24.441-04:00","cssclasses":"","Age":"60","Ancestry":"Goblin","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Barkeep, Small Business Owner"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:42:25.927-04:00","published":"2025-10-03T09:42:25.927-04:00","cssclasses":"","Age":"60","Ancestry":"Goblin","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Barkeep, Small Business Owner"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -20,7 +20,7 @@ Aspiring restauranteur in Crabbley. Owns the popular watering hole The Soggy Bo
 ### Attributes
 - **Voice**: 
 - **Traits**: 
-- **Ideals:** 
+- **Goals:** 
 - **Appearance**: 
 
 ### Relationships

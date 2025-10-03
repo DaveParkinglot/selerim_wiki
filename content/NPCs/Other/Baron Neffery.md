@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-05T13:44:04.000-04:00","modified":"2025-09-05T08:55:58.338-04:00","published":"2025-09-05T08:55:58.338-04:00","cssclasses":"","Age":"??","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["Avernus"],"Role":["Hell Baron"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
+{"publish":true,"created":"2025-08-05T13:44:04.000-04:00","modified":"2025-10-03T09:49:22.402-04:00","published":"2025-10-03T09:49:22.402-04:00","cssclasses":"","Age":"??","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["Avernus"],"Role":["Hell Baron"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
 ---
 
 
@@ -20,7 +20,7 @@
 ### Attributes
 - **Voice**: Polite English
 - **Traits**: Ruthless and ambitious
-- **Ideals:** Be ruthless in business dealings, but be polite while doing it
+- **Goals:** Be ruthless in business dealings, but be polite while doing it
 - **Appearance**: 15 feet tall devil from hell
 
 ### Relationships
