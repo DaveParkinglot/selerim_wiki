@@ -9,7 +9,7 @@
 
 ## Adventure Premise
 - Halloween One Shot
-- You are all attending a beach bonfire party on the outskirts of the town of [[Locations/Crabbley]], enjoying beverages and scary ghost stories. Unfortunately, one of these spooky tales will be more than just a story…
+- You are all attending a beach bonfire party on the outskirts of the town of [[Places/Crabbley]], enjoying beverages and scary ghost stories. Unfortunately, one of these spooky tales will be more than just a story…
 
 ## Outcomes
 - After a long night of revelry and a run in with some very repentant brigands, the party and [[Li'l Carlos Dunlap]] (the most popular kid in town) snuck into the old abandoned Bondoon Flakes Factory Megaplex. They fended off zombified factory workers, fought against the tyranny of capitalism, and ended the lives of Old Mr. Bondoon's three cereal mascots: Billy Basilisk, Garry Griffon, and Donny the Displacer Beast.

@@ -8,7 +8,7 @@
 - **Sessions:** 1
 
 ## Adventure Premise
-- Every year, demons from across Selerim (and beyond) converge on [[Locations/Scrimshaw City]] in an attempt to re-open the abyssal rift that rages beneath the city.
+- Every year, demons from across Selerim (and beyond) converge on [[Places/Scrimshaw City]] in an attempt to re-open the abyssal rift that rages beneath the city.
 - [[NPCs/Scrimshaw City/Hugh Mann]], the current reigning El Presidente of Scrimshaw City, is solely responsible for keeping the rift closed and his city free of demonic corruption. So, naturally, he has outsourced the majority of the work to enterprising adventurers like yourself.
 
 ## Outcomes

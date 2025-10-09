@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:48:01.774-04:00","published":"2025-10-03T09:48:01.774-04:00","cssclasses":"","Age":"32","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Failed Adventurer","Bartender","Aspiring Salt Spitter"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[08 Arby's Sauce|08 Arby's Sauce]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:48:01.774-04:00","published":"2025-10-03T09:48:01.774-04:00","cssclasses":"","Age":"32","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Failed Adventurer","Bartender","Aspiring Salt Spitter"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[08 Arby's Sauce|08 Arby's Sauce]]"]}
 ---
 
 
@@ -15,7 +15,7 @@
 - **Age**: 32
 - **Ancestry**: Satyr
 - **Gender**: Male
-- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Failed Adventurer,Bartender,Aspiring Salt Spitter
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/08 Arby's Sauce\|08 Arby's Sauce]]

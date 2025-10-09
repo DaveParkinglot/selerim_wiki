@@ -11,7 +11,7 @@
 - The cleric Geelayne was killed on one of their adventures and rather than "wasting" the Scroll of Resurrection, Effree opted to use necromantic magic he had just learned to bring her back.
 	- Geelayne became a shade of herself for months, and Effree and Blackhorn became estranged.
 	- Geelayne eventually regained a fraction of her former power and struck out with rangers from Mitlin to end the threat that Effree posed to the world, but she failed and was once again resurrected by Effree, this time as a banshee
-- After The Three disbanded due to Effree's actions, he spent time living as a noble in [[Locations/Scrimshaw City]], before retreating to his ancestral home in the Jypstein Isles on The Great Delphin Sea.
+- After The Three disbanded due to Effree's actions, he spent time living as a noble in [[Places/Scrimshaw City]], before retreating to his ancestral home in the Jypstein Isles on The Great Delphin Sea.
 - Some time after that, Effree became a powerful lich, went by the pseudony "The Master", and sought to control or end all life on Selerim. 
 - Thankfully, he was killed on his private island by [[Player Characters/The High Rollers/The High Rollers]].
 

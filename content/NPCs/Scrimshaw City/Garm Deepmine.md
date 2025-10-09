@@ -12,7 +12,7 @@ Legitimate businessman and patriarch of the Deepmine family. Often accompanied b
 - **Age**: 97
 - **Ancestry**: Dwarf
 - **Gender**: Male
-- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Company Head
 - **Affiliation:** Deepmine Delvings
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

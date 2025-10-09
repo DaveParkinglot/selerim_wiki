@@ -15,7 +15,7 @@
 - **Age**: 45
 - **Ancestry**: Bullywug
 - **Gender**: Male
-- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]],Sewers
+- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],Sewers
 - **Role**: Business man, Magic item purveyor
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

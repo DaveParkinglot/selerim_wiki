@@ -14,7 +14,7 @@
 - **Age**: 44
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Barkeep
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

@@ -13,7 +13,7 @@
 - **Age**: 22
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Locations/The White Grove\|The White Grove]]
+- **Location**: [[Places/The White Grove\|The White Grove]]
 - **Role**: Student,Morganth Cultist
 - **Affiliation:** [[Jordan's Notes/One Shots/Morganth's LEGION OF DOOM\|Morganth's LEGION OF DOOM]]
 - **Appearances:** [[Adventures/24 The White Grove- First Semester\|24 The White Grove- First Semester]]

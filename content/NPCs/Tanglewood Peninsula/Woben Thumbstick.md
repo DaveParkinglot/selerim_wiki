@@ -12,7 +12,7 @@
 - **Age**: 16
 - **Ancestry**: Goblin
 - **Gender**: Male
-- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Adventurer, Rogue
 - **Affiliation:** The Backbreakers
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

@@ -13,7 +13,7 @@
 - **Age**: 44
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Entrepreneur, Former Patron of The High Rollers
 - **Affiliation:** [[Crabbley Council\|Crabbley Council]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

@@ -15,7 +15,7 @@
 - **Age**: 163
 - **Ancestry**: Drow,Vampire
 - **Gender**: Male
-- **Location**: [[Locations/Vlorngroth\|Vlorngroth]]
+- **Location**: [[Places/Vlorngroth\|Vlorngroth]]
 - **Role**: Former Inquisitor
 - **Affiliation:** None
 - **Appearances:** [[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|20 Vlorngroth - 2 Manor 2 Madness]],[[Adventures/27 Vlorngroth - Vampire Weekday\|27 Vlorngroth - Vampire Weekday]]

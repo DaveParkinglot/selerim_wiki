@@ -11,7 +11,7 @@ Handouts:
 - **Sessions:** 1
 
 ## Adventure Premise
-- The Wise Wizards of [[Locations/Mitlin]] have sensed a dramatic change in the ley lines of the Tanglewood Peninsula! A new Fey Crossing—where our Material Plane intersects with The Feywild, the Plane of Faerie—has sprung up on the eastern arm of the peninsula, an event that has not happened in generations of elves!
+- The Wise Wizards of [[Places/Mitlin]] have sensed a dramatic change in the ley lines of the Tanglewood Peninsula! A new Fey Crossing—where our Material Plane intersects with The Feywild, the Plane of Faerie—has sprung up on the eastern arm of the peninsula, an event that has not happened in generations of elves!
 - With all its rangers out ranging and its fighters out fighting, Mitlin needs starry-eyed adventurers now more than ever. As such, [[The Oaken Conclave]] has decided to send you and your adventuring party to investigate this new Fey Crossing. Whatever your previous story was, you are now an honorary Mitlin Ranger.
 
 ## Outcomes

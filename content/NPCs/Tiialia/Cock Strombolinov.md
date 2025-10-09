@@ -13,7 +13,7 @@
 - **Age**: 24
 - **Ancestry**: Yuan-ti
 - **Gender**: Male
-- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]],Sewers
+- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],Sewers
 - **Role**: Bodyguard
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

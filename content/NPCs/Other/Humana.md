@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-12T08:54:32.000-04:00","modified":"2025-10-03T15:48:55.130-04:00","published":"2025-10-03T15:48:55.130-04:00","cssclasses":"","Age":"??","Ancestry":"Night Hag","Gender":"Female","Location":["Varies"],"Role":["Soul Dealer"],"Affiliation":["None"],"Appearances":["[[25 The Hellnight Soirée]]"]}
+{"publish":true,"created":"2025-08-12T08:54:32.000-04:00","modified":"2025-10-09T15:20:25.837-04:00","published":"2025-10-09T15:20:25.837-04:00","cssclasses":"","Age":"??","Ancestry":"Night Hag","Gender":"Female","Location":["Varies"],"Role":["Soul Dealer"],"Affiliation":["None"],"Appearances":["[[25 The Hellnight Soirée]]"]}
 ---
 
 
@@ -8,7 +8,6 @@
 ### Overview
  - [[NPCs/Scrimshaw City/Hugh Mann]]'s older sister, by his own account, is probably the reason he became a devil in the first place.
  - She is a somewhat prominent Soul Dealer in the lower planes.
-
 
 ### Key Details
 - **Age**: ??

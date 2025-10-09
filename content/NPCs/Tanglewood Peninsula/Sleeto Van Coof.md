@@ -13,7 +13,7 @@
 - **Age**: 49
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Thief,Spymaster
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

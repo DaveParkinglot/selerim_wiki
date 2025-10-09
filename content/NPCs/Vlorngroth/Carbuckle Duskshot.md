@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T10:15:43.400-04:00","published":"2025-10-03T10:15:43.400-04:00","cssclasses":"","Age":"42","Ancestry":"Drow","Gender":"Male","Location":["[[Locations/Vlorngroth]]","[[Nova Jersaeria]]"],"Role":["Gunslinger Bounty Hunter, Former Inquisitor"],"Affiliation":["Vlorngroth","[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-09T14:42:53.465-04:00","published":"2025-10-09T14:42:53.465-04:00","cssclasses":"","Age":"42","Ancestry":"Drow","Gender":"Male","Location":["[[Places/Vlorngroth]]","[[Nova Jersaeria]]"],"Role":["Gunslinger Bounty Hunter, Former Inquisitor"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
@@ -15,9 +15,9 @@
 - **Age**: 42
 - **Ancestry**: Drow
 - **Gender**: Male
-- **Location**: [[Locations/Vlorngroth\|Vlorngroth]],[[Locations/Nova Jersaeria\|Nova Jersaeria]]
+- **Location**: [[Places/Vlorngroth\|Vlorngroth]],[[Places/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: Gunslinger Bounty Hunter, Former Inquisitor
-- **Affiliation:** Vlorngroth,[[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
+- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
 
 ### Attributes

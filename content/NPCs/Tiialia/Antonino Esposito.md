@@ -22,7 +22,7 @@
 - **Age**: 43
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]]
+- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: King of Tiialia,Former Spymaster
 - **Affiliation:** [[Factions/The Kingdom of Tiialia/The Families of Tiialia/The Esposito Family\|The Esposito Family]],[[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

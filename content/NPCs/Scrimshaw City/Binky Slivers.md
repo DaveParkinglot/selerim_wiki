@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T15:48:54.792-04:00","published":"2025-10-03T15:48:54.792-04:00","cssclasses":"","Age":"267","Ancestry":["Rakshasa"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Bartender","Dealer","Fixer"],"Affiliation":["Tavernstool"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[21 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-09T15:19:11.886-04:00","published":"2025-10-09T15:19:11.886-04:00","cssclasses":"","Age":"267","Ancestry":["Rakshasa"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Bartender","Dealer","Fixer"],"Affiliation":["Tavernstool"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[21 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 
@@ -7,13 +7,13 @@
 
 ### Overview
 - [[NPCs/Scrimshaw City/Hugh Mann]]'s primary fixer, he gives out quests to adventures on behalf of Mann from The High Roller Bar & Casino in [[Scrimshaw City]].
-- He fought with Hugh in the Blood War for a time. After Hugh escaped to the material plane and became El Presidente, he used his powers to get Binky back from the Hells.
+- He fought with Hugh in the Blood War for a time. After Hugh escaped to the material plane and became El Presidente, he used his powers to pull Binky back from the Hells.
 
 ### Key Details
 - **Age**: 267
 - **Ancestry**: Rakshasa
 - **Gender**: Male
-- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Bartender,Dealer,Fixer
 - **Affiliation:** Tavernstool
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/21 Spring Cleaning in Scrimshaw City\|21 Spring Cleaning in Scrimshaw City]]

@@ -13,7 +13,7 @@
 - **Age**: 16
 - **Ancestry**: Human
 - **Gender**: Female
-- **Location**: [[Locations/The White Grove\|The White Grove]]
+- **Location**: [[Places/The White Grove\|The White Grove]]
 - **Role**: Student,Freshman
 - **Affiliation:** None
 - **Appearances:** [[Adventures/24 The White Grove- First Semester\|24 The White Grove- First Semester]]

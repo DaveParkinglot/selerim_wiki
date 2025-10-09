@@ -12,7 +12,7 @@ It seems that, while Falsus Omnibus in theory serves the Batiste family, he most
 - **Age**: 45
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]],Batista Family Manor
+- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],Batista Family Manor
 - **Role**: Conman, Crime affiliate
 - **Affiliation:** Batiste Family
 - **Appearances:** [[Adventures/23 The Great Tiialan Heist\|23 The Great Tiialan Heist]]

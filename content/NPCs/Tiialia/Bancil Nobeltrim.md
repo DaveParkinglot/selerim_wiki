@@ -22,7 +22,7 @@ Originally Logan's player character from [[Adventures/00 -The High Rollers Campa
 - **Age**: 29
 - **Ancestry**: Half-Elf
 - **Gender**: Male
-- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]]
+- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: Former Member of The High Roller, Paladin, Family Guy
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

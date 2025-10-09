@@ -15,7 +15,7 @@
 - **Age**: 40
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]]
+- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: Blacksmith
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

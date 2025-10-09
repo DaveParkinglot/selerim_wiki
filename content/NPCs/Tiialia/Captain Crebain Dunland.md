@@ -12,7 +12,7 @@
 - **Age**: 41
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]]
+- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: Captain
 - **Affiliation:** None
 - **Appearances:** [[Adventures/01 Dunland's Raiders\|01 Dunland's Raiders]]

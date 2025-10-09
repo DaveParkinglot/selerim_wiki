@@ -13,7 +13,7 @@
 - **Age**: 33
 - **Ancestry**: Hobgoblin
 - **Gender**: Male
-- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Bouncer
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

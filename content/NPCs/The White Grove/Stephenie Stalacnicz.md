@@ -13,7 +13,7 @@
 - **Age**: 22
 - **Ancestry**: Drow Elf
 - **Gender**: Female
-- **Location**: [[Locations/The White Grove\|The White Grove]]
+- **Location**: [[Places/The White Grove\|The White Grove]]
 - **Role**: Student,Junior
 - **Affiliation:** Vlorngroth
 - **Appearances:** [[Adventures/24 The White Grove- First Semester\|24 The White Grove- First Semester]]

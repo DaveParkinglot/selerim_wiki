@@ -1,13 +1,12 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:51:27.800-04:00","published":"2025-10-03T09:51:27.800-04:00","cssclasses":"","Age":"??","Ancestry":"Drow, Draegloth","Gender":"Male","Location":["Vlorngroth"],"Role":["Villain","Destroyer of Worlds"],"Affiliation":["Vlorngroth"],"Appearances":["[[Adventures/02 Vlorngroth - The Manor of Madness]]","[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-09T15:20:35.671-04:00","published":"2025-10-09T15:20:35.671-04:00","cssclasses":"","Age":"??","Ancestry":"Drow, Draegloth","Gender":"Male","Location":["Vlorngroth"],"Role":["Villain","Destroyer of Worlds"],"Affiliation":["Vlorngroth"],"Appearances":["[[Adventures/02 Vlorngroth - The Manor of Madness]]","[[00 -The High Rollers Campaign-]]"]}
 ---
 
 
 ![[z_assets/proklor_the_despoiler.png|300]]
 
 ### Overview
-An ancient, legendary draegloth demigod who has ravaged kingdoms across dozens of worlds on the material plane.
-
+- An ancient, legendary draegloth demigod who has ravaged kingdoms across dozens of worlds on the material plane.
 - He was plucked from his cradle by Lolth herself, and turned into a draegloth thousands of years ago
 - Until recently he resided in Demonweb layer of the abyss with his goddess Lolth
 - Lolth only breaks him out for special occasions, lending his services to drow on worlds where she wants a favor

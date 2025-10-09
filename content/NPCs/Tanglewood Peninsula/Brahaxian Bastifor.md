@@ -13,7 +13,7 @@
 - **Age**: 42
 - **Ancestry**: Half-Elf
 - **Gender**: Male
-- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Shopkeeper
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

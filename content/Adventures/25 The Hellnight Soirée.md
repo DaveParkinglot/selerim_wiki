@@ -18,7 +18,7 @@
 - They were unable to talk down [[NPCs/Other/Chauncy the Unrepentant]] from a fight, but soundly defeated him and sent him back to the Lower Planes, 
 - They cleverly pitted the entourages of [[NPCs/Other/Baron Neffery]] and [[NPCs/Other/Pazuzu]] against each other while eating hors d'oeuvres.
 - Towards the end of the evening, they sparked a fight in the ballroom which erupted into a brutal full blown melee.
-- The entourages of both [[NPCs/Other/Pazuzu]] and the [[NPCs/Other/Baron Neffery\|Baron]] were severely weakened, and their new Fiend Feud will prevent either of them from initiating a hostile takeover of [[NPCs/Scrimshaw City/Hugh Mann]]'s Fiend Franchise in [[Locations/Scrimshaw City]].
+- The entourages of both [[NPCs/Other/Pazuzu]] and the [[NPCs/Other/Baron Neffery\|Baron]] were severely weakened, and their new Fiend Feud will prevent either of them from initiating a hostile takeover of [[NPCs/Scrimshaw City/Hugh Mann]]'s Fiend Franchise in [[Places/Scrimshaw City]].
 
 ## Players & Characters
 | Player              | Character Name           | Race    | Class   |

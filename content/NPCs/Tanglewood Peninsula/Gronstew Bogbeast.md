@@ -13,7 +13,7 @@
 - **Age**: 31
 - **Ancestry**: Half-Orc
 - **Gender**: Male
-- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Adventurer, Barbarian
 - **Affiliation:** The Backbreakers
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

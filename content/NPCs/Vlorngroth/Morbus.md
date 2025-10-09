@@ -13,7 +13,7 @@
 - **Age**: 35
 - **Ancestry**: Goblin,Kobold,Mutant
 - **Gender**: Male
-- **Location**: [[Locations/Vlorngroth\|Vlorngroth]]
+- **Location**: [[Places/Vlorngroth\|Vlorngroth]]
 - **Role**: Familiar
 - **Affiliation:** None
 - **Appearances:** [[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|20 Vlorngroth - 2 Manor 2 Madness]]

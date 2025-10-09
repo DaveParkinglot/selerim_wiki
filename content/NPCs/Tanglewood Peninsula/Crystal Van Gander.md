@@ -14,7 +14,7 @@
 - **Age**: 17
 - **Ancestry**: Human
 - **Gender**: Female
-- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Hedge Warlock,Farmer
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

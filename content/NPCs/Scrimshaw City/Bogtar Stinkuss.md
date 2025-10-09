@@ -12,7 +12,7 @@
 - **Age**: 49
 - **Ancestry**: Orc
 - **Gender**: Male
-- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Bouncer,Aspiring Playwright
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/21 Spring Cleaning in Scrimshaw City\|21 Spring Cleaning in Scrimshaw City]]

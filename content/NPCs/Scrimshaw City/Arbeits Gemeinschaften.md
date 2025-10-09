@@ -14,7 +14,7 @@
 - **Age**: 48
 - **Ancestry**: Bugbear
 - **Gender**: Male
-- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Bouncer, Former Monster Wrangler
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/08 Arby's Sauce\|08 Arby's Sauce]]

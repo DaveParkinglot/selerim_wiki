@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T11:19:09.000-04:00","modified":"2025-10-08T12:03:19.001-04:00","published":"2025-10-08T12:03:19.001-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"],"Sessions":69,"Start Date":"2022-07-25","End Date":"2024-05-24"}
+{"publish":true,"created":"2025-07-25T11:19:09.000-04:00","modified":"2025-10-09T14:45:36.599-04:00","published":"2025-10-09T14:45:36.599-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"],"Sessions":70,"Start Date":"2022-07-25","End Date":"2024-05-24"}
 ---
 
 The OG campaign.
@@ -8,7 +8,7 @@ The OG campaign.
 ## Details
 - **DM**: Jordan
 - **Platform:** Foundry,Roll20
-- **Sessions:** 69
+- **Sessions:** 70
 
 # Players & Characters
 | Player              | Character Name                                                  | Race              | Class        |
@@ -29,7 +29,7 @@ The OG campaign.
 ## Free the Tanglewood Peninsula
 
 ### Adventure Premise
-- End the threat to [[Locations/Crabbley]] and [[Crillville]] by eliminating Malmstein the Tangler and his terroristic druid organization The Tanglers.
+- End the threat to [[Places/Crabbley]] and [[Places/Crillville]] by eliminating Malmstein the Tangler and his terroristic druid organization The Tanglers.
 ### Outcomes
 - The forces of Crabbley and Crillville retook Crillville after it was occupied by The Tanglers.
 - In the final confrontation, The High Rollers struck down Malmstein, who was summarily executed by Dick Gunbarrel.
@@ -38,9 +38,9 @@ The OG campaign.
 ## Depose Lord Davos Portnoir
 
 ### Adventure Premise
-- Bring rent reductions and prosperity to [[Locations/Scrimshaw City]] by defeating [[NPCs/Deceased/Lord Davos Portnoir]] and his [[Tavernstool]] fanatics.
+- Bring rent reductions and prosperity to [[Places/Scrimshaw City]] by defeating [[NPCs/Deceased/Lord Davos Portnoir]] and his [[Tavernstool]] fanatics.
 ### Outcomes
-- Lord Davos Portnoir was sent screaming back to the Nine Hells, and Hugh Mann became the new El Presidente of Scrimshaw City.---
+- Lord Davos Portnoir was sent screaming back to the Nine Hells, and Hugh Mann became the new El Presidente of Scrimshaw City.
 
 
 ## Restore the Tiialan Royal Line
@@ -58,7 +58,7 @@ The OG campaign.
 ### Adventure Premise
 - Kill the lich [[NPCs/Deceased/Master Effree Jypstein\|Effree Jypstein]] also known as "The Master" and eliminate the threat of his undead hordes to the world of Selerim.
 ### Outcomes
-- With the help of [[NPCs/Vlorngroth/Carbuckle Duskshot]], The High Rollers snuck out of [[Locations/Nova Jersaeria]], and delved through the Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
+- With the help of [[NPCs/Vlorngroth/Carbuckle Duskshot]], The High Rollers snuck out of [[Places/Nova Jersaeria]], and delved through the Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
 - Effree Jypstein was killed and his phylactery was destroyed.
 
 

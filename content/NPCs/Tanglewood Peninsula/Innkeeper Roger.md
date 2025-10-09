@@ -13,7 +13,7 @@
 - **Age**: 56
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Inkeeper, Small Business Owner
 - **Affiliation:** [[Crabbley Council\|Crabbley Council]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/22 The Crimsonclaw Bounty\|22 The Crimsonclaw Bounty]]

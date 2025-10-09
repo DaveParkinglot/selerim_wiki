@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T15:48:54.845-04:00","published":"2025-10-03T15:48:54.845-04:00","cssclasses":"","Age":"326","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["El Presidente","Former Adventurer"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]","Tavernstool"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[21 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T15:48:54.845-04:00","published":"2025-10-03T15:48:54.845-04:00","cssclasses":"","Age":"326","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["El Presidente","Former Adventurer"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]","Tavernstool"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[21 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 
@@ -16,7 +16,7 @@
 - **Age**: 326
 - **Ancestry**: Fiend (Devil)
 - **Gender**: Male
-- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: El Presidente,Former Adventurer
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]],Tavernstool
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/21 Spring Cleaning in Scrimshaw City\|21 Spring Cleaning in Scrimshaw City]]

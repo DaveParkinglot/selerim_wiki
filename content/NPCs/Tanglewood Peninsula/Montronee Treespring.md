@@ -12,7 +12,7 @@
 - **Age**: 142
 - **Ancestry**: Half Sea Elf
 - **Gender**: Male
-- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Archdruid, Leader of The Cult of the Crab
 - **Affiliation:** The Cult of the Crab
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

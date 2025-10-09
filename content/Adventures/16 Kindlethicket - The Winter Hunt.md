@@ -8,7 +8,7 @@
 - **Sessions:** 1
 
 ## Adventure Premise
-- As every good elf in [[Locations/Mitlin]] knows, on Giftmas Eve, the Archfey Krampus leads the Winter Hunt across the domains of the Feywild and into the myriad material planes, capturing those who have broken sacred pacts and stowing them in his big black punishment sack. This year, an innocent soul from your world was unjustly marked as a pactbreaker and claimed by The Hunt.
+- As every good elf in [[Places/Mitlin]] knows, on Giftmas Eve, the Archfey Krampus leads the Winter Hunt across the domains of the Feywild and into the myriad material planes, capturing those who have broken sacred pacts and stowing them in his big black punishment sack. This year, an innocent soul from your world was unjustly marked as a pactbreaker and claimed by The Hunt.
 - The Wise Wizards of Mitlin have scried that this individual must be rescued, as they have information that could save the world. With no family to spend Giftmas with, you have been chosen for this perilous quest into the Feywild. [[NPCs/Tanglewood Peninsula/Melvin Oaksleeves\|Wise Wizard Melvin]]’s parting words echo in your mind: “This Giftmas, the fate of Selerim teeters on a knife's edge. One misstep, and all will careen into oblivion… so do try not to mess it up. Good luck!”
 
 ## Outcomes

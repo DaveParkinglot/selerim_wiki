@@ -1,2 +1,2 @@
-- Via a lottery system, takes 50 willing souls to [[Locations/Mournholde]] each year to become undead eternals
+- Via a lottery system, takes 50 willing souls to [[Places/Mournholde]] each year to become undead eternals
 - Most often these are poor souls afflicted by illness, age, or something worse. They would prefer to continue living in undeath than face the uncertainties of the afterlife

@@ -11,7 +11,7 @@
 - **Age**: 76
 - **Ancestry**: Dwarf
 - **Gender**: Male
-- **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Bodyguard
 - **Affiliation:** Deepmine Delvings
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

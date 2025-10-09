@@ -5,7 +5,7 @@
 - As of 264 B.T., the most widely used calendar is the Tiialan Calendar, which very conveniently has 13 months of 28 days each.
 - It should be noted that the diversity seen amongst the peoples of Selerim is such because they were slaves from many worlds, stolen from their homes to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20(the%20dark%20seldarine)_mtf) empire.
 - The magnificence of [Selvetarm's](https://5e.tools/deities.html#selvetarm_drow_mtf) work meant that he churned through his slave workforce very, *very* quickly. 
-	- As such, his mages opened a great many Planar Rifts to gather slaves from other worlds, much as the drow of [[Locations/Vlorngroth]] capture slaves from the surface to this day.
+	- As such, his mages opened a great many Planar Rifts to gather slaves from other worlds, much as the drow of [[Places/Vlorngroth]] capture slaves from the surface to this day.
 	- Even now, some of these rifts remain dormant, in the hidden places of the world.
 	- Travel to other worlds and planes is quite possible if one knows where to look, and how to reactivate the rifts...
 - Much of the world was ravaged by the nameless war between [The Seldarine](https://5e.tools/tables.html#elf%20deities%20(the%20seldarine)_mtf) and [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20(the%20dark%20seldarine)_mtf), fought 5,000 years before the founding of [[The Kingdom of Tiialia]] (expressed henceforth as B.T.).

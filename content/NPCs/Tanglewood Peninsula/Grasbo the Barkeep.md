@@ -12,7 +12,7 @@ Aspiring restauranteur in Crabbley. Owns the popular watering hole The Soggy Bo
 - **Age**: 60
 - **Ancestry**: Goblin
 - **Gender**: Male
-- **Location**: [[Locations/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Barkeep, Small Business Owner
 - **Affiliation:** [[Crabbley Council\|Crabbley Council]]
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]

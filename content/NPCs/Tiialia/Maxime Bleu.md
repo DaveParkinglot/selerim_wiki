@@ -13,7 +13,7 @@
 - **Age**: 72
 - **Ancestry**: Human
 - **Gender**: Female
-- **Location**: [[Locations/Nova Jersaeria\|Nova Jersaeria]]
+- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: Shopkeeper
 - **Affiliation:** None
 - **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
