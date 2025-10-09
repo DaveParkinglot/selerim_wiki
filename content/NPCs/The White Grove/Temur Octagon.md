@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:17:51.096-04:00","published":"2025-10-03T10:17:51.096-04:00","cssclasses":"","Age":"22","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Morganth Cultist"],"Affiliation":["[[Jordan's Notes/One Shots/Morganth's LEGION OF DOOM]]"],"Appearances":["[[23 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T15:48:55.055-04:00","published":"2025-10-03T15:48:55.055-04:00","cssclasses":"","Age":"22","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Morganth Cultist"],"Affiliation":["[[Jordan's Notes/One Shots/Morganth's LEGION OF DOOM]]"],"Appearances":["[[24 The White Grove- First Semester]]"]}
 ---
 
 
@@ -16,7 +16,7 @@
 - **Location**: [[Locations/The White Grove\|The White Grove]]
 - **Role**: Student,Morganth Cultist
 - **Affiliation:** [[Jordan's Notes/One Shots/Morganth's LEGION OF DOOM\|Morganth's LEGION OF DOOM]]
-- **Appearances:** [[Adventures/23 The White Grove- First Semester\|23 The White Grove- First Semester]]
+- **Appearances:** [[Adventures/24 The White Grove- First Semester\|24 The White Grove- First Semester]]
 
 ### Attributes
 - **Voice**: Douchey aha

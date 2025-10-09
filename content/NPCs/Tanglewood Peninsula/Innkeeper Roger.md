@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:43:23.510-04:00","published":"2025-10-03T09:43:23.510-04:00","cssclasses":"","Age":"56","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Inkeeper, Small Business Owner"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[21 The Crimsonclaw Bounty]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T15:48:54.920-04:00","published":"2025-10-03T15:48:54.920-04:00","cssclasses":"","Age":"56","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Inkeeper, Small Business Owner"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[22 The Crimsonclaw Bounty]]"]}
 ---
 
 
@@ -16,7 +16,7 @@
 - **Location**: [[Locations/Crabbley\|Crabbley]]
 - **Role**: Inkeeper, Small Business Owner
 - **Affiliation:** [[Crabbley Council\|Crabbley Council]]
-- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/21 The Crimsonclaw Bounty\|21 The Crimsonclaw Bounty]]
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/22 The Crimsonclaw Bounty\|22 The Crimsonclaw Bounty]]
 
 ### Attributes
 - **Voice**: Normal

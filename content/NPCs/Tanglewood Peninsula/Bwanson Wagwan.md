@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:41:19.065-04:00","published":"2025-10-03T09:41:19.065-04:00","cssclasses":"","Age":"24","Ancestry":"Owlin","Gender":"Male","Location":["Mitlin"],"Role":["Former Adventurer","Druid","Merchant"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[18 The Marrowsucker Contract]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T15:48:54.691-04:00","published":"2025-10-03T15:48:54.691-04:00","cssclasses":"","Age":"24","Ancestry":"Owlin","Gender":"Male","Location":["Mitlin"],"Role":["Former Adventurer","Druid","Merchant"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[19 The Marrowsucker Contract]]"]}
 ---
 
 
@@ -16,7 +16,7 @@
 - **Location**: Mitlin
 - **Role**: Former Adventurer,Druid,Merchant
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/18 The Marrowsucker Contract\|18 The Marrowsucker Contract]]
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/19 The Marrowsucker Contract\|19 The Marrowsucker Contract]]
 
 ### Attributes
 - **Voice**: High pitched, says "hoo-hoo" like an owl a lot

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-03T09:55:09.000-04:00","modified":"2025-10-03T10:12:17.288-04:00","published":"2025-10-03T10:12:17.288-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":1250,"Population":22000,"Affiliation":["[[The Vlorn Dynasty]]"],"Government":["[[High Lord Jorad Kranicz]]","The Matron Mothers"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[Adventures/03 Vlorngroth - The Forge of Dingon]]","[[19 Vlorngroth - 2 Manor 2 Madness]]"]}
+{"publish":true,"created":"2025-10-03T09:55:09.000-04:00","modified":"2025-10-03T15:48:55.172-04:00","published":"2025-10-03T15:48:55.172-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":1250,"Population":22000,"Affiliation":["[[The Vlorn Dynasty]]"],"Government":["[[High Lord Jorad Kranicz]]","The Matron Mothers"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[Adventures/03 Vlorngroth - The Forge of Dingon]]","[[20 Vlorngroth - 2 Manor 2 Madness]]","[[27 Vlorngroth - Vampire Weekday]]"]}
 ---
 
 ![[z_assets/vlorngroth.png]]
@@ -17,7 +17,7 @@
 - **Population**: 22000
 - **Affiliation**: [[Factions/The Vlorn Dynasty\|The Vlorn Dynasty]]
 - **Government:** [[High Lord Jorad Kranicz\|High Lord Jorad Kranicz]],The Matron Mothers
-- **Appearances:**  [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/03 Vlorngroth - The Forge of Dingon\|03 Vlorngroth - The Forge of Dingon]],[[Adventures/19 Vlorngroth - 2 Manor 2 Madness\|19 Vlorngroth - 2 Manor 2 Madness]]
+- **Appearances:**  [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/03 Vlorngroth - The Forge of Dingon\|03 Vlorngroth - The Forge of Dingon]],[[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|20 Vlorngroth - 2 Manor 2 Madness]],[[Adventures/27 Vlorngroth - Vampire Weekday\|27 Vlorngroth - Vampire Weekday]]
 
 ### Attributes
 - **Appearance**: 

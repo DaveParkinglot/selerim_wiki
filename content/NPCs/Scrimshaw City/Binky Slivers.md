@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:46:27.323-04:00","published":"2025-10-03T09:46:27.323-04:00","cssclasses":"","Age":"267","Ancestry":["Rakshasa"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Bartender","Dealer","Fixer"],"Affiliation":["Tavernstool"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[20 Spring Cleaning in Scrimshaw City]]"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T15:48:54.792-04:00","published":"2025-10-03T15:48:54.792-04:00","cssclasses":"","Age":"267","Ancestry":["Rakshasa"],"Gender":"Male","Location":["[[Locations/Scrimshaw City]]"],"Role":["Bartender","Dealer","Fixer"],"Affiliation":["Tavernstool"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[21 Spring Cleaning in Scrimshaw City]]"]}
 ---
 
 
@@ -16,7 +16,7 @@
 - **Location**: [[Locations/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Bartender,Dealer,Fixer
 - **Affiliation:** Tavernstool
-- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/20 Spring Cleaning in Scrimshaw City\|20 Spring Cleaning in Scrimshaw City]]
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/21 Spring Cleaning in Scrimshaw City\|21 Spring Cleaning in Scrimshaw City]]
 
 ### Attributes
 - **Voice**: Deep but calm?

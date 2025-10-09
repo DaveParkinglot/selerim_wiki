@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T09:40:40.742-04:00","published":"2025-10-03T09:40:40.742-04:00","cssclasses":"","Age":"64","Ancestry":"Gnome","Gender":"Male","Location":["[[Locations/Crabbley]]","The Cronium Caves"],"Role":["Gnome Diplomat"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[05 The Hunt for Pill'Grim]]","[[21 The Crimsonclaw Bounty]]"]}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-03T15:48:54.914-04:00","published":"2025-10-03T15:48:54.914-04:00","cssclasses":"","Age":"64","Ancestry":"Gnome","Gender":"Male","Location":["[[Locations/Crabbley]]","The Cronium Caves"],"Role":["Gnome Diplomat"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[05 The Hunt for Pill'Grim]]","[[22 The Crimsonclaw Bounty]]"]}
 ---
 
 
@@ -17,7 +17,7 @@
 [[Adventures/05 The Hunt for Pill'Grim\|The Hunt for Pill'Grim]]
 - Bopus recruited brave adventurers to assist in hunting down a villainous turkey automaton created by [[NPCs/Tanglewood Peninsula/Dillon Lonergan]] in this multiversal romp.
 
-[[Adventures/21 The Crimsonclaw Bounty\|The Crimonclaw Bounty]]
+[[Adventures/22 The Crimsonclaw Bounty\|The Crimonclaw Bounty]]
 - While carousing at the Crab Claw Inn, Bopus provided the details and the map of Crimsonclaw's suspected location to a fledgling adventuring party.
 
 [[Selerim 5K]]
@@ -30,7 +30,7 @@
 - **Location**: [[Locations/Crabbley\|Crabbley]],The Cronium Caves
 - **Role**: Gnome Diplomat
 - **Affiliation:** Cronium Gnomes
-- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/05 The Hunt for Pill'Grim\|05 The Hunt for Pill'Grim]],[[Adventures/21 The Crimsonclaw Bounty\|21 The Crimsonclaw Bounty]]
+- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/05 The Hunt for Pill'Grim\|05 The Hunt for Pill'Grim]],[[Adventures/22 The Crimsonclaw Bounty\|22 The Crimsonclaw Bounty]]
 
 ### Attributes
 - **Voice**: High pitched and annoying

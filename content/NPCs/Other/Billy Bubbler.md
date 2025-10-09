@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-12T08:58:27.000-04:00","modified":"2025-10-03T09:49:32.050-04:00","published":"2025-10-03T09:49:32.050-04:00","cssclasses":"","Age":"174","Ancestry":"Fiend (Devil), Sahuagin","Gender":"Male","Location":["Boater's Bay"],"Role":["Sahuagin Baron"],"Affiliation":["None"],"Appearances":["[[24 The Hellnight Soirée]]"]}
+{"publish":true,"created":"2025-08-12T08:58:27.000-04:00","modified":"2025-10-03T15:48:55.112-04:00","published":"2025-10-03T15:48:55.112-04:00","cssclasses":"","Age":"174","Ancestry":"Fiend (Devil), Sahuagin","Gender":"Male","Location":["Boater's Bay"],"Role":["Sahuagin Baron"],"Affiliation":["None"],"Appearances":["[[25 The Hellnight Soirée]]"]}
 ---
 
 

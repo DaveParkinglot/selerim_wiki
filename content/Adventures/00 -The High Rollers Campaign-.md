@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T11:19:09.000-04:00","modified":"2025-09-29T08:54:43.382-04:00","published":"2025-09-29T08:54:43.382-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"],"Sessions":69,"Start Date":"2022-07-25","End Date":"2024-05-24"}
+{"publish":true,"created":"2025-07-25T11:19:09.000-04:00","modified":"2025-10-08T12:03:19.001-04:00","published":"2025-10-08T12:03:19.001-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"],"Sessions":69,"Start Date":"2022-07-25","End Date":"2024-05-24"}
 ---
 
 The OG campaign.
@@ -24,7 +24,7 @@ The OG campaign.
 | George | [[Eros]]                                                        | Satyr             | Bard         |
 | George | [[P3360 TUR60]]                                                 | Warforged         | Rogue        |
 | Fisher | [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]]                                              | Owlin             | Druid        |
-# Key Adventures/Quests
+# Adventures/Quests
 
 ## Free the Tanglewood Peninsula
 
@@ -53,12 +53,12 @@ The OG campaign.
 - Long live the new King of Tiialia: Nino Esposito.
 
 
-## Destroy The Master
+## Destroy "The Master"
 
 ### Adventure Premise
 - Kill the lich [[NPCs/Deceased/Master Effree Jypstein\|Effree Jypstein]] also known as "The Master" and eliminate the threat of his undead hordes to the world of Selerim.
 ### Outcomes
-- With the help of [[NPCs/Vlorngroth/Carbuckle Duskshot]], The High Rollers snuck through The Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
+- With the help of [[NPCs/Vlorngroth/Carbuckle Duskshot]], The High Rollers snuck out of [[Locations/Nova Jersaeria]], and delved through the Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
 - Effree Jypstein was killed and his phylactery was destroyed.
 
 
