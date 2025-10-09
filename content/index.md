@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Welcome to Selerim","created":"2025-07-02T19:01:27.000-04:00","modified":"2025-10-09T16:24:18.264-04:00","published":"2025-10-09T16:24:18.264-04:00","cssclasses":""}
+{"publish":true,"title":"Welcome to Selerim","created":"2025-07-02T19:01:27.000-04:00","modified":"2025-10-09T16:44:50.535-04:00","published":"2025-10-09T16:44:50.535-04:00","cssclasses":""}
 ---
 
 Wiki page for worldbuilding and information about the Selerim and Selerim 5K D&D campaign settings.
@@ -12,9 +12,8 @@ Wiki page for worldbuilding and information about the Selerim and Selerim 5K D&D
 - [[NPCs by Location]] - helpful list of relevant (and irrelevant) NPCs
 - [[Adventure Log]] - catalog of past adventures
 
-
 ### Interactive Map:
-*[[Places/The Inhabitable Lands\|The Inhabitable Lands of Selerim]] *
+*[[Places/The Inhabitable Lands\|The Inhabitable Lands of Selerim]]*
 > [!map|minZoom:-2-maxZoom:3-zoomStep:0.5] InteractiveMap
 > ![[z_assets/selerim_map.png]]
 

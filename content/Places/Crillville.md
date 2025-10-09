@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Crillville","created":"2025-10-09T14:45:41.000-04:00","modified":"2025-10-09T15:40:24.700-04:00","published":"2025-10-09T15:40:24.700-04:00","cssclasses":"","Type":["Town"],"Age (years)":80,"Population":2500,"Affiliation":["[[Tanglewood Defense Council]]"],"Government":["[[NPCs/Tanglewood Peninsula/Dick Gunbarrel]]"],"marker":null}
+{"publish":true,"title":"Crillville","created":"2025-10-09T14:45:41.000-04:00","modified":"2025-10-09T16:44:40.729-04:00","published":"2025-10-09T16:44:40.729-04:00","cssclasses":"","Type":["Town"],"Age (years)":80,"Population":2500,"Affiliation":["[[Tanglewood Defense Council]]"],"Government":["[[NPCs/Tanglewood Peninsula/Dick Gunbarrel]]"],"marker":{"mapName":"InteractiveMap","x":1590,"y":565,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/crillville.png|600]]

@@ -1,8 +1,8 @@
 ---
-{"publish":true,"title":"Corrodreth, The Salted City","created":"2023-09-02T09:43:46.000-04:00","modified":"2025-10-09T16:33:19.770-04:00","published":"2025-10-09T16:33:19.770-04:00","cssclasses":"","Type":["Desolate Ruin"],"Age (years)":1800,"marker":null}
+{"publish":true,"title":"Corrodreth, The Salted City","created":"2023-09-02T09:43:46.000-04:00","modified":"2025-10-09T16:43:34.615-04:00","published":"2025-10-09T16:43:34.615-04:00","cssclasses":"","Type":["Desolate Ruin"],"Age (years)":1800,"marker":{"mapName":"InteractiveMap","x":92,"y":80,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
-![[z_assets/Pasted image 20251009152449.png|600]]
+![[z_assets/corrodreth.png|600]]
 
 ### Overview
 - Known in these times as "The Salted City", the desolate ruins of Corrodreth are talked of in hushed tones by citizens of [[Factions/The Kingdom of Tiialia/Tiialia]].

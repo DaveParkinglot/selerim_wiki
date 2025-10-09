@@ -7,7 +7,7 @@
 ### Overview
 - Mournholde, the City of the Dead, has become a bastion for those who would prefer to live in death than to face the uncertainties of the afterlife.
 	- It is not uncommon for an elderly or sick person to attempt the journey to Mournholde, before their time is up.
-	- For those who cannot afford to journey to the city, [[Factions/Ghoulfen Island/The Necronaut of Mournholde]] lottery system takes 50 willing souls to Mournholde to become undead eternals.
+	- For those who cannot afford to journey to the city, [[Selerim Worldbuilding/Lore/The Necronaut of Mournholde]] lottery system takes 50 willing souls to Mournholde to become undead eternals.
 - The city was founded by the adventurer [[Factions/Ghoulfen Island/Galgitch, The Afterking\|Galgitch]], who is now known as "The Afterking". Mournholde was built atop the ruined necropolis of a lich he and his adventuring party vanquished.
 - Nothing that dies on Ghoulfen Island stays dead. Some say attribute this to the nearby Ghoulfen River being a phantom tributary of the River Styx.
 
