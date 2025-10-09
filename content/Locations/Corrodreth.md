@@ -1,5 +1,0 @@
-- Known in these days as "The Salted City", it is rarely talked about by citizens of [[The Kingdom of Tiialia]]
-- Now a desolate ruin, occasionally sparking with magical energies 
-- Something dark lurks in the deepest antechambers of the ruined city….
-- Destroyed by Tiialia generations ago, the city was ruled by the yuan-ti serpent people
-- The Tiialans salted it and the surrounding area after the decade long "Serpent Wars"
