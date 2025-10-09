@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:23:36.188-04:00","published":"2025-09-29T09:23:36.188-04:00","cssclasses":"","DM":"Jordan","Players":["Michael","Bishop","Mike Doom","Bucher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-09-12"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T16:57:26.841-04:00","published":"2025-10-09T16:57:26.841-04:00","cssclasses":"","DM":"Jordan","Players":["Michael","Bishop","Mike Doom","Bucher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-09-12"}
 ---
 
 ## Details
@@ -8,7 +8,7 @@
 - **Sessions:** 1
 
 ## Adventure Premise
-- It has been 3 months since the brave and patriotic adventuring party ISIS-T slew Ringleader Redtusk on behalf of Dick Gunbarrel and the [[Crillville Defense Force (CDF)]]. Somehow, in this short span of time, an even more insidious threat has arisen...
+- It has been 3 months since the brave and patriotic adventuring party ISIS-T slew Ringleader Redtusk on behalf of Dick Gunbarrel and the [[Crillville Defense Force]] (CDF). Somehow, in this short span of time, an even more insidious threat has arisen...
 - Across the channel north of [[Places/Crillville]], Redtusk's half-brother Boss Renton has amassed a veritable empire of goblins, a horde unheard of. This Rentpire (as he calls it) has spent these months gathering great hoards of iron. Surviving CDF scouts are baffled as to where all this iron is coming from, but it continues to be used to create crude, boat-like watercrafts. One thing is for sure: an aquatic goblin invasion is sure to come to Crillville, and soon.
 
 ## Outcomes

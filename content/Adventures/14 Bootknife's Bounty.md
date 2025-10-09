@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-01T11:21:59.386-04:00","published":"2025-10-01T11:21:59.386-04:00","cssclasses":"","DM":"Jordan","Players":["Brian","Mike Doom","Ethan","David"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-30"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T16:58:11.435-04:00","published":"2025-10-09T16:58:11.435-04:00","cssclasses":"","DM":"Jordan","Players":["Brian","Mike Doom","Ethan","David"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-30"}
 ---
 
 ## Details
@@ -8,8 +8,8 @@
 - **Sessions:** 1
 
 ## Adventure Premise
-- You are travelers on the sailing ship The Dankwood Express, heading west from the Tanglewood Peninsula (Crillville, Crabbley, Mitlin, Oasis, or Scrimshaw City). Your course is set for many destinations in The Great Delphin Sea (Breakwater Cove, Forsyth Keep, The White Grove, Nova Jersaeria). Where are you leaving and where are you heading to? And more importantly, why?
-- During the journey, you are approached by a goblin cabin boy named Gubbins. He says that his Ol' Uncle [[NPCs/Other/Bootknife]] has a big job coming up out of Breakwater Cove, and that he needs a good crew. The payout seems sizeable, but you'll want to meet this Bootknife fellow first…
+- You are travelers on the sailing ship The Dankwood Express, heading west from the Tanglewood Peninsula ([[Places/Crillville]], [[Places/Crabbley]], [[Places/Mitlin]], [[Oasis]], or [[Places/Scrimshaw City]]). Your course is set for many destinations in The Great Delphin Sea ([[Breakwater Cove]], [[Places/Forsyth Keep]], [[Places/The White Grove]], [[Places/Nova Jersaeria]]). Where are you leaving and where are you heading to? And more importantly, why?
+- During the journey, you are approached by a goblin cabin boy named [[Gubbins]]. He says that his Ol' Uncle [[NPCs/Other/Bootknife]] has a big job coming up out of Breakwater Cove, and that he needs a good crew. The payout seems sizeable, but you'll want to meet this Bootknife fellow first…
 
 ## Outcomes
 - After a run-in with Captain Ghaster, captain of [[Places/Mournholde]] necronaut The Slow Decline, the party was attacked by zombie rats and left for dead.

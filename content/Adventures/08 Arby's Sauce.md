@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:12:41.081-04:00","published":"2025-09-29T09:12:41.081-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Platform":"Foundry","Sessions":2,"Start Date":"2024-02-20","End Date":"2024-02-27"}
+{"publish":true,"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T16:56:50.995-04:00","published":"2025-10-09T16:56:50.995-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Platform":"Foundry","Sessions":2,"Start Date":"2024-02-20","End Date":"2024-02-27"}
 ---
 
 ## Details
@@ -8,7 +8,7 @@
 - **Sessions:** 2
 
 ## Adventure Premise
-- As an up and coming adventuring party in [[Places/Scrimshaw City]], you have been approached by a mysterious stranger named [[NPCs/Scrimshaw City/Loeb]] who claims to be the Interim Chief Operating Officer of a well known business in the city. He has a task that, left undone, could spell doom for the local Tiialan eatery “[[The Spicy Meatball]]”.
+- As an up and coming adventuring party in [[Places/Scrimshaw City]], you have been approached by a mysterious stranger named [[NPCs/Scrimshaw City/Loeb]] who claims to be the Interim Chief Operating Officer of a well known business in the city. He has a task that, left undone, could spell doom for the local Tiialan eatery “The Spicy Meatball”.
 
 ## Outcomes
 - After navigating through the Scrimshaw Wilds and the devious cave hideout of the redcap Fumbo Bimpis, the party was overwhelmed by tricksy fey and a diabolical Giant Goose. Rather than face imprisonment by the fey, the last conscious adventurer in the party pulled the pin on a Gnome-Nade, killing everyone (and the Giant Goose) instantly.
