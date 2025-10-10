@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T11:19:09.000-04:00","modified":"2025-10-09T16:55:28.395-04:00","published":"2025-10-09T16:55:28.395-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"],"Sessions":70,"Start Date":"2022-07-25","End Date":"2024-05-24"}
+{"publish":true,"created":"2025-07-25T11:19:09.000-04:00","modified":"2025-10-10T10:19:53.107-04:00","published":"2025-10-10T10:19:53.107-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"],"Sessions":70,"Start Date":"2022-07-25","End Date":"2024-05-24"}
 ---
 
 The OG campaign.
@@ -17,7 +17,7 @@ The OG campaign.
 | Logan | [[NPCs/Tiialia/Bancil Nobeltrim]]                                            | Half-Elf          | Paladin      |
 | Logan | [[Player Characters/The High Rollers/Lorundil the Wanderer]]                                       | Half-Elf          | Warlock      |
 | Michael | [[Player Characters/The High Rollers/Otieno]]                                                      | Elf               | Ranger       |
-| Michael | Otieno, Reborn                                                  | Elf, Dragonmarked | Ranger       |
+| Michael | [[Player Characters/The High Rollers/Otieno]], Reborn                                                  | Elf, Dragonmarked | Ranger       |
 | Mike Doom | [[NPCs/Scrimshaw City/Hugh Mann]]                                                   | Human             | Wizard       |
 | Mike Doom | [[Player Characters/The High Rollers/Francis Greenstrider De Luca\|Frankie "Greenstider" De Luca]] | Half-Elf          | Druid/Cleric |
 | Peter | [[Player Characters/The High Rollers/Tadeusz]]                                                     | Human             | Blood Hunter |
@@ -31,8 +31,8 @@ The OG campaign.
 ### Adventure Premise
 - End the threat to [[Places/Crabbley]] and [[Places/Crillville]] by eliminating [[NPCs/Deceased/Malmstein the Tangler]] and his terroristic druid organization [[The Tanglers]].
 ### Outcomes
-- The forces of Crabbley and Crillville retook Crillville after it was occupied by The Tanglers.
-- In the final confrontation, The High Rollers struck down Malmstein, who was summarily executed by [[NPCs/Tanglewood Peninsula/Dick Gunbarrel]].
+- The forces of [[Places/Crabbley]] and [[Places/Crillville]] retook [[Places/Crillville]] after it was occupied by The Tanglers.
+- In the final confrontation, [[Player Characters/The High Rollers/The High Rollers]] struck down Malmstein, who was summarily executed by [[NPCs/Tanglewood Peninsula/Dick Gunbarrel]].
 
 
 ## Depose Lord Davos Portnoir
@@ -40,7 +40,7 @@ The OG campaign.
 ### Adventure Premise
 - Bring rent reductions and prosperity to [[Places/Scrimshaw City]] by defeating [[NPCs/Deceased/Lord Davos Portnoir]] and his [[Tavernstool]] fanatics.
 ### Outcomes
-- Lord Davos Portnoir was sent screaming back to the Nine Hells, and Hugh Mann became the new El Presidente of Scrimshaw City.
+- [[NPCs/Deceased/Lord Davos Portnoir]] was sent screaming back to the Nine Hells, and [[NPCs/Scrimshaw City/Hugh Mann]] became the new El Presidente of [[Places/Scrimshaw City]].
 
 
 ## Restore the Tiialan Royal Line
@@ -50,7 +50,7 @@ The OG campaign.
 - Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[NPCs/Tiialia/Antonino Esposito]].
 ### Outcomes
 - The tyrant [[NPCs/Deceased/Lord Draco Landucci]] was overthrown by [[Player Characters/The High Rollers/The High Rollers]] and Antonino "Nino" Esposito.
-- Long live the new King of Tiialia: Nino Esposito.
+- Long live the new King of [[Factions/The Kingdom of Tiialia/Tiialia]]: Nino Esposito.
 
 
 ## Destroy "The Master"
@@ -58,7 +58,7 @@ The OG campaign.
 ### Adventure Premise
 - Kill the lich [[NPCs/Deceased/Master Effree Jypstein\|Effree Jypstein]] also known as "The Master" and eliminate the threat of his undead hordes to the world of Selerim.
 ### Outcomes
-- With the help of [[NPCs/Vlorngroth/Carbuckle Duskshot]], The High Rollers snuck out of [[Places/Nova Jersaeria]], and delved through the Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
+- With the help of [[NPCs/Vlorngroth/Carbuckle Duskshot]], [[Player Characters/The High Rollers/The High Rollers]] snuck out of [[Places/Nova Jersaeria]], and delved through the Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
 - Effree Jypstein was killed and his phylactery was destroyed.
 
 
@@ -71,16 +71,16 @@ The OG campaign.
 - Tzastis is said to collect mortals like trophies in a location called "[[The Fathomless Vault]]", which is said to have many entrances on the material plane. One such entrance may be in [[The Trackless Mire]], according to [[NPCs/Other/Myrrdin Turftoe]].
 
 ### Outcomes
-- The High Rollers did not play their best hand, and were soundly defeated after venturing into The Fathomless Vault and exploring several of Tzastis' exhibits.
-- The High Rollers along with their old friends [[Maldoy]] and [[Eros]] are now on display as Tzastis the Collector's 900th exhibit: The Spicy Meatball.
-- The wider world does not know the fate of The High Rollers, and though they may be forgotten, it is possible that someone will rescue them from this terrible and seemingly permanent fate.
+- [[Player Characters/The High Rollers/The High Rollers]] did not play their best hand, and were soundly defeated after venturing into The Fathomless Vault and exploring several of Tzastis' exhibits.
+- [[Player Characters/The High Rollers/The High Rollers]] along with their old friends [[Maldoy]] and [[Eros]] are now on display as [[NPCs/Other/Tzastis the Collector]]'s 900th exhibit: The Spicy Meatball.
+- The wider world does not know the fate of [[Player Characters/The High Rollers/The High Rollers]], and though they may be forgotten, it is possible that someone will rescue them from this terrible and seemingly permanent fate.
 
 
 ## Archfey Assistance
 
 ### Adventure Premise
 - **[[NPCs/Other/Skitterdream]]'s Requests:**
-  "I entreat you on behalf of the opponents of The Black Prince. After these threats to your material plane are dealt with, the services of The High Rollers will soon be needed by an archfey of the summer court. To aid you in your current quests, and with the hope of receiving your help at its end, I have given you a powerful boon: the experience of dreams, and a single Quickdream Potion. Forget it not."
+  "I entreat you on behalf of the opponents of The Black Prince. After these threats to your material plane are dealt with, the services of [[Player Characters/The High Rollers/The High Rollers]] will soon be needed by an archfey of the summer court. To aid you in your current quests, and with the hope of receiving your help at its end, I have given you a powerful boon: the experience of dreams, and a single Quickdream Potion. Forget it not."
 - **The Wreath of [[Naviask]]:**
   "The wreath that you once found must be recovered, as it contains the instructions from Naviask, the Blooming Balor. The instructions are known only to Naviask, and he has disappeared, perhaps killed or imprisoned by The Black Prince."
 - The Wreath of Naviask was last carried by [[Eros]]. Basically it sounds like the wreath may have many crucial voicemails on it from Naviask…
@@ -108,7 +108,7 @@ The OG campaign.
 
 ### Adventure Premise
 - **The High Lord's Proclamation:**
-  Prevent the Vlorn and [[NPCs/Other/Proklor the Despoiler]] from conquering the Kingdom of Tiialia, and potentially the whole world…
+  Prevent the Vlorn and [[NPCs/Other/Proklor the Despoiler]] from conquering the Kingdom of [[Factions/The Kingdom of Tiialia/Tiialia]], and potentially the whole world…
 
 ### Outcomes
 - Never completed.

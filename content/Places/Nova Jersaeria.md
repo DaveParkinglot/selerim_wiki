@@ -1,13 +1,13 @@
 ---
-{"publish":true,"title":"Nova Jersaeria","created":"2025-09-18T08:29:38.000-04:00","modified":"2025-10-09T15:40:39.266-04:00","published":"2025-10-09T15:40:39.266-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":250,"Population":95000,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"[[Antonino Esposito|King Antonino Esposito I]]","Appearances":["[[00 -The High Rollers Campaign-]]","[[23 The Great Tiialan Heist]]"],"marker":{"mapName":"InteractiveMap","x":1095,"y":100,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"Nova Jersaeria","created":"2025-09-18T08:29:38.000-04:00","modified":"2025-10-10T10:19:39.878-04:00","published":"2025-10-10T10:19:39.878-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":250,"Population":95000,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"[[Antonino Esposito|King Antonino Esposito I]]","Appearances":["[[00 -The High Rollers Campaign-]]","[[23 The Great Tiialan Heist]]"],"marker":{"mapName":"InteractiveMap","x":1095,"y":100,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/nova_jersaeria.png|800]]
 
 ### Overview
 - The greatest city of this age, the Tiialan capital city has grown greatly since it was founded with the help of [[NPCs/Deceased/Geblorgurin the Grand]] some 250 years ago.
-- The line of the old Tiialan Kings was thought to have been snuffed out with King Seraphino's death at the First Siege of Corrodreth, during the decades long Serpent Wars. 
-- Tiialia was without a true king of royal lineage until [[NPCs/Tiialia/Antonino Esposito]]'s true heritage was discovered by [[Player Characters/The High Rollers/Francis Greenstrider De Luca\|Francis "Frankie" Greenstrider]] of The High Rollers. 
+- The line of the old Tiialan Kings was thought to have been snuffed out with King Seraphino's death at the First Siege of [[Places/Corrodreth]], during the decades long [[Selerim Worldbuilding/Events/Serpent Wars]]. 
+- [[Factions/The Kingdom of Tiialia/Tiialia]] was without a true king of royal lineage until [[NPCs/Tiialia/Antonino Esposito]]'s true heritage was discovered by [[Player Characters/The High Rollers/Francis Greenstrider De Luca\|Francis "Frankie" Greenstrider]] of [[Player Characters/The High Rollers/The High Rollers]]. 
 - With this knowledge, the traitor [[NPCs/Deceased/Lord Draco Landucci]] and his puppet King Adonzio were thwarted and deposed, respectively.
 
 ### Key Details

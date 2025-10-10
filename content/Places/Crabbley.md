@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"Crabbley","created":"2025-09-17T12:39:25.000-04:00","modified":"2025-10-09T15:40:21.664-04:00","published":"2025-10-09T15:40:21.664-04:00","cssclasses":"","Type":["Town"],"Age (years)":25,"Population":800,"Affiliation":["None"],"Government":"[[The Crabbley Council]]","Appearances":["[[00 -The High Rollers Campaign-]]","[[05 The Hunt for Pill'Grim]]","[[Adventures/13 The Haunted Flakes Factory]]","[[22 The Crimsonclaw Bounty]]"],"marker":{"mapName":"InteractiveMap","x":1485,"y":530,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"Crabbley","created":"2025-09-17T12:39:25.000-04:00","modified":"2025-10-10T10:19:53.098-04:00","published":"2025-10-10T10:19:53.098-04:00","cssclasses":"","Type":["Town"],"Age (years)":25,"Population":800,"Affiliation":["None"],"Government":"[[The Crabbley Council]]","Appearances":["[[00 -The High Rollers Campaign-]]","[[05 The Hunt for Pill'Grim]]","[[Adventures/13 The Haunted Flakes Factory]]","[[22 The Crimsonclaw Bounty]]"],"marker":{"mapName":"InteractiveMap","x":1485,"y":530,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/crabbley.png|300]]   ![[z_assets/crabbley_topdown.png|450]]
 ### Overview
 - Home of the [[Cult of the Crab]], the famous Soggy Bottom Tavern, the Crab Claw Inn, and so many other fantastic places to take your family!  Come visit scenic Crabbley with your family and get one free commemorative item from [[Player Characters/The High Rollers/The High Rollers]] gift shop. 
 - Crabbley is a sleepy fishing village without much going on, but adventurers are common here because it's on the edge of a great frontier—the Tanglewood Wilds.
-- Crabbley was founded by settlers migrating from the northern town of [[Places/Crillville]]. After [[The Tanglers]] committed atrocities in both Crabbley and Crillville, the two towns created a joint defense force.
+- Crabbley was founded by settlers migrating from the northern town of [[Places/Crillville]]. After [[The Tanglers]] committed atrocities in both Crabbley and [[Places/Crillville]], the two towns created a joint defense force.
 
 ### Key Details
 - **Type**: Town

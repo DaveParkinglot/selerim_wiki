@@ -11,8 +11,8 @@ Do NOT bar entry for these two. Even a *mote* of their powers could ruin this wo
 ### Pazuzu, Dark Angel of the Four Winds
 - A storied demon, and the eldest child of the abyss.
 - He is one of the only demon lords with good relations with Asmodeus, Lord of Hell.
-- Some legends say it was Pazuzu himself who corrupted Asmodeus. Other legends say they are just great drinking buddies.
-![[z_assets/pazuzu.png|300]]
+- Some legends say it was [[NPCs/Other/Pazuzu]] himself who corrupted Asmodeus. Other legends say they are just great drinking buddies.
+![[[[Pazuzu]].png|300]]
 
 ## Diaboli Non-Grata 
 Absolutely do NOT let these jokers into my party!
@@ -20,7 +20,7 @@ Absolutely do NOT let these jokers into my party!
 ### Humana
 - [[NPCs/Scrimshaw City/Hugh Mann]]'s older sister, by his own account, is probably the reason he became a devil in the first place. She lives to torment mortals, and her younger brother.
 - As a night hag, she is more than happy to receive favors and gifts. Try this angle if she simply will not leave.
-![[z_assets/humana.png|300]]
+![[[[Humana]].png|300]]
 
 ### Billy Bubbler the Fish Devil
 - Billy and his sahuagin followers claim the waters west of Scrimshaw.
