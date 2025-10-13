@@ -6,7 +6,7 @@ on:
       - v4
  
 env:
-  THEME_NAME: heboric
+  THEME_NAME: reverie
  
 permissions:
   contents: read
