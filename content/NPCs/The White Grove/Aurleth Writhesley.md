@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-10-15T10:42:10.064-04:00","modified":"2025-10-15T10:57:19.164-04:00","published":"2025-10-15T10:57:19.164-04:00","cssclasses":"","Age":"22","Ancestry":["Elf"],"Gender":"Male","Location":["[[Places/The White Grove]]"],"Role":["Student","Sophomore","Entrepreneur"],"Affiliation":["[[Places/Mitlin]]"],"Appearances":["[[26 The White Grove - Summer Vacation]]"]}
+{"publish":true,"created":"2025-10-15T10:42:10.064-04:00","modified":"2025-10-15T11:11:12.488-04:00","published":"2025-10-15T11:11:12.488-04:00","cssclasses":"","Age":"22","Ancestry":["Elf"],"Gender":"Male","Location":["[[Places/The White Grove]]"],"Role":["Student","Sophomore","Entrepreneur"],"Affiliation":["[[Places/Mitlin]]"],"Appearances":["[[26 The White Grove - Summer Vacation]]"]}
 ---
 
 
-![[z_assets/Pasted image 20251015104236.png|300]]
+![[z_assets/aurleth_writhesley.png|300]]
 
 ### Overview
 - A hoity toity elf from [[Places/Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[The White Grove]].
