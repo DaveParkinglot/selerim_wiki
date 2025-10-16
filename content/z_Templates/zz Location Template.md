@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-27T17:17:32.000-04:00","modified":"2025-10-09T14:54:35.278-04:00","published":"2025-10-09T14:54:35.278-04:00","cssclasses":"","Type":null,"Age (years)":null,"Population":null,"Affiliation":null,"Government":null,"title":null,"marker":null}
+{"publish":true,"created":"2025-10-16T09:27:59.000-04:00","modified":"2025-10-16T09:27:59.000-04:00","published":"2025-10-16T09:27:59.000-04:00","cssclasses":"","Type":null,"Age (years)":null,"Population":null,"Affiliation":null,"Government":null,"title":null,"marker":null}
 ---
 
 ![[Location.webp\|300]]

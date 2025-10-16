@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:11:16.624-04:00","published":"2025-10-16T14:11:16.624-04:00","cssclasses":"","Age":"29","Ancestry":"Half-Elf","Gender":"Male","Location":["[[Nova Jersaeria]]"],"Role":["Former Member of The High Roller, Paladin, Family Guy"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:22:02.508-04:00","published":"2025-10-16T14:22:02.508-04:00","cssclasses":"","Age":"29","Ancestry":"Half-Elf","Gender":"Male","Location":["[[Nova Jersaeria]]"],"Role":["Former Member of The High Roller, Paladin, Family Guy"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/bancil_nobeltrim.png|300]]
@@ -38,5 +38,6 @@ Originally Logan's player character from [[Adventures/00 The High Rollers Campai
 
 # Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name               | Relationship     |
+| ------------------ | ---------------- |
+| [[NPCs/Tanglewood Peninsula/Dick Gunbarrel]] | Childhood Savior |

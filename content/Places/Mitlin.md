@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Mitlin","created":"2025-09-24T08:16:34.000-04:00","modified":"2025-10-09T15:40:31.921-04:00","published":"2025-10-09T15:40:31.921-04:00","cssclasses":"","Type":["Town"],"Age (years)":120,"Population":3200,"Affiliation":["None"],"Government":["The Oaken Conclave","The Wise Wizards"],"Appearances":["[[00 -The High Rollers Campaign-]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[16 Kindlethicket - The Winter Hunt]]","[[19 The Marrowsucker Contract]]"],"marker":{"mapName":"InteractiveMap","x":1645,"y":515,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"Mitlin","created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:17:50.364-04:00","published":"2025-10-16T14:17:50.364-04:00","cssclasses":"","Type":["Town"],"Age (years)":120,"Population":3200,"Affiliation":["None"],"Government":["The Oaken Conclave","The Wise Wizards"],"Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]","[[15 Kindlethicket - Envoys of Mitlin|Kindlethicket - Envoys of Mitlin]]","[[16 Kindlethicket - The Winter Hunt|Kindlethicket - The Winter Hunt]]","[[19 The Marrowsucker Contract|The Marrowsucker Contract]]"],"marker":{"mapName":"InteractiveMap","x":1645,"y":515,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/mitlin.png|500]]
@@ -15,7 +15,7 @@
 - **Population**: 3200
 - **Affiliation**: None
 - **Government:** The Oaken Conclave,The Wise Wizards
-- **Appearances:**  [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/16 Kindlethicket - The Winter Hunt\|16 Kindlethicket - The Winter Hunt]],[[Adventures/19 The Marrowsucker Contract\|19 The Marrowsucker Contract]]
+- **Appearances:**  [[Adventures/00 The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/15 Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/16 Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]],[[Adventures/19 The Marrowsucker Contract\|The Marrowsucker Contract]]
 
 ### Attributes
 - **Appearance**: 

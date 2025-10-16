@@ -1,29 +1,29 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-09T15:37:17.402-04:00","published":"2025-10-09T15:37:17.402-04:00","cssclasses":"","Age":"17","Ancestry":"Tiefling","Gender":"Male","Location":["[[Places/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[24 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:06:11.543-04:00","published":"2025-10-16T14:06:11.543-04:00","cssclasses":"","Age":"17","Ancestry":"Tiefling","Gender":"Male","Location":["[[Places/The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[24 The White Grove- First Semester|The White Grove- First Semester]]","[[26 The White Grove - Summer Vacation|The White Grove - Summer Vacation]]"],"Status":"Alive"}
 ---
-
 
 ![[z_assets/stibby_flimstock.png|300]]
 
-### Overview
+# Overview
 - A tiefling student at [[The White Grove]] who is very uncertain and bad at infernal magic.
 
-### Key Details
+# Key Details
 - **Age**: 17
 - **Ancestry**: Tiefling
 - **Gender**: Male
 - **Location**: [[Places/The White Grove\|The White Grove]]
 - **Role**: Student,Freshman
 - **Affiliation:** None
-- **Appearances:** [[Adventures/24 The White Grove- First Semester\|24 The White Grove- First Semester]]
+- **Appearances:** [[Adventures/24 The White Grove- First Semester\|The White Grove- First Semester]],[[Adventures/26 The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
+- **Status:** Alive
 
-### Attributes
+# Attributes
 - **Voice**: High pitched and unsure
 - **Traits**: 
 - **Goals:** 
 - **Appearance**: 
 
-### Relationships
+# Relationships
 
 | Name                      | Relationship |
 | ------------------------- | ------------ |
