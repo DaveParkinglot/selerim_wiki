@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:54:13.035-04:00","published":"2025-10-16T14:54:13.035-04:00","cssclasses":"","Age":"??","Ancestry":"Fey Dragon","Gender":"Male","Location":["Varies"],"Role":["Fey Messenger"],"Affiliation":["The Summer Court"],"Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T15:16:22.591-04:00","published":"2025-10-16T15:16:22.591-04:00","cssclasses":"","Age":"9","Ancestry":"Fey Dragon","Gender":"Male","Location":["Varies"],"Role":["Fey Messenger"],"Affiliation":["The Summer Court"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/skitterdream.png|300]]
@@ -13,13 +13,13 @@
 - The Wreath of Naviask was last carried by Eros. Basically it sounds like the wreath may have many crucial voicemails on it from the being known as Naviask
 
 # Key Details
-- **Age**: ??
+- **Age**: 9
 - **Ancestry**: Fey Dragon
 - **Gender**: Male
 - **Location**: Varies
 - **Role**: Fey Messenger
 - **Affiliation:** The Summer Court
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes

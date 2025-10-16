@@ -1,17 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Bishop
-- Mike Doom
-- Jimmy
-- Evan
-- Ethan
-Platform: Roll20
-Sessions: 1
-Start Date: 2023-08-17
-aliases:
-- Vlorngroth - The Forge of Dingon
+{"publish":true,"aliases":["Vlorngroth - The Forge of Dingon"],"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:52:25.109-04:00","published":"2025-10-16T14:52:25.109-04:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Mike Doom","Jimmy","Evan","Ethan"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-08-17"}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** Roll20

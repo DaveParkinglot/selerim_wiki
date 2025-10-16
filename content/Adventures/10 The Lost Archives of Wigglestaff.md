@@ -1,18 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Kyle
-- Larry
-- Bishop
-- George
-- Bucher
-- Matt
-Platform: Foundry
-Sessions: 1
-Start Date: 2024-05-02
-aliases:
-- The Lost Archives of Wigglestaff
+{"publish":true,"aliases":["The Lost Archives of Wigglestaff"],"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:52:33.072-04:00","published":"2025-10-16T14:52:33.072-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Larry","Bishop","George","Bucher","Matt"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-05-02"}
 ---
+
 Handouts:
 [[Selerim Worldbuilding/Adventure Handouts/The Lost Archives of Wigglestaff Handout]]
 

@@ -1,7 +1,19 @@
 ---
-{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T15:13:48.830-04:00","published":"2025-10-16T15:13:48.830-04:00","cssclasses":"","Age":"48","Ancestry":["Bugbear"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bouncer, Former Monster Wrangler"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]","[[08 Arby's Sauce|Arby's Sauce]]"],"Status":"Alive"}
+Age: "48"
+Ancestry:
+  - Bugbear
+Gender: Male
+Location:
+  - "[[Places/Scrimshaw City]]"
+Role:
+  - Bouncer, Former Monster Wrangler
+Affiliation:
+  - "[[Player Characters/The High Rollers/The High Rollers]]"
+Appearances:
+  - "[[Adventures/00 The High Rollers Campaign]]"
+  - "[[Adventures/08 Arby's Sauce]]"
+Status: Alive
 ---
-
 ![[z_assets/arby.png|300]]
 
 # Overview
@@ -16,7 +28,7 @@
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Bouncer, Former Monster Wrangler
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/08 Arby's Sauce\|Arby's Sauce]]
+- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/08 Arby's Sauce\|08 Arby's Sauce]]
 - **Status:** Alive
 
 # Attributes

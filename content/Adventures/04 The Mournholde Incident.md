@@ -1,17 +1,7 @@
 ---
-DM: Mike Doom
-Players:
-- Ethan
-- Logan
-- Jordan
-- Peter
-- Jimmy
-Platform: Roll20
-Sessions: 1
-Start Date: 2023-09-19
-aliases:
-- The Mournholde Incident
+{"publish":true,"aliases":["The Mournholde Incident"],"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:52:25.563-04:00","published":"2025-10-16T14:52:25.563-04:00","cssclasses":"","DM":"Mike Doom","Players":["Ethan","Logan","Jordan","Peter","Jimmy"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-09-19"}
 ---
+
 # Details
 - **DM**: Mike Doom
 - **Platform:** Roll20

@@ -1,17 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Cale
-- Laura
-- Leah
-- Meagan
-- Peter
-Platform: In person
-Sessions: 1
-Start Date: 2024-11-27
-aliases:
-- Kindlethicket - Envoys of Mitlin
+{"publish":true,"aliases":["Kindlethicket - Envoys of Mitlin"],"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:52:33.765-04:00","published":"2025-10-16T14:52:33.765-04:00","cssclasses":"","DM":"Jordan","Players":["Cale","Laura","Leah","Meagan","Peter"],"Platform":"In person","Sessions":1,"Start Date":"2024-11-27"}
 ---
+
 Handouts:
 [[Selerim Worldbuilding/Adventure Handouts/Kindlethicket Handout]]
 

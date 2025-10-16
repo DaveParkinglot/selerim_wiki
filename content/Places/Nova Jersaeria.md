@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Nova Jersaeria","created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:16:58.831-04:00","published":"2025-10-16T14:16:58.831-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":250,"Population":95000,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"[[Antonino Esposito|King Antonino Esposito I]]","Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]","[[23 The Great Tiialan Heist|The Great Tiialan Heist]]"],"marker":{"mapName":"InteractiveMap","x":1095,"y":100,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"Nova Jersaeria","created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:53:15.099-04:00","published":"2025-10-16T14:53:15.099-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":250,"Population":95000,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"[[Antonino Esposito|King Antonino Esposito I]]","Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]","[[17 Giftmas in Nova Jersaeria|Giftmas in Nova Jersaeria]]","[[23 The Great Tiialan Heist|The Great Tiialan Heist]]"],"marker":{"mapName":"InteractiveMap","x":1095,"y":100,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/nova_jersaeria.png|800]]
@@ -16,7 +16,7 @@
 - **Population**: 95000
 - **Affiliation**: [[The Kingdom of Tiialia\|The Kingdom of Tiialia]]
 - **Government:** [[NPCs/Tiialia/Antonino Esposito\|King Antonino Esposito I]]
-- **Appearances:**  [[Adventures/00 The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/23 The Great Tiialan Heist\|The Great Tiialan Heist]]
+- **Appearances:**  [[Adventures/00 The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/17 Giftmas in Nova Jersaeria\|Giftmas in Nova Jersaeria]],[[Adventures/23 The Great Tiialan Heist\|The Great Tiialan Heist]]
 
 ### Attributes
 - **Appearance**: Italian, colorful rooftops, walled docks, a great keep atop the high hill of the city

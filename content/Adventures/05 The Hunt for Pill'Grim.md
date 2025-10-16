@@ -1,17 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Peter
-- Leah
-- Evan
-- Alex
-- Mike Doom
-Platform: In person
-Sessions: 1
-Start Date: 2023-11-25
-aliases:
-- The Hunt for Pill'Grim
+{"publish":true,"aliases":["The Hunt for Pill'Grim"],"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:46:07.415-04:00","published":"2025-10-16T14:46:07.415-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Leah","Evan","Alex","Mike Doom"],"Platform":"In person","Sessions":1,"Start Date":"2023-11-25"}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** In person
