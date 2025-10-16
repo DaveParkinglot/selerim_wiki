@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Corrodreth, The Salted City","created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:19:13.256-04:00","published":"2025-10-16T14:19:13.256-04:00","cssclasses":"","Type":["Desolate Ruin"],"Age (years)":1800,"Appearances":["[[18 Morganth's LEGION OF DOOM|Morganth's LEGION OF DOOM]]"],"marker":{"mapName":"InteractiveMap","x":92,"y":80,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"Corrodreth, The Salted City","created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:28:51.231-04:00","published":"2025-10-16T14:28:51.231-04:00","cssclasses":"","Type":["Desolate Ruin"],"Age (years)":1800,"Appearances":["[[18 Morganth's LEGION OF DOOM|Morganth's LEGION OF DOOM]]"],"marker":{"mapName":"InteractiveMap","x":92,"y":80,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/corrodreth.png|600]]
@@ -15,6 +15,7 @@
 ### Key Details
 - **Type**: Desolate Ruin
 - **Age:** 1800
+- **Appearances:**  [[Adventures/18 Morganth's LEGION OF DOOM\|Morganth's LEGION OF DOOM]]
 
 ### Attributes
 - **Appearance**: Destroyed cityscape, eldritch horrors at every turn
