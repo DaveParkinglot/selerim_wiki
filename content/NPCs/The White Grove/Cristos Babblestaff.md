@@ -1,0 +1,38 @@
+---
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:10:14.438-04:00","published":"2025-10-16T14:10:14.438-04:00","cssclasses":"","Age":"24","Ancestry":"Orc","Gender":"Male","Location":["[[Places/The White Grove]]"],"Role":["Student","Super Senior"],"Affiliation":["None"],"Appearances":["[[Adventures/24 The White Grove- First Semester\|The White Grove- First Semester]]","[[Adventures/26 The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]"],"Status":"Alive"}
+---
+
+![[z_assets/cristos_babblestaff.png|300]]
+
+# Overview
+
+## [[24 The White Grove- First Semester|The White Grove- First Semester]]
+- A studious and sometimes douchey orc studying at [[The White Grove]].
+- He was the first orc student admitted to The White Grove several years ago. He is a senior but he struggles in many of his classes.
+- He was betrayed by [[NPCs/The White Grove/Temur Octagon]] when Temur, who turned out to be working with [[Jordan's Notes/One Shots/Completed/_Morganth's LEGION OF DOOM]], tried to steal information on [[NPCs/Other/Tzastis the Collector]] from The White Grove library.
+
+## [[26 The White Grove - Summer Vacation|The White Grove - Summer Vacation]]
+- Cristos, nervous that he might not graduate next semester, needed the extra credit points from the scavenger hunt.
+- He participated in the killing and looting of Provost Serpentios, but was sworn to secrecy.
+
+# Key Details
+- **Age**: 24
+- **Ancestry**: Orc
+- **Gender**: Male
+- **Location**: [[Places/The White Grove\|The White Grove]]
+- **Role**: Student,Super Senior
+- **Affiliation:** None
+- **Appearances:** [[Adventures/24 The White Grove- First Semester\|The White Grove- First Semester]],[[Adventures/26 The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
+- **Status:** Alive
+
+# Attributes
+- **Voice**: Dumb douchey
+- **Traits**: Gullible, agrees to things without thinking them through. Stubborn
+- **Goals:** Become the first educated member of his family
+- **Appearance**: Orc nerd with a strong build
+
+# Relationships
+
+| Name              | Relationship |
+| ----------------- | ------------ |
+
