@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-03T09:55:09.000-04:00","modified":"2025-10-10T10:19:53.087-04:00","published":"2025-10-10T10:19:53.087-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":1250,"Population":22000,"Affiliation":["[[Factions/The Vlorn Dynasty]]"],"Government":["[[High Lord Jorad Kranicz]]","The Matron Mothers"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[Adventures/03 Vlorngroth - The Forge of Dingon]]","[[20 Vlorngroth - 2 Manor 2 Madness]]","[[27 Vlorngroth - Vampire Weekday]]"]}
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:15:30.064-04:00","published":"2025-10-16T14:15:30.064-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":1250,"Population":22000,"Affiliation":["[[Factions/The Vlorn Dynasty]]"],"Government":["[[High Lord Jorad Kranicz]]","The Matron Mothers"],"Appearances":["[[02 Vlorngroth - The Manor of Madness|Vlorngroth - The Manor of Madness]]","[[03 Vlorngroth - The Forge of Dingon|Vlorngroth - The Forge of Dingon]]","[[20 Vlorngroth - 2 Manor 2 Madness|Vlorngroth - 2 Manor 2 Madness]]","[[27 Vlorngroth - Vampire Weekday|Vlorngroth - Vampire Weekday]]"]}
 ---
 
 ![[z_assets/vlorngroth.png]]
@@ -17,7 +17,7 @@
 - **Population**: 22000
 - **Affiliation**: [[Factions/The Vlorn Dynasty\|The Vlorn Dynasty]]
 - **Government:** [[High Lord Jorad Kranicz\|High Lord Jorad Kranicz]],The Matron Mothers
-- **Appearances:**  [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/03 Vlorngroth - The Forge of Dingon\|03 Vlorngroth - The Forge of Dingon]],[[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|20 Vlorngroth - 2 Manor 2 Madness]],[[Adventures/27 Vlorngroth - Vampire Weekday\|27 Vlorngroth - Vampire Weekday]]
+- **Appearances:**  [[Adventures/02 Vlorngroth - The Manor of Madness\|Vlorngroth - The Manor of Madness]],[[Adventures/03 Vlorngroth - The Forge of Dingon\|Vlorngroth - The Forge of Dingon]],[[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|Vlorngroth - 2 Manor 2 Madness]],[[Adventures/27 Vlorngroth - Vampire Weekday\|Vlorngroth - Vampire Weekday]]
 
 ### Attributes
 - **Appearance**: 
@@ -30,7 +30,7 @@
 - **Dangers/Secrets**: 
 	- The activities of Vlorngroth's Inquisitors are shrouded in utmost secrecy
 	- The High Lord has been gathering power and support for an all-out surface invasion
-	- The cruel treatment and oppression of the duergar mining class has been covered up: [[03 Vlorngroth - The Forge of Dingon]]
+	- The cruel treatment and oppression of the duergar mining class has been covered up: [[Adventures/03 Vlorngroth - The Forge of Dingon]]
 - **Points of Interest**: 
 	- Tan'Rin Keep, Seat of [[High Lord Jorad Kranicz]]
 	- Duskveil Asylum, aka The Manor of Madness

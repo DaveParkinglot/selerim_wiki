@@ -1,32 +1,32 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T10:17:09.958-04:00","published":"2025-10-03T10:17:09.958-04:00","cssclasses":"","Age":"45","Ancestry":"Bullywug","Gender":"Male","Location":["[[Nova Jersaeria]]","Sewers"],"Role":["Business man, Magic item purveyor"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:13:39.842-04:00","published":"2025-10-16T14:13:39.842-04:00","cssclasses":"","Age":"45","Ancestry":"Bullywug","Gender":"Male","Location":["[[Nova Jersaeria]]","Sewers"],"Role":["Business man, Magic item purveyor"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]"],"Status":"Alive"}
 ---
-
 
 ![[z_assets/riggle_fragoo.png|300]]
 
-### Overview
+# Overview
 - One of few Bullywugs working in Nova Jersaeria, Riggle is perhaps the city's most notable magic item salesperson.
 - He once lived in the Trackless Mire.
 - Owns The Monkey's Pawn in the sewer for shady dealings, and Riggle's Runeshop in the marketplace for less shady dealings.
 - [[NPCs/Tiialia/Sssergio]] and [[NPCs/Tiialia/Cock Strombolinov]] work for him.
 
-### Key Details
+# Key Details
 - **Age**: 45
 - **Ancestry**: Bullywug
 - **Gender**: Male
 - **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],Sewers
 - **Role**: Business man, Magic item purveyor
 - **Affiliation:** None
-- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
+- **Appearances:** [[Adventures/00 The High Rollers Campaign\|The High Rollers Campaign]]
+- **Status:** Alive
 
-### Attributes
+# Attributes
 - **Voice**: High pitched, ribbits at times because he's a frogman
 - **Traits**: Loves to do business and haggle
 - **Goals:** Earn enough money from his businesses so he can bring his family to Nova Jersaeria
 - **Appearance**: 4'8 frogman wearing simple clothing
 
-### Relationships
+# Relationships
 
 | Name                  | Relationship       |
 | --------------------- | ------------------ |

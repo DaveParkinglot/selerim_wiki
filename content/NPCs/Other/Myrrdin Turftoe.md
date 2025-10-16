@@ -1,11 +1,10 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:51:04.128-04:00","published":"2025-10-03T09:51:04.128-04:00","cssclasses":"","Age":"286","Ancestry":"Halfling","Gender":"Male","Location":["The Wild Thicket"],"Role":["Archdruid, Mentor"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T13:57:49.542-04:00","published":"2025-10-16T13:57:49.542-04:00","cssclasses":"","Age":"286","Ancestry":"Halfling","Gender":"Male","Location":["The Wild Thicket"],"Role":["Archdruid, Mentor"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]"],"Status":"Alive"}
 ---
-
 
 ![[z_assets/myrrdin_turftoe.png|300]]
 
-### Overview
+# Overview
 - [[Player Characters/The High Rollers/Francis Greenstrider De Luca]]'s druidic mentor and savior from early in his adventuring career. He leads the Circle of the Thicket and lives amongst the pines of The Wild Thicket.
 	- He is the druid that rescued Frankie from being attacked by minions of [[NPCs/Other/Tzastis the Collector]].
 	- He also then trained Frankie in druidcraft.
@@ -14,16 +13,17 @@
 - When a fey incursion from Tzastis the Collector threatened The Thicket, he was instrumental in the fight against Tzastis and his Hag Coven. Though Tzastis was eventually defeated, he and several of his powerful minions escaped banishment back to the Feywild, disappearing into the forests.
 - Myrrdin has certainly heard the tales of a new Hag Coven in the mires to the west, but he and his druids are content knowing that their own home is safe from Tzastis.
 
-### Key Details
+# Key Details
 - **Age**: 286
 - **Ancestry**: Halfling
 - **Gender**: Male
 - **Location**: The Wild Thicket
 - **Role**: Archdruid, Mentor
 - **Affiliation:** None
-- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
+- **Appearances:** [[Adventures/00 The High Rollers Campaign\|The High Rollers Campaign]]
+- **Status:** Alive
 
-### Attributes
+# Attributes
 - **Voice**: 
 - **Traits**: 
 - **Goals:** 
@@ -31,7 +31,7 @@
 	- Banish [[NPCs/Other/Tzastis the Collector]]
 - **Appearance**: 
 
-### Relationships
+# Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |

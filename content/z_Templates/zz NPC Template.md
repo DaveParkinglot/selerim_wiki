@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:33:29.000-04:00","modified":"2025-10-03T09:30:44.234-04:00","published":"2025-10-03T09:30:44.234-04:00","cssclasses":"","Age":null,"Ancestry":null,"Gender":null,"Location":null,"Role":null,"Affiliation":null,"Appearances":null}
+{"publish":true,"created":"2025-10-16T09:27:59.000-04:00","modified":"2025-10-16T13:43:41.943-04:00","published":"2025-10-16T13:43:41.943-04:00","cssclasses":"","Age":null,"Ancestry":null,"Gender":null,"Location":null,"Role":null,"Affiliation":null,"Appearances":["Adventures they've appeared in"],"Status":"Alive/Deceased"}
 ---
 
 
@@ -15,7 +15,8 @@ A paragraph or bulleted list that describes the character. Might include signifi
 - **Location**: `= this.Location`
 - **Role**: `= this.Role`
 - **Affiliation:** `= this.Affiliation`
-- **Appearances:** `= this.Appearances`
+- **Appearances:** Adventures they've appeared in
+- - **Status:** Alive/Deceased
 
 ### Attributes
 - **Voice**: 

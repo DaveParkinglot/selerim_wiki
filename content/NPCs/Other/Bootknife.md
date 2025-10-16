@@ -1,23 +1,23 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:49:53.727-04:00","published":"2025-10-03T09:49:53.727-04:00","cssclasses":"","Age":"37","Ancestry":"Goblin","Gender":"Male","Location":["Varies"],"Role":["Roguish Fiend, Thief, Part-time Merchant"],"Affiliation":["None"],"Appearances":["[[14 Bootknife's Bounty|14 Bootknife's Bounty]]"]}
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T13:57:12.175-04:00","published":"2025-10-16T13:57:12.175-04:00","cssclasses":"","Age":"37","Ancestry":"Goblin","Gender":"Male","Location":["Varies"],"Role":["Roguish Fiend, Thief, Part-time Merchant"],"Affiliation":["None"],"Appearances":["[[14 Bootknife's Bounty|Bootknife's Bounty]]"],"Status":"Alive"}
 ---
-
 
 ![[z_assets/bootknife.webp|300]]
 
-### Overview
+# Overview
 Merchant, uncle, extraordinary liar. Called many things by many people, Bootknife is an enigma who will sell to you at a discount one day and slit your throat the next.
 
-### Key Details
+# Key Details
 - **Age**: 37
 - **Ancestry**: Goblin
 - **Gender**: Male
 - **Location**: Varies
 - **Role**: Roguish Fiend, Thief, Part-time Merchant
 - **Affiliation:** None
-- **Appearances:** [[Adventures/14 Bootknife's Bounty\|14 Bootknife's Bounty]]
+- **Appearances:** [[Adventures/14 Bootknife's Bounty\|Bootknife's Bounty]]
+- **Status:** Alive
 
-### Attributes
+# Attributes
 - **Voice**: Cockney/Australian
 - **Traits**: 
 	- Customers are better than enemies. Friends are better than customers
@@ -25,7 +25,7 @@ Merchant, uncle, extraordinary liar. Called many things by many people, Bootknif
 - **Goals:** Become a great and powerful merchant
 - **Appearance**: Short goblin with gold earrings and an orange bandana
 
-### Relationships
+# Relationships
 
 | Name             | Relationship |
 | ---------------- | ------------ |

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Crabbley","created":"2025-09-17T12:39:25.000-04:00","modified":"2025-10-10T10:19:53.098-04:00","published":"2025-10-10T10:19:53.098-04:00","cssclasses":"","Type":["Town"],"Age (years)":25,"Population":800,"Affiliation":["None"],"Government":"[[The Crabbley Council]]","Appearances":["[[00 -The High Rollers Campaign-]]","[[05 The Hunt for Pill'Grim]]","[[Adventures/13 The Haunted Flakes Factory]]","[[22 The Crimsonclaw Bounty]]"],"marker":{"mapName":"InteractiveMap","x":1485,"y":530,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"Crabbley","created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T09:52:53.573-04:00","published":"2025-10-16T09:52:53.573-04:00","cssclasses":"","Type":["Town"],"Age (years)":25,"Population":800,"Affiliation":["None"],"Government":"[[The Crabbley Council]]","Appearances":["[[00 The High Rollers Campaign]]","[[05 The Hunt for Pill'Grim]]","[[Adventures/13 The Haunted Flakes Factory]]","[[22 The Crimsonclaw Bounty]]"],"marker":{"mapName":"InteractiveMap","x":1485,"y":530,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/crabbley.png|300]]   ![[z_assets/crabbley_topdown.png|450]]
@@ -14,7 +14,7 @@
 - **Population**: 800
 - **Affiliation**: None
 - **Government:** [[Factions/The Crabbley Council\|The Crabbley Council]]
-- **Appearances:**  [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]],[[Adventures/05 The Hunt for Pill'Grim\|05 The Hunt for Pill'Grim]],[[Adventures/13 The Haunted Flakes Factory\|13 The Haunted Flakes Factory]],[[Adventures/22 The Crimsonclaw Bounty\|22 The Crimsonclaw Bounty]]
+- **Appearances:**  [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/05 The Hunt for Pill'Grim\|05 The Hunt for Pill'Grim]],[[Adventures/13 The Haunted Flakes Factory\|13 The Haunted Flakes Factory]],[[Adventures/22 The Crimsonclaw Bounty\|22 The Crimsonclaw Bounty]]
 
 ### Attributes
 - **Appearance**: Beachfront fishing town on the coast of Boater's Bay

@@ -1,18 +1,18 @@
 ---
-{"publish":true,"created":"2025-10-03T10:23:37.000-04:00","modified":"2025-10-09T17:05:53.271-04:00","published":"2025-10-09T17:05:53.271-04:00","cssclasses":"","DM":"Jordan","Players":null,"Platform":"Foundry"}
+{"publish":true,"aliases":["Vlorngroth - Vampire Weekday"],"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T13:54:27.114-04:00","published":"2025-10-16T13:54:27.114-04:00","cssclasses":"","DM":"Jordan","Players":null,"Platform":"Foundry","Sessions":null,"Start Date":"2025-10-30"}
 ---
 
-## Details
+# Details
 - **DM**: Jordan
 - **Platform:** Foundry
 
-## Adventure Premise
+# Adventure Premise
 - While he is abroad, [[NPCs/Vlorngroth/Count Calloway Duskveil]] has commanded his lowly familiars to deep clean and revamp the dusty decor in his shadowy manor, Duskveil Keep.
 
-## Outcomes
+# Outcomes
 - List of adventure outcomes
 
-## Players & Characters
+# Players & Characters
 | Player              | Character Name | Race | Class |
 | ------------------- | -------------- | ---- | ----- |
 | `= this.Players[0]` |                |      |       |

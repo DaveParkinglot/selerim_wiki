@@ -1,30 +1,30 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-03T15:48:55.068-04:00","published":"2025-10-03T15:48:55.068-04:00","cssclasses":"","Age":"16","Ancestry":"Human","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[24 The White Grove- First Semester]]"]}
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:06:19.201-04:00","published":"2025-10-16T14:06:19.201-04:00","cssclasses":"","Age":"16","Ancestry":"Human","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[24 The White Grove- First Semester|The White Grove- First Semester]]","[[26 The White Grove - Summer Vacation|The White Grove - Summer Vacation]]"],"Status":"Alive"}
 ---
-
 
 ![[z_assets/vyvian_wynter.png|300]]
 
-### Overview
+# Overview
 - A friendly/bossy girl studying at The White Grove.
 - Tries to protect [[NPCs/The White Grove/Vowel Noosins]] from those who would take advantage of his meek will.
 
-### Key Details
+# Key Details
 - **Age**: 16
 - **Ancestry**: Human
 - **Gender**: Female
 - **Location**: [[Places/The White Grove\|The White Grove]]
 - **Role**: Student,Freshman
 - **Affiliation:** None
-- **Appearances:** [[Adventures/24 The White Grove- First Semester\|24 The White Grove- First Semester]]
+- **Appearances:** [[Adventures/24 The White Grove- First Semester\|The White Grove- First Semester]],[[Adventures/26 The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
+- **Status:** Alive
 
-### Attributes
+# Attributes
 - **Voice**: Vaguely Australian
 - **Traits**: 
 - **Goals:** Graduate with a 4.0
 - **Appearance**: 
 
-### Relationships
+# Relationships
 
 | Name                      | Relationship           |
 | ------------------------- | ---------------------- |

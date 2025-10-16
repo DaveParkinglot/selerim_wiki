@@ -5,5 +5,5 @@ Forsyth Keep is located in the deep western Mountains, over the Great Delphin Se
     
     When is a good question, whenever it fits in to the storyline I suppose. Go to New Jerseria, help the legion defeat a monstrous beast, which requires us to take a detour to visit Forsyth Keep to learn how to fight it?
 
-- [[NPCs/Other/Proklor the Despoiler]] begins ravaging the Tiialan countryside, and the party must seek the help of the Blood Hunters to find ancient lore to help them defeat Proklor
-- Perhaps the means to defeat [[NPCs/Other/Proklor the Despoiler]]
+- [[NPCs/Legends/Proklor the Despoiler]] begins ravaging the Tiialan countryside, and the party must seek the help of the Blood Hunters to find ancient lore to help them defeat Proklor
+- Perhaps the means to defeat [[NPCs/Legends/Proklor the Despoiler]]

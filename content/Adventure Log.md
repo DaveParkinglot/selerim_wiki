@@ -27,5 +27,5 @@
 | [[Adventures/03 Vlorngroth - The Forge of Dingon\|03 Vlorngroth - The Forge of Dingon]]       | Jordan    | <ul><li>Bishop</li><li>Mike Doom</li><li>Jimmy</li><li>Evan</li><li>Ethan</li></ul>                                | Roll20                                   |
 | [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]]     | Jordan    | <ul><li>George</li><li>Mike Doom</li><li>Peter</li><li>Ethan</li></ul>                                             | Roll20                                   |
 | [[Adventures/01 Dunland's Raiders\|01 Dunland's Raiders]]                                     | Mike Doom | <ul><li>Peter</li><li>Jimmy</li><li>Logan</li><li>Jordan</li><li>George</li><li>Michael</li><li>Evan</li></ul>     | Roll20                                   |
-| [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]                 | Jordan    | <ul><li>Evan</li><li>Logan</li><li>Michael</li><li>Mike Doom</li><li>Peter</li><li>George</li><li>Fisher</li></ul> | <ul><li>Foundry</li><li>Roll20</li></ul> |
+| [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]                     | Jordan    | <ul><li>Evan</li><li>Logan</li><li>Michael</li><li>Mike Doom</li><li>Peter</li><li>George</li><li>Fisher</li></ul> | <ul><li>Foundry</li><li>Roll20</li></ul> |
 

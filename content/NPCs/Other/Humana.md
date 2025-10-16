@@ -1,29 +1,29 @@
 ---
-{"publish":true,"created":"2025-08-12T08:54:32.000-04:00","modified":"2025-10-09T15:20:25.837-04:00","published":"2025-10-09T15:20:25.837-04:00","cssclasses":"","Age":"??","Ancestry":"Night Hag","Gender":"Female","Location":["Varies"],"Role":["Soul Dealer"],"Affiliation":["None"],"Appearances":["[[25 The Hellnight Soirée]]"]}
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T13:57:44.280-04:00","published":"2025-10-16T13:57:44.280-04:00","cssclasses":"","Age":"??","Ancestry":"Night Hag","Gender":"Female","Location":["Varies"],"Role":["Soul Dealer"],"Affiliation":["None"],"Appearances":["[[25 The Hellnight Soirée|The Hellnight Soirée]]"],"Status":"Alive"}
 ---
-
 
 ![[z_assets/humana.png|300]]
 
-### Overview
+# Overview
  - [[NPCs/Scrimshaw City/Hugh Mann]]'s older sister, by his own account, is probably the reason he became a devil in the first place.
  - She is a somewhat prominent Soul Dealer in the lower planes.
 
-### Key Details
+# Key Details
 - **Age**: ??
 - **Ancestry**: Night Hag
 - **Gender**: Female
 - **Location**: Varies
 - **Role**: Soul Dealer
 - **Affiliation:** None
+- **Status:** Alive
 
-### Attributes
+# Attributes
 - **Voice**: Posh British
 - **Traits**: Loves to receive favors and gifts. Strong souls survive, and weak souls get sold en masse
 - **Goals:** Run a successful Soul Dealership
 - **Appearance**: Blue skinned night hag
 
-### Relationships
+# Relationships
 
 | Name          | Relationship    |
 | ------------- | --------------- |

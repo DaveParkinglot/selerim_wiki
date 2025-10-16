@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Crillville","created":"2025-10-09T14:45:41.000-04:00","modified":"2025-10-10T10:19:53.093-04:00","published":"2025-10-10T10:19:53.093-04:00","cssclasses":"","Type":["Town"],"Age (years)":80,"Population":2500,"Affiliation":["[[Tanglewood Defense Council]]"],"Government":["[[NPCs/Tanglewood Peninsula/Dick Gunbarrel]]"],"marker":{"mapName":"InteractiveMap","x":1590,"y":565,"icon":"mdi:map-marker-outline","colour":"green"}}
+{"publish":true,"title":"Crillville","created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:18:21.128-04:00","published":"2025-10-16T14:18:21.128-04:00","cssclasses":"","Type":["Town"],"Age (years)":80,"Population":2500,"Affiliation":["[[Tanglewood Defense Council]]"],"Government":["[[NPCs/Tanglewood Peninsula/Dick Gunbarrel]]"],"marker":{"mapName":"InteractiveMap","x":1590,"y":565,"icon":"mdi:map-marker-outline","colour":"green"},"Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]","[[10 The Lost Archives of Wigglestaff|The Lost Archives of Wigglestaff]]","[[12 The Rentpire Strikes Back|The Rentpire Strikes Back]]"]}
 ---
 
 ![[z_assets/crillville.png|600]]

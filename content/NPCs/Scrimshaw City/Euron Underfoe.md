@@ -1,29 +1,29 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-03T09:47:31.172-04:00","published":"2025-10-03T09:47:31.172-04:00","cssclasses":"","Age":"45","Ancestry":["Tiefling"],"Gender":"Male","Location":["Scrimshaw City"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 -The High Rollers Campaign-]]"]}
+{"publish":true,"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-16T14:00:54.964-04:00","published":"2025-10-16T14:00:54.964-04:00","cssclasses":"","Age":"45","Ancestry":["Tiefling"],"Gender":"Male","Location":["Scrimshaw City"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign|The High Rollers Campaign]]"],"Status":"Alive"}
 ---
-
 
 ![[z_assets/euron_underfoe.png|300]]
 
-### Overview
+# Overview
 Gaunt and terse tiefling who operates the Gobblefirn Apothecary after Old Mr. Gobblefirn's strange disappearance.
 
-### Key Details
+# Key Details
 - **Age**: 45
 - **Ancestry**: Tiefling
 - **Gender**: Male
 - **Location**: Scrimshaw City
 - **Role**: Alchemist
 - **Affiliation:** None
-- **Appearances:** [[Adventures/00 -The High Rollers Campaign-\|00 -The High Rollers Campaign-]]
+- **Appearances:** [[Adventures/00 The High Rollers Campaign\|The High Rollers Campaign]]
+- **Status:** Alive
 
-### Attributes
+# Attributes
 - **Voice**: High class English gentleman
 - **Traits**: Shifty, ambitious, clever. It's ok to sacrifice morality to get far
 - **Goals:** A thriving alchemy business
 - **Appearance**: He appears as an extremely gaunt Tiefling, and stands approximately 6'5". He wears a fancy black suit, and his gloved hand is always found clutching a hand crossbow.
 
-### Relationships
+# Relationships
 
 | Name  | Relationship |
 | ----- | ------------ |
