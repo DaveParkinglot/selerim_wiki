@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-17T12:03:07.000-04:00","modified":"2025-10-17T10:27:06.520-04:00","cssclasses":""}
+{"publish":true,"created":"2025-09-17T12:03:07.000-04:00","modified":"2025-10-17T11:05:00.025-04:00","cssclasses":""}
 ---
 
 ![[z_assets/calloway_duskveil.png|300]]
@@ -15,10 +15,10 @@
 - **Age**: 163
 - **Ancestry**: Drow,Vampire
 - **Gender**: Male
-- **Location**: [[bak/Places/Vlorngroth.md\|Vlorngroth]]
+- **Location**: [[Places/Vlorngroth\|Vlorngroth]]
 - **Role**: Former Inquisitor
 - **Affiliation:** None
-- **Appearances:** [[bak/Adventures/20 Vlorngroth - 2 Manor 2 Madness.md\|20 Vlorngroth - 2 Manor 2 Madness]],[[bak/Adventures/27 Vlorngroth - Vampire Weekday.md\|27 Vlorngroth - Vampire Weekday]]
+- **Appearances:** [[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|20 Vlorngroth - 2 Manor 2 Madness]],[[Adventures/27 Vlorngroth - Vampire Weekday\|27 Vlorngroth - Vampire Weekday]]
 - **Status:** Alive
 
 # Attributes
