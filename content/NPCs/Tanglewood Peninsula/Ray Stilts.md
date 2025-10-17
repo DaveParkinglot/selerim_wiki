@@ -1,0 +1,30 @@
+---
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:22:46.689-04:00","cssclasses":""}
+---
+
+![[z_assets/ray_stilts.png|300]]
+
+# Overview
+- Owner of Pinny Stilts, Inc. His co-owner Pinny went missing while sailing Boater's Bay.
+- For a while, he employed [[Player Characters/The High Rollers/The High Rollers]] to conduct salvage operations along the coastlines of the Tanglewood Peninsula.
+
+# Key Details
+- **Age**: 44
+- **Ancestry**: Human
+- **Gender**: Male
+- **Location**: [[bak/Places/Crabbley.md\|Crabbley]]
+- **Role**: Entrepreneur, Former Patron of The High Rollers
+- **Affiliation:** [[Crabbley Council\|Crabbley Council]]
+- **Appearances:** [[bak/Adventures/00 The High Rollers Campaign.md\|00 The High Rollers Campaign]]
+- **Status:** Alive
+
+# Attributes
+- **Voice**: Sleazy
+- **Traits**: Ambitious
+- **Goals:** Making money
+- **Appearance**: Wears ostentatious purple clothes.
+
+# Relationships
+
+| Name  | Relationship |
+| ----- | ------------ |

@@ -1,0 +1,26 @@
+---
+{"publish":true,"aliases":"Vlorngroth - The Forge of Dingon","created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T17:03:15.000-04:00","cssclasses":""}
+---
+
+# Details
+- **DM**: Jordan
+- **Platform:** Roll20
+- **Sessions:** 1
+
+# Adventure Premise
+- Upstart duergar rebels led by one-time Inquisitor Initiate [[Dyksin Poosie]] have spoken out against [[High Lord Jorad Kranicz]]'s "rampant disregard of duergar culture".
+- Dyksin and his fellow traitors are holed up at The Forge of Dingon, and initial reports indicate that their position is lightly fortified.
+- They must be dealt with swiftly before they rally more disgruntled, disloyal duergar to their side.
+
+# Outcomes
+- Despite its significance as a duergar heritage site, The Forge of Dingon was host to a bloodbath as Inquisitors clashed with the traitorous duergar rebels, killing them all.
+- The victorious Inquisitors found and explored a newly dug tunnel leading to the surface, seemingly dug as an escape route by the duergar. This could be of use in the coming Surface Invasion.
+
+# Players & Characters
+| Player              | Character Name             | Race    | Class   |
+| ------------------- | -------------------------- | ------- | ------- |
+| Bishop | Alela                      | Drow    | Paladin |
+| Mike Doom | Sister Katharine Voidstone | Drow    | Cleric  |
+| Jimmy | Uxeebroth Kuji             | Drow    | Fighter |
+| Evan | Ashal Fractilian           | Kobold  | Warlock |
+| Ethan | Jebbajaz the Sly           | Duergar | Rogue   |
