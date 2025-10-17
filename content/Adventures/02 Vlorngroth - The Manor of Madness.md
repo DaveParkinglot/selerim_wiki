@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Vlorngroth - The Manor of Madness","created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T17:03:07.000-04:00","cssclasses":""}
+{"publish":true,"aliases":["Vlorngroth - The Manor of Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T17:03:07.000-04:00","published":"2025-10-09T17:03:07.000-04:00","cssclasses":"","DM":"Jordan","Players":["George","Mike Doom","Peter","Ethan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-07-06","End Date":"2023-07-12"}
 ---
 
 Handouts:

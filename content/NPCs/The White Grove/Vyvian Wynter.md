@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:24:08.295-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:24:08.295-04:00","published":"2025-10-17T10:24:08.295-04:00","cssclasses":"","Age":"16","Ancestry":"Human","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[24 The White Grove- First Semester]]","[[26 The White Grove - Summer Vacation]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/vyvian_wynter.png|300]]

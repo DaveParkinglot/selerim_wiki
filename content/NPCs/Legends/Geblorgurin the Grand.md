@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T14:16:45.395-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T14:16:45.395-04:00","published":"2025-10-17T14:16:45.395-04:00","cssclasses":"","Age":"Deceased","Ancestry":"Dwarf","Gender":"Male","Location":["Dead"],"Role":["King of the Dwarves"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased"}
 ---
 
 ![[z_assets/geblorgurin_the_grand.png|300]]

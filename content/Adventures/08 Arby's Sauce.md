@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Arby's Sauce","created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T16:56:50.000-04:00","cssclasses":""}
+{"publish":true,"aliases":["Arby's Sauce"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T16:56:50.000-04:00","published":"2025-10-09T16:56:50.000-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Platform":"Foundry","Sessions":2,"Start Date":"2024-02-20","End Date":"2024-02-27"}
 ---
 
 # Details

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:22:59.730-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:22:59.730-04:00","published":"2025-10-17T10:22:59.730-04:00","cssclasses":"","Age":"16","Ancestry":"Goblin","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Rogue"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/woben_thumbstick.png|300]]

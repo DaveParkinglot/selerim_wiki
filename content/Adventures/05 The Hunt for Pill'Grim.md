@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Hunt for Pill'Grim","created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-17T10:34:48.522-04:00","cssclasses":""}
+{"publish":true,"aliases":["The Hunt for Pill'Grim"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-17T10:34:48.522-04:00","published":"2025-10-17T10:34:48.522-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Leah","Evan","Alex","Mike Doom"],"Platform":"In person","Sessions":1,"Start Date":"2023-11-25"}
 ---
 
 # Details

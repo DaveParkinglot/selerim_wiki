@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Hidden Hoard of Winchester Bone","created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:15:45.000-04:00","cssclasses":""}
+{"publish":true,"aliases":["The Hidden Hoard of Winchester Bone"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:15:45.000-04:00","published":"2025-09-29T09:15:45.000-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-17"}
 ---
 
 # Details

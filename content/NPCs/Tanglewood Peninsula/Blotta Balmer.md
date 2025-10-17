@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T10:19:48.027-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T10:19:48.027-04:00","published":"2025-10-17T10:19:48.027-04:00","cssclasses":"","Age":"22","Ancestry":"Orc","Gender":"Female","Location":["[[Places/Crabbley]]"],"Role":["Barbarian Adventurer"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/blotta_balmer.png|300]]
 
 # Overview
-- A proud orc barbarian, member of the [[Places/Crabbley]] based adventuring party The Backbreakers, and [[NPCs/Tanglewood Peninsula/Gronstew Bogbeast]]'s second in command.
+- A proud orc barbarian, member of the [[Crabbley]] based adventuring party The Backbreakers, and [[NPCs/Tanglewood Peninsula/Gronstew Bogbeast]]'s second in command.
 - She hooked up with [[Player Characters/The High Rollers/Tadeusz]] during the celebrations following the Battle of [[Places/Crillville]], when [[NPCs/Villains/Malmstein the Tangler]] was defeated.
 
 # Key Details

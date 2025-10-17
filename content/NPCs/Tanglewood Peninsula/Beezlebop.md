@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T10:19:31.699-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T10:19:31.699-04:00","published":"2025-10-17T10:19:31.699-04:00","cssclasses":"","Age":"60","Ancestry":"Loxodon","Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Archmage"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[22 The Crimsonclaw Bounty]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/beezlebop.png|300]]

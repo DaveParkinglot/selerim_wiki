@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"The Great Tiialan Heist","created":"2025-07-27T17:24:16.000-04:00","modified":"2025-10-09T17:04:05.000-04:00","cssclasses":""}
+{"publish":true,"aliases":["The Great Tiialan Heist"],"created":"2025-07-27T17:24:16.000-04:00","modified":"2025-10-09T17:04:05.000-04:00","published":"2025-10-09T17:04:05.000-04:00","cssclasses":"","DM":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-06-25"}
 ---
 
 # Details

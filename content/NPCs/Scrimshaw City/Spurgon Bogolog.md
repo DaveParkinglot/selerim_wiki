@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T10:19:22.214-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T10:19:22.214-04:00","published":"2025-10-17T10:19:22.214-04:00","cssclasses":"","Age":"32","Ancestry":["Halfling"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]","Varies"],"Role":["Bard, Bandmember (Lead Singer)"],"Affiliation":["Crag Delta"],"Appearances":["[[00 The High Rollers Campaign]]","[[21 Spring Cleaning in Scrimshaw City]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/spurgon_bogolog.png|300]]
@@ -7,7 +7,7 @@
 # Overview
 - This hapless halfling made waves in [[Places/Crabbley]] by stealing a sacred merfolk artifact, which caused merfolks to begin attacking the town. This became the inciting incident for the [[Player Characters/The High Rollers/The High Rollers]]' first quest in [[Places/Crabbley]].
 - Lead singer of Crag Delta. For someone with such sticky fingers he sure can play the lyre!
-- One of the 3 members of Crag Delta. They've played venues from [[Places/Nova Jersaeria]], but when they're not touring they live in [[Places/Scrimshaw City]] and play gigs at The Pit.
+- One of the 3 members of Crag Delta. They've played venues from [[Places/Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
 - His stage name is "The Spurg".
 
 # Key Details

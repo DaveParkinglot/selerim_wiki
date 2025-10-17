@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-25T11:17:12.000-04:00","modified":"2025-10-17T10:14:25.578-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-25T11:17:12.000-04:00","modified":"2025-10-17T10:14:25.578-04:00","published":"2025-10-17T10:14:25.578-04:00","cssclasses":"","Age":"89","Ancestry":["Half-Elf"],"Gender":"Female","Location":["Breakwater Cove"],"Role":["Ship Captain"],"Affiliation":["None"],"Appearances":["[[22 The Crimsonclaw Bounty]]"],"Status":"Alive"}
 ---
 
 

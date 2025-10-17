@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-12T09:10:18.000-04:00","modified":"2025-10-17T10:16:16.576-04:00","cssclasses":""}
+{"publish":true,"created":"2025-08-12T09:10:18.000-04:00","modified":"2025-10-17T10:16:16.576-04:00","published":"2025-10-17T10:16:16.576-04:00","cssclasses":"","Age":"??","Ancestry":["Demon"],"Gender":"Male","Location":["Pazunia"],"Role":["Dark Angel of the Four Winds","Eldest Child of the Infinite Abyss"],"Affiliation":["None"],"Appearances":["[[25 The Hellnight Soirée]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/pazuzu.png|300]]

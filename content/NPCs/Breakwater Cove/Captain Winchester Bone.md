@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T10:14:15.000-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T10:14:15.000-04:00","published":"2025-10-17T10:14:15.000-04:00","cssclasses":"","Age":"66","Ancestry":"Human","Gender":"Male","Location":["Breakwater Cove"],"Role":["Bartender, Retired Captain"],"Affiliation":["None"],"Appearances":["[[07 The Hidden Hoard of Winchester Bone]]","[[09 Sharky's Revenge]]","[[14 Bootknife's Bounty]]","[[22 The Crimsonclaw Bounty]]"],"Status":"Alive"}
 ---
 
 

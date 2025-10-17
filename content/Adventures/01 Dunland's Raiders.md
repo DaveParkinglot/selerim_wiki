@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Dunland's Raiders","created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-17T08:48:11.152-04:00","cssclasses":""}
+{"publish":true,"aliases":["Dunland's Raiders"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-17T08:48:11.152-04:00","published":"2025-10-17T08:48:11.152-04:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-05-24","End Date":"2023-05-31"}
 ---
 
 # Details

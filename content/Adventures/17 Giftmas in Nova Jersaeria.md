@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Giftmas in Nova Jersaeria","created":"2025-10-03T15:37:56.000-04:00","modified":"2025-10-09T16:59:13.000-04:00","cssclasses":""}
+{"publish":true,"aliases":["Giftmas in Nova Jersaeria"],"created":"2025-10-03T15:37:56.000-04:00","modified":"2025-10-09T16:59:13.000-04:00","published":"2025-10-09T16:59:13.000-04:00","cssclasses":"","DM":"Jordan","Players":["Jessa","Laura","Jimmy","Connor"],"Platform":"In person"}
 ---
 
 # Details

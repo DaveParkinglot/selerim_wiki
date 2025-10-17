@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:22:55.218-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:22:55.218-04:00","published":"2025-10-17T10:22:55.218-04:00","cssclasses":"","Age":"49","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Thief","Spymaster"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/sleeto_van_coof.png|300]]

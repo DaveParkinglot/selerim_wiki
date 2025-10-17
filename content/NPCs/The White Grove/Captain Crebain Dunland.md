@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:23:28.007-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:23:28.007-04:00","published":"2025-10-17T10:23:28.007-04:00","cssclasses":"","Age":"41","Ancestry":"Human","Gender":"Male","Location":["[[Nova Jersaeria]]","[[The White Grove]]"],"Role":["Captain"],"Affiliation":["None"],"Appearances":["[[01 Dunland's Raiders]]","[[26 The White Grove - Summer Vacation]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/crebain_dunland.png|300]]

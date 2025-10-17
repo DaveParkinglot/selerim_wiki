@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-17T12:03:07.000-04:00","modified":"2025-10-17T11:05:00.025-04:00","cssclasses":""}
+{"publish":true,"created":"2025-09-17T12:03:07.000-04:00","modified":"2025-10-17T11:05:00.025-04:00","published":"2025-10-17T11:05:00.025-04:00","cssclasses":"","Age":"163","Ancestry":["Drow","Vampire"],"Gender":"Male","Location":["[[Vlorngroth]]"],"Role":["Former Inquisitor"],"Affiliation":["None"],"Appearances":["[[20 Vlorngroth - 2 Manor 2 Madness]]","[[27 Vlorngroth - Vampire Weekday]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/calloway_duskveil.png|300]]

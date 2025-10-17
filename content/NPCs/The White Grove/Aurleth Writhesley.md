@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2025-10-15T10:42:10.000-04:00","modified":"2025-10-17T10:23:10.251-04:00","cssclasses":""}
+{"publish":true,"created":"2025-10-15T10:42:10.000-04:00","modified":"2025-10-17T10:23:10.251-04:00","published":"2025-10-17T10:23:10.251-04:00","cssclasses":"","Age":"22","Ancestry":["Elf"],"Gender":"Male","Location":["[[Places/The White Grove]]"],"Role":["Student","Sophomore","Entrepreneur"],"Affiliation":["[[Places/Mitlin]]"],"Appearances":["[[26 The White Grove - Summer Vacation]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/aurleth_writhesley.png|300]]
 
 # Overview
-- A hoity toity elf from [[Places/Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[Places/The White Grove]].
+- A hoity toity elf from [[Places/Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[The White Grove]].
 - He is in the Arcane College.
-- The new magic shop "Jack of Owl Trades" run by [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]] has cut in on his family's business in [[Places/Mitlin]]. As the heir to the family business, Aurleth wants to get training on things like Arcane Intelligence so he can compete.
+- The new magic shop "Jack of Owl Trades" run by [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]] has cut in on his family's business in [[Mitlin]]. As the heir to the family business, Aurleth wants to get training on things like Arcane Intelligence so he can compete.
 
 # Key Details
 - **Age**: 22

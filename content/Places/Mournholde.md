@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Mournholde","created":"2023-09-20T14:56:26.000-04:00","modified":"2025-10-17T10:30:04.755-04:00","cssclasses":""}
+{"publish":true,"title":"Mournholde","created":"2023-09-20T14:56:26.000-04:00","modified":"2025-10-17T10:30:04.755-04:00","published":"2025-10-17T10:30:04.755-04:00","cssclasses":"","Type":["City of the Dead","Free City"],"Age (years)":130,"Population":7000,"Affiliation":["None"],"Government":["[[Galgitch, The Afterking]]","Mayor Gerard Duck"],"Appearances":["[[04 The Mournholde Incident]]"],"marker":{"mapName":"InteractiveMap","x":920,"y":515,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/welcome_to_mournholde.png|500]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T10:21:37.155-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T10:21:37.155-04:00","published":"2025-10-17T10:21:37.155-04:00","cssclasses":"","Age":"34","Ancestry":"Half-Giant","Gender":"Male","Location":["Crillville"],"Role":["Paladin, Commander of the CDF"],"Affiliation":["Crillville Defense Force (CDF)"],"Appearances":["[[00 The High Rollers Campaign]]","[[10 The Lost Archives of Wigglestaff]]","[[12 The Rentpire Strikes Back]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/dick_gunbarrel.png|300]]

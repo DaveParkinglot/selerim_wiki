@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-03T09:55:09.000-04:00","modified":"2025-10-17T10:31:33.054-04:00","cssclasses":""}
+{"publish":true,"created":"2025-10-03T09:55:09.000-04:00","modified":"2025-10-17T10:31:33.054-04:00","published":"2025-10-17T10:31:33.054-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":1250,"Population":22000,"Affiliation":["[[Factions/The Vlorn Dynasty]]"],"Government":["[[High Lord Jorad Kranicz]]","The Matron Mothers"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[Adventures/03 Vlorngroth - The Forge of Dingon]]","[[20 Vlorngroth - 2 Manor 2 Madness]]","[[27 Vlorngroth - Vampire Weekday]]"]}
 ---
 
 ![[z_assets/vlorngroth.png]]
@@ -9,7 +9,7 @@
 - The underground city of Vlorngroth lies beneath the surface world of Selerim, in the cavernous depths of the Underdark, 
 - Light from the phosphorescent Fungal Firmament casts a twilight glow upon the city
 - Vlorngroth has long been the seat of power for [[Factions/The Vlorn Dynasty]], an empire long forgotten by most surface dwellers
-- [[Factions/The Vlorn Dynasty]] is a ruthless meritocracy
+- [[The Vlorn Dynasty]] is a ruthless meritocracy
 
 ### Key Details
 - **Type**: Capital City
@@ -30,7 +30,7 @@
 - **Dangers/Secrets**: 
 	- The activities of Vlorngroth's Inquisitors are shrouded in utmost secrecy
 	- The High Lord has been gathering power and support for an all-out surface invasion
-	- The cruel treatment and oppression of the duergar mining class has been covered up: [[Adventures/03 Vlorngroth - The Forge of Dingon]]
+	- The cruel treatment and oppression of the duergar mining class has been covered up: [[03 Vlorngroth - The Forge of Dingon]]
 - **Points of Interest**: 
 	- Tan'Rin Keep, Seat of [[High Lord Jorad Kranicz]]
 	- Duskveil Asylum, aka The Manor of Madness

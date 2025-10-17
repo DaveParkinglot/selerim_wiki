@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Vlorngroth - Vampire Weekday","created":"2025-10-03T10:23:37.000-04:00","modified":"2025-10-16T09:10:47.000-04:00","cssclasses":""}
+{"publish":true,"aliases":["Vlorngroth - Vampire Weekday"],"created":"2025-10-03T10:23:37.000-04:00","modified":"2025-10-16T09:10:47.000-04:00","published":"2025-10-16T09:10:47.000-04:00","cssclasses":"","DM":"Jordan","Players":null,"Platform":"Foundry","Sessions":null,"Start Date":"2025-10-30"}
 ---
 
 # Details

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Vlorngroth - The Forge of Dingon","created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T17:03:15.000-04:00","cssclasses":""}
+{"publish":true,"aliases":["Vlorngroth - The Forge of Dingon"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T17:03:15.000-04:00","published":"2025-10-09T17:03:15.000-04:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Mike Doom","Jimmy","Evan","Ethan"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-08-17"}
 ---
 
 # Details

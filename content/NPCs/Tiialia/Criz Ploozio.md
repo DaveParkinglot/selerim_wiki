@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:24:47.086-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:24:47.086-04:00","published":"2025-10-17T10:24:47.086-04:00","cssclasses":"","Age":"36","Ancestry":"Kobold","Gender":"Male","Location":["[[Nova Jersaeria]]","Sewers"],"Role":["Shopkeeper"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/criz_ploozio.png|300]]

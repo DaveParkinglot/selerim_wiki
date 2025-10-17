@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The White Grove","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-10-17T10:31:16.986-04:00","cssclasses":""}
+{"publish":true,"title":"The White Grove","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-10-17T10:31:16.986-04:00","published":"2025-10-17T10:31:16.986-04:00","cssclasses":"","Type":["Magical Academy"],"Age (years)":180,"Population":600,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"N/A","Appearances":["[[24 The White Grove- First Semester]]","[[26 The White Grove - Summer Vacation]]"],"marker":{"mapName":"InteractiveMap","x":340,"y":275,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/the_white_grove.png|600]]

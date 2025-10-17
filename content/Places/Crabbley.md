@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Crabbley","created":"2025-09-17T12:39:25.000-04:00","modified":"2025-10-17T10:32:25.884-04:00","cssclasses":""}
+{"publish":true,"title":"Crabbley","created":"2025-09-17T12:39:25.000-04:00","modified":"2025-10-17T10:32:25.884-04:00","published":"2025-10-17T10:32:25.884-04:00","cssclasses":"","Type":["Town"],"Age (years)":25,"Population":800,"Affiliation":["None"],"Government":"[[The Crabbley Council]]","Appearances":["[[00 The High Rollers Campaign]]","[[05 The Hunt for Pill'Grim]]","[[Adventures/13 The Haunted Flakes Factory]]","[[22 The Crimsonclaw Bounty]]"],"marker":{"mapName":"InteractiveMap","x":1485,"y":530,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/crabbley.png|300]]   ![[z_assets/crabbley_topdown.png|450]]
@@ -21,7 +21,7 @@
 - **Economy/Resources**: 
 	- Exports fish, grain, cereal, and gnomish inventions courtesy of the Cronium Gnomes
 - **Dangers/Secrets**: 
-	- The old abandoned Bondoon Flakes Factory Megaplex factory is rumored to be haunted after a horrific accident many years ago - [[Adventures/13 The Haunted Flakes Factory]]
+	- The old abandoned Bondoon Flakes Factory Megaplex factory is rumored to be haunted after a horrific accident many years ago - [[13 The Haunted Flakes Factory]]
 - **Points of Interest**: 
 	- Ruined watchtower outside town
 	- The Van Gander homestead

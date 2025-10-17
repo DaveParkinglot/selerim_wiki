@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:23:02.235-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:23:02.235-04:00","published":"2025-10-17T10:23:02.235-04:00","cssclasses":"","Age":"58","Ancestry":"Half-Elf","Gender":"Male","Location":["Oasis"],"Role":["Wagon Dealer, Maniacal Businessman"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/trilbee_rampo.png|300]]

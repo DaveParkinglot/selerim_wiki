@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Nova Jersaeria","created":"2025-06-20T09:32:25.000-04:00","modified":"2025-10-17T10:30:28.552-04:00","cssclasses":""}
+{"publish":true,"title":"Nova Jersaeria","created":"2025-06-20T09:32:25.000-04:00","modified":"2025-10-17T10:30:28.552-04:00","published":"2025-10-17T10:30:28.552-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":250,"Population":95000,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"[[Antonino Esposito|King Antonino Esposito I]]","Appearances":["[[00 The High Rollers Campaign]]","[[17 Giftmas in Nova Jersaeria]]","[[23 The Great Tiialan Heist]]"],"marker":{"mapName":"InteractiveMap","x":1095,"y":100,"icon":"mdi:map-marker-outline","colour":"green"}}
 ---
 
 ![[z_assets/nova_jersaeria.png|800]]

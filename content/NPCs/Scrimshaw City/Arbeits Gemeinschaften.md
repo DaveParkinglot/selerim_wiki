@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T10:16:35.609-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T10:16:35.609-04:00","published":"2025-10-17T10:16:35.609-04:00","cssclasses":"","Age":"48","Ancestry":["Bugbear"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bouncer, Former Monster Wrangler"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive"}
 ---
 
 ![[z_assets/arby.png|300]]

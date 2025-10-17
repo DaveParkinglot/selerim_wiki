@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Vlorngroth - 2 Manor 2 Madness","created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:33:42.000-04:00","cssclasses":""}
+{"publish":true,"aliases":["Vlorngroth - 2 Manor 2 Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:33:42.000-04:00","published":"2025-09-29T09:33:42.000-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Laura","Mike Doom","Leah","Michael"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-04-02"}
 ---
 
 # Details
