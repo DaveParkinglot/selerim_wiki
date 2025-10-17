@@ -1,7 +1,0 @@
----
-{"publish":true,"created":"2025-10-17T09:50:27.000-04:00","modified":"2025-10-17T09:53:45.748-04:00","cssclasses":""}
----
-
-- Lawful neutral death knight ruler of [[Places/Ghoulfen Island]], he rules from his necropolis in [[Places/Mournholde]].
-- He was once an adventurer, and though his party succeeded in killing the lich that cursed the island now known as Ghoulfen, he perished in the fighting and became the first Undead Immortal to rise on the island, but not the last.
-- Realizing his story was not over, he set about creating the island as it exists today.
