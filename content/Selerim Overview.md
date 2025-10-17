@@ -1,8 +1,8 @@
 - See [[Selerim Timeline]]! The world of Selerim was originally used as a factory of war by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elves' god of war.
 	- Despite his dark deeds, Selvetarm remains the namesake of the world.
-- The world is analogous to Earth, with similar gravity and rotational patterns.
+- The world is *probably* analogous to Earth, with similar gravity and rotational patterns. Unless I come up with something cooler at some point.
 - There is one (surviving) moon, Lunadel, and one star, Seladel.
-- As of 264 B.T., the most widely used calendar is the Tiialan Calendar, which very conveniently has 13 months of 28 days each.
+- As of 264 B.T., the most widely used calendar is the [[Places/Tiialia\|Tiialan]] Calendar, which very conveniently has 13 months of 28 days each.
 - It should be noted that the diversity seen amongst the peoples of Selerim is such because they were slaves from many worlds, stolen from their homes to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20(the%20dark%20seldarine)_mtf) empire.
 - The magnificence of [Selvetarm's](https://5e.tools/deities.html#selvetarm_drow_mtf) work meant that he churned through his slave workforce very, *very* quickly. 
 	- As such, his mages opened a great many Planar Rifts to gather slaves from other worlds, much as the drow of [[Places/Vlorngroth]] capture slaves from the surface to this day.
