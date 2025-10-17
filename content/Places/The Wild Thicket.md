@@ -1,3 +1,0 @@
-- From [[Player Characters/The High Rollers/Francis Greenstrider De Luca]]'s backstory.
-- The location where he first encountered incursions from [[NPCs/Other/Tzastis the Collector]].
-- [[NPCs/Other/Myrrdin Turftoe]] helped passerby's escape The Collector here. 
