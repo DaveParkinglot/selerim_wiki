@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T10:14:32.551-04:00","cssclasses":""}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T14:16:45.395-04:00","cssclasses":""}
 ---
 
 ![[z_assets/geblorgurin_the_grand.png|300]]
