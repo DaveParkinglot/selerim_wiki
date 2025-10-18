@@ -16,3 +16,4 @@
 - The flooding from The [[Selerim Worldbuilding/Lore/Darkwells]]' Eruption between 1,000 and 750 B.T. also had a profound impact on the geography and cultures of Selerim, leaving many regions isolated by what became a new inland sea.
 - Sorcerers were anomalously rare until the blood of slain dragons from the [[Selerim Worldbuilding/Events/Generations' War]] seeped into the ground, near the present day Forsaken Expanse. 
 	- To this day, most sorcerers in the world are born on the eastern side of Tanglewood Peninsula, where the concentration of dragon blood is strongest.
+
