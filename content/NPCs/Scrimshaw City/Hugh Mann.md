@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-22T09:15:41.291-04:00","published":"2025-10-22T09:15:41.291-04:00","cssclasses":"","Age":"326","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["El Presidente","Former Adventurer"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]","Tavernstool"],"Appearances":["[[00 The High Rollers Campaign]]","[[21 Spring Cleaning in Scrimshaw City]]","[[25 The Hellnight Soirée]]"],"Status":"Alive","Authors":["Jordan"]}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-22T09:32:41.948-04:00","published":"2025-10-22T09:32:41.948-04:00","cssclasses":"","Age":"326","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["El Presidente","Former Adventurer"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]","Tavernstool"],"Appearances":["[[00 The High Rollers Campaign]]","[[21 Spring Cleaning in Scrimshaw City]]","[[26 The Hellnight Soirée]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/hugh_mann_human.png|300]] ![[z_assets/hugh_mann_devil.png|300]]
@@ -18,7 +18,7 @@
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: El Presidente,Former Adventurer
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]],Tavernstool
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/21 Spring Cleaning in Scrimshaw City\|21 Spring Cleaning in Scrimshaw City]],[[Adventures/25 The Hellnight Soirée\|25 The Hellnight Soirée]]
+- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/21 Spring Cleaning in Scrimshaw City\|21 Spring Cleaning in Scrimshaw City]],[[Adventures/26 The Hellnight Soirée\|26 The Hellnight Soirée]]
 - **Status:** Alive
 
 # Attributes

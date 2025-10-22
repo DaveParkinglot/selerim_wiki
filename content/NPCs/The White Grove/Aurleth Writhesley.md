@@ -12,9 +12,10 @@ Role:
 Affiliation:
   - "[[Places/Mitlin]]"
 Appearances:
-  - "[[Adventures/26 The White Grove - Summer Vacation]]"
+  - "[[Adventures/27 The White Grove - Summer Vacation]]"
 Status: Alive
-Authors: [Jordan]
+Authors:
+  - Jordan
 ---
 ![[z_assets/aurleth_writhesley.png|300]]
 
@@ -30,7 +31,7 @@ Authors: [Jordan]
 - **Location**: [[Places/The White Grove\|The White Grove]]
 - **Role**: Student,Sophomore,Entrepreneur
 - **Affiliation:** [[Places/Mitlin\|Mitlin]]
-- **Appearances:** [[Adventures/26 The White Grove - Summer Vacation\|26 The White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/27 The White Grove - Summer Vacation\|27 The White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes

@@ -2,7 +2,7 @@
 Authors: [Jordan Nolte]
 ---
 
-Handout from [[Adventures/25 The Hellnight Soirée]]
+Handout from [[Adventures/26 The Hellnight Soirée]]
 
 ## Guests to let in: 
 Do NOT bar entry for these two. Even a *mote* of their powers could ruin this world.

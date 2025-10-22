@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:00.000-04:00","modified":"2025-10-22T09:17:00.074-04:00","published":"2025-10-22T09:17:00.074-04:00","cssclasses":"","Age":"22","Ancestry":"Human","Gender":"Male","Location":["[[Places/The White Grove]]"],"Role":["Student","Morganth Cultist"],"Affiliation":["[[Factions/Morganth's Legion of Doom|Morganth's Legion of Doom]]"],"Appearances":["[[24 The White Grove - First Semester]]","[[26 The White Grove - Summer Vacation]]"],"Status":"Alive","Authors":["Jordan"]}
+{"publish":true,"created":"2025-07-21T11:30:00.000-04:00","modified":"2025-10-22T09:32:42.033-04:00","published":"2025-10-22T09:32:42.033-04:00","cssclasses":"","Age":"22","Ancestry":"Human","Gender":"Male","Location":["[[Places/The White Grove]]"],"Role":["Student","Morganth Cultist"],"Affiliation":["[[Factions/Morganth's Legion of Doom|Morganth's Legion of Doom]]"],"Appearances":["[[24 The White Grove - First Semester]]","[[27 The White Grove - Summer Vacation]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/temur_octagon.png|300]]
@@ -15,7 +15,7 @@
 - **Location**: [[Places/The White Grove\|The White Grove]]
 - **Role**: Student,Morganth Cultist
 - **Affiliation:** [[Factions/Morganth's Legion of Doom\|Morganth's Legion of Doom]]
-- **Appearances:** [[Adventures/24 The White Grove - First Semester\|24 The White Grove - First Semester]],[[Adventures/26 The White Grove - Summer Vacation\|26 The White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/24 The White Grove - First Semester\|24 The White Grove - First Semester]],[[Adventures/27 The White Grove - Summer Vacation\|27 The White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes

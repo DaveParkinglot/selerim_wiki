@@ -1,10 +1,10 @@
 ---
-{"publish":true,"title":"The White Grove","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-10-22T09:19:27.883-04:00","published":"2025-10-22T09:19:27.883-04:00","cssclasses":"","Type":["Magical Academy"],"Age (years)":180,"Population":600,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"N/A","Appearances":["[[24 The White Grove - First Semester]]","[[26 The White Grove - Summer Vacation]]"],"marker":{"mapName":"InteractiveMap","x":340,"y":275,"icon":"mdi:map-marker-outline","colour":"green"},"Authors":["Jordan"]}
+{"publish":true,"title":"The White Grove","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-10-22T09:39:00.947-04:00","published":"2025-10-22T09:39:00.947-04:00","cssclasses":"","Type":["Magical Academy"],"Age (years)":180,"Population":600,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"N/A","Appearances":["[[24 The White Grove - First Semester]]","[[27 The White Grove - Summer Vacation]]"],"marker":{"mapName":"InteractiveMap","x":340,"y":275,"icon":"mdi:map-marker-outline","colour":"green"},"Authors":["Jordan"]}
 ---
 
 ![[z_assets/the_white_grove.png|600]]
 
-### Overview
+# Overview
 - The White Grove is perhaps the only reputable magic school in the world, located at a confluence of ley lines on a peninsula above the former holdings of [[Places/Corrodreth]].
 - The school's campus is encircled by four great trees, which are said to represent the four fundamental pillars of magic—arcane, divine, primal, and infernal. 
 - Though the college pre-dates [[Places/Tiialia]], most of [[Places/Tiialia]]'s artillery mages, who famously laid waste to [[Places/Corrodreth]], were students of The White Grove.
@@ -15,15 +15,15 @@
 	- It goes without saying that his highly progressive mindset has been a topic of discussion amongst conservative Tiialans.
 	- He believes magic is a staple of the world, to be shared with all peoples whether north, south, above, or... below...
 
-### Key Details
+# Key Details
 - **Type**: Magical Academy
 - **Age:** 180
 - **Population**: 600
 - **Affiliation**: [[The Kingdom of Tiialia\|The Kingdom of Tiialia]]
 - **Government:** N/A
-- **Appearances:**  [[Adventures/24 The White Grove - First Semester\|24 The White Grove - First Semester]],[[Adventures/26 The White Grove - Summer Vacation\|26 The White Grove - Summer Vacation]]
+- **Appearances:**  [[Adventures/24 The White Grove - First Semester\|24 The White Grove - First Semester]],[[Adventures/27 The White Grove - Summer Vacation\|27 The White Grove - Summer Vacation]]
 
-### Attributes
+# Attributes
 - **Appearance**:
 	- Opulent, sparklingly white marble-clad architecture
 - **Economy/Resources**: (What it produces, trades, or lacks)
@@ -36,7 +36,7 @@
 	- The Menagerie
 	- Leviathan Lagoon
 
-### Hooks
+# Hooks
 - Adventure seed 1
 - Adventure seed 2
 - Adventure seed 3

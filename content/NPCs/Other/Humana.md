@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-12T08:54:32.000-04:00","modified":"2025-10-22T09:15:19.258-04:00","published":"2025-10-22T09:15:19.258-04:00","cssclasses":"","Age":"340","Ancestry":"Night Hag","Gender":"Female","Location":["Varies"],"Role":["Soul Dealer"],"Affiliation":["None"],"Appearances":["[[25 The Hellnight Soirée]]"],"Status":"Alive","Authors":["Jordan"]}
+{"publish":true,"created":"2025-08-12T08:54:32.000-04:00","modified":"2025-10-22T09:32:41.928-04:00","published":"2025-10-22T09:32:41.928-04:00","cssclasses":"","Age":"340","Ancestry":"Night Hag","Gender":"Female","Location":["Varies"],"Role":["Soul Dealer"],"Affiliation":["None"],"Appearances":["[[26 The Hellnight Soirée]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/humana.png|300]]

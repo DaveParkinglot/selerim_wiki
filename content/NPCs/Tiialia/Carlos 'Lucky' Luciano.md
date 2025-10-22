@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-22T07:44:04.000-04:00","modified":"2025-10-22T09:23:01.641-04:00","published":"2025-10-22T09:23:01.641-04:00","cssclasses":"","Age":"Unknown","Ancestry":"Human","Gender":"Male","Location":["[[Nova Jersaeria]]","Batista Family Manor"],"Role":["Muscle","Undead Muscle"],"Affiliation":["[[Factions/The Kingdom of Tiialia/The Batista Family]]"],"Appearances":["[[23 The Great Tiialan Heist]]","[[28 Voyage a la Isla Ruz]]"],"Status":"Deceased","Author":"Ethan Smith"}
+{"publish":true,"created":"2025-10-22T07:44:04.000-04:00","modified":"2025-10-22T09:32:41.860-04:00","published":"2025-10-22T09:32:41.860-04:00","cssclasses":"","Age":"Unknown","Ancestry":"Human","Gender":"Male","Location":["[[Nova Jersaeria]]","Batista Family Manor"],"Role":["Muscle","Undead Muscle"],"Affiliation":["[[Factions/The Kingdom of Tiialia/The Batista Family]]"],"Appearances":["[[23 The Great Tiialan Heist]]","[[25 Voyage a la Isla Ruz]]"],"Status":"Deceased","Author":"Ethan Smith"}
 ---
 
 
@@ -16,7 +16,7 @@
 - **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],Batista Family Manor
 - **Role**: Muscle,Undead Muscle
 - **Affiliation:** [[Factions/The Kingdom of Tiialia/The Batista Family\|The Batista Family]]
-- **Appearances:** [[Adventures/23 The Great Tiialan Heist\|23 The Great Tiialan Heist]],[[Adventures/28 Voyage a la Isla Ruz\|28 Voyage a la Isla Ruz]]
+- **Appearances:** [[Adventures/23 The Great Tiialan Heist\|23 The Great Tiialan Heist]],[[Adventures/25 Voyage a la Isla Ruz\|25 Voyage a la Isla Ruz]]
 - **Status:** Deceased
 
 # Attributes

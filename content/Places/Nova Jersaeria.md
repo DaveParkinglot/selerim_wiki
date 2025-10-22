@@ -1,16 +1,16 @@
 ---
-{"publish":true,"title":"Nova Jersaeria","created":"2025-06-20T09:32:25.000-04:00","modified":"2025-10-22T09:19:25.547-04:00","published":"2025-10-22T09:19:25.547-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":250,"Population":95000,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"[[Antonino Esposito|King Antonino Esposito I]]","Appearances":["[[00 The High Rollers Campaign]]","[[17 Giftmas in Nova Jersaeria]]","[[23 The Great Tiialan Heist 1]]"],"marker":{"mapName":"InteractiveMap","x":1095,"y":100,"icon":"mdi:map-marker-outline","colour":"green"},"Authors":["Jordan"]}
+{"publish":true,"title":"Nova Jersaeria","created":"2025-06-20T09:32:25.000-04:00","modified":"2025-10-22T09:38:43.506-04:00","published":"2025-10-22T09:38:43.506-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":250,"Population":95000,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"[[Antonino Esposito|King Antonino Esposito I]]","Appearances":["[[00 The High Rollers Campaign]]","[[17 Giftmas in Nova Jersaeria]]","[[23 The Great Tiialan Heist 1]]"],"marker":{"mapName":"InteractiveMap","x":1095,"y":100,"icon":"mdi:map-marker-outline","colour":"green"},"Authors":["Jordan"]}
 ---
 
 ![[z_assets/nova_jersaeria.png|800]]
 
-### Overview
+# Overview
 - The greatest city of this age, the Tiialan capital city has grown greatly since it was founded with the help of [[NPCs/Legends/Geblorgurin the Grand]] some 250 years ago.
 - The line of the old Tiialan Kings was thought to have been snuffed out with King Seraphino's death at the First Siege of [[Places/Corrodreth]], during the decades long [[Selerim Worldbuilding/Events/Serpent Wars]]. 
 - [[NPCs/Tiialia/Antonino Esposito]]'s true heritage was discovered by [[Player Characters/The High Rollers/Francis Greenstrider De Luca\|Francis "Frankie" Greenstrider]] of [[Player Characters/The High Rollers/The High Rollers]]. 
 - With this knowledge, the traitor [[NPCs/Villains/Lord Draco Landucci]] and his puppet King Adonzio were thwarted and deposed, respectively.
 
-### Key Details
+# Key Details
 - **Type**: Capital City
 - **Age:** 250
 - **Population**: 95000
@@ -18,7 +18,7 @@
 - **Government:** [[NPCs/Tiialia/Antonino Esposito\|King Antonino Esposito I]]
 - **Appearances:**  [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/17 Giftmas in Nova Jersaeria\|17 Giftmas in Nova Jersaeria]],[[23 The Great Tiialan Heist 1\|23 The Great Tiialan Heist 1]]
 
-### Attributes
+# Attributes
 - **Appearance**: Italian, colorful rooftops, walled docks, a great keep atop the high hill of the city
 - **Economy/Resources**: (What it produces, trades, or lacks)
 - **Dangers/Secrets**: (Rumors, threats, hidden lore)
@@ -30,7 +30,7 @@
 	- The Kings' Barrows 
 		- The interred remains of all Tiialan kings have been laid to rest. Disturbed by [[NPCs/Villains/Master Effree Jypstein]] during his attack on the capital.
 
-### Hooks
+# Hooks
 - Adventure seed 1
 - Adventure seed 2
 - Adventure seed 3

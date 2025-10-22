@@ -1,25 +1,25 @@
 ---
-{"publish":true,"created":"2025-10-03T09:55:09.000-04:00","modified":"2025-10-22T09:19:32.323-04:00","published":"2025-10-22T09:19:32.323-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":1250,"Population":22000,"Affiliation":["[[Factions/The Vlorn Dynasty]]"],"Government":["[[High Lord Jorad Kranicz]]","The Matron Mothers"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[Adventures/03 Vlorngroth - The Forge of Dingon]]","[[20 Vlorngroth - 2 Manor 2 Madness]]","[[27 Vlorngroth - Vampire Weekday]]"],"Authors":["Jordan"]}
+{"publish":true,"created":"2025-10-03T09:55:09.000-04:00","modified":"2025-10-22T09:39:18.630-04:00","published":"2025-10-22T09:39:18.630-04:00","cssclasses":"","Type":["Capital City"],"Age (years)":1250,"Population":22000,"Affiliation":["[[Factions/The Vlorn Dynasty]]"],"Government":["[[High Lord Jorad Kranicz]]","The Matron Mothers"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[Adventures/03 Vlorngroth - The Forge of Dingon]]","[[20 Vlorngroth - 2 Manor 2 Madness]]","[[28 Vlorngroth - Vampire Weekday]]"],"Authors":["Jordan"]}
 ---
 
 ![[z_assets/vlorngroth.png]]
 *Vlorngroth, beneath the Fungal Firmament*
 
-### Overview
+# Overview
 - The underground city of Vlorngroth lies beneath the surface world of Selerim, in the cavernous depths of the Underdark, 
 - Light from the phosphorescent Fungal Firmament casts a twilight glow upon the city
 - Vlorngroth has long been the seat of power for [[Factions/The Vlorn Dynasty]], an empire long forgotten by most surface dwellers
 - [[The Vlorn Dynasty]] is a ruthless meritocracy
 
-### Key Details
+# Key Details
 - **Type**: Capital City
 - **Age:** 1250
 - **Population**: 22000
 - **Affiliation**: [[Factions/The Vlorn Dynasty\|The Vlorn Dynasty]]
 - **Government:** [[High Lord Jorad Kranicz\|High Lord Jorad Kranicz]],The Matron Mothers
-- **Appearances:**  [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/03 Vlorngroth - The Forge of Dingon\|03 Vlorngroth - The Forge of Dingon]],[[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|20 Vlorngroth - 2 Manor 2 Madness]],[[Adventures/27 Vlorngroth - Vampire Weekday\|27 Vlorngroth - Vampire Weekday]]
+- **Appearances:**  [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/03 Vlorngroth - The Forge of Dingon\|03 Vlorngroth - The Forge of Dingon]],[[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|20 Vlorngroth - 2 Manor 2 Madness]],[[Adventures/28 Vlorngroth - Vampire Weekday\|28 Vlorngroth - Vampire Weekday]]
 
-### Attributes
+# Attributes
 - **Appearance**: 
 	- Dark purples and teals dominate the color palette
 	- Spire-like buildings that reach up to the Fungal Firmament are common
@@ -37,7 +37,7 @@
 	- Duskveil Keep
 	- The Forge of Dingon
 
-### Hooks
+# Hooks
 - Adventure seed 1
 - Adventure seed 2
 - Adventure seed 3

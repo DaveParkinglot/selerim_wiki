@@ -14,9 +14,10 @@ Affiliation:
 Appearances:
   - "[[Adventures/00 The High Rollers Campaign]]"
   - "[[Adventures/21 Spring Cleaning in Scrimshaw City]]"
-  - "[[Adventures/25 The Hellnight Soirée]]"
+  - "[[Adventures/26 The Hellnight Soirée]]"
 Status: Alive
-Authors: [Jordan]
+Authors:
+  - Jordan
 ---
 ![[z_assets/binky_slivers.png|300]]
 
@@ -31,7 +32,7 @@ Authors: [Jordan]
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Bartender,Dealer,Fixer
 - **Affiliation:** Tavernstool
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/21 Spring Cleaning in Scrimshaw City\|21 Spring Cleaning in Scrimshaw City]],[[Adventures/25 The Hellnight Soirée\|25 The Hellnight Soirée]]
+- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/21 Spring Cleaning in Scrimshaw City\|21 Spring Cleaning in Scrimshaw City]],[[Adventures/26 The Hellnight Soirée\|26 The Hellnight Soirée]]
 - **Status:** Alive
 
 # Attributes
