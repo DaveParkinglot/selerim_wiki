@@ -1,27 +1,7 @@
 ---
-Type:
-  - Free City
-Age (years): 450
-Population: 18000
-Affiliation:
-  - None
-Government:
-  - "[[NPCs/Scrimshaw City/Hugh Mann\|El Presidente Hugh Mann]]"
-  - "[[Tavernstool]]"
-Appearances:
-  - "[[Adventures/00 The High Rollers Campaign]]"
-  - "[[Adventures/08 Arby's Sauce]]"
-  - "[[Adventures/21 Spring Cleaning in Scrimshaw City]]"
-  - "[[Adventures/25 The Hellnight Soirée]]"
-title: Scrimshaw City
-marker:
-  mapName: InteractiveMap
-  x: 1575
-  y: 410
-  icon: mdi:map-marker-outline
-  colour: green
-Authors: [Jordan]
+{"publish":true,"title":"Scrimshaw City","created":"2025-07-25T12:30:40.000-04:00","modified":"2025-10-22T09:19:26.494-04:00","published":"2025-10-22T09:19:26.494-04:00","cssclasses":"","Type":["Free City"],"Age (years)":450,"Population":18000,"Affiliation":["None"],"Government":["[[Hugh Mann|El Presidente Hugh Mann]]","[[Tavernstool]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]","[[21 Spring Cleaning in Scrimshaw City]]","[[25 The Hellnight Soirée]]"],"marker":{"mapName":"InteractiveMap","x":1575,"y":410,"icon":"mdi:map-marker-outline","colour":"green"},"Authors":["Jordan"]}
 ---
+
 ![[z_assets/scrimshaw_city.png|900]] ![[z_assets/scrimshaw_topdown.png|700]]
 
 ### Overview

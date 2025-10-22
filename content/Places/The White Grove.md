@@ -1,24 +1,7 @@
 ---
-Type:
-  - Magical Academy
-Age (years): 180
-Population: 600
-Affiliation:
-  - "[[The Kingdom of Tiialia]]"
-Government: N/A
-Appearances:
-  - "[[Adventures/24 The White Grove - First Semester]]"
-  - "[[Adventures/26 The White Grove - Summer Vacation]]"
-title: The White Grove
-marker:
-  mapName: InteractiveMap
-  x: 340
-  y: 275
-  icon: mdi:map-marker-outline
-  colour: green
-Authors:
-  - Jordan
+{"publish":true,"title":"The White Grove","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-10-22T09:19:27.883-04:00","published":"2025-10-22T09:19:27.883-04:00","cssclasses":"","Type":["Magical Academy"],"Age (years)":180,"Population":600,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"N/A","Appearances":["[[24 The White Grove - First Semester]]","[[26 The White Grove - Summer Vacation]]"],"marker":{"mapName":"InteractiveMap","x":340,"y":275,"icon":"mdi:map-marker-outline","colour":"green"},"Authors":["Jordan"]}
 ---
+
 ![[z_assets/the_white_grove.png|600]]
 
 ### Overview

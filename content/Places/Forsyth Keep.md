@@ -1,6 +1,7 @@
 ---
-Authors: [Jordan Nolte]
+{"publish":true,"created":"2023-09-02T09:46:37.000-04:00","modified":"2025-10-22T09:19:16.237-04:00","published":"2025-10-22T09:19:16.237-04:00","cssclasses":"","Authors":["Jordan Nolte"]}
 ---
+
 
 - Blood Hunter ritual involves scaling the Sanguine Peak and defeating a series of challenges, including the corporeal spirits of legendary blood hunters
 

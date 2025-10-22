@@ -1,18 +1,7 @@
 ---
-Type:
-  - Desolate Ruin
-Age (years): 1800
-Appearances:
-  - "[[Adventures/18 Morganth's LEGION OF DOOM\|18 Morganth's LEGION OF DOOM]]"
-title: Corrodreth, The Salted City
-marker:
-  mapName: InteractiveMap
-  x: 92
-  y: 80
-  icon: mdi:map-marker-outline
-  colour: green
-Authors: [Jordan]
+{"publish":true,"title":"Corrodreth, The Salted City","created":"2023-09-02T09:43:46.000-04:00","modified":"2025-10-22T09:19:03.011-04:00","published":"2025-10-22T09:19:03.011-04:00","cssclasses":"","Type":["Desolate Ruin"],"Age (years)":1800,"Appearances":["[[18 Morganth's LEGION OF DOOM]]"],"marker":{"mapName":"InteractiveMap","x":92,"y":80,"icon":"mdi:map-marker-outline","colour":"green"},"Authors":["Jordan"]}
 ---
+
 ![[z_assets/corrodreth.png|600]]
 
 ### Overview
