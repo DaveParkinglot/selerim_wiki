@@ -1,16 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Ethan
-- Devin
-- Mike Doom
-Platform: Foundry
-Sessions: 1
-Start Date: 2025-05-14
-aliases:
-- The Crimsonclaw Bounty
-Authors: [Jordan]
+{"publish":true,"aliases":["The Crimsonclaw Bounty"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:32:59.978-04:00","published":"2025-10-22T09:32:59.978-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Devin","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-05-14","Authors":["Jordan"]}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry

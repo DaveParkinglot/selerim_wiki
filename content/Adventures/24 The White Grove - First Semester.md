@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The White Grove- First Semester"],"created":"2025-07-27T17:44:31.000-04:00","modified":"2025-10-22T08:56:10.342-04:00","published":"2025-10-22T08:56:10.342-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Brian"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-07-10","Authors":["Jordan"]}
+{"publish":true,"aliases":["The White Grove- First Semester"],"created":"2025-07-27T17:44:31.000-04:00","modified":"2025-10-22T09:33:10.428-04:00","published":"2025-10-22T09:33:10.428-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Brian"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-07-10","Authors":["Jordan"]}
 ---
 
 # Details
@@ -13,6 +13,7 @@
 - [[NPCs/The White Grove/Arctur Execlostrabaum]], the highly eccentric Tiialan archmage, has been chosen as the headmaster of the school. It goes without saying that his highly progressive mindset has been a topic of discussion amongst conservative Tiialans. He believes magic is a staple of the world, to be shared with all peoples whether north, south, above, or even below...
 - We begin our adventure a few weeks into the first semester of your freshman year at The White Grove.
 - You are in the midst of preparing for your first Intro to Infernal exam, a class taught by the Grove's newest professor—[[NPCs/The White Grove/Professor Daemon Darkfyre\|Daemon Darkfyre]].
+
 # Outcomes
 - After surviving a sabotaged magical staircase that flung them into multiple dimensions, the students began a legendary cram session to prepare for their Intro to Infernal Exam. 
 - During this cram session, they collaborated with their fellow students to improve their chances at passing the exam. Some students became fast friends, while others became bitter enemies.

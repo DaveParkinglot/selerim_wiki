@@ -1,17 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Ethan
-- Mike Doom
-- Jimmy
-- AJ
-Platform: Foundry
-Sessions: 1
-Start Date: 2024-02-17
-aliases:
-- The Hidden Hoard of Winchester Bone
-Authors: [Jordan]
+{"publish":true,"aliases":["The Hidden Hoard of Winchester Bone"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:34:08.213-04:00","published":"2025-10-22T09:34:08.213-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-17","Authors":["Jordan"]}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry

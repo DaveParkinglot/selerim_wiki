@@ -1,19 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Peter
-- George
-- Michael
-- Evan
-- Mike Doom
-Platform: Foundry
-Sessions: 2
-Start Date: 2024-02-20
-End Date: 2024-02-27
-aliases:
-- Arby's Sauce
-Authors: [Jordan]
+{"publish":true,"aliases":["Arby's Sauce"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:34:07.011-04:00","published":"2025-10-22T09:34:07.011-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Platform":"Foundry","Sessions":2,"Start Date":"2024-02-20","End Date":"2024-02-27","Authors":["Jordan"]}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry

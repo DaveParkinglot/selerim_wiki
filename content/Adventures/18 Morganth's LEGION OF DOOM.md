@@ -1,18 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Kyle
-- Laura
-- Mike Doom
-- Ethan
-Platform: Foundry
-Sessions: 2
-Start Date: 2025-01-22
-End Date: 2025-01-29
-aliases:
-- Morganth's LEGION OF DOOM
-Authors: [Jordan]
+{"publish":true,"aliases":["Morganth's LEGION OF DOOM"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:33:13.549-04:00","published":"2025-10-22T09:33:13.549-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Laura","Mike Doom","Ethan"],"Platform":"Foundry","Sessions":2,"Start Date":"2025-01-22","End Date":"2025-01-29","Authors":["Jordan"]}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry

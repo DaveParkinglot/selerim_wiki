@@ -1,17 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Brian
-- Laura
-- Mike Doom
-- Peter
-Platform: Foundry
-Sessions: 1
-Start Date: 2025-02-12
-aliases:
-- The Marrowsucker Contract
-Authors: [Jordan]
+{"publish":true,"aliases":["The Marrowsucker Contract"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:33:13.172-04:00","published":"2025-10-22T09:33:13.172-04:00","cssclasses":"","DM":"Jordan","Players":["Brian","Laura","Mike Doom","Peter"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-02-12","Authors":["Jordan"]}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry

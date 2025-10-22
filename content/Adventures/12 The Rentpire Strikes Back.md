@@ -1,17 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Michael
-- Bishop
-- Mike Doom
-- Bucher
-Platform: Foundry
-Sessions: 1
-Start Date: 2024-09-12
-aliases:
-- The Rentpire Strikes Back
-Authors: [Jordan]
+{"publish":true,"aliases":["The Rentpire Strikes Back"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:33:59.905-04:00","published":"2025-10-22T09:33:59.905-04:00","cssclasses":"","DM":"Jordan","Players":["Michael","Bishop","Mike Doom","Bucher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-09-12","Authors":["Jordan"]}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry

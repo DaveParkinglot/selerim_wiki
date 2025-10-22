@@ -1,17 +1,7 @@
 ---
-DM: Jordan
-Players:
-  - Jessa
-  - Laura
-  - Jimmy
-  - Connor
-Platform: In person
-Sessions: 1
-Start Date: 2024-12-25
-aliases:
-  - Giftmas in Nova Jersaeria
-Authors: [Jordan]
+{"publish":true,"aliases":["Giftmas in Nova Jersaeria"],"created":"2025-10-03T15:37:56.000-04:00","modified":"2025-10-22T09:33:17.662-04:00","published":"2025-10-22T09:33:17.662-04:00","cssclasses":"","DM":"Jordan","Players":["Jessa","Laura","Jimmy","Connor"],"Platform":"In person","Sessions":1,"Start Date":"2024-12-25","Authors":["Jordan"]}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** In person
@@ -21,6 +11,7 @@ Authors: [Jordan]
 # Adventure Premise
 - It's [[Selerim Worldbuilding/Holidays/Giftmas]] Eve in [[Places/Nova Jersaeria]]. 
 - [[Barl Nilewski]], the Boli Gnome is one of the best stromboli makers in the city, but his cart was robbed on the way to the Giftmas Market, and he needs you to figure out who did it!
+
 # Outcomes
 - The party investigated the Giftmas Market and talked about Barl's missing strombolis with food vendors Tina Tortellini, Gorbachev Gabagool, and Tony Trepeperoni.
 - The party uncovered the deception of Tony Trepeperoni, who turned out to be 3 goblins in a trenchcoat.

@@ -1,17 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Brian
-- Mike Doom
-- Ethan
-- David
-Platform: Foundry
-Sessions: 1
-Start Date: 2024-10-30
-aliases:
-- Bootknife's Bounty
-Authors: [Jordan]
+{"publish":true,"aliases":["Bootknife's Bounty"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:32:45.248-04:00","published":"2025-10-22T09:32:45.248-04:00","cssclasses":"","DM":"Jordan","Players":["Brian","Mike Doom","Ethan","David"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-30","Authors":["Jordan"]}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry

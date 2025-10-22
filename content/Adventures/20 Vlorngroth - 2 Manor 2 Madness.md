@@ -1,18 +1,7 @@
 ---
-DM: Jordan
-Players:
-- Peter
-- Laura
-- Mike Doom
-- Leah
-- Michael
-Platform: Foundry
-Sessions: 1
-Start Date: 2025-04-02
-aliases:
-- Vlorngroth - 2 Manor 2 Madness
-Authors: [Jordan]
+{"publish":true,"aliases":["Vlorngroth - 2 Manor 2 Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:33:12.678-04:00","published":"2025-10-22T09:33:12.678-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Laura","Mike Doom","Leah","Michael"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-04-02","Authors":["Jordan"]}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
