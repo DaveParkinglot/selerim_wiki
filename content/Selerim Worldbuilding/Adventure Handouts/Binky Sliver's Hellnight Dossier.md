@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 Handout from [[Adventures/25 The Hellnight Soirée]]
 
 ## Guests to let in: 

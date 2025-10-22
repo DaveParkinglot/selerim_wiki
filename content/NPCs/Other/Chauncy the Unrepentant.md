@@ -1,22 +1,7 @@
 ---
-Age: "26"
-Ancestry:
-  - Fiend (Devil)
-Gender: Male
-Location:
-  - Carceri, The Prison Plane
-Role:
-  - Betrayer
-  - Hellknight
-Affiliation:
-  - None
-Appearances:
-  - "[[Adventures/01 Dunland's Raiders]]"
-  - "[[Adventures/00 The High Rollers Campaign]]"
-  - "[[Adventures/25 The Hellnight Soirée]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-08-12T09:01:12.000-04:00","modified":"2025-10-22T09:15:18.337-04:00","published":"2025-10-22T09:15:18.337-04:00","cssclasses":"","Age":"26","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["Carceri, The Prison Plane"],"Role":["Betrayer","Hellknight"],"Affiliation":["None"],"Appearances":["[[01 Dunland's Raiders]]","[[00 The High Rollers Campaign]]","[[25 The Hellnight Soirée]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/chauncy_the_unrepentant.png|300]]
 
 # Overview

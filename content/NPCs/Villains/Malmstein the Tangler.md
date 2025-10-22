@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T10:26:32.336-04:00","published":"2025-10-17T10:26:32.336-04:00","cssclasses":"","Age":"48","Ancestry":["Half-Elf"],"Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Eco-Terrorist, Druid"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-22T09:16:43.528-04:00","published":"2025-10-22T09:16:43.528-04:00","cssclasses":"","Age":"48","Ancestry":["Half-Elf"],"Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Eco-Terrorist, Druid"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Authors":["Jordan"]}
 ---
 
 ![[z_assets/malmstein.png|300]]

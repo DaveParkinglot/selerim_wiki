@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 - 3 millenia ago the prime Discordant (chaotic) and Ordered (lawful) gods allied against Tharizdun, shattering his spiritual power into 6 shards, which manifest as jagged pieces of glass.
 - As it was decided that Tharizdun must never be allowed to manifest himself again, his form and spirit were kept divided and far from each other
 - The Ordered Gods retained the 3 physical sections

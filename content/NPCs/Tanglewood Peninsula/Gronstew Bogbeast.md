@@ -1,18 +1,7 @@
 ---
-Age: "31"
-Ancestry: Half-Orc
-Gender: Male
-Location:
-  - "[[Places/Crabbley]]"
-Role:
-  - Adventurer, Barbarian
-Affiliation:
-  - The Backbreakers
-Appearances:
-  - "[[Adventures/00 The High Rollers Campaign]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-22T09:15:59.519-04:00","published":"2025-10-22T09:15:59.519-04:00","cssclasses":"","Age":"31","Ancestry":"Half-Orc","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Barbarian"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/gronstew_bogbeast.png|300]]
 
 # Overview

@@ -1,19 +1,7 @@
 ---
-Age: "142"
-Ancestry:
-  - Half Sea Elf
-Gender: Male
-Location:
-  - "[[Places/Crabbley]]"
-Role:
-  - Archdruid, Leader of The Cult of the Crab
-Affiliation:
-  - The Cult of the Crab
-Appearances:
-  - "[[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T09:16:10.010-04:00","published":"2025-10-22T09:16:10.010-04:00","cssclasses":"","Age":"142","Ancestry":["Half Sea Elf"],"Gender":"Male","Location":["[[Crabbley]]"],"Role":["Archdruid, Leader of The Cult of the Crab"],"Affiliation":["The Cult of the Crab"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/montronee_treespring.png|300]]
 
 # Overview

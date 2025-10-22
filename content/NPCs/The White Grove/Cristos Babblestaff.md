@@ -1,26 +1,13 @@
 ---
-Age: "24"
-Ancestry: Orc
-Gender: Male
-Location:
-  - "[[Places/The White Grove]]"
-Role:
-  - Student
-  - Super Senior
-Affiliation:
-  - None
-Appearances:
-  - "[[Adventures/24 The White Grove- First Semester]]"
-  - "[[Adventures/26 The White Grove - Summer Vacation]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T09:17:00.023-04:00","published":"2025-10-22T09:17:00.023-04:00","cssclasses":"","Age":"24","Ancestry":"Orc","Gender":"Male","Location":["[[Places/The White Grove]]"],"Role":["Student","Super Senior"],"Affiliation":["None"],"Appearances":["[[24 The White Grove - First Semester]]","[[26 The White Grove - Summer Vacation]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/cristos_babblestaff.png|300]]
 
 # Overview
 
-## [[Adventures/24 The White Grove- First Semester\|The White Grove- First Semester]]
-- A studious and sometimes douchey orc studying at [[Places/The White Grove]].
+## [[Adventures/24 The White Grove - First Semester\|The White Grove- First Semester]]
+- A studious and sometimes douchey orc studying at [[The White Grove]].
 - He was the first orc student admitted to The White Grove several years ago. He is a senior but he struggles in many of his classes.
 - He was betrayed by [[NPCs/The White Grove/Temur Octagon]] when Temur, who turned out to be working with [[Factions/Morganth's Legion of Doom]], tried to steal information on [[NPCs/Other/Tzastis the Collector]] from The White Grove library.
 
@@ -36,7 +23,7 @@ Authors: [Jordan]
 - **Location**: [[Places/The White Grove\|The White Grove]]
 - **Role**: Student,Super Senior
 - **Affiliation:** None
-- **Appearances:** [[Adventures/24 The White Grove- First Semester\|24 The White Grove- First Semester]],[[Adventures/26 The White Grove - Summer Vacation\|26 The White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/24 The White Grove - First Semester\|24 The White Grove - First Semester]],[[Adventures/26 The White Grove - Summer Vacation\|26 The White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes

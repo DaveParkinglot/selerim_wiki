@@ -1,19 +1,7 @@
 ---
-Age: "49"
-Ancestry: Human
-Gender: Male
-Location:
-  - "[[Places/Crabbley]]"
-Role:
-  - Thief
-  - Spymaster
-Affiliation:
-  - None
-Appearances:
-  - "[[Adventures/00 The High Rollers Campaign]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T09:16:11.460-04:00","published":"2025-10-22T09:16:11.460-04:00","cssclasses":"","Age":"49","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Thief","Spymaster"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/sleeto_van_coof.png|300]]
 
 # Overview

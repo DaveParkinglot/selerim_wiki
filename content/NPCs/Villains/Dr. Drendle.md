@@ -1,20 +1,7 @@
 ---
-Age: "52"
-Ancestry:
-  - Undead Human
-Gender: Male
-Location:
-  - Dead
-Role:
-  - Necro-Alchemist
-  - Plaguemancer
-Affiliation:
-  - "[[NPCs/Villains/Master Effree Jypstein]]"
-Appearances:
-  - "[[Adventures/00 The High Rollers Campaign]]"
-Status: Deceased
-Authors: [Jordan]
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-22T09:16:40.930-04:00","published":"2025-10-22T09:16:40.930-04:00","cssclasses":"","Age":"52","Ancestry":["Undead Human"],"Gender":"Male","Location":["Dead"],"Role":["Necro-Alchemist","Plaguemancer"],"Affiliation":["[[NPCs/Villains/Master Effree Jypstein]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Authors":["Jordan"]}
 ---
+
 ![[z_assets/dr_drendle.png|300]]
 # Overview
 - The former [[Places/Crabbley]] alchemist, before he gave up his mortality in favor of undeath. He was using the Gem of Eyes in a dark ritual at the Aldwood Lighthouse before he was slain by [[Player Characters/The High Rollers/The High Rollers]].
@@ -42,4 +29,4 @@ Authors: [Jordan]
 
 | Name                       | Relationship |
 | -------------------------- | ------------ |
-| [[NPCs/Villains/Master Effree Jypstein]] | Master       |
+| [[Master Effree Jypstein]] | Master       |

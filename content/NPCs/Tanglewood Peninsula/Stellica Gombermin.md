@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:22:58.062-04:00","published":"2025-10-17T10:22:58.062-04:00","cssclasses":"","Age":"19","Ancestry":"Goblin","Gender":"Female","Location":["[[Crabbley]]"],"Role":["Intern","Staffer","Aspiring Politician"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T09:16:11.935-04:00","published":"2025-10-22T09:16:11.935-04:00","cssclasses":"","Age":"19","Ancestry":"Goblin","Gender":"Female","Location":["[[Crabbley]]"],"Role":["Intern","Staffer","Aspiring Politician"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/stellica_gombermin.png|300]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-02T12:18:30.000-04:00","modified":"2025-10-17T10:27:11.709-04:00","published":"2025-10-17T10:27:11.709-04:00","cssclasses":"","Age":"35","Ancestry":["Goblin","Kobold","Mutant"],"Gender":"Male","Location":["[[Vlorngroth]]"],"Role":["Familiar"],"Affiliation":["None"],"Appearances":["[[20 Vlorngroth - 2 Manor 2 Madness]]","[[27 Vlorngroth - Vampire Weekday]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-10-02T12:18:30.000-04:00","modified":"2025-10-22T09:16:56.931-04:00","published":"2025-10-22T09:16:56.931-04:00","cssclasses":"","Age":"35","Ancestry":["Goblin","Kobold","Mutant"],"Gender":"Male","Location":["[[Vlorngroth]]"],"Role":["Familiar"],"Affiliation":["None"],"Appearances":["[[20 Vlorngroth - 2 Manor 2 Madness]]","[[27 Vlorngroth - Vampire Weekday]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/morbus.png|300]]

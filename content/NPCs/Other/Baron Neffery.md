@@ -1,19 +1,7 @@
 ---
-Age: ??
-Ancestry:
-  - Fiend (Devil)
-Gender: Male
-Location:
-  - Avernus
-Role:
-  - Hell Baron
-Affiliation:
-  - None
-Appearances:
-  - "[[Adventures/25 The Hellnight Soirée]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-08-05T13:44:04.000-04:00","modified":"2025-10-22T09:15:14.299-04:00","published":"2025-10-22T09:15:14.299-04:00","cssclasses":"","Age":"??","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["Avernus"],"Role":["Hell Baron"],"Affiliation":["None"],"Appearances":["[[25 The Hellnight Soirée]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/baron_neffery.png|300]]
 
 # Overview

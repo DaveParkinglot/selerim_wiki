@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 - See [[Selerim Timeline]]! The world of Selerim was originally used as a factory of war by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elves' god of war.
 	- Despite his dark deeds, Selvetarm remains the namesake of the world.
 - The world is *probably* analogous to Earth, with similar gravity and rotational patterns. Unless I come up with something cooler at some point.

@@ -1,18 +1,7 @@
 ---
-Age: "44"
-Ancestry: Human
-Gender: Male
-Location:
-  - "[[Places/Crabbley]]"
-Role:
-  - Entrepreneur, Former Patron of The High Rollers
-Affiliation:
-  - "[[Crabbley Council]]"
-Appearances:
-  - "[[Adventures/00 The High Rollers Campaign]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T09:16:10.535-04:00","published":"2025-10-22T09:16:10.535-04:00","cssclasses":"","Age":"44","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Entrepreneur, Former Patron of The High Rollers"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/ray_stilts.png|300]]
 
 # Overview

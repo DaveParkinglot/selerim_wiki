@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:24:15.593-04:00","published":"2025-10-17T10:24:15.593-04:00","cssclasses":"","Age":"57","Ancestry":"Deep Gnome","Gender":"Male","Location":["The Esposito Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 The High Rollers Campaign]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T08:56:57.327-04:00","published":"2025-10-22T08:56:57.327-04:00","cssclasses":"","Age":"57","Ancestry":"Deep Gnome","Gender":"Male","Location":["The Esposito Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/bedmund_the_catatonic.png|300]]

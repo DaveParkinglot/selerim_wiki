@@ -1,20 +1,7 @@
 ---
-Age: "48"
-Ancestry:
-  - Bugbear
-Gender: Male
-Location:
-  - "[[Places/Scrimshaw City]]"
-Role:
-  - Bouncer, Former Monster Wrangler
-Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers]]"
-Appearances:
-  - "[[Adventures/00 The High Rollers Campaign]]"
-  - "[[Adventures/08 Arby's Sauce]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-22T09:15:31.381-04:00","published":"2025-10-22T09:15:31.381-04:00","cssclasses":"","Age":"48","Ancestry":["Bugbear"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bouncer, Former Monster Wrangler"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/arby.png|300]]
 
 # Overview

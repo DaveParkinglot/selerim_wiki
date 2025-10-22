@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 - A blood hunter hailing from [[Places/Forsyth Keep]]
 
 Tadeusz post chapter 3 downtime

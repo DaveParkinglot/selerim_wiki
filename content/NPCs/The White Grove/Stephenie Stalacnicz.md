@@ -1,20 +1,7 @@
 ---
-Age: "22"
-Ancestry: Drow Elf
-Gender: Female
-Location:
-  - "[[Places/The White Grove]]"
-Role:
-  - Student
-  - Junior
-Affiliation:
-  - Vlorngroth
-Appearances:
-  - "[[Adventures/24 The White Grove- First Semester]]"
-  - "[[Adventures/26 The White Grove - Summer Vacation]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T09:17:00.059-04:00","published":"2025-10-22T09:17:00.059-04:00","cssclasses":"","Age":"22","Ancestry":"Drow Elf","Gender":"Female","Location":["[[The White Grove]]"],"Role":["Student","Junior"],"Affiliation":["Vlorngroth"],"Appearances":["[[24 The White Grove - First Semester]]","[[26 The White Grove - Summer Vacation]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/stephenie_stalacnicz.png|300]]
 
 # Overview
@@ -28,7 +15,7 @@ Authors: [Jordan]
 - **Location**: [[Places/The White Grove\|The White Grove]]
 - **Role**: Student,Junior
 - **Affiliation:** Vlorngroth
-- **Appearances:** [[Adventures/24 The White Grove- First Semester\|24 The White Grove- First Semester]],[[Adventures/26 The White Grove - Summer Vacation\|26 The White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/24 The White Grove - First Semester\|24 The White Grove - First Semester]],[[Adventures/26 The White Grove - Summer Vacation\|26 The White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes

@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 List of deities relevant to the world of Selerim that have come up so far (not an exhaustive list).
 
 For a more exhaustive list visit [https://5e.tools/deities.html](https://5e.tools/deities.html).

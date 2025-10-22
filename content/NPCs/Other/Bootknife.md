@@ -1,18 +1,7 @@
 ---
-Age: "37"
-Ancestry: Goblin
-Gender: Male
-Location:
-  - Varies
-Role:
-  - Roguish Fiend, Thief, Part-time Merchant
-Affiliation:
-  - None
-Appearances:
-  - "[[Adventures/14 Bootknife's Bounty]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-22T09:15:16.909-04:00","published":"2025-10-22T09:15:16.909-04:00","cssclasses":"","Age":"37","Ancestry":"Goblin","Gender":"Male","Location":["Varies"],"Role":["Roguish Fiend, Thief, Part-time Merchant"],"Affiliation":["None"],"Appearances":["[[14 Bootknife's Bounty]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/bootknife.png|300]]
 
 # Overview

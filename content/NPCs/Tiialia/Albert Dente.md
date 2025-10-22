@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T11:12:22.533-04:00","published":"2025-10-17T11:12:22.533-04:00","cssclasses":"","Age":"74","Ancestry":"Human","Gender":"Male","Location":["The Esposito Vineyard","[[Nova Jersaeria]]"],"Role":["Butler"],"Affiliation":["[[The High Rollers]]","[[Factions/The Kingdom of Tiialia/The Esposito Family]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T08:56:17.844-04:00","published":"2025-10-22T08:56:17.844-04:00","cssclasses":"","Age":"74","Ancestry":"Human","Gender":"Male","Location":["The Esposito Vineyard","[[Nova Jersaeria]]"],"Role":["Butler"],"Affiliation":["[[The High Rollers]]","[[Factions/The Kingdom of Tiialia/The Esposito Family]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/albert_dente.png|300]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T11:10:57.206-04:00","published":"2025-10-17T11:10:57.206-04:00","cssclasses":"","Age":"347","Ancestry":["Devil"],"Gender":"Male","Location":["Dead"],"Role":["Former El Presidente"],"Affiliation":["[[Tavernstool]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-22T09:16:42.780-04:00","published":"2025-10-22T09:16:42.780-04:00","cssclasses":"","Age":"347","Ancestry":["Devil"],"Gender":"Male","Location":["Dead"],"Role":["Former El Presidente"],"Affiliation":["[[Tavernstool]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Authors":["Jordan"]}
 ---
 
 ![[z_assets/lord_davos_portnoir_human.jpg|200]] ![[z_assets/lord_davos_portnoir_devil.png|300]]

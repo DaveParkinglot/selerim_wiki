@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 - 
 - [[Places/Tiialia]] hooks:
 	- His father Marco De Luca was a spy working for the Landuccis in the [[Selerim Worldbuilding/Events/The War of the Four Families]]

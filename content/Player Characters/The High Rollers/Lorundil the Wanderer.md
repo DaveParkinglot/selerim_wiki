@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 - He is on a pursuit of knowledge, chaotic neutral/good
 - 
 - He was a professor who lost 3 of his students in a horrible ritual gone wrong

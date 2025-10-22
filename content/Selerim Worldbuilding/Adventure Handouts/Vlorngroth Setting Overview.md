@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 Handout from [[Adventures/02 Vlorngroth - The Manor of Madness]]
 
 ## VLORNGROTH

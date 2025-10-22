@@ -1,19 +1,7 @@
 ---
-Age: "45"
-Ancestry:
-  - Tiefling
-Gender: Male
-Location:
-  - "[[Places/Scrimshaw City]]"
-Role:
-  - Alchemist
-Affiliation:
-  - None
-Appearances:
-  - "[[Adventures/00 The High Rollers Campaign]]"
-Status: Alive
-Authors: [Jordan]
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-22T09:15:37.112-04:00","published":"2025-10-22T09:15:37.112-04:00","cssclasses":"","Age":"45","Ancestry":["Tiefling"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Alchemist"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
+
 ![[z_assets/euron_underfoe.png|300]]
 
 # Overview

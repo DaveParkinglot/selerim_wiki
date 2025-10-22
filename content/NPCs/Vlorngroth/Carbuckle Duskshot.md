@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T10:26:59.077-04:00","published":"2025-10-17T10:26:59.077-04:00","cssclasses":"","Age":"42","Ancestry":"Drow","Gender":"Male","Location":["[[Places/Vlorngroth]]"],"Role":["Gunslinger Bounty Hunter, Former Inquisitor"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-22T09:16:46.024-04:00","published":"2025-10-22T09:16:46.024-04:00","cssclasses":"","Age":"42","Ancestry":"Drow","Gender":"Male","Location":["[[Places/Vlorngroth]]"],"Role":["Gunslinger Bounty Hunter, Former Inquisitor"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/carbuckle_duskshot.png|300]]

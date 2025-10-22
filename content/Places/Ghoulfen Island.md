@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 - Domain of [[NPCs/Legends/Galgitch, The Afterking]]
 - A curse left on the land by a long dead lich means that nothing that dies in Ghoulfen Island stays dead, unless the creature so chooses to forego the "opportunity" to live in death
 - [[Places/Mournholde]], the city of the dead, has become a bastion for those who would prefer to live in death

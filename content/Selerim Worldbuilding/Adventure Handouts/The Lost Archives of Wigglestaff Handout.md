@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 ## THE LOST ARCHIVES OF WIGGLESTAFF
 ![[z_assets/wigglestaff_handout.png]]
 - You may be a new settler on the TANGLEWOOD PENINSULA, you might be a resident of the small fishing village of [[Places/Crillville]], or you could just be passin' through. In either case, you have responded to a notice board posting from one [[NPCs/Tanglewood Peninsula/Dick Gunbarrel]], the imposing half-giant paladin who leads the [[Places/Crillville]] DEFENSE FORCE (CDF).
