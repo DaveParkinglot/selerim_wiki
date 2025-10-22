@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T11:13:56.938-04:00","published":"2025-10-17T11:13:56.938-04:00","cssclasses":"","Age":"64","Ancestry":"Gnome","Gender":"Male","Location":["[[Places/Crabbley]]","The Cronium Caves"],"Role":["Gnome Diplomat"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 The High Rollers Campaign]]","[[05 The Hunt for Pill'Grim]]","[[22 The Crimsonclaw Bounty]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-22T08:56:13.572-04:00","published":"2025-10-22T08:56:13.572-04:00","cssclasses":"","Age":"64","Ancestry":"Gnome","Gender":"Male","Location":["[[Places/Crabbley]]","The Cronium Caves"],"Role":["Gnome Diplomat"],"Affiliation":["Cronium Gnomes"],"Appearances":["[[00 The High Rollers Campaign]]","[[05 The Hunt for Pill'Grim]]","[[22 The Crimsonclaw Bounty]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/bopus.png|300]]

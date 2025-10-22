@@ -1,1 +1,5 @@
+---
+Authors: [Jordan Nolte]
+---
+
 Placeholder, view this for now: [[Selerim Worldbuilding/Adventure Handouts/Vlorngroth Setting Overview]]

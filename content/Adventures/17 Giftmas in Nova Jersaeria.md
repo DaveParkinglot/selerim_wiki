@@ -1,10 +1,22 @@
 ---
-{"publish":true,"aliases":["Giftmas in Nova Jersaeria"],"created":"2025-10-03T15:37:56.000-04:00","modified":"2025-10-09T16:59:13.000-04:00","published":"2025-10-09T16:59:13.000-04:00","cssclasses":"","DM":"Jordan","Players":["Jessa","Laura","Jimmy","Connor"],"Platform":"In person"}
+DM: Jordan
+Players:
+  - Jessa
+  - Laura
+  - Jimmy
+  - Connor
+Platform: In person
+Sessions: 1
+Start Date: 2024-12-25
+aliases:
+  - Giftmas in Nova Jersaeria
+Authors: [Jordan]
 ---
-
 # Details
 - **DM**: Jordan
 - **Platform:** In person
+- **Sessions:** 1
+- **Start Date:** 2024-12-25T00:00:00.000-05:00
 
 # Adventure Premise
 - It's [[Selerim Worldbuilding/Holidays/Giftmas]] Eve in [[Places/Nova Jersaeria]]. 

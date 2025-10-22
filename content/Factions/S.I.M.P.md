@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 - Hierarchical society of manly men, led by "Matriarch" Helga Smith
 	- Latrine Baby
 	- Frail Manlet

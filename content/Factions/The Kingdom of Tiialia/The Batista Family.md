@@ -2,4 +2,4 @@
 Authors: [Jordan Nolte]
 ---
 
-	make faction markdown template
+placeholder

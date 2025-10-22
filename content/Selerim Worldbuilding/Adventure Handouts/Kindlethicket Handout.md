@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 Handout for [[Adventures/15 Kindlethicket - Envoys of Mitlin]]
 
 ## Kindlethicket (or, Steamy Fairy Adventures)

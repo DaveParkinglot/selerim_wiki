@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:24:38.700-04:00","published":"2025-10-17T10:24:38.700-04:00","cssclasses":"","Age":"24","Ancestry":["Yuan-ti"],"Gender":"Male","Location":["[[Nova Jersaeria]]","Sewers"],"Role":["Bodyguard"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T08:56:43.825-04:00","published":"2025-10-22T08:56:43.825-04:00","cssclasses":"","Age":"24","Ancestry":["Yuan-ti"],"Gender":"Male","Location":["[[Nova Jersaeria]]","Sewers"],"Role":["Bodyguard"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/cock_strombolinov.png|300]]

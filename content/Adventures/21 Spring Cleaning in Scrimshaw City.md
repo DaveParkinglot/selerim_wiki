@@ -1,11 +1,21 @@
 ---
-{"publish":true,"aliases":["Spring Cleaning in Scrimshaw City"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:33:54.000-04:00","published":"2025-09-29T09:33:54.000-04:00","cssclasses":"","DM":"Jordan","Players":["Mike Doom","Laura","Brian"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-05-01"}
+DM: Jordan
+Players:
+- Mike Doom
+- Laura
+- Brian
+Platform: Foundry
+Sessions: 1
+Start Date: 2025-05-01
+aliases:
+- Spring Cleaning in Scrimshaw City
+Authors: [Jordan]
 ---
-
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
+- **Start Date:** 2025-05-01T00:00:00.000-04:00
 
 # Adventure Premise
 - Every year, demons from across Selerim (and beyond) converge on [[Places/Scrimshaw City]] in an attempt to re-open the abyssal rift that rages beneath the city.

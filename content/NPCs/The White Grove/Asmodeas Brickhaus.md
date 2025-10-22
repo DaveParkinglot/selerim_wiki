@@ -1,7 +1,20 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:23:06.947-04:00","published":"2025-10-17T10:23:06.947-04:00","cssclasses":"","Age":"19","Ancestry":"Tiefling","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Student","Freshman"],"Affiliation":["None"],"Appearances":["[[24 The White Grove- First Semester]]","[[26 The White Grove - Summer Vacation]]"],"Status":"Alive"}
+Age: "19"
+Ancestry: Tiefling
+Gender: Male
+Location:
+  - "[[Places/The White Grove]]"
+Role:
+  - Student
+  - Freshman
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/24 The White Grove- First Semester]]"
+  - "[[Adventures/26 The White Grove - Summer Vacation]]"
+Status: Alive
+Authors: [Jordan]
 ---
-
 ![[z_assets/asmodeas_brickhaus.png|300]]
 
 # Overview

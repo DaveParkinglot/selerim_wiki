@@ -9,12 +9,13 @@ Sessions: 1
 Start Date: 2025-08-07
 aliases:
 - "The Hellnight Soir\xE9e"
+Authors: [Jordan]
 ---
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
-
+- **Start Date:** 2025-08-07T00:00:00.000-04:00
 # Adventure Premise
 - [[NPCs/Scrimshaw City/Hugh Mann]], El Presidente of Scrimshaw, has vanished from the city on the eve of his own party, the [[Selerim Worldbuilding/Holidays/Hellnight]] Soirée.
 - [[NPCs/Scrimshaw City/Binky Slivers]], bartender at The High Roller and Mann's fixer, has called you in because of your previous success in eliminating the demonic presence at the Crystal Theatre.

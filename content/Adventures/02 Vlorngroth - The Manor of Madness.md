@@ -1,7 +1,18 @@
 ---
-{"publish":true,"aliases":["Vlorngroth - The Manor of Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T17:03:07.000-04:00","published":"2025-10-09T17:03:07.000-04:00","cssclasses":"","DM":"Jordan","Players":["George","Mike Doom","Peter","Ethan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-07-06","End Date":"2023-07-12"}
+DM: Jordan
+Players:
+- George
+- Mike Doom
+- Peter
+- Ethan
+Platform: Roll20
+Sessions: 2
+Start Date: 2023-07-06
+End Date: 2023-07-12
+aliases:
+- Vlorngroth - The Manor of Madness
+Authors: [Jordan]
 ---
-
 Handouts:
 [[Selerim Worldbuilding/Adventure Handouts/Vlorngroth Setting Overview]]
 [[Selerim Worldbuilding/Adventure Handouts/Inquisitor's Dossier]]
@@ -10,6 +21,8 @@ Handouts:
 - **DM**: Jordan
 - **Platform:** Roll20
 - **Sessions:** 2
+- **Start Date:** 2023-07-06T00:00:00.000-04:00
+- **End Date:** 2023-07-12T00:00:00.000-04:00
 
 # Adventure Premise
 - You will play as a group of Inquisitor Initiates in the city of [[Places/Vlorngroth]].

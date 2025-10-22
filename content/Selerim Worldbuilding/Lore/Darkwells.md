@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 - Dark pools of unnaturally cold water, said to connect Selerim to the Elemental Plane of Water
 - Legends in [[Places/Vlorngroth]] claim that [[Selvetarm]] himself delved through the planes to create the Darkwells.
 - The water from the Darkwells is said to have been used to temper the steel of Selvetarm's war machines.

@@ -1,11 +1,24 @@
 ---
-{"publish":true,"aliases":["The White Grove - Summer Vacation"],"created":"2025-08-16T21:13:04.000-04:00","modified":"2025-10-18T17:47:06.582-04:00","published":"2025-10-18T17:47:06.582-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Brian","Bishop"],"Platform":"Foundry","Sessions":4,"Start Date":"2025-08-21","End Date":"2025-10-15"}
+DM: Jordan
+Players:
+  - Ethan
+  - Mike Doom
+  - Brian
+  - Bishop
+Platform: Foundry
+Sessions: 4
+Start Date: 2025-08-21
+End Date: 2025-10-15
+aliases:
+  - The White Grove - Summer Vacation
+Authors: [Jordan]
 ---
-
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 4
+- **Start Date:** 2025-08-21T00:00:00.000-04:00
+- **End Date:** 2025-10-15T00:00:00.000-04:00
 
 # Adventure Premise
 - Over summer break, Headmaster [[NPCs/The White Grove/Arctur Execlostrabaum]] has challenged the students of [[Places/The White Grove]] to a competitive off-campus scavenger hunt.

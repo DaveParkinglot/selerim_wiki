@@ -1,5 +1,10 @@
+---
+Authors: [Jordan Nolte]
+---
+
 | Name                                                                                                          | DM        | Players                                                                                                            | Platform                                 |
 | ------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
+| [[Adventures/28 Voyage a la Isla Ruz\|28 Voyage a la Isla Ruz]]                               | Ethan     | <ul><li>Bishop</li><li>Mike Doom</li><li>Jordan</li><li>Devin</li></ul>                                            | Foundry                                  |
 | [[Adventures/27 Vlorngroth - Vampire Weekday\|27 Vlorngroth - Vampire Weekday]]               | Jordan    | \-                                                                                                                 | Foundry                                  |
 | [[Adventures/26 The White Grove - Summer Vacation\|26 The White Grove - Summer Vacation]]     | Jordan    | <ul><li>Ethan</li><li>Mike Doom</li><li>Brian</li><li>Bishop</li></ul>                                             | Foundry                                  |
 | [[Adventures/25 The Hellnight Soirée\|25 The Hellnight Soirée]]                               | Jordan    | <ul><li>Laura</li><li>Brian</li><li>Mike Doom</li></ul>                                                            | Foundry                                  |

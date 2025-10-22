@@ -1,7 +1,19 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T11:14:02.673-04:00","published":"2025-10-17T11:14:02.673-04:00","cssclasses":"","Age":"??","Ancestry":"Human","Gender":"Male","Location":["[[The White Grove]]"],"Role":["Professor of Infernal Magicks"],"Affiliation":["None"],"Appearances":["[[24 The White Grove- First Semester]]","[[26 The White Grove - Summer Vacation]]"],"Status":"Alive"}
+Age: ??
+Ancestry: Human
+Gender: Male
+Location:
+  - "[[Places/The White Grove]]"
+Role:
+  - Professor of Infernal Magicks
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/24 The White Grove- First Semester]]"
+  - "[[Adventures/26 The White Grove - Summer Vacation]]"
+Status: Alive
+Authors: [Jordan]
 ---
-
 ![[z_assets/daemon_darkfyre.png|300]]
 
 # Overview

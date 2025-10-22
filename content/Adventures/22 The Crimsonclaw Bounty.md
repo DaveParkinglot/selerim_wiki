@@ -9,11 +9,13 @@ Sessions: 1
 Start Date: 2025-05-14
 aliases:
 - The Crimsonclaw Bounty
+Authors: [Jordan]
 ---
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
+- **Start Date:** 2025-05-14T00:00:00.000-04:00
 
 # Adventure Premise
 - For a sleepy fishing village, [[Places/Crabbley]] has always had more than its fair share of threats from both the land and the sea.

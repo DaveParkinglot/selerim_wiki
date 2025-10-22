@@ -1,19 +1,12 @@
 ---
-DM: Jordan
-Players:
-- Ethan
-- Mike Doom
-- Brian
-Platform: Foundry
-Sessions: 1
-Start Date: 2025-07-10
-aliases:
-- The White Grove- First Semester
+{"publish":true,"aliases":["The White Grove- First Semester"],"created":"2025-07-27T17:44:31.000-04:00","modified":"2025-10-22T08:56:10.342-04:00","published":"2025-10-22T08:56:10.342-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Brian"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-07-10","Authors":["Jordan"]}
 ---
+
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
+- **Start Date:** 2025-07-10T00:00:00.000-04:00
 
 # Adventure Premise
 - In the last year, [[NPCs/Tiialia/Antonino Esposito\|King Antonino Esposito]] of [[Places/Tiialia]] has put massive funding towards reopening [[Places/The White Grove]] as an independent magical institution. For the first time in over two centuries, admission is available to anyone with magical abilities—not just those training to become Tiialan artillery mages. 

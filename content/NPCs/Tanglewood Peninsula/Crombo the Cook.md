@@ -1,7 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T10:21:30.032-04:00","published":"2025-10-17T10:21:30.032-04:00","cssclasses":"","Age":"17","Ancestry":"Dragonborn","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Bard, Head Chef"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
+Age: "17"
+Ancestry: Dragonborn
+Gender: Male
+Location:
+  - "[[Places/Crabbley]]"
+Role:
+  - Adventurer, Bard, Head Chef
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 The High Rollers Campaign]]"
+Status: Alive
+Authors: [Jordan]
 ---
-
 ![[z_assets/crombo_the_cook.png|300]]
 
 # Overview

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:25:01.408-04:00","published":"2025-10-17T10:25:01.408-04:00","cssclasses":"","Age":"40","Ancestry":"Human","Gender":"Male","Location":["[[Nova Jersaeria]]"],"Role":["Blacksmith"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T08:56:32.631-04:00","published":"2025-10-22T08:56:32.631-04:00","cssclasses":"","Age":"40","Ancestry":"Human","Gender":"Male","Location":["[[Nova Jersaeria]]"],"Role":["Blacksmith"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/jack_smith.png|300]]

@@ -1,14 +1,25 @@
 ---
-{"publish":true,"aliases":["Kindlethicket - Envoys of Mitlin"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-09-29T09:27:15.000-04:00","published":"2025-09-29T09:27:15.000-04:00","cssclasses":"","DM":"Jordan","Players":["Cale","Laura","Leah","Meagan","Peter"],"Platform":"In person","Sessions":1,"Start Date":"2024-11-27"}
+DM: Jordan
+Players:
+- Cale
+- Laura
+- Leah
+- Meagan
+- Peter
+Platform: In person
+Sessions: 1
+Start Date: 2024-11-27
+aliases:
+- Kindlethicket - Envoys of Mitlin
+Authors: [Jordan]
 ---
-
 Handouts:
 [[Selerim Worldbuilding/Adventure Handouts/Kindlethicket Handout]]
 
-# Details
-- **DM**: Jordan
+# Details- **DM**: Jordan
 - **Platform:** In person
 - **Sessions:** 1
+- **Start Date:** 2024-11-27T00:00:00.000-05:00
 
 # Adventure Premise
 - The Wise Wizards of [[Places/Mitlin]] have sensed a dramatic change in the ley lines of the Tanglewood Peninsula! A new Fey Crossing—where our Material Plane intersects with The Feywild, the Plane of Faerie—has sprung up on the eastern arm of the peninsula, an event that has not happened in generations of elves!

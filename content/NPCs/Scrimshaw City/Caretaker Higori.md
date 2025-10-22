@@ -1,11 +1,23 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T10:17:47.662-04:00","published":"2025-10-17T10:17:47.662-04:00","cssclasses":"","Age":"93","Ancestry":["Sea Elf"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Rogue"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
+Age: "93"
+Ancestry:
+  - Sea Elf
+Gender: Male
+Location:
+  - "[[Places/Scrimshaw City]]"
+Role:
+  - Rogue
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 The High Rollers Campaign]]"
+Status: Alive
+Authors: [Jordan]
 ---
-
 ![[z_assets/caretaker_higori.png|300]]
 
 # Overview
-- Garderner, herbalist, healer, and the caretaker of the Henge of Avandra in [[Scrimshaw City]].
+- Garderner, herbalist, healer, and the caretaker of the Henge of Avandra in [[Places/Scrimshaw City]].
 - Unseelie fey have been overtaking the henge and upsetting him quite a bit recently.
 
 # Key Details

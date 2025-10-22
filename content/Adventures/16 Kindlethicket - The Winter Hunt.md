@@ -1,12 +1,22 @@
 ---
-{"publish":true,"aliases":["Kindlethicket - The Winter Hunt"],"created":"2025-07-25T10:08:23.000-04:00","modified":"2025-10-09T16:58:47.000-04:00","published":"2025-10-09T16:58:47.000-04:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Laura","Dan E.","Mike Doom"],"Platform":"In person","Sessions":1,"Start Date":"2024-12-20"}
+DM: Jordan
+Players:
+- Bishop
+- Laura
+- Dan E.
+- Mike Doom
+Platform: In person
+Sessions: 1
+Start Date: 2024-12-20
+aliases:
+- Kindlethicket - The Winter Hunt
+Authors: [Jordan]
 ---
-
 # Details
 - **DM**: Jordan
 - **Platform:** In person
 - **Sessions:** 1
-
+- **Start Date:** 2024-12-20T00:00:00.000-05:00
 # Adventure Premise
 - As every good elf in [[Places/Mitlin]] knows, on Giftmas Eve, the Archfey [[Krampus]] leads the Winter Hunt across the domains of the Feywild and into the myriad material planes, capturing those who have broken sacred pacts and stowing them in his big black punishment sack. This year, an innocent soul from your world was unjustly marked as a pactbreaker and claimed by The Hunt.
 - The Wise Wizards of Mitlin have scried that this individual must be rescued, as they have information that could save the world. With no family to spend Giftmas with, you have been chosen for this perilous quest into the Feywild. [[NPCs/Tanglewood Peninsula/Melvin Oaksleeves\|Wise Wizard Melvin]]’s parting words echo in your mind: “This [[Selerim Worldbuilding/Holidays/Giftmas]], the fate of Selerim teeters on a knife's edge. One misstep, and all will careen into oblivion… so do try not to mess it up. Good luck!”

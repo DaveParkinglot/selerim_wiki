@@ -1,7 +1,18 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-17T10:15:59.180-04:00","published":"2025-10-17T10:15:59.180-04:00","cssclasses":"","Age":"286","Ancestry":"Halfling","Gender":"Male","Location":["[[The Wild Thicket]]"],"Role":["Archdruid, Mentor"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
+Age: "286"
+Ancestry: Halfling
+Gender: Male
+Location:
+  - "[[Places/The Wild Thicket]]"
+Role:
+  - Archdruid, Mentor
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/00 The High Rollers Campaign]]"
+Status: Alive
+Authors: [Jordan]
 ---
-
 ![[z_assets/myrrdin_turftoe.png|300]]
 
 # Overview

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-26T23:27:19.000-04:00","modified":"2025-10-17T10:24:52.536-04:00","published":"2025-10-17T10:24:52.536-04:00","cssclasses":"","Age":"45","Ancestry":["Human"],"Gender":"Male","Location":["[[Nova Jersaeria]]","Batista Family Manor"],"Role":"Conman, Crime affiliate","Affiliation":"Batiste Family","Appearances":["[[23 The Great Tiialan Heist]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-08-26T23:27:19.000-04:00","modified":"2025-10-22T08:56:33.612-04:00","published":"2025-10-22T08:56:33.612-04:00","cssclasses":"","Age":"45","Ancestry":["Human"],"Gender":"Male","Location":["[[Nova Jersaeria]]","Batista Family Manor"],"Role":"Conman, Crime affiliate","Affiliation":"Batiste Family","Appearances":["[[23 The Great Tiialan Heist 1]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/falsus_omnibus.png|300]]
@@ -14,7 +14,7 @@ It seems that, while Falsus Omnibus in theory serves the Batiste family, he most
 - **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],Batista Family Manor
 - **Role**: Conman, Crime affiliate
 - **Affiliation:** Batiste Family
-- **Appearances:** [[Adventures/23 The Great Tiialan Heist\|23 The Great Tiialan Heist]]
+- **Appearances:** [[23 The Great Tiialan Heist 1\|23 The Great Tiialan Heist 1]]
 - **Status:** Alive
 
 # Attributes

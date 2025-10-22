@@ -11,11 +11,14 @@ Start Date: 2025-01-22
 End Date: 2025-01-29
 aliases:
 - Morganth's LEGION OF DOOM
+Authors: [Jordan]
 ---
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 2
+- **Start Date:** 2025-01-22T00:00:00.000-05:00
+- **End Date:** 2025-01-29T00:00:00.000-05:00
 
 # Adventure Premise
 - Your brilliant leader, the wicked sorcerer [[Factions/Morganth's Legion of Doom\|MORGANTH'S LEGION OF DOOM]], you will aid your master even unto death. As such, you have agreed to infiltrate the accursed city and locate the warlock's tomb.

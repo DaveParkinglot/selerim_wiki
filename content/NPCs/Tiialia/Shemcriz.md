@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-17T10:25:36.723-04:00","published":"2025-10-17T10:25:36.723-04:00","cssclasses":"","Age":"20","Ancestry":"Kobold","Gender":"Male","Location":["The Esposito Vineyard","Tiialia"],"Role":["Drunk"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive"}
+{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-22T08:56:30.833-04:00","published":"2025-10-22T08:56:30.833-04:00","cssclasses":"","Age":"20","Ancestry":"Kobold","Gender":"Male","Location":["The Esposito Vineyard","Tiialia"],"Role":["Drunk"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Authors":["Jordan"]}
 ---
 
 ![[z_assets/shemcriz.png|300]]

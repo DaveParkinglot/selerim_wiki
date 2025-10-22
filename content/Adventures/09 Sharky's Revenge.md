@@ -10,11 +10,13 @@ Sessions: 1
 Start Date: 2024-02-24
 aliases:
 - Sharky's Revenge
+Authors: [Jordan]
 ---
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
+- **Start Date:** 2024-02-24T00:00:00.000-05:00
 
 # Adventure Premise
 - It has been 39 years to the day that Captain Winchester Bone was forced to turn on his first crew and his old first mate, [[Sharky Dolphino]]. Stricken with guilt, [[NPCs/Breakwater Cove/Captain Winchester Bone\|Bone]] tells his tale under the full moon on one foggy night...

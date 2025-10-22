@@ -1,7 +1,21 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-17T10:19:26.243-04:00","published":"2025-10-17T10:19:26.243-04:00","cssclasses":"","Age":"97","Ancestry":["Dwarf"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Former Gladiator Trainer","Failed Blood Hunter"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive"}
+Age: "97"
+Ancestry:
+  - Dwarf
+Gender: Male
+Location:
+  - "[[Places/Scrimshaw City]]"
+Role:
+  - Former Gladiator Trainer
+  - Failed Blood Hunter
+Affiliation:
+  - "[[Player Characters/The High Rollers/The High Rollers]]"
+Appearances:
+  - "[[Adventures/00 The High Rollers Campaign]]"
+  - "[[Adventures/08 Arby's Sauce]]"
+Status: Alive
+Authors: [Jordan]
 ---
-
 ![[z_assets/usus_grimsby.png|300]]
 
 # Overview

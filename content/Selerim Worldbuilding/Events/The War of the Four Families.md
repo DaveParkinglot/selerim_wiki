@@ -1,3 +1,7 @@
+---
+Authors: [Jordan Nolte]
+---
+
 - Civil war fought 25 years ago between the 4 big families of [[Places/Tiialia]]:
 	- [[Factions/The Kingdom of Tiialia/The Adonzio Family]] (current rulers)
 	- [[Factions/The Kingdom of Tiialia/The Fanto-Domingo Family]]

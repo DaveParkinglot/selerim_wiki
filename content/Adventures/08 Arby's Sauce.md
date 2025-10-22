@@ -1,11 +1,25 @@
 ---
-{"publish":true,"aliases":["Arby's Sauce"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-09T16:56:50.000-04:00","published":"2025-10-09T16:56:50.000-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Platform":"Foundry","Sessions":2,"Start Date":"2024-02-20","End Date":"2024-02-27"}
+DM: Jordan
+Players:
+- Peter
+- George
+- Michael
+- Evan
+- Mike Doom
+Platform: Foundry
+Sessions: 2
+Start Date: 2024-02-20
+End Date: 2024-02-27
+aliases:
+- Arby's Sauce
+Authors: [Jordan]
 ---
-
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 2
+- **Start Date:** 2024-02-20T00:00:00.000-05:00
+- **End Date:** 2024-02-27T00:00:00.000-05:00
 
 # Adventure Premise
 - As an up and coming adventuring party in [[Places/Scrimshaw City]], you have been approached by a mysterious stranger named [[NPCs/Scrimshaw City/Loeb]] who claims to be the Interim Chief Operating Officer of a well known business in the city. He has a task that, left undone, could spell doom for the local Tiialan eatery “The Spicy Meatball”.
