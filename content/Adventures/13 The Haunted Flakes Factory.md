@@ -1,12 +1,12 @@
 ---
-{"publish":true,"aliases":["The Haunted Flakes Factory"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:33:59.352-04:00","published":"2025-10-22T09:33:59.352-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Larry","Fisher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-23","Authors":["Jordan"]}
+{"publish":true,"aliases":["The Haunted Flakes Factory"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T21:26:27.941-04:00","published":"2025-10-22T21:26:27.941-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Larry","Fisher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-23","Authors":["Jordan"]}
 ---
 
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
-- **Start Date:** 2024-10-23T00:00:00.000-04:00
+- **Start Date:** 2024-10-23
 
 # Adventure Premise
 - Halloween One Shot

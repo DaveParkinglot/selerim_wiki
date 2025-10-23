@@ -1,12 +1,12 @@
 ---
-{"publish":true,"aliases":["The White Death Strikes"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:34:00.692-04:00","published":"2025-10-22T09:34:00.692-04:00","cssclasses":"","DM":"Bishop","Players":["Laura","Sam","Jordan"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-06-04","Authors":["Jordan"]}
+{"publish":true,"aliases":["The White Death Strikes"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T21:26:23.467-04:00","published":"2025-10-22T21:26:23.467-04:00","cssclasses":"","DM":"Bishop","Players":["Laura","Sam","Jordan"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-06-04","Authors":["Jordan"]}
 ---
 
 # Details
 - **DM**: Bishop
 - **Platform:** Foundry
 - **Sessions:** 1
-- **Start Date:** 2024-06-04T00:00:00.000-04:00
+- **Start Date:** 2024-06-04
 
 # Adventure Premise
 - Rumors have been spreading of a pack of wolves roaming near the village of Grainsford. Some have even claimed to see a figure riding one of the wolves. Investigate this strange incident and the townsfolk will see to it you are rewarded for their efforts.

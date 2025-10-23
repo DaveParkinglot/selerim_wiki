@@ -1,13 +1,13 @@
 ---
-{"publish":true,"aliases":["Morganth's LEGION OF DOOM"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:33:13.549-04:00","published":"2025-10-22T09:33:13.549-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Laura","Mike Doom","Ethan"],"Platform":"Foundry","Sessions":2,"Start Date":"2025-01-22","End Date":"2025-01-29","Authors":["Jordan"]}
+{"publish":true,"aliases":["Morganth's LEGION OF DOOM"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T21:23:29.311-04:00","published":"2025-10-22T21:23:29.311-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Laura","Mike Doom","Ethan"],"Platform":"Foundry","Sessions":2,"Start Date":"2025-01-22","End Date":"2025-01-29","Authors":["Jordan"]}
 ---
 
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 2
-- **Start Date:** 2025-01-22T00:00:00.000-05:00
-- **End Date:** 2025-01-29T00:00:00.000-05:00
+- **Start Date:** 2025-01-22
+- **End Date:** 2025-01-29
 
 # Adventure Premise
 - Your brilliant leader, the wicked sorcerer [[Factions/Morganth's Legion of Doom\|MORGANTH'S LEGION OF DOOM]], you will aid your master even unto death. As such, you have agreed to infiltrate the accursed city and locate the warlock's tomb.

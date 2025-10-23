@@ -1,12 +1,12 @@
 ---
-{"publish":true,"aliases":["The Rentpire Strikes Back"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:33:59.905-04:00","published":"2025-10-22T09:33:59.905-04:00","cssclasses":"","DM":"Jordan","Players":["Michael","Bishop","Mike Doom","Bucher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-09-12","Authors":["Jordan"]}
+{"publish":true,"aliases":["The Rentpire Strikes Back"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T21:26:25.994-04:00","published":"2025-10-22T21:26:25.994-04:00","cssclasses":"","DM":"Jordan","Players":["Michael","Bishop","Mike Doom","Bucher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-09-12","Authors":["Jordan"]}
 ---
 
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
-- **Start Date:** 2024-09-12T00:00:00.000-04:00
+- **Start Date:** 2024-09-12
 
 # Adventure Premise
 - It has been 3 months since the brave and patriotic adventuring party ISIS-T slew Ringleader Redtusk on behalf of Dick Gunbarrel and the [[Crillville Defense Force]] (CDF). Somehow, in this short span of time, an even more insidious threat has arisen...

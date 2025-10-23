@@ -1,12 +1,12 @@
 ---
-{"publish":true,"aliases":["The Marrowsucker Contract"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:33:13.172-04:00","published":"2025-10-22T09:33:13.172-04:00","cssclasses":"","DM":"Jordan","Players":["Brian","Laura","Mike Doom","Peter"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-02-12","Authors":["Jordan"]}
+{"publish":true,"aliases":["The Marrowsucker Contract"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T21:26:45.316-04:00","published":"2025-10-22T21:26:45.316-04:00","cssclasses":"","DM":"Jordan","Players":["Brian","Laura","Mike Doom","Peter"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-02-12","Authors":["Jordan"]}
 ---
 
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
-- **Start Date:** 2025-02-12T00:00:00.000-05:00
+- **Start Date:** 2025-02-12
 
 # Adventure Premise
 - On the outskirts of the desolate [[Forsaken Expanse]], The Marrowsucker gnoll tribe has been defiling the bones of ancient dragons. They have hoarded "[[The Substance]]", a dragon-bone byproduct that the elves of [[Places/Mitlin]] consider to be sacred.

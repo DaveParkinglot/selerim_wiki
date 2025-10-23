@@ -1,12 +1,12 @@
 ---
-{"publish":true,"aliases":["Kindlethicket - The Winter Hunt"],"created":"2025-07-25T10:08:23.000-04:00","modified":"2025-10-22T09:33:21.428-04:00","published":"2025-10-22T09:33:21.428-04:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Laura","Dan E.","Mike Doom"],"Platform":"In person","Sessions":1,"Start Date":"2024-12-20","Authors":["Jordan"]}
+{"publish":true,"aliases":["Kindlethicket - The Winter Hunt"],"created":"2025-07-25T10:08:23.000-04:00","modified":"2025-10-22T21:26:37.818-04:00","published":"2025-10-22T21:26:37.818-04:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Laura","Dan E.","Mike Doom"],"Platform":"In person","Sessions":1,"Start Date":"2024-12-20","Authors":["Jordan"]}
 ---
 
 # Details
 - **DM**: Jordan
 - **Platform:** In person
 - **Sessions:** 1
-- **Start Date:** 2024-12-20T00:00:00.000-05:00
+- **Start Date:** 2024-12-20
 
 # Adventure Premise
 - As every good elf in [[Places/Mitlin]] knows, on Giftmas Eve, the Archfey [[Krampus]] leads the Winter Hunt across the domains of the Feywild and into the myriad material planes, capturing those who have broken sacred pacts and stowing them in his big black punishment sack. This year, an innocent soul from your world was unjustly marked as a pactbreaker and claimed by The Hunt.

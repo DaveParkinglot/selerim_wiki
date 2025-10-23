@@ -1,13 +1,12 @@
 ---
-{"publish":true,"aliases":["Sharky's Revenge"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:34:04.124-04:00","published":"2025-10-22T09:34:04.124-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-24","Authors":["Jordan"]}
+{"publish":true,"aliases":["Sharky's Revenge"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T21:26:16.060-04:00","published":"2025-10-22T21:26:16.060-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-24","Authors":["Jordan"]}
 ---
 
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
-- **Start Date:** 2024-02-24T00:00:00.000-05:00
-
+- **Start Date:** 2024-02-24
 # Adventure Premise
 - It has been 39 years to the day that Captain Winchester Bone was forced to turn on his first crew and his old first mate, [[Sharky Dolphino]]. Stricken with guilt, [[NPCs/Breakwater Cove/Captain Winchester Bone\|Bone]] tells his tale under the full moon on one foggy night...
 

@@ -1,12 +1,12 @@
 ---
-{"publish":true,"aliases":["The Hidden Hoard of Winchester Bone"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:34:08.213-04:00","published":"2025-10-22T09:34:08.213-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-17","Authors":["Jordan"]}
+{"publish":true,"aliases":["The Hidden Hoard of Winchester Bone"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T21:26:11.742-04:00","published":"2025-10-22T21:26:11.742-04:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-17","Authors":["Jordan"]}
 ---
 
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
-- **Start Date:** 2024-02-17T00:00:00.000-05:00
+- **Start Date:** 2024-02-17
 
 # Adventure Premise
 - Bone Tavern is failing, and [[NPCs/Breakwater Cove/Captain Winchester Bone]] needs to remain solvent in his retirement years. Retrieve his hoard of treasure, which is hidden in a quiet cove to the south.

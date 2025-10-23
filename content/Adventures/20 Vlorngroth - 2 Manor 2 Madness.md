@@ -1,12 +1,12 @@
 ---
-{"publish":true,"aliases":["Vlorngroth - 2 Manor 2 Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:33:12.678-04:00","published":"2025-10-22T09:33:12.678-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Laura","Mike Doom","Leah","Michael"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-04-02","Authors":["Jordan"]}
+{"publish":true,"aliases":["Vlorngroth - 2 Manor 2 Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T21:26:46.729-04:00","published":"2025-10-22T21:26:46.729-04:00","cssclasses":"","DM":"Jordan","Players":["Peter","Laura","Mike Doom","Leah","Michael"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-04-02","Authors":["Jordan"]}
 ---
 
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
-- **Start Date:** 2025-04-02T00:00:00.000-04:00
+- **Start Date:** 2025-04-02
 
 # Adventure Premise
 - In the subterranean city of [[Places/Vlorngroth]], you serve as a familiar of [[NPCs/Vlorngroth/Count Calloway Duskveil]], a powerful yet reclusive vampire.

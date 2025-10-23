@@ -1,13 +1,13 @@
 ---
-{"publish":true,"aliases":["Voyage a la Isla Ruz"],"created":"2025-10-22T08:02:27.000-04:00","modified":"2025-10-22T08:32:34.396-04:00","published":"2025-10-22T08:32:34.396-04:00","cssclasses":"","DM":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Platform":"Foundry","Sessions":4,"Start Date":"2025-07-31","End Date":"2025-10-23","Author":"Ethan Smith"}
+{"publish":true,"aliases":["Voyage a la Isla Ruz"],"created":"2025-10-22T08:02:27.000-04:00","modified":"2025-10-22T21:24:07.555-04:00","published":"2025-10-22T21:24:07.555-04:00","cssclasses":"","DM":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Platform":"Foundry","Sessions":4,"Start Date":"2025-07-31","End Date":"2025-10-23","Author":"Ethan Smith"}
 ---
 
 # Details
 - **DM**: Ethan
 - **Platform:** Foundry
 - **Sessions:** 4
-- **Start Date:** 2025-07-31T00:00:00.000-04:00
-- **End Date:** 2025-10-23T00:00:00.000-04:00
+- **Start Date:** 2025-07-31
+- **End Date:** 2025-10-23
 
 # Adventure Premise
 - Word is spreading about movement of soldiers and ships belonging to the families [[Factions/The Kingdom of Tiialia/The Ruz Family\|Ruz]] and [[Factions/The Kingdom of Tiialia/The Batista Family\|Batista]], and perhaps even other forces interested in the future of [[Places/Tiialia]]. As luck would have it, you have acquired a note that details a potential invasion of Isla Ruz by Batista-aligned forces. You and other intriguing characters have arrived at the harbor of [[Places/Nova Jersaeria]] to investigate these claims, or perhaps to seek a way to warn [[NPCs/Tiialia/Alejandro Ruz]], or perhaps embark as part of this supposed invasion to acquire fortune.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Lost Archives of Wigglestaff"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:34:02.830-04:00","published":"2025-10-22T09:34:02.830-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Larry","Bishop","George","Bucher","Matt"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-05-02","Authors":["Jordan"]}
+{"publish":true,"aliases":["The Lost Archives of Wigglestaff"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T21:26:17.779-04:00","published":"2025-10-22T21:26:17.779-04:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Larry","Bishop","George","Bucher","Matt"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-05-02","Authors":["Jordan"]}
 ---
 
 Handouts:
@@ -9,7 +9,7 @@ Handouts:
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
-- **Start Date:** 2024-05-02T00:00:00.000-04:00
+- **Start Date:** 2024-05-02
 
 # Adventure Premise
 - [[NPCs/Tanglewood Peninsula/Dick Gunbarrel]], commander of the [[Crillville Defense Force]] (CDF) has placed a bounty on the head of Ringleader Redtusk, a half-ogre warlord who has suddenly appeared in the region. Investigate what Redtusk is doing on the island of the former gnome Wigglestaff, and bring his head back to [[Places/Crillville]] to make a name for yourself.
