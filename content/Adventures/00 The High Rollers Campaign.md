@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The High Rollers Campaign"],"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-22T08:54:21.980-04:00","published":"2025-10-22T08:54:21.980-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"],"Sessions":70,"Start Date":"2022-07-25","End Date":"2024-05-24","Authors":["Jordan"]}
+{"publish":true,"aliases":["The High Rollers Campaign"],"created":"2025-10-16T09:27:58.000-04:00","modified":"2025-10-22T21:12:48.352-04:00","published":"2025-10-22T21:12:48.352-04:00","cssclasses":"","DM":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Platform":["Foundry","Roll20"],"Sessions":70,"Start Date":"2022-07-25","End Date":"2024-05-24","Authors":["Jordan"]}
 ---
 
 The OG campaign.
@@ -9,8 +9,8 @@ The OG campaign.
 - **DM**: Jordan
 - **Platform:** Foundry,Roll20
 - **Sessions:** 70
-- **Start Date:** 2022-07-25T00:00:00.000-04:00
-- **End Date:** 2024-05-24T00:00:00.000-04:00
+- **Start Date:** 2022-07-25
+- **End Date:** 2024-05-24
 
 # Players & Characters
 | Player              | Character Name                                                  | Race              | Class        |

@@ -1,6 +1,7 @@
 ---
-Authors: [Jordan Nolte]
+{"publish":true,"created":"2025-02-23T13:54:22.000-05:00","modified":"2025-10-22T17:57:25.200-04:00","published":"2025-10-22T17:57:25.200-04:00","cssclasses":"","Authors":["Jordan Nolte"]}
 ---
+
 
 - See [[Selerim Timeline]]! The world of Selerim was originally used as a factory of war by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elves' god of war.
 	- Despite his dark deeds, Selvetarm remains the namesake of the world.

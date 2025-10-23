@@ -1,13 +1,13 @@
 ---
-{"publish":true,"aliases":["Dunland's Raiders"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T09:34:12.753-04:00","published":"2025-10-22T09:34:12.753-04:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-05-24","End Date":"2023-05-31","Authors":["Jordan"]}
+{"publish":true,"aliases":["Dunland's Raiders"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-10-22T21:13:20.975-04:00","published":"2025-10-22T21:13:20.975-04:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-05-24","End Date":"2023-05-31","Authors":["Jordan"]}
 ---
 
 # Details
 - **DM**: Mike Doom
 - **Platform:** Roll20
 - **Sessions:** 2
-- **Start Date:** 2023-05-24T00:00:00.000-04:00
-- **End Date:** 2023-05-31T00:00:00.000-04:00
+- **Start Date:** 2023-05-24
+- **End Date:** 2023-05-31
 
 # Adventure Premise
 - You are members of the Tiialan army serving in a special cohort called Dunlands Raiders under [[NPCs/The White Grove/Captain Crebain Dunland]]. Your homelands are under attack by the forces of an evil warlock named [[Morganth]].
