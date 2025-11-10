@@ -1,6 +1,7 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
 // Adding some spacing between entries in the explorer
 div.explorer {
     .overflow {
@@ -15,11 +16,15 @@ div.explorer {
     }
 }
 
-.page {
-  max-width: calc(#{map.get($breakpoints, desktop)} + 750px);
-  margin: 0 auto;
-  & article {
-    & > h1 {
-      font-size: 2rem;
-    }
 
+/* === Widen layout for large screens === */
+@media (min-width: 1024px) {
+  .grid {
+    grid-template-columns: var(--sidePanelWidth) auto 380px !important;
+  }
+
+  .page {
+    max-width: calc(1200px + 750px) !important;
+    margin: 0 auto;
+  }
+}
