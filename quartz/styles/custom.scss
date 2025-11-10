@@ -15,38 +15,6 @@ div.explorer {
     }
 }
 
-/* Wider screen usage on large displays */
-@media (min-width: 1024px) {
-  .grid {
-    grid-template-columns: var(--sidePanelWidth) auto 380px !important;
-  }
-
-  .page {
-    max-width: calc(1200px + 750px) !important;
-    margin: 0 auto;
-  }
-}
-
-/*ai test */
-/* strong wide-screen overrides */
-@media (min-width: 1024px) {
-  /* try common grid selectors */
-  html body .grid,
-  html body .site-grid,
-  html body .layout-grid,
-  html body .site .grid {
-    grid-template-columns: var(--sidePanelWidth, 280px) auto 380px !important;
-    /* fallback in case var not present */
-    grid-template-columns: 280px auto 380px !important;
-  }
-
-  /* page width override with high specificity */
-  html body .page,
-  html body main .page,
-  html body .site main .page {
-    max-width: calc(1200px + 750px) !important; /* or a hard px value if you prefer */
-    max-width: 1950px !important; /* safe fallback absolute value */
-    margin: 0 auto !important;
-    width: 100% !important;
-  }
+.page {
+  max-width: unset; // default: 1500px;
 }
