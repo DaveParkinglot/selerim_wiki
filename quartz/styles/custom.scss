@@ -16,8 +16,12 @@ div.explorer {
 }
 
 .page {
-  max-width: unset; // default: 1500px;
-}
+  max-width: calc(#{map.get($breakpoints, desktop)} + 750px);
+  margin: 0 auto;
+  & article {
+    & > h1 {
+      font-size: 2rem;
+    }
 
 
 $desktopGrid: (
