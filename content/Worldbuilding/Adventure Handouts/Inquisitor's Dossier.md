@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-22T12:42:41.000-04:00","modified":"2025-10-30T11:57:28.260-04:00","published":"2025-10-30T11:57:28.260-04:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2025-08-22T12:42:41.000-04:00","modified":"2025-11-10T13:55:38.770-05:00","published":"2025-11-10T13:55:38.770-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
 Handout from [[Adventures/02 Vlorngroth - The Manor of Madness]]
@@ -24,33 +24,50 @@ Any one of these residents could be the prophesied one. Use every bit of your In
 ## The Asylum Residents
 
 ### Bedmund the Catatonic
-![[z_assets/bedmund_the_catatonic.png]]
 A deep gnome scholar who spent decades studying forbidden knowledge. He sits motionless, lost in his own world, murmuring fragments of ancient spells while lightly gesturing with his hands. Every asylum caregiver that has attempted to speak to Bedmund has gone insane.
 
+![[z_assets/bedmund_the_catatonic.png]]
+
+
+
 ### Glamdra Glassbones
-![[z_assets/glamdra_glassbones.png]]
 Somewhere in this priestess' long life she went afoul of a powerful being who laid a malevolent and powerful curse on her. Her bones are extremely delicate and prone to shattering upon the slightest impact or pressure.
 
+![[z_assets/glamdra_glassbones.png]]
+
+
 ### The Marionette Matron
-![[z_assets/marionette_matron.png]]
 A failed attempt to reincarnate an ancient Matron Mother created this unhinged construct. She is frightfully insane but longs to dance with a companion, to be wooed by a suitor as in the days of old.
 
+![[z_assets/marionette_matron.png]]
+
+
 ### Coach Cortex
-![[z_assets/coach_cortex.png]]
 Coach Cortex was once a deeply devoted trainer of Vlorn personnel. He utilized his psychic powers to motivate and inspire generations of Vlorn fighters. One day, he pushed a group of Inquisitor trainees far too hard, resulting in several training accident casualties. This mistake cost him his calling and has driven him to the very precipice of madness.
 
+![[z_assets/coach_cortex.png]]
+
+
 ### The Duerchon
-![[z_assets/duerchon.png]]
 A Duerchon is an aberration formed of pure psionic energy, created by the unholy fusion of two or more duergar wizards, whose souls are forever twisted together as one. This particular Duerchon was unintentionally formed after two duergar wizards simultaneously read aloud the same passage from The Book of Vile Darkness. Jinx.
 
+![[z_assets/duerchon.png]]
+
+
 ### Prince Thalgrim the Desolate
-![[z_assets/prince_thalgrim.png]]
 A former duergar prince who lost his throne and descended into madness. He sits upon an imaginary throne, issuing empty proclamations to invisible subjects.
 
+![[z_assets/prince_thalgrim.png]]
+
+
 ### The Thirsting Wretch
-![[z_assets/thirsting_wretch.png]]
 Once a kobold slaughter scout, the wretch suffers from an insatiable and unquenchable thirst brought on by consuming the dung of The Great Purple Karoom in The Forsaken Expanse.
 
+![[z_assets/thirsting_wretch.png]]
+
+
 ### Rurik the Deserter
-![[z_assets/rurik_the_deserter.png]]
 Rurik was once a feared surface raider, well known for his high slave yield. One day he spent too long in the sun and wished for nothing more than to be freed from the subterranean existence of the Vlorn drow. His raiding party sent him to Duskveil Asylum to be rehabilitated... 20 years ago. A classic case of surface sickness.
+
+![[z_assets/rurik_the_deserter.png]]
+
