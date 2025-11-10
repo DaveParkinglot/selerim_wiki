@@ -15,14 +15,6 @@ div.explorer {
 }
 
 
-/* === Widen layout for large screens === */
-@media (min-width: 1024px) {
-  .grid {
-    grid-template-columns: var(--sidePanelWidth) auto 380px !important;
-  }
-
-  .page {
-    max-width: calc(1200px + 750px) !important;
-    margin: 0 auto;
-  }
+.page {
+  max-width: unset; // default: 1500px;
 }
