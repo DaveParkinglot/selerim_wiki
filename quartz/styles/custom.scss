@@ -19,8 +19,8 @@ div.explorer {
 
 @media all and ($desktop) {
   body div#quartz-root.page div#quartz-body {
-    width: 700px;
-    max-width: 700px;
+    width: min(100%, calc(#{map.get($breakpoints, desktop)} + 300px));
+    max-width: calc(#{map-get($breakpoints, desktop)} + 750px);
     padding: 0 auto;
   }
 }
