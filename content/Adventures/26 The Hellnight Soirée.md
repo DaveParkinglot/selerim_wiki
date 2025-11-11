@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Hellnight Soirée"],"created":"2025-08-03T20:47:11.000-04:00","modified":"2025-11-03T18:22:19.447-05:00","published":"2025-11-03T18:22:19.447-05:00","cssclasses":"","DM":"Jordan","Players":["Laura","Brian","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-08-07","In-World Start Date":"265-06-28","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Hellnight Soirée"],"created":"2025-08-03T20:47:11.000-04:00","modified":"2025-11-10T20:13:56.000-05:00","published":"2025-11-10T20:13:56.000-05:00","cssclasses":"","DM":"Jordan","Players":["Laura","Brian","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-08-07","In-World Start Date":"265-06-28","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details
@@ -16,7 +16,7 @@
 - Binky has provided his research into the most important guests: [[Worldbuilding/Adventure Handouts/Binky Sliver's Hellnight Dossier]].
 
 # Outcomes
-- The brave adventurers took up the job of bouncers at the soirée, successfully turning away the Diaboli Non Grata [[NPCs/Other/Billy Bubbler]] with clever deception and favors.
+- The brave adventurers took up the job of bouncers at the soirée, successfully turning away the Diaboli Non Grata [[NPCs/Other/Billy Bubbler]] and [[NPCs/Other/Humana]] with clever deception and favors.
 - They were unable to talk down [[NPCs/Other/Chauncy the Unrepentant]] from a fight, but soundly defeated him and sent him back to the Lower Planes, 
 - They cleverly pitted the entourages of [[NPCs/Other/Baron Neffery]] and [[NPCs/Other/Pazuzu]] against each other while eating hors d'oeuvres.
 - Towards the end of the evening, they sparked a fight in the ballroom which erupted into a brutal full blown melee.

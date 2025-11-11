@@ -1,10 +1,11 @@
 ---
-{"publish":true,"created":"2025-10-26T10:29:29.172-04:00","modified":"2025-10-30T10:53:37.121-04:00","published":"2025-10-30T10:53:37.121-04:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2025-10-26T10:29:29.172-04:00","modified":"2025-11-10T14:06:42.953-05:00","published":"2025-11-10T14:06:42.953-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
-Calendars have 13 months of 28 days each
+*Calendars have 13 months of 28 days each*
 
-Tiialan Calendar (used broadly by most people)
+# Tiialan Calendar 
+(Used broadly by most peoples)
 
 | Month    | #   | Season |
 | -------- | --- | ------ |
@@ -21,7 +22,8 @@ Tiialan Calendar (used broadly by most people)
 | Seraphus | 11  | Fall   |
 | Treccus  | 12  | Fall   |
 | Murend   | 13  | Winter |
-Mitlin calendar (Elvish calendar sometimes used on the Tanglewood Peninsula)
+# Mitlin Calendar 
+(Elvish calendar sometimes used on the Tanglewood Peninsula)
 
 | Month      | #   | Season |
 | ---------- | --- | ------ |
