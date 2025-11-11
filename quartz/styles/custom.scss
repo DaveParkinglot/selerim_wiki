@@ -17,6 +17,10 @@ div.explorer {
     }
 }
 
-.page {
-  max-width: 700; // default: 1500px;
+@media all and ($desktop) {
+  body div#quartz-root.page div#quartz-body {
+    width: 700;
+    max-width: 700;
+    padding: 0 auto;
+  }
 }
