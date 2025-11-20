@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Crillville","created":"2025-10-09T14:45:41.000-04:00","modified":"2025-11-10T12:24:20.007-05:00","published":"2025-11-10T12:24:20.007-05:00","cssclasses":"","Type":["Town"],"Age (years)":80,"Population":2500,"Affiliation":["[[Tanglewood Defense Council]]"],"Government":["[[NPCs/Tanglewood Peninsula/Dick Gunbarrel]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[10 The Lost Archives of Wigglestaff]]","[[12 The Rentpire Strikes Back]]"],"marker":{"mapName":"InteractiveMap","x":1590,"y":565,"icon":"game-icons:medieval-village-01","colour":"blue"},"Author":"Jordan"}
+{"publish":true,"title":"Crillville, Harbor Town","created":"2025-10-09T14:45:41.000-04:00","modified":"2025-11-20T09:47:20.575-05:00","published":"2025-11-20T09:47:20.575-05:00","cssclasses":"","Type":["Town"],"Age (years)":80,"Population":2500,"Affiliation":["[[Tanglewood Defense Council]]"],"Government":["[[NPCs/Tanglewood Peninsula/Dick Gunbarrel]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[10 The Lost Archives of Wigglestaff]]","[[12 The Rentpire Strikes Back]]"],"marker":{"mapName":"InteractiveMap","x":1590,"y":565,"icon":"game-icons:medieval-village-01","colour":"blue"},"Author":"Jordan"}
 ---
 
 ![[z_assets/crillville.png|600]]
