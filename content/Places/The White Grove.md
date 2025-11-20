@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The White Grove","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-11-10T08:45:44.097-05:00","published":"2025-11-10T08:45:44.097-05:00","cssclasses":"","Type":["Magical Academy"],"Age (years)":180,"Population":600,"Affiliation":["[[Places/Tiialia]]"],"Government":"N/A","Appearances":["[[24 The White Grove - First Semester]]","[[27 The White Grove - Summer Vacation]]"],"marker":{"mapName":"InteractiveMap","x":340,"y":275,"icon":"fa7-solid:university","colour":"blue"},"Author":"Jordan"}
+{"publish":true,"title":"The White Grove, Magic Academy","created":"2023-09-02T09:45:40.000-04:00","modified":"2025-11-20T09:28:37.647-05:00","published":"2025-11-20T09:28:37.647-05:00","cssclasses":"","Type":["Magical Academy"],"Age (years)":180,"Population":600,"Affiliation":["[[Places/Tiialia]]"],"Government":"N/A","Appearances":["[[24 The White Grove - First Semester]]","[[27 The White Grove - Summer Vacation]]"],"marker":{"mapName":"InteractiveMap","x":340,"y":275,"icon":"fa7-solid:university","colour":"blue"},"Author":"Jordan"}
 ---
 
 ![[z_assets/the_white_grove.png|600]]
