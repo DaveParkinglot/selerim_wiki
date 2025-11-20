@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Scrimshaw City","created":"2025-07-25T12:30:40.000-04:00","modified":"2025-11-10T08:42:19.456-05:00","published":"2025-11-10T08:42:19.456-05:00","cssclasses":"","Type":["Free City"],"Age (years)":450,"Population":18000,"Affiliation":["None"],"Government":["[[Hugh Mann|El Presidente Hugh Mann]]","[[Tavernstool]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]","[[21 Spring Cleaning in Scrimshaw City]]","[[26 The Hellnight Soirée]]"],"marker":{"mapName":"InteractiveMap","x":1575,"y":410,"icon":"game-icons:medieval-gate","colour":"blue"},"Author":"Jordan"}
+{"publish":true,"aliases":["Scrimshaw"],"title":"Scrimshaw City","created":"2025-07-25T12:30:40.000-04:00","modified":"2025-11-20T09:30:27.156-05:00","published":"2025-11-20T09:30:27.156-05:00","cssclasses":"","Type":["Free City"],"Age (years)":450,"Population":18000,"Affiliation":["None"],"Government":["[[Hugh Mann|El Presidente Hugh Mann]]","[[Tavernstool]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]","[[21 Spring Cleaning in Scrimshaw City]]","[[26 The Hellnight Soirée]]"],"marker":{"mapName":"InteractiveMap","x":1575,"y":410,"icon":"game-icons:medieval-gate","colour":"blue"},"Author":"Jordan"}
 ---
 
 ![[z_assets/scrimshaw_city.png|900]] ![[z_assets/scrimshaw_topdown.webp|700]]
