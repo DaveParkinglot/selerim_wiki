@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-30T12:07:43.779-04:00","published":"2025-10-30T12:07:43.779-04:00","cssclasses":"","Age":"24","Ancestry":"Owlin","Gender":"Male","Location":["Mitlin"],"Role":["Former Adventurer","Druid","Merchant"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[19 The Marrowsucker Contract]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-12-08T11:36:13.231-05:00","published":"2025-12-08T11:36:13.231-05:00","cssclasses":"","Age":"24","Ancestry":"Owlin","Gender":"Male","Location":["Mitlin"],"Role":["Former Adventurer","Druid","Merchant"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[19 The Marrowsucker Contract]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/bwanson_wagwan.png|300]]
@@ -28,5 +28,6 @@
 
 # Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name             | Relationship     |
+| ---------------- | ---------------- |
+| [[NPCs/Tanglewood Peninsula/Scryer Young]] | Business Partner |

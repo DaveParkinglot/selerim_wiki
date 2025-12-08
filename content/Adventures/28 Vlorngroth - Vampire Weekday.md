@@ -1,7 +1,8 @@
 ---
-{"publish":true,"aliases":["Vlorngroth - Vampire Weekday"],"created":"2025-10-03T10:23:37.000-04:00","modified":"2025-11-03T18:22:32.992-05:00","published":"2025-11-03T18:22:32.992-05:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Ethan","Brian","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-10-29","In-World Start Date":"265-11-13","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Vlorngroth - Vampire Weekday"],"created":"2025-10-03T10:23:37.000-04:00","modified":"2025-11-23T17:11:40.501-05:00","published":"2025-11-23T17:11:40.501-05:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Ethan","Brian","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-10-29","In-World Start Date":"265-11-13","Setting":"Selerim","Author":"Jordan"}
 ---
 
+![[z_assets/vampire_weekday.png|500]]
 # Details
 - **DM**: Jordan
 - **Platform:** Foundry

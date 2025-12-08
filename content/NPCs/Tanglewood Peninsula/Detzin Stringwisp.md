@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Detzin"],"created":"2025-11-02T10:33:16.000-05:00","modified":"2025-11-13T08:13:40.259-05:00","published":"2025-11-13T08:13:40.259-05:00","cssclasses":"","Age":"42","Ancestry":["Wood Elf"],"Gender":"M","Location":["[[Mitlin]]"],"Role":["Bard","Solo Artist"],"Affiliation":["[[Mitlin]]"],"Appearances":["[[19 The Marrowsucker Contract]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"aliases":["Detzin"],"created":"2025-11-02T10:33:16.000-05:00","modified":"2025-12-08T09:06:15.882-05:00","published":"2025-12-08T09:06:15.882-05:00","cssclasses":"","Age":"42","Ancestry":["Wood Elf"],"Gender":"M","Location":["[[Mitlin]]"],"Role":["Bard","Solo Artist"],"Affiliation":["[[Mitlin]]"],"Appearances":["[[19 The Marrowsucker Contract]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 
@@ -11,7 +11,7 @@
 ## [[Adventures/19 The Marrowsucker Contract\|The Marrowsucker Contract]]
 - Detzin was being held captive by the Marrowsucker gnolls, when he was rescued. He may have partaken in some of "The Substance" before and after being rescued.
 
-## [[Jordan's Notes/xx Lighting the Lighthouse\|Lighting the Lighthouse]]
+## [[Jordan's Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
 - Detzin and a group of adventurers were tasked with dispelling the necrotic aura surrounding Aldwood Lighthouse.
 
 # Key Details
