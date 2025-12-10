@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Winter Huntsman"],"created":"2025-12-09T19:17:17.000-05:00","modified":"2025-12-09T19:29:28.878-05:00","published":"2025-12-09T19:29:28.878-05:00","cssclasses":"","Age":"6500","Ancestry":["Archfey"],"Gender":"Male","Location":["[[Places/Yuleshade]]"],"Role":["Archfey","Winter Huntsman"],"Affiliation":["None"],"Appearances":["[[Adventures/16 Kindlethicket - The Winter Hunt]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"aliases":["The Winter Huntsman"],"created":"2025-12-09T19:17:17.000-05:00","modified":"2025-12-09T19:42:47.124-05:00","published":"2025-12-09T19:42:47.124-05:00","cssclasses":"","Age":"6500","Ancestry":["Archfey"],"Gender":"Male","Location":["[[Places/Yuleshade]]"],"Role":["Archfey","Winter Huntsman"],"Affiliation":["None"],"Appearances":["[[16 Kindlethicket - The Winter Hunt]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 
@@ -12,7 +12,7 @@
 	- Winter’s Shadow: As a counterpart to the more cheerful aspects of winter, Krampus represents the cold, harsh lessons the season brings: scarcity, hardship, and the reckoning of debts. He embodies the "other side" of Giftmas, ensuring excess and greed are punished while humility and generosity are rewarded.
 	- Those who have broken a Fey pact are decreed as PACTBREAKERS by Krampus, and they are thrown in his BLACK SACK to be tormented for 12 years.
 
-## [[16 Kindlethicket - The Winter Hunt|Kindlethicket - The Winter Hunt]]
+## [[Adventures/16 Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]]
 - Krampus, as always, took pactbreakers from the material plane into his black sack of punishment. 
 - This year, however, he relented, allowing [[NPCs/Other/Pudding]] to go free after being petitioned by brave adventurers.
 
@@ -23,7 +23,7 @@
 - **Location**: [[Places/Yuleshade\|Yuleshade]]
 - **Role**: Archfey,Winter Huntsman
 - **Affiliation:** None
-- **Appearances:** [[Adventures/16 Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]]
+- **Appearances:** [[Adventures/16 Kindlethicket - The Winter Hunt\|16 Kindlethicket - The Winter Hunt]]
 - **Status:** Alive
 
 # Attributes
