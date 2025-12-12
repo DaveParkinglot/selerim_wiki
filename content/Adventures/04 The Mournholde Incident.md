@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Mournholde Incident"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:27.000-05:00","published":"2025-11-03T18:19:27.000-05:00","cssclasses":"","DM":"Mike Doom","Players":["Ethan","Logan","Jordan","Peter","Jimmy"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-09-19","In-World Start Date":"264-02-26","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Mournholde Incident"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:27.995-05:00","published":"2025-11-03T18:19:27.995-05:00","cssclasses":"","DM":"Mike Doom","Players":["Ethan","Logan","Jordan","Peter","Jimmy"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-09-19","In-World Start Date":"264-02-26","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details

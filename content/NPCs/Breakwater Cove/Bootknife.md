@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-11-04T20:16:38.000-05:00","published":"2025-11-04T20:16:38.000-05:00","cssclasses":"","Age":"37","Ancestry":"Goblin","Gender":"Male","Location":["Breakwater Cove","Varies"],"Role":["Roguish Fiend, Thief, Part-time Merchant"],"Affiliation":["None"],"Appearances":["[[14 Bootknife's Bounty]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-11-04T20:16:38.443-05:00","published":"2025-11-04T20:16:38.443-05:00","cssclasses":"","Age":"37","Ancestry":"Goblin","Gender":"Male","Location":["Breakwater Cove","Varies"],"Role":["Roguish Fiend, Thief, Part-time Merchant"],"Affiliation":["None"],"Appearances":["[[14 Bootknife's Bounty]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/bootknife.png|300]]

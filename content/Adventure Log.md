@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-27T17:15:45.000-04:00","modified":"2025-11-03T20:25:22.000-05:00","published":"2025-11-03T20:25:22.000-05:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2025-07-27T17:15:45.000-04:00","modified":"2025-11-03T20:25:22.594-05:00","published":"2025-11-03T20:25:22.594-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
 # Selerim Adventures
@@ -10,7 +10,7 @@
 | [[Adventures/25 Voyage a la Isla Ruz\|25 Voyage a la Isla Ruz]]                               | 265-10-28 - 265-11-15 | Ethan     | <ul><li>Bishop</li><li>Mike Doom</li><li>Jordan</li><li>Devin</li></ul>                                            | Foundry                                  |
 | [[Adventures/23 The Great Tiialan Heist\|23 The Great Tiialan Heist]]                         | 265-10-01             | Ethan     | <ul><li>Bishop</li><li>Mike Doom</li><li>Jordan</li><li>Devin</li></ul>                                            | Foundry                                  |
 | [[Adventures/27 The White Grove - Summer Vacation\|27 The White Grove - Summer Vacation]]     | 265-07-18 - 265-08-02 | Jordan    | <ul><li>Ethan</li><li>Mike Doom</li><li>Brian</li><li>Bishop</li></ul>                                             | Foundry                                  |
-| [[Adventures/26 The Hellnight Soirée\|26 The Hellnight Soirée]]                               | 265-06-28             | Jordan    | <ul><li>Laura</li><li>Brian</li><li>Mike Doom</li></ul>                                                            | Foundry                                  |
+| [[Adventures/26 The Hellnight Soirée\|26 The Hellnight Soirée]]                               | 265-05-20             | Jordan    | <ul><li>Laura</li><li>Brian</li><li>Mike Doom</li></ul>                                                            | Foundry                                  |
 | [[Adventures/24 The White Grove - First Semester\|24 The White Grove - First Semester]]       | 265-04-22 - 265-04-27 | Jordan    | <ul><li>Ethan</li><li>Mike Doom</li><li>Brian</li></ul>                                                            | Foundry                                  |
 | [[Adventures/21 Spring Cleaning in Scrimshaw City\|21 Spring Cleaning in Scrimshaw City]]     | 265-04-15             | Jordan    | <ul><li>Mike Doom</li><li>Laura</li><li>Brian</li></ul>                                                            | Foundry                                  |
 | [[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|20 Vlorngroth - 2 Manor 2 Madness]]           | 265-03-23             | Jordan    | <ul><li>Peter</li><li>Laura</li><li>Mike Doom</li><li>Leah</li><li>Michael</li></ul>                               | Foundry                                  |

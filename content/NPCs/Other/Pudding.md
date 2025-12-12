@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-11-03T20:24:08.000-05:00","published":"2025-11-03T20:24:08.000-05:00","cssclasses":"","Age":"22","Ancestry":"Troll","Gender":"Male","Location":["The Underdark","The Fathomless Vault","[[Places/Mitlin]]","[[Scrimshaw City]]"],"Role":["Helpful Troll"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-11-03T20:24:08.261-05:00","published":"2025-11-03T20:24:08.261-05:00","cssclasses":"","Age":"22","Ancestry":"Troll","Gender":"Male","Location":["The Underdark","The Fathomless Vault","[[Places/Mitlin]]","[[Scrimshaw City]]"],"Role":["Helpful Troll"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/pudding.png|300]]

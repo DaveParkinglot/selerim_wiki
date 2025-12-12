@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:09:31.000-04:00","published":"2025-10-30T12:09:31.000-04:00","cssclasses":"","Age":"32","Ancestry":["Tiefling"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Ship Captain"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:09:31.468-04:00","published":"2025-10-30T12:09:31.468-04:00","cssclasses":"","Age":"32","Ancestry":["Tiefling"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Ship Captain"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/captain_chorn_chinfer.png|300]]

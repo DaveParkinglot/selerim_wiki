@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Kindlethicket - The Winter Hunt"],"created":"2025-07-25T10:08:23.000-04:00","modified":"2025-11-03T18:20:23.000-05:00","published":"2025-11-03T18:20:23.000-05:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Laura","Dan E.","Mike Doom"],"Platform":"In person","Sessions":1,"Start Date":"2024-12-20","In-World Start Date":"264-13-25","Setting":null,"Author":"Jordan"}
+{"publish":true,"aliases":["Kindlethicket - The Winter Hunt"],"created":"2025-07-25T10:08:23.000-04:00","modified":"2025-11-03T18:20:23.833-05:00","published":"2025-11-03T18:20:23.833-05:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Laura","Dan E.","Mike Doom"],"Platform":"In person","Sessions":1,"Start Date":"2024-12-20","In-World Start Date":"264-13-25","Setting":null,"Author":"Jordan"}
 ---
 
 # Details

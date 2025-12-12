@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-05T13:44:04.000-04:00","modified":"2025-11-04T20:36:01.000-05:00","published":"2025-11-04T20:36:01.000-05:00","cssclasses":"","Age":"??","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["Avernus"],"Role":["Hell Baron"],"Affiliation":["None"],"Appearances":["[[26 The Hellnight Soirée]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-08-05T13:44:04.000-04:00","modified":"2025-11-04T20:36:01.710-05:00","published":"2025-11-04T20:36:01.710-05:00","cssclasses":"","Age":"??","Ancestry":["Fiend (Devil)"],"Gender":"Male","Location":["Avernus"],"Role":["Hell Baron"],"Affiliation":["None"],"Appearances":["[[26 The Hellnight Soirée]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/baron_neffery.png|300]]

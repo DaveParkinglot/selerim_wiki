@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Lost Archives of Wigglestaff"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:55.000-05:00","published":"2025-11-03T18:19:55.000-05:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Larry","Bishop","George","Bucher","Matt"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-05-02","In-World Start Date":"264-04-10","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Lost Archives of Wigglestaff"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:55.798-05:00","published":"2025-11-03T18:19:55.798-05:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Larry","Bishop","George","Bucher","Matt"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-05-02","In-World Start Date":"264-04-10","Setting":"Selerim","Author":"Jordan"}
 ---
 
 Handouts:

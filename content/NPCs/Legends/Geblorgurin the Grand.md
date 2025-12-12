@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Geblorgurin","created":"2025-07-21T11:30:43.000-04:00","modified":"2025-12-12T09:13:03.000-05:00","published":"2025-12-12T09:13:03.000-05:00","cssclasses":"","Age":"Deceased","Ancestry":"Dwarf","Gender":"Male","Location":["Dead"],"Role":["King of the Dwarves"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Author":"Jordan"}
+{"publish":true,"aliases":"Geblorgurin","created":"2025-07-21T11:30:43.000-04:00","modified":"2025-12-12T09:13:03.403-05:00","published":"2025-12-12T09:13:03.403-05:00","cssclasses":"","Age":"Deceased","Ancestry":"Dwarf","Gender":"Male","Location":["Dead"],"Role":["King of the Dwarves"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Author":"Jordan"}
 ---
 
 ![[z_assets/geblorgurin_the_grand.png|300]]
