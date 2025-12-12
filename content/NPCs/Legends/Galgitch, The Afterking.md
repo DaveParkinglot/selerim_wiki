@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-17T09:50:27.000-04:00","modified":"2025-10-30T12:10:53.631-04:00","published":"2025-10-30T12:10:53.631-04:00","cssclasses":"","Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-10-17T09:50:27.000-04:00","modified":"2025-10-30T12:10:53.000-04:00","published":"2025-10-30T12:10:53.000-04:00","cssclasses":"","Status":"Alive","Author":"Jordan"}
 ---
 
 - Lawful neutral death knight ruler of [[Places/Ghoulfen Island]], he rules from his necropolis in [[Places/Mournholde]].

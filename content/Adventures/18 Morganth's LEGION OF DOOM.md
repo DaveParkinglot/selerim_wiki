@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Morganth's LEGION OF DOOM"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T20:12:34.985-05:00","published":"2025-11-03T20:12:34.985-05:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Laura","Mike Doom","Ethan"],"Platform":"Foundry","Sessions":2,"Start Date":"2025-01-22","End Date":"2025-01-29","In-World Start Date":"264-07-03","In-World End Date":"264-07-14","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Morganth's LEGION OF DOOM"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T20:12:34.000-05:00","published":"2025-11-03T20:12:34.000-05:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Laura","Mike Doom","Ethan"],"Platform":"Foundry","Sessions":2,"Start Date":"2025-01-22","End Date":"2025-01-29","In-World Start Date":"264-07-03","In-World End Date":"264-07-14","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details

@@ -1,11 +1,12 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:10:48.560-04:00","published":"2025-10-30T12:10:48.560-04:00","cssclasses":"","Age":"Deceased","Ancestry":"Dwarf","Gender":"Male","Location":["Dead"],"Role":["King of the Dwarves"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Author":"Jordan"}
+{"publish":true,"aliases":"Geblorgurin","created":"2025-07-21T11:30:43.000-04:00","modified":"2025-12-12T09:13:03.000-05:00","published":"2025-12-12T09:13:03.000-05:00","cssclasses":"","Age":"Deceased","Ancestry":"Dwarf","Gender":"Male","Location":["Dead"],"Role":["King of the Dwarves"],"Affiliation":["[[Nova Jersaeria]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Author":"Jordan"}
 ---
 
 ![[z_assets/geblorgurin_the_grand.png|300]]
 
 # Overview
 - Once the king of the dwarves before his passing, Geblorgurin is highly regarded amongst all the peoples of Selerim, and amongst adventurers because of the many treasure-laden monuments he left behind.
+- Though it is a kingdom ruled by a human these days, Geblorgurin helped to found [[The Kingdom of Tiialia]].
 - It is said that these monuments contain great artifacts of power, but the monuments are said to test those who enter them. Only the worthy may wield the artifacts Geblorgurin left behind.
 - Dwarves (especially those of Geblorgurin's time) are fiercely protective of their belongings in life, but in death they desire nothing more than to have their belongings used by worthy individuals
 - Geblorgurin was the first wielder of the powerful artifact [[Jordan's Notes/DM Notes/The Gem of Eyes]].

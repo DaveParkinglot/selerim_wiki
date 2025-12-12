@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Dunland's Raiders"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:15.198-05:00","published":"2025-11-03T18:19:15.198-05:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-05-24","End Date":"2023-05-31","In-World Start Date":"263-11-11","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Dunland's Raiders"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:15.000-05:00","published":"2025-11-03T18:19:15.000-05:00","cssclasses":"","DM":"Mike Doom","Players":["Peter","Jimmy","Logan","Jordan","George","Michael","Evan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-05-24","End Date":"2023-05-31","In-World Start Date":"263-11-11","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details

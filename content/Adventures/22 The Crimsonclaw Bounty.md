@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Crimsonclaw Bounty"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:21:07.521-05:00","published":"2025-11-03T18:21:07.521-05:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Devin","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-05-14","In-World Start Date":"264-09-05","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Crimsonclaw Bounty"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:21:07.000-05:00","published":"2025-11-03T18:21:07.000-05:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Devin","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-05-14","In-World Start Date":"264-09-05","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details
