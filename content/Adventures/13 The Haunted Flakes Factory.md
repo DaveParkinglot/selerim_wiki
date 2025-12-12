@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Haunted Flakes Factory"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:10.000-05:00","published":"2025-11-03T18:20:10.000-05:00","cssclasses":"","DM":"Jordan","Players":["Peter","Larry","Fisher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-23","In-World Start Date":"264-10-27","Setting":"Selerim","Author":["Jordan"]}
+{"publish":true,"aliases":["The Haunted Flakes Factory"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:10.358-05:00","published":"2025-11-03T18:20:10.358-05:00","cssclasses":"","DM":"Jordan","Players":["Peter","Larry","Fisher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-23","In-World Start Date":"264-10-27","Setting":"Selerim","Author":["Jordan"]}
 ---
 
 # Details

@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"Corrodreth, The Salted City","created":"2023-09-02T09:43:46.000-04:00","modified":"2025-11-10T08:16:22.858-05:00","published":"2025-11-10T08:16:22.858-05:00","cssclasses":"","Type":["Desolate Ruin"],"Age (years)":1800,"Appearances":["[[18 Morganth's LEGION OF DOOM]]"],"marker":{"mapName":"InteractiveMap","x":92,"y":80,"icon":"game-icons:ancient-ruins","colour":"red"},"Author":"Jordan"}
+{"publish":true,"title":"Corrodreth, The Salted City","created":"2023-09-02T09:43:46.000-04:00","modified":"2025-12-12T09:29:17.441-05:00","published":"2025-12-12T09:29:17.441-05:00","cssclasses":"","Type":["Desolate Ruin"],"Age (years)":1800,"Appearances":["[[18 Morganth's LEGION OF DOOM]]"],"marker":{"mapName":"InteractiveMap","x":92,"y":80,"icon":"game-icons:ancient-ruins","colour":"red"},"Author":"Jordan"}
 ---
 
 ![[z_assets/corrodreth.png|600]]
 
 # Overview
 - Known in these times as "The Salted City", the desolate ruins of Corrodreth are talked of in hushed tones by citizens of [[Places/Tiialia]].
-- Corrodreth was built at the height of the [[Worldbuilding/Events/Generations' War]], but the empire that built it collapsed after the [[Worldbuilding/Lore/Darkwells]] flooded much of [[Places/The Inhabitable Lands]].
+- Corrodreth was built at the height of the [[Worldbuilding/Events/Generations' War]], but the empire that built it collapsed after the [[Worldbuilding/Lore/Darkwells]] flooded much of the [[Places/Inhabitable Lands]].
 - The ancient city is now a salted wasteland, sparking with magical energy and planar rifts.
 - At the conclusion of the [[Worldbuilding/Events/Serpent Wars]], the enraged Tiialans laid siege to the city, destroying and salting it to ensure that no green thing would again grow in Corrodreth.
 - Much of the city was left as is, as the destruction wrought by the Tiialan artillery mages was devastating. 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Hellnight Soirée"],"created":"2025-08-03T20:47:11.000-04:00","modified":"2025-11-10T20:13:56.000-05:00","published":"2025-11-10T20:13:56.000-05:00","cssclasses":"","DM":"Jordan","Players":["Laura","Brian","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-08-07","In-World Start Date":"265-06-28","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Hellnight Soirée"],"created":"2025-08-03T20:47:11.000-04:00","modified":"2025-12-12T13:17:08.361-05:00","published":"2025-12-12T13:17:08.361-05:00","cssclasses":"","DM":"Jordan","Players":["Laura","Brian","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-08-07","In-World Start Date":"265-05-20","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details
@@ -7,7 +7,7 @@
 - **Platform:** Foundry
 - **Sessions:** 1
 - **Dates:** 2025-08-07
-- **In-World Dates:** 265-06-28
+- **In-World Dates:** 265-05-20
 
 # Adventure Premise
 - [[NPCs/Scrimshaw City/Hugh Mann]], El Presidente of Scrimshaw, has vanished from the city on the eve of his own party, the [[Worldbuilding/Holidays/Hellnight]] Soirée.

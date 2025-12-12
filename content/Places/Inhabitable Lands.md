@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-09T16:13:33.000-04:00","modified":"2025-12-12T09:27:53.000-05:00","published":"2025-12-12T09:27:53.000-05:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2025-10-09T16:13:33.000-04:00","modified":"2025-12-12T09:27:53.206-05:00","published":"2025-12-12T09:27:53.206-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
 - Originally, The Inhabitable Lands of Selerim were select areas that were unaffected by the raging arcane fallout resulting from the nameless war between [[The Seldarine]] and [[The Dark Seldarine]]. 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Vlorngroth - 2 Manor 2 Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:55.000-05:00","published":"2025-11-03T18:20:55.000-05:00","cssclasses":"","DM":"Jordan","Players":["Peter","Laura","Mike Doom","Leah","Michael"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-04-02","In-World Start Date":"265-03-23","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Vlorngroth - 2 Manor 2 Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:55.610-05:00","published":"2025-11-03T18:20:55.610-05:00","cssclasses":"","DM":"Jordan","Players":["Peter","Laura","Mike Doom","Leah","Michael"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-04-02","In-World Start Date":"265-03-23","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details

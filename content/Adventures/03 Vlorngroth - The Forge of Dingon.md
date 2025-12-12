@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Vlorngroth - The Forge of Dingon"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:23.000-05:00","published":"2025-11-03T18:19:23.000-05:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Mike Doom","Jimmy","Evan","Ethan"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-08-17","In-World Start Date":"264-02-03","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Vlorngroth - The Forge of Dingon"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:23.554-05:00","published":"2025-11-03T18:19:23.554-05:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Mike Doom","Jimmy","Evan","Ethan"],"Platform":"Roll20","Sessions":1,"Start Date":"2023-08-17","In-World Start Date":"264-02-03","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details

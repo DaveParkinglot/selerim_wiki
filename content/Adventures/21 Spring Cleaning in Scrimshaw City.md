@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Spring Cleaning in Scrimshaw City"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:21:03.000-05:00","published":"2025-11-03T18:21:03.000-05:00","cssclasses":"","DM":"Jordan","Players":["Mike Doom","Laura","Brian"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-05-01","In-World Start Date":"265-04-15","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Spring Cleaning in Scrimshaw City"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:21:03.675-05:00","published":"2025-11-03T18:21:03.675-05:00","cssclasses":"","DM":"Jordan","Players":["Mike Doom","Laura","Brian"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-05-01","In-World Start Date":"265-04-15","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details

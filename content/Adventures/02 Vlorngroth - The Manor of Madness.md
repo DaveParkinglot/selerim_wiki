@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Vlorngroth - The Manor of Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:19.000-05:00","published":"2025-11-03T18:19:19.000-05:00","cssclasses":"","DM":"Jordan","Players":["George","Mike Doom","Peter","Ethan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-07-06","End Date":"2023-07-12","In-World Start Date":"264-01-11","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Vlorngroth - The Manor of Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:19.329-05:00","published":"2025-11-03T18:19:19.329-05:00","cssclasses":"","DM":"Jordan","Players":["George","Mike Doom","Peter","Ethan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-07-06","End Date":"2023-07-12","In-World Start Date":"264-01-11","Setting":"Selerim","Author":"Jordan"}
 ---
 
 Handouts:

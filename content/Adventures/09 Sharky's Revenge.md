@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Sharky's Revenge"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:50.000-05:00","published":"2025-11-03T18:19:50.000-05:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-24","In-World Start Date":"263-10-28","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Sharky's Revenge"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:50.236-05:00","published":"2025-11-03T18:19:50.236-05:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-24","In-World Start Date":"263-10-28","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details

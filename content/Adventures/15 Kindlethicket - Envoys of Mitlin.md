@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Kindlethicket - Envoys of Mitlin"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:18.000-05:00","published":"2025-11-03T18:20:18.000-05:00","cssclasses":"","DM":"Jordan","Players":["Cale","Laura","Leah","Meagan","Peter"],"Platform":"In person","Sessions":1,"Start Date":"2024-11-27","In-World Start Date":"264-04-20","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Kindlethicket - Envoys of Mitlin"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:18.133-05:00","published":"2025-11-03T18:20:18.133-05:00","cssclasses":"","DM":"Jordan","Players":["Cale","Laura","Leah","Meagan","Peter"],"Platform":"In person","Sessions":1,"Start Date":"2024-11-27","In-World Start Date":"264-04-20","Setting":"Selerim","Author":"Jordan"}
 ---
 
 Handouts:

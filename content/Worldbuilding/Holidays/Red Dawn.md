@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-12T13:20:34.000-05:00","modified":"2025-12-12T13:21:34.000-05:00","published":"2025-12-12T13:21:34.000-05:00","cssclasses":"","Date":"Avaurus 1st","Author":"Jordan"}
+{"publish":true,"created":"2025-12-12T13:20:34.000-05:00","modified":"2025-12-12T13:21:34.809-05:00","published":"2025-12-12T13:21:34.809-05:00","cssclasses":"","Date":"Avaurus 1st","Author":"Jordan"}
 ---
 
 - **Date:** Avaurus 1st

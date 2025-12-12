@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-30T12:08:22.000-04:00","published":"2025-10-30T12:08:22.000-04:00","cssclasses":"","Age":"34","Ancestry":["Human"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[The Spicy Meatball]]"],"Role":["Acting CEO","Blood Hunter"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-30T12:08:22.281-04:00","published":"2025-10-30T12:08:22.281-04:00","cssclasses":"","Age":"34","Ancestry":["Human"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[The Spicy Meatball]]"],"Role":["Acting CEO","Blood Hunter"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/loeb.png|300]]
