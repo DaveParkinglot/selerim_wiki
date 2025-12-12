@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Voyage a la Isla Ruz"],"created":"2025-10-22T08:02:27.000-04:00","modified":"2025-11-03T18:22:15.904-05:00","published":"2025-11-03T18:22:15.904-05:00","cssclasses":"","DM":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Platform":"Foundry","Sessions":4,"Start Date":"2025-07-31","End Date":"2025-10-23","In-World Start Date":"265-10-28","In-World End Date":"265-11-15","Setting":"Selerim","Author":"Ethan"}
+{"publish":true,"aliases":["Voyage a la Isla Ruz"],"created":"2025-10-22T08:02:27.000-04:00","modified":"2025-11-03T18:22:15.000-05:00","published":"2025-11-03T18:22:15.000-05:00","cssclasses":"","DM":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Platform":"Foundry","Sessions":4,"Start Date":"2025-07-31","End Date":"2025-10-23","In-World Start Date":"265-10-28","In-World End Date":"265-11-15","Setting":"Selerim","Author":"Ethan"}
 ---
 
 # Details

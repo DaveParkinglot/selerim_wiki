@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Winter Huntsman"],"created":"2025-12-09T19:17:17.000-05:00","modified":"2025-12-09T19:42:47.124-05:00","published":"2025-12-09T19:42:47.124-05:00","cssclasses":"","Age":"6500","Ancestry":["Archfey"],"Gender":"Male","Location":["[[Places/Yuleshade]]"],"Role":["Archfey","Winter Huntsman"],"Affiliation":["None"],"Appearances":["[[16 Kindlethicket - The Winter Hunt]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"aliases":["The Winter Huntsman"],"created":"2025-12-09T19:17:17.000-05:00","modified":"2025-12-09T19:42:47.000-05:00","published":"2025-12-09T19:42:47.000-05:00","cssclasses":"","Age":"6500","Ancestry":["Archfey"],"Gender":"Male","Location":["[[Places/Yuleshade]]"],"Role":["Archfey","Winter Huntsman"],"Affiliation":["None"],"Appearances":["[[16 Kindlethicket - The Winter Hunt]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Hidden Hoard of Winchester Bone"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:39.974-05:00","published":"2025-11-03T18:19:39.974-05:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-17","In-World Start Date":"263-09-05","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Hidden Hoard of Winchester Bone"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:39.000-05:00","published":"2025-11-03T18:19:39.000-05:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-17","In-World Start Date":"263-09-05","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details

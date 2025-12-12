@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-30T12:08:14.985-04:00","published":"2025-10-30T12:08:14.985-04:00","cssclasses":"","Age":"97","Ancestry":["Dwarf"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Former Gladiator Trainer","Failed Blood Hunter"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-30T12:08:14.000-04:00","published":"2025-10-30T12:08:14.000-04:00","cssclasses":"","Age":"97","Ancestry":["Dwarf"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Former Gladiator Trainer","Failed Blood Hunter"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/usus_grimsby.png|300]]

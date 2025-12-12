@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Arby's Sauce"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:45.599-05:00","published":"2025-11-03T18:19:45.599-05:00","cssclasses":"","DM":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Platform":"Foundry","Sessions":2,"Start Date":"2024-02-20","End Date":"2024-02-27","In-World Start Date":"264-02-12","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Arby's Sauce"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:45.000-05:00","published":"2025-11-03T18:19:45.000-05:00","cssclasses":"","DM":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Platform":"Foundry","Sessions":2,"Start Date":"2024-02-20","End Date":"2024-02-27","In-World Start Date":"264-02-12","Setting":"Selerim","Author":"Jordan"}
 ---
 
 # Details

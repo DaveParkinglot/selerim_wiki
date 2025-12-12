@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-12T08:58:27.000-04:00","modified":"2025-11-04T20:36:02.852-05:00","published":"2025-11-04T20:36:02.852-05:00","cssclasses":"","Age":"174","Ancestry":"Fiend (Devil), Sahuagin","Gender":"Male","Location":["Boater's Bay"],"Role":["Sahuagin Baron"],"Affiliation":["None"],"Appearances":["[[26 The Hellnight Soirée]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-08-12T08:58:27.000-04:00","modified":"2025-11-04T20:36:02.000-05:00","published":"2025-11-04T20:36:02.000-05:00","cssclasses":"","Age":"174","Ancestry":"Fiend (Devil), Sahuagin","Gender":"Male","Location":["Boater's Bay"],"Role":["Sahuagin Baron"],"Affiliation":["None"],"Appearances":["[[26 The Hellnight Soirée]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/billy_bubbler.png|300]]

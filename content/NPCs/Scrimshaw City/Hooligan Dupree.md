@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:08:24.634-04:00","published":"2025-10-30T12:08:24.634-04:00","cssclasses":"","Age":"32","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Failed Adventurer","Bartender","Aspiring Salt Spitter"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:08:24.000-04:00","published":"2025-10-30T12:08:24.000-04:00","cssclasses":"","Age":"32","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Failed Adventurer","Bartender","Aspiring Salt Spitter"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/hooligan_dupree.png|300]]

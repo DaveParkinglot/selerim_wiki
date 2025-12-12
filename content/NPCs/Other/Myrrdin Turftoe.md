@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-11-04T20:35:57.836-05:00","published":"2025-11-04T20:35:57.836-05:00","cssclasses":"","Age":"286","Ancestry":"Halfling","Gender":"Male","Location":["[[Places/The Wild Thicket]]"],"Role":["Archdruid, Mentor"],"Affiliation":["The Circle of the Thicket"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-11-04T20:35:57.000-05:00","published":"2025-11-04T20:35:57.000-05:00","cssclasses":"","Age":"286","Ancestry":"Halfling","Gender":"Male","Location":["[[Places/The Wild Thicket]]"],"Role":["Archdruid, Mentor"],"Affiliation":["The Circle of the Thicket"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/myrrdin_turftoe.png|300]]

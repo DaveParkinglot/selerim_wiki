@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:08:28.950-04:00","published":"2025-10-30T12:08:28.950-04:00","cssclasses":"","Age":"35","Ancestry":["Human"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Chief Accountant, Bracketologist"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:08:28.000-04:00","published":"2025-10-30T12:08:28.000-04:00","cssclasses":"","Age":"35","Ancestry":["Human"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Chief Accountant, Bracketologist"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[Adventures/00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/hoary_boulder.png|300]]

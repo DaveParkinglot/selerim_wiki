@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Lighting the Lighthouse"],"created":"2025-11-02T09:22:56.000-05:00","modified":"2025-12-08T12:27:06.586-05:00","published":"2025-12-08T12:27:06.586-05:00","cssclasses":"","DM":"Jordan","Players":["Otto","Becca","Peter","Leah"],"Platform":["Foundry"],"Sessions":1,"Start Date":"2025-12-04","In-World Start Date":"265-13-16","In-World End Date":"265-13-16","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Lighting the Lighthouse"],"created":"2025-11-02T09:22:56.000-05:00","modified":"2025-12-08T12:27:06.000-05:00","published":"2025-12-08T12:27:06.000-05:00","cssclasses":"","DM":"Jordan","Players":["Otto","Becca","Peter","Leah"],"Platform":["Foundry"],"Sessions":1,"Start Date":"2025-12-04","In-World Start Date":"265-13-16","In-World End Date":"265-13-16","Setting":"Selerim","Author":"Jordan"}
 ---
 
 ![[z_assets/lighting_the_lighthouse.png|300]]
