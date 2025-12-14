@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-11-03T20:24:08.301-05:00","published":"2025-11-03T20:24:08.301-05:00","cssclasses":"","Age":"60","Ancestry":"Loxodon","Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Archmage"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[22 The Crimsonclaw Bounty]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-12-14T10:12:58.953-05:00","published":"2025-12-14T10:12:58.953-05:00","cssclasses":"","Age":"60","Ancestry":"Loxodon","Gender":"Male","Location":["[[Tanglewood Peninsula]]"],"Role":["Archmage"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[22 The Crimsonclaw Bounty]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/beezlebop.png|300]]
@@ -18,7 +18,7 @@
 - **Age**: 60
 - **Ancestry**: Loxodon
 - **Gender**: Male
-- **Location**: Tanglewood Peninsula
+- **Location**: [[Places/Tanglewood Peninsula\|Tanglewood Peninsula]]
 - **Role**: Archmage
 - **Affiliation:** [[The Tanglers\|The Tanglers]]
 - **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/22 The Crimsonclaw Bounty\|22 The Crimsonclaw Bounty]]
