@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Kindlethicket - The Winter Hunt"],"created":"2025-07-25T10:08:23.000-04:00","modified":"2025-12-14T09:46:48.852-05:00","published":"2025-12-14T09:46:48.852-05:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Laura","Daniel","Mike Doom"],"Platform":"In person","Sessions":1,"Start Date":"2024-12-20","In-World Start Date":"264-13-25","Setting":null,"Author":"Jordan"}
+{"publish":true,"aliases":["Kindlethicket - The Winter Hunt"],"created":"2025-07-25T10:08:23.000-04:00","modified":"2025-12-17T10:20:38.129-05:00","published":"2025-12-17T10:20:38.129-05:00","cssclasses":"","DM":"Jordan","Platform":"In person","Sessions":1,"Start Date":"2024-12-20","In-World Start Date":"264-13-25","Setting":"Selerim","Author":"Jordan","Players":["Bishop","Laura","Daniel","Mike Doom"],"Characters":["Melkar Dragonheart","Clara Biscuit","Creosote Davis","David Hellscream"],"Races":["Dragonborn","Warforged","Elf","Orc"],"Classes":["Ranger","Bard","Rogue","Fighter"]}
 ---
 
 # Details
@@ -18,9 +18,9 @@
 - The individual held in Krampus' punishment sack was the troll [[NPCs/Other/Pudding]], who had crucial information about the disappearance of Selerim's foremost adventuring party, [[Player Characters/The High Rollers/The High Rollers]]. The party returned to [[Places/Mitlin]] with Pudding, whose crucial information will undoubtedly influence future events—events known only to the Wise Wizards. Their arduous Giftmas quest completed, Mitlin's newest misfit heroes sat down for a mug of cocoa at Longwood Tavern.
 
 # Players & Characters
-| Player              | Character Name     | Race       | Class   |
-| ------------------- | ------------------ | ---------- | ------- |
-| Bishop | Melkar Dragonheart | Dragonborn | Ranger  |
-| Laura | Clara Biscuit      | Warforged  | Bard    |
-| Daniel | Creosote Davis     | Elf        | Rogue   |
-| Mike Doom | David Hellscream   | Orc        | Fighter |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Bishop | Melkar Dragonheart | Dragonborn | Ranger |
+| Laura | Clara Biscuit | Warforged | Bard |
+| Daniel | Creosote Davis | Elf | Rogue |
+| Mike Doom | David Hellscream | Orc | Fighter |

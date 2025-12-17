@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Voyage a la Isla Ruz"],"created":"2025-10-22T08:02:27.000-04:00","modified":"2025-11-03T18:22:15.904-05:00","published":"2025-11-03T18:22:15.904-05:00","cssclasses":"","DM":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Platform":"Foundry","Sessions":4,"Start Date":"2025-07-31","End Date":"2025-10-23","In-World Start Date":"265-10-28","In-World End Date":"265-11-15","Setting":"Selerim","Author":"Ethan"}
+{"publish":true,"aliases":["Voyage a la Isla Ruz"],"created":"2025-10-22T08:02:27.000-04:00","modified":"2025-12-17T10:32:31.120-05:00","published":"2025-12-17T10:32:31.120-05:00","cssclasses":"","DM":"Ethan","Platform":"Foundry","Sessions":4,"Start Date":"2025-07-31","End Date":"2025-10-23","In-World Start Date":"265-10-28","In-World End Date":"265-11-15","Setting":"Selerim","Author":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Characters":["Asana Totashi","The Knight of Confidence","Hector Fanto-Domingo","\"Playing Card\" Murphy"],"Races":["Human","Human","Human","Human"],"Classes":["Monk","Fighter","Barbarian","Rogue"]}
 ---
 
 # Details
@@ -44,11 +44,11 @@
 * They adventurers shared their evidence with [[General Ernesto de la Sern]], who seemed thoroughly convinced and happy to have more allies. Before he could share the evidence with [[NPCs/Tiialia/Alejandro Ruz]], a Batista spy smashed a stone through a window, indicating to a ready-in-waiting assassination crew to make an assassination attempt on [[NPCs/Tiialia/Alejandro Ruz]].
 
 # Players & Characters
-| Player              | Character Name           | Race  | Class     |
-| ------------------- | ------------------------ | ----- | --------- |
-| Bishop | Asana Totashi            | Human | Monk      |
-| Mike Doom | The Knight of Confidence | Human | Fighter   |
-| Jordan | Hector Fanto-Domingo     | Human | Barbarian |
-| Devin | "Playing Card" Murphy    | Human | Rogue     |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Bishop | Asana Totashi | Human | Monk |
+| Mike Doom | The Knight of Confidence | Human | Fighter |
+| Jordan | Hector Fanto-Domingo | Human | Barbarian |
+| Devin | "Playing Card" Murphy | Human | Rogue |
 
 

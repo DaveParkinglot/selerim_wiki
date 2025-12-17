@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Hidden Hoard of Winchester Bone"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:39.974-05:00","published":"2025-11-03T18:19:39.974-05:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-17","In-World Start Date":"263-09-05","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Hidden Hoard of Winchester Bone"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T10:11:19.591-05:00","published":"2025-12-17T10:11:19.591-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":1,"Start Date":"2024-02-17","In-World Start Date":"263-09-05","Setting":"Selerim","Author":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Characters":["Fingus Bingus","Curly","Cromulent Fuckstable","Wom Batinator"],"Races":["Half-Elf","Human","Half-Orc","Human"],"Classes":["Bard","Fighter","Barbarian","Rogue"]}
 ---
 
 # Details
@@ -17,9 +17,9 @@
 - Captain Winchester Bone now has the cash flow he needs to maintain his exorbitant lifestyle, and Bone Tavern won't go underwater anytime soon!
 
 # Players & Characters
-| Player              | Character Name       | Race      | Class     |
-| ------------------- | -------------------- | --------- | --------- |
-| Ethan | Fingus Bingus        | Half-Elf  | Bard      |
-| Mike Doom | Curly                | Human     | Fighter   |
-| Jimmy | Cromulent Fuckstable | Half-Orc  | Barbarian |
-| AJ | Wom Batinator        | Human     | Rogue     |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Ethan | Fingus Bingus | Half-Elf | Bard |
+| Mike Doom | Curly | Human | Fighter |
+| Jimmy | Cromulent Fuckstable | Half-Orc | Barbarian |
+| AJ | Wom Batinator | Human | Rogue |

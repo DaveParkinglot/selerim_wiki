@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Sharky's Revenge"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:50.236-05:00","published":"2025-11-03T18:19:50.236-05:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-02-24","In-World Start Date":"263-10-28","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Sharky's Revenge"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T10:12:58.309-05:00","published":"2025-12-17T10:12:58.309-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":1,"Start Date":"2024-02-24","In-World Start Date":"263-10-28","Setting":"Selerim","Author":"Jordan","Players":["Ethan","Mike Doom","Jimmy","AJ"],"Characters":["Fingus Bingus","Curly","Cromulent Fuckstable","Wom Batinator"],"Races":["Half-Elf","Human","Half-Orc","Human"],"Classes":["Bard","Fighter","Barbarian","Rogue"]}
 ---
 
 # Details
@@ -17,9 +17,9 @@
 - This has probably made Captain Bone more paranoid about his former first mate returning to settle things.
 
 # Players & Characters
-| Player              | Character Name       | Race     | Class     |
-| ------------------- | -------------------- | -------- | --------- |
-| Ethan | Fingus Bingus        | Half-Elf | Bard      |
-| Mike Doom | Curly                | Human    | Fighter   |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Ethan | Fingus Bingus | Half-Elf | Bard |
+| Mike Doom | Curly | Human | Fighter |
 | Jimmy | Cromulent Fuckstable | Half-Orc | Barbarian |
-| AJ | Wom Batinator        | Human    | Rogue     |
+| AJ | Wom Batinator | Human | Rogue |

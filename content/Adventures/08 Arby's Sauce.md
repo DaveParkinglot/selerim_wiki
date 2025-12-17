@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Arby's Sauce"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:45.599-05:00","published":"2025-11-03T18:19:45.599-05:00","cssclasses":"","DM":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Platform":"Foundry","Sessions":2,"Start Date":"2024-02-20","End Date":"2024-02-27","In-World Start Date":"264-02-12","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Arby's Sauce"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T10:12:12.645-05:00","published":"2025-12-17T10:12:12.645-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":2,"Start Date":"2024-02-20","End Date":"2024-02-27","In-World Start Date":"264-02-12","Setting":"Selerim","Author":"Jordan","Players":["Peter","George","Michael","Evan","Mike Doom"],"Characters":["Cowman Shisito","Stanway Pegasus","Jocosa Antiope","Den Tiest","Carnifex Maximus Vardorvis"],"Races":["Half-Elf","Human","Tiefling","Tortle","Elf"],"Classes":["Cleric","Wizard","Druid","Monk","Sorcerer"]}
 ---
 
 # Details
@@ -17,10 +17,10 @@
 - Before their untimely demise, the party saw several objects stolen from The Spicy Meatball. Fumbo Bimpis appeared to be creating a mirror of The Spicy Meatball in the Feywild, including petrified humanoid bar patrons.
 
 # Players & Characters
-| Player              | Character Name             | Race     | Class    |
-| ------------------- | -------------------------- | -------- | -------- |
-| Peter | Cowman Shisito             | Half-Elf | Cleric   |
-| George | Stanway Pegasus            | Human    | Wizard   |
-| Michael | Jocosa Antiope             | Tiefling | Druid    |
-| Evan | Den Tiest                  | Tortle   | Monk     |
-| Mike Doom | Carnifex Maximus Vardorvis | Elf      | Sorcerer |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Peter | Cowman Shisito | Half-Elf | Cleric |
+| George | Stanway Pegasus | Human | Wizard |
+| Michael | Jocosa Antiope | Tiefling | Druid |
+| Evan | Den Tiest | Tortle | Monk |
+| Mike Doom | Carnifex Maximus Vardorvis | Elf | Sorcerer |

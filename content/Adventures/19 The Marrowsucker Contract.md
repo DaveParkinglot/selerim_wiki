@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Marrowsucker Contract"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:51.073-05:00","published":"2025-11-03T18:20:51.073-05:00","cssclasses":"","DM":"Jordan","Players":["Brian","Laura","Mike Doom","Peter"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-02-12","In-World Start Date":"264-08-16","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Marrowsucker Contract"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T12:26:34.972-05:00","published":"2025-12-17T12:26:34.972-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":1,"Start Date":"2025-02-12","In-World Start Date":"264-08-16","Setting":"Selerim","Author":"Jordan","Players":["Brian","Laura","Mike Doom","Peter"],"Characters":["Galath Goatjumper Kalageaku","Keryn Elaris-Smith","Frosty the Old Salt","Presinald Schfindin"],"Races":["Goliath","Elf","Human","Human"],"Classes":["Paladin","Barbarian","Cleric","Rogue"]}
 ---
 
 # Details
@@ -20,9 +20,9 @@
 - Despite the party's HEAVY usage of the drug, the Ancient Dragon Marrow recovered from the Marrowsuckers was enough to appease Melvin and the Oaken Conclave of Mitlin.
 
 # Players & Characters
-| Player              | Character Name              | Race    | Class     |
-| ------------------- | --------------------------- | ------- | --------- |
-| Brian | Galath Goatjumper Kalageaku | Goliath | Paladin   |
-| Laura | Keryn Elaris-Smith          | Elf     | Barbarian |
-| Mike Doom | Frosty, the Old Salt        | Human   | Cleric    |
-| Peter | Presinald Schfindin         | Human   | Rogue     |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Brian | Galath Goatjumper Kalageaku | Goliath | Paladin |
+| Laura | Keryn Elaris-Smith | Elf | Barbarian |
+| Mike Doom | Frosty the Old Salt | Human | Cleric |
+| Peter | Presinald Schfindin | Human | Rogue |

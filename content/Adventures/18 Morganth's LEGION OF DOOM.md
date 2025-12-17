@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Morganth's LEGION OF DOOM"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T20:12:34.985-05:00","published":"2025-11-03T20:12:34.985-05:00","cssclasses":"","DM":"Jordan","Players":["Kyle","Laura","Mike Doom","Ethan"],"Platform":"Foundry","Sessions":2,"Start Date":"2025-01-22","End Date":"2025-01-29","In-World Start Date":"264-07-03","In-World End Date":"264-07-14","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Morganth's LEGION OF DOOM"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T10:22:18.877-05:00","published":"2025-12-17T10:22:18.877-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":2,"Start Date":"2025-01-22","End Date":"2025-01-29","In-World Start Date":"264-07-03","In-World End Date":"264-07-14","Setting":"Selerim","Author":"Jordan","Players":["Kyle","Laura","Mike Doom","Ethan"],"Characters":["Papa Vince","Bianca “Mad Dog” Bianchi","Mad Jack the Fat","Bombus Mitz"],"Races":["Human","Goliath","Human","Drow"],"Classes":["Ranger","Warlock","Fighter","Cleric"]}
 ---
 
 # Details
@@ -19,9 +19,9 @@
 - In an act of uncharacteristic selflessness, Doom Lord Bombus Mitz volunteered to have his legs sawed clean off. This granted access to the hidden treasures of Zalaash's sarcophagus, which contained a scale of the serpent god [[Dendar]] and a [[Blackfyre Orb]], a profane implement of the lower planes. What could Lord Morganth wish to do with these two vile artifacts? Only time will tell…
 
 # Players & Characters
-| Player              | Character Name           | Race    | Class   |
-| ------------------- | ------------------------ | ------- | ------- |
-| Kyle | Papa Vince               | Human   | Ranger  |
-| Laura | Bianca "Mad Dog" Bianchi | Goliath | Warlock |
-| Mike Doom | Mad Jack the Fat         | Human   | Fighter |
-| Ethan | Bombus Mitz              | Drow    | Cleric  |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Kyle | Papa Vince | Human | Ranger |
+| Laura | Bianca “Mad Dog” Bianchi | Goliath | Warlock |
+| Mike Doom | Mad Jack the Fat | Human | Fighter |
+| Ethan | Bombus Mitz | Drow | Cleric |

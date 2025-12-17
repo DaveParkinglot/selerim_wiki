@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Great Tiialan Heist"],"created":"2025-07-27T17:24:16.000-04:00","modified":"2025-11-03T18:21:13.283-05:00","published":"2025-11-03T18:21:13.283-05:00","cssclasses":"","DM":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-06-25","In-World Start Date":"265-10-01","Setting":"Selerim","Author":"Ethan"}
+{"publish":true,"aliases":["The Great Tiialan Heist"],"created":"2025-07-27T17:24:16.000-04:00","modified":"2025-12-17T10:29:45.898-05:00","published":"2025-12-17T10:29:45.898-05:00","cssclasses":"","DM":"Ethan","Platform":"Foundry","Sessions":1,"Start Date":"2025-06-25","In-World Start Date":"265-10-01","Setting":"Selerim","Author":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Characters":["Asana Totashi","Jaguar","Hector Fanto-Domingo","\"Playing Card\" Murphy"],"Races":["Human","Tabaxi","Human","Human"],"Classes":["Monk","Rogue","Barbarian","Rogue"]}
 ---
 
 # Details
@@ -27,10 +27,10 @@
 - The adventurers ran off into the woods, hoping to escape with their loot and not knowing how the Batista Family might react to this heist.
 
 # Players & Characters
-| Player              | Character Name        | Race   | Class     |
-| ------------------- | --------------------- | ------ | --------- |
-| Bishop | Asana Totashi         | Human  | Monk      |
-| Mike Doom | Jaguar                | Tabaxi | Rogue     |
-| Jordan | Hector Fanto-Domingo  | Human  | Barbarian |
-| Devin | "Playing Card" Murphy | Human  | Rogue     |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Bishop | Asana Totashi | Human | Monk |
+| Mike Doom | Jaguar | Tabaxi | Rogue |
+| Jordan | Hector Fanto-Domingo | Human | Barbarian |
+| Devin | "Playing Card" Murphy | Human | Rogue |
 

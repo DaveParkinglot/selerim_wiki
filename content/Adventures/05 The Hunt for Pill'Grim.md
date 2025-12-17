@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Hunt for Pill'Grim"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:31.916-05:00","published":"2025-11-03T18:19:31.916-05:00","cssclasses":"","DM":"Jordan","Players":["Peter","Leah","Evan","Alex","Mike Doom"],"Platform":"In person","Sessions":1,"Start Date":"2023-11-25","In-World Start Date":"263-11-25","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Hunt for Pill'Grim"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T10:08:44.287-05:00","published":"2025-12-17T10:08:44.287-05:00","cssclasses":"","DM":"Jordan","Platform":"In person","Sessions":1,"Start Date":"2023-11-25","In-World Start Date":"263-11-25","Setting":"Selerim","Author":"Jordan","Players":["Peter","Leah","Evan","Alex","Mike Doom"],"Characters":["Thurney Snooper","Unknown","Unknown","Green B. Casserole","Frosty, the Old Salt"],"Races":["Human","Unknown","Unknown","Goblin","Human"],"Classes":["Warlock","Unknown","Unknown","Fighter","Cleric"]}
 ---
 
 # Details
@@ -19,10 +19,10 @@
 - Interdimensional hijinks and multiple fights with strange gnomish devices eventually led the party to a sanctuary farm world that Pill’Grim had peacefully settled in. Despite his years of tactical training and his gravy grenades, they were able to roast him in the end.
 
 # Players & Characters
-| Player              | Character Name                        | Race    | Class   |
-| ------------------- | ------------------------------------- | ------- | ------- |
-| Peter | Thurney Snooper                       | Human   | Warlock |
-| Leah | Unknown thanksgiving themed character | Unknown | Unknown |
-| Evan | Unknown thanksgiving themed character | Unknown | Unknown |
-| Alex | Green B. Casserole                    | Goblin  | Fighter |
-| Mike Doom | Frosty, the Old Salt                  | Human   | Cleric  |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Peter | Thurney Snooper | Human | Warlock |
+| Leah | Unknown | Unknown | Unknown |
+| Evan | Unknown | Unknown | Unknown |
+| Alex | Green B. Casserole | Goblin | Fighter |
+| Mike Doom | Frosty, the Old Salt | Human | Cleric |

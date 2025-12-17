@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The White Grove - Summer Vacation"],"created":"2025-08-16T21:13:04.000-04:00","modified":"2025-12-10T07:52:53.000-05:00","published":"2025-12-10T07:52:53.000-05:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Mike Doom","Brian","Bishop"],"Platform":"Foundry","Sessions":4,"Start Date":"2025-08-21","End Date":"2025-10-15","In-World Start Date":"265-07-18","In-World End Date":"265-08-02","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The White Grove - Summer Vacation"],"created":"2025-08-16T21:13:04.000-04:00","modified":"2025-12-17T10:35:10.145-05:00","published":"2025-12-17T10:35:10.145-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":4,"Start Date":"2025-08-21","End Date":"2025-10-15","In-World Start Date":"265-07-18","In-World End Date":"265-08-02","Setting":"Selerim","Author":"Jordan","Players":["Ethan","Mike Doom","Brian","Bishop"],"Characters":["Crimslaw Brutefang","Tony Gorgonzoli","The Earl","Sari"],"Races":["Orc","Human","Genasi","Elf"],"Classes":["Wizard","Wizard","Warlock","Ranger"]}
 ---
 
 # Details
@@ -46,9 +46,9 @@
 - After such a successful outing, the party kicked back with their peers and [[NPCs/The White Grove/Professor Daemon Darkfyre]] at Leviathan Lagoon, enjoying the best thing summer vacation can offer: a sunny beach, trauma-bonded friends, and a great deal of rum.
 
 # Players & Characters
-| Player              | Character Name     | Race   | Class   |
-| ------------------- | ------------------ | ------ | ------- |
-| Ethan | Crimslaw Brutefang | Orc    | Wizard  |
-| Mike Doom | Tony Gorgonzoli    | Human  | Wizard  |
-| Brian | The Earl           | Genasi | Warlock |
-| Bishop | Sari               | Elf    | Ranger  |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Ethan | Crimslaw Brutefang | Orc | Wizard |
+| Mike Doom | Tony Gorgonzoli | Human | Wizard |
+| Brian | The Earl | Genasi | Warlock |
+| Bishop | Sari | Elf | Ranger |

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Giftmas in Nova Jersaeria"],"created":"2025-10-03T15:37:56.000-04:00","modified":"2025-11-03T18:20:29.813-05:00","published":"2025-11-03T18:20:29.813-05:00","cssclasses":"","DM":"Jordan","Players":["Jessa","Laura","Jimmy","Connor"],"Platform":"In person","Sessions":1,"Start Date":"2024-12-25","In-World Start Date":"264-13-25","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Giftmas in Nova Jersaeria"],"created":"2025-10-03T15:37:56.000-04:00","modified":"2025-12-17T10:21:22.434-05:00","published":"2025-12-17T10:21:22.434-05:00","cssclasses":"","DM":"Jordan","Platform":"In person","Sessions":1,"Start Date":"2024-12-25","In-World Start Date":"264-13-25","Setting":"Selerim","Author":"Jordan","Players":["Jessa","Laura","Jimmy","Connor"],"Characters":["Nutmeg Winnipeg","Jingle Jangle","Tinsel Twinkletin","Cronk Stibbens"],"Races":["Dwarf","Goliath","Halfling","Orc"],"Classes":["Paladin","Fighter","Warlock","Barbarian"]}
 ---
 
 # Details
@@ -22,10 +22,10 @@
 - The party received 25 gold pieces and free bolis for life from a relieved Barl Nilewski.
 
 # Players & Characters
-| Player              | Character Name    | Race     | Class     |
-| ------------------- | ----------------- | -------- | --------- |
-| Jessa | Nutmeg Winnipeg   | Dwarf    | Paladin   |
-| Laura | Jingle Jangle     | Goliath  | Fighter   |
-| Jimmy | Tinsel Twinkletin | Halfling | Warlock   |
-| Connor | Cronk Stibbens    | Orc      | Barbarian |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Jessa | Nutmeg Winnipeg | Dwarf | Paladin |
+| Laura | Jingle Jangle | Goliath | Fighter |
+| Jimmy | Tinsel Twinkletin | Halfling | Warlock |
+| Connor | Cronk Stibbens | Orc | Barbarian |
 

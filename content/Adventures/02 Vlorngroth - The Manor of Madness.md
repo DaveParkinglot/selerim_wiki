@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Vlorngroth - The Manor of Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:19:19.329-05:00","published":"2025-11-03T18:19:19.329-05:00","cssclasses":"","DM":"Jordan","Players":["George","Mike Doom","Peter","Ethan"],"Platform":"Roll20","Sessions":2,"Start Date":"2023-07-06","End Date":"2023-07-12","In-World Start Date":"264-01-11","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Vlorngroth - The Manor of Madness"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T12:04:08.244-05:00","published":"2025-12-17T12:04:08.244-05:00","cssclasses":"","DM":"Jordan","Platform":"Roll20","Sessions":2,"Start Date":"2023-07-06","End Date":"2023-07-12","In-World Start Date":"264-01-11","Setting":"Selerim","Author":"Jordan","Players":["George","Mike Doom","Peter","Ethan"],"Characters":["Ashal Fractilian","Feelay Minion","Sister Katharine Voidstone","Ridley","Dyksin Poosie","Chamberlain Netherpot","Nompman the Scarred","Chaslee Golentrix"],"Races":["Kobold","Drow","Drow","Kobold","Duergar","Duergar","Deep Gnome","Tiefling"],"Classes":["Warlock","Rogue","Cleric","Rogue","Barbarian","Fighter","Blood Hunter","Paladin"]}
 ---
 
 Handouts:
@@ -28,13 +28,13 @@ Handouts:
 - [[Sister Katharine Voidstone]] was afflicted with a horrible case of Surface Sickness.
 
 # Players & Characters
-| Player              | Character Name         | Race     | Class        |
-| ------------------- | ---------------------- | -------- | ------------ |
-| George | Ashal Fractilian       | Kobold   | Warlock      |
-| George | Feelay Minion          | Drow     | Rogue        |
-| Mike Doom | Sister Katharine Voidstone | Drow     | Cleric       |
-| Mike Doom | Ridley                 | Kobold   | Rogue        |
-| Peter | Dyksin Poesie          | Duergar  | Barbarian    |
-| Peter | Chamberlain Netherpot  | Duergar  | Fighter      |
-| Ethan | Nompman the Scarred    | Deep Gnome | Blood Hunter |
-| Ethan | Chaslee Golentrix      | Tiefling | Paladin      |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| George | Ashal Fractilian | Kobold | Warlock |
+| George | Feelay Minion | Drow | Rogue |
+| Mike Doom | Sister Katharine Voidstone | Drow | Cleric |
+| Mike Doom | Ridley | Kobold | Rogue |
+| Peter | Dyksin Poosie | Duergar | Barbarian |
+| Peter | Chamberlain Netherpot | Duergar | Fighter |
+| Ethan | Nompman the Scarred | Deep Gnome | Blood Hunter |
+| Ethan | Chaslee Golentrix | Tiefling | Paladin |
