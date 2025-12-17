@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Bootknife's Bounty"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:13.413-05:00","published":"2025-11-03T18:20:13.413-05:00","cssclasses":"","DM":"Jordan","Players":["Brian","Mike Doom","Ethan","David"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-30","In-World Start Date":"264-06-17","Setting":null,"Author":"Jordan"}
+{"publish":true,"aliases":["Bootknife's Bounty"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T10:19:27.762-05:00","published":"2025-12-17T10:19:27.762-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":1,"Start Date":"2024-10-30","In-World Start Date":"264-06-17","Setting":"Selerim","Author":"Jordan","Players":["Brian","Mike Doom","Ethan","David"],"Characters":["Galath Goatjumper Kalageaku","Joey Babaganoush","Jaemee Babaganoush","Talco"],"Races":["Goliath","Human","Human","Tiefling"],"Classes":["Paladin","Monk","Wizard","Bard"]}
 ---
 
 # Details
@@ -19,9 +19,9 @@
 - After bullying information about a sickly leviathan from the researcher Krillmort Coloradostein, they defeated Captain Ghaster and his skeleton crew and recovered the coveted leviathan scales from the beached leviathan.
 
 # Players & Characters
-| Player              | Character Name              | Race     | Class   |
-| ------------------- | --------------------------- | -------- | ------- |
-| Brian | Galath Goatjumper Kalageaku | Goliath  | Paladin |
-| Mike Doom | Joey Babaganoush            | Human    | Monk    |
-| Ethan | Jaemee Babaganoush          | Human    | Wizard  |
-| David | Talco                       | Tiefling | Bard    |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Brian | Galath Goatjumper Kalageaku | Goliath | Paladin |
+| Mike Doom | Joey Babaganoush | Human | Monk |
+| Ethan | Jaemee Babaganoush | Human | Wizard |
+| David | Talco | Tiefling | Bard |

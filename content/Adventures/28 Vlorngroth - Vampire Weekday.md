@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Vlorngroth - Vampire Weekday"],"created":"2025-10-03T10:23:37.000-04:00","modified":"2025-11-23T17:11:40.501-05:00","published":"2025-11-23T17:11:40.501-05:00","cssclasses":"","DM":"Jordan","Players":["Bishop","Ethan","Brian","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-10-29","In-World Start Date":"265-11-13","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Vlorngroth - Vampire Weekday"],"created":"2025-10-03T10:23:37.000-04:00","modified":"2025-12-17T10:36:21.516-05:00","published":"2025-12-17T10:36:21.516-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":1,"Start Date":"2025-10-29","In-World Start Date":"265-11-13","Setting":"Selerim","Author":"Jordan","Players":["Bishop","Ethan","Brian","Mike Doom"],"Characters":["Nemata","Bombus Mitz","Ebli Gigs","The Darkness"],"Races":["Duergar","Drow","Kobold","Drow"],"Classes":["Fighter","Cleric","Warlock","Warlock"]}
 ---
 
 ![[z_assets/vampire_weekday.png|500]]
@@ -23,10 +23,10 @@
 - Each familiar received a Cortex Band in appreciation of their hard work, and their efforts may have even brought Coach Cortex closer to sanity... though he still seemed extremely erratic.
 
 # Players & Characters
-| Player              | Character Name | Race         | Class   |
-| ------------------- | -------------- | ------------ | ------- |
-| Bishop | Nemata         | Duergar      | Fighter |
-| Ethan | Bombus Mitz    | Drow/Yuan-ti | Cleric  |
-| Brian | Ebli Gigs      | Drow         | Warlock |
-| Mike Doom | The Darkerness | Drow         | Warlock |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Bishop | Nemata | Duergar | Fighter |
+| Ethan | Bombus Mitz | Drow | Cleric |
+| Brian | Ebli Gigs | Kobold | Warlock |
+| Mike Doom | The Darkness | Drow | Warlock |
 

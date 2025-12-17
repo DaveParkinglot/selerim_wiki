@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Haunted Flakes Factory"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:10.358-05:00","published":"2025-11-03T18:20:10.358-05:00","cssclasses":"","DM":"Jordan","Players":["Peter","Larry","Fisher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-10-23","In-World Start Date":"264-10-27","Setting":"Selerim","Author":["Jordan"]}
+{"publish":true,"aliases":["The Haunted Flakes Factory"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T10:17:19.702-05:00","published":"2025-12-17T10:17:19.702-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":1,"Start Date":"2024-10-23","In-World Start Date":"264-10-27","Setting":"Selerim","Author":["Jordan"],"Players":["Peter","Larry","Fisher"],"Characters":["Berrymaw Bonetoberious","Shume Lettux","Babu Michaelstein"],"Races":["Human","Tortle","Goliath"],"Classes":["Warlock","Barbarian","Wizard"]}
 ---
 
 # Details
@@ -18,8 +18,8 @@
 - "The Smashing Dunlaps" will go down in both the history books and the yearbook of Crabbley High as the first group to sneak into the haunted factory and return to tell the tale.
 
 # Players & Characters
-| Player              | Character Name       | Race    | Class     |
-| ------------------- | -------------------- | ------- | --------- |
-| Peter | Berrymaw Bonetoberious | Human   | Warlock   |
-| Larry | Shume Lettux         | Tortle  | Barbarian |
-| Fisher | Babu Michaelstein    | Goliath | Wizard    |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Peter | Berrymaw Bonetoberious | Human | Warlock |
+| Larry | Shume Lettux | Tortle | Barbarian |
+| Fisher | Babu Michaelstein | Goliath | Wizard |

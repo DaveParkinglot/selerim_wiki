@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Rentpire Strikes Back"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:04.699-05:00","published":"2025-11-03T18:20:04.699-05:00","cssclasses":"","DM":"Jordan","Players":["Michael","Bishop","Mike Doom","Bucher"],"Platform":"Foundry","Sessions":1,"Start Date":"2024-09-12","In-World Start Date":"264-06-23","In-World End Date":"264-06-27","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Rentpire Strikes Back"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T10:16:29.402-05:00","published":"2025-12-17T10:16:29.402-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":1,"Start Date":"2024-09-12","In-World Start Date":"264-06-23","In-World End Date":"264-06-27","Setting":"Selerim","Author":"Jordan","Players":["Michael","Bishop","Mike Doom","Bucher"],"Characters":["Bru Ski","Elenda Duskwood","Curly","Tumeighto Nose"],"Races":["Harengon","Elf","Human","Half-Orc"],"Classes":["Monk","Rogue","Fighter","Barbarian"]}
 ---
 
 # Details
@@ -18,9 +18,9 @@
 - It became apparent that both Boss Renton and Ringleader Redtusk were not even from the world of Selerim, instead hailing from a different world altogether…
 
 # Players & Characters
-| Player              | Character Name   | Race     | Class     |
-| ------------------- | ---------------- | -------- | --------- |
-| Michael | Bru Ski          | Harengon | Monk      |
-| Bishop | Elenda Duskwood  | Elf      | Rogue     |
-| Mike Doom | Curly            | Human    | Fighter   |
-| Bucher | Tumeighto Nose   | Half-Orc | Barbarian |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Michael | Bru Ski | Harengon | Monk |
+| Bishop | Elenda Duskwood | Elf | Rogue |
+| Mike Doom | Curly | Human | Fighter |
+| Bucher | Tumeighto Nose | Half-Orc | Barbarian |

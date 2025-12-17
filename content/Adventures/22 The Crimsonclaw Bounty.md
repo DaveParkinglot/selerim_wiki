@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The Crimsonclaw Bounty"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:21:07.521-05:00","published":"2025-11-03T18:21:07.521-05:00","cssclasses":"","DM":"Jordan","Players":["Ethan","Devin","Mike Doom"],"Platform":"Foundry","Sessions":1,"Start Date":"2025-05-14","In-World Start Date":"264-09-05","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["The Crimsonclaw Bounty"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T10:28:33.919-05:00","published":"2025-12-17T10:28:33.919-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":1,"Start Date":"2025-05-14","In-World Start Date":"264-09-05","Setting":"Selerim","Author":"Jordan","Players":["Ethan","Devin","Mike Doom"],"Characters":["Jaemee Babaganoush","\"Playing Card\" Murphy","The Knight of Confidence"],"Races":["Human","Human","Human"],"Classes":["Wizard","Rogue","Fighter"]}
 ---
 
 # Details
@@ -24,8 +24,8 @@
 - After handedly dispatching the manticore, the party was able to loot both the ship and the beast, finding many magical items and a disturbing note from the mutated manticore's creator, [[NPCs/Tanglewood Peninsula/Beezlebop\|"The Gray Mage of Tanglewood"]].
 
 # Players & Characters
-| Player          | Character Name                    | Race  | Class   |
-| --------------- | --------------------------------- | ----- | ------- |
-| Ethan | Jaemee "The Unsinkable" Babaganoush | Human | Wizard  |
-| Devin | "Playing Card" Murphy             | Human | Rogue   |
-| Mike Doom | The Knight of Confidence          | Human | Fighter |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Ethan | Jaemee Babaganoush | Human | Wizard |
+| Devin | "Playing Card" Murphy | Human | Rogue |
+| Mike Doom | The Knight of Confidence | Human | Fighter |

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Lighting the Lighthouse"],"created":"2025-11-02T09:22:56.000-05:00","modified":"2025-12-08T12:27:06.586-05:00","published":"2025-12-08T12:27:06.586-05:00","cssclasses":"","DM":"Jordan","Players":["Otto","Becca","Peter","Leah"],"Platform":["Foundry"],"Sessions":1,"Start Date":"2025-12-04","In-World Start Date":"265-13-16","In-World End Date":"265-13-16","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Lighting the Lighthouse"],"created":"2025-11-02T09:22:56.000-05:00","modified":"2025-12-17T11:59:55.671-05:00","published":"2025-12-17T11:59:55.671-05:00","cssclasses":"","DM":"Jordan","Platform":"Foundry","Sessions":1,"Start Date":"2025-12-04","In-World Start Date":"265-13-16","In-World End Date":"265-13-16","Setting":"Selerim","Author":"Jordan","Players":["Otto","Becca","Peter","Leah"],"Characters":["Squeembo Montgomery","Blink","Bobby Dismorphia","Bella Jingle"],"Races":["Halfling","Gnome","Orc","Human"],"Classes":["Cleric","Druid","Fighter","Warlock"]}
 ---
 
 ![[z_assets/lighting_the_lighthouse.png|300]]
@@ -28,10 +28,10 @@ Once this is accomplished, the Aldwood Star can be placed atop the lighthouse to
 - All at once, the radiant chord began melting the necrotic ice sheet, purging the undeath from the zombie penguins and the ghoul sailor, Derwood. And, for the first time in 2 long years, the magic of [[Worldbuilding/Holidays/Giftmas]] cheer finally came to the [[Places/Tanglewood Peninsula]].
 
 # Players & Characters
-| Player              | Character Name      | Race     | Class   |
-| ------------------- | ------------------- | -------- | ------- |
-| Otto | Squeembo Montgomery | Halfling | Cleric  |
-| Becca | Blink               | Gnome    | Druid   |
-| Peter | Bobby Dismorphia    | Orc      | Fighter |
-| Leah | Bella Jingle        | Human    | Warlock |
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
+| Otto | Squeembo Montgomery | Halfling | Cleric |
+| Becca | Blink | Gnome | Druid |
+| Peter | Bobby Dismorphia | Orc | Fighter |
+| Leah | Bella Jingle | Human | Warlock |
 

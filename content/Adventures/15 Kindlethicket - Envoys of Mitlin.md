@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Kindlethicket - Envoys of Mitlin"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-11-03T18:20:18.133-05:00","published":"2025-11-03T18:20:18.133-05:00","cssclasses":"","DM":"Jordan","Players":["Cale","Laura","Leah","Meagan","Peter"],"Platform":"In person","Sessions":1,"Start Date":"2024-11-27","In-World Start Date":"264-04-20","Setting":"Selerim","Author":"Jordan"}
+{"publish":true,"aliases":["Kindlethicket - Envoys of Mitlin"],"created":"2025-07-25T14:10:28.000-04:00","modified":"2025-12-17T10:19:15.568-05:00","published":"2025-12-17T10:19:15.568-05:00","cssclasses":"","DM":"Jordan","Platform":"In person","Sessions":1,"Start Date":"2024-11-27","In-World Start Date":"264-04-20","Setting":"Selerim","Author":"Jordan","Players":["Cale","Laura","Leah","Meagan","Peter"],"Characters":["Bingus","Topaz Algus","Chessie Baiavetus","Irena","Thimothy Thwith"],"Races":["Dwarf","Tiefling","Elf","Half-Elf","Human"],"Classes":["Barbarian","Monk","Paladin","Fighter","Cleric"]}
 ---
 
 Handouts:
@@ -20,10 +20,10 @@ Handouts:
 - The party aided The Prince of Lamps and Luminosity in dealing with the pesky unseelie fey, led by The Slimy Prince. They gained his favor and created a valuable alliance between Mitlin and the new fey crossing of Kindlethicket.
 
 # Players & Characters
-| Player | Character Name | Race | Class |
-|---|---|---|---|
+| Player              | Character Name         | Race              | Class               |
+| ------------------- | ---------------------- | ----------------- | ------------------- |
 | Cale | Bingus | Dwarf | Barbarian |
 | Laura | Topaz Algus | Tiefling | Monk |
 | Leah | Chessie Baiavetus | Elf | Paladin |
-| Meagan | Irena | Elf | Fighter |
+| Meagan | Irena | Half-Elf | Fighter |
 | Peter | Thimothy Thwith | Human | Cleric |
