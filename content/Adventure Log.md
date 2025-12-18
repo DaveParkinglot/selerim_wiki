@@ -1,10 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-27T17:15:45.000-04:00","modified":"2025-11-03T20:25:22.594-05:00","published":"2025-11-03T20:25:22.594-05:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2025-07-27T17:15:45.000-04:00","modified":"2025-12-18T07:38:30.986-05:00","published":"2025-12-18T07:38:30.986-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
 # Selerim Adventures
 | Name                                                                                                          | In-World Date Range   | DM        | Players                                                                                                            | Platform                                 |
 | ------------------------------------------------------------------------------------------------------------- | --------------------- | --------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
+| [[Adventures/30 Back to the Ship\|30 Back to the Ship]]                                       | 5050-13-20            | Jordan    | <ul><li>Mike Doom</li><li>Ethan</li><li>Brian</li></ul>                                                            | Foundry                                  |
 | [[Adventures/29 Lighting the Lighthouse\|29 Lighting the Lighthouse]]                         | 265-13-16 - 265-13-16 | Jordan    | <ul><li>Otto</li><li>Becca</li><li>Peter</li><li>Leah</li></ul>                                                    | Foundry                                  |
 | [[Adventures/28 Vlorngroth - Vampire Weekday\|28 Vlorngroth - Vampire Weekday]]               | 265-11-13             | Jordan    | <ul><li>Bishop</li><li>Ethan</li><li>Brian</li><li>Mike Doom</li></ul>                                             | Foundry                                  |
 | [[Adventures/25 Voyage a la Isla Ruz\|25 Voyage a la Isla Ruz]]                               | 265-10-28 - 265-11-15 | Ethan     | <ul><li>Bishop</li><li>Mike Doom</li><li>Jordan</li><li>Devin</li></ul>                                            | Foundry                                  |
@@ -35,7 +36,8 @@
 | [[Adventures/09 Sharky's Revenge\|09 Sharky's Revenge]]                                       | 263-10-28             | Jordan    | <ul><li>Ethan</li><li>Mike Doom</li><li>Jimmy</li><li>AJ</li></ul>                                                 | Foundry                                  |
 | [[Adventures/07 The Hidden Hoard of Winchester Bone\|07 The Hidden Hoard of Winchester Bone]] | 263-09-05             | Jordan    | <ul><li>Ethan</li><li>Mike Doom</li><li>Jimmy</li><li>AJ</li></ul>                                                 | Foundry                                  |
 | [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]                     | 263-08-07 - 264-04-05 | Jordan    | <ul><li>Evan</li><li>Logan</li><li>Michael</li><li>Mike Doom</li><li>Peter</li><li>George</li><li>Fisher</li></ul> | <ul><li>Foundry</li><li>Roll20</li></ul> |
-| [[Adventures/Taking the Offensive\|Taking the Offensive]]                                     | \-                    | Bishop    | <ul><li>Jordan</li><li>Ethan</li><li>Tim</li><li>Brian</li></ul>                                                   | <ul><li>Foundry</li></ul>                |
+| [[Adventures/Selerim 5K\|Selerim 5K]]                                                         | \-                    | Mike Doom | <ul><li>Bishop</li><li>Bishop</li><li>Ethan</li><li>Jordan</li><li>Kyle</li></ul>                                  | Foundry                                  |
+| [[Adventures/Taking the Offensive\|Taking the Offensive]]                                     | \-                    | Bishop    | <ul><li>Jordan</li><li>Ethan</li><li>Tim</li><li>Brian</li></ul>                                                   | Foundry                                  |
 
 # Selerim 5K Adventures
 | Name | In-World Date Range | DM | Players | Platform |

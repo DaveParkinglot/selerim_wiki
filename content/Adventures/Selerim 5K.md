@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Selerim 5K"],"created":"2025-11-03T18:37:06.000-05:00","modified":"2025-12-17T11:50:37.031-05:00","published":"2025-12-17T11:50:37.031-05:00","cssclasses":"","DM":"Mike Doom","Platform":["Foundry"],"Sessions":8,"Start Date":"2025-03-12","End Date":"2025-07-02","In-World Start Date":null,"In-World End Date":null,"Setting":"Selerim 5K","Author":"Mike Doom","Players":["Bishop","Bishop","Ethan","Jordan","Kyle"],"Characters":["Sahuru","Sahuru Mk. 2","Cran Halcard","AUXILIARY BOPUS BOT 4950","Frank Yarborough"],"Races":["Warforged","Warforged","Human","Autognome","Human"],"Classes":["Paladin","Wizard","Rogue","Warlock","Paladin"]}
+{"publish":true,"aliases":["Selerim 5K"],"created":"2025-11-03T18:37:06.000-05:00","modified":"2025-12-18T07:40:32.971-05:00","published":"2025-12-18T07:40:32.971-05:00","cssclasses":"","DM":"Mike Doom","Platform":"Foundry","Sessions":8,"Start Date":"2025-03-12","End Date":"2025-07-02","In-World Start Date":null,"In-World End Date":null,"Setting":"Selerim 5K","Author":"Mike Doom","Players":["Bishop","Bishop","Ethan","Jordan","Kyle"],"Characters":["Sahuru","Sahuru Mk. 2","Cran Halcard","AUXILIARY BOPUS BOT 4950","Frank Yarborough"],"Races":["Warforged","Warforged","Human","Autognome","Human"],"Classes":["Paladin","Wizard","Rogue","Warlock","Paladin"]}
 ---
 
 # Details
