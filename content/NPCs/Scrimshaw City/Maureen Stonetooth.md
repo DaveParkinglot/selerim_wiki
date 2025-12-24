@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-24T08:53:02.346-05:00","modified":"2025-12-24T09:23:59.877-05:00","published":"2025-12-24T09:23:59.877-05:00","cssclasses":"","Age":"51","Ancestry":["Dwarf"],"Gender":"Female","Location":["[[Places/Scrimshaw City]]"],"Role":["Crime Boss"],"Affiliation":["Stonetooth's Scoundrels"],"Appearances":["[[xx New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan","aliases":null}
+{"publish":true,"created":"2025-12-24T08:53:02.346-05:00","modified":"2025-12-24T10:00:33.696-05:00","published":"2025-12-24T10:00:33.696-05:00","cssclasses":"","Age":"51","Ancestry":["Dwarf"],"Gender":"Female","Location":["[[Places/Scrimshaw City]]"],"Role":["Crime Boss"],"Affiliation":["Stonetooth's Scoundrels"],"Appearances":["[[xx New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan","aliases":null}
 ---
 
 
@@ -30,7 +30,7 @@
 	- Run other crews out of The Shanties
 - **Appearance:** Red haired dwarf woman with a scar on her right cheek, wears expensive looking armor and distinctive jewelry
 
-### Relationships
+# Relationships
 
 | Name                   | Relationship      |
 | ---------------------- | ----------------- |

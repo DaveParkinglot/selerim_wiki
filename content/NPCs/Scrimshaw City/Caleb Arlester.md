@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-24T09:05:08.273-05:00","modified":"2025-12-24T09:24:04.610-05:00","published":"2025-12-24T09:24:04.610-05:00","cssclasses":"","Age":"33","Ancestry":["Half Elf"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Professional Thief"],"Affiliation":["None"],"Appearances":["[[xx New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan","aliases":null}
+{"publish":true,"created":"2025-12-24T09:05:08.273-05:00","modified":"2025-12-24T10:01:58.632-05:00","published":"2025-12-24T10:01:58.632-05:00","cssclasses":"","Age":"33","Ancestry":["Half Elf"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Professional Thief"],"Affiliation":["None"],"Appearances":["[[xx New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan","aliases":null}
 ---
 
 
@@ -10,7 +10,7 @@
 - He has done some minor heists in the past few years, stealing a few noteworthy magical items:
 	- A Chime of Opening, stolen from a rival crew led by [[NPCs/Scrimshaw City/Terry the Terrible]].
 	- An entire barrel of Devil's Breath Vodka, heisted from [[NPCs/Villains/Lord Davos Portnoir]]'s manor after he was deposed and killed.
-	- A Potion of Storm Giant Strength, stolen from the local Tiialan eatery "The Spicy Meatball", which was owned and established by [[Player Characters/The High Rollers/The High Rollers]].
+	- A Potion of Storm Giant Strength, stolen from the local Tiialan eatery "The Spicy Meatball", which was established by [[Player Characters/The High Rollers/The High Rollers]].
 
 # Key Details
 - **Age**: 33
@@ -34,7 +34,7 @@
 	- No more small time gigs
 - **Appearance:** Handsome blonde, tall, somehow always has 5 o'clock shadow but never shaves
 
-### Relationships
+# Relationships
 
 | Name                   | Relationship |
 | ---------------------- | ------------ |

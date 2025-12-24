@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-24T09:16:48.076-05:00","modified":"2025-12-24T09:24:09.668-05:00","published":"2025-12-24T09:24:09.668-05:00","cssclasses":"","Age":"47","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[The Spicy Meatball]]"],"Role":["Former Criminal","Head Chef"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan","aliases":null}
+{"publish":true,"created":"2025-12-24T09:16:48.076-05:00","modified":"2025-12-24T10:01:28.111-05:00","published":"2025-12-24T10:01:28.111-05:00","cssclasses":"","Age":"47","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[The Spicy Meatball]]"],"Role":["Former Criminal","Head Chef"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan","aliases":null}
 ---
 
 
@@ -25,7 +25,7 @@
 - **Goals**: Be the best restaurant in [[Places/Scrimshaw City\|Scrimshaw]]
 - **Appearance:** Brown haired, ripped satyr with black horns
 
-### Relationships
+# Relationships
 
 | Name     | Relationship |
 | -------- | ------------ |
