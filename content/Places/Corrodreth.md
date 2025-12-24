@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Corrodreth, The Salted City","created":"2023-09-02T09:43:46.000-04:00","modified":"2025-12-12T09:29:17.441-05:00","published":"2025-12-12T09:29:17.441-05:00","cssclasses":"","Type":["Desolate Ruin"],"Age (years)":1800,"Appearances":["[[18 Morganth's LEGION OF DOOM]]"],"marker":{"mapName":"InteractiveMap","x":92,"y":80,"icon":"game-icons:ancient-ruins","colour":"red"},"Author":"Jordan"}
+{"publish":true,"aliases":["Corrodreth, the Salted City"],"title":"Corrodreth, The Salted City","created":"2023-09-02T09:43:46.000-04:00","modified":"2025-12-24T09:27:18.214-05:00","published":"2025-12-24T09:27:18.214-05:00","cssclasses":"","Type":["Desolate Ruin"],"Age (years)":1800,"Appearances":["[[18 Morganth's LEGION OF DOOM]]"],"marker":{"mapName":"InteractiveMap","x":92,"y":80,"icon":"game-icons:ancient-ruins","colour":"red"},"Author":"Jordan"}
 ---
 
 ![[z_assets/corrodreth.png|600]]

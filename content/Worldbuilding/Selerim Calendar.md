@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-10-26T10:29:29.000-04:00","modified":"2025-12-12T11:43:34.204-05:00","published":"2025-12-12T11:43:34.204-05:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2025-10-26T10:29:29.000-04:00","modified":"2025-12-18T07:43:04.288-05:00","published":"2025-12-18T07:43:04.288-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
 
 # Selerim Unified Calendar (SUC)
-- Used broadly by most of the world, this calendar was created during the reign of the Old Kings of [[Places/Tiialia]], and it pays homage to the many distinct peoples of Selerim, who were stolen from their worlds to be slaves under the regime of [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_scag).
+- Used broadly by most of the world, this calendar was created during the reign of the Old Kings of [[Places/Tiialia]], and it pays homage to the many distinct peoples of Selerim, who were stolen from their home worlds to be slaves under the regime of [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_scag).
 - It should be noted that each of the 13 months has 28 days in it, and that the Summer season is the longest due to the location of the [[Places/Inhabitable Lands]] along Selerim's equator.
 
 | Month    | #   | Season | Lore                                                                                                                                                                                                                                                                                                            |

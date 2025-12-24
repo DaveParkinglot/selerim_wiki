@@ -13,7 +13,7 @@ Kindlethicket is a fey crossing—a location where the Selerim Material Plane in
 - **Population**: 200
 - **Affiliation**: None
 - **Government:** The Prince of Lamps and Luminosity
-- **Appearances:** [[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/16 Kindlethicket - The Winter Hunt\|16 Kindlethicket - The Winter Hunt]],[[Jordan's Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
+- **Appearances:** [[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/16 Kindlethicket - The Winter Hunt\|16 Kindlethicket - The Winter Hunt]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
 
 # Attributes
 - **Appearance**: 

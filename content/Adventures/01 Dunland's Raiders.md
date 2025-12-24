@@ -14,7 +14,7 @@
 - The fate of all [[Places/Tiialia]] may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
 
 # Outcomes
-- Morganth's forces were pushed back into a small hold, where they used a relic called the [[Blackfyre Orb]] to summon a demon from the Infinite Abyss. 
+- Morganth's forces were pushed back into a small hold, where they used a relic called the [[Worldbuilding/Items/Blackfyre Orb]] to summon a demon from the Infinite Abyss. 
 - Dunland's Raiders defeated the demon, and eventually engaged in pitched combat against the remaining forces of Morganth in a barren field, where they were victorious.
 - Skeeter Lutz went on a killing spree within the hold, killing many civilians.
 - Eclipse Malificent was working for unknown forces, and turned on the party. He stole the Blackfyre Orb, using it to teleport to some abyssal plane.

@@ -1,7 +1,7 @@
 > Recap of all the happenings in [[Places/Vlorngroth]].
 
 ## [[Adventures/02 Vlorngroth - The Manor of Madness\|The Manor of Madness]]
-- Nearly 2 years ago, a group of inquisitors of the [[Vlorn Dynasty]] located a [[Blackfyre Orb]] in Duskveil Asylum (aka, the Manor of Madness), and used it to summon the wretched draegloth demigod [[NPCs/Legends/Proklor the Despoiler]]
+- Nearly 2 years ago, a group of inquisitors of the [[Vlorn Dynasty]] located a [[Worldbuilding/Items/Blackfyre Orb]] in Duskveil Asylum (aka, the Manor of Madness), and used it to summon the wretched draegloth demigod [[NPCs/Legends/Proklor the Despoiler]]
 - Proklor, this great draegloth of legend, has been seen rarely, if at all since he was summoned to [[Places/Vlorngroth]].
 - Rumors abound about the nature of High Lord Kranicz's deal with Proklor.
 	- Some say that the High Lord uses Proklor as a threat to those who would oppose him.
