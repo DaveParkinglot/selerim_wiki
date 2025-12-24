@@ -7,7 +7,7 @@
 # Overview
 - A journalist who is always on the lookout for a scoop.
 - He used his journalistic genius and investigative skills to corner Lord Portnoir on the newspaper page, and aided [[The High Rollers]] in deposing Portnoir.
-- Now, he can often be found hanging around [[The Spicy Meatball]].
+- Now, he can often be found hanging around [[Places/The Spicy Meatball]].
 
 # Key Details
 - **Age**: 32

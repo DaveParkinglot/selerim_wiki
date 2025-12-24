@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-30T12:08:22.281-04:00","published":"2025-10-30T12:08:22.281-04:00","cssclasses":"","Age":"34","Ancestry":["Human"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[The Spicy Meatball]]"],"Role":["Acting CEO","Blood Hunter"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-12-24T09:20:51.775-05:00","published":"2025-12-24T09:20:51.775-05:00","cssclasses":"","Age":"34","Ancestry":["Human"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[Places/The Spicy Meatball]]"],"Role":["Acting CEO","Blood Hunter"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/loeb.png|300]]
@@ -12,7 +12,7 @@
 - **Age**: 34
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]],[[The Spicy Meatball\|The Spicy Meatball]]
+- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]],[[Places/The Spicy Meatball\|The Spicy Meatball]]
 - **Role**: Acting CEO,Blood Hunter
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/08 Arby's Sauce\|08 Arby's Sauce]]
@@ -31,6 +31,7 @@
 | [[Player Characters/The High Rollers/Tadeusz]]                | Blood Brother |
 | [[NPCs/Scrimshaw City/Arbeits Gemeinschaften]] | Employee      |
 | [[NPCs/Scrimshaw City/Hooligan Dupree]]        | Employee      |
-| [[NPCs/Scrimshaw City/Usus 'Sussy' Grimsby]]           | Employee      |
+| [[NPCs/Scrimshaw City/Usus 'Sussy' Grimsby]]   | Employee      |
 | [[NPCs/Scrimshaw City/Hoary Boulder]]          | Employee      |
 | [[NPCs/Scrimshaw City/Caleb Duhr]]             | Employee      |
+| [[NPCs/Scrimshaw City/Terry the Terrible]]     | Employee      |

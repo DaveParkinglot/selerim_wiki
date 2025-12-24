@@ -16,7 +16,7 @@
 
 # Outcomes
 - After days of travel through harsh deserts and desecrated grounds, the DÜM LEGION located the Tomb of Zalaash in the accursed city of Corrodreth. They deftly maneuvered their way through the trapped tomb and avoided any harsh consequences, until they were forced to maim one of their own to progress. 
-- In an act of uncharacteristic selflessness, Doom Lord Bombus Mitz volunteered to have his legs sawed clean off. This granted access to the hidden treasures of Zalaash's sarcophagus, which contained a scale of the serpent god [[Dendar]] and a [[Blackfyre Orb]], a profane implement of the lower planes. What could Lord Morganth wish to do with these two vile artifacts? Only time will tell…
+- In an act of uncharacteristic selflessness, Doom Lord Bombus Mitz volunteered to have his legs sawed clean off. This granted access to the hidden treasures of Zalaash's sarcophagus, which contained a scale of the serpent god [[Dendar]] and a [[Worldbuilding/Items/Blackfyre Orb]], a profane implement of the lower planes. What could Lord Morganth wish to do with these two vile artifacts? Only time will tell…
 
 # Players & Characters
 | Player              | Character Name         | Race              | Class               |

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:09:27.408-04:00","published":"2025-10-30T12:09:27.408-04:00","cssclasses":"","Age":"76","Ancestry":["Dwarf"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bodyguard"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-12-24T08:54:33.673-05:00","published":"2025-12-24T08:54:33.673-05:00","cssclasses":"","Age":"76","Ancestry":["Dwarf"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bodyguard"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/choncho_stonetooth.png|300]]
@@ -24,6 +24,7 @@
 
 # Relationships
 
-| Name              | Relationship |
-| ----------------- | ------------ |
-| [[NPCs/Scrimshaw City/Garm Deepmine]] | Employer     |
+| Name                   | Relationship     |
+| ---------------------- | ---------------- |
+| [[NPCs/Scrimshaw City/Garm Deepmine]]      | Employer         |
+| [[NPCs/Scrimshaw City/Maureen Stonetooth]] | Estranged Sister |

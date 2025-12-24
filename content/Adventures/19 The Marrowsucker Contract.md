@@ -16,7 +16,7 @@
 # Outcomes
 - The party set out from Mitlin, discovering a mysterious camp of eviscerated gnoll corpses in their travels. They braved sandstorms and killed many gnoll bone harvesters in Bonedry Gulch, before taking the fight to the remaining Marrowsuckers in their cave hideout.
 - They freed Detzin Stringwisp, a bard from Mitlin, who explained that the gnolls were trying to find sacrifices for a ritual. Deeper into the cave, they engaged Packleader Shattersnout in his fortified grotto. They overcame the urge to attack each other brought on by the Mark of the Butcher, a profane ritualistic circle carved into the cave's floor.
-- After killing Shattersnout, the Mark of the Butcher became inert, but the party was able to briefly see into the Abyss. They glimpsed the demonic gnoll god Yeenoghu, Lord of Butchery standing beside a twisted, maleficent druid holding a [[Blackfyre Orb\|dark orb]].
+- After killing Shattersnout, the Mark of the Butcher became inert, but the party was able to briefly see into the Abyss. They glimpsed the demonic gnoll god Yeenoghu, Lord of Butchery standing beside a twisted, maleficent druid holding a [[Worldbuilding/Items/Blackfyre Orb\|dark orb]].
 - Despite the party's HEAVY usage of the drug, the Ancient Dragon Marrow recovered from the Marrowsuckers was enough to appease Melvin and the Oaken Conclave of Mitlin.
 
 # Players & Characters

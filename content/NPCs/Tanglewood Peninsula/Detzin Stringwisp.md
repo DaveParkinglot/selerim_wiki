@@ -11,7 +11,7 @@
 ## [[Adventures/19 The Marrowsucker Contract\|The Marrowsucker Contract]]
 - Detzin was being held captive by the Marrowsucker gnolls, when he was rescued. He may have partaken in some of "The Substance" before and after being rescued.
 
-## [[Jordan's Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
+## [[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
 - Detzin and a group of adventurers were tasked with dispelling the necrotic aura surrounding Aldwood Lighthouse.
 
 # Key Details
