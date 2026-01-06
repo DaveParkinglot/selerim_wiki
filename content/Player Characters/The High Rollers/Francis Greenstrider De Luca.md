@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-08-26T23:24:22.000-04:00","modified":"2025-10-30T11:54:29.651-04:00","published":"2025-10-30T11:54:29.651-04:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2023-08-26T23:24:22.000-04:00","modified":"2026-01-06T10:48:16.551-05:00","published":"2026-01-06T10:48:16.551-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
 
@@ -8,7 +8,7 @@
 	- His father Marco De Luca was a spy working for the Landuccis in the [[Worldbuilding/Events/The War of the Four Families]]
 		- Before his father died, he was working closely to broker a peace between the four families
 		- He was killed when a meet with the Fanto-Domingos went wrong
-		- It is likely he was set up by a corrupt individual within [[Factions/The Kingdom of Tiialia/The Landucci Family]]
-	- His mother Anna De Luca told him to seek out his father's old friend Antonino "Nino" [[Factions/The Kingdom of Tiialia/The Esposito Family\|Esposito]] to learn more about his father, and what he stood for
+		- It is likely he was set up by a corrupt individual within [[Factions/The Kingdom of Tiialia/Landucci Family]]
+	- His mother Anna De Luca told him to seek out his father's old friend Antonino "Nino" [[Factions/The Kingdom of Tiialia/Esposito Family\|Esposito]] to learn more about his father, and what he stood for
 		- Nino will know about a De Luca heirloom
 			- This heirloom will have scaling on it and Mike will help make it

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:04:52.905-04:00","published":"2025-10-30T12:04:52.905-04:00","cssclasses":"","Age":"56","Ancestry":["Human"],"Gender":"Male","Location":["Nova Jersaeria"],"Role":["Tyrant Lord"],"Affiliation":["[[Factions/The Kingdom of Tiialia/The Landucci Family]]","[[The Fanto-Domingo Family]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2026-01-06T10:48:16.545-05:00","published":"2026-01-06T10:48:16.545-05:00","cssclasses":"","Age":"56","Ancestry":["Human"],"Gender":"Male","Location":["Nova Jersaeria"],"Role":["Tyrant Lord"],"Affiliation":["[[Factions/The Kingdom of Tiialia/Landucci Family]]","[[Fanto-Domingo Family]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Author":"Jordan"}
 ---
 
 ![[z_assets/lord_draco_landucci.png|300]]
@@ -7,7 +7,7 @@
 # Overview
 - Before his death at the hands of [[Player Characters/The High Rollers/The High Rollers]], Lord Landucci was all of these things:
 	- Tiialan Lord
-	- [[The Landucci Family]] patriarch
+	- [[Landucci Family]] patriarch
 	- High Commander of the Legions of Tiialia
 	- Former sand yacht owner
 - He sought to rule all of Tiialia through the puppet king Antonio Adonzio.
@@ -19,7 +19,7 @@
 - **Gender**: Male
 - **Location**: Nova Jersaeria
 - **Role**: Tyrant Lord
-- **Affiliation:** [[Factions/The Kingdom of Tiialia/The Landucci Family\|The Landucci Family]],[[Factions/The Kingdom of Tiialia/The Fanto-Domingo Family\|The Fanto-Domingo Family]]
+- **Affiliation:** [[Factions/The Kingdom of Tiialia/Landucci Family\|Landucci Family]],[[Factions/The Kingdom of Tiialia/Fanto-Domingo Family\|Fanto-Domingo Family]]
 - **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
 - **Status:** Deceased
 

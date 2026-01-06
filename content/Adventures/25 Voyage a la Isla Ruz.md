@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["Voyage a la Isla Ruz"],"created":"2025-10-22T08:02:27.000-04:00","modified":"2025-12-17T10:32:31.120-05:00","published":"2025-12-17T10:32:31.120-05:00","cssclasses":"","DM":"Ethan","Platform":"Foundry","Sessions":4,"Start Date":"2025-07-31","End Date":"2025-10-23","In-World Start Date":"265-10-28","In-World End Date":"265-11-15","Setting":"Selerim","Author":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Characters":["Asana Totashi","The Knight of Confidence","Hector Fanto-Domingo","\"Playing Card\" Murphy"],"Races":["Human","Human","Human","Human"],"Classes":["Monk","Fighter","Barbarian","Rogue"]}
+{"publish":true,"aliases":["Voyage a la Isla Ruz"],"created":"2025-10-22T08:02:27.000-04:00","modified":"2026-01-06T10:48:18.299-05:00","published":"2026-01-06T10:48:18.299-05:00","cssclasses":"","DM":"Ethan","Platform":"Foundry","Sessions":4,"Start Date":"2025-07-31","End Date":"2025-10-23","In-World Start Date":"265-10-28","In-World End Date":"265-11-15","Setting":"Selerim","Author":"Ethan","Players":["Bishop","Mike Doom","Jordan","Devin"],"Characters":["Asana Totashi","The Knight of Confidence","Hector Fanto-Domingo","\"Playing Card\" Murphy"],"Races":["Human","Human","Human","Human"],"Classes":["Monk","Fighter","Barbarian","Rogue"]}
 ---
 
 # Details
@@ -10,7 +10,7 @@
 - **In-World Dates:** 265-10-28 - 265-11-15
 
 # Adventure Premise
-- Word is spreading about movement of soldiers and ships belonging to the families [[Factions/The Kingdom of Tiialia/The Ruz Family\|Ruz]] and [[Factions/The Kingdom of Tiialia/The Batista Family\|Batista]], and perhaps even other forces interested in the future of [[Places/Tiialia]]. As luck would have it, you have acquired a note that details a potential invasion of Isla Ruz by Batista-aligned forces. You and other intriguing characters have arrived at the harbor of [[Places/Nova Jersaeria]] to investigate these claims, or perhaps to seek a way to warn [[NPCs/Tiialia/Alejandro Ruz]], or perhaps embark as part of this supposed invasion to acquire fortune.
+- Word is spreading about movement of soldiers and ships belonging to the families [[Factions/The Kingdom of Tiialia/Ruz Family\|Ruz]] and [[Factions/The Kingdom of Tiialia/Batista Family\|Batista]], and perhaps even other forces interested in the future of [[Places/Tiialia]]. As luck would have it, you have acquired a note that details a potential invasion of Isla Ruz by Batista-aligned forces. You and other intriguing characters have arrived at the harbor of [[Places/Nova Jersaeria]] to investigate these claims, or perhaps to seek a way to warn [[NPCs/Tiialia/Alejandro Ruz]], or perhaps embark as part of this supposed invasion to acquire fortune.
 
 # Outcomes
 

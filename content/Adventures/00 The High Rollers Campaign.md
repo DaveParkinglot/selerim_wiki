@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":["The High Rollers Campaign"],"created":"2025-07-25T11:30:00.000-04:00","modified":"2025-12-17T12:03:23.869-05:00","published":"2025-12-17T12:03:23.869-05:00","cssclasses":"","DM":"Jordan","Platform":["Foundry","Roll20"],"Sessions":71,"Start Date":"2022-07-25","End Date":"2024-05-24","In-World Start Date":"263-08-07","In-World End Date":"264-04-05","Setting":"Selerim","Author":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Characters":["[[Clint Weapon]]","[[Bancil Nobeltrim]]","[[Lorundil the Wanderer]]","[[Otieno]]","[[NPCs/Scrimshaw City/Hugh Mann]]","[[Francis Greenstrider De Luca]]","[[Tadeusz]]","Eros","P3360 TUR60","[[Bwanson Wagwan]]"],"Races":["Human","Half-Elf","Half-Elf","Elf","\"Human\" (Fiend)","Half-Elf","Human","Satyr","Warforged","Owlin"],"Classes":["Barbarian","Paladin","Warlock","Ranger","Wizard","Cleric/Druid","Blood Hunter","Bard","Rogue","Druid"]}
+{"publish":true,"aliases":["The High Rollers Campaign"],"created":"2025-07-25T11:30:00.000-04:00","modified":"2026-01-06T10:48:14.734-05:00","published":"2026-01-06T10:48:14.734-05:00","cssclasses":"","DM":"Jordan","Platform":["Foundry","Roll20"],"Sessions":71,"Start Date":"2022-07-25","End Date":"2024-05-24","In-World Start Date":"263-08-07","In-World End Date":"264-04-05","Setting":"Selerim","Author":"Jordan","Players":["Evan","Logan","Michael","Mike Doom","Peter","George","Fisher"],"Characters":["[[Clint Weapon]]","[[Bancil Nobeltrim]]","[[Lorundil the Wanderer]]","[[Otieno]]","[[NPCs/Scrimshaw City/Hugh Mann]]","[[Francis Greenstrider De Luca]]","[[Tadeusz]]","Eros","P3360 TUR60","[[Bwanson Wagwan]]"],"Races":["Human","Half-Elf","Half-Elf","Elf","\"Human\" (Fiend)","Half-Elf","Human","Satyr","Warforged","Owlin"],"Classes":["Barbarian","Paladin","Warlock","Ranger","Wizard","Cleric/Druid","Blood Hunter","Bard","Rogue","Druid"]}
 ---
 
 The OG campaign.
@@ -47,7 +47,7 @@ The OG campaign.
 ## Restore the Tiialan Royal Line
 
 ### Adventure Premise
-- Remove control of [[Places/Tiialia]] from the hands of the tyrant [[NPCs/Villains/Lord Draco Landucci]] and the nasty [[Factions/The Kingdom of Tiialia/The Fanto-Domingo Family\|Fanto-Domingo family]].
+- Remove control of [[Places/Tiialia]] from the hands of the tyrant [[NPCs/Villains/Lord Draco Landucci]] and the nasty [[Factions/The Kingdom of Tiialia/Fanto-Domingo Family\|Fanto-Domingo family]].
 - Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[NPCs/Tiialia/Antonino Esposito]].
 ### Outcomes
 - The tyrant [[NPCs/Villains/Lord Draco Landucci]] was overthrown by [[Player Characters/The High Rollers/The High Rollers]] and Antonino "Nino" Esposito.
