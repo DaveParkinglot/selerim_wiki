@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-10-22T08:02:28.000-04:00","modified":"2025-11-03T20:24:08.487-05:00","published":"2025-11-03T20:24:08.487-05:00","cssclasses":"","Age":"32","Ancestry":"Tiialian","Gender":"Male","Location":["[[Nova Jersaeria]]","Isla Ruz"],"Role":"Head of Ruz Family","Affiliation":"Ruz Family","Appearances":["[[23 The Great Tiialan Heist]]","[[25 Voyage a la Isla Ruz]]"],"Status":"Alive","Author":"Ethan"}
+{"publish":true,"created":"2025-10-22T08:02:28.000-04:00","modified":"2026-01-06T10:48:18.308-05:00","published":"2026-01-06T10:48:18.308-05:00","cssclasses":"","Age":"32","Ancestry":"Tiialian","Gender":"Male","Location":["[[Nova Jersaeria]]","Isla Ruz"],"Role":"Head of Ruz Family","Affiliation":"Ruz Family","Appearances":["[[23 The Great Tiialan Heist]]","[[25 Voyage a la Isla Ruz]]"],"Status":"Alive","Author":"Ethan"}
 ---
 
 ![[z_assets/alejandro_ruz.png|300]]
 
 # Overview
-The young head of the [[Factions/The Kingdom of Tiialia/The Ruz Family]]. Mystery surrounds this revolutionary. Some in the Esposito course believe that he intends to break free from [[Places/Tiialia]]. Others believe he may be the only hope that [[NPCs/Tiialia/Antonino Esposito\|King Esposito]] has against the [[Factions/The Kingdom of Tiialia/The Batista Family]].
+The young head of the [[Factions/The Kingdom of Tiialia/Ruz Family]]. Mystery surrounds this revolutionary. Some in the Esposito course believe that he intends to break free from [[Places/Tiialia]]. Others believe he may be the only hope that [[NPCs/Tiialia/Antonino Esposito\|King Esposito]] has against the [[Factions/The Kingdom of Tiialia/Batista Family]].
 
 # Key Details
 - **Age**: 32
