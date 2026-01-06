@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-24T09:05:08.273-05:00","modified":"2025-12-24T10:01:58.632-05:00","published":"2025-12-24T10:01:58.632-05:00","cssclasses":"","Age":"33","Ancestry":["Half Elf"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Professional Thief"],"Affiliation":["None"],"Appearances":["[[xx New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan","aliases":null}
+{"publish":true,"created":"2025-12-24T09:05:08.273-05:00","modified":"2026-01-06T08:41:41.580-05:00","published":"2026-01-06T08:41:41.580-05:00","cssclasses":"","Age":"33","Ancestry":["Half Elf"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Professional Thief"],"Affiliation":["None"],"Appearances":["[[31 New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan","aliases":null}
 ---
 
 
@@ -19,7 +19,7 @@
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Professional Thief
 - **Affiliation:** None
-- **Appearances:** [[Jordan's Notes/xx New Dawn - Hellfist Heist\|xx New Dawn - Hellfist Heist]]
+- **Appearances:** [[Adventures/31 New Dawn - Hellfist Heist\|31 New Dawn - Hellfist Heist]]
 - **Status:** Alive
 
 # Attributes

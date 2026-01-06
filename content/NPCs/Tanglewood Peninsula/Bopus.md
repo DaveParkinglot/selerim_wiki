@@ -19,8 +19,8 @@
 ## [[Adventures/22 The Crimsonclaw Bounty\|The Crimonclaw Bounty]]
 - While carousing at the Crab Claw Inn, Bopus provided the details and the map of Old Crimsonclaw's suspected location to a fledgling adventuring party.
 
-## [[Adventures/Selerim 5K]]
-- In the [[Adventures/Selerim 5K]] setting, Bopus is known as [[The Machine God]]. Many bots are made in his image, such as the many Bopus Bot versions.
+## [[Adventures/Undocumented Adventures/Selerim 5K]]
+- In the [[Adventures/Undocumented Adventures/Selerim 5K]] setting, Bopus is known as [[The Machine God]]. Many bots are made in his image, such as the many Bopus Bot versions.
 
 # Key Details
 - **Age**: 64

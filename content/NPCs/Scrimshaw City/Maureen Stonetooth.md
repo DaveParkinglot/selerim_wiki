@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-24T08:53:02.346-05:00","modified":"2025-12-24T10:00:33.696-05:00","published":"2025-12-24T10:00:33.696-05:00","cssclasses":"","Age":"51","Ancestry":["Dwarf"],"Gender":"Female","Location":["[[Places/Scrimshaw City]]"],"Role":["Crime Boss"],"Affiliation":["Stonetooth's Scoundrels"],"Appearances":["[[xx New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan","aliases":null}
+{"publish":true,"created":"2025-12-24T08:53:02.346-05:00","modified":"2026-01-06T08:41:22.440-05:00","published":"2026-01-06T08:41:22.440-05:00","cssclasses":"","Age":"51","Ancestry":["Dwarf"],"Gender":"Female","Location":["[[Places/Scrimshaw City]]"],"Role":["Crime Boss"],"Affiliation":["Stonetooth's Scoundrels"],"Appearances":["[[31 New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan","aliases":null}
 ---
 
 
@@ -16,7 +16,7 @@
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Crime Boss
 - **Affiliation:** Stonetooth's Scoundrels
-- **Appearances:** [[Jordan's Notes/xx New Dawn - Hellfist Heist\|xx New Dawn - Hellfist Heist]]
+- **Appearances:** [[Adventures/31 New Dawn - Hellfist Heist\|31 New Dawn - Hellfist Heist]]
 - **Status:** Alive
 
 # Attributes
