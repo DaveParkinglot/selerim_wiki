@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-12-24T09:16:48.076-05:00","modified":"2025-12-24T10:01:28.111-05:00","published":"2025-12-24T10:01:28.111-05:00","cssclasses":"","Age":"47","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[The Spicy Meatball]]"],"Role":["Former Criminal","Head Chef"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan","aliases":null}
+{"publish":true,"created":"2025-12-24T09:16:48.076-05:00","modified":"2026-01-06T08:42:10.866-05:00","published":"2026-01-06T08:42:10.866-05:00","cssclasses":"","Age":"47","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Scrimshaw City]]","[[The Spicy Meatball]]"],"Role":["Former Criminal","Head Chef"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]","[[31 New Dawn - Hellfist Heist|New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan","aliases":null}
 ---
 
 
@@ -16,7 +16,7 @@
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]],[[Places/The Spicy Meatball\|The Spicy Meatball]]
 - **Role**: Former Criminal,Head Chef
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/08 Arby's Sauce\|08 Arby's Sauce]]
+- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/08 Arby's Sauce\|08 Arby's Sauce]],[[Adventures/31 New Dawn - Hellfist Heist\|New Dawn - Hellfist Heist]]
 - **Status:** Alive
 
 # Attributes

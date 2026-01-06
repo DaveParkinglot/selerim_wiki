@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-26T10:29:29.000-04:00","modified":"2025-12-18T07:43:04.288-05:00","published":"2025-12-18T07:43:04.288-05:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2025-10-26T10:29:29.000-04:00","modified":"2025-12-30T09:29:52.983-05:00","published":"2025-12-30T09:29:52.983-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
 
@@ -10,7 +10,7 @@
 | Month    | #   | Season | Lore                                                                                                                                                                                                                                                                                                            |
 | -------- | --- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Avaurus  | 1   | Winter | The first month of each year is dedicated to [Avandra](https://5e.tools/deities.html#avandra_dawn%20war_dmg,fbsr:avandra), the widely worshipped goddess of change and luck. Her festival day of New Dawn is on the first day of this month.                                                                    |
-| Rimefall | 2   | Spring | An evolution of "Rime's Fall". Scholars believe this originated from dwarves of an unknown world. The histories of just what or who "Rime" was are unclear, but the name now denotes the beginning of the Spring season.                                                                                         |
+| Rimefall | 2   | Spring | An evolution of "Rime's Fall". Scholars believe this originated from dwarves of an unknown world. The histories of just what or who "Rime" was are unclear, but the name now denotes the beginning of the Spring season.                                                                                        |
 | Brine    | 3   | Spring | The third month celebrates the life and work of gnomish philosopher [[Brin]], who codified the importance of "the rule of three", discovered dry brining, and founded the religion [[Brinism]].                                                                                                                 |
 | Japel    | 4   | Spring | This name was selected from an antiquated elvish calendar from a world destroyed millenia ago in the [[Nameless War]]. Scholarly research suggests that fey goblins used to congregate during this time to spread japes and jests.                                                                              |
 | Sel      | 5   | Summer | The advent of the summer brings the heat of Seladel, the name the elves gave to Selerim's solitary, life-giving star.                                                                                                                                                                                           |
