@@ -1,20 +1,21 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-30T12:07:28.208-04:00","published":"2025-10-30T12:07:28.208-04:00","cssclasses":"","Age":"31","Ancestry":"Half-Orc","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Barbarian"],"Affiliation":["The Backbreakers"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2026-01-09T12:18:34.252-05:00","published":"2026-01-09T12:18:34.252-05:00","cssclasses":"","Age":"31","Ancestry":"Half-Orc","Gender":"Male","Location":["[[Places/Crabbley]]","[[Places/Borfield]]"],"Role":["Adventurer, Barbarian"],"Affiliation":["[[The Backbreakers]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/gronstew_bogbeast.png|300]]
 
 # Overview
-- Leader of Gronstew & The Backbreakers, an adventuring party from Crabbley.
+- Leader of Gronstew & The Backbreakers, an adventuring party based in [[Places/Crabbley]].
+- Gronstew and his friends originally hail from [[Borfield]], but moved to [[Crabbley]] for better adventuring contracts.
 - The Backbreakers were rivals with [[Player Characters/The High Rollers/The High Rollers]] for a while, until a gnome-nade killed two of their members.
 
 # Key Details
 - **Age**: 31
 - **Ancestry**: Half-Orc
 - **Gender**: Male
-- **Location**: [[Places/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley\|Crabbley]],[[Places/Borfield\|Borfield]]
 - **Role**: Adventurer, Barbarian
-- **Affiliation:** The Backbreakers
+- **Affiliation:** [[The Backbreakers\|The Backbreakers]]
 - **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
 - **Status:** Alive
 
