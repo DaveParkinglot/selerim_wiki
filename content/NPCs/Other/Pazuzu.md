@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-12T09:10:18.000-04:00","modified":"2025-11-04T20:35:40.438-05:00","published":"2025-11-04T20:35:40.438-05:00","cssclasses":"","Age":"??","Ancestry":["Demon"],"Gender":"Male","Location":["Pazunia"],"Role":["Dark Angel of the Four Winds","Eldest Child of the Infinite Abyss"],"Affiliation":["None"],"Appearances":["[[26 The Hellnight Soirée]]"],"Status":"Alive","Author":"Jordan"}
+{"publish":true,"created":"2025-08-12T09:10:18.000-04:00","modified":"2026-01-09T11:49:30.155-05:00","published":"2026-01-09T11:49:30.155-05:00","cssclasses":"","Age":"??","Ancestry":["Demon"],"Gender":"Male","Location":["Pazunia"],"Role":["Dark Angel of the Four Winds","Eldest Child of the Infinite Abyss"],"Affiliation":["None"],"Appearances":["[[26 The Hellnight Soirée]]"],"Status":"Alive","Author":"Jordan"}
 ---
 
 ![[z_assets/pazuzu.png|300]]
@@ -22,7 +22,7 @@
 # Attributes
 - **Voice**: Aggressively Australian
 - **Traits**: Crude
-- **Goals:** Bring more cool people to join his crew in Pazunia
+- **Goals:** Bring more cool people to join his crew in Pazunia, Pazuzu's Pals
 - **Appearance**: Giant demon with black wings and a plague mask
 
 # Relationships
