@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-02-23T13:54:22.000-05:00","modified":"2025-12-12T09:30:13.705-05:00","published":"2025-12-12T09:30:13.705-05:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2025-02-23T13:54:22.000-05:00","modified":"2026-01-13T13:18:37.077-05:00","published":"2026-01-13T13:18:37.077-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
 > See [[Selerim Timeline]] for more details.
@@ -22,4 +22,4 @@
 # Astronomy
 - The world is *probably* analogous to Earth, with similar gravity and rotational patterns. Unless I come up with something cooler at some point.
 - There is one (surviving) moon, Lunadel, and one star, Seladel.
-- As of 264 B.T., the most widely used calendar is the [[Places/Tiialia\|Tiialan]] Calendar, which very conveniently has 13 months of 28 days each.
+- As of 264 B.T., the most widely used calendar is the [[Worldbuilding/Selerim Calendar\|Selerim Unified Calendar]], which very conveniently has 13 months of 28 days each.

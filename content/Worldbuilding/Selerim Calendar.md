@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-26T10:29:29.000-04:00","modified":"2025-12-30T09:29:52.983-05:00","published":"2025-12-30T09:29:52.983-05:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2025-10-26T10:29:29.000-04:00","modified":"2026-01-13T13:19:00.141-05:00","published":"2026-01-13T13:19:00.141-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
 
@@ -23,7 +23,7 @@
 | Khorg    | 12  | Winter | This month's name is a conjugation of the dwarvish word for "forge". Dwarvish tradition is to keep forges running through the Winter season.                                                                                                                                                                    |
 | Murend   | 13  | Winter | A holdover from an earlier calendar used by orcish peoples, prior to their forced relocation to Selerim. There is some debate about whether this is meant to celebrate the end of a year, or if it celebrates the death of "Mur", perhaps a warlord or a nation.                                                |
 # Antiquated Elvish Calendar
-Antiquated Elvish calendar from another world. This is very rarely used, because most folks agree the names sound brutish and stupid and the seasons do not match the world of Selerim.
+Antiquated Elvish calendar from another world. This is very rarely used, because most folks agree the names sound stupid, and the seasons do not match the world of Selerim.
 
 | Month      | #   | Season |
 | ---------- | --- | ------ |
