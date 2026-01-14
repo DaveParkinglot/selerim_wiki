@@ -36,6 +36,21 @@ Yep, it's Bingus time.
 - When the DM starts a combat encounter and calls for Initiative, look in your Character Sheet, and click the INIT icon. Then click Normal (unless your DM says otherwise, or you have some special feature).
 ![[z_assets/bingus7.png|800]]
 
+## How to Target something
+- Rolling an Attack has an additional step in D&D because you have to decide who (or what) you're going to attack. In Foundry, you also have to Target the who (or what) you're going to attack.
+- Option 1: Mouseover your target and press "T".
+- Option 2: Mouseover your target and Double Right Click.
+- When you have something targeted, you'll see flashing indicators on it. Targeting helps the DM know who you're attacking, and whether you hit them after you roll the Attack.
+![[z_assets/Pasted image 20260114160138.png]]
+> Pro tip: Holding shift while selecting targets lets you pick more than 1 
+![[z_assets/Pasted image 20260114160504.png|400]]
+
+## How to roll an Attack
+- *Usually* you need to Target something before rolling an attack, but there are exceptions (e.g., if you want to attack the empty keg with your axe, the DM probably doesn't have a token for the keg)
+- Option 1: You can roll an Attack by clicking the **ICON** of the weapon you are attacking with. When you mouse over the icon, a D20 will appear. Left click it.
+- Option 2: If you favorited a weapon on your sheet, you can roll the attack from the Favorites sidebar (Bingus already has his Greatsword favorited). You can favorite other things by right clicking them and selecting Add Favorite.
+![[z_assets/bingus11.png]]
+
 ## How to roll a Skill Check (e.g., Perception)
 - Option 1 (Sidebar Shortcut): In the Sheet tab, click the Skills tab on the left sidebar and then click the skill. In this case, Perception.
 ![[z_assets/bingus8.png|800]]
@@ -46,11 +61,6 @@ Yep, it's Bingus time.
 - Option 1: If the DM asks for a saving throw, you can roll from the Saving Throws box on the Character tab.
 - Option 2: You can also roll by clicking the Shield icon, which is below the corresponding stat.
 ![[z_assets/bingus10.png]]
-
-## How to roll an Attack
-- Option 1: You can roll an Attack by clicking the **ICON** of the weapon you are attacking with. When you mouse over the icon, a D20 will appear. Left click it.
-- Option 2: If you favorited a weapon on your sheet, you can roll the attack from the Favorites sidebar (Bingus already has his Greatsword favorited). You can favorite other things by right clicking them and selecting Add Favorite.
-![[z_assets/bingus11.png]]
 
 ## How to use a character Feature (e.g., Rage)
 - Generally you just say "I'M GONNA RAGE" when playing D&D, the same mostly applies here. However, in Foundry, some things are automated (like the damage resistance from Rage). So you can click the Feature on your sheet to avoid doing math.
