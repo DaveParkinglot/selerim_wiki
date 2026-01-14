@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-02-23T13:54:22.000-05:00","modified":"2026-01-13T13:18:37.077-05:00","published":"2026-01-13T13:18:37.077-05:00","cssclasses":"","Author":"Jordan"}
+{"publish":true,"created":"2025-02-23T13:54:22.000-05:00","modified":"2026-01-14T14:20:42.821-05:00","published":"2026-01-14T14:20:42.821-05:00","cssclasses":"","Author":"Jordan"}
 ---
 
 > See [[Selerim Timeline]] for more details.
 # The Nameless War
-- Originally, the world was settled and used as a great factory of war by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elves' god of war. Despite his dark deeds, Selvetarm remains the namesake of the world.
+- Originally, the world of Selerim was settled and used as a great factory of war by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elves' god of war. Despite his dark deeds, Selvetarm remains the namesake of the world.
 - The magnificence of [Selvetarm's](https://5e.tools/deities.html#selvetarm_drow_mtf) work meant that he churned through his slave workforce very, *very* quickly. 
 	- As such, his mages opened a great many Planar Rifts to gather slaves from other worlds, much as the drow of [[Places/Vlorngroth]] capture slaves from the surface to this day. Even now, some of these rifts remain dormant, in the hidden places of the world.
 	- Travel to other worlds and planes is quite possible if one knows where to look, and how to reactivate these rifts...
