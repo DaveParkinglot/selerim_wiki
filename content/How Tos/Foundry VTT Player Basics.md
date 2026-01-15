@@ -2,7 +2,7 @@
 - This guide will help you navigate playing D&D in Foundry VTT, and it is geared towards new players. Experienced players may still benefit from reading through this.
 - The [Foundry VTT official new player guide](https://foundryvtt.com/article/player-orientation/) is also helpful for new players, but there are a few redundant/outdated elements.
 
-## Frontmatter
+## Bingus Frontmatter
 - This is BINGUS. He is an adventurer. For the sake of this guide, pretend that BINGUS is your character in D&D. Love him or hate him, he's all yours.
 - Each section includes screenshots to highlight exactly what you're supposed to click. I've circled most of the important stuff, don't worry.
 - Bingus' character sheet, pictured left, is an abstract representation of his abilities in the D&D campaign setting of Selerim, the world he lives—and will probably die—in.
@@ -45,8 +45,8 @@
 
 ## How to Target something
 - Rolling an Attack has an additional step in D&D because you have to decide who (or what) you're going to attack. In Foundry, you also have to Target the who (or what) you're going to attack.
-- Option 1: Mouseover your target and press "T".
-- Option 2: Mouseover your target and Double Right Click.
+- Option 1: Mouse over your target and press "T".
+- Option 2: Mouse over your target and Double Right Click.
 - When you have something targeted, you'll see flashing indicators on it. Targeting helps the DM know who you're attacking, and whether you hit them after you roll the Attack.
 
 ![[z_assets/bingus23.png]]
@@ -99,10 +99,12 @@
 > Pro tip for math haters:
 - In your HP box, put -X to subtract X from your current health. Put +X to add X to your current health. Like below.
 
-*A relatively healthy 30 HP Bingus walks into the bar*
+*A relatively healthy 30 HP Bingus walks into a bar.*
+
 ![[z_assets/bingus15.png]]
 
 *Bingus takes 99 damage from the fragmentation IPA and is knocked unconscious.*
+
 ![[z_assets/bingus16.png]]
 
 ## How to roll a Death Saving Throw
