@@ -1,9 +1,8 @@
 # Playing Bingus for Dummies or: How I Learned to Stop Whining and Love Foundry VTT
 
 ## Frontmatter
-- This is BINGUS. He is an adventurer. If your name is Cale Mitzel, then Bingus is your character in D&D. Love him or hate him, he's all yours.
-- If your name is NOT Cale Mitzel, reading this is still going to be very informative for you.
-- Each section includes screenshots to highlight exactly what you're supposed to click. I've circled the important stuff, don't worry.
+- This is BINGUS. He is an adventurer. For the sake of this guide, pretend that BINGUS is your character in D&D. Love him or hate him, he's all yours.
+- Each section includes screenshots to highlight exactly what you're supposed to click. I've circled most of the important stuff, don't worry.
 - Bingus' character sheet, pictured left, is an abstract representation of his abilities in the D&D campaign setting of Selerim, the world he lives—and will probably die—in.
 - Bingus' character token, pictured right, is a visual representation of his appearance, and, during Combat encounters, this token acts as the Bingus "game piece" in Foundry VTT. 
 
