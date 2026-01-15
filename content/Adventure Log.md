@@ -37,8 +37,8 @@
 | [[Adventures/09 Sharky's Revenge\|09 Sharky's Revenge]]                                       | 263-10-28             | Jordan    | <ul><li>Ethan</li><li>Mike Doom</li><li>Jimmy</li><li>AJ</li></ul>                                                 | Foundry                                  |
 | [[Adventures/07 The Hidden Hoard of Winchester Bone\|07 The Hidden Hoard of Winchester Bone]] | 263-09-05             | Jordan    | <ul><li>Ethan</li><li>Mike Doom</li><li>Jimmy</li><li>AJ</li></ul>                                                 | Foundry                                  |
 | [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]                     | 263-08-07 - 264-04-05 | Jordan    | <ul><li>Evan</li><li>Logan</li><li>Michael</li><li>Mike Doom</li><li>Peter</li><li>George</li><li>Fisher</li></ul> | <ul><li>Foundry</li><li>Roll20</li></ul> |
-| [[Adventures/Undocumented Adventures/Taking the Offensive\|Taking the Offensive]]             | \-                    | Bishop    | <ul><li>Jordan</li><li>Ethan</li><li>Tim</li><li>Brian</li></ul>                                                   | Foundry                                  |
 | [[Adventures/Undocumented Adventures/Selerim 5K\|Selerim 5K]]                                 | \-                    | Mike Doom | <ul><li>Bishop</li><li>Bishop</li><li>Ethan</li><li>Jordan</li><li>Kyle</li></ul>                                  | Foundry                                  |
+| [[Adventures/Undocumented Adventures/Taking the Offensive\|Taking the Offensive]]             | \-                    | Bishop    | <ul><li>Jordan</li><li>Ethan</li><li>Tim</li><li>Brian</li></ul>                                                   | Foundry                                  |
 
 # Selerim 5K Adventures
 | Name | In-World Date Range | DM | Players | Platform |
