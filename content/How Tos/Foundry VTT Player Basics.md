@@ -1,5 +1,4 @@
-# *Playing Bingus for Dummies or: How I Learned to Stop Whining and Love Foundry VTT*
-Yep, it's Bingus time.
+# Playing Bingus for Dummies or: How I Learned to Stop Whining and Love Foundry VTT
 
 ## Frontmatter
 - This is BINGUS. He is an adventurer. If your name is Cale Mitzel, then Bingus is your character in D&D. Love him or hate him, he's all yours.
@@ -26,7 +25,6 @@ Yep, it's Bingus time.
 
 ![[z_assets/bingus4.png]]
 
-
 ## How to enlarge/reduce size of Character Sheet
 - Click and drag the bottom right corner to enlarge or reduce the size of your Character Sheet.
 
@@ -50,11 +48,11 @@ Yep, it's Bingus time.
 - Option 2: Mouseover your target and Double Right Click.
 - When you have something targeted, you'll see flashing indicators on it. Targeting helps the DM know who you're attacking, and whether you hit them after you roll the Attack.
 
-![[z_assets/Pasted image 20260114160138.png]]
+![[z_assets/bingus23.png]]
 
 > Pro tip: Holding shift while selecting targets lets you pick more than 1 
 
-![[z_assets/Pasted image 20260114160504.png|400]]
+![[z_assets/bingus24.png|400]]
 
 ## How to roll an Attack
 - *Usually* you need to Target something before rolling an attack, but there are exceptions (e.g., if you want to attack the empty keg with your axe, the DM probably doesn't have a token for the keg)
@@ -119,6 +117,16 @@ Yep, it's Bingus time.
 ![[z_assets/bingus18.png|500]]
 - Option 2: In the top right corner of your Character Sheet, select the Prototype Token button.
 ![[z_assets/bingus19.png]]
+
+## How to roll using the Dice Tray
+- The Dice Tray in the chat tab can be used to easily roll dice. This is mainly used for "adhoc" rolls that don't involve your character sheet. Generally, rolls are performed from your character sheet.
+- Left click one of the dice to add it, or right click to remove. Then hit Roll.
+
+![[z_assets/bingus22.png]]
+
+- There is also a movable Dice Tray you can enable/disable using this button on the left side of your screen:
+
+ ![[z_assets/bingus21.png]]
 
 
 ## How to cast a Spell
