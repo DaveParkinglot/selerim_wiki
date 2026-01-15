@@ -1,4 +1,6 @@
 # Playing Bingus for Dummies or: How I Learned to Stop Whining and Love Foundry VTT
+- This guide will help you navigate playing D&D in Foundry VTT, and it is geared towards new players. Experienced players may still benefit from reading through this.
+- The [Foundry VTT official new player guide](https://foundryvtt.com/article/player-orientation/) is also helpful for new players, but there are a few redundant/outdated elements.
 
 ## Frontmatter
 - This is BINGUS. He is an adventurer. For the sake of this guide, pretend that BINGUS is your character in D&D. Love him or hate him, he's all yours.
