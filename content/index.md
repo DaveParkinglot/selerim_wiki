@@ -2,8 +2,10 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2025-12-12T10:21:49.614-05:00
+modified: 2026-01-16T11:07:36.949-05:00
+published: 2026-01-16T11:07:36.949-05:00
 cssclasses: ""
+Author: Jordan
 ---
 
 Wiki page for worldbuilding and lore for the Selerim D&D campaign setting.
@@ -13,7 +15,7 @@ Wiki page for worldbuilding and lore for the Selerim D&D campaign setting.
 ### Quick-Links:
 - [[Selerim Overview]] - campaign setting overview
 - [[Selerim Timeline]] - setting timeline
-- [[NPCs by Location]] - helpful list of relevant (and irrelevant) NPCs
+- [[Notable NPCs]] - helpful list of relevant (and irrelevant) NPCs
 - [[Adventure Log]] - catalog of past adventures
 
 ### Interactive Map of the *[[Places/Inhabitable Lands\|Inhabitable Lands of Selerim]]*:
