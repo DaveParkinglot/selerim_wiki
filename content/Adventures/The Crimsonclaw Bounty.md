@@ -1,9 +1,34 @@
 ---
 publish: true
-aliases: The Crimsonclaw Bounty
+aliases:
+  - The Crimsonclaw Bounty
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:28:33.919-05:00
+published: 2025-12-17T10:28:33.919-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 1
+Start Date: 2025-05-14
+In-World Start Date: 264-09-05
+Setting: Selerim
+Author: Jordan
+Players:
+  - Ethan
+  - Devin
+  - Mike Doom
+Characters:
+  - Jaemee Babaganoush
+  - '"Playing Card" Murphy'
+  - The Knight of Confidence
+Races:
+  - Human
+  - Human
+  - Human
+Classes:
+  - Wizard
+  - Rogue
+  - Fighter
 ---
 
 # Details

@@ -1,9 +1,42 @@
 ---
 publish: true
-aliases: The Mournholde Incident
+aliases:
+  - The Mournholde Incident
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:05:23.118-05:00
+published: 2025-12-17T10:05:23.118-05:00
 cssclasses: ""
+DM: Mike Doom
+Platform: Roll20
+Sessions: 1
+Start Date: 2023-09-19
+In-World Start Date: 264-02-26
+Setting: Selerim
+Author: Jordan
+Players:
+  - Ethan
+  - Logan
+  - Jordan
+  - Peter
+  - Jimmy
+Characters:
+  - Lute Bardwalker
+  - David Bluke
+  - Finley the Diviner
+  - Tillikum Beanpower
+  - Parkerson Chase, Esq.
+Races:
+  - Drow
+  - Half-Elf
+  - Human
+  - Dragonborn
+  - Dwarf
+Classes:
+  - Bard
+  - Rogue
+  - Wizard
+  - Wizard
+  - Barbarian
 ---
 
 # Details

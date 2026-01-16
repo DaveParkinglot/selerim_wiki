@@ -3,7 +3,28 @@ publish: true
 title: Kindlethicket, Fey Crossing
 created: 2025-11-02T10:04:59.135-05:00
 modified: 2026-01-16T08:55:00.553-05:00
+published: 2026-01-16T08:55:00.553-05:00
 cssclasses: ""
+Type:
+  - Fey Crossing
+Age (years): 1
+Population: 200
+Affiliation:
+  - None
+Government:
+  - The Prince of Lamps and Luminosity
+marker:
+  mapName: InteractiveMap
+  x: 1700
+  y: 522
+  icon: game-icons:mushroom-house
+  colour: yellow
+Author: Jordan
+Appearances:
+  - "[[Kindlethicket - Envoys of Mitlin]]"
+  - "[[Kindlethicket - The Winter Hunt]]"
+  - "[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse]]"
+aliases:
 ---
 
 ![[z_assets/kindlethicket.png|600]]

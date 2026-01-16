@@ -1,9 +1,54 @@
 ---
 publish: true
-aliases: Dunland's Raiders
+aliases:
+  - Dunland's Raiders
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T12:04:00.835-05:00
+published: 2025-12-17T12:04:00.835-05:00
 cssclasses: ""
+DM: Mike Doom
+Platform: Roll20
+Sessions: 2
+Start Date: 2023-05-24
+End Date: 2023-05-31
+In-World Start Date: 263-11-11
+Setting: Selerim
+Author: Jordan
+Players:
+  - Peter
+  - Jimmy
+  - Logan
+  - Jordan
+  - George
+  - Michael
+  - Evan
+Characters:
+  - Eclipse Malificent
+  - Sir Chauncy the Brave
+  - Sam Hornblower
+  - David Bluke
+  - Montius "Monty" Landucci
+  - Skeeter Lutz
+  - Cecil Qwezikin III
+  - Jersesus Mike XLVII
+Races:
+  - Half-Orc
+  - Human
+  - Half-Elf
+  - Half-Elf
+  - Human
+  - Human
+  - Gnome
+  - Tiefling
+Classes:
+  - Druid
+  - Paladin
+  - Fighter
+  - Rogue
+  - Fighter
+  - Barbarian
+  - Sorcerer
+  - Cleric
 ---
 
 # Details

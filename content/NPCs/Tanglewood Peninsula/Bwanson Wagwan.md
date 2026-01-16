@@ -2,13 +2,31 @@
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
 modified: 2026-01-16T08:55:01.949-05:00
+published: 2026-01-16T08:55:01.949-05:00
 cssclasses: ""
+Age: "24"
+Ancestry: Owlin
+Gender: Male
+Location:
+  - "[[Mitlin]]"
+Role:
+  - Former Adventurer
+  - Druid
+  - Merchant
+Affiliation:
+  - "[[Player Characters/The High Rollers/The High Rollers]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[Kindlethicket - Envoys of Mitlin]]"
+  - "[[The Marrowsucker Contract]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/bwanson_wagwan.png|300]]
 
 # Overview
-- Bwanson adventured with [[Player Characters/The High Rollers/The High Rollers]] during their time on the Tanglewood Peninsula.
+- Bwanson adventured with [[The High Rollers]] during their time on the Tanglewood Peninsula.
 - He settled down to start his magic shop Jack of Owl Trades in Mitlin with his business partner Scryer Young.
 
 # Key Details

@@ -1,9 +1,38 @@
 ---
 publish: true
-aliases: Bootknife's Bounty
+aliases:
+  - Bootknife's Bounty
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:19:27.762-05:00
+published: 2025-12-17T10:19:27.762-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 1
+Start Date: 2024-10-30
+In-World Start Date: 264-06-17
+Setting: Selerim
+Author: Jordan
+Players:
+  - Brian
+  - Mike Doom
+  - Ethan
+  - David
+Characters:
+  - Galath Goatjumper Kalageaku
+  - Joey Babaganoush
+  - Jaemee Babaganoush
+  - Talco
+Races:
+  - Goliath
+  - Human
+  - Human
+  - Tiefling
+Classes:
+  - Paladin
+  - Monk
+  - Wizard
+  - Bard
 ---
 
 # Details

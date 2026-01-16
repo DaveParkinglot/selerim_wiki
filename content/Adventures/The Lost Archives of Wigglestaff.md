@@ -1,9 +1,46 @@
 ---
 publish: true
-aliases: The Lost Archives of Wigglestaff
+aliases:
+  - The Lost Archives of Wigglestaff
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:14:28.581-05:00
+published: 2025-12-17T10:14:28.581-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 1
+Start Date: 2024-05-02
+In-World Start Date: 264-04-10
+Setting: Selerim
+Author: Jordan
+Players:
+  - Kyle
+  - Larry
+  - Bishop
+  - George
+  - Bucher
+  - Matt
+Characters:
+  - Crank Creamsicle
+  - Shume Lettux
+  - Elenda Duskwood
+  - Liam Neighson
+  - Tumeighto Nose
+  - Pissjar
+Races:
+  - Half-Elf
+  - Tortle
+  - Elf
+  - Centaur
+  - Half-Orc
+  - Goblin
+Classes:
+  - Paladin
+  - Barbarian
+  - Rogue
+  - Druid
+  - Barbarian
+  - Ranger
 ---
 
 Handouts:

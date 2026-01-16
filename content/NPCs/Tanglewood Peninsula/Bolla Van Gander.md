@@ -2,14 +2,30 @@
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
 modified: 2026-01-16T08:55:01.546-05:00
+published: 2026-01-16T08:55:01.546-05:00
 cssclasses: ""
+Age: "45"
+Ancestry: Human
+Gender: Female
+Location:
+  - "[[Places/Crabbley]]"
+Role:
+  - Former Adventurer
+  - Wizard
+  - Advisor
+Affiliation:
+  - "[[Crabbley Council]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/bolla_van_gander.png|300]]
 
 # Overview
 - Former adventurer, powerful wizard, and advisor to Mayor [[NPCs/Tanglewood Peninsula/Antoona Bastifor]].
-- She was an adventurer with her husband [[NPCs/Tanglewood Peninsula/Biltus Van Gander]] before they settled down to start a family in the sleepy fishing village of [[Places/Crabbley]].
+- She was an adventurer with her husband [[NPCs/Tanglewood Peninsula/Biltus Van Gander]] before they settled down to start a family in the sleepy fishing village of [[Crabbley]].
 
 # Key Details
 - **Age**: 45

@@ -2,7 +2,22 @@
 publish: true
 created: 2025-07-25T11:17:12.000-04:00
 modified: 2026-01-16T08:55:00.896-05:00
+published: 2026-01-16T08:55:00.896-05:00
 cssclasses: ""
+Age: "89"
+Ancestry:
+  - Half-Elf
+Gender: Female
+Location:
+  - Breakwater Cove
+Role:
+  - Ship Captain
+Affiliation:
+  - None
+Appearances:
+  - "[[The Crimsonclaw Bounty]]"
+Status: Alive
+Author: Jordan
 ---
 
 

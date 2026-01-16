@@ -1,10 +1,33 @@
 ---
 publish: true
-aliases: Tanglewood
+aliases:
+  - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
 modified: 2026-01-16T08:55:02.067-05:00
+published: 2026-01-16T08:55:02.067-05:00
 cssclasses: ""
+Type:
+  - Region
+Age (years): 264
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[The Hunt for Pill'Grim]]"
+  - "[[The Lost Archives of Wigglestaff]]"
+  - "[[The Rentpire Strikes Back]]"
+  - "[[The Haunted Flakes Factory]]"
+  - "[[Kindlethicket - Envoys of Mitlin]]"
+  - "[[Kindlethicket - The Winter Hunt]]"
+  - "[[The Marrowsucker Contract]]"
+  - "[[The Crimsonclaw Bounty]]"
+  - "[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse]]"
+marker:
+  mapName: InteractiveMap
+  x: 1575
+  y: 500
+  icon: game-icons:jungle
+  colour: green
+Author: Jordan
 ---
 
 ![[z_assets/tanglewood_wilds.png|600]] ![[z_assets/tanglewood_peninsula.png|600]]

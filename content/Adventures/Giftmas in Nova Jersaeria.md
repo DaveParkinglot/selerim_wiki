@@ -1,9 +1,38 @@
 ---
 publish: true
-aliases: Giftmas in Nova Jersaeria
+aliases:
+  - Giftmas in Nova Jersaeria
 created: 2025-10-03T15:37:56.000-04:00
 modified: 2025-12-17T10:21:22.434-05:00
+published: 2025-12-17T10:21:22.434-05:00
 cssclasses: ""
+DM: Jordan
+Platform: In person
+Sessions: 1
+Start Date: 2024-12-25
+In-World Start Date: 264-13-25
+Setting: Selerim
+Author: Jordan
+Players:
+  - Jessa
+  - Laura
+  - Jimmy
+  - Connor
+Characters:
+  - Nutmeg Winnipeg
+  - Jingle Jangle
+  - Tinsel Twinkletin
+  - Cronk Stibbens
+Races:
+  - Dwarf
+  - Goliath
+  - Halfling
+  - Orc
+Classes:
+  - Paladin
+  - Fighter
+  - Warlock
+  - Barbarian
 ---
 
 # Details

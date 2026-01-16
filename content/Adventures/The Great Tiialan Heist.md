@@ -1,9 +1,38 @@
 ---
 publish: true
-aliases: The Great Tiialan Heist
+aliases:
+  - The Great Tiialan Heist
 created: 2025-07-27T17:24:16.000-04:00
 modified: 2025-12-17T10:29:45.898-05:00
+published: 2025-12-17T10:29:45.898-05:00
 cssclasses: ""
+DM: Ethan
+Platform: Foundry
+Sessions: 1
+Start Date: 2025-06-25
+In-World Start Date: 265-10-01
+Setting: Selerim
+Author: Ethan
+Players:
+  - Bishop
+  - Mike Doom
+  - Jordan
+  - Devin
+Characters:
+  - Asana Totashi
+  - Jaguar
+  - Hector Fanto-Domingo
+  - '"Playing Card" Murphy'
+Races:
+  - Human
+  - Tabaxi
+  - Human
+  - Human
+Classes:
+  - Monk
+  - Rogue
+  - Barbarian
+  - Rogue
 ---
 
 # Details

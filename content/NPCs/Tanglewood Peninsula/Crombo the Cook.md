@@ -2,7 +2,21 @@
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
 modified: 2026-01-16T08:55:01.872-05:00
+published: 2026-01-16T08:55:01.872-05:00
 cssclasses: ""
+Age: "17"
+Ancestry: Dragonborn
+Gender: Male
+Location:
+  - "[[Crabbley]]"
+Role:
+  - Adventurer, Bard, Head Chef
+Affiliation:
+  - None
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/crombo_the_cook.png|300]]

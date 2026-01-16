@@ -2,7 +2,23 @@
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
 modified: 2026-01-16T08:55:02.053-05:00
+published: 2026-01-16T08:55:02.053-05:00
 cssclasses: ""
+Age: "34"
+Ancestry: Half-Giant
+Gender: Male
+Location:
+  - "[[Crillville]]"
+Role:
+  - Paladin, Commander of the CDF
+Affiliation:
+  - Crillville Defense Force (CDF)
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[The Lost Archives of Wigglestaff]]"
+  - "[[The Rentpire Strikes Back]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/dick_gunbarrel.png|300]]

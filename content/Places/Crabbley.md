@@ -3,7 +3,27 @@ publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
 modified: 2026-01-16T08:55:01.891-05:00
+published: 2026-01-16T08:55:01.891-05:00
 cssclasses: ""
+Type:
+  - Village
+Age (years): 25
+Population: 600
+Affiliation:
+  - None
+Government: "[[The Crabbley Council]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[The Hunt for Pill'Grim]]"
+  - "[[Adventures/The Haunted Flakes Factory]]"
+  - "[[The Crimsonclaw Bounty]]"
+marker:
+  mapName: InteractiveMap
+  x: 1485
+  y: 530
+  icon: game-icons:medieval-village-01
+  colour: blue
+Author: Jordan
 ---
 
 ![[z_assets/crabbley.png|300]]   ![[z_assets/crabbley_topdown.png|450]]
@@ -25,7 +45,7 @@ cssclasses: ""
 - **Economy/Resources**: 
 	- Exports fish, grain, cereal, and gnomish inventions courtesy of the Cronium Gnomes
 - **Dangers/Secrets**: 
-	- The old abandoned Bondoon Flakes Factory Megaplex factory is rumored to be haunted after a horrific accident many years ago - [[Adventures/The Haunted Flakes Factory]]
+	- The old abandoned Bondoon Flakes Factory Megaplex factory is rumored to be haunted after a horrific accident many years ago - [[The Haunted Flakes Factory]]
 - **Points of Interest**: 
 	- Ruined watchtower outside town
 	- The Van Gander homestead

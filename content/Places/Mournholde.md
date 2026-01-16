@@ -3,7 +3,27 @@ publish: true
 title: Mournholde, City of the Dead
 created: 2023-09-20T14:56:26.000-04:00
 modified: 2026-01-16T08:55:02.035-05:00
+published: 2026-01-16T08:55:02.035-05:00
 cssclasses: ""
+Type:
+  - City of the Dead
+  - Free City
+Age (years): 130
+Population: 7000
+Affiliation:
+  - None
+Government:
+  - "[[Galgitch, The Afterking]]"
+  - Mayor Gerard Duck
+Appearances:
+  - "[[The Mournholde Incident]]"
+marker:
+  mapName: InteractiveMap
+  x: 920
+  y: 515
+  icon: game-icons:spooky-house
+  colour: orange
+Author: Jordan
 ---
 
 ![[z_assets/welcome_to_mournholde.png|500]]

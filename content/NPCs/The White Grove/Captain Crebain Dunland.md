@@ -2,7 +2,23 @@
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
 modified: 2026-01-16T08:55:02.262-05:00
+published: 2026-01-16T08:55:02.262-05:00
 cssclasses: ""
+Age: "41"
+Ancestry: Human
+Gender: Male
+Location:
+  - "[[Nova Jersaeria]]"
+  - "[[The White Grove]]"
+Role:
+  - Captain
+Affiliation:
+  - None
+Appearances:
+  - "[[Dunland's Raiders]]"
+  - "[[The White Grove - Summer Vacation]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/crebain_dunland.png|300]]

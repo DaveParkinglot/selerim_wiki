@@ -1,9 +1,34 @@
 ---
 publish: true
-aliases: The White Death Strikes
+aliases:
+  - The White Death Strikes
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:15:40.230-05:00
+published: 2025-12-17T10:15:40.230-05:00
 cssclasses: ""
+DM: Bishop
+Platform: Foundry
+Sessions: 1
+Start Date: 2024-06-04
+In-World Start Date: 264-04-17
+Setting: Selerim
+Author: Jordan
+Players:
+  - Laura
+  - Sam
+  - Jordan
+Characters:
+  - Mylleria Skeeter
+  - Cornwallis
+  - Miff Tamplecoat
+Races:
+  - Human
+  - Aasimar
+  - Harengon
+Classes:
+  - Ranger
+  - Warlock
+  - Paladin
 ---
 
 # Details

@@ -1,9 +1,43 @@
 ---
 publish: true
-aliases: Arby's Sauce
+aliases:
+  - Arby's Sauce
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:12:12.645-05:00
+published: 2025-12-17T10:12:12.645-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 2
+Start Date: 2024-02-20
+End Date: 2024-02-27
+In-World Start Date: 264-02-12
+Setting: Selerim
+Author: Jordan
+Players:
+  - Peter
+  - George
+  - Michael
+  - Evan
+  - Mike Doom
+Characters:
+  - Cowman Shisito
+  - Stanway Pegasus
+  - Jocosa Antiope
+  - Den Tiest
+  - Carnifex Maximus Vardorvis
+Races:
+  - Half-Elf
+  - Human
+  - Tiefling
+  - Tortle
+  - Elf
+Classes:
+  - Cleric
+  - Wizard
+  - Druid
+  - Monk
+  - Sorcerer
 ---
 
 # Details

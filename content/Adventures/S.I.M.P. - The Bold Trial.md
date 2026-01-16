@@ -1,9 +1,38 @@
 ---
 publish: true
-aliases: S.I.M.P. - The Bold Trial
+aliases:
+  - S.I.M.P. - The Bold Trial
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:10:19.807-05:00
+published: 2025-12-17T10:10:19.807-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Roll20
+Sessions: 1
+Start Date: 2023-12-13
+In-World Start Date: 264-01-09
+Setting: Selerim
+Author: Jordan
+Players:
+  - Evan
+  - Sam
+  - Michael
+  - Bishop
+Characters:
+  - Force Maxum
+  - Cornwallis
+  - Todd Howard
+  - Jedavius Redavius
+Races:
+  - Half-Orc
+  - Aasimar
+  - Human
+  - Human
+Classes:
+  - Barbarian
+  - Warlock
+  - Fighter
+  - Paladin
 ---
 
 # Details

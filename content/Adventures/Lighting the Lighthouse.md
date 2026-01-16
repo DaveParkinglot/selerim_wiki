@@ -1,9 +1,39 @@
 ---
 publish: true
-aliases: Lighting the Lighthouse
+aliases:
+  - Lighting the Lighthouse
 created: 2025-11-02T09:22:56.000-05:00
 modified: 2025-12-17T11:59:55.671-05:00
+published: 2025-12-17T11:59:55.671-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 1
+Start Date: 2025-12-04
+In-World Start Date: 265-13-16
+In-World End Date: 265-13-16
+Setting: Selerim
+Author: Jordan
+Players:
+  - Otto
+  - Becca
+  - Peter
+  - Leah
+Characters:
+  - Squeembo Montgomery
+  - Blink
+  - Bobby Dismorphia
+  - Bella Jingle
+Races:
+  - Halfling
+  - Gnome
+  - Orc
+  - Human
+Classes:
+  - Cleric
+  - Druid
+  - Fighter
+  - Warlock
 ---
 
 ![[z_assets/lighting_the_lighthouse.png|300]]

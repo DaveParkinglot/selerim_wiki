@@ -2,7 +2,23 @@
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
 modified: 2026-01-16T08:55:01.708-05:00
+published: 2026-01-16T08:55:01.708-05:00
 cssclasses: ""
+Age: "24"
+Ancestry:
+  - Yuan-ti
+Gender: Male
+Location:
+  - "[[Nova Jersaeria]]"
+  - Sewers
+Role:
+  - Bodyguard
+Affiliation:
+  - None
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/cock_strombolinov.png|300]]

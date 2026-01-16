@@ -1,9 +1,40 @@
 ---
 publish: true
-aliases: Morganth's LEGION OF DOOM
+aliases:
+  - Morganth's LEGION OF DOOM
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2026-01-16T08:55:00.584-05:00
+published: 2026-01-16T08:55:00.584-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 2
+Start Date: 2025-01-22
+End Date: 2025-01-29
+In-World Start Date: 264-07-03
+In-World End Date: 264-07-14
+Setting: Selerim
+Author: Jordan
+Players:
+  - Kyle
+  - Laura
+  - Mike Doom
+  - Ethan
+Characters:
+  - Papa Vince
+  - Bianca “Mad Dog” Bianchi
+  - Mad Jack the Fat
+  - Bombus Mitz
+Races:
+  - Human
+  - Goliath
+  - Human
+  - Drow
+Classes:
+  - Ranger
+  - Warlock
+  - Fighter
+  - Cleric
 ---
 
 # Details

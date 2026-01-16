@@ -2,7 +2,22 @@
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
 modified: 2026-01-16T08:55:01.615-05:00
+published: 2026-01-16T08:55:01.615-05:00
 cssclasses: ""
+Age: "56"
+Ancestry: Human
+Gender: Male
+Location:
+  - "[[Crabbley]]"
+Role:
+  - Inkeeper, Small Business Owner
+Affiliation:
+  - "[[Crabbley Council]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[The Crimsonclaw Bounty]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/innkeeper_roger.png|300]]

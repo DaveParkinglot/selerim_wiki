@@ -1,9 +1,63 @@
 ---
 publish: true
-aliases: The High Rollers Campaign
+aliases:
+  - The High Rollers Campaign
 created: 2025-07-25T11:30:00.000-04:00
-modified: 2026-01-06T10:48:14.734-05:00
+modified: 2026-01-16T09:54:04.059-05:00
+published: 2026-01-16T09:54:04.059-05:00
 cssclasses: ""
+DM: Jordan
+Platform:
+  - Foundry
+  - Roll20
+Sessions: 71
+Start Date: 2022-07-25
+End Date: 2024-05-24
+In-World Start Date: 263-08-07
+In-World End Date: 264-04-05
+Setting: Selerim
+Author: Jordan
+Players:
+  - Evan
+  - Logan
+  - Michael
+  - Mike Doom
+  - Peter
+  - George
+  - Fisher
+Characters:
+  - "[[Clint Weapon]]"
+  - "[[Bancil Nobeltrim]]"
+  - "[[Lorundil the Wanderer]]"
+  - "[[Otieno]]"
+  - "[[NPCs/Scrimshaw City/Hugh Mann]]"
+  - "[[Francis Greenstrider De Luca]]"
+  - "[[Tadeusz]]"
+  - Eros
+  - P3360 TUR60
+  - "[[Bwanson Wagwan]]"
+Races:
+  - Human
+  - Half-Elf
+  - Half-Elf
+  - Elf
+  - '"Human" (Fiend)'
+  - Half-Elf
+  - Human
+  - Satyr
+  - Warforged
+  - Owlin
+Classes:
+  - Barbarian
+  - Paladin
+  - Warlock
+  - Ranger
+  - Wizard
+  - Cleric/Druid
+  - Blood Hunter
+  - Bard
+  - Rogue
+  - Druid
 ---
 
 The OG campaign.
@@ -45,7 +99,7 @@ The OG campaign.
 ### Adventure Premise
 - Bring rent reductions and prosperity to [[Places/Scrimshaw City]] by defeating [[NPCs/Villains/Lord Davos Portnoir]] and his [[Tavernstool]] fanatics.
 ### Outcomes
-- [[NPCs/Villains/Lord Davos Portnoir]] was sent screaming back to the Nine Hells, and [[NPCs/Scrimshaw City/Hugh Mann]] became the new El Presidente of [[Places/Scrimshaw City]].
+- [[NPCs/Villains/Lord Davos Portnoir]] was sent screaming back to the Nine Hells, and [[Hugh Mann]] became the new El Presidente of [[Places/Scrimshaw City]].
 
 
 ## Restore the Tiialan Royal Line

@@ -2,7 +2,22 @@
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-01-16T08:55:01.787-05:00
+published: 2026-01-16T08:55:01.787-05:00
 cssclasses: ""
+Age: 66 (deceased)
+Ancestry:
+  - Human
+Gender: Male
+Location:
+  - The Jyfstein Isles
+Role:
+  - Lich, Former Archwizard Adventurer
+Affiliation:
+  - None
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Deceased
+Author: Jordan
 ---
 
 ![[z_assets/master_effree_jypstein.png|300]]

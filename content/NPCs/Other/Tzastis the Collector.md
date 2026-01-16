@@ -2,7 +2,24 @@
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-01-16T08:55:02.222-05:00
+published: 2026-01-16T08:55:02.222-05:00
 cssclasses: ""
+Age: ??
+Ancestry: Archfey
+Gender: Varies
+Location:
+  - The Fathomless Vault
+Role:
+  - Archfey
+  - Collector of Relevant Mortals
+Affiliation:
+  - None
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[The White Grove - First Semester]]"
+  - "[[The White Grove - Summer Vacation]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/tzastis.png|300]]

@@ -1,9 +1,35 @@
 ---
 publish: true
-aliases: The White Grove - First Semester
+aliases:
+  - The White Grove - First Semester
 created: 2025-07-27T17:44:31.000-04:00
 modified: 2026-01-16T08:55:00.608-05:00
+published: 2026-01-16T08:55:00.608-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 1
+Start Date: 2025-07-10
+In-World Start Date: 265-04-22
+In-World End Date: 265-04-27
+Setting: Selerim
+Author: Jordan
+Players:
+  - Ethan
+  - Mike Doom
+  - Brian
+Characters:
+  - Crimslaw Brutefang
+  - Tony Gorgonzoli
+  - The Earl
+Races:
+  - Orc
+  - Human
+  - Genasi
+Classes:
+  - Wizard
+  - Wizard
+  - Warlock
 ---
 
 # Details

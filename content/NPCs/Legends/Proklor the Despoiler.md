@@ -2,7 +2,23 @@
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-01-16T08:55:02.425-05:00
+published: 2026-01-16T08:55:02.425-05:00
 cssclasses: ""
+Age: ??
+Ancestry: Drow, Draegloth
+Gender: Male
+Location:
+  - "[[Vlorngroth]]"
+Role:
+  - Villain
+  - Destroyer of Worlds
+Affiliation:
+  - "[[Vlorngroth]]"
+Appearances:
+  - "[[Vlorngroth - The Manor of Madness]]"
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/proklor_the_despoiler.png|300]]

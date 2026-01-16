@@ -1,9 +1,37 @@
 ---
 publish: true
-aliases: New Dawn - Hellfist Heist Hellfist Heist
+aliases:
+  - New Dawn - Hellfist Heist
+  - Hellfist Heist
 created: 2026-01-06T08:11:09.000-05:00
 modified: 2026-01-06T08:41:04.592-05:00
+published: 2026-01-06T08:41:04.592-05:00
 cssclasses: ""
+DM: Jordan
+Players:
+  - David
+  - Steph
+  - Laura
+Platform: In person
+Sessions: 1
+Start Date: 2026-01-03
+End Date:
+In-World Start Date: 266-01-01
+In-World End Date:
+Setting: Selerim
+Author: Jordan
+Characters:
+  - Keylene
+  - Ahna
+  - Bianca “Mad Dog” Bianchi
+Races:
+  - Goliath
+  - Human
+  - Goliath
+Classes:
+  - Barbarian
+  - Ranger
+  - Warlock
 ---
 
 # Details

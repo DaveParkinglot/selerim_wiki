@@ -2,7 +2,25 @@
 publish: true
 created: 2025-10-02T12:18:30.000-04:00
 modified: 2026-01-16T08:55:02.497-05:00
+published: 2026-01-16T08:55:02.497-05:00
 cssclasses: ""
+Age: "35"
+Ancestry:
+  - Goblin
+  - Kobold
+  - Mutant
+Gender: Male
+Location:
+  - "[[Vlorngroth]]"
+Role:
+  - Familiar
+Affiliation:
+  - None
+Appearances:
+  - "[[Vlorngroth - 2 Manor 2 Madness]]"
+  - "[[Vlorngroth - Vampire Weekday]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/morbus.png|300]]

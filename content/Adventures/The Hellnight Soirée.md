@@ -1,9 +1,34 @@
 ---
 publish: true
-aliases: The Hellnight Soirée
+aliases:
+  - The Hellnight Soirée
 created: 2025-08-03T20:47:11.000-04:00
 modified: 2025-12-17T10:34:04.724-05:00
+published: 2025-12-17T10:34:04.724-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 1
+Start Date: 2025-08-07
+In-World Start Date: 265-05-20
+Setting: Selerim
+Author: Jordan
+Players:
+  - Laura
+  - Brian
+  - Mike Doom
+Characters:
+  - Bianca “Mad Dog” Bianchi
+  - Colin Forbackup
+  - David Hellscream
+Races:
+  - Goliath
+  - Orc
+  - Orc
+Classes:
+  - Warlock
+  - Cleric
+  - Fighter
 ---
 
 # Details

@@ -1,9 +1,42 @@
 ---
 publish: true
-aliases: Vlorngroth - The Forge of Dingon
+aliases:
+  - Vlorngroth - The Forge of Dingon
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:03:55.111-05:00
+published: 2025-12-17T10:03:55.111-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Roll20
+Sessions: 1
+Start Date: 2023-08-17
+In-World Start Date: 264-02-03
+Setting: Selerim
+Author: Jordan
+Players:
+  - Bishop
+  - Mike Doom
+  - Jimmy
+  - Evan
+  - Ethan
+Characters:
+  - Alela
+  - Sister Katharine Voidstone
+  - Uxeebroth Kuji
+  - Ashal Fractilian
+  - Jebbajaz the Sly
+Races:
+  - Drow
+  - Drow
+  - Drow
+  - Kobold
+  - Duergar
+Classes:
+  - Paladin
+  - Cleric
+  - Fighter
+  - Warlock
+  - Rogue
 ---
 
 # Details

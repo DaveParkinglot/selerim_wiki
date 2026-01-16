@@ -2,7 +2,24 @@
 publish: true
 created: 2025-09-17T12:03:07.000-04:00
 modified: 2026-01-16T08:55:02.491-05:00
+published: 2026-01-16T08:55:02.491-05:00
 cssclasses: ""
+Age: "163"
+Ancestry:
+  - Drow
+  - Vampire
+Gender: Male
+Location:
+  - "[[Vlorngroth]]"
+Role:
+  - Former Inquisitor
+Affiliation:
+  - None
+Appearances:
+  - "[[Vlorngroth - 2 Manor 2 Madness]]"
+  - "[[Vlorngroth - Vampire Weekday]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/calloway_duskveil.png|300]]
