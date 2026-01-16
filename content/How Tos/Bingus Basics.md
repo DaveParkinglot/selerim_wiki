@@ -3,9 +3,9 @@
 
 ## Bingus' Optimal Combat Turn
 1. Move up to 30 ft. to stand next to enemy NPC(s).
-2. Enter a Rage with your Bonus Action. This increases your damage slightly and makes you resistant to damage.
-3. Attack the nearest enemy NPC with your Greatsword.
-4. Use Reckless Attack feature to gain Advantage on the attack. Even if you miss, your greatsword does 4 damage due to its Graze Mastery property.
+2. Enter a Rage with your Bonus Action. This increases Bingus' damage slightly and makes him resistant to incoming damage.
+3. Attack the nearest enemy NPC with Bingus' greatsword.
+4. Use Reckless Attack feature to gain Advantage on the attack. Even if Bingus misses, his greatsword does 4 damage due to its Graze Mastery property.
 
 > Pro tip: The above turn makes use of all your per-turn resources (Movement, Action, and Bonus Action). If you do nothing but these 4 things on your turn, you will already be more effective than 75% of D&D players.
 
@@ -18,9 +18,9 @@
 	- e.g., "Entering a drunken Rage, Bingus vaults the bar and unsheathes Gargoyle, recklessly swinging it at the miserly tavernkeeper who dared to serve him a watered down IPA!"
 4. If applicable, move Bingus' token up to 30 ft. toward the miserly tavernkeeper.
 5. Enter a [[How Tos/Foundry VTT Player Basics#How to use a character Feature (e.g., Rage)\|Rage]].
-6. Activate your [[How Tos/Foundry VTT Player Basics#How to use a character Feature (e.g., Rage)\|Reckless Attack]] feature to give Bingus Advantage on his attack.
-7. [[How Tos/Foundry VTT Player Basics#How to Target something\|Target]] the miserly tavernkeeper and [[How Tos/Foundry VTT Player Basics#How to roll an Attack\|roll your Attack with Advantage]].
-8. If you hit, [[How Tos/Foundry VTT Player Basics#How to roll Damage\|roll damage]]. If you miss, you will still Graze your target for 4 damage.
+6. Activate [[How Tos/Foundry VTT Player Basics#How to use a character Feature (e.g., Rage)\|Reckless Attack]] feature to give Bingus Advantage on his attack.
+7. [[How Tos/Foundry VTT Player Basics#How to Target something\|Target]] the miserly tavernkeeper and [[How Tos/Foundry VTT Player Basics#How to roll an Attack\|roll an Attack with Advantage]].
+8. If the attack hits, [[How Tos/Foundry VTT Player Basics#How to roll Damage\|roll damage]]. Even if the attack misses, Bingus still Grazes his target for 4 damage.
 
 
 
