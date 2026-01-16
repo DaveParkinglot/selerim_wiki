@@ -4,12 +4,13 @@
 // put your custom CSS here!
 
 // makes the explorer pane scrollable per this thread https://discord.com/channels/927628110009098281/1310714039055290429
-@media all and ($desktop) {
-  .explorer {
-    max-height: 64vh;
-    overflow-y: auto; // or scroll
+  @media all and ($desktop) {
+    .explorer {
+      max-height: 64vh;
+      overflow-y: hidden;
+    }
   }
-}
+
 
 
 
