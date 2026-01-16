@@ -10,12 +10,12 @@
 > Pro tip: The above turn makes use of all your per-turn resources (Movement, Action, and Bonus Action). If you do nothing but these 4 things on your turn, you will already be more effective than 75% of D&D players.
 
 ## Bingus Combat Example
-> Sitting at a ramshackle tavern on the side of the road, Bingus orders a 20% IPA but is served a 15% IPA by a small, miserly tavernkeeper.
-
+> Situation: Sitting at a ramshackle tavern on the side of the road, Bingus orders a 20% IPA but is served a 15% IPA by a small, miserly tavernkeeper. 
+> Bingus decides the tavernkeeper's payment will be the steel of his infamous greatsword, Gargoyle.
 1. When the DM asks, [[How Tos/Foundry VTT Player Basics#How to roll for Initiative\|Roll for Initiative!]] Your Initiative for the combat equals your D20 roll + 2 (your Dexterity modifier).
 2. Wait for your turn...
 3. On your turn, describe to everyone what Bingus does.
-	- e.g., "Entering a drunken Rage, Bingus vaults the bar and unsheathes his greatsword, recklessly swinging it at the miserly tavernkeeper who dared to serve him a watered down IPA!"
+	- e.g., "Entering a drunken Rage, Bingus vaults the bar and unsheathes Gargoyle, recklessly swinging it at the miserly tavernkeeper who dared to serve him a watered down IPA!"
 4. If applicable, move Bingus' token up to 30 ft. toward the miserly tavernkeeper.
 5. Enter a [[How Tos/Foundry VTT Player Basics#How to use a character Feature (e.g., Rage)\|Rage]].
 6. Activate your [[How Tos/Foundry VTT Player Basics#How to use a character Feature (e.g., Rage)\|Reckless Attack]] feature to give Bingus Advantage on his attack.
