@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:08:24.634-04:00","published":"2025-10-30T12:08:24.634-04:00","cssclasses":"","Age":"32","Ancestry":["Satyr"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Failed Adventurer","Bartender","Aspiring Salt Spitter"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T09:19:26.595-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/hooligan_dupree.png|300]]
@@ -8,7 +11,7 @@
 - One of [[Eros]]' friends from before he joined [[Player Characters/The High Rollers/The High Rollers]].
 - Tired of being a lazy bum with too much time to party, Hooligan tried to become an adventurer.
 - This led him to join [[Tavernstool]], and he couldn't handle the amount of hazing. He was, fortunately, saved by The High Rollers before all the hazing killed him.
-- Now he works at The Spicy Meatball while he builds his career as a salt spitter (rapper) in [[Scrimshaw City]].
+- Now he works at The Spicy Meatball while he builds his career as a salt spitter (rapper) in [[Places/Scrimshaw City]].
 
 # Key Details
 - **Age**: 32
@@ -17,7 +20,7 @@
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Failed Adventurer,Bartender,Aspiring Salt Spitter
 - **Affiliation:** None
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/08 Arby's Sauce\|08 Arby's Sauce]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Arby's Sauce\|Arby's Sauce]]
 - **Status:** Alive
 
 # Attributes

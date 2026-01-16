@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:04:57.358-04:00","published":"2025-10-30T12:04:57.358-04:00","cssclasses":"","Age":"347","Ancestry":["Devil"],"Gender":"Male","Location":["Dead"],"Role":["Former El Presidente"],"Affiliation":["[[Tavernstool]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:01.769-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/lord_davos_portnoir_human.jpg|200]] ![[z_assets/lord_davos_portnoir_devil.png|300]]
@@ -15,7 +18,7 @@
 - **Location**: Dead
 - **Role**: Former El Presidente
 - **Affiliation:** [[Tavernstool\|Tavernstool]]
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Deceased
 
 # Attributes

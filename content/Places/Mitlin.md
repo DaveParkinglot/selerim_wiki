@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Mitlin, Treetop Town","created":"2025-09-24T08:16:34.000-04:00","modified":"2026-01-13T13:17:56.816-05:00","published":"2026-01-13T13:17:56.816-05:00","cssclasses":"","Type":["Town"],"Age (years)":120,"Population":3200,"Affiliation":["None"],"Government":["The Oaken Conclave"],"Appearances":["[[00 The High Rollers Campaign]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[16 Kindlethicket - The Winter Hunt]]","[[19 The Marrowsucker Contract]]","[[Lighting the Lighthouse]]"],"marker":{"mapName":"InteractiveMap","x":1645,"y":515,"icon":"game-icons:medieval-village-01","colour":"blue"},"Author":"Jordan"}
+publish: true
+title: Mitlin, Treetop Town
+created: 2025-09-24T08:16:34.000-04:00
+modified: 2026-01-16T08:55:01.986-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/mitlin.png|500]]
@@ -16,7 +20,7 @@
 - **Population**: 3200
 - **Affiliation**: None
 - **Government:** The Oaken Conclave
-- **Appearances:**  [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/16 Kindlethicket - The Winter Hunt\|16 Kindlethicket - The Winter Hunt]],[[Adventures/19 The Marrowsucker Contract\|19 The Marrowsucker Contract]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
+- **Appearances:**  [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
 
 # Attributes
 - **Appearance**: 

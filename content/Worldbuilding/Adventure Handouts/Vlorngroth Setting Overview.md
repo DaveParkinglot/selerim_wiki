@@ -1,9 +1,12 @@
 ---
-{"publish":true,"created":"2025-08-22T12:50:53.000-04:00","modified":"2025-10-30T11:57:35.075-04:00","published":"2025-10-30T11:57:35.075-04:00","cssclasses":"","Author":"Jordan"}
+publish: true
+created: 2025-08-22T12:50:53.000-04:00
+modified: 2026-01-16T08:55:02.464-05:00
+cssclasses: ""
 ---
 
 
-Handout from [[Adventures/02 Vlorngroth - The Manor of Madness]]
+Handout from [[Adventures/Vlorngroth - The Manor of Madness]]
 
 ## VLORNGROTH
 In the cavernous depths of the Underdark, beneath the phosphorescence of the Fungal Firmament, lies the hidden city of [[Places/Vlorngroth]]. [[Places/Vlorngroth]] has long been the seat of power for [[Factions/The Vlorn Dynasty]], an empire long forgotten by most surface dwellers. The recent ascension of High Lord Jorad Kranicz has led to a militaristic renaissance in the city, with further emphasis being placed on infiltrations and incursions into the surface world. Slaves taken from the surface world have been pouring into [[Places/Vlorngroth]] lately, but the High Lord’s ambitions do not end there. Rumor in [[Places/Vlorngroth]] has it that even now, Kranicz plans a full-scale invasion of the surface world from his war room atop Tan’Rin Keep, the towering structure that juts downward from the Fungal Firmament.

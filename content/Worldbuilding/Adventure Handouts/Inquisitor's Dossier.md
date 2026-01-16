@@ -1,8 +1,11 @@
 ---
-{"publish":true,"created":"2025-08-22T12:42:41.000-04:00","modified":"2025-11-10T13:55:38.770-05:00","published":"2025-11-10T13:55:38.770-05:00","cssclasses":"","Author":"Jordan"}
+publish: true
+created: 2025-08-22T12:42:41.000-04:00
+modified: 2026-01-16T08:55:02.459-05:00
+cssclasses: ""
 ---
 
-Handout from [[Adventures/02 Vlorngroth - The Manor of Madness]]
+Handout from [[Adventures/Vlorngroth - The Manor of Madness]]
 
 ![[z_assets/inquisitors_dossier.png]]
 ## The Matron's Prophecy

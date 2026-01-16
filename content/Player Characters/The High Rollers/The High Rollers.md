@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-05T09:45:51.000-04:00","modified":"2025-10-30T11:54:34.987-04:00","published":"2025-10-30T11:54:34.987-04:00","cssclasses":"","Author":"Jordan"}
+publish: true
+created: 2025-07-05T09:45:51.000-04:00
+modified: 2025-10-30T11:54:34.987-04:00
+cssclasses: ""
 ---
 
 

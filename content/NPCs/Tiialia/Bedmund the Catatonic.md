@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-30T12:06:00.750-04:00","published":"2025-10-30T12:06:00.750-04:00","cssclasses":"","Age":"57","Ancestry":"Deep Gnome","Gender":"Male","Location":["The Esposito Vineyard"],"Role":["Sleepy Wizard"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:45.000-04:00
+modified: 2026-01-16T08:55:02.438-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/bedmund_the_catatonic.png|300]]
@@ -16,7 +19,7 @@
 - **Location**: The Esposito Vineyard
 - **Role**: Sleepy Wizard
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness\|Vlorngroth - The Manor of Madness]],[[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes

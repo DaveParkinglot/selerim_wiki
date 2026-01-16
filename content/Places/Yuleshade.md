@@ -1,11 +1,15 @@
 ---
-{"publish":true,"aliases":["The Yuleshade"],"created":"2025-12-09T19:13:43.000-05:00","modified":"2025-12-09T19:59:43.688-05:00","published":"2025-12-09T19:59:43.688-05:00","cssclasses":"","Type":["Fey Realm","Planet"],"Age (years)":6200,"Population":10000,"Affiliation":["None"],"Government":["[[NPCs/Legends/Krampus]]"],"Author":"Jordan","Appearances":["[[16 Kindlethicket - The Winter Hunt|Kindlethicket - The Winter Hunt]]"]}
+publish: true
+aliases: The Yuleshade
+created: 2025-12-09T19:13:43.000-05:00
+modified: 2026-01-16T08:55:00.513-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/yuleshade_forest.png|400]]
 
 # Overview
-- The icy domain of the archfey [[Krampus]], a realm of winter woodlands. As Krampus is a darker reflection of the kindly archfey Santa Claus, there are many twisted versions of things you'd find in Santa's domain, like abandoned toy workshops that pump out terrifying malformed toys.
+- The icy domain of the archfey [[NPCs/Legends/Krampus]], a realm of winter woodlands. As Krampus is a darker reflection of the kindly archfey Santa Claus, there are many twisted versions of things you'd find in Santa's domain, like abandoned toy workshops that pump out terrifying malformed toys.
 - At the center lies his hunting lodge, where he bides his time each year, enlisting seasoned hunters into the yearly Winter Hunt.
 
 # Key Details
@@ -14,7 +18,7 @@
 - **Population**: 10000
 - **Affiliation**: None
 - **Government:** [[NPCs/Legends/Krampus\|Krampus]]
-- **Appearances:** [[Adventures/16 Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]]
+- **Appearances:** [[Adventures/Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]]
 
 # Attributes
 - **Appearance**: Treacherous winter weather, icy cliffs, frozen tundra, and snow-laden forests

@@ -1,8 +1,11 @@
 ---
-{"publish":true,"created":"2025-08-05T13:40:44.000-04:00","modified":"2025-11-10T13:54:12.384-05:00","published":"2025-11-10T13:54:12.384-05:00","cssclasses":"","Author":"Jordan"}
+publish: true
+created: 2025-08-05T13:40:44.000-04:00
+modified: 2026-01-16T08:55:01.106-05:00
+cssclasses: ""
 ---
 
-Handout from [[Adventures/26 The Hellnight Soirée]]
+Handout from [[Adventures/The Hellnight Soirée]]
 
 ## Guests to let in: 
 Do NOT bar entry for these two. Even a *mote* of their powers could ruin this world.

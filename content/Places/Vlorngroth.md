@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-03T09:55:09.000-04:00","modified":"2025-11-03T20:24:08.712-05:00","published":"2025-11-03T20:24:08.712-05:00","cssclasses":"","Type":["Capital City"],"Age (years)":1250,"Population":22000,"Affiliation":["[[Factions/The Vlorn Dynasty]]"],"Government":["[[High Lord Jorad Kranicz]]","The Matron Mothers"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[Adventures/03 Vlorngroth - The Forge of Dingon]]","[[20 Vlorngroth - 2 Manor 2 Madness]]","[[28 Vlorngroth - Vampire Weekday]]"],"Author":"Jordan"}
+publish: true
+created: 2025-10-03T09:55:09.000-04:00
+modified: 2026-01-16T08:55:02.503-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/vlorngroth.png]]
@@ -9,7 +12,7 @@
 - The underground city of Vlorngroth lies beneath the surface world of Selerim, in the cavernous depths of the Underdark, 
 - Light from the phosphorescent Fungal Firmament casts a twilight glow upon the city
 - Vlorngroth has long been the seat of power for [[Factions/The Vlorn Dynasty]], an empire long forgotten by most surface dwellers
-- [[The Vlorn Dynasty]] is a ruthless meritocracy
+- [[Factions/The Vlorn Dynasty]] is a ruthless meritocracy
 
 # Key Details
 - **Type**: Capital City
@@ -17,7 +20,7 @@
 - **Population**: 22000
 - **Affiliation**: [[Factions/The Vlorn Dynasty\|The Vlorn Dynasty]]
 - **Government:** [[High Lord Jorad Kranicz\|High Lord Jorad Kranicz]],The Matron Mothers
-- **Appearances:**  [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/03 Vlorngroth - The Forge of Dingon\|03 Vlorngroth - The Forge of Dingon]],[[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|20 Vlorngroth - 2 Manor 2 Madness]],[[Adventures/28 Vlorngroth - Vampire Weekday\|28 Vlorngroth - Vampire Weekday]]
+- **Appearances:**  [[Adventures/Vlorngroth - The Manor of Madness\|Vlorngroth - The Manor of Madness]],[[Adventures/Vlorngroth - The Forge of Dingon\|Vlorngroth - The Forge of Dingon]],[[Adventures/Vlorngroth - 2 Manor 2 Madness\|Vlorngroth - 2 Manor 2 Madness]],[[Adventures/Vlorngroth - Vampire Weekday\|Vlorngroth - Vampire Weekday]]
 
 # Attributes
 - **Appearance**: 
@@ -30,7 +33,7 @@
 - **Dangers/Secrets**: 
 	- The activities of Vlorngroth's Inquisitors are shrouded in utmost secrecy
 	- The High Lord has been gathering power and support for an all-out surface invasion
-	- The cruel treatment and oppression of the duergar mining class has been covered up: [[03 Vlorngroth - The Forge of Dingon]]
+	- The cruel treatment and oppression of the duergar mining class has been covered up: [[Adventures/Vlorngroth - The Forge of Dingon]]
 - **Points of Interest**: 
 	- Tan'Rin Keep, Seat of [[High Lord Jorad Kranicz]]
 	- Duskveil Asylum, aka The Manor of Madness

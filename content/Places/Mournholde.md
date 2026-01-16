@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Mournholde, City of the Dead","created":"2023-09-20T14:56:26.000-04:00","modified":"2025-12-12T18:43:31.831-05:00","published":"2025-12-12T18:43:31.831-05:00","cssclasses":"","Type":["City of the Dead","Free City"],"Age (years)":130,"Population":7000,"Affiliation":["None"],"Government":["[[Galgitch, The Afterking]]","Mayor Gerard Duck"],"Appearances":["[[04 The Mournholde Incident]]"],"marker":{"mapName":"InteractiveMap","x":920,"y":515,"icon":"game-icons:spooky-house","colour":"orange"},"Author":"Jordan"}
+publish: true
+title: Mournholde, City of the Dead
+created: 2023-09-20T14:56:26.000-04:00
+modified: 2026-01-16T08:55:02.035-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/welcome_to_mournholde.png|500]]
@@ -17,7 +21,7 @@
 - **Population**: 7000
 - **Affiliation**: None
 - **Government:** [[NPCs/Legends/Galgitch, The Afterking\|Galgitch, The Afterking]],Mayor Gerard Duck
-- **Appearances:**  [[Adventures/04 The Mournholde Incident\|04 The Mournholde Incident]]
+- **Appearances:**  [[Adventures/The Mournholde Incident\|The Mournholde Incident]]
 
 # Attributes
 - **Appearance**: Dark, gloomy, gothic

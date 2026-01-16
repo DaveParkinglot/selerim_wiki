@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2023-08-26T23:24:22.000-04:00","modified":"2026-01-06T10:48:16.551-05:00","published":"2026-01-06T10:48:16.551-05:00","cssclasses":"","Author":"Jordan"}
+publish: true
+created: 2023-08-26T23:24:22.000-04:00
+modified: 2026-01-06T10:48:16.551-05:00
+cssclasses: ""
 ---
 
 

@@ -2,7 +2,7 @@
   
 # Introductory Notes
 - This is meant to be a list of suggestions to help you create your very own D&D adventure. 
-- Each section will provide examples from an adventure I already ran ([[Adventures/22 The Crimsonclaw Bounty\|The Crimsonclaw Bounty]]), and also may include a subsection of pointers for DMing in Foundry VTT.
+- Each section will provide examples from an adventure I already ran ([[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]]), and also may include a subsection of pointers for DMing in Foundry VTT.
 - Each section has a recommendation on how much time you should spend on it. I recommend sessions last no more than 3 hours, and you should also keep room for two 5 minute breaks.
 - For your adventure, you might want to swap some of these parts around—your adventure doesn’t need to be ordered the same way that my framework is.
 - This is NOT a Foundry VTT tutorial, you’ll have to get that from somewhere else.

@@ -1,8 +1,11 @@
 ---
-{"publish":true,"created":"2025-08-22T12:56:18.000-04:00","modified":"2025-10-30T11:57:30.476-04:00","published":"2025-10-30T11:57:30.476-04:00","cssclasses":"","Author":"Jordan"}
+publish: true
+created: 2025-08-22T12:56:18.000-04:00
+modified: 2026-01-16T08:55:00.438-05:00
+cssclasses: ""
 ---
 
-Handout for [[Adventures/15 Kindlethicket - Envoys of Mitlin]]
+Handout for [[Adventures/Kindlethicket - Envoys of Mitlin]]
 
 ## Kindlethicket (or, Steamy Fairy Adventures)
 - The Wise Wizards of [[Places/Mitlin]] have sensed a dramatic change in the ley lines of the Tanglewood Peninsula! A new Fey Crossing— where our Material Plane intersects with The Feywild, the Plane of Faerie—has sprung up on the eastern arm of the peninsula, an event that has not happened in generations of elves!

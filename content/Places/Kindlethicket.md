@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Kindlethicket, Fey Crossing","created":"2025-11-02T10:04:59.135-05:00","modified":"2025-12-08T09:06:15.909-05:00","published":"2025-12-08T09:06:15.909-05:00","cssclasses":"","Type":["Fey Crossing"],"Age (years)":1,"Population":200,"Affiliation":["None"],"Government":["The Prince of Lamps and Luminosity"],"marker":{"mapName":"InteractiveMap","x":1700,"y":522,"icon":"game-icons:mushroom-house","colour":"yellow"},"Author":"Jordan","Appearances":["[[15 Kindlethicket - Envoys of Mitlin]]","[[16 Kindlethicket - The Winter Hunt]]","[[Lighting the Lighthouse]]"],"aliases":null}
+publish: true
+title: Kindlethicket, Fey Crossing
+created: 2025-11-02T10:04:59.135-05:00
+modified: 2026-01-16T08:55:00.553-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/kindlethicket.png|600]]
@@ -13,7 +17,7 @@ Kindlethicket is a fey crossing—a location where the Selerim Material Plane in
 - **Population**: 200
 - **Affiliation**: None
 - **Government:** The Prince of Lamps and Luminosity
-- **Appearances:** [[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/16 Kindlethicket - The Winter Hunt\|16 Kindlethicket - The Winter Hunt]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
+- **Appearances:** [[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
 
 # Attributes
 - **Appearance**: 

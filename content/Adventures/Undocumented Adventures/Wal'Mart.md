@@ -1,13 +1,17 @@
 ---
-{"publish":true,"aliases":["Wal'Mart"],"created":"2025-12-17T09:10:20.210-05:00","modified":"2025-12-17T10:45:13.194-05:00","published":"2025-12-17T10:45:13.194-05:00","cssclasses":"","DM":"Brian","Platform":["Foundry"],"Sessions":2,"Start Date":"2025-11-06","End Date":null,"In-World Start Date":null,"In-World End Date":null,"Setting":"Corporate Hellscape","Author":"Jordan","Players":["Austin","Jordan","Bishop","Mike Doom"],"Characters":["Doorman","Boscoviax Duehunter","Ka'Rel Markz","Jaguar"],"Races":["Warforged","Dragonborn","Dwarf","Tabaxi"],"Classes":["Monk","Paladin","Monk","Rogue"]}
+publish: true
+aliases: Wal'Mart
+created: 2025-12-17T09:10:20.210-05:00
+modified: 2025-12-17T10:45:13.194-05:00
+cssclasses: ""
 ---
 
 # Details
 - **DM**: Brian
 - **Platform:** Foundry
 - **Sessions:** 2
-- **Run Dates:** 2025-11-06 - `= dateformat(this["End Date"], "yyyy-MM-dd")`
-- **In-World Dates:** `= this["In-World Start Date"]` - `=  this["In-World End Date"]`
+- **Run Dates:** 2025-11-06 - 
+- **In-World Dates:**  - 
 
 # Adventure Premise
 - Adventure Premise goes here.

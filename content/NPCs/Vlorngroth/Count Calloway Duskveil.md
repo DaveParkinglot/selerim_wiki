@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-09-17T12:03:07.000-04:00","modified":"2025-11-03T20:24:08.695-05:00","published":"2025-11-03T20:24:08.695-05:00","cssclasses":"","Age":"163","Ancestry":["Drow","Vampire"],"Gender":"Male","Location":["[[Vlorngroth]]"],"Role":["Former Inquisitor"],"Affiliation":["None"],"Appearances":["[[20 Vlorngroth - 2 Manor 2 Madness]]","[[28 Vlorngroth - Vampire Weekday]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-09-17T12:03:07.000-04:00
+modified: 2026-01-16T08:55:02.491-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/calloway_duskveil.png|300]]
@@ -18,7 +21,7 @@
 - **Location**: [[Places/Vlorngroth\|Vlorngroth]]
 - **Role**: Former Inquisitor
 - **Affiliation:** None
-- **Appearances:** [[Adventures/20 Vlorngroth - 2 Manor 2 Madness\|20 Vlorngroth - 2 Manor 2 Madness]],[[Adventures/28 Vlorngroth - Vampire Weekday\|28 Vlorngroth - Vampire Weekday]]
+- **Appearances:** [[Adventures/Vlorngroth - 2 Manor 2 Madness\|Vlorngroth - 2 Manor 2 Madness]],[[Adventures/Vlorngroth - Vampire Weekday\|Vlorngroth - Vampire Weekday]]
 - **Status:** Alive
 
 # Attributes

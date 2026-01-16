@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-30T12:07:13.353-04:00","published":"2025-10-30T12:07:13.353-04:00","cssclasses":"","Age":"33","Ancestry":"Hobgoblin","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Bouncer"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:45.000-04:00
+modified: 2026-01-16T08:55:01.638-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/mister_barone.png|300]]
@@ -15,7 +18,7 @@
 - **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Bouncer
 - **Affiliation:** None
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
