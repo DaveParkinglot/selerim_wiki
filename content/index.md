@@ -2,15 +2,15 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-01-16T11:07:36.949-05:00
-published: 2026-01-16T11:07:36.949-05:00
+modified: 2026-01-16T13:18:11.750-05:00
+published: 2026-01-16T13:18:11.750-05:00
 cssclasses: ""
 Author: Jordan
 ---
 
 Wiki page for worldbuilding and lore for the Selerim D&D campaign setting.
 
-*The world of Selerim is ever-changing, inconsistent, and always unfinished. Its histories are neither a science, nor are they exact.*
+*The world of Selerim is ever-changing, inconsistent, and always unfinished. Its histories are neither a science, nor are they exact.* [[Test123#^540697]] [[Test123#Test12345]]
 
 ### Quick-Links:
 - [[Selerim Overview]] - campaign setting overview

@@ -12,14 +12,14 @@
 ## Bingus Combat Example
 > Situation: Sitting at a ramshackle tavern on the side of the road, Bingus orders a 20% IPA but is served a 15% IPA by a small, miserly tavernkeeper. 
 > Bingus decides the tavernkeeper's payment will be the steel of his infamous greatsword, Gargoyle.
-1. When the DM asks, [[How Tos/Foundry VTT Player Basics#How to roll for Initiative\|Roll for Initiative!]] Your Initiative for the combat equals your D20 roll + 2 (your Dexterity modifier).
+1. When the DM asks, roll for Initiative! Your Initiative for the combat equals your D20 roll + 2 (your Dexterity modifier). [[How Tos/Foundry VTT Player Basics#How to roll for Initiative\|How to roll Initiative]]
 2. Wait for your turn...
 3. On your turn, describe to everyone what Bingus does.
 	- e.g., "Entering a drunken Rage, Bingus vaults the bar and unsheathes Gargoyle, recklessly swinging it at the miserly tavernkeeper who dared to serve him a watered down IPA!"
 4. If applicable, move Bingus' token up to 30 ft. toward the miserly tavernkeeper.
 5. Enter a [[How Tos/Foundry VTT Player Basics#How to use a character Feature (e.g., Rage)\|Rage]].
 6. Activate [[How Tos/Foundry VTT Player Basics#How to use a character Feature (e.g., Rage)\|Reckless Attack]] feature to give Bingus Advantage on his attack.
-7. [[How Tos/Foundry VTT Player Basics#How to Target something\|Target]] the miserly tavernkeeper and [[How Tos/Foundry VTT Player Basics#How to roll an Attack\|roll an Attack with Advantage]].
+7. [[How Tos/Foundry VTT Player Basics#How to Target something\|Target]] the miserly tavernkeeper and [[How Tos/Foundry VTT Player Basics#How to roll an Attack\|roll an Attack]].
 8. If the attack hits, [[How Tos/Foundry VTT Player Basics#How to roll Damage\|roll damage]]. Even if the attack misses, Bingus still Grazes his target for 4 damage.
 
 
