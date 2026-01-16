@@ -1,10 +1,34 @@
 ---
 publish: true
-aliases: Scrimshaw The Free City of Scrimshaw
+aliases:
+  - Scrimshaw
+  - The Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T12:30:40.000-04:00
 modified: 2026-01-16T09:19:26.629-05:00
+published: 2026-01-16T09:19:26.629-05:00
 cssclasses: ""
+Type:
+  - Free City
+Age (years): 450
+Population: 18000
+Affiliation:
+  - None
+Government:
+  - "[[Hugh Mann|El Presidente Hugh Mann]]"
+  - "[[Tavernstool]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[Adventures/Arby's Sauce]]"
+  - "[[Spring Cleaning in Scrimshaw City]]"
+  - "[[The Hellnight Soirée]]"
+marker:
+  mapName: InteractiveMap
+  x: 1575
+  y: 410
+  icon: game-icons:medieval-gate
+  colour: blue
+Author: Jordan
 ---
 
 ![[z_assets/scrimshaw_city.png|900]] ![[z_assets/scrimshaw_topdown.webp|700]]

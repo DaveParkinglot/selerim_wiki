@@ -2,13 +2,32 @@
 publish: true
 created: 2025-12-08T11:33:00.000-05:00
 modified: 2026-01-16T08:55:01.981-05:00
+published: 2026-01-16T08:55:01.981-05:00
 cssclasses: ""
+Age: "48"
+Ancestry:
+  - Elf
+Gender: Male
+Location:
+  - "[[Places/Mitlin]]"
+Role:
+  - Merchant
+  - Scryer
+Affiliation:
+  - "[[The High Rollers]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[Kindlethicket - Envoys of Mitlin]]"
+  - "[[The Marrowsucker Contract]]"
+  - "[[Adventures/Lighting the Lighthouse]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/scryer_young.png|300]]
 
 # Overview
-- Business partner of [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]], he works with Bwanson at the magic item shop Jack of Owl Trades in [[Places/Mitlin]].
+- Business partner of [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]], he works with Bwanson at the magic item shop Jack of Owl Trades in [[Mitlin]].
 
 # Key Details
 - **Age**: 48

@@ -2,7 +2,22 @@
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-01-16T08:55:01.362-05:00
+published: 2026-01-16T08:55:01.362-05:00
 cssclasses: ""
+Age: "76"
+Ancestry:
+  - Dwarf
+Gender: Male
+Location:
+  - "[[Scrimshaw City]]"
+Role:
+  - Bodyguard
+Affiliation:
+  - Deepmine Delvings
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/choncho_stonetooth.png|300]]

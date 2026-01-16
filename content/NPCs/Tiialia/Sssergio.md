@@ -2,7 +2,23 @@
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
 modified: 2026-01-16T08:55:01.752-05:00
+published: 2026-01-16T08:55:01.752-05:00
 cssclasses: ""
+Age: "32"
+Ancestry:
+  - Yuan-ti
+Gender: Male
+Location:
+  - "[[Nova Jersaeria]]"
+  - Sewers
+Role:
+  - Account Executive
+Affiliation:
+  - None
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/ssssergio.png|300]]

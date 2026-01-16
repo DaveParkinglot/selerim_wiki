@@ -2,7 +2,10 @@
 publish: true
 created: 2025-08-03T20:44:54.000-04:00
 modified: 2025-12-12T13:20:27.951-05:00
+published: 2025-12-12T13:20:27.951-05:00
 cssclasses: ""
+Date: Sel 20th
+Author: Jordan
 ---
 
 - **Date:** Sel 20th

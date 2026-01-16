@@ -1,9 +1,38 @@
 ---
 publish: true
-aliases: Kindlethicket - The Winter Hunt
+aliases:
+  - Kindlethicket - The Winter Hunt
 created: 2025-07-25T10:08:23.000-04:00
 modified: 2025-12-17T10:20:38.129-05:00
+published: 2025-12-17T10:20:38.129-05:00
 cssclasses: ""
+DM: Jordan
+Platform: In person
+Sessions: 1
+Start Date: 2024-12-20
+In-World Start Date: 264-13-25
+Setting: Selerim
+Author: Jordan
+Players:
+  - Bishop
+  - Laura
+  - Daniel
+  - Mike Doom
+Characters:
+  - Melkar Dragonheart
+  - Clara Biscuit
+  - Creosote Davis
+  - David Hellscream
+Races:
+  - Dragonborn
+  - Warforged
+  - Elf
+  - Orc
+Classes:
+  - Ranger
+  - Bard
+  - Rogue
+  - Fighter
 ---
 
 # Details

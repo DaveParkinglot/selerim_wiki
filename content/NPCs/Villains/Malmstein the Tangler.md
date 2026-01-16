@@ -2,7 +2,22 @@
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-01-16T08:55:01.781-05:00
+published: 2026-01-16T08:55:01.781-05:00
 cssclasses: ""
+Age: "48"
+Ancestry:
+  - Half-Elf
+Gender: Male
+Location:
+  - Tanglewood Peninsula
+Role:
+  - Eco-Terrorist, Druid
+Affiliation:
+  - "[[The Tanglers]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Deceased
+Author: Jordan
 ---
 
 ![[z_assets/malmstein.png|300]]

@@ -1,9 +1,36 @@
 ---
 publish: true
-aliases: Back to the Ship
+aliases:
+  - Back to the Ship
 created: 2025-12-14T09:47:35.000-05:00
 modified: 2025-12-18T07:40:19.650-05:00
+published: 2025-12-18T07:40:19.650-05:00
 cssclasses: ""
+DM: Jordan
+Players:
+  - Mike Doom
+  - Ethan
+  - Brian
+Platform: Foundry
+Sessions: 1
+Start Date: 2025-12-11
+End Date:
+In-World Start Date: 5050-13-20
+In-World End Date:
+Setting: Selerim 5K
+Author: Jordan
+Characters:
+  - Francis "Voidstrider" De Luca
+  - Cran Halcard
+  - Liro Ashe
+Races:
+  - Human
+  - Human
+  - Elf
+Classes:
+  - Cleric
+  - Rogue
+  - Wizard
 ---
 
 ![[z_assets/back_to_the_ship.png|600]]

@@ -1,9 +1,35 @@
 ---
 publish: true
-aliases: The Haunted Flakes Factory
+aliases:
+  - The Haunted Flakes Factory
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:17:19.702-05:00
+published: 2025-12-17T10:17:19.702-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 1
+Start Date: 2024-10-23
+In-World Start Date: 264-10-27
+Setting: Selerim
+Author:
+  - Jordan
+Players:
+  - Peter
+  - Larry
+  - Fisher
+Characters:
+  - Berrymaw Bonetoberious
+  - Shume Lettux
+  - Babu Michaelstein
+Races:
+  - Human
+  - Tortle
+  - Goliath
+Classes:
+  - Warlock
+  - Barbarian
+  - Wizard
 ---
 
 # Details

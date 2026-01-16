@@ -2,7 +2,22 @@
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
 modified: 2026-01-16T08:55:01.735-05:00
+published: 2026-01-16T08:55:01.735-05:00
 cssclasses: ""
+Age: "45"
+Ancestry: Bullywug
+Gender: Male
+Location:
+  - "[[Nova Jersaeria]]"
+  - Sewers
+Role:
+  - Business man, Magic item purveyor
+Affiliation:
+  - None
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/riggle_fragoo.png|300]]

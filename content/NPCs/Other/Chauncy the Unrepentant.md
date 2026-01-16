@@ -2,7 +2,25 @@
 publish: true
 created: 2025-08-12T09:01:12.000-04:00
 modified: 2026-01-16T08:55:01.183-05:00
+published: 2026-01-16T08:55:01.183-05:00
 cssclasses: ""
+Age: "26"
+Ancestry:
+  - Fiend (Devil)
+Gender: Male
+Location:
+  - Carceri, The Prison Plane
+Role:
+  - Betrayer
+  - Hellknight
+Affiliation:
+  - None
+Appearances:
+  - "[[Dunland's Raiders]]"
+  - "[[The High Rollers Campaign]]"
+  - "[[The Hellnight Soirée]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/chauncy_the_unrepentant.png|300]]

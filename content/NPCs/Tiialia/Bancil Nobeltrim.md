@@ -2,7 +2,21 @@
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
 modified: 2026-01-16T08:55:01.697-05:00
+published: 2026-01-16T08:55:01.697-05:00
 cssclasses: ""
+Age: "29"
+Ancestry: Half-Elf
+Gender: Male
+Location:
+  - "[[Places/Nova Jersaeria]]"
+Role:
+  - Former Member of The High Roller, Paladin, Family Guy
+Affiliation:
+  - None
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/bancil_nobeltrim.png|300]]
@@ -16,7 +30,7 @@ cssclasses: ""
 - A paladin of the god of justice, Tyr. Bancil hails from Crillville. 
 - Bancil adventured with The High Rollers for a long while after besting [[Player Characters/The High Rollers/Tadeusz]] in a duel to prove his worth.
 - Bancil, along with the other High Rollers, performed both great and terrible deeds while adventuring.
-- After the adventuring party deposed [[NPCs/Villains/Lord Davos Portnoir]], Bancil travelled with his family [[Places/Nova Jersaeria]] to spread justice and the word of Tyr.
+- After the adventuring party deposed [[NPCs/Villains/Lord Davos Portnoir]], Bancil travelled with his family [[Nova Jersaeria]] to spread justice and the word of Tyr.
 
 # Key Details
 - **Age**: 29

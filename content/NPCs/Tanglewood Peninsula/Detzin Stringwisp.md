@@ -1,9 +1,26 @@
 ---
 publish: true
-aliases: Detzin
+aliases:
+  - Detzin
 created: 2025-11-02T10:33:16.000-05:00
 modified: 2026-01-16T08:55:01.955-05:00
+published: 2026-01-16T08:55:01.955-05:00
 cssclasses: ""
+Age: "42"
+Ancestry:
+  - Wood Elf
+Gender: M
+Location:
+  - "[[Mitlin]]"
+Role:
+  - Bard
+  - Solo Artist
+Affiliation:
+  - "[[Mitlin]]"
+Appearances:
+  - "[[The Marrowsucker Contract]]"
+Status: Alive
+Author: Jordan
 ---
 
 

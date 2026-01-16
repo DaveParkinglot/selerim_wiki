@@ -2,7 +2,10 @@
 publish: true
 created: 2025-12-12T13:25:32.000-05:00
 modified: 2025-12-12T13:27:47.190-05:00
+published: 2025-12-12T13:27:47.190-05:00
 cssclasses: ""
+Date: Khorg 1st - Khorg 15th
+Author: Jordan
 ---
 
 - **Date:** Khorg 1st - Khorg 15th

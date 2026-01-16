@@ -3,7 +3,27 @@ publish: true
 title: Nova Jersaeria, Tiialan Capital
 created: 2025-06-20T09:32:25.000-04:00
 modified: 2026-01-16T08:55:02.540-05:00
+published: 2026-01-16T08:55:02.540-05:00
 cssclasses: ""
+Type:
+  - Capital City
+Age (years): 250
+Population: 95000
+Affiliation:
+  - "[[The Kingdom of Tiialia]]"
+Government: "[[Antonino Esposito|King Antonino Esposito I]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[Giftmas in Nova Jersaeria]]"
+  - "[[The Great Tiialan Heist]]"
+  - "[[Voyage a la Isla Ruz]]"
+marker:
+  mapName: InteractiveMap
+  x: 1095
+  y: 100
+  icon: game-icons:medieval-gate
+  colour: blue
+Author: Jordan
 ---
 
 ![[z_assets/nova_jersaeria.png|800]]

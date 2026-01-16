@@ -2,7 +2,23 @@
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
 modified: 2026-01-16T08:55:02.309-05:00
+published: 2026-01-16T08:55:02.309-05:00
 cssclasses: ""
+Age: "16"
+Ancestry: Human
+Gender: Female
+Location:
+  - "[[The White Grove]]"
+Role:
+  - Student
+  - Freshman
+Affiliation:
+  - None
+Appearances:
+  - "[[The White Grove - First Semester]]"
+  - "[[The White Grove - Summer Vacation]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/vyvian_wynter.png|300]]

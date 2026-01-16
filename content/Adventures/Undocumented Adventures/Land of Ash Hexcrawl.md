@@ -1,9 +1,41 @@
 ---
 publish: true
-aliases: Land of Ash Hexcrawl
+aliases:
+  - Land of Ash Hexcrawl
 created: 2025-12-17T09:17:00.000-05:00
 modified: 2025-12-17T10:45:34.651-05:00
+published: 2025-12-17T10:45:34.651-05:00
 cssclasses: ""
+DM: Bishop
+Players:
+  - Jordan
+  - Ethan
+  - Logan
+  - Kyle
+Platform:
+  - Foundry
+Sessions: 2
+Start Date: 2025-12-02
+End Date:
+In-World Start Date:
+In-World End Date:
+Setting: Unknown
+Author: Jordan
+Characters:
+  - Bryd Cazmere
+  - Jorvak Biggensmash
+  - Jeremiah Norfolk Pippin
+  - Nick Patullo
+Races:
+  - Elf
+  - Human
+  - Elf
+  - Human
+Classes:
+  - Sorcerer
+  - Barbarian
+  - Monk
+  - Druid
 ---
 
 # Details

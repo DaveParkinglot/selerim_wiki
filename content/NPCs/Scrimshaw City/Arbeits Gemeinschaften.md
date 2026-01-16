@@ -2,7 +2,23 @@
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-01-16T09:19:26.581-05:00
+published: 2026-01-16T09:19:26.581-05:00
 cssclasses: ""
+Age: "48"
+Ancestry:
+  - Bugbear
+Gender: Male
+Location:
+  - "[[Scrimshaw City]]"
+Role:
+  - Bouncer, Former Monster Wrangler
+Affiliation:
+  - "[[The High Rollers]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[Adventures/Arby's Sauce]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/arby.png|300]]

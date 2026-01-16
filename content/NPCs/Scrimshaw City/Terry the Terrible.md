@@ -2,7 +2,27 @@
 publish: true
 created: 2025-12-24T09:16:48.076-05:00
 modified: 2026-01-16T09:19:26.614-05:00
+published: 2026-01-16T09:19:26.614-05:00
 cssclasses: ""
+Age: "47"
+Ancestry:
+  - Satyr
+Gender: Male
+Location:
+  - "[[Scrimshaw City]]"
+  - "[[The Spicy Meatball]]"
+Role:
+  - Former Criminal
+  - Head Chef
+Affiliation:
+  - "[[Player Characters/The High Rollers/The High Rollers]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[Adventures/Arby's Sauce]]"
+  - "[[New Dawn - Hellfist Heist|New Dawn - Hellfist Heist]]"
+Status: Alive
+Author: Jordan
+aliases:
 ---
 
 
@@ -10,7 +30,7 @@ cssclasses: ""
 
 # Overview
 - Terry used to run a small time bandit gang in [[Places/Scrimshaw City\|Scrimshaw]], but after kidnapping [[NPCs/Scrimshaw City/Hoary Boulder]] and running afoul of [[Player Characters/The High Rollers/The High Rollers]], his crew was wiped out.
-- After some soul searching, he decided to take a job as sous chef at The Spicy Meatball. He is now head chef, after the disappearance of [[Player Characters/The High Rollers/The High Rollers]].
+- After some soul searching, he decided to take a job as sous chef at The Spicy Meatball. He is now head chef, after the disappearance of [[The High Rollers]].
 
 # Key Details
 - **Age**: 47

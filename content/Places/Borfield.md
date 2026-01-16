@@ -3,7 +3,27 @@ publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T16:13:07.789-05:00
 modified: 2026-01-09T16:42:17.588-05:00
+published: 2026-01-09T16:42:17.588-05:00
 cssclasses: ""
+Type:
+  - Hamlet
+Age (years): 200
+Population: 400
+Affiliation:
+  - None
+Government:
+  - The Harlburs
+  - The Poison Tongues
+Author: Jordan
+Appearances:
+  - None
+marker:
+  mapName: InteractiveMap
+  x: 1700
+  y: 635
+  icon: game-icons:huts-village
+  colour: yellow
+aliases:
 ---
 
 ![[z_assets/borfield.png|600]]

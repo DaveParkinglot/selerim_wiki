@@ -2,7 +2,23 @@
 publish: true
 created: 2025-12-24T08:53:02.346-05:00
 modified: 2026-01-16T08:55:00.713-05:00
+published: 2026-01-16T08:55:00.713-05:00
 cssclasses: ""
+Age: "51"
+Ancestry:
+  - Dwarf
+Gender: Female
+Location:
+  - "[[Places/Scrimshaw City]]"
+Role:
+  - Crime Boss
+Affiliation:
+  - Stonetooth's Scoundrels
+Appearances:
+  - "[[New Dawn - Hellfist Heist]]"
+Status: Alive
+Author: Jordan
+aliases:
 ---
 
 
@@ -29,7 +45,7 @@ cssclasses: ""
 	- Doesn't mind getting her hands dirty
 	- Worships the god Avandra, Lady Luck
 - **Goals**: 
-	- Become rich off of the magic item trade in [[Places/Scrimshaw City]]
+	- Become rich off of the magic item trade in [[Scrimshaw City]]
 	- Run other crews out of The Shanties
 - **Appearance:** Red haired dwarf woman with a scar on her right cheek, wears expensive looking armor and distinctive jewelry
 

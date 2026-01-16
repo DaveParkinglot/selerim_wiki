@@ -1,9 +1,40 @@
 ---
 publish: true
-aliases: The White Grove - Summer Vacation
+aliases:
+  - The White Grove - Summer Vacation
 created: 2025-08-16T21:13:04.000-04:00
 modified: 2026-01-16T08:55:00.632-05:00
+published: 2026-01-16T08:55:00.632-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 4
+Start Date: 2025-08-21
+End Date: 2025-10-15
+In-World Start Date: 265-07-18
+In-World End Date: 265-08-02
+Setting: Selerim
+Author: Jordan
+Players:
+  - Ethan
+  - Mike Doom
+  - Brian
+  - Bishop
+Characters:
+  - Crimslaw Brutefang
+  - Tony Gorgonzoli
+  - The Earl
+  - Sari
+Races:
+  - Orc
+  - Human
+  - Genasi
+  - Elf
+Classes:
+  - Wizard
+  - Wizard
+  - Warlock
+  - Ranger
 ---
 
 # Details

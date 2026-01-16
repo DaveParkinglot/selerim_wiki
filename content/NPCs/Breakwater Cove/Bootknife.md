@@ -2,7 +2,22 @@
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-01-16T08:55:00.238-05:00
+published: 2026-01-16T08:55:00.238-05:00
 cssclasses: ""
+Age: "37"
+Ancestry: Goblin
+Gender: Male
+Location:
+  - Breakwater Cove
+  - Varies
+Role:
+  - Roguish Fiend, Thief, Part-time Merchant
+Affiliation:
+  - None
+Appearances:
+  - "[[Adventures/Bootknife's Bounty]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/bootknife.png|300]]

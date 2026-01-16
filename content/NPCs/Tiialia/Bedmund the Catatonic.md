@@ -2,7 +2,22 @@
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
 modified: 2026-01-16T08:55:02.438-05:00
+published: 2026-01-16T08:55:02.438-05:00
 cssclasses: ""
+Age: "57"
+Ancestry: Deep Gnome
+Gender: Male
+Location:
+  - The Esposito Vineyard
+Role:
+  - Sleepy Wizard
+Affiliation:
+  - "[[The High Rollers]]"
+Appearances:
+  - "[[Vlorngroth - The Manor of Madness]]"
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/bedmund_the_catatonic.png|300]]

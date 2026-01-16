@@ -62,6 +62,13 @@
 
 ![[z_assets/bingus11.png]]
 
+## How to roll Damage
+- After you roll an Attack, the DM tells you if you hit or missed.
+- If you hit, you proceed to click the Damage chat card button.
+- After you click the Damage button, a dialog box will pop up. Click Normal, or Critical Hit if you rolled a 20 on the Attack.
+
+![[z_assets/bingus25.png]]     ![[z_assets/bingus26.png]]
+
 ## How to roll a Skill Check (e.g., Perception)
 - Option 1 (Sidebar Shortcut): In the Sheet tab, click the Skills tab on the left sidebar and then click the skill. In this case, Perception.
 

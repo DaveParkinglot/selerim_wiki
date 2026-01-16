@@ -2,14 +2,31 @@
 publish: true
 created: 2026-01-02T15:31:31.000-05:00
 modified: 2026-01-16T08:55:01.511-05:00
+published: 2026-01-16T08:55:01.511-05:00
 cssclasses: ""
+Age: "32"
+Ancestry:
+  - Orc
+Gender: Female
+Location:
+  - "[[Places/Scrimshaw City]]"
+Role:
+  - Former Gangster
+  - Private Security
+Affiliation:
+  - None
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[New Dawn - Hellfist Heist]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/zagga_darlington.png|300]]
 
 # Overview
 - Private security sellsword who was hired to guard [[NPCs/Scrimshaw City/Arno Rickshir]]'s empty Boldriver Pawn Shop while he ran his traveling magic shop in the [[Places/Tanglewood Peninsula\|Tanglewood]].
-- Before setting sail for [[Places/Scrimshaw City]], she was involved in a gang in [[Places/Nova Jersaeria]].
+- Before setting sail for [[Scrimshaw City]], she was involved in a gang in [[Places/Nova Jersaeria]].
 
 # Key Details
 - **Age**: 32

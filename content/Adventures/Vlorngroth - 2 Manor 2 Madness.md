@@ -1,9 +1,42 @@
 ---
 publish: true
-aliases: Vlorngroth - 2 Manor 2 Madness
+aliases:
+  - Vlorngroth - 2 Manor 2 Madness
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:26:02.512-05:00
+published: 2025-12-17T10:26:02.512-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 1
+Start Date: 2025-04-02
+In-World Start Date: 265-03-23
+Setting: Selerim
+Author: Jordan
+Players:
+  - Peter
+  - Laura
+  - Mike Doom
+  - Leah
+  - Michael
+Characters:
+  - Pedgar Barkov
+  - Meldryd the Babysitter
+  - The Darkness
+  - Misty Dyrt
+  - Bidet
+Races:
+  - Drow
+  - Drow
+  - Drow
+  - Duergar
+  - Deep Gnome
+Classes:
+  - Rogue
+  - Ranger
+  - Warlock
+  - Druid
+  - Rogue
 ---
 
 # Details

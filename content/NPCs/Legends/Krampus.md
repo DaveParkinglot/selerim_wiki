@@ -1,16 +1,33 @@
 ---
 publish: true
-aliases: The Winter Huntsman
+aliases:
+  - The Winter Huntsman
 created: 2025-12-09T19:17:17.000-05:00
 modified: 2026-01-16T08:55:00.455-05:00
+published: 2026-01-16T08:55:00.455-05:00
 cssclasses: ""
+Age: "6500"
+Ancestry:
+  - Archfey
+Gender: Male
+Location:
+  - "[[Places/Yuleshade]]"
+Role:
+  - Archfey
+  - Winter Huntsman
+Affiliation:
+  - None
+Appearances:
+  - "[[Kindlethicket - The Winter Hunt]]"
+Status: Alive
+Author: Jordan
 ---
 
 
 ![[z_assets/krampus.png|300]]
 
 # Overview
-- Krampus is an archfey who resides mainly in the [[Places/Yuleshade]].
+- Krampus is an archfey who resides mainly in the [[Yuleshade]].
  - Archfey Krampus' domains of influence:
 	- Krampus oversees the enforcement of laws and moral contracts. He ensures those who break their word, act selfishly, or abuse hospitality are dealt with severely but also believes in the possibility of redemption through trials and penance.
 	- As a counterpart to the more cheerful aspects of winter, Krampus represents the cold, harsh lessons the season brings: scarcity, hardship, and the reckoning of debts. He embodies the "other side" of Giftmas, ensuring excess and greed are punished while humility and generosity are rewarded.

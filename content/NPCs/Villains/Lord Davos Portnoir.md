@@ -2,7 +2,22 @@
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-01-16T08:55:01.769-05:00
+published: 2026-01-16T08:55:01.769-05:00
 cssclasses: ""
+Age: "347"
+Ancestry:
+  - Devil
+Gender: Male
+Location:
+  - Dead
+Role:
+  - Former El Presidente
+Affiliation:
+  - "[[Tavernstool]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Deceased
+Author: Jordan
 ---
 
 ![[z_assets/lord_davos_portnoir_human.jpg|200]] ![[z_assets/lord_davos_portnoir_devil.png|300]]

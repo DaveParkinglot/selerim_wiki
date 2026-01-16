@@ -2,7 +2,21 @@
 publish: true
 created: 2025-08-26T23:27:19.000-04:00
 modified: 2026-01-16T08:55:00.982-05:00
+published: 2026-01-16T08:55:00.982-05:00
 cssclasses: ""
+Age: "45"
+Ancestry:
+  - Human
+Gender: Male
+Location:
+  - "[[Nova Jersaeria]]"
+  - Batista Family Manor
+Role: Conman, Crime affiliate
+Affiliation: Batiste Family
+Appearances:
+  - "[[The Great Tiialan Heist]]"
+Status: Alive
+Author: Ethan
 ---
 
 ![[z_assets/falsus_omnibus.png|300]]

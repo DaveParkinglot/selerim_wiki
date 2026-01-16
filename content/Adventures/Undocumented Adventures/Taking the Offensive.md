@@ -1,9 +1,40 @@
 ---
 publish: true
-aliases: Taking the Offensive
+aliases:
+  - Taking the Offensive
 created: 2025-12-17T09:10:20.210-05:00
 modified: 2025-12-18T07:40:42.898-05:00
+published: 2025-12-18T07:40:42.898-05:00
 cssclasses: ""
+DM: Bishop
+Platform: Foundry
+Sessions: 1
+Start Date: 2025-01-14
+End Date:
+In-World Start Date:
+In-World End Date:
+Setting: Selerim
+Author: Jordan
+Players:
+  - Jordan
+  - Ethan
+  - Tim
+  - Brian
+Characters:
+  - Montius "Monty" Landucci
+  - Beebon Gluv
+  - Fenro "Tiny" Johnson
+  - Swampy Moonshine
+Races:
+  - Human
+  - Human
+  - Firbolg
+  - Satyr
+Classes:
+  - Fighter
+  - Cleric
+  - Cleric
+  - Druid
 ---
 
 # Details

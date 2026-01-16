@@ -2,7 +2,9 @@
 publish: true
 created: 2025-07-27T17:15:45.000-04:00
 modified: 2026-01-16T09:00:47.586-05:00
+published: 2026-01-16T09:00:47.586-05:00
 cssclasses: ""
+Author: Jordan
 ---
 
 # Selerim Adventures
@@ -20,7 +22,7 @@ cssclasses: ""
 | [[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]]                           | 264-09-05             | May 14, 2025                          | Jordan    | <ul><li>Ethan</li><li>Devin</li><li>Mike Doom</li></ul>                                                            | Foundry                                  | Selerim    |
 | [[Adventures/Spring Cleaning in Scrimshaw City\|Spring Cleaning in Scrimshaw City]]     | 265-04-15             | May 01, 2025                          | Jordan    | <ul><li>Mike Doom</li><li>Laura</li><li>Brian</li></ul>                                                            | Foundry                                  | Selerim    |
 | [[Adventures/Vlorngroth - 2 Manor 2 Madness\|Vlorngroth - 2 Manor 2 Madness]]           | 265-03-23             | April 02, 2025                        | Jordan    | <ul><li>Peter</li><li>Laura</li><li>Mike Doom</li><li>Leah</li><li>Michael</li></ul>                               | Foundry                                  | Selerim    |
-| [[Adventures/Undocumented Adventures/Selerim 5K\|Selerim 5K]]                           | \-                    | March 12, 2025 - July 02, 2025        | Mike Doom | <ul><li>Bishop</li><li>Bishop</li><li>Ethan</li><li>Jordan</li><li>Kyle</li></ul>                                  | Foundry                                  | Selerim 5K |
+| [[Adventures/Undocumented Adventures/Selerim 5K\|Selerim 5K]]                           | \-                    | March 12, 2025 - July 02, 2025        | Mike Doom | <ul><li>Bishop</li><li>Bishop</li><li>Ethan</li><li>Jordan</li><li>Kyle</li><li>Laura</li></ul>                    | Foundry                                  | Selerim 5K |
 | [[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]]                     | 264-08-16             | February 12, 2025                     | Jordan    | <ul><li>Brian</li><li>Laura</li><li>Mike Doom</li><li>Peter</li></ul>                                              | Foundry                                  | Selerim    |
 | [[Adventures/Morganth's LEGION OF DOOM\|Morganth's LEGION OF DOOM]]                     | 264-07-03 - 264-07-14 | January 22, 2025 - January 29, 2025   | Jordan    | <ul><li>Kyle</li><li>Laura</li><li>Mike Doom</li><li>Ethan</li></ul>                                               | Foundry                                  | Selerim    |
 | [[Adventures/Undocumented Adventures/Taking the Offensive\|Taking the Offensive]]       | \-                    | January 14, 2025                      | Bishop    | <ul><li>Jordan</li><li>Ethan</li><li>Tim</li><li>Brian</li></ul>                                                   | Foundry                                  | Selerim    |

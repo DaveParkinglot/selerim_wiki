@@ -1,9 +1,34 @@
 ---
 publish: true
-aliases: Spring Cleaning in Scrimshaw City
+aliases:
+  - Spring Cleaning in Scrimshaw City
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:27:17.855-05:00
+published: 2025-12-17T10:27:17.855-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 1
+Start Date: 2025-05-01
+In-World Start Date: 265-04-15
+Setting: Selerim
+Author: Jordan
+Players:
+  - Mike Doom
+  - Laura
+  - Brian
+Characters:
+  - David Hellscream
+  - Bianca “Mad Dog” Bianchi
+  - Colin Forbackup
+Races:
+  - Orc
+  - Goliath
+  - Orc
+Classes:
+  - Fighter
+  - Warlock
+  - Cleric
 ---
 
 # Details

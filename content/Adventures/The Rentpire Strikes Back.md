@@ -1,9 +1,39 @@
 ---
 publish: true
-aliases: The Rentpire Strikes Back
+aliases:
+  - The Rentpire Strikes Back
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:16:29.402-05:00
+published: 2025-12-17T10:16:29.402-05:00
 cssclasses: ""
+DM: Jordan
+Platform: Foundry
+Sessions: 1
+Start Date: 2024-09-12
+In-World Start Date: 264-06-23
+In-World End Date: 264-06-27
+Setting: Selerim
+Author: Jordan
+Players:
+  - Michael
+  - Bishop
+  - Mike Doom
+  - Bucher
+Characters:
+  - Bru Ski
+  - Elenda Duskwood
+  - Curly
+  - Tumeighto Nose
+Races:
+  - Harengon
+  - Elf
+  - Human
+  - Half-Orc
+Classes:
+  - Monk
+  - Rogue
+  - Fighter
+  - Barbarian
 ---
 
 # Details

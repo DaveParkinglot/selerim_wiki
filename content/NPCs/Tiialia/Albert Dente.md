@@ -2,14 +2,30 @@
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
 modified: 2026-01-16T08:55:01.685-05:00
+published: 2026-01-16T08:55:01.685-05:00
 cssclasses: ""
+Age: "74"
+Ancestry: Human
+Gender: Male
+Location:
+  - The Esposito Vineyard
+  - "[[Places/Nova Jersaeria]]"
+Role:
+  - Butler
+Affiliation:
+  - "[[The High Rollers]]"
+  - "[[Factions/The Kingdom of Tiialia/Esposito Family]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
 ---
 
 ![[z_assets/albert_dente.png|300]]
 
 # Overview
-- An old timey butler from [[Places/Nova Jersaeria]].
-- His family has served the [[Factions/The Kingdom of Tiialia/Esposito Family]] for generations. An age-old bargain between the [[Factions/The Kingdom of Tiialia/Esposito Family]] and the Dentes states that the Espositos pay for passage aboard the [[Worldbuilding/Lore/Necronaut of Mournholde]] when a Dente who has loyally served them reaches the age of 75.
+- An old timey butler from [[Nova Jersaeria]].
+- His family has served the [[Factions/The Kingdom of Tiialia/Esposito Family]] for generations. An age-old bargain between the [[Esposito Family]] and the Dentes states that the Espositos pay for passage aboard the [[Worldbuilding/Lore/Necronaut of Mournholde]] when a Dente who has loyally served them reaches the age of 75.
 - This bargain was struck between Albert's great great great great grandfather, Albert, and the progenitor of the Esposito family, Quintino
 - This practice has withstood the test of time, and there are now several generations of Dentes living in [[Places/Mournholde]].
 - He has a daughter named Allie (short for Alberta) who lives in the countryside working as a cleric of the god Selune.

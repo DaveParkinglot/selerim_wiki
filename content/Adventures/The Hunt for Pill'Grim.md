@@ -1,9 +1,42 @@
 ---
 publish: true
-aliases: The Hunt for Pill'Grim
+aliases:
+  - The Hunt for Pill'Grim
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2025-12-17T10:08:44.287-05:00
+published: 2025-12-17T10:08:44.287-05:00
 cssclasses: ""
+DM: Jordan
+Platform: In person
+Sessions: 1
+Start Date: 2023-11-25
+In-World Start Date: 263-11-25
+Setting: Selerim
+Author: Jordan
+Players:
+  - Peter
+  - Leah
+  - Evan
+  - Alex
+  - Mike Doom
+Characters:
+  - Thurney Snooper
+  - Unknown
+  - Unknown
+  - Green B. Casserole
+  - Frosty, the Old Salt
+Races:
+  - Human
+  - Unknown
+  - Unknown
+  - Goblin
+  - Human
+Classes:
+  - Warlock
+  - Unknown
+  - Unknown
+  - Fighter
+  - Cleric
 ---
 
 # Details

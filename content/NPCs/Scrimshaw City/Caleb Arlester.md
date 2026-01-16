@@ -2,7 +2,23 @@
 publish: true
 created: 2025-12-24T09:05:08.273-05:00
 modified: 2026-01-16T08:55:00.698-05:00
+published: 2026-01-16T08:55:00.698-05:00
 cssclasses: ""
+Age: "33"
+Ancestry:
+  - Half Elf
+Gender: Male
+Location:
+  - "[[Places/Scrimshaw City]]"
+Role:
+  - Professional Thief
+Affiliation:
+  - None
+Appearances:
+  - "[[New Dawn - Hellfist Heist]]"
+Status: Alive
+Author: Jordan
+aliases:
 ---
 
 
@@ -33,7 +49,7 @@ cssclasses: ""
 	- Smooth and charismatic
 	- Cares for his immediate crew and those in his employ
 - **Goals**: 
-	- Make enough in [[Places/Scrimshaw City]] to expand his crew into the Tiialan capital city [[Places/Nova Jersaeria]]
+	- Make enough in [[Scrimshaw City]] to expand his crew into the Tiialan capital city [[Places/Nova Jersaeria]]
 	- No more small time gigs
 - **Appearance:** Handsome blonde, tall, somehow always has 5 o'clock shadow but never shaves
 
