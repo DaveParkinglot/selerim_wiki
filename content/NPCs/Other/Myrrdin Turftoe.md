@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-11-04T20:35:57.836-05:00","published":"2025-11-04T20:35:57.836-05:00","cssclasses":"","Age":"286","Ancestry":"Halfling","Gender":"Male","Location":["[[Places/The Wild Thicket]]"],"Role":["Archdruid, Mentor"],"Affiliation":["The Circle of the Thicket"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:01.196-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/myrrdin_turftoe.png|300]]
@@ -20,14 +23,14 @@
 - **Location**: [[Places/The Wild Thicket\|The Wild Thicket]]
 - **Role**: Archdruid, Mentor
 - **Affiliation:** The Circle of the Thicket
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
 - **Voice**: 
 - **Traits**: 
 - **Goals:** 
-	- Protect [[The Wild Thicket]]
+	- Protect [[Places/The Wild Thicket]]
 	- Banish [[NPCs/Other/Tzastis the Collector]]
 - **Appearance**: 
 

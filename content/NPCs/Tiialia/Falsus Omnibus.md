@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-08-26T23:27:19.000-04:00","modified":"2026-01-06T10:50:47.827-05:00","published":"2026-01-06T10:50:47.827-05:00","cssclasses":"","Age":"45","Ancestry":["Human"],"Gender":"Male","Location":["[[Nova Jersaeria]]","Batista Family Manor"],"Role":"Conman, Crime affiliate","Affiliation":"Batiste Family","Appearances":["[[23 The Great Tiialan Heist]]"],"Status":"Alive","Author":"Ethan"}
+publish: true
+created: 2025-08-26T23:27:19.000-04:00
+modified: 2026-01-16T08:55:00.982-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/falsus_omnibus.png|300]]
@@ -14,7 +17,7 @@ It seems that, while Falsus Omnibus in theory serves the [[Factions/The Kingdom 
 - **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],Batista Family Manor
 - **Role**: Conman, Crime affiliate
 - **Affiliation:** Batiste Family
-- **Appearances:** [[Adventures/23 The Great Tiialan Heist\|23 The Great Tiialan Heist]]
+- **Appearances:** [[Adventures/The Great Tiialan Heist\|The Great Tiialan Heist]]
 - **Status:** Alive
 
 # Attributes

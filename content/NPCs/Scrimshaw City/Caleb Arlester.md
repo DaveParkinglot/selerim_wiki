@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-24T09:05:08.273-05:00","modified":"2026-01-06T08:41:41.580-05:00","published":"2026-01-06T08:41:41.580-05:00","cssclasses":"","Age":"33","Ancestry":["Half Elf"],"Gender":"Male","Location":["[[Places/Scrimshaw City]]"],"Role":["Professional Thief"],"Affiliation":["None"],"Appearances":["[[31 New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan","aliases":null}
+publish: true
+created: 2025-12-24T09:05:08.273-05:00
+modified: 2026-01-16T08:55:00.698-05:00
+cssclasses: ""
 ---
 
 
@@ -19,7 +22,7 @@
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Professional Thief
 - **Affiliation:** None
-- **Appearances:** [[Adventures/31 New Dawn - Hellfist Heist\|31 New Dawn - Hellfist Heist]]
+- **Appearances:** [[Adventures/New Dawn - Hellfist Heist\|New Dawn - Hellfist Heist]]
 - **Status:** Alive
 
 # Attributes
@@ -30,7 +33,7 @@
 	- Smooth and charismatic
 	- Cares for his immediate crew and those in his employ
 - **Goals**: 
-	- Make enough in [[Scrimshaw City]] to expand his crew into the Tiialan capital city [[Places/Nova Jersaeria]]
+	- Make enough in [[Places/Scrimshaw City]] to expand his crew into the Tiialan capital city [[Places/Nova Jersaeria]]
 	- No more small time gigs
 - **Appearance:** Handsome blonde, tall, somehow always has 5 o'clock shadow but never shaves
 

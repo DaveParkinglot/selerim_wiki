@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-10-22T08:02:28.000-04:00","modified":"2026-01-06T10:48:18.308-05:00","published":"2026-01-06T10:48:18.308-05:00","cssclasses":"","Age":"32","Ancestry":"Tiialian","Gender":"Male","Location":["[[Nova Jersaeria]]","Isla Ruz"],"Role":"Head of Ruz Family","Affiliation":"Ruz Family","Appearances":["[[23 The Great Tiialan Heist]]","[[25 Voyage a la Isla Ruz]]"],"Status":"Alive","Author":"Ethan"}
+publish: true
+created: 2025-10-22T08:02:28.000-04:00
+modified: 2026-01-16T08:55:02.529-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/alejandro_ruz.png|300]]
@@ -14,7 +17,7 @@ The young head of the [[Factions/The Kingdom of Tiialia/Ruz Family]]. Mystery su
 - **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],Isla Ruz
 - **Role**: Head of Ruz Family
 - **Affiliation:** Ruz Family
-- **Appearances:** [[Adventures/23 The Great Tiialan Heist\|23 The Great Tiialan Heist]],[[Adventures/25 Voyage a la Isla Ruz\|25 Voyage a la Isla Ruz]]
+- **Appearances:** [[Adventures/The Great Tiialan Heist\|The Great Tiialan Heist]],[[Adventures/Voyage a la Isla Ruz\|Voyage a la Isla Ruz]]
 - **Status:** Alive
 
 # Attributes

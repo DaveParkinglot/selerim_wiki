@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-12-14T10:13:17.750-05:00","published":"2025-12-14T10:13:17.750-05:00","cssclasses":"","Age":"34","Ancestry":"Half-Giant","Gender":"Male","Location":["[[Crillville]]"],"Role":["Paladin, Commander of the CDF"],"Affiliation":["Crillville Defense Force (CDF)"],"Appearances":["[[00 The High Rollers Campaign]]","[[10 The Lost Archives of Wigglestaff]]","[[12 The Rentpire Strikes Back]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-01-16T08:55:02.053-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/dick_gunbarrel.png|300]]
@@ -15,7 +18,7 @@
 - **Location**: [[Places/Crillville\|Crillville]]
 - **Role**: Paladin, Commander of the CDF
 - **Affiliation:** Crillville Defense Force (CDF)
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/10 The Lost Archives of Wigglestaff\|10 The Lost Archives of Wigglestaff]],[[Adventures/12 The Rentpire Strikes Back\|12 The Rentpire Strikes Back]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/The Lost Archives of Wigglestaff\|The Lost Archives of Wigglestaff]],[[Adventures/The Rentpire Strikes Back\|The Rentpire Strikes Back]]
 - **Status:** Alive
 
 # Attributes

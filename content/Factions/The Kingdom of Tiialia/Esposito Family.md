@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2023-08-26T23:33:28.000-04:00","modified":"2026-01-06T10:50:13.195-05:00","published":"2026-01-06T10:50:13.195-05:00","cssclasses":"","Author":"Jordan"}
+publish: true
+created: 2023-08-26T23:33:28.000-04:00
+modified: 2026-01-06T10:50:13.195-05:00
+cssclasses: ""
 ---
 
 - All but wiped out after the Midsummer Massacre, when the Espositos were betrayed and killed en masse by [[The Fanto-Domingo Family]]

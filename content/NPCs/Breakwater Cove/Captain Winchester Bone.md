@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-11-03T20:24:08.291-05:00","published":"2025-11-03T20:24:08.291-05:00","cssclasses":"","Age":"66","Ancestry":"Human","Gender":"Male","Location":["Breakwater Cove"],"Role":["Bartender, Retired Captain"],"Affiliation":["None"],"Appearances":["[[07 The Hidden Hoard of Winchester Bone]]","[[09 Sharky's Revenge]]","[[14 Bootknife's Bounty]]","[[22 The Crimsonclaw Bounty]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:01.116-05:00
+cssclasses: ""
 ---
 
 
@@ -23,7 +26,7 @@ Once a renowned pirate captain, he now owns Bone Tavern in [[Places/Breakwater C
 - **Location**: Breakwater Cove
 - **Role**: Bartender, Retired Captain
 - **Affiliation:** None
-- **Appearances:** [[Adventures/07 The Hidden Hoard of Winchester Bone\|07 The Hidden Hoard of Winchester Bone]],[[Adventures/09 Sharky's Revenge\|09 Sharky's Revenge]],[[Adventures/14 Bootknife's Bounty\|14 Bootknife's Bounty]],[[Adventures/22 The Crimsonclaw Bounty\|22 The Crimsonclaw Bounty]]
+- **Appearances:** [[Adventures/The Hidden Hoard of Winchester Bone\|The Hidden Hoard of Winchester Bone]],[[Adventures/Sharky's Revenge\|Sharky's Revenge]],[[Adventures/Bootknife's Bounty\|Bootknife's Bounty]],[[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]]
 - **Status:** Alive
 
 # Attributes

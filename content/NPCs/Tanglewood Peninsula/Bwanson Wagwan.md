@@ -1,11 +1,14 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-12-09T19:33:02.579-05:00","published":"2025-12-09T19:33:02.579-05:00","cssclasses":"","Age":"24","Ancestry":"Owlin","Gender":"Male","Location":["[[Mitlin]]"],"Role":["Former Adventurer","Druid","Merchant"],"Affiliation":["[[Player Characters/The High Rollers/The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[15 Kindlethicket - Envoys of Mitlin]]","[[19 The Marrowsucker Contract]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-01-16T08:55:01.949-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/bwanson_wagwan.png|300]]
 
 # Overview
-- Bwanson adventured with [[The High Rollers]] during their time on the Tanglewood Peninsula.
+- Bwanson adventured with [[Player Characters/The High Rollers/The High Rollers]] during their time on the Tanglewood Peninsula.
 - He settled down to start his magic shop Jack of Owl Trades in Mitlin with his business partner Scryer Young.
 
 # Key Details
@@ -15,7 +18,7 @@
 - **Location**: [[Places/Mitlin\|Mitlin]]
 - **Role**: Former Adventurer,Druid,Merchant
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/15 Kindlethicket - Envoys of Mitlin\|15 Kindlethicket - Envoys of Mitlin]],[[Adventures/19 The Marrowsucker Contract\|19 The Marrowsucker Contract]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]]
 - **Status:** Alive
 
 # Attributes

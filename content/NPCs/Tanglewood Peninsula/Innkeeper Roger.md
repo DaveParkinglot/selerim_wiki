@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-11-03T20:24:08.317-05:00","published":"2025-11-03T20:24:08.317-05:00","cssclasses":"","Age":"56","Ancestry":"Human","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Inkeeper, Small Business Owner"],"Affiliation":["[[Crabbley Council]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[22 The Crimsonclaw Bounty]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-01-16T08:55:01.615-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/innkeeper_roger.png|300]]
@@ -15,7 +18,7 @@
 - **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Inkeeper, Small Business Owner
 - **Affiliation:** [[Crabbley Council\|Crabbley Council]]
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/22 The Crimsonclaw Bounty\|22 The Crimsonclaw Bounty]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]]
 - **Status:** Alive
 
 # Attributes

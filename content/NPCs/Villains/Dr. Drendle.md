@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-12-12T08:07:29.000-05:00","published":"2025-12-12T08:07:29.000-05:00","cssclasses":"","Age":"52","Ancestry":["Undead Human"],"Gender":"Male","Location":["Dead"],"Role":["Necro-Alchemist","Plaguemancer"],"Affiliation":["[[NPCs/Villains/Master Effree Jypstein]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:01.758-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/dr_drendle.png|300]]
@@ -16,7 +19,7 @@
 - **Location**: Dead
 - **Role**: Necro-Alchemist,Plaguemancer
 - **Affiliation:** [[NPCs/Villains/Master Effree Jypstein\|Master Effree Jypstein]]
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Deceased
 
 # Attributes
@@ -29,4 +32,4 @@
 
 | Name                       | Relationship |
 | -------------------------- | ------------ |
-| [[Master Effree Jypstein]] | Master       |
+| [[NPCs/Villains/Master Effree Jypstein]] | Master       |

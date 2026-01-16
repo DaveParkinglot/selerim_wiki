@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:10:39.246-04:00","published":"2025-10-30T12:10:39.246-04:00","cssclasses":"","Age":"??","Ancestry":"Marut","Gender":"N/A","Location":["Sigil, City of Doors"],"Role":["Unbiased, Unstoppable Machine of Death","Marut of The Primus"],"Affiliation":["The Primus"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:01.169-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/baj_the_unerring.png|300]]
@@ -16,7 +19,7 @@
 - **Location**: Sigil, City of Doors
 - **Role**: Unbiased, Unstoppable Machine of Death,Marut of The Primus
 - **Affiliation:** The Primus
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes

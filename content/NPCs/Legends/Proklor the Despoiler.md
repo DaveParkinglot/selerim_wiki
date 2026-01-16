@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:10:45.732-04:00","published":"2025-10-30T12:10:45.732-04:00","cssclasses":"","Age":"??","Ancestry":"Drow, Draegloth","Gender":"Male","Location":["[[Vlorngroth]]"],"Role":["Villain","Destroyer of Worlds"],"Affiliation":["[[Vlorngroth]]"],"Appearances":["[[02 Vlorngroth - The Manor of Madness]]","[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:02.425-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/proklor_the_despoiler.png|300]]
@@ -9,7 +12,7 @@
 - He was plucked from his cradle by Lolth herself, and turned into a draegloth thousands of years ago
 - Until recently he resided in Demonweb layer of the abyss with his goddess Lolth
 - Lolth only breaks him out for special occasions, lending his services to drow on worlds where she wants a favor
-- Summoned by a group of Vlorn inquisitor initiates during the events of [[Adventures/02 Vlorngroth - The Manor of Madness\|Vlorngroth - The Manor of Madness]].
+- Summoned by a group of Vlorn inquisitor initiates during the events of [[Adventures/Vlorngroth - The Manor of Madness\|Vlorngroth - The Manor of Madness]].
 - He has a spiritual shard of [[Worldbuilding/Lore/Tharizdun, the Chained Oblivion]] contained within him, which is what gives him all his powers
 
 # Key Details
@@ -19,7 +22,7 @@
 - **Location**: [[Places/Vlorngroth\|Vlorngroth]]
 - **Role**: Villain,Destroyer of Worlds
 - **Affiliation:** [[Places/Vlorngroth\|Vlorngroth]]
-- **Appearances:** [[Adventures/02 Vlorngroth - The Manor of Madness\|02 Vlorngroth - The Manor of Madness]],[[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness\|Vlorngroth - The Manor of Madness]],[[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 
 # Attributes
 - **Voice**: Deep, powerful, mean and Australian

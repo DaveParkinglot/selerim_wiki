@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:09:53.497-04:00","published":"2025-10-30T12:09:53.497-04:00","cssclasses":"","Age":"48","Ancestry":["Bugbear"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bouncer, Former Monster Wrangler"],"Affiliation":["[[The High Rollers]]"],"Appearances":["[[00 The High Rollers Campaign]]","[[08 Arby's Sauce]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T09:19:26.581-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/arby.png|300]]
@@ -16,7 +19,7 @@
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Bouncer, Former Monster Wrangler
 - **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/08 Arby's Sauce\|08 Arby's Sauce]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Arby's Sauce\|Arby's Sauce]]
 - **Status:** Alive
 
 # Attributes

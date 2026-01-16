@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-11-02T08:58:55.643-05:00","published":"2025-11-02T08:58:55.643-05:00","cssclasses":"","Age":"49","Ancestry":"Rhinoan","Gender":"Male","Location":["Oasis"],"Role":["Former Adventurer, Leader of The Rough Riders"],"Affiliation":["The Rough Riders"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-01-16T08:55:01.534-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/blackhorn_the_barbarian.png|300]]
@@ -14,7 +17,7 @@
 - **Location**: Oasis
 - **Role**: Former Adventurer, Leader of The Rough Riders
 - **Affiliation:** The Rough Riders
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes

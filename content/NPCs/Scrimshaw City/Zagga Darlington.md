@@ -1,12 +1,15 @@
 ---
-{"publish":true,"created":"2026-01-02T15:31:31.000-05:00","modified":"2026-01-06T08:42:33.696-05:00","published":"2026-01-06T08:42:33.696-05:00","cssclasses":"","Age":"32","Ancestry":["Orc"],"Gender":"Female","Location":["[[Places/Scrimshaw City]]"],"Role":["Former Gangster","Private Security"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]","[[31 New Dawn - Hellfist Heist]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2026-01-02T15:31:31.000-05:00
+modified: 2026-01-16T08:55:01.511-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/zagga_darlington.png|300]]
 
 # Overview
 - Private security sellsword who was hired to guard [[NPCs/Scrimshaw City/Arno Rickshir]]'s empty Boldriver Pawn Shop while he ran his traveling magic shop in the [[Places/Tanglewood Peninsula\|Tanglewood]].
-- Before setting sail for [[Scrimshaw City]], she was involved in a gang in [[Places/Nova Jersaeria]].
+- Before setting sail for [[Places/Scrimshaw City]], she was involved in a gang in [[Places/Nova Jersaeria]].
 
 # Key Details
 - **Age**: 32
@@ -15,7 +18,7 @@
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Former Gangster,Private Security
 - **Affiliation:** None
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/31 New Dawn - Hellfist Heist\|31 New Dawn - Hellfist Heist]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/New Dawn - Hellfist Heist\|New Dawn - Hellfist Heist]]
 - **Status:** Alive
 
 # Attributes

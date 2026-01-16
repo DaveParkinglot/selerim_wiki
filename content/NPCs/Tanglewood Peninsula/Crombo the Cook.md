@@ -1,16 +1,19 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:44.000-04:00","modified":"2025-10-30T12:07:39.315-04:00","published":"2025-10-30T12:07:39.315-04:00","cssclasses":"","Age":"17","Ancestry":"Dragonborn","Gender":"Male","Location":["[[Crabbley]]"],"Role":["Adventurer, Bard, Head Chef"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-01-16T08:55:01.872-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/crombo_the_cook.png|300]]
 
 # Overview
 
-## [[Adventures/00 The High Rollers Campaign\|The High Rollers Campaign]]
+## [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - Carefree dragonborn bard who wants to be an adventurer, unfortunately he is also the full time head chef at The Soggy Bottom and his work schedule is insane.
 - He goes by "The Unchained" after he was rescued from being kidnapped by kobolds.
 
-## [[Adventures/05 The Hunt for Pill'Grim\|The Hunt for Pill'Grim]]
+## [[Adventures/The Hunt for Pill'Grim\|The Hunt for Pill'Grim]]
 - He was attempting to create an adventuring party with [[NPCs/Tanglewood Peninsula/Bondoon Jr.]]
 - His new party was at the adventurer tryouts for the teleporter adventure.
 
@@ -21,7 +24,7 @@
 - **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Adventurer, Bard, Head Chef
 - **Affiliation:** None
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes

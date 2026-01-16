@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Nova Jersaeria, Tiialan Capital","created":"2025-06-20T09:32:25.000-04:00","modified":"2025-11-20T09:27:52.192-05:00","published":"2025-11-20T09:27:52.192-05:00","cssclasses":"","Type":["Capital City"],"Age (years)":250,"Population":95000,"Affiliation":["[[The Kingdom of Tiialia]]"],"Government":"[[Antonino Esposito|King Antonino Esposito I]]","Appearances":["[[00 The High Rollers Campaign]]","[[17 Giftmas in Nova Jersaeria]]","[[23 The Great Tiialan Heist]]","[[25 Voyage a la Isla Ruz]]"],"marker":{"mapName":"InteractiveMap","x":1095,"y":100,"icon":"game-icons:medieval-gate","colour":"blue"},"Author":"Jordan"}
+publish: true
+title: Nova Jersaeria, Tiialan Capital
+created: 2025-06-20T09:32:25.000-04:00
+modified: 2026-01-16T08:55:02.540-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/nova_jersaeria.png|800]]
@@ -14,7 +18,7 @@
 - **Population**: 95000
 - **Affiliation**: [[The Kingdom of Tiialia\|The Kingdom of Tiialia]]
 - **Government:** [[NPCs/Tiialia/Antonino Esposito\|King Antonino Esposito I]]
-- **Appearances:**  [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/17 Giftmas in Nova Jersaeria\|17 Giftmas in Nova Jersaeria]],[[Adventures/23 The Great Tiialan Heist\|23 The Great Tiialan Heist]],[[Adventures/25 Voyage a la Isla Ruz\|25 Voyage a la Isla Ruz]]
+- **Appearances:**  [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Giftmas in Nova Jersaeria\|Giftmas in Nova Jersaeria]],[[Adventures/The Great Tiialan Heist\|The Great Tiialan Heist]],[[Adventures/Voyage a la Isla Ruz\|Voyage a la Isla Ruz]]
 
 # Attributes
 - **Appearance**: Italian, colorful rooftops, walled docks, a great keep atop the high hill of the city

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:45.000-04:00","modified":"2025-10-30T12:05:27.094-04:00","published":"2025-10-30T12:05:27.094-04:00","cssclasses":"","Age":"20","Ancestry":"Kobold","Gender":"Male","Location":["The Esposito Vineyard","Tiialia"],"Role":["Drunk"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:45.000-04:00
+modified: 2026-01-16T08:55:01.741-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/shemcriz.png|300]]
@@ -16,7 +19,7 @@
 - **Location**: The Esposito Vineyard,Tiialia
 - **Role**: Drunk
 - **Affiliation:** None
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes

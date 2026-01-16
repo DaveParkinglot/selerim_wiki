@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2023-08-26T23:34:20.000-04:00","modified":"2026-01-06T10:49:39.191-05:00","published":"2026-01-06T10:49:39.191-05:00","cssclasses":"","Author":"Jordan"}
+publish: true
+created: 2023-08-26T23:34:20.000-04:00
+modified: 2026-01-06T10:49:39.191-05:00
+cssclasses: ""
 ---
 
 - Patriarch of the family is Nico Fanto-Domingo

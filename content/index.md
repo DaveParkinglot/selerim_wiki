@@ -1,5 +1,9 @@
 ---
-{"publish":true,"title":"Welcome to Selerim","created":"2025-09-29T11:06:14.000-04:00","modified":"2025-12-12T10:21:49.614-05:00","published":"2025-12-12T10:21:49.614-05:00","cssclasses":"","Author":"Jordan"}
+publish: true
+title: Welcome to Selerim
+created: 2025-09-29T11:06:14.000-04:00
+modified: 2025-12-12T10:21:49.614-05:00
+cssclasses: ""
 ---
 
 Wiki page for worldbuilding and lore for the Selerim D&D campaign setting.

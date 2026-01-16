@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:04:38.186-04:00","published":"2025-10-30T12:04:38.186-04:00","cssclasses":"","Age":"66 (deceased)","Ancestry":["Human"],"Gender":"Male","Location":["The Jyfstein Isles"],"Role":["Lich, Former Archwizard Adventurer"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:01.787-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/master_effree_jypstein.png|300]]
@@ -21,7 +24,7 @@
 - **Location**: The Jyfstein Isles
 - **Role**: Lich, Former Archwizard Adventurer
 - **Affiliation:** None
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Deceased
 
 # Attributes

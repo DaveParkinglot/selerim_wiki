@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-12-12T18:42:24.996-05:00","modified":"2025-12-12T18:44:46.113-05:00","published":"2025-12-12T18:44:46.113-05:00","cssclasses":"","Date":"Mourne 1st","Author":"Jordan"}
+publish: true
+created: 2025-12-12T18:42:24.996-05:00
+modified: 2025-12-12T18:44:46.113-05:00
+cssclasses: ""
 ---
 
 - **Date:** Mourne 1st

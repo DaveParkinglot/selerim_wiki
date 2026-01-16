@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-12-18T07:41:21.666-05:00","published":"2025-12-18T07:41:21.666-05:00","cssclasses":"","Age":"37","Ancestry":"Goblin","Gender":"Male","Location":["Breakwater Cove","Varies"],"Role":["Roguish Fiend, Thief, Part-time Merchant"],"Affiliation":["None"],"Appearances":["[[14 Bootknife's Bounty]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:00.238-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/bootknife.png|300]]
@@ -14,7 +17,7 @@ Merchant, uncle, extraordinary liar. Called many things by many people, Bootknif
 - **Location**: Breakwater Cove,Varies
 - **Role**: Roguish Fiend, Thief, Part-time Merchant
 - **Affiliation:** None
-- **Appearances:** [[Adventures/14 Bootknife's Bounty\|14 Bootknife's Bounty]]
+- **Appearances:** [[Adventures/Bootknife's Bounty\|Bootknife's Bounty]]
 - **Status:** Alive
 
 # Attributes

@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-02-23T13:54:22.000-05:00","modified":"2026-01-14T14:20:42.821-05:00","published":"2026-01-14T14:20:42.821-05:00","cssclasses":"","Author":"Jordan"}
+publish: true
+created: 2025-02-23T13:54:22.000-05:00
+modified: 2026-01-16T09:04:29.347-05:00
+cssclasses: ""
 ---
 
 > See [[Selerim Timeline]] for more details.
@@ -16,10 +19,10 @@
 - The flooding from the eruption of the [[Worldbuilding/Lore/Darkwells]] also had a profound impact on the geography and cultures of Selerim, leaving many regions of the [[Places/Inhabitable Lands]] isolated by what became a new inland sea.
 # Peoples
 - It should be noted that the diversity seen amongst the peoples of Selerim is such because they were slaves from many worlds, stolen from their homes to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20(the%20dark%20seldarine)_mtf) empire.
-- Sorcerers were anomalously rare until the blood of slain dragons from the [[Worldbuilding/Events/Generations' War]] seeped into the ground, near the present day [[Forsaken Expanse]]. 
+- Sorcerers were anomalously rare until the blood of slain dragons from the [[Worldbuilding/Events/Generations' War]] seeped into the ground, near the present day [[Places/Forsaken Expanse]]. 
 	- To this day, most sorcerers in the world are born on the eastern side of [[Places/Tanglewood Peninsula]], where the concentration of dragon blood is strongest.
 - There are some who, even to this day, decry the so-called benevolence of The Seldarine's gift. Left to toil and rebuild a ruined world, can such a gift be called freedom?
 # Astronomy
-- The world is *probably* analogous to Earth, with similar gravity and rotational patterns. Unless I come up with something cooler at some point.
-- There is one (surviving) moon, Lunadel, and one star, Seladel.
+- The world is *probably* analogous to the Earth, with similar gravity and rotational patterns. Unless I come up with something cooler at some point.
+- There is one (surviving) moon, [[Lunadel]], and one star, [[Seladel]].
 - As of 264 B.T., the most widely used calendar is the [[Worldbuilding/Selerim Calendar\|Selerim Unified Calendar]], which very conveniently has 13 months of 28 days each.

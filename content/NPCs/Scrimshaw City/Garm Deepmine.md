@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:08:30.674-04:00","published":"2025-10-30T12:08:30.674-04:00","cssclasses":"","Age":"97","Ancestry":["Dwarf"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Company Head"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:01.396-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/garm_deepmine.png|300]]
@@ -14,7 +17,7 @@ Legitimate businessman and patriarch of the Deepmine family. Often accompanied b
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Company Head
 - **Affiliation:** Deepmine Delvings
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes

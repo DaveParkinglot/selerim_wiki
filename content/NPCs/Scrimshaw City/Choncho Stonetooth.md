@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-12-24T08:54:33.673-05:00","published":"2025-12-24T08:54:33.673-05:00","cssclasses":"","Age":"76","Ancestry":["Dwarf"],"Gender":"Male","Location":["[[Scrimshaw City]]"],"Role":["Bodyguard"],"Affiliation":["Deepmine Delvings"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:01.362-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/choncho_stonetooth.png|300]]
@@ -13,7 +16,7 @@
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Bodyguard
 - **Affiliation:** Deepmine Delvings
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes

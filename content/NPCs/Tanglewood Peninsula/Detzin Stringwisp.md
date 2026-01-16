@@ -1,5 +1,9 @@
 ---
-{"publish":true,"aliases":["Detzin"],"created":"2025-11-02T10:33:16.000-05:00","modified":"2025-12-08T09:06:15.882-05:00","published":"2025-12-08T09:06:15.882-05:00","cssclasses":"","Age":"42","Ancestry":["Wood Elf"],"Gender":"M","Location":["[[Mitlin]]"],"Role":["Bard","Solo Artist"],"Affiliation":["[[Mitlin]]"],"Appearances":["[[19 The Marrowsucker Contract]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+aliases: Detzin
+created: 2025-11-02T10:33:16.000-05:00
+modified: 2026-01-16T08:55:01.955-05:00
+cssclasses: ""
 ---
 
 
@@ -8,7 +12,7 @@
 # Overview
 - An elvish bard from Mitlin, Detzin was once a destitute gambler before his friend [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]] helped him get out from the mountains of debt he owed to the loan shark Purt Sterner.
 
-## [[Adventures/19 The Marrowsucker Contract\|The Marrowsucker Contract]]
+## [[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]]
 - Detzin was being held captive by the Marrowsucker gnolls, when he was rescued. He may have partaken in some of "The Substance" before and after being rescued.
 
 ## [[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
@@ -21,7 +25,7 @@
 - **Location**: [[Places/Mitlin\|Mitlin]]
 - **Role**: Bard,Solo Artist
 - **Affiliation:** [[Places/Mitlin\|Mitlin]]
-- **Appearances:** [[Adventures/19 The Marrowsucker Contract\|19 The Marrowsucker Contract]]
+- **Appearances:** [[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]]
 - **Status:** Alive
 
 # Attributes

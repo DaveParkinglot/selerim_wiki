@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2023-09-16T10:28:01.000-04:00","modified":"2025-11-10T08:05:11.659-05:00","published":"2025-11-10T08:05:11.659-05:00","cssclasses":"","Author":"Jordan"}
+publish: true
+created: 2023-09-16T10:28:01.000-04:00
+modified: 2025-11-10T08:05:11.659-05:00
+cssclasses: ""
 ---
 
 - Once inhabited by a now dead race of noble "Great Giants"

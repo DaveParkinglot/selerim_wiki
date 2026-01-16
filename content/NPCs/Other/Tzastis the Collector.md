@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-11-03T20:24:08.592-05:00","published":"2025-11-03T20:24:08.592-05:00","cssclasses":"","Age":"??","Ancestry":"Archfey","Gender":"Varies","Location":["The Fathomless Vault"],"Role":["Archfey","Collector of Relevant Mortals"],"Affiliation":["None"],"Appearances":["[[00 The High Rollers Campaign]]","[[24 The White Grove - First Semester]]","[[27 The White Grove - Summer Vacation]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:02.222-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/tzastis.png|300]]
@@ -18,7 +21,7 @@
 - **Location**: The Fathomless Vault
 - **Role**: Archfey,Collector of Relevant Mortals
 - **Affiliation:** None
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]],[[Adventures/24 The White Grove - First Semester\|24 The White Grove - First Semester]],[[Adventures/27 The White Grove - Summer Vacation\|27 The White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/The White Grove - First Semester\|The White Grove - First Semester]],[[Adventures/The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes

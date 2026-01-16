@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-21T11:30:43.000-04:00","modified":"2025-10-30T12:04:43.438-04:00","published":"2025-10-30T12:04:43.438-04:00","cssclasses":"","Age":"48","Ancestry":["Half-Elf"],"Gender":"Male","Location":["Tanglewood Peninsula"],"Role":["Eco-Terrorist, Druid"],"Affiliation":["[[The Tanglers]]"],"Appearances":["[[00 The High Rollers Campaign]]"],"Status":"Deceased","Author":"Jordan"}
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-01-16T08:55:01.781-05:00
+cssclasses: ""
 ---
 
 ![[z_assets/malmstein.png|300]]
@@ -16,7 +19,7 @@
 - **Location**: Tanglewood Peninsula
 - **Role**: Eco-Terrorist, Druid
 - **Affiliation:** [[The Tanglers\|The Tanglers]]
-- **Appearances:** [[Adventures/00 The High Rollers Campaign\|00 The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Deceased
 
 # Attributes

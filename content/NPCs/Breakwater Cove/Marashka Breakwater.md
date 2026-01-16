@@ -1,5 +1,8 @@
 ---
-{"publish":true,"created":"2025-07-25T11:17:12.000-04:00","modified":"2025-11-03T20:24:08.282-05:00","published":"2025-11-03T20:24:08.282-05:00","cssclasses":"","Age":"89","Ancestry":["Half-Elf"],"Gender":"Female","Location":["Breakwater Cove"],"Role":["Ship Captain"],"Affiliation":["None"],"Appearances":["[[22 The Crimsonclaw Bounty]]"],"Status":"Alive","Author":"Jordan"}
+publish: true
+created: 2025-07-25T11:17:12.000-04:00
+modified: 2026-01-16T08:55:00.896-05:00
+cssclasses: ""
 ---
 
 
@@ -15,7 +18,7 @@
 - **Location**: Breakwater Cove
 - **Role**: Ship Captain
 - **Affiliation:** None
-- **Appearances:** [[Adventures/22 The Crimsonclaw Bounty\|22 The Crimsonclaw Bounty]]
+- **Appearances:** [[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]]
 - **Status:** Alive
 
 # Attributes
