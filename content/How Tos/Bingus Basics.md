@@ -23,3 +23,8 @@
 7. [[How Tos/Foundry Guide - Player Basics#How to Target something\|Target]] the miserly tavernkeeper.
 8. [[How Tos/Foundry Guide - Player Basics#How to roll an Attack\|Roll an Attack]] to see if you hit the tavernkeeper.
 9. If the attack hits, [[How Tos/Foundry Guide - Player Basics#How to roll Damage\|roll for damage]]. Even if the attack misses, Bingus still Grazes his target for 4 damage. 
+
+test:
+[[How Tos/Jordan's Adventure Framework#Jordan’s Preferred DM Resources]]
+
+[[How Tos/Jordan's Adventure Framework#Jordan’s Preferred DM Resources\|customtest]]
