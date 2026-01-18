@@ -10,7 +10,7 @@ Author: Jordan
 
 Wiki page for worldbuilding and lore for the Selerim D&D campaign setting.
 
-*The world of Selerim is ever-changing, inconsistent, and always unfinished. Its histories are neither a science, nor are they exact.* [[Test123#^540697]] [[Test123#Test12345]]
+*The world of Selerim is ever-changing, inconsistent, and always unfinished. Its histories are neither a science, nor are they exact.*
 
 ### Quick-Links:
 - [[Selerim Overview]] - campaign setting overview
