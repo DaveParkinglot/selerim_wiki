@@ -25,8 +25,6 @@ For online games in Foundry, I usually post the premise as a message in the D&D 
 - [Link to an example Discord session thread](https://discord.com/channels/1001274409383886898/1365303749593137212)
 ---  
 
-
-
 # Part 1: Introduction - 15-30 Minutes
 This is the most free form part of the adventure, so you’ll just have to use your creativity and your best judgement. The players might start in a tavern, on the road, or even in the middle of a high stakes poker game. No matter where your adventure begins, you should aim to accomplish these 2 things here:
 
