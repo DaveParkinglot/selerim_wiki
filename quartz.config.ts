@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Selerim Wiki",
+    pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,12 +16,9 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://daveparkinglot.github.io/selerim_wiki",
-	  defaultBuildConfig: {
-    outDir: "docs",  // <-- Add this line
-  },
-    ignorePatterns: ["private", "templates", "z_Templates", "z_Selerim Timeline Events", ".obsidian"],
-    defaultDateType: "created",
+    baseUrl: "quartz.jzhao.xyz",
+    ignorePatterns: ["private", "templates", ".obsidian"],
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -56,12 +53,11 @@ const config: QuartzConfig = {
       },
     },
   },
-
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem", "git"],
+        priority: ["frontmatter", "git", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -76,7 +72,6 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
-	  Plugin.LeafletMap(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
