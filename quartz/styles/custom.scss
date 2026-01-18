@@ -18,4 +18,11 @@ div.explorer {
     }
 }
 
-
+// expands to match wide monitors better (I think)
+@media all and ($desktop) {
+  body div#quartz-root.page div#quartz-body {
+    width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
+    max-width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
+    padding: 0 auto;
+  }
+}
