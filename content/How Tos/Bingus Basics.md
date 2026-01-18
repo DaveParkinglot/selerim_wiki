@@ -1,5 +1,4 @@
 - This guide describes an optimal combat turn with Bingus the dwarf barbarian. 
-- Where applicable, there are links to the [[How Tos/Basic Player Guide for Foundry VTT\|Player Basics]] guide to explain what to do in Foundry VTT.
 - In D&D you get to do these 3 things on your turn: Movement, Action, Bonus Action. Usually you want to use all 3, if you can.
 
 # Bingus' Optimal Combat Turn
@@ -13,23 +12,13 @@
 # Bingus Combat Example
 > The Situation: Sitting at a ramshackle tavern on the side of the road, Bingus orders a 20% IPA but is served a 15% IPA by a small, miserly tavernkeeper. 
 > Bingus decides the tavernkeeper's payment will be the steel of his infamous greatsword, Gargoyle.
-1. When the DM asks, [[How Tos/Basic Player Guide for Foundry VTT#How to roll for Initiative\|roll for Initiative!]] Your Initiative for the combat equals your D20 roll + 2 (your Dexterity modifier). 
+1. When the DM asks, roll for Initiative! Your Initiative for the combat equals your D20 roll + 2 (your Dexterity modifier). 
 2. Wait for your turn...
 3. On your turn, describe to everyone what Bingus does.
 	- e.g., "Entering a drunken Rage, Bingus vaults the bar and unsheathes Gargoyle, recklessly swinging it at the miserly tavernkeeper who dared to serve him a watered down IPA!"
 4. If applicable, move Bingus' token up to 30 ft. toward the miserly tavernkeeper.
-5. [[How Tos/Basic Player Guide for Foundry VTT#How to use a character Feature (e.g., Rage)\|Activate the barbarian's Rage feature.]] 
+5. Activate the barbarian's Rage feature.
 6. Activate the barbarian's Reckless Attack feature to give Bingus Advantage on his attack.
-7. [[How Tos/Basic Player Guide for Foundry VTT#How to Target something\|Target]] the miserly tavernkeeper.
-8. [[How Tos/Basic Player Guide for Foundry VTT#How to roll an Attack\|Roll an Attack]] to see if you hit the tavernkeeper.
-9. If the attack hits, [[How Tos/Basic Player Guide for Foundry VTT#How to roll Damage\|roll for damage]]. Even if the attack misses, Bingus still Grazes his target for 4 damage. 
-
-
-
-# Testing header links:
-
-A link to a different note:
-[[How Tos/Jordan's Adventure Framework#Jordan’s Preferred DM Resources]]
-
-A link to a different note with custom text:
-[[How Tos/Jordan's Adventure Framework#Jordan’s Preferred DM Resources\|customtest]]
+7. Target the miserly tavernkeeper.
+8. Roll an Attack to see if you hit the tavernkeeper.
+9. If the attack hits, roll for damage. Even if the attack misses, Bingus still Grazes his target for 4 damage. 
