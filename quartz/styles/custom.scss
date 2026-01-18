@@ -3,19 +3,7 @@
 @use "sass:map";
 // put your custom CSS here!
 
-// Adding some spacing between entries in the explorer
-div.explorer {
-    .overflow {
-        li {
-            li {
-                margin-bottom: 0.3rem;
-            }
-            &:last-child {
-                margin-bottom: 0;
-            }
-        }
-    }
-}
+
 
 @media all and ($desktop) {
   body div#quartz-root.page div#quartz-body {
