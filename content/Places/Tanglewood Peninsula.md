@@ -4,8 +4,8 @@ aliases:
   - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
-modified: 2026-01-16T08:55:02.067-05:00
-published: 2026-01-16T08:55:02.067-05:00
+modified: 2026-01-18T10:29:48.124-05:00
+published: 2026-01-18T10:29:48.124-05:00
 cssclasses: ""
 Type:
   - Region
@@ -20,7 +20,7 @@ Appearances:
   - "[[Kindlethicket - The Winter Hunt]]"
   - "[[The Marrowsucker Contract]]"
   - "[[The Crimsonclaw Bounty]]"
-  - "[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse]]"
+  - "[[Lighting the Lighthouse DM]]"
 marker:
   mapName: InteractiveMap
   x: 1575
@@ -40,7 +40,7 @@ Author: Jordan
 # Key Details
 - **Type**: Region
 - **Age:** 264
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim\|The Hunt for Pill'Grim]],[[Adventures/The Lost Archives of Wigglestaff\|The Lost Archives of Wigglestaff]],[[Adventures/The Rentpire Strikes Back\|The Rentpire Strikes Back]],[[Adventures/The Haunted Flakes Factory\|The Haunted Flakes Factory]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]],[[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim\|The Hunt for Pill'Grim]],[[Adventures/The Lost Archives of Wigglestaff\|The Lost Archives of Wigglestaff]],[[Adventures/The Rentpire Strikes Back\|The Rentpire Strikes Back]],[[Adventures/The Haunted Flakes Factory\|The Haunted Flakes Factory]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]],[[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse DM\|Lighting the Lighthouse DM]]
 
 # Attributes
 - **Appearance**: (Architecture, landscape, or vibe)

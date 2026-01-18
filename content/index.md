@@ -2,10 +2,8 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-01-18T08:35:37.057-05:00
-published: 2026-01-18T08:35:37.057-05:00
+modified: 2026-01-18T10:29:10.144-05:00
 cssclasses: ""
-Author: Jordan
 ---
 
 Wiki page for worldbuilding and lore for the Selerim D&D campaign setting.

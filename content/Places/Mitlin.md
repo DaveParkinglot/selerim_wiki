@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T08:16:34.000-04:00
-modified: 2026-01-16T08:55:01.986-05:00
-published: 2026-01-16T08:55:01.986-05:00
+modified: 2026-01-18T10:29:48.114-05:00
+published: 2026-01-18T10:29:48.114-05:00
 cssclasses: ""
 Type:
   - Town
@@ -18,7 +18,7 @@ Appearances:
   - "[[Kindlethicket - Envoys of Mitlin]]"
   - "[[Kindlethicket - The Winter Hunt]]"
   - "[[The Marrowsucker Contract]]"
-  - "[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse]]"
+  - "[[Lighting the Lighthouse DM]]"
 marker:
   mapName: InteractiveMap
   x: 1645
@@ -42,7 +42,7 @@ Author: Jordan
 - **Population**: 3200
 - **Affiliation**: None
 - **Government:** The Oaken Conclave
-- **Appearances:**  [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse\|Lighting the Lighthouse]]
+- **Appearances:**  [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse DM\|Lighting the Lighthouse DM]]
 
 # Attributes
 - **Appearance**: 
