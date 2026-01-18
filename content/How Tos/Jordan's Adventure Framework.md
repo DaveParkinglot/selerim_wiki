@@ -1,5 +1,5 @@
 > *“It doesn’t matter if it is good, it only matters if it rocks.”* - unknown bard
-  
+
 # Introductory Notes
 - This is meant to be a list of suggestions to help you create your very own D&D adventure. 
 - Each section will provide examples from an adventure I already ran ([[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]]), and also may include a subsection of pointers for DMing in Foundry VTT.
