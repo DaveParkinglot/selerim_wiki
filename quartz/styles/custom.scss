@@ -4,11 +4,18 @@
 // put your custom CSS here!
 
 
-
-@media all and ($desktop) {
-  body div#quartz-root.page div#quartz-body {
-    width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
-    max-width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
-    padding: 0 auto;
-  }
+// Adding some spacing between entries in the explorer
+div.explorer {
+    .overflow {
+        li {
+            li {
+                margin-bottom: 0.3rem;
+            }
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
 }
+
+
