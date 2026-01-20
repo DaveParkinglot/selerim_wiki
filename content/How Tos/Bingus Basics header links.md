@@ -24,7 +24,7 @@
 8. [[How Tos/Basic Player Guide for Foundry VTT#How to roll an Attack\|Roll an Attack]] to see if you hit the tavernkeeper.
 9. If the attack hits, [[How Tos/Basic Player Guide for Foundry VTT#How to roll Damage\|roll for damage]]. Even if the attack misses, Bingus still Grazes his target for 4 damage. 
 
-
+[[How Tos/Basic Player Guide for Foundry VTT#How to roll Damage]]
 
 # Testing header links:
 
