@@ -2,7 +2,9 @@
 publish: true
 created: 2025-08-22T12:56:18.000-04:00
 modified: 2026-01-16T08:55:00.438-05:00
+published: 2026-01-16T08:55:00.438-05:00
 cssclasses: ""
+Author: Jordan
 ---
 
 Handout for [[Adventures/Kindlethicket - Envoys of Mitlin]]

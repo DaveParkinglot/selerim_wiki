@@ -1,13 +1,13 @@
 - This guide describes an optimal combat turn with Bingus the dwarf barbarian. 
-- In D&D you get to do these 3 things on your turn: Movement, Action, Bonus Action. Usually you want to use all 3, if you can.
+- In D&D you get to do each of these 3 things on your turn: **Movement, Bonus Action.** Your character may also have features that can be used "for free", like Bingus' Reckless Attack.
 
 # Bingus' Optimal Combat Turn
-1. Move up to 30 ft. to stand next to enemy NPC(s).
-2. Enter a Rage with your Bonus Action. This increases Bingus' damage slightly and makes him resistant to incoming damage.
-3. Attack the nearest enemy NPC with Bingus' greatsword.
+1. **Movement:** Move up to 30 ft. to stand next to enemy NPC(s).
+2. **Bonus Action**: Enter a Rage with your Bonus Action. This increases Bingus' damage slightly and makes him resistant to incoming damage.
+3. **Action:** Attack an enemy NPC with Bingus' greatsword.
 4. Use Reckless Attack feature to gain Advantage on the attack. Even if Bingus misses, his greatsword does 4 damage due to its Graze Mastery property.
 
-> Pro tip: The above turn makes use of all your per-turn resources (Movement, Action, and Bonus Action). If you do nothing but these 4 things on your turn, you will already be more effective than 75% of D&D players.
+> Pro tip: The above turn makes use of all your per-turn resources (Movement, Bonus Action, and Action). If you do nothing but these 4 things on your turn, you will already be more effective than 75% of D&D players.
 
 # Bingus Combat Example
 > The Situation: Sitting at a ramshackle tavern on the side of the road, Bingus orders a 20% IPA but is served a 15% IPA by a small, miserly tavernkeeper. 

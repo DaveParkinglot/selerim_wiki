@@ -2,7 +2,9 @@
 publish: true
 created: 2023-08-26T23:03:37.000-04:00
 modified: 2026-01-06T10:53:57.944-05:00
+published: 2026-01-06T10:53:57.944-05:00
 cssclasses: ""
+Author: Jordan
 ---
 
 - Civil war fought 25 years ago between the 4 big families of [[Places/Tiialia]]:

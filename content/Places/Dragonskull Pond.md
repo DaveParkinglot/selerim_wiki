@@ -1,8 +1,10 @@
 ---
 publish: true
-aliases: Timphiliax's Rest
+aliases:
+  - Timphiliax's Rest
 created: 2025-12-08T11:41:36.156-05:00
 modified: 2026-01-16T09:04:04.965-05:00
+published: 2026-01-16T09:04:04.965-05:00
 cssclasses: ""
 ---
 

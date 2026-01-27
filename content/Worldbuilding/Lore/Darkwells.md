@@ -2,7 +2,9 @@
 publish: true
 created: 2025-10-09T16:00:42.000-04:00
 modified: 2025-12-12T09:28:57.067-05:00
+published: 2025-12-12T09:28:57.067-05:00
 cssclasses: ""
+Author: Jordan
 ---
 
 - Dark pools of unnaturally cold water, said to connect Selerim to the Elemental Plane of Water

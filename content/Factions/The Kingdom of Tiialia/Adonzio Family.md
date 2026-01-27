@@ -2,7 +2,9 @@
 publish: true
 created: 2026-01-06T10:57:22.000-05:00
 modified: 2026-01-06T11:06:07.727-05:00
+published: 2026-01-06T11:06:07.727-05:00
 cssclasses: ""
+Author: Jordan
 ---
 
 - Former ruling family of the Kingdom of [[Places/Tiialia]], they ruled from the capital city of [[Places/Nova Jersaeria]].

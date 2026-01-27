@@ -2,7 +2,9 @@
 publish: true
 created: 2025-02-23T13:54:22.000-05:00
 modified: 2026-01-16T09:04:29.347-05:00
+published: 2026-01-16T09:04:29.347-05:00
 cssclasses: ""
+Author: Jordan
 ---
 
 > See [[Selerim Timeline]] for more details.

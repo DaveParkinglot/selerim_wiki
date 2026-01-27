@@ -2,7 +2,9 @@
 publish: true
 created: 2025-08-05T13:40:44.000-04:00
 modified: 2026-01-16T08:55:01.106-05:00
+published: 2026-01-16T08:55:01.106-05:00
 cssclasses: ""
+Author: Jordan
 ---
 
 Handout from [[Adventures/The Hellnight Soirée]]

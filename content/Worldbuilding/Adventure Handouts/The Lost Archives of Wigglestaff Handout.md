@@ -2,7 +2,9 @@
 publish: true
 created: 2025-08-22T13:00:42.000-04:00
 modified: 2025-10-30T11:57:33.026-04:00
+published: 2025-10-30T11:57:33.026-04:00
 cssclasses: ""
+Author: Jordan
 ---
 
 ## THE LOST ARCHIVES OF WIGGLESTAFF
