@@ -44,7 +44,7 @@
 ![[z_assets/bingus7.png|800]]
 
 ## How to Target something
-- Rolling an Attack has an additional step in D&D because you have to decide who (or what) you're going to attack. In Foundry, you also have to Target the who (or what) you're going to attack.
+- Rolling an Attack in D&D requires you to decide who (or what) you're going to attack. In Foundry, you also have to Target the who (or what) you're going to attack.
 - Option 1: Mouse over your target and press "T".
 - Option 2: Mouse over your target and Double Right Click.
 - When you have something targeted, you'll see flashing indicators on it. Targeting helps the DM know who you're attacking, and whether you hit them after you roll the Attack.
@@ -56,7 +56,7 @@
 ![[z_assets/bingus24.png|400]]
 
 ## How to roll an Attack
-- *Usually* you need to Target something before rolling an attack, but there are exceptions (e.g., if you want to attack the empty keg with your axe, the DM probably doesn't have a token for the keg)
+- *Usually* you need to Target something before rolling an attack, but there are exceptions (e.g., if you want to attack a tree with your axe, the DM probably doesn't have a token “game piece” for the tree. In this case you would roll an attack without a target in Foundry.)
 - Option 1: You can roll an Attack by clicking the **ICON** of the weapon you are attacking with. When you mouse over the icon, a D20 will appear. Left click it.
 - Option 2: If you favorited a weapon on your sheet, you can roll the attack from the Favorites sidebar (Bingus already has his Greatsword favorited). You can favorite other things by right clicking them and selecting Add Favorite.
 
