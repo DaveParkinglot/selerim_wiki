@@ -1,5 +1,7 @@
 > *The eye in the gem seems to wander, but never when observed.*
+
 ![[z_assets/gem_of_eyes.png|300]]
+
 - [[NPCs/Legends/Geblorgurin the Grand]] found the gem in the crater of a fallen star, a dead Marut.
 - The gem is the "eye" of dead Marut, a nigh invincible creature.
 	- The eye acts as a power source for the Marut, which are constructs charged with ensuring that contracts are carried out. Most commonly, they are found in Sigil, the City of Doors. https://5e.tools/bestiary.html#marut_mpmm
