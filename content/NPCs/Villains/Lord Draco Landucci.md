@@ -13,7 +13,7 @@ Location:
 Role:
   - Tyrant Lord
 Affiliation:
-  - "[[Factions/The Kingdom of Tiialia/Landucci Family]]"
+  - "[[Factions/Families of Tiialia/Landucci Family]]"
   - "[[Fanto-Domingo Family]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
@@ -38,7 +38,7 @@ Author: Jordan
 - **Gender**: Male
 - **Location**: Nova Jersaeria
 - **Role**: Tyrant Lord
-- **Affiliation:** [[Factions/The Kingdom of Tiialia/Landucci Family\|Landucci Family]],[[Factions/The Kingdom of Tiialia/Fanto-Domingo Family\|Fanto-Domingo Family]]
+- **Affiliation:** [[Factions/Families of Tiialia/Landucci Family\|Landucci Family]],[[Factions/Families of Tiialia/Fanto-Domingo Family\|Fanto-Domingo Family]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Deceased
 

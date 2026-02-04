@@ -45,7 +45,7 @@ Classes:
 - **In-World Dates:** 265-10-28 - 265-11-15
 
 # Adventure Premise
-- Word is spreading about movement of soldiers and ships belonging to the families [[Factions/The Kingdom of Tiialia/Ruz Family\|Ruz]] and [[Factions/The Kingdom of Tiialia/Batista Family\|Batista]], and perhaps even other forces interested in the future of [[Places/Tiialia]]. As luck would have it, you have acquired a note that details a potential invasion of Isla Ruz by Batista-aligned forces. You and other intriguing characters have arrived at the harbor of [[Places/Nova Jersaeria]] to investigate these claims, or perhaps to seek a way to warn [[NPCs/Tiialia/Alejandro Ruz]], or perhaps embark as part of this supposed invasion to acquire fortune.
+- Word is spreading about movement of soldiers and ships belonging to the families [[Factions/Families of Tiialia/Ruz Family\|Ruz]] and [[Factions/Families of Tiialia/Batista Family\|Batista]], and perhaps even other forces interested in the future of [[Factions/Tiialia]]. As luck would have it, you have acquired a note that details a potential invasion of Isla Ruz by Batista-aligned forces. You and other intriguing characters have arrived at the harbor of [[Places/Nova Jersaeria]] to investigate these claims, or perhaps to seek a way to warn [[NPCs/Tiialia/Alejandro Ruz]], or perhaps embark as part of this supposed invasion to acquire fortune.
 
 # Outcomes
 

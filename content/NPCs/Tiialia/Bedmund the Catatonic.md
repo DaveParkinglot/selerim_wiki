@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:02.438-05:00
-published: 2026-01-16T08:55:02.438-05:00
+modified: 2026-02-04T12:34:48.981-05:00
+published: 2026-02-04T12:34:48.981-05:00
 cssclasses: ""
 Age: "57"
 Ancestry: Deep Gnome
@@ -23,7 +23,7 @@ Author: Jordan
 ![[z_assets/bedmund_the_catatonic.png|300]]
 
 # Overview
-- He was once a prisoner of the Vlorn Dynasty, sequestered away in Duskveil Asylum, until he managed to escape after being interrogated by inquisitors one fateful evening.
+- He was once a prisoner of the [[Factions/Vlorn Dynasty]], sequestered away in Duskveil Asylum, until he managed to escape after being interrogated by inquisitors one fateful evening.
 - After escaping, he fled the Underdark and headed to the surface, winding up in a big comfortable bed in a countryside vineyard.
 - Now, he occasionally provides spells to The High Rollers and stays in the large bed in their vineyard's basement.
 

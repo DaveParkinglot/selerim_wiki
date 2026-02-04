@@ -2,8 +2,8 @@
 publish: true
 aliases: Geblorgurin
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.145-05:00
-published: 2026-01-16T08:55:01.145-05:00
+modified: 2026-02-04T12:32:50.098-05:00
+published: 2026-02-04T12:32:50.098-05:00
 cssclasses: ""
 Age: Deceased
 Ancestry: Dwarf
@@ -24,22 +24,22 @@ Author: Jordan
 
 # Overview
 - Once the king of the dwarves before his passing, Geblorgurin is highly regarded amongst all the peoples of Selerim, and amongst adventurers because of the many treasure-laden monuments he left behind.
-- Though it is a kingdom ruled by a human these days, Geblorgurin helped to found [[The Kingdom of Tiialia]].
+- Though it is a kingdom ruled by a human these days, Geblorgurin helped to found the [[Factions/Tiialia\|Kingdom of Tiialia]]
 - It is said that these monuments contain great artifacts of power, but the monuments are said to test those who enter them. Only the worthy may wield the artifacts Geblorgurin left behind.
 - Dwarves (especially those of Geblorgurin's time) are fiercely protective of their belongings in life, but in death they desire nothing more than to have their belongings used by worthy individuals
-- Geblorgurin was the first wielder of the powerful artifact [[Jordan's Notes/DM Notes/The Gem of Eyes]].
+- Geblorgurin was the first wielder of the powerful artifact the [[Worldbuilding/Items/Gem of Eyes\|Gem of Eyes]]
 	- From the shell of a Marut that fell from sky, Geblorgurin pried the gem.
 	- Of the dead Marut's shell, Geblorgurin did forge his armor and his kingdom.
 
 > Notes from [[Player Characters/The High Rollers/Clint Weapon\|Clint Weapon's]] hour long meeting in [[Places/Mitlin]] with Melvin the elvish wizard.
-> - [[Jordan's Notes/DM Notes/The Gem of Eyes]] was originally found in the crater of a fallen star by Geblorgurin himself
+> - [[Jordan's Notes/DM Notes/Gem of Eyes]] was originally found in the crater of a fallen star by Geblorgurin himself
 > - He used it to great effect in the never ending fight against incursions from the Vlorn
-> - Clint would know that [[Factions/The Vlorn Dynasty]] is a faction in the Underdark led by the drow (dark elves)
+> - Clint would know that [[Factions/Vlorn Dynasty]] is a faction in the Underdark led by the drow (dark elves)
 > - [[plundered one of Geblorgurin's many monuments
 > - [[NPCs/Scrimshaw City/Garm Deepmine]] seems to have sold it a man in Scrimshaw, who later became the powerful necromance now known as "The Master"
 > Geblorgurin Lore
 > - He was the last great king of dwarves, and he has been dead for well over two centuries
-> - Notably, he forged an alliance with the gnomes and elves of the Tanglewood in order to finally push [[Factions/The Vlorn Dynasty]]'s trolls back into the Underdark
+> - Notably, he forged an alliance with the gnomes and elves of the Tanglewood in order to finally push [[Factions/Vlorn Dynasty]]'s trolls back into the Underdark
 > - Dwarves are fiercely protective of their belongings in life, but in death they desire nothing more than to have their belongings used by worthy individuals
 > - Geblorgurin likely has other monuments meant to challenge the worthy, so that they may earn the powerful items forged by his people
 > - A remnant of Geblorgurin's spirit is left in his armor (he is super aggressive)

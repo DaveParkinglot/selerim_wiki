@@ -29,7 +29,7 @@ Author: Jordan
 ![[z_assets/nova_jersaeria.png|800]]
 
 # Overview
-- The greatest city of this age, the [[Places/Tiialia\|Tiialan]] capital city has grown greatly since it was founded with the help of [[NPCs/Legends/Geblorgurin the Grand]] some 250 years ago.
+- The greatest city of this age, the [[Factions/Tiialia\|Tiialan]] capital city has grown greatly since it was founded with the help of [[NPCs/Legends/Geblorgurin the Grand]] some 250 years ago.
 - The line of the old Tiialan Kings was thought to have been snuffed out with King Seraphino's death at the First Siege of [[Places/Corrodreth]], during the decades long [[Worldbuilding/Events/Serpent Wars]]. This proved untrue, however, after [[NPCs/Tiialia/Antonino Esposito]]'s royal heritage was discovered by [[Player Characters/The High Rollers/Francis Greenstrider De Luca\|Francis "Frankie" Greenstrider]] of [[Player Characters/The High Rollers/The High Rollers]]. With this knowledge, the traitor [[NPCs/Villains/Lord Draco Landucci]] and his puppet King Adonzio were thwarted and deposed, respectively.
 
 # Key Details

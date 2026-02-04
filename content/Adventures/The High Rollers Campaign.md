@@ -105,11 +105,11 @@ The OG campaign.
 ## Restore the Tiialan Royal Line
 
 ### Adventure Premise
-- Remove control of [[Places/Tiialia]] from the hands of the tyrant [[NPCs/Villains/Lord Draco Landucci]] and the nasty [[Factions/The Kingdom of Tiialia/Fanto-Domingo Family\|Fanto-Domingo family]].
+- Remove control of [[Factions/Tiialia]] from the hands of the tyrant [[NPCs/Villains/Lord Draco Landucci]] and the nasty [[Factions/Families of Tiialia/Fanto-Domingo Family\|Fanto-Domingo family]].
 - Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[NPCs/Tiialia/Antonino Esposito]].
 ### Outcomes
 - The tyrant [[NPCs/Villains/Lord Draco Landucci]] was overthrown by [[Player Characters/The High Rollers/The High Rollers]] and Antonino "Nino" Esposito.
-- Long live the new King of [[Places/Tiialia]]: Nino Esposito.
+- Long live the new King of [[Factions/Tiialia]]: Nino Esposito.
 
 
 ## Destroy "The Master"
@@ -167,7 +167,7 @@ The OG campaign.
 
 ### Adventure Premise
 - **The High Lord's Proclamation:**
-  Prevent the Vlorn and [[NPCs/Legends/Proklor the Despoiler]] from conquering the Kingdom of [[Places/Tiialia]], and potentially the whole world…
+  Prevent the Vlorn and [[NPCs/Legends/Proklor the Despoiler]] from conquering the Kingdom of [[Factions/Tiialia]], and potentially the whole world…
 
 ### Outcomes
 - Never completed.

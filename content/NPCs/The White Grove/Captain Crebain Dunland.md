@@ -24,7 +24,7 @@ Author: Jordan
 ![[z_assets/crebain_dunland.png|300]]
 
 # Overview
-- Captain of Dunlan's Raiders, the Tiialan Commandos who thwarted [[Factions/Morganth's Legion of Doom]] when [[Morganth]] and his minions attempted to summon demons in the heartland of [[Places/Tiialia]].
+- Captain of Dunlan's Raiders, the Tiialan Commandos who thwarted [[Factions/Morganth's Legion of Doom]] when [[Morganth]] and his minions attempted to summon demons in the heartland of [[Factions/Tiialia]].
 
 # Key Details
 - **Age**: 41

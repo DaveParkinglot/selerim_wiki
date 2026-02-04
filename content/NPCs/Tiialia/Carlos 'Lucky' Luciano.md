@@ -14,7 +14,7 @@ Role:
   - Muscle
   - Undead Muscle
 Affiliation:
-  - "[[Factions/The Kingdom of Tiialia/Batista Family]]"
+  - "[[Factions/Families of Tiialia/Batista Family]]"
 Appearances:
   - "[[The Great Tiialan Heist]]"
   - "[[Voyage a la Isla Ruz]]"
@@ -35,7 +35,7 @@ Author: Ethan
 - **Gender**: Male
 - **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],Batista Family Manor
 - **Role**: Muscle,Undead Muscle
-- **Affiliation:** [[Factions/The Kingdom of Tiialia/Batista Family\|Batista Family]]
+- **Affiliation:** [[Factions/Families of Tiialia/Batista Family\|Batista Family]]
 - **Appearances:** [[Adventures/The Great Tiialan Heist\|The Great Tiialan Heist]],[[Adventures/Voyage a la Isla Ruz\|Voyage a la Isla Ruz]]
 - **Status:** Deceased
 

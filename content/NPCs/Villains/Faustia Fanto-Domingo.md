@@ -13,7 +13,7 @@ Location:
 Role:
   - Court Witch
 Affiliation:
-  - "[[Factions/The Kingdom of Tiialia/Fanto-Domingo Family]]"
+  - "[[Factions/Families of Tiialia/Fanto-Domingo Family]]"
   - "[[Landucci Family]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
@@ -25,7 +25,7 @@ Author: Jordan
 
 # Overview
 - Cunning enchantress, and matriarch of [[Fanto-Domingo Family]]
-- She orchestrated the Midsummer Massacre that wiped out the [[Factions/The Kingdom of Tiialia/Esposito Family]].
+- She orchestrated the Midsummer Massacre that wiped out the [[Factions/Families of Tiialia/Esposito Family]].
 - She was in league with the tyrant [[NPCs/Villains/Lord Draco Landucci]], and sought to rule all of Tiialia through the puppet king Antonio Adonzio.
 - She was killed by [[Player Characters/The High Rollers/The High Rollers]] in the [[Places/Nova Jersaeria]] throne room during their confrontation with Lord Draco Landucci and his burly twin sons.
 
@@ -35,7 +35,7 @@ Author: Jordan
 - **Gender**: Female
 - **Location**: Nova Jersaeria
 - **Role**: Court Witch
-- **Affiliation:** [[Factions/The Kingdom of Tiialia/Fanto-Domingo Family\|Fanto-Domingo Family]],[[Factions/The Kingdom of Tiialia/Landucci Family\|Landucci Family]]
+- **Affiliation:** [[Factions/Families of Tiialia/Fanto-Domingo Family\|Fanto-Domingo Family]],[[Factions/Families of Tiialia/Landucci Family\|Landucci Family]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Deceased
 

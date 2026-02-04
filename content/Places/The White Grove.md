@@ -10,7 +10,7 @@ Type:
 Age (years): 180
 Population: 600
 Affiliation:
-  - "[[Places/Tiialia]]"
+  - "[[Factions/Tiialia]]"
 Government: N/A
 Appearances:
   - "[[The White Grove - First Semester]]"
@@ -29,7 +29,7 @@ Author: Jordan
 # Overview
 - The White Grove is perhaps the only reputable magic school in the world, located at a confluence of ley lines on a peninsula above the former holdings of [[Places/Corrodreth]].
 - The school's campus is encircled by four great trees, which are said to represent the four fundamental pillars of magic—arcane, divine, primal, and infernal. 
-- Though the college pre-dates [[Places/Tiialia]], most of [[Places/Tiialia]]'s artillery mages, who famously laid waste to [[Places/Corrodreth]], were students of The White Grove.
+- Though the college pre-dates [[Factions/Tiialia]], most of [[Factions/Tiialia]]'s artillery mages, who famously laid waste to [[Places/Corrodreth]], were students of The White Grove.
 - The Primal Tree has been withered since its magic was channeled to stave off an invasion from [[Places/Corrodreth]], during the [[Worldbuilding/Events/Serpent Wars]].
 - During the [[Worldbuilding/Events/Serpent Wars]], the Grove was heavily co-opted by The Kingdom of [[Tiialia]], in order to train its artillery mages. Since then it has been jokingly called TACC, or "Tiialan Arcane Cannon College"
 - Recently, admission has opened up to anyone with magical abilities—not just those training to become Tiialan artillery mages.
@@ -41,7 +41,7 @@ Author: Jordan
 - **Type**: Magical Academy
 - **Age:** 180
 - **Population**: 600
-- **Affiliation**: [[Places/Tiialia\|Tiialia]]
+- **Affiliation**: [[Factions/Tiialia\|Tiialia]]
 - **Government:** N/A
 - **Appearances:**  [[Adventures/The White Grove - First Semester\|The White Grove - First Semester]],[[Adventures/The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
 

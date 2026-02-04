@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.793-05:00
-published: 2026-01-16T08:55:01.793-05:00
+modified: 2026-02-04T12:31:15.279-05:00
+published: 2026-02-04T12:31:15.279-05:00
 cssclasses: ""
 Age: "42"
 Ancestry: Drow
@@ -39,7 +39,7 @@ Author: Jordan
 
 # Attributes
 - **Voice**: Southern/western I'm not really sure
-- **Traits**: Loyal to his friends, open-minded for a drow from the Vlorn Dynasty
+- **Traits**: Loyal to his friends, open-minded for a drow from the [[Factions/Vlorn Dynasty]]
 - **Goals:** Be free from the yoke of Vlorngroth, collect bounties, live on the edge
 - **Appearance**: Drow with a duster
 

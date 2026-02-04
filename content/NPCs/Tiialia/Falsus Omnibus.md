@@ -22,7 +22,7 @@ Author: Ethan
 ![[z_assets/falsus_omnibus.png|300]]
 
 # Overview
-It seems that, while Falsus Omnibus in theory serves the [[Factions/The Kingdom of Tiialia/Batista Family]], he mostly just serves himself. He originally suggested that a gang of misfits conduct a heist on a birthday party at the Batista Family manor, and then betrayed these adventures, and then bargained with them to spare him in exchange for him lying about who they were (suggesting to the Batistas that they were [[Factions/The Kingdom of Tiialia/Ruz Family\|Ruz Family]] bandits). 
+It seems that, while Falsus Omnibus in theory serves the [[Factions/Families of Tiialia/Batista Family]], he mostly just serves himself. He originally suggested that a gang of misfits conduct a heist on a birthday party at the Batista Family manor, and then betrayed these adventures, and then bargained with them to spare him in exchange for him lying about who they were (suggesting to the Batistas that they were [[Factions/Families of Tiialia/Ruz Family\|Ruz Family]] bandits). 
 
 # Key Details
 - **Age**: 45

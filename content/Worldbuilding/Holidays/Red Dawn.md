@@ -9,5 +9,5 @@ Author: Jordan
 ---
 
 - **Date:** Avaurus 1st
-- The [[Places/Tiialia\|Tiialan's]] take on [[Worldbuilding/Holidays/New Dawn]], this celebrates their goddess [[The Red Knight]].
+- The [[Factions/Tiialia\|Tiialan's]] take on [[Worldbuilding/Holidays/New Dawn]], this celebrates their goddess [[The Red Knight]].
 - Tiialans traditionally create a strategy for the coming year on this day.

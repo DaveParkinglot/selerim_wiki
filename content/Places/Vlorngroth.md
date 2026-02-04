@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2025-10-03T09:55:09.000-04:00
-modified: 2026-01-16T08:55:02.503-05:00
-published: 2026-01-16T08:55:02.503-05:00
+modified: 2026-02-04T12:40:43.272-05:00
+published: 2026-02-04T12:40:43.272-05:00
 cssclasses: ""
 Type:
   - Capital City
 Age (years): 1250
 Population: 22000
 Affiliation:
-  - "[[Factions/The Vlorn Dynasty]]"
+  - "[[Factions/Vlorn Dynasty]]"
 Government:
   - "[[High Lord Jorad Kranicz]]"
   - The Matron Mothers
@@ -25,16 +25,16 @@ Author: Jordan
 *Vlorngroth, beneath the Fungal Firmament*
 
 # Overview
-- The underground city of Vlorngroth lies beneath the surface world of Selerim, in the cavernous depths of the Underdark, 
-- Light from the phosphorescent Fungal Firmament casts a twilight glow upon the city
-- Vlorngroth has long been the seat of power for [[Factions/The Vlorn Dynasty]], an empire long forgotten by most surface dwellers
-- [[The Vlorn Dynasty]] is a ruthless meritocracy
+- The underground city of Vlorngroth lies beneath the surface world of Selerim, in the cavernous depths of the Underdark. 
+- Light from the phosphorescent Fungal Firmament casts a twilight glow upon the city.
+- Vlorngroth has long been the seat of power for the [[Factions/Vlorn Dynasty]], an empire long forgotten by most surface dwellers.
+- [[Vlorn Dynasty]] is a ruthless meritocracy.
 
 # Key Details
 - **Type**: Capital City
 - **Age:** 1250
 - **Population**: 22000
-- **Affiliation**: [[Factions/The Vlorn Dynasty\|The Vlorn Dynasty]]
+- **Affiliation**: [[Factions/Vlorn Dynasty\|Vlorn Dynasty]]
 - **Government:** [[High Lord Jorad Kranicz\|High Lord Jorad Kranicz]],The Matron Mothers
 - **Appearances:**  [[Adventures/Vlorngroth - The Manor of Madness\|Vlorngroth - The Manor of Madness]],[[Adventures/Vlorngroth - The Forge of Dingon\|Vlorngroth - The Forge of Dingon]],[[Adventures/Vlorngroth - 2 Manor 2 Madness\|Vlorngroth - 2 Manor 2 Madness]],[[Adventures/Vlorngroth - Vampire Weekday\|Vlorngroth - Vampire Weekday]]
 

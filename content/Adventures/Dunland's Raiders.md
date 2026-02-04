@@ -60,7 +60,7 @@ Classes:
 
 # Adventure Premise
 - You are members of the Tiialan army serving in a special cohort called Dunlands Raiders under [[NPCs/The White Grove/Captain Crebain Dunland]]. Your homelands are under attack by the forces of an evil warlock named [[Morganth]].
-- The fate of all [[Places/Tiialia]] may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
+- The fate of all [[Factions/Tiialia]] may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
 
 # Outcomes
 - Morganth's forces were pushed back into a small hold, where they used a relic called the [[Worldbuilding/Items/Blackfyre Orb]] to summon a demon from the Infinite Abyss. 
