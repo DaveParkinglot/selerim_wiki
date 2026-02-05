@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2025-08-22T12:50:53.000-04:00
-modified: 2026-02-04T12:34:21.526-05:00
-published: 2026-02-04T12:34:21.526-05:00
+modified: 2026-02-05T11:59:20.393-05:00
+published: 2026-02-05T11:59:20.393-05:00
 cssclasses: ""
 Author: Jordan
 ---
-
 
 Handout from [[Adventures/Vlorngroth - The Manor of Madness]]
 

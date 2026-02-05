@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-02-04T13:18:30.961-05:00
-published: 2026-02-04T13:18:30.961-05:00
+modified: 2026-02-05T12:54:54.304-05:00
+published: 2026-02-05T12:54:54.304-05:00
 cssclasses: ""
 Author: Jordan
 ---
@@ -11,7 +11,7 @@ Author: Jordan
 > *The world of Selerim is ever-changing, inconsistent, and always unfinished. Its histories are neither a science, nor are they exact.*
 
 ### Quick-Links:
-- [[Selerim Overview]] - campaign setting overview
+- [[Campaign Setting Overview]] - overview of the world (start here)
 - [[Selerim Timeline]] - timeline of formative events within the setting
 - [[Notable NPCs]] - running list of NPCs
 - [[Adventure Log]] - running log of adventures past

@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2024-10-06T18:04:58.000-04:00
-modified: 2025-10-30T11:56:43.989-04:00
-published: 2025-10-30T11:56:43.989-04:00
+modified: 2026-02-05T12:20:04.621-05:00
+published: 2026-02-05T12:20:04.621-05:00
 cssclasses: ""
 Author: Jordan
 ---
 
 
-- 3 millenia ago the prime Discordant (chaotic) and Ordered (lawful) gods allied against Tharizdun, shattering his spiritual power into 6 shards, which manifest as jagged pieces of glass.
+- 3 millennia ago the prime Discordant (chaotic) and Ordered (lawful) gods allied against Tharizdun, shattering his spiritual power into 6 shards, which manifest as jagged pieces of glass.
 - As it was decided that Tharizdun must never be allowed to manifest himself again, his form and spirit were kept divided and far from each other
 - The Ordered Gods retained the 3 physical sections
 	- Bahamut was given the upper physical shard (LG)
