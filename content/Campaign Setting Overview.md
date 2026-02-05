@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-02-05T12:52:17.303-05:00
-published: 2026-02-05T12:52:17.303-05:00
+modified: 2026-02-05T13:41:31.498-05:00
+published: 2026-02-05T13:41:31.498-05:00
 cssclasses: ""
 Author: Jordan
 ---
@@ -20,13 +20,13 @@ In these times, we fix our focus on the [[Places/Inhabitable Lands]]–largest o
 - The Salted City of [[Places/Corrodreth]], born of a forgotten empire and destroyed within living memory, offers hints at a civilization beyond the hazy [[Worldbuilding/Lore/Violet Bleed]] to the far west.
 
 # Namesake
-Selerim was first settled over 8,000 years ago by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elf (drow) god of war. For two centuries, Selvetarm and his drow followers used the world as a brutal factory of war, exhausting its resources and creating Planar Rifts to steal folk from other worlds to enslave. Despite his exceedingly dark deeds and his eternal banishment into the Abyss, Selvetarm remains the world's namesake to this day.
+Selerim was first settled over 8,000 years ago by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elf (drow) god of war. For two centuries, Selvetarm and his drow followers used the world as a brutal factory of war, exhausting its resources and creating Planar Rifts to steal and enslave folk from other worlds. Despite his exceedingly dark deeds and his eternal banishment into the Abyss, Selvetarm remains the world's namesake to this day.
 
 # Geography
 With the exception of the [[Places/Inhabitable Lands]], where most of our adventures take place, the [[Places/Living Realms]] of Selerim are largely undocumented. Within the Inhabitable Lands, there are tales of other Living Realms, but travel between them is prohibitively difficult, even in this age. The Inhabitable Lands themselves, now so diminished by [[Worldbuilding/Lore/Darkwells\|Darkwell]] floodwater, span a 400 mile strip along Selerim's equator.
 
 # Peoples
-The diversity seen amongst the peoples of Selerim is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20(the%20dark%20seldarine)_mtf) empire. In the towns, villages, and cities of Selerim, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved by a single authoritarian group. The exception to this rule are, of course, the drow who remain on Selerim. The drow of [[Places/Vlorngroth]] are openly hostile to surface dwellers, and the drow who live on the surface tend to skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
+The diversity seen amongst the peoples of Selerim is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20(the%20dark%20seldarine)_mtf) empire. In the towns, villages, and cities of Selerim, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved by a single authoritarian empire. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Places/Vlorngroth]] are openly hostile to surface dwellers, and the drow who live on the surface tend to skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
 
 As for magic, it is widely available, perhaps more so than on most worlds. Most folk in the [[Places/Inhabitable Lands]] can be taught to harness magic, though the innate magic of sorcerers was anomalously rare until the blood of dragons slain in the [[Worldbuilding/Events/Generations' War]] seeped into the ground, near the present day [[Places/Forsaken Expanse]]. To this day, most sorcerers of Selerim are born on the eastern side of [[Places/Tanglewood Peninsula]], where the concentration of dragon blood is strongest.
 

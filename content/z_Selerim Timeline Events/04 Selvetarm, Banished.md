@@ -1,10 +1,10 @@
 ---
 publish: true
 title: Selvetarm, Banished
-description: Triumphant at last, The Seldarine banish Selvetarm to The Abyss, while his surviving followers flee beyond sight, into the depths of the world. Before departing, the elf gods restore the war-scarred world and bequeath [[The Inhabitable Lands]] to Selvetarm's former slaves—a diverse multitude, stolen from countless worlds. This gift, recompense for their brutal captivity at the hands of The Seldarine’s fallen kin, marks the dawn of a new age in Selerim's history.
+description: Triumphant at last, The Seldarine banish Selvetarm to The Abyss, while his surviving followers flee beyond sight, into the depths of the world. Before departing, the elf gods restore parts of the scarred world and bequeath the [[Living Reams]] to Selvetarm's former slaves—a diverse multitude, stolen from countless worlds. This gift, recompense for their brutal captivity at the hands of The Seldarine’s fallen kin, marks the dawn of a new age in Selerim's history.
 created: 2025-07-02T15:01:55.000-04:00
-modified: 2025-10-30T11:55:40.061-04:00
-published: 2025-10-30T11:55:40.061-04:00
+modified: 2026-02-05T13:36:55.788-05:00
+published: 2026-02-05T13:36:55.788-05:00
 tags:
   - timeline
 cssclasses: ""
