@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-02-05T15:23:17.199-05:00
-published: 2026-02-05T15:23:17.199-05:00
+modified: 2026-02-06T11:33:49.378-05:00
+published: 2026-02-06T11:33:49.378-05:00
 cssclasses: ""
 Author: Jordan
 ---
 
 # Primer
-**The [[Selerim Timeline\|timeline of Selerim]] is that of a world wounded by war and calamity. The few and disparate [[Places/Living Realms]] are divided by vast tracts of [[Worldbuilding/Lore/Violet Bleed\|arcane fallout]], a devastating reminder of the [[Worldbuilding/Events/Nameless War\|brutal war]] fought at the world's inception. Within these disparate Living Realms, each mostly oblivious to the existence of the others, civilization marches forward at a varying, non-linear pace.**
+**The [[Selerim Timeline\|timeline of Selerim]] is that of a world wounded by war and calamity. The few and disparate [[Places/Living Realms]] are divided by vast tracts of [[Worldbuilding/Lore/Violet Bleed\|arcane fallout]], a devastating reminder of the [[Worldbuilding/Events/Nameless War\|brutal war]] fought at the world's inception. Within each of these isolated pockets of life, civilization advances at a varying, non-linear pace.**
 
 In these times, we fix our focus on the [[Places/Inhabitable Lands]]–largest of the Living Realms and host to many fantastic environs, both ancient and new:
 - [[Places/Nova Jersaeria]], metro-capital of the expansionist [[Factions/Tiialia\|Kingdom of Tiialia]], stands as a beacon of civilization and progress–despite constant conflict between its noble families.
@@ -16,7 +16,7 @@ In these times, we fix our focus on the [[Places/Inhabitable Lands]]–largest o
 - Thieves and merchants alike ply their trade in the free port city of [[Places/Scrimshaw City\|Scrimshaw]], all while a corporatized abyssal rift rages beneath the city's mean streets.
 - The [[Worldbuilding/Lore/Darkwells]] and other Planar Rifts lie dormant in the hidden places of the realm, waiting to be rediscovered and harnessed.
 - The quiet lifestyle of settlements on the [[Places/Tanglewood Peninsula]] has been disrupted by mutated monsters, and the call for adventurers has never been louder.
-- Progressive magical theory and unheard-of adventures await new students at [[Places/The White Grove]], Tiialia's most reputable (and only) state-sanctioned magical academy.
+- Progressive arcane theory and unheard-of adventures await new students at [[Places/The White Grove]], Tiialia's most reputable (and only) state-sanctioned magical academy.
 - The Salted City of [[Places/Corrodreth]], born of a forgotten empire and destroyed within living memory, offers hints at a civilization beyond the deadly [[Worldbuilding/Lore/Violet Bleed]] to the far west.
 
 # Namesake

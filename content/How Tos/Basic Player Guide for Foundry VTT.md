@@ -11,7 +11,7 @@
 ![[z_assets/visual_bingus.png|900]]
 
 ## How to open Character Sheet
-- Option 1: In the sidebar (on the right side of your screen), click into the Actors directory. Then locate Bingus in your player folder and click on him to open your sheet.
+- Option 1: In the sidebar (on the right side of your screen), click into the Actors directory. Then locate Bingus in your player folder and click on him to open his character sheet.
 
  ![[z_assets/bingus1.png]]
  - Option 2: If Bingus' token is visible, you can double left click him OR click him and hit 'C' to open his character sheet.
@@ -103,8 +103,7 @@
 
 ![[z_assets/bingus14.png|600]] 
 
-> Pro tip for math haters:
-- In your HP box, put -X to subtract X from your current health. Put +X to add X to your current health. Like below.
+> Pro tip for math haters: In your HP box, put -X to subtract X from your current health. Put +X to add X to your current health. Like below.
 
 *A relatively healthy 30 HP Bingus walks into a bar.*
 
