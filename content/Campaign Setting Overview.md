@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-02-06T11:33:49.378-05:00
-published: 2026-02-06T11:33:49.378-05:00
+modified: 2026-02-07T12:36:24.844-05:00
+published: 2026-02-07T12:36:24.844-05:00
 cssclasses: ""
 Author: Jordan
 ---
@@ -31,4 +31,4 @@ The diversity seen amongst the peoples of Selerim is such because their ancestor
 As for magic, it is widely available, perhaps more so than on most worlds. Most folk in the [[Places/Inhabitable Lands]] can be taught to harness magic, though the innate magic of sorcerers was anomalously rare until the blood of dragons slain in the [[Worldbuilding/Events/Generations' War]] seeped into the ground, near the present day [[Places/Forsaken Expanse]]. To this day, most sorcerers of Selerim are born on the eastern side of [[Places/Tanglewood Peninsula]] where the concentration of dragon blood is strongest.
 
 # Astronomy
-The world of Selerim is astronomically analogous to the Earth, with similar gravity and rotational patterns... unless I come up with something cooler at some point. There is one (surviving) moon, [[Lunadel]], and one star, [[Seladel]], around which the planet orbits. As of 264 B.T., the most widely used calendar is the [[Worldbuilding/Selerim Calendar\|Selerim Unified Calendar]], which very conveniently has 13 months of 28 days each.
+The world of Selerim is astronomically analogous to the Earth, with similar gravity and rotational patterns... unless I come up with something cooler at some point. [[Lunadel]] is Selerim's only surviving moon, and [[Seladel]] is the solitary star around which Selerim orbits. As of 264 B.T., the most widely used calendar is the [[Worldbuilding/Selerim Calendar\|Selerim Unified Calendar]], which very conveniently has 13 months of 28 days each.
