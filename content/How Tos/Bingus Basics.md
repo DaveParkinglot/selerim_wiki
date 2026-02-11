@@ -1,5 +1,7 @@
 - This guide describes an optimal combat turn with Bingus the dwarf barbarian. 
-- In D&D you get to do each of these 3 things on your turn: **Movement, Bonus Action.** Your character may also have features that can be used "for free", like Bingus' Reckless Attack.
+- In D&D you get to do each of these 3 things on your turn: **Movement, Action, and Bonus Action.**
+	- You can do these in any order, and you can split up your Movement as well (e.g., Move 15 ft. → Action → Move 15 ft. → Bonus Action)
+	- Your character may also have features that can be used "for free", like Bingus' Reckless Attack.
 
 # Bingus' Optimal Combat Turn
 1. **Movement:** Move up to 30 ft. to stand next to enemy NPC(s).
@@ -14,11 +16,11 @@
 > Bingus decides the tavernkeeper's payment will be the steel of his infamous greatsword, Gargoyle.
 1. When the DM asks, roll for Initiative! Your Initiative for the combat equals your D20 roll + 2 (your Dexterity modifier). 
 2. Wait for your turn...
-3. On your turn, describe to everyone what Bingus does.
-	- e.g., "Entering a drunken Rage, Bingus vaults the bar and unsheathes Gargoyle, recklessly swinging it at the miserly tavernkeeper who dared to serve him a watered down IPA!"
+3. On your turn, describe to everyone what Bingus does:
+> "Entering a drunken Rage, Bingus vaults the bar and unsheathes Gargoyle, recklessly swinging it at the miserly tavernkeeper who dared to serve him a watered down IPA!"
 4. If applicable, move Bingus' token up to 30 ft. toward the miserly tavernkeeper.
-5. Activate the barbarian's Rage feature.
-6. Activate the barbarian's Reckless Attack feature to give Bingus Advantage on his attack.
+5. Activate the barbarian Rage feature.
+6. Activate the barbarian Reckless Attack feature to give Bingus Advantage on his attack.
 7. Target the miserly tavernkeeper.
 8. Roll an Attack to see if you hit the tavernkeeper.
 9. If the attack hits, roll for damage. Even if the attack misses, Bingus still Grazes his target for 4 damage. 
