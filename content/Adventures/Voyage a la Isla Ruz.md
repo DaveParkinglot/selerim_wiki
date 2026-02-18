@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Voyage a la Isla Ruz
 created: 2025-10-22T08:02:27.000-04:00
-modified: 2026-01-16T08:55:00.620-05:00
-published: 2026-01-16T08:55:00.620-05:00
+modified: 2026-02-18T14:45:12.016-05:00
+published: 2026-02-18T14:45:12.016-05:00
 cssclasses: ""
 DM: Ethan
 Platform: Foundry

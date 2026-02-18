@@ -31,7 +31,7 @@ Author: Jordan
 - **Gender**: Female
 - **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Mayor
-- **Affiliation:** [[Crabbley Council\|Crabbley Council]]
+- **Affiliation:** [[Factions/Crabbley Council\|Crabbley Council]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 

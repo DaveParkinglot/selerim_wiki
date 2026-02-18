@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - The Haunted Flakes Factory
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2025-12-17T10:17:19.702-05:00
-published: 2025-12-17T10:17:19.702-05:00
+modified: 2026-02-18T14:44:31.091-05:00
+published: 2026-02-18T14:44:31.091-05:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry

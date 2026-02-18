@@ -1,22 +1,22 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:02.262-05:00
-published: 2026-01-16T08:55:02.262-05:00
+modified: 2026-02-18T14:43:26.321-05:00
+published: 2026-02-18T14:43:26.321-05:00
 cssclasses: ""
 Age: "41"
 Ancestry: Human
 Gender: Male
 Location:
   - "[[Nova Jersaeria]]"
-  - "[[The White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Captain
 Affiliation:
   - None
 Appearances:
   - "[[Dunland's Raiders]]"
-  - "[[The White Grove - Summer Vacation]]"
+  - "[[White Grove - Summer Vacation]]"
 Status: Alive
 Author: Jordan
 ---
@@ -30,10 +30,10 @@ Author: Jordan
 - **Age**: 41
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],[[Places/The White Grove\|The White Grove]]
+- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],[[Places/White Grove\|White Grove]]
 - **Role**: Captain
 - **Affiliation:** None
-- **Appearances:** [[Adventures/Dunland's Raiders\|Dunland's Raiders]],[[Adventures/The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/Dunland's Raiders\|Dunland's Raiders]],[[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes

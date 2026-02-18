@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - The Great Tiialan Heist
 created: 2025-07-27T17:24:16.000-04:00
-modified: 2025-12-17T10:29:45.898-05:00
-published: 2025-12-17T10:29:45.898-05:00
+modified: 2026-02-18T14:44:27.444-05:00
+published: 2026-02-18T14:44:27.444-05:00
 cssclasses: ""
 DM: Ethan
 Platform: Foundry

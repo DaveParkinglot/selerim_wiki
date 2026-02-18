@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - The Hellnight Soirée
 created: 2025-08-03T20:47:11.000-04:00
-modified: 2025-12-17T10:34:04.724-05:00
-published: 2025-12-17T10:34:04.724-05:00
+modified: 2026-02-18T14:44:33.209-05:00
+published: 2026-02-18T14:44:33.209-05:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry

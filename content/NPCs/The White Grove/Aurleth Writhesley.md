@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2025-10-15T10:42:10.000-04:00
-modified: 2026-01-16T08:55:02.256-05:00
-published: 2026-01-16T08:55:02.256-05:00
+modified: 2026-02-18T14:43:26.315-05:00
+published: 2026-02-18T14:43:26.315-05:00
 cssclasses: ""
 Age: "22"
 Ancestry:
   - Elf
 Gender: Male
 Location:
-  - "[[Places/The White Grove]]"
+  - "[[Places/White Grove]]"
 Role:
   - Student
   - Sophomore
@@ -17,7 +17,7 @@ Role:
 Affiliation:
   - "[[Places/Mitlin]]"
 Appearances:
-  - "[[The White Grove - Summer Vacation]]"
+  - "[[White Grove - Summer Vacation]]"
 Status: Alive
 Author: Jordan
 ---
@@ -25,7 +25,7 @@ Author: Jordan
 ![[z_assets/aurleth_writhesley.png|300]]
 
 # Overview
-- A hoity toity elf from [[Places/Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[The White Grove]].
+- A hoity toity elf from [[Places/Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[White Grove]].
 - He is in the Arcane College.
 - The new magic shop "Jack of Owl Trades" run by [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]] has cut in on his family's business in [[Mitlin]], Writhesley Family Wizardry. As the heir to the family business, Aurleth wants to get training on things like Arcane Intelligence so he can compete.
 
@@ -33,10 +33,10 @@ Author: Jordan
 - **Age**: 22
 - **Ancestry**: Elf
 - **Gender**: Male
-- **Location**: [[Places/The White Grove\|The White Grove]]
+- **Location**: [[Places/White Grove\|White Grove]]
 - **Role**: Student,Sophomore,Entrepreneur
 - **Affiliation:** [[Places/Mitlin\|Mitlin]]
-- **Appearances:** [[Adventures/The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes

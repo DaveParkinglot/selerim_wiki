@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Vlorngroth - Vampire Weekday
 created: 2025-10-03T10:23:37.000-04:00
-modified: 2025-12-17T10:36:21.516-05:00
-published: 2025-12-17T10:36:21.516-05:00
+modified: 2026-02-18T14:45:08.959-05:00
+published: 2026-02-18T14:45:08.959-05:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry

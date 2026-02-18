@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - The Marrowsucker Contract
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2025-12-17T12:26:34.972-05:00
-published: 2025-12-17T12:26:34.972-05:00
+modified: 2026-02-18T14:44:45.819-05:00
+published: 2026-02-18T14:44:45.819-05:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry
@@ -44,7 +42,7 @@ Classes:
 
 # Adventure Premise
 - On the outskirts of the desolate [[Places/Forsaken Expanse]], The Marrowsucker gnoll tribe has been defiling the bones of ancient dragons. They have hoarded "[[The Substance]]", a dragon-bone byproduct that the elves of [[Places/Mitlin]] consider to be sacred.
-- The wizard [[NPCs/Tanglewood Peninsula/Melvin Oaksleeves]], of [[Factions/The Oaken Conclave]], has put out a call for adventurers to eliminate the gnoll tribe and retrieve the hoarded Substance.
+- The wizard [[NPCs/Tanglewood Peninsula/Melvin Oaksleeves]], of the [[Factions/Oaken Conclave]], has put out a call for adventurers to eliminate the gnoll tribe and retrieve the hoarded Substance.
 
 # Outcomes
 - The party set out from Mitlin, discovering a mysterious camp of eviscerated gnoll corpses in their travels. They braved sandstorms and killed many gnoll bone harvesters in Bonedry Gulch, before taking the fight to the remaining Marrowsuckers in their cave hideout.

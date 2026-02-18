@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-02-07T12:36:24.844-05:00
-published: 2026-02-07T12:36:24.844-05:00
+modified: 2026-02-18T14:47:00.363-05:00
+published: 2026-02-18T14:47:00.363-05:00
 cssclasses: ""
 Author: Jordan
 ---
@@ -16,7 +16,7 @@ In these times, we fix our focus on the [[Places/Inhabitable Lands]]–largest o
 - Thieves and merchants alike ply their trade in the free port city of [[Places/Scrimshaw City\|Scrimshaw]], all while a corporatized abyssal rift rages beneath the city's mean streets.
 - The [[Worldbuilding/Lore/Darkwells]] and other Planar Rifts lie dormant in the hidden places of the realm, waiting to be rediscovered and harnessed.
 - The quiet lifestyle of settlements on the [[Places/Tanglewood Peninsula]] has been disrupted by mutated monsters, and the call for adventurers has never been louder.
-- Progressive arcane theory and unheard-of adventures await new students at [[Places/The White Grove]], Tiialia's most reputable (and only) state-sanctioned magical academy.
+- Progressive arcane theory and unheard-of adventures await new students at the [[Places/White Grove]], Tiialia's most reputable (and only) state-sanctioned magical academy.
 - The Salted City of [[Places/Corrodreth]], born of a forgotten empire and destroyed within living memory, offers hints at a civilization beyond the deadly [[Worldbuilding/Lore/Violet Bleed]] to the far west.
 
 # Namesake

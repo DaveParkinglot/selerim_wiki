@@ -32,7 +32,7 @@ Author: Jordan
 - **Gender**: Male
 - **Location**: [[Places/Crabbley\|Crabbley]]
 - **Role**: Inkeeper, Small Business Owner
-- **Affiliation:** [[Crabbley Council\|Crabbley Council]]
+- **Affiliation:** [[Factions/Crabbley Council\|Crabbley Council]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]]
 - **Status:** Alive
 

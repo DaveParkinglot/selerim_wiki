@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Selerim 5K
 created: 2025-11-03T18:37:06.000-05:00
-modified: 2026-01-16T09:56:55.550-05:00
-published: 2026-01-16T09:56:55.550-05:00
+modified: 2026-02-18T14:45:34.830-05:00
+published: 2026-02-18T14:45:34.830-05:00
 cssclasses: ""
 DM: Mike Doom
 Platform: Foundry

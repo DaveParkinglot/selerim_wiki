@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Land of Ash Hexcrawl
 created: 2025-12-17T09:17:00.000-05:00
-modified: 2025-12-17T10:45:34.651-05:00
-published: 2025-12-17T10:45:34.651-05:00
+modified: 2026-02-18T14:45:32.299-05:00
+published: 2026-02-18T14:45:32.299-05:00
 cssclasses: ""
 DM: Bishop
 Players:

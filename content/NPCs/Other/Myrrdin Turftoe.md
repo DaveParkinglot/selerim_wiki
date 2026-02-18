@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.196-05:00
-published: 2026-01-16T08:55:01.196-05:00
+modified: 2026-02-18T14:42:22.905-05:00
+published: 2026-02-18T14:42:22.905-05:00
 cssclasses: ""
 Age: "286"
 Ancestry: Halfling
 Gender: Male
 Location:
-  - "[[Places/The Wild Thicket]]"
+  - "[[Places/Wild Thicket]]"
 Role:
   - Archdruid, Mentor
 Affiliation:
@@ -34,7 +34,7 @@ Author: Jordan
 - **Age**: 286
 - **Ancestry**: Halfling
 - **Gender**: Male
-- **Location**: [[Places/The Wild Thicket\|The Wild Thicket]]
+- **Location**: [[Places/Wild Thicket\|Wild Thicket]]
 - **Role**: Archdruid, Mentor
 - **Affiliation:** The Circle of the Thicket
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
@@ -44,7 +44,7 @@ Author: Jordan
 - **Voice**: 
 - **Traits**: 
 - **Goals:** 
-	- Protect [[The Wild Thicket]]
+	- Protect [[Wild Thicket]]
 	- Banish [[NPCs/Other/Tzastis the Collector]]
 - **Appearance**: 
 

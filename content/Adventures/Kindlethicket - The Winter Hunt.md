@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Kindlethicket - The Winter Hunt
 created: 2025-07-25T10:08:23.000-04:00
-modified: 2025-12-17T10:20:38.129-05:00
-published: 2025-12-17T10:20:38.129-05:00
+modified: 2026-02-18T14:43:57.566-05:00
+published: 2026-02-18T14:43:57.566-05:00
 cssclasses: ""
 DM: Jordan
 Platform: In person

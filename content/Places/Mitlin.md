@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T08:16:34.000-04:00
-modified: 2026-01-18T10:29:48.114-05:00
-published: 2026-01-18T10:29:48.114-05:00
+modified: 2026-02-18T13:59:06.212-05:00
+published: 2026-02-18T13:59:06.212-05:00
 cssclasses: ""
 Type:
   - Town
@@ -32,7 +32,7 @@ Author: Jordan
 
 # Overview
 - Built into the towering trees that grow on the southeast side of the Tanglewood Peninsula, Mitlin is a peaceful town inhabited mainly by elves. 
-- [[Factions/The Oaken Conclave]] is the main ruling body. 
+- The [[Factions/Oaken Conclave]] is the main ruling body. 
 - The Home Tree, first of the Great Oaks of Mitlin, stands at the center of the town.
 - The religious sect Dragon Faithful has most of its members in Mitlin.
 

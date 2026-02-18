@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Bootknife's Bounty
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2025-12-17T10:19:27.762-05:00
-published: 2025-12-17T10:19:27.762-05:00
+modified: 2026-02-18T14:43:47.800-05:00
+published: 2026-02-18T14:43:47.800-05:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry
@@ -43,7 +41,7 @@ Classes:
 - **In-World Dates:** 264-06-17
 
 # Adventure Premise
-- You are travelers on the sailing ship The Dankwood Express, heading west from the Tanglewood Peninsula ([[Places/Crillville]], [[Places/Crabbley]], [[Places/Mitlin]], [[Places/Oasis]], or [[Places/Scrimshaw City]]). Your course is set for many destinations in The Great Delphin Sea ([[Places/Breakwater Cove]], [[Places/Forsyth Keep]], [[Places/The White Grove]], [[Places/Nova Jersaeria]]). Where are you leaving and where are you heading to? And more importantly, why?
+- You are travelers on the sailing ship The Dankwood Express, heading west from the Tanglewood Peninsula ([[Places/Crillville]], [[Places/Crabbley]], [[Places/Mitlin]], [[Places/Oasis]], or [[Places/Scrimshaw City]]). Your course is set for many destinations in The Great Delphin Sea ([[Places/Breakwater Cove]], [[Places/Forsyth Keep]], [[Places/White Grove]], [[Places/Nova Jersaeria]]). Where are you leaving and where are you heading to? And more importantly, why?
 - During the journey, you are approached by a goblin cabin boy named [[NPCs/Breakwater Cove/Bootknife]] has a big job coming up out of Breakwater Cove, and that he needs a good crew. The payout seems sizeable, but you'll want to meet this Bootknife fellow first…
 
 # Outcomes

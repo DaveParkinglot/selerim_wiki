@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Morganth's LEGION OF DOOM
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-01-16T08:55:00.584-05:00
-published: 2026-01-16T08:55:00.584-05:00
+modified: 2026-02-18T14:44:02.308-05:00
+published: 2026-02-18T14:44:02.308-05:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry

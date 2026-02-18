@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - The High Rollers Campaign
 created: 2025-07-25T11:30:00.000-04:00
-modified: 2026-01-16T09:54:04.059-05:00
-published: 2026-01-16T09:54:04.059-05:00
+modified: 2026-02-18T14:44:39.401-05:00
+published: 2026-02-18T14:44:39.401-05:00
 cssclasses: ""
 DM: Jordan
 Platform:
@@ -126,7 +124,7 @@ The OG campaign.
 ## Thwart The Collector
 
 ### Adventure Premise
-- Those who wander into [[Places/The Wild Thicket]] are preyed upon by fey who serve someone, or something, known as [[NPCs/Other/Tzastis the Collector\|"The Collector"]]. Not much is known about this Collector except that their fey minions are constantly appearing in these woods to deceive and kidnap any who wander in.
+- Those who wander into [[Places/Wild Thicket]] are preyed upon by fey who serve someone, or something, known as [[NPCs/Other/Tzastis the Collector\|"The Collector"]]. Not much is known about this Collector except that their fey minions are constantly appearing in these woods to deceive and kidnap any who wander in.
 - Tzastis is said to collect mortals like trophies in a location called "[[The Fathomless Vault]]", which is said to have many entrances on the material plane. One such entrance may be in [[The Trackless Mire]], according to [[NPCs/Other/Myrrdin Turftoe]].
 
 ### Outcomes

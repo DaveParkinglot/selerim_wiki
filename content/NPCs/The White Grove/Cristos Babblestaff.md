@@ -1,22 +1,22 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:02.267-05:00
-published: 2026-01-16T08:55:02.267-05:00
+modified: 2026-02-18T14:43:26.329-05:00
+published: 2026-02-18T14:43:26.329-05:00
 cssclasses: ""
 Age: "24"
 Ancestry: Orc
 Gender: Male
 Location:
-  - "[[Places/The White Grove]]"
+  - "[[Places/White Grove]]"
 Role:
   - Student
   - Super Senior
 Affiliation:
   - None
 Appearances:
-  - "[[The White Grove - First Semester]]"
-  - "[[The White Grove - Summer Vacation]]"
+  - "[[White Grove - First Semester]]"
+  - "[[White Grove - Summer Vacation]]"
 Status: Alive
 Author: Jordan
 ---
@@ -25,12 +25,12 @@ Author: Jordan
 
 # Overview
 
-## [[Adventures/The White Grove - First Semester\|The White Grove- First Semester]]
-- A studious and sometimes douchey orc studying at [[The White Grove]].
+## [[Adventures/White Grove - First Semester\|The White Grove- First Semester]]
+- A studious and sometimes douchey orc studying at [[White Grove]].
 - He was the first orc student admitted to The White Grove several years ago. He is a senior but he struggles in many of his classes.
 - He was betrayed by [[NPCs/The White Grove/Temur Octagon]] when Temur, who turned out to be working with [[Factions/Morganth's Legion of Doom]], tried to steal information on [[NPCs/Other/Tzastis the Collector]] from The White Grove library.
 
-## [[Adventures/The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
+## [[Adventures/White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
 - Cristos, nervous that he might not graduate next semester, needed the extra credit points from the scavenger hunt.
 - He helped the party deal with some flying snakes, but quickly became nervous about the ancient Corrodrethian temple and fled into the woods.
 - He participated in the killing and looting of Provost Serpentios, but was sworn to secrecy.
@@ -39,10 +39,10 @@ Author: Jordan
 - **Age**: 24
 - **Ancestry**: Orc
 - **Gender**: Male
-- **Location**: [[Places/The White Grove\|The White Grove]]
+- **Location**: [[Places/White Grove\|White Grove]]
 - **Role**: Student,Super Senior
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The White Grove - First Semester\|The White Grove - First Semester]],[[Adventures/The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/White Grove - First Semester\|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes

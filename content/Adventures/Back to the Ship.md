@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Back to the Ship
 created: 2025-12-14T09:47:35.000-05:00
-modified: 2025-12-18T07:40:19.650-05:00
-published: 2025-12-18T07:40:19.650-05:00
+modified: 2026-02-18T14:43:41.168-05:00
+published: 2026-02-18T14:43:41.168-05:00
 cssclasses: ""
 DM: Jordan
 Players:

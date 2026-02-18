@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Taking the Offensive
 created: 2025-12-17T09:10:20.210-05:00
-modified: 2025-12-18T07:40:42.898-05:00
-published: 2025-12-18T07:40:42.898-05:00
+modified: 2026-02-18T14:45:38.442-05:00
+published: 2026-02-18T14:45:38.442-05:00
 cssclasses: ""
 DM: Bishop
 Platform: Foundry

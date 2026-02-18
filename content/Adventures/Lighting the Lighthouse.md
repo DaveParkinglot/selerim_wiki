@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Lighting the Lighthouse
 created: 2025-11-02T09:22:56.000-05:00
-modified: 2025-12-17T11:59:55.671-05:00
-published: 2025-12-17T11:59:55.671-05:00
+modified: 2026-02-18T14:44:00.308-05:00
+published: 2026-02-18T14:44:00.308-05:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry
@@ -48,7 +46,7 @@ Classes:
 # Adventure Premise
 2 years ago, Aldwood Lighthouse was the center of a horrific necrotic storm that froze the surrounding sea and raised a horde of undead. Though the [[NPCs/Villains/Master Effree Jypstein\|lich]] responsible for these horrors was eventually brought to justice, the lighthouse remains out of commission and dead things still roam the necrotic ice sheet surrounding the lighthouse.
 
-With [[Worldbuilding/Holidays/Giftmas]] fast approaching, [[Factions/The Oaken Conclave]] of [[Places/Mitlin]] has decided that the lighthouse must be reclaimed. Through much negotiation with neighboring settlements on the [[Places/Tanglewood Peninsula]], they have procured the necessary magical items to do this:
+With [[Worldbuilding/Holidays/Giftmas]] fast approaching, the [[Factions/Oaken Conclave]] of [[Places/Mitlin]] has decided that the lighthouse must be reclaimed. Through much negotiation with neighboring settlements on the [[Places/Tanglewood Peninsula]], they have procured the necessary magical items to do this:
 - From the fey crossing of [[Places/Kindlethicket]] they have procured a radiant strand of hair from Titania, faerie queen of the summer court. 
 - From the fishing village of [[Places/Crabbley]] they have procured a sacred merfolk lyre that is attuned the sea. 
 - And from [[Places/Mitlin]] itself, they have procured the services of the great and celebrated musician [[NPCs/Tanglewood Peninsula/Detzin Stringwisp]], a local troubadour with extensive training in classical elvish tunes (he also has a Giftmas album coming out soon, which you can preorder).

@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - The Lost Archives of Wigglestaff
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2025-12-17T10:14:28.581-05:00
-published: 2025-12-17T10:14:28.581-05:00
+modified: 2026-02-18T14:44:44.031-05:00
+published: 2026-02-18T14:44:44.031-05:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry

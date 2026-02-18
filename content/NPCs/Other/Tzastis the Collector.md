@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:02.222-05:00
-published: 2026-01-16T08:55:02.222-05:00
+modified: 2026-02-18T14:43:26.292-05:00
+published: 2026-02-18T14:43:26.292-05:00
 cssclasses: ""
 Age: ??
 Ancestry: Archfey
@@ -16,8 +16,8 @@ Affiliation:
   - None
 Appearances:
   - "[[The High Rollers Campaign]]"
-  - "[[The White Grove - First Semester]]"
-  - "[[The White Grove - Summer Vacation]]"
+  - "[[White Grove - First Semester]]"
+  - "[[White Grove - Summer Vacation]]"
 Status: Alive
 Author: Jordan
 ---
@@ -38,7 +38,7 @@ Author: Jordan
 - **Location**: The Fathomless Vault
 - **Role**: Archfey,Collector of Relevant Mortals
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/The White Grove - First Semester\|The White Grove - First Semester]],[[Adventures/The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/White Grove - First Semester\|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes

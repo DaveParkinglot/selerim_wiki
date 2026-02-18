@@ -1,22 +1,22 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:02.248-05:00
-published: 2026-01-16T08:55:02.248-05:00
+modified: 2026-02-18T14:43:26.309-05:00
+published: 2026-02-18T14:43:26.309-05:00
 cssclasses: ""
 Age: "19"
 Ancestry: Tiefling
 Gender: Male
 Location:
-  - "[[The White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Freshman
 Affiliation:
   - None
 Appearances:
-  - "[[The White Grove - First Semester]]"
-  - "[[The White Grove - Summer Vacation]]"
+  - "[[White Grove - First Semester]]"
+  - "[[White Grove - Summer Vacation]]"
 Status: Alive
 Author: Jordan
 ---
@@ -32,10 +32,10 @@ Author: Jordan
 - **Age**: 19
 - **Ancestry**: Tiefling
 - **Gender**: Male
-- **Location**: [[Places/The White Grove\|The White Grove]]
+- **Location**: [[Places/White Grove\|White Grove]]
 - **Role**: Student,Freshman
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The White Grove - First Semester\|The White Grove - First Semester]],[[Adventures/The White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/White Grove - First Semester\|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes

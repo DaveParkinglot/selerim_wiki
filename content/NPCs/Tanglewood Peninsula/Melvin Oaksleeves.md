@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.975-05:00
-published: 2026-01-16T08:55:01.975-05:00
+modified: 2026-02-18T13:58:58.103-05:00
+published: 2026-02-18T13:58:58.103-05:00
 cssclasses: ""
 Age: "210"
 Ancestry: Elf
@@ -10,7 +10,7 @@ Gender: Male
 Location:
   - "[[Places/Mitlin]]"
 Role:
-  - Wise Wizard, Leader of The Oaken Conclave
+  - Wise Wizard
 Affiliation:
   - The Wise Wizards
 Appearances:
@@ -34,7 +34,7 @@ Author: Jordan
 - **Ancestry**: Elf
 - **Gender**: Male
 - **Location**: [[Places/Mitlin\|Mitlin]]
-- **Role**: Wise Wizard, Leader of The Oaken Conclave
+- **Role**: Wise Wizard
 - **Affiliation:** The Wise Wizards
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]]
 - **Status:** Alive

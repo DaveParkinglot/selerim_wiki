@@ -1,10 +1,8 @@
 ---
 publish: true
-aliases:
-  - Giftmas in Nova Jersaeria
 created: 2025-10-03T15:37:56.000-04:00
-modified: 2025-12-17T10:21:22.434-05:00
-published: 2025-12-17T10:21:22.434-05:00
+modified: 2026-02-18T14:43:52.994-05:00
+published: 2026-02-18T14:43:52.994-05:00
 cssclasses: ""
 DM: Jordan
 Platform: In person
