@@ -2,8 +2,8 @@
 publish: true
 aliases: Geblorgurin
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-02-04T12:32:50.098-05:00
-published: 2026-02-04T12:32:50.098-05:00
+modified: 2026-02-19T14:55:01.492-05:00
+published: 2026-02-19T14:55:01.492-05:00
 cssclasses: ""
 Age: Deceased
 Ancestry: Dwarf
@@ -43,7 +43,7 @@ Author: Jordan
 > - Dwarves are fiercely protective of their belongings in life, but in death they desire nothing more than to have their belongings used by worthy individuals
 > - Geblorgurin likely has other monuments meant to challenge the worthy, so that they may earn the powerful items forged by his people
 > - A remnant of Geblorgurin's spirit is left in his armor (he is super aggressive)
-> The meeting ended early because Melvin had to go investigate reports of Vlorn Trolls near the Forsaken Expanse.
+> The meeting ended early because Melvin had to go investigate reports of Vlorn Trolls near [[Places/The Forsaken Expanse]].
 
 # Key Details
 - **Age**: Deceased

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:01.691-05:00
-published: 2026-01-16T08:55:01.691-05:00
+modified: 2026-02-19T14:50:58.790-05:00
+published: 2026-02-19T14:50:58.790-05:00
 cssclasses: ""
 Age: "43"
 Ancestry: Human
@@ -33,7 +33,7 @@ Author: Jordan
 ## [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - He still held some sway, and had been working as a Tiialan spymaster out of his family's vineyard, supporting the [[Factions/Families of Tiialia/Landucci Family]] and the [[Factions/Families of Tiialia/Adonzio Family]].
 - Despite this, [[NPCs/Villains/Lord Draco Landucci]] schemed to undermine his authority, planning to give ownership of the Esposito Vineyard to [[NPCs/Tanglewood Peninsula/Trilbee Rampo]].
-- [[Player Characters/The High Rollers/The High Rollers]], while adventuring in the Forsaken Expanse, intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
+- [[Player Characters/The High Rollers/The High Rollers]], while adventuring in [[Places/The Forsaken Expanse]], intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
 - After some time working with [[The High Rollers]], Nino discovered his true ancestry, overthrew the tyrant [[NPCs/Villains/Lord Draco Landucci]], and rightfully took the crown of [[Factions/Tiialia]] for himself.
 
 # Key Details

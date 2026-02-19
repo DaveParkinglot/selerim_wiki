@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-02-18T14:47:00.363-05:00
-published: 2026-02-18T14:47:00.363-05:00
+modified: 2026-02-19T14:51:29.029-05:00
+published: 2026-02-19T14:51:29.029-05:00
 cssclasses: ""
 Author: Jordan
 ---
@@ -28,7 +28,7 @@ With the exception of the [[Places/Inhabitable Lands]], where most of our advent
 # Peoples
 The diversity seen amongst the peoples of Selerim is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20(the%20dark%20seldarine)_mtf) empire. In the towns, villages, and cities of Selerim, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Places/Vlorngroth]] are openly hostile to surface dwellers, while the drow living on the surface tend to skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
 
-As for magic, it is widely available, perhaps more so than on most worlds. Most folk in the [[Places/Inhabitable Lands]] can be taught to harness magic, though the innate magic of sorcerers was anomalously rare until the blood of dragons slain in the [[Worldbuilding/Events/Generations' War]] seeped into the ground, near the present day [[Places/Forsaken Expanse]]. To this day, most sorcerers of Selerim are born on the eastern side of [[Places/Tanglewood Peninsula]] where the concentration of dragon blood is strongest.
+As for magic, it is widely available, perhaps more so than on most worlds. Most folk in the [[Places/Inhabitable Lands]] can be taught to harness magic, though the innate magic of sorcerers was anomalously rare until the blood of dragons slain in the [[Worldbuilding/Events/Generations' War]] seeped into the ground, near the present day [[Places/The Forsaken Expanse]]. To this day, most sorcerers of Selerim are born on the eastern side of [[Places/Tanglewood Peninsula]] where the concentration of dragon blood is strongest.
 
 # Astronomy
 The world of Selerim is astronomically analogous to the Earth, with similar gravity and rotational patterns... unless I come up with something cooler at some point. [[Lunadel]] is Selerim's only surviving moon, and [[Seladel]] is the solitary star around which Selerim orbits. As of 264 B.T., the most widely used calendar is the [[Worldbuilding/Selerim Calendar\|Selerim Unified Calendar]], which very conveniently has 13 months of 28 days each.
