@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-02-07T12:33:37.238-05:00
-published: 2026-02-07T12:33:37.238-05:00
+modified: 2026-02-19T15:11:19.268-05:00
+published: 2026-02-19T15:11:19.268-05:00
 cssclasses: ""
 Author: Jordan
 ---
@@ -16,8 +16,8 @@ Author: Jordan
 - [[Notable NPCs]] - running list of NPCs
 - [[Adventure Log]] - running log of adventures past
 
-### Interactive Map of the *[[Places/Inhabitable Lands\|Inhabitable Lands of Selerim]]*:
+### Interactive Map of the *[[Places/Inhabitable Lands]]*:
 > [!map|minZoom:-2-maxZoom:3-zoomStep:0.5] InteractiveMap
-> ![[z_assets/the_inhabitable_lands_of_selerim.webp]]
+> ![[z_assets/inhabitable_lands.webp]]
 
-[[the_inhabitable_lands_of_selerim.webp|View full map image]]
+[[inhabitable_lands.webp|View full map image]]
