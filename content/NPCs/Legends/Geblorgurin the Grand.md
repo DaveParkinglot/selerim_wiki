@@ -31,7 +31,7 @@ Author: Jordan
 	- From the shell of a Marut that fell from sky, Geblorgurin pried the gem.
 	- Of the dead Marut's shell, Geblorgurin did forge his armor and his kingdom.
 
-> Notes from [[Player Characters/The High Rollers/Clint Weapon\|Clint Weapon's]] hour long meeting in [[Places/Mitlin]] with Melvin the elvish wizard.
+> Notes from [[Worldbuilding/Player Characters/The High Rollers/Clint Weapon\|Clint Weapon's]] hour long meeting in [[Places/Mitlin]] with Melvin the elvish wizard.
 > - [[Jordan's Notes/DM Notes/Gem of Eyes]] was originally found in the crater of a fallen star by Geblorgurin himself
 > - He used it to great effect in the never ending fight against incursions from the Vlorn
 > - Clint would know that [[Factions/Vlorn Dynasty]] is a faction in the Underdark led by the drow (dark elves)

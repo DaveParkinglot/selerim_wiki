@@ -37,7 +37,7 @@ Author: Jordan
 - **Gender**: Male
 - **Location**: The Esposito Vineyard,[[Places/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: Butler
-- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]],[[Factions/Families of Tiialia/Esposito Family\|Esposito Family]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]],[[Factions/Families of Tiialia/Esposito Family\|Esposito Family]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 

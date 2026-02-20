@@ -13,7 +13,7 @@ Location:
 Role:
   - Investigative Journalist
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers]]"
+  - "[[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Adventures/Arby's Sauce]]"
@@ -34,7 +34,7 @@ Author: Jordan
 - **Gender**: Male
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Investigative Journalist
-- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Arby's Sauce\|Arby's Sauce]]
 - **Status:** Alive
 

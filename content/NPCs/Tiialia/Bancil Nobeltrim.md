@@ -28,7 +28,7 @@ Author: Jordan
 ## **[[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]**
 - Originally Logan's player character.
 - A paladin of the god of justice, Tyr. Bancil hails from Crillville. 
-- Bancil adventured with The High Rollers for a long while after besting [[Player Characters/The High Rollers/Tadeusz]] in a duel to prove his worth.
+- Bancil adventured with The High Rollers for a long while after besting [[Worldbuilding/Player Characters/The High Rollers/Tadeusz]] in a duel to prove his worth.
 - Bancil, along with the other High Rollers, performed both great and terrible deeds while adventuring.
 - After the adventuring party deposed [[NPCs/Villains/Lord Davos Portnoir]], Bancil travelled with his family [[Nova Jersaeria]] to spread justice and the word of Tyr.
 

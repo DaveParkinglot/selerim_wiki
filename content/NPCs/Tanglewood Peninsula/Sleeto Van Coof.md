@@ -24,7 +24,7 @@ Author: Jordan
 
 # Overview
 - Thief, spymaster, father figure to the hapless Hoary Boulder.
-- After his initial heist of [[NPCs/Tanglewood Peninsula/Beezlebop]]'s woodland manor led to the deaths of most of his crew, Sleeto put together a new crew with [[NPCs/Scrimshaw City/Hoary Boulder]] and [[Player Characters/The High Rollers/The High Rollers]] to heist the mansion. This time it went much better, and for a while he became [[Player Characters/The High Rollers/The High Rollers]]' eyes and ears in Crabbley.
+- After his initial heist of [[NPCs/Tanglewood Peninsula/Beezlebop]]'s woodland manor led to the deaths of most of his crew, Sleeto put together a new crew with [[NPCs/Scrimshaw City/Hoary Boulder]] and [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] to heist the mansion. This time it went much better, and for a while he became [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]' eyes and ears in Crabbley.
 
 # Key Details
 - **Age**: 49

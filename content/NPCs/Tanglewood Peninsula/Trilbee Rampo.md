@@ -23,8 +23,8 @@ Author: Jordan
 
 # Overview
 - Owner of Rampo Wagons after his hostile takeover of Werner Wagons. They really don't make em like they used to.
-- Trilbee's son Willy was killed by [[Player Characters/The High Rollers/The High Rollers]] after he participated in a plot to take over the Tanglewood Peninsula with a giant mech-suit built by a captive [[NPCs/Tanglewood Peninsula/Dillon Lonergan]].
-- Trilbee was taken as a prisoner by [[Player Characters/The High Rollers/The High Rollers]] after they mounted an assault on [[NPCs/Villains/Lord Draco Landucci]]'s sand yacht, which was polluting [[Places/Oasis]] and the surrounding deserts of [[Places/The Forsaken Expanse]].
+- Trilbee's son Willy was killed by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] after he participated in a plot to take over the Tanglewood Peninsula with a giant mech-suit built by a captive [[NPCs/Tanglewood Peninsula/Dillon Lonergan]].
+- Trilbee was taken as a prisoner by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] after they mounted an assault on [[NPCs/Villains/Lord Draco Landucci]]'s sand yacht, which was polluting [[Places/Oasis]] and the surrounding deserts of [[Places/The Forsaken Expanse]].
 - After The High Rollers forced Trilbee to sign a vineyard purchase agreement in his own blood, Trilbee was left in Oasis as a prisoner of [[NPCs/Tanglewood Peninsula/Blackhorn the Barbarian]].
 
 # Key Details

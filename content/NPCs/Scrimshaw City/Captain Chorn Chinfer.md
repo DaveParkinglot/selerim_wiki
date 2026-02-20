@@ -25,7 +25,7 @@ Author: Jordan
 # Overview
 - Captain of the S.S. Tartarmule, before it became lodged in the ice leaving the Aldwood Lighthouse.
 - He is still without a ship, a crew, and a first mate after they were all killed by [[NPCs/Villains/Dr. Drendle]]'s undead.
-- He still owes [[Player Characters/The High Rollers/The High Rollers]] dinner with his wife one day...
+- He still owes [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] dinner with his wife one day...
 
 # Key Details
 - **Age**: 32

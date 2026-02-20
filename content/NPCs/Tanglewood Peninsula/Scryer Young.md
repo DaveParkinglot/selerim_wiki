@@ -35,7 +35,7 @@ Author: Jordan
 - **Gender**: Male
 - **Location**: [[Places/Mitlin\|Mitlin]]
 - **Role**: Merchant,Scryer
-- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]],[[Adventures/Lighting the Lighthouse\|Lighting the Lighthouse]]
 - **Status:** Alive
 

@@ -24,7 +24,7 @@ Author: Jordan
 
 # Overview
 - The original El Presidente of [[Places/Scrimshaw City]], who turned out to be a devil hiding in plain sight. 
-- He was sent screaming back to the Nine Hells after [[NPCs/Scrimshaw City/Hugh Mann]] and [[Player Characters/The High Rollers/The High Rollers]] slew him in his lair beneath the Tavernstool Office Complex.
+- He was sent screaming back to the Nine Hells after [[NPCs/Scrimshaw City/Hugh Mann]] and [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] slew him in his lair beneath the Tavernstool Office Complex.
 
 # Key Details
 - **Age**: 347

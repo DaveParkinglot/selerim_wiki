@@ -25,7 +25,7 @@ Author: Jordan
 ![[z_assets/frankie_fizzno.png|300]]
 
 # Overview
- - He and [[NPCs/Scrimshaw City/Blostin Brawnslag]] gave the first quest to [[Player Characters/The High Rollers/The High Rollers]] after they requested that the party track down and locate [[NPCs/Scrimshaw City/Spurgon Bogolog]], their missing frontman.
+ - He and [[NPCs/Scrimshaw City/Blostin Brawnslag]] gave the first quest to [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] after they requested that the party track down and locate [[NPCs/Scrimshaw City/Spurgon Bogolog]], their missing frontman.
 - World renowned lutist, and one of the 3 members of Crag Delta.
 - They've played venues from [[Places/Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
 - His actual name and stage name are Franky Fizzno.

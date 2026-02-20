@@ -23,7 +23,7 @@ Author: Jordan
 
 # Overview
 - Owner of Pinny Stilts, Inc. His co-owner Pinny went missing while sailing Boater's Bay.
-- For a while, he employed [[Player Characters/The High Rollers/The High Rollers]] to conduct salvage operations along the coastlines of the Tanglewood Peninsula.
+- For a while, he employed [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] to conduct salvage operations along the coastlines of the Tanglewood Peninsula.
 
 # Key Details
 - **Age**: 44

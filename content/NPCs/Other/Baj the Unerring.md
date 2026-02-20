@@ -23,7 +23,7 @@ Author: Jordan
 ![[z_assets/baj_the_unerring.png|300]]
 
 # Overview
-- After [[Player Characters/The High Rollers/The High Rollers]] assembled the three Gems of Eyes, they combined into a singular, larger eye. Around this eye, Baj the Unerring's physical form was able to manifest.
+- After [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] assembled the three Gems of Eyes, they combined into a singular, larger eye. Around this eye, Baj the Unerring's physical form was able to manifest.
 - Somehow, Baj was killed and his Gold Plate shattered prior to the reign of [[NPCs/Legends/Geblorgurin the Grand]] over 250 years ago.
 - The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil.
 

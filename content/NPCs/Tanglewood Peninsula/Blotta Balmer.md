@@ -25,7 +25,7 @@ Author: Jordan
 # Overview
 - A proud orc barbarian, member of the [[Crabbley]] based adventuring party The Backbreakers, and [[NPCs/Tanglewood Peninsula/Gronstew Bogbeast]]'s second in command.
 - Like the others in her party, Blotta originally hails from the smaller village of [[Borfield]].
-- She hooked up with [[Player Characters/The High Rollers/Tadeusz]] during the celebrations following the Battle of [[Places/Crillville]], when [[NPCs/Villains/Malmstein the Tangler]] was defeated.
+- She hooked up with [[Worldbuilding/Player Characters/The High Rollers/Tadeusz]] during the celebrations following the Battle of [[Places/Crillville]], when [[NPCs/Villains/Malmstein the Tangler]] was defeated.
 - At some point, she was betrothed to marry Bobby Dismorphia.
 
 # Key Details

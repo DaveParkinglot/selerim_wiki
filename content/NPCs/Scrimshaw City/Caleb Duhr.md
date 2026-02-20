@@ -14,7 +14,7 @@ Role:
   - Rock
   - Mascot
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers]]"
+  - "[[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -33,7 +33,7 @@ Author: Jordan
 - **Gender**: Male
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: Rock,Mascot
-- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 

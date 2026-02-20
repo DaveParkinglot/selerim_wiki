@@ -14,7 +14,7 @@ Role:
   - Druid
   - Merchant
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers]]"
+  - "[[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Kindlethicket - Envoys of Mitlin]]"
@@ -35,7 +35,7 @@ Author: Jordan
 - **Gender**: Male
 - **Location**: [[Places/Mitlin\|Mitlin]]
 - **Role**: Former Adventurer,Druid,Merchant
-- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]]
 - **Status:** Alive
 

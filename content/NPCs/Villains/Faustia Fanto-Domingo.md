@@ -27,7 +27,7 @@ Author: Jordan
 - Cunning enchantress, and matriarch of [[Fanto-Domingo Family]]
 - She orchestrated the Midsummer Massacre that wiped out the [[Factions/Families of Tiialia/Esposito Family]].
 - She was in league with the tyrant [[NPCs/Villains/Lord Draco Landucci]], and sought to rule all of Tiialia through the puppet king Antonio Adonzio.
-- She was killed by [[Player Characters/The High Rollers/The High Rollers]] in the [[Places/Nova Jersaeria]] throne room during their confrontation with Lord Draco Landucci and his burly twin sons.
+- She was killed by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] in the [[Places/Nova Jersaeria]] throne room during their confrontation with Lord Draco Landucci and his burly twin sons.
 
 # Key Details
 - **Age**: 46

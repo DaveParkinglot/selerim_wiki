@@ -22,7 +22,7 @@ Author: Jordan
 ![[z_assets/myrrdin_turftoe.png|300]]
 
 # Overview
-- [[Player Characters/The High Rollers/Francis Greenstrider De Luca]]'s druidic mentor and savior from early in his adventuring career. He leads the Circle of the Thicket and lives amongst the pines of The Wild Thicket.
+- [[Worldbuilding/Player Characters/The High Rollers/Francis Greenstrider De Luca]]'s druidic mentor and savior from early in his adventuring career. He leads the Circle of the Thicket and lives amongst the pines of The Wild Thicket.
 	- He is the druid that rescued Frankie from being attacked by minions of [[NPCs/Other/Tzastis the Collector]].
 	- He also then trained Frankie in druidcraft.
 	- As an old mentor he likes to test or quiz Frankie on his druidic knowledge.

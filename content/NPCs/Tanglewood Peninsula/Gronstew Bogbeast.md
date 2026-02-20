@@ -25,7 +25,7 @@ Author: Jordan
 # Overview
 - Leader of Gronstew & The Backbreakers, an adventuring party based in [[Places/Crabbley]].
 - Gronstew and his friends originally hail from [[Borfield]], but moved to [[Crabbley]] for better adventuring contracts.
-- The Backbreakers were rivals with [[Player Characters/The High Rollers/The High Rollers]] for a while, until a gnome-nade killed two of their members.
+- The Backbreakers were rivals with [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] for a while, until a gnome-nade killed two of their members.
 
 # Key Details
 - **Age**: 31

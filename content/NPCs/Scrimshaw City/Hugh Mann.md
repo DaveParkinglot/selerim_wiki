@@ -14,7 +14,7 @@ Role:
   - El Presidente
   - Former Adventurer
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers]]"
+  - "[[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]"
   - Tavernstool
 Appearances:
   - "[[The High Rollers Campaign]]"
@@ -40,7 +40,7 @@ Author:
 - **Gender**: Male
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
 - **Role**: El Presidente,Former Adventurer
-- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]],Tavernstool
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]],Tavernstool
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Spring Cleaning in Scrimshaw City\|Spring Cleaning in Scrimshaw City]],[[Adventures/The Hellnight Soirée\|The Hellnight Soirée]]
 - **Status:** Alive
 

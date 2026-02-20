@@ -25,7 +25,7 @@ Author: Jordan
 
 # Overview
 - Dillon has spent most of his life serving the [[Factions/Vlorn Dynasty]], mostly against his will and at the tip of a drow's knife. 
-- He was recently brought onto a project to create a doomsday machine to reclaim the Tanglewood Peninsula for the Vlorn, but that project recently fell apart due to intervention from [[Player Characters/The High Rollers/The High Rollers]] intervention. 
+- He was recently brought onto a project to create a doomsday machine to reclaim the Tanglewood Peninsula for the Vlorn, but that project recently fell apart due to intervention from [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] intervention. 
 - At Eros' urging, Dillon turned over a new leaf and became the local artificer in the town of [[Crabbley]].
 - He assisted the Cronium Gnomes in repairing their broken teleporter, which almost never malfunctions now.
 

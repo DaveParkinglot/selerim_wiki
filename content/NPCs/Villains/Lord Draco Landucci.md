@@ -24,13 +24,13 @@ Author: Jordan
 ![[z_assets/lord_draco_landucci.png|300]]
 
 # Overview
-- Before his death at the hands of [[Player Characters/The High Rollers/The High Rollers]], Lord Landucci was all of these things:
+- Before his death at the hands of [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]], Lord Landucci was all of these things:
 	- Tiialan Lord
 	- [[Landucci Family]] patriarch
 	- High Commander of the Legions of Tiialia
 	- Former sand yacht owner
 - He sought to rule all of Tiialia through the puppet king Antonio Adonzio.
-- He was killed by [[Player Characters/The High Rollers/The High Rollers]] in the Nova Jersaeria throne room, along with [[NPCs/Villains/Faustia Fanto-Domingo]] and his burly twin sons Lorus and Korus.
+- He was killed by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] in the Nova Jersaeria throne room, along with [[NPCs/Villains/Faustia Fanto-Domingo]] and his burly twin sons Lorus and Korus.
 
 # Key Details
 - **Age**: 56

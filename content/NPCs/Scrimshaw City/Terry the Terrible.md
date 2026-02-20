@@ -15,7 +15,7 @@ Role:
   - Former Criminal
   - Head Chef
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers]]"
+  - "[[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Adventures/Arby's Sauce]]"
@@ -29,7 +29,7 @@ aliases:
 ![[z_assets/terry_the_terrible.png|300]]
 
 # Overview
-- Terry used to run a small time bandit gang in [[Places/Scrimshaw City\|Scrimshaw]], but after kidnapping [[NPCs/Scrimshaw City/Hoary Boulder]] and running afoul of [[Player Characters/The High Rollers/The High Rollers]], his crew was wiped out.
+- Terry used to run a small time bandit gang in [[Places/Scrimshaw City\|Scrimshaw]], but after kidnapping [[NPCs/Scrimshaw City/Hoary Boulder]] and running afoul of [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]], his crew was wiped out.
 - After some soul searching, he decided to take a job as sous chef at The Spicy Meatball. He is now head chef, after the disappearance of [[The High Rollers]].
 
 # Key Details
@@ -38,7 +38,7 @@ aliases:
 - **Gender**: Male
 - **Location**: [[Places/Scrimshaw City\|Scrimshaw City]],[[Places/The Spicy Meatball\|The Spicy Meatball]]
 - **Role**: Former Criminal,Head Chef
-- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Arby's Sauce\|Arby's Sauce]],[[Adventures/New Dawn - Hellfist Heist\|New Dawn - Hellfist Heist]]
 - **Status:** Alive
 

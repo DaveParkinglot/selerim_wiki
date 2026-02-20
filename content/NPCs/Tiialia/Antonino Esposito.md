@@ -14,7 +14,7 @@ Role:
   - Former Spymaster
 Affiliation:
   - "[[Factions/Families of Tiialia/Esposito Family]]"
-  - "[[Player Characters/The High Rollers/The High Rollers]]"
+  - "[[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -26,14 +26,14 @@ Author: Jordan
 # Overview
 - Last known remnant of the blood of the Old Kings of Tiialia.
 - Sole survivor of the Midsummer Massacre, last remaining member of the once powerful [[Esposito Family]].
-- He was great friends with [[Player Characters/The High Rollers/Francis Greenstrider De Luca]]’s father Marco, before his death at the hands of [[Factions/Families of Tiialia/Fanto-Domingo Family]].
+- He was great friends with [[Worldbuilding/Player Characters/The High Rollers/Francis Greenstrider De Luca]]’s father Marco, before his death at the hands of [[Factions/Families of Tiialia/Fanto-Domingo Family]].
 - He worked as a spy with Marco De Luca when they were younger
 	- "Nino" was the fourth son of the Esposito family, and never had a thought of becoming a leader within the family
 	- He is last member of his family, and he has the Fanto-Domingos to thank for everything
 ## [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - He still held some sway, and had been working as a Tiialan spymaster out of his family's vineyard, supporting the [[Factions/Families of Tiialia/Landucci Family]] and the [[Factions/Families of Tiialia/Adonzio Family]].
 - Despite this, [[NPCs/Villains/Lord Draco Landucci]] schemed to undermine his authority, planning to give ownership of the Esposito Vineyard to [[NPCs/Tanglewood Peninsula/Trilbee Rampo]].
-- [[Player Characters/The High Rollers/The High Rollers]], while adventuring in [[Places/The Forsaken Expanse]], intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
+- [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]], while adventuring in [[Places/The Forsaken Expanse]], intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
 - After some time working with [[The High Rollers]], Nino discovered his true ancestry, overthrew the tyrant [[NPCs/Villains/Lord Draco Landucci]], and rightfully took the crown of [[Factions/Tiialia]] for himself.
 
 # Key Details
@@ -42,7 +42,7 @@ Author: Jordan
 - **Gender**: Male
 - **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]]
 - **Role**: King of Tiialia,Former Spymaster
-- **Affiliation:** [[Factions/Families of Tiialia/Esposito Family\|Esposito Family]],[[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
+- **Affiliation:** [[Factions/Families of Tiialia/Esposito Family\|Esposito Family]],[[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 

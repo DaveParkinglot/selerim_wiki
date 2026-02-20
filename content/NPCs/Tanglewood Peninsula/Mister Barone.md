@@ -23,7 +23,7 @@ Author: Jordan
 
 # Overview
 - The tough burly bouncer at The Soggy Bottom Tavern, he has put the beatdown on many people who deserved it and some who didn't.
-- Once, while doing his job, his uppercut knocked [[Player Characters/The High Rollers/Tadeusz]] 10 feet into the air.
+- Once, while doing his job, his uppercut knocked [[Worldbuilding/Player Characters/The High Rollers/Tadeusz]] 10 feet into the air.
 
 # Key Details
 - **Age**: 33

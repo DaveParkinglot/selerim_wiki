@@ -25,7 +25,7 @@ Author: Jordan
 
 # Overview
 - [[NPCs/Tiialia/Riggle Fragoo]]'s best and only salesman. 
-- He worked as [[Player Characters/The High Rollers/The High Rollers]] during their time in Nova Jersaeria.
+- He worked as [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] during their time in Nova Jersaeria.
 
 # Key Details
 - **Age**: 32

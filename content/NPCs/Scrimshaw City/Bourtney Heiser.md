@@ -24,7 +24,7 @@ Author: Jordan
 
 # Overview
 - Barkeep at the tavern The Billowing Boar. He is originally from Tiialia.
-- Before [[NPCs/Villains/Lord Davos Portnoir]]'s deposition by [[Player Characters/The High Rollers/The High Rollers]], he was one of many tenants suffering from rent increases.
+- Before [[NPCs/Villains/Lord Davos Portnoir]]'s deposition by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]], he was one of many tenants suffering from rent increases.
 - He is still resentful of his parents for naming him Bourtney.
 
 # Key Details

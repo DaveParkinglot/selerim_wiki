@@ -31,7 +31,7 @@ Author: Jordan
  - As a brave knight of [[Factions/Tiialia]], Chauncy became a war hero after he and [[Adventures/Dunland's Raiders\|Dunland's Raiders]] defeated the forces of [[Morganth]] and saved [[Factions/Tiialia]] from a demonic invasion.
 
 ## [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
- - Chauncy put in his lot with the [[Factions/Families of Tiialia/Landucci Family]], and betrayed [[Player Characters/The High Rollers/The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Player Characters/The High Rollers/Otieno]].
+ - Chauncy put in his lot with the [[Factions/Families of Tiialia/Landucci Family]], and betrayed [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Worldbuilding/Player Characters/The High Rollers/Otieno]].
 
 ## [[Adventures/The Hellnight Soirée\|The Hellnight Soirée]]
  - After his death, he battled on the fiery plains of Avernus for a time before he somehow made his way to the Prison Plane of Carceri, where he now works to earn his freedom from a powerful Soul Dealer.

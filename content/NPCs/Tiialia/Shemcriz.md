@@ -24,7 +24,7 @@ Author: Jordan
 
 # Overview
 - Shemcriz is a sturdy, thick, and hapless kobold who gets in way over his head way too often.
-- He originally came to the surface with a scouting party from Vlorngroth, but overstayed his welcome in the distillery of the Esposito Vineyard, where he was captured by [[Player Characters/The High Rollers/The High Rollers]].
+- He originally came to the surface with a scouting party from Vlorngroth, but overstayed his welcome in the distillery of the Esposito Vineyard, where he was captured by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]].
 - Later, he was found by The High Rollers (and luckily saved) while being sacrificed to a yuan-ti god.
 
 # Key Details

@@ -33,7 +33,7 @@ Author: Jordan
 - **Gender**: Male
 - **Location**: The Esposito Vineyard
 - **Role**: Sleepy Wizard
-- **Affiliation:** [[Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
 - **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness\|Vlorngroth - The Manor of Madness]],[[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
 - **Status:** Alive
 

@@ -71,13 +71,13 @@ The OG campaign.
 # Players & Characters
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Evan | [[Player Characters/The High Rollers/Clint Weapon\|Clint Weapon]] | Human | Barbarian |
+| Evan | [[Worldbuilding/Player Characters/The High Rollers/Clint Weapon\|Clint Weapon]] | Human | Barbarian |
 | Logan | [[NPCs/Tiialia/Bancil Nobeltrim\|Bancil Nobeltrim]] | Half-Elf | Paladin |
-| Logan | [[Player Characters/The High Rollers/Lorundil the Wanderer\|Lorundil the Wanderer]] | Half-Elf | Warlock |
-| Michael | [[Player Characters/The High Rollers/Otieno\|Otieno]] | Elf | Ranger |
+| Logan | [[Worldbuilding/Player Characters/The High Rollers/Lorundil the Wanderer\|Lorundil the Wanderer]] | Half-Elf | Warlock |
+| Michael | [[Worldbuilding/Player Characters/The High Rollers/Otieno\|Otieno]] | Elf | Ranger |
 | Mike Doom | [[NPCs/Scrimshaw City/Hugh Mann\|Hugh Mann]] | "Human" (Fiend) | Wizard |
-| Mike Doom | [[Player Characters/The High Rollers/Francis Greenstrider De Luca\|Francis Greenstrider De Luca]] | Half-Elf | Cleric/Druid |
-| Peter | [[Player Characters/The High Rollers/Tadeusz\|Tadeusz]] | Human | Blood Hunter |
+| Mike Doom | [[Worldbuilding/Player Characters/The High Rollers/Francis Greenstrider De Luca\|Francis Greenstrider De Luca]] | Half-Elf | Cleric/Druid |
+| Peter | [[Worldbuilding/Player Characters/The High Rollers/Tadeusz\|Tadeusz]] | Human | Blood Hunter |
 | George | Eros | Satyr | Bard |
 | George | P3360 TUR60 | Warforged | Rogue |
 | Fisher | [[NPCs/Tanglewood Peninsula/Bwanson Wagwan\|Bwanson Wagwan]] | Owlin | Druid |
@@ -89,7 +89,7 @@ The OG campaign.
 - End the threat to [[Places/Crabbley]] and [[Places/Crillville]] by eliminating [[NPCs/Villains/Malmstein the Tangler]] and his terroristic druid organization [[The Tanglers]].
 ### Outcomes
 - The forces of [[Places/Crabbley]] and [[Places/Crillville]] retook [[Places/Crillville]] after it was occupied by The Tanglers.
-- In the final confrontation, [[Player Characters/The High Rollers/The High Rollers]] struck down Malmstein, who was summarily executed by [[NPCs/Tanglewood Peninsula/Dick Gunbarrel]].
+- In the final confrontation, [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] struck down Malmstein, who was summarily executed by [[NPCs/Tanglewood Peninsula/Dick Gunbarrel]].
 
 
 ## Depose Lord Davos Portnoir
@@ -106,7 +106,7 @@ The OG campaign.
 - Remove control of [[Factions/Tiialia]] from the hands of the tyrant [[NPCs/Villains/Lord Draco Landucci]] and the nasty [[Factions/Families of Tiialia/Fanto-Domingo Family\|Fanto-Domingo family]].
 - Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[NPCs/Tiialia/Antonino Esposito]].
 ### Outcomes
-- The tyrant [[NPCs/Villains/Lord Draco Landucci]] was overthrown by [[Player Characters/The High Rollers/The High Rollers]] and Antonino "Nino" Esposito.
+- The tyrant [[NPCs/Villains/Lord Draco Landucci]] was overthrown by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] and Antonino "Nino" Esposito.
 - Long live the new King of [[Factions/Tiialia]]: Nino Esposito.
 
 
@@ -115,7 +115,7 @@ The OG campaign.
 ### Adventure Premise
 - Kill the lich [[NPCs/Villains/Master Effree Jypstein\|Effree Jypstein]] also known as "The Master" and eliminate the threat of his undead hordes to the world of Selerim.
 ### Outcomes
-- With the help of [[NPCs/Vlorngroth/Carbuckle Duskshot]], [[Player Characters/The High Rollers/The High Rollers]] snuck out of [[Places/Nova Jersaeria]], and delved through the Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
+- With the help of [[NPCs/Vlorngroth/Carbuckle Duskshot]], [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] snuck out of [[Places/Nova Jersaeria]], and delved through the Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
 - Effree Jypstein was killed and his phylactery was destroyed.
 
 
@@ -128,16 +128,16 @@ The OG campaign.
 - Tzastis is said to collect mortals like trophies in a location called "[[The Fathomless Vault]]", which is said to have many entrances on the material plane. One such entrance may be in [[The Trackless Mire]], according to [[NPCs/Other/Myrrdin Turftoe]].
 
 ### Outcomes
-- [[Player Characters/The High Rollers/The High Rollers]] did not play their best hand, and were soundly defeated after venturing into The Fathomless Vault and exploring several of Tzastis' exhibits.
-- [[Player Characters/The High Rollers/The High Rollers]] along with their old friends [[Maldoy]] and [[Eros]] are now on display as [[NPCs/Other/Tzastis the Collector]]'s 900th exhibit: The Spicy Meatball.
-- The wider world does not know the fate of [[Player Characters/The High Rollers/The High Rollers]], and though they may be forgotten, it is possible that someone will rescue them from this terrible and seemingly permanent fate.
+- [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] did not play their best hand, and were soundly defeated after venturing into The Fathomless Vault and exploring several of Tzastis' exhibits.
+- [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] along with their old friends [[Maldoy]] and [[Eros]] are now on display as [[NPCs/Other/Tzastis the Collector]]'s 900th exhibit: The Spicy Meatball.
+- The wider world does not know the fate of [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]], and though they may be forgotten, it is possible that someone will rescue them from this terrible and seemingly permanent fate.
 
 
 ## Archfey Assistance
 
 ### Adventure Premise
 - **[[NPCs/Other/Skitterdream]]'s Requests:**
-  "I entreat you on behalf of the opponents of The Black Prince. After these threats to your material plane are dealt with, the services of [[Player Characters/The High Rollers/The High Rollers]] will soon be needed by an archfey of the summer court. To aid you in your current quests, and with the hope of receiving your help at its end, I have given you a powerful boon: the experience of dreams, and a single Quickdream Potion. Forget it not."
+  "I entreat you on behalf of the opponents of The Black Prince. After these threats to your material plane are dealt with, the services of [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] will soon be needed by an archfey of the summer court. To aid you in your current quests, and with the hope of receiving your help at its end, I have given you a powerful boon: the experience of dreams, and a single Quickdream Potion. Forget it not."
 - **The Wreath of [[Naviask]]:**
   "The wreath that you once found must be recovered, as it contains the instructions from Naviask, the Blooming Balor. The instructions are known only to Naviask, and he has disappeared, perhaps killed or imprisoned by The Black Prince."
 - The Wreath of Naviask was last carried by [[Eros]]. Basically it sounds like the wreath may have many crucial voicemails on it from Naviask…
