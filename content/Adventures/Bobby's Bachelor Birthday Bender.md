@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T12:22:17.000-05:00
-modified: 2026-02-23T11:48:40.963-05:00
-published: 2026-02-23T11:48:40.963-05:00
+modified: 2026-02-23T12:26:40.012-05:00
+published: 2026-02-23T12:26:40.012-05:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry
@@ -54,7 +54,7 @@ Classes:
 - The boys did some classic Borfield chew-offs. Oddly, Gane's chew-off included the image of a crude iron flask engraved with demonic script. Gane was very troubled by this, but Bobby and the boys assured him that nothing bad could happen during the bachelor party.
 - Hoary surprised Bobby by renting out the "'Tween Worlds Tavern", from his gnome friend [[NPCs/Tanglewood Peninsula/Bopus]]. The tavern, floating on the silvery Astral Sea, included many amenities like planar portals and multiple kegs of pumpkin turpentine IPA.
 - Deep into their drunken slumber, Bobby and Bingus heard a booming voice shout "YOU ARE MINE" from Cousin Gane's room, but they both decided it wasn't worth losing any sleep over.
-- In the morning (at noon), the boys entered Gane's room and found an empty keg of pumpkin turpentine IPA and Gane's equally empty body. From the demonic script tattooed on his neck, it was clear that his soul had been taken by the demon lord Pazuzu.
+- In the morning (at noon), Squeembo realized that Gane was missing his breakfast eggs. In Gane's room, the boys found an empty keg of pumpkin turpentine IPA and Gane's equally empty body. From the demonic script tattooed on his neck, it was clear that his soul had been taken by the demon lord Pazuzu.
 - The boys ventured through an unstable gnomish portal into Pazunia, first layer of the Infinite Abyss. There, they battled against the dastardly [[NPCs/Other/Chauncy the Unrepentant\|Hellknight Chauncy]], who was attempting to escape the infernal planes.
 - Uncle Bobson cleverly entangled Chauncy in vines, and the boys beat the Hellknight until his infernal body turned to sulfurous ash.
 - The Avatar of Pazuzu, arising from a deep canyon, told the boys that he truly enjoyed watching their brutal contest with Chauncy.
