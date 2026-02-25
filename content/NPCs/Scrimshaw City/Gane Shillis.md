@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-25T10:14:57.437-05:00
-modified: 2026-02-25T10:22:53.266-05:00
-published: 2026-02-25T10:22:53.266-05:00
+modified: 2026-02-25T10:35:28.373-05:00
+published: 2026-02-25T10:35:28.373-05:00
 cssclasses: ""
 Age: "32"
 Ancestry:
@@ -25,10 +25,10 @@ aliases:
 ---
 
 
-![[z_assets/Pasted image 20260225101935.png|300]]
+![[z_assets/gane_shillis.png|300]]
 
 # Overview
-- Gane is Bobby Dismorphia's older cousin.
+- Gane is [[Bobby Dismorphia]]'s older cousin.
 - Like Bobby, he grew up in [[Borfield]], but unlike Bobby he hit the big time through his stand-up comedy.
 - He now does comedy shows in big cities like [[Places/Nova Jersaeria]] and [[Scrimshaw City]]. The latter is where he spends most of his time.
 
