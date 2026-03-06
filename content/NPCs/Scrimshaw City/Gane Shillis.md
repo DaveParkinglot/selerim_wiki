@@ -33,7 +33,7 @@ aliases:
 - He now does comedy shows in big cities like [[Places/Nova Jersaeria]] and [[Scrimshaw City]]. The latter is where he spends most of his time.
 
 ## [[Bobby's Bachelor Birthday Bender]]
-- Gane was invited to Bobby's Bachelor Birthday Bender by [[NPCs/Scrimshaw City/Hoary Boulder]].
+- Gane was invited to Bobby's Bachelor Birthday Bender by [[Hoary Boulder]].
 - During the party, his soul was taken by the demon lord [[NPCs/Other/Pazuzu]] to join "Pazuzu's Pals" and do stand-up for them. 
 - The boys made a deal to get Gane's soul back on weekends, but they have to complete Pazuzu's quest.
 
