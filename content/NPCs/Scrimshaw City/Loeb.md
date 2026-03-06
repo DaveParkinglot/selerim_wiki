@@ -53,6 +53,6 @@ Author: Jordan
 | [[NPCs/Scrimshaw City/Arbeits Gemeinschaften]] | Employee      |
 | [[NPCs/Scrimshaw City/Hooligan Dupree]]        | Employee      |
 | [[NPCs/Scrimshaw City/Usus 'Sussy' Grimsby]]   | Employee      |
-| [[Hoary Boulder]]          | Employee      |
+| [[NPCs/Scrimshaw City/Hoary Boulder]]          | Employee      |
 | [[NPCs/Scrimshaw City/Caleb Duhr]]             | Employee      |
 | [[NPCs/Scrimshaw City/Terry the Terrible]]     | Employee      |

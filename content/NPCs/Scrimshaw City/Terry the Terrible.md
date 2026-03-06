@@ -29,7 +29,7 @@ aliases:
 ![[z_assets/terry_the_terrible.png|300]]
 
 # Overview
-- Terry used to run a small time bandit gang in [[Places/Scrimshaw City\|Scrimshaw]], but after kidnapping [[Hoary Boulder]] and running afoul of [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]], his crew was wiped out.
+- Terry used to run a small time bandit gang in [[Places/Scrimshaw City\|Scrimshaw]], but after kidnapping [[NPCs/Scrimshaw City/Hoary Boulder]] and running afoul of [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]], his crew was wiped out.
 - After some soul searching, he decided to take a job as sous chef at The Spicy Meatball. He is now head chef, after the disappearance of [[The High Rollers]].
 
 # Key Details
