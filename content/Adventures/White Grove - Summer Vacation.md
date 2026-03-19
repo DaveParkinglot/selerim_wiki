@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-16T21:13:04.000-04:00
-modified: 2026-02-18T14:45:17.464-05:00
-published: 2026-02-18T14:45:17.464-05:00
+modified: 2026-03-19T08:46:52.565-04:00
+published: 2026-03-19T08:46:52.565-04:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry
@@ -16,7 +16,7 @@ Author: Jordan
 Players:
   - Ethan
   - Mike Doom
-  - Brian
+  - Gorrie
   - Bishop
 Characters:
   - Crimslaw Brutefang
@@ -83,5 +83,5 @@ Classes:
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Crimslaw Brutefang | Orc | Wizard |
 | Mike Doom | Tony Gorgonzoli | Human | Wizard |
-| Brian | The Earl | Genasi | Warlock |
+| Gorrie | The Earl | Genasi | Warlock |
 | Bishop | Sari | Elf | Ranger |

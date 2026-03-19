@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T10:23:37.000-04:00
-modified: 2026-02-18T14:45:08.959-05:00
-published: 2026-02-18T14:45:08.959-05:00
+modified: 2026-03-19T08:46:39.591-04:00
+published: 2026-03-19T08:46:39.591-04:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry
@@ -14,7 +14,7 @@ Author: Jordan
 Players:
   - Bishop
   - Ethan
-  - Brian
+  - Gorrie
   - Mike Doom
 Characters:
   - Nemata
@@ -58,6 +58,6 @@ Classes:
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Nemata | Duergar | Fighter |
 | Ethan | Bombus Mitz | Drow | Cleric |
-| Brian | Ebli Gigs | Kobold | Warlock |
+| Gorrie | Ebli Gigs | Kobold | Warlock |
 | Mike Doom | The Darkness | Drow | Warlock |
 

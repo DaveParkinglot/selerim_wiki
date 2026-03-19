@@ -2,13 +2,13 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-02-25T10:37:41.688-05:00
-published: 2026-02-25T10:37:41.688-05:00
+modified: 2026-03-18T09:12:20.000-04:00
+published: 2026-03-18T09:12:20.000-04:00
 cssclasses: ""
 Author: Jordan
 ---
 
-> *The world of Selerim is ever-changing, inconsistent, and always unfinished. Its histories are neither a science, nor are they exact.*
+*The world of Selerim is ever-changing, inconsistent, and always unfinished. Its histories are neither a science, nor are they exact.*
 
 ### Quick-Links:
 - [[Campaign Setting Overview]] - overview of the world (start here)

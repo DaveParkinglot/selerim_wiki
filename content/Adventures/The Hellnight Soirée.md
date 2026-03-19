@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-03T20:47:11.000-04:00
-modified: 2026-02-18T14:44:33.209-05:00
-published: 2026-02-18T14:44:33.209-05:00
+modified: 2026-03-19T08:46:31.192-04:00
+published: 2026-03-19T08:46:31.192-04:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry
@@ -13,7 +13,7 @@ Setting: Selerim
 Author: Jordan
 Players:
   - Laura
-  - Brian
+  - Gorrie
   - Mike Doom
 Characters:
   - Bianca “Mad Dog” Bianchi
@@ -53,6 +53,6 @@ Classes:
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Laura | Bianca “Mad Dog” Bianchi | Goliath | Warlock |
-| Brian | Colin Forbackup | Orc | Cleric |
+| Gorrie | Colin Forbackup | Orc | Cleric |
 | Mike Doom | David Hellscream | Orc | Fighter |
 

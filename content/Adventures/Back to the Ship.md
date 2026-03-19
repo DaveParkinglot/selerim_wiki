@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-12-14T09:47:35.000-05:00
-modified: 2026-02-18T14:43:41.168-05:00
-published: 2026-02-18T14:43:41.168-05:00
+modified: 2026-03-19T08:46:07.878-04:00
+published: 2026-03-19T08:46:07.878-04:00
 cssclasses: ""
 DM: Jordan
 Players:
   - Mike Doom
   - Ethan
-  - Brian
+  - Gorrie
 Platform: Foundry
 Sessions: 1
 Start Date: 2025-12-11
@@ -52,5 +52,5 @@ Classes:
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Mike Doom | Francis "Voidstrider" De Luca | Human | Cleric |
 | Ethan | Cran Halcard | Human | Rogue |
-| Brian | Liro Ashe | Elf | Wizard |
+| Gorrie | Liro Ashe | Elf | Wizard |
 

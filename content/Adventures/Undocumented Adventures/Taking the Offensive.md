@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-17T09:10:20.210-05:00
-modified: 2026-02-18T14:45:38.442-05:00
-published: 2026-02-18T14:45:38.442-05:00
+modified: 2026-03-19T08:46:22.935-04:00
+published: 2026-03-19T08:46:22.935-04:00
 cssclasses: ""
 DM: Bishop
 Platform: Foundry
@@ -17,7 +17,7 @@ Players:
   - Jordan
   - Ethan
   - Tim
-  - Brian
+  - Gorrie
 Characters:
   - Montius "Monty" Landucci
   - Beebon Gluv
@@ -57,5 +57,5 @@ Classes:
 | Jordan | Montius "Monty" Landucci | Human | Fighter |
 | Ethan | Beebon Gluv | Human | Cleric |
 | Tim | Fenro "Tiny" Johnson | Firbolg | Cleric |
-| Brian | Swampy Moonshine | Satyr | Druid |
+| Gorrie | Swampy Moonshine | Satyr | Druid |
 

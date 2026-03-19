@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2025-12-17T09:10:20.210-05:00
-modified: 2026-02-18T14:45:41.740-05:00
-published: 2026-02-18T14:45:41.740-05:00
+modified: 2026-03-19T08:46:45.196-04:00
+published: 2026-03-19T08:46:45.196-04:00
 cssclasses: ""
-DM: Brian
+DM: Gorrie
 Platform:
   - Foundry
 Sessions: 2
@@ -37,7 +37,7 @@ Classes:
 ---
 
 # Details
-- **DM**: Brian
+- **DM**: Gorrie
 - **Platform:** Foundry
 - **Sessions:** 2
 - **Run Dates:** 2025-11-06 - 

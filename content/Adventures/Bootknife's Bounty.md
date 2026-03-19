@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:43:47.800-05:00
-published: 2026-02-18T14:43:47.800-05:00
+modified: 2026-03-19T08:46:15.175-04:00
+published: 2026-03-19T08:46:15.175-04:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry
@@ -12,7 +12,7 @@ In-World Start Date: 264-06-17
 Setting: Selerim
 Author: Jordan
 Players:
-  - Brian
+  - Gorrie
   - Mike Doom
   - Ethan
   - David
@@ -52,7 +52,7 @@ Classes:
 # Players & Characters
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Brian | Galath Goatjumper Kalageaku | Goliath | Paladin |
+| Gorrie | Galath Goatjumper Kalageaku | Goliath | Paladin |
 | Mike Doom | Joey Babaganoush | Human | Monk |
 | Ethan | Jaemee Babaganoush | Human | Wizard |
 | David | Talco | Tiefling | Bard |

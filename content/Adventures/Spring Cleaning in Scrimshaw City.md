@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:21.105-05:00
-published: 2026-02-18T14:44:21.105-05:00
+modified: 2026-03-19T08:46:26.971-04:00
+published: 2026-03-19T08:46:26.971-04:00
 cssclasses: ""
 DM: Jordan
 Platform: Foundry
@@ -14,7 +14,7 @@ Author: Jordan
 Players:
   - Mike Doom
   - Laura
-  - Brian
+  - Gorrie
 Characters:
   - David Hellscream
   - Bianca “Mad Dog” Bianchi
@@ -49,4 +49,4 @@ Classes:
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Mike Doom | David Hellscream | Orc | Fighter |
 | Laura | Bianca “Mad Dog” Bianchi | Goliath | Warlock |
-| Brian | Colin Forbackup | Orc | Cleric |
+| Gorrie | Colin Forbackup | Orc | Cleric |
