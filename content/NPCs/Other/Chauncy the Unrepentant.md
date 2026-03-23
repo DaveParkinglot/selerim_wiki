@@ -3,7 +3,6 @@ publish: true
 created: 2025-08-12T09:01:12.000-04:00
 modified: 2026-02-25T10:13:36.919-05:00
 published: 2026-02-25T10:13:36.919-05:00
-cssclasses: ""
 Age: "26"
 Ancestry:
   - Fiend (Devil)

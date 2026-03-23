@@ -6,7 +6,6 @@ title: Corrodreth, The Salted City
 created: 2023-09-02T09:43:46.000-04:00
 modified: 2026-02-04T13:10:24.440-05:00
 published: 2026-02-04T13:10:24.440-05:00
-cssclasses: ""
 Type:
   - Desolate Ruin
 Age (years): 1800

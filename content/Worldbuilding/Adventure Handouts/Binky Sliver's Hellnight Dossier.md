@@ -3,7 +3,6 @@ publish: true
 created: 2025-08-05T13:40:44.000-04:00
 modified: 2026-01-16T08:55:01.106-05:00
 published: 2026-01-16T08:55:01.106-05:00
-cssclasses: ""
 Author: Jordan
 ---
 
@@ -43,7 +42,7 @@ Absolutely do NOT let these jokers into my party!
 
 ### [[NPCs/Other/Chauncy the Unrepentant]]
 - This one actually hails from your world of Selerim. Chauncy has betrayed more friends than he's ever had in the name of making a name for himself, and he may be difficult to talk down without a fight.
-- He was somewhat recently slain by [[Player Characters/The High Rollers/The High Rollers]] somewhere in the [[Places/Tiialia]], and sent screaming to the fiery battlefields of Avernus.
+- He was somewhat recently slain by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] somewhere in the [[Factions/Tiialia]], and sent screaming to the fiery battlefields of Avernus.
 - It seems that he made his way from Avernus to the Prison Plane of Carceri, where he now works to earn his freedom from a powerful Soul Dealer.
 
 ![[z_assets/chauncy_the_unrepentant.png|300]]

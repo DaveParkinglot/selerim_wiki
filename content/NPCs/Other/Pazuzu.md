@@ -3,7 +3,6 @@ publish: true
 created: 2025-08-12T09:10:18.000-04:00
 modified: 2026-01-16T08:55:01.082-05:00
 published: 2026-01-16T08:55:01.082-05:00
-cssclasses: ""
 Age: ??
 Ancestry:
   - Demon

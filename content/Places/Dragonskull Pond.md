@@ -5,7 +5,6 @@ aliases:
 created: 2025-12-08T11:41:36.156-05:00
 modified: 2026-02-19T14:51:29.034-05:00
 published: 2026-02-19T14:51:29.034-05:00
-cssclasses: ""
 ---
 
 ![[z_assets/dragonskull_pond.png|500]]

@@ -3,7 +3,6 @@ publish: true
 created: 2025-07-21T11:30:45.000-04:00
 modified: 2026-02-19T14:57:08.610-05:00
 published: 2026-02-19T14:57:08.610-05:00
-cssclasses: ""
 Age: "58"
 Ancestry: Half-Elf
 Gender: Male

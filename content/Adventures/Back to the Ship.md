@@ -3,7 +3,6 @@ publish: true
 created: 2025-12-14T09:47:35.000-05:00
 modified: 2026-03-19T08:46:07.878-04:00
 published: 2026-03-19T08:46:07.878-04:00
-cssclasses: ""
 DM: Jordan
 Players:
   - Mike Doom

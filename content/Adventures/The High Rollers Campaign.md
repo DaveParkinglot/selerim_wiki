@@ -3,7 +3,6 @@ publish: true
 created: 2025-07-25T11:30:00.000-04:00
 modified: 2026-02-18T14:44:39.401-05:00
 published: 2026-02-18T14:44:39.401-05:00
-cssclasses: ""
 DM: Jordan
 Platform:
   - Foundry

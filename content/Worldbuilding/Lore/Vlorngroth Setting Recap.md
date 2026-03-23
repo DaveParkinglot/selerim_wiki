@@ -1,7 +1,7 @@
 > Recap of all the happenings in [[Places/Vlorngroth]].
 
 ## [[Adventures/Vlorngroth - The Manor of Madness\|The Manor of Madness]]
-- Nearly 2 years ago, a group of inquisitors of the [[Vlorn Dynasty]] located a [[Worldbuilding/Items/Blackfyre Orb]] in Duskveil Asylum (aka, the Manor of Madness), and used it to summon the wretched draegloth demigod [[NPCs/Legends/Proklor the Despoiler]]
+- Nearly 2 years ago, a group of inquisitors of the [[Factions/Vlorn Dynasty]] located a [[Worldbuilding/Items/Blackfyre Orb]] in Duskveil Asylum (aka, the Manor of Madness), and used it to summon the wretched draegloth demigod [[NPCs/Legends/Proklor the Despoiler]]
 - Proklor, this great draegloth of legend, has been seen rarely, if at all since he was summoned to [[Places/Vlorngroth]].
 - Rumors abound about the nature of High Lord Kranicz's deal with Proklor.
 	- Some say that the High Lord uses Proklor as a threat to those who would oppose him.
@@ -14,10 +14,10 @@
 - A month after Proklor's summoning, the rebellious duergar, Dyksin Poosie, who participated in that infamous asylum raid, was holding rallies and speaking out against the High Lord's "rampant disregard of duergar culture".
 - A crack team of Inquisitors assassinated Dyksin and his followers at The Forge of Dingon, a duergar cultural heritage site.
 - Notably, they also located a Surface Tunnel which led to a vineyard in the heartland of [[Places/Nova Jersaeria]].
-- That foothold on the surface allowed a significant number of Inquisitors to infiltrate the local governments of [[Places/Tiialia]], but all full-scale surface incursions proved unsuccessful due to Tiialia's military prowess.
+- That foothold on the surface allowed a significant number of Inquisitors to infiltrate the local governments of [[Factions/Tiialia]], but all full-scale surface incursions proved unsuccessful due to Tiialia's military prowess.
 
 ## [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
-- Incursions by Vlorn agents began to occur in [[Places/Tiialia]] while [[Player Characters/The High Rollers/The High Rollers]] were adventuring there.
+- Incursions by Vlorn agents began to occur in [[Factions/Tiialia]] while [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] were adventuring there.
 - They thwarted the incursions, killing many scouts and even a draegloth, which held a decree from [[High Lord Jorad Kranicz]] about an impending Vlorn invasion of Tiialia.
 - A drow named [[NPCs/Vlorngroth/Carbuckle Duskshot]] began hunting The High Rollers for the bounty on their heads, but ultimately became an ally of necessity after both the adventuring party and Carbuckle were caught up in [[NPCs/Villains/Master Effree Jypstein]]'s undead invasion of [[Places/Nova Jersaeria]].
 

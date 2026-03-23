@@ -12,9 +12,9 @@
 - Jypstein decided he was not content with having one object of great power, and so he hired Arcturus the Artificer to devise a ritual by which the gem could be copied.
 - During the ritual, Jypstein betrayed Arcturus and trapped his soul inside the original gem, making the original copy of the Gem his phylactery.
 	- He then gave one copied gem to [[NPCs/Villains/Dr. Drendle]] hoping that some use could be found for it.
-	- He eventually traded the second copy to [[NPCs/Villains/Lord Draco Landucci]] of [[Factions/The Kingdom of Tiialia/Landucci Family]] in return for a Manual of Flesh Golems that Landucci had procured from the yuan-ti necromancers in the ruins of [[Places/Corrodreth]].
+	- He eventually traded the second copy to [[NPCs/Villains/Lord Draco Landucci]] of [[Factions/Families of Tiialia/Landucci Family]] in return for a Manual of Flesh Golems that Landucci had procured from the yuan-ti necromancers in the ruins of [[Places/Corrodreth]].
 	- The original gem he kept for himself, as his phylactery.
-- [[Player Characters/The High Rollers/Clint Weapon]] took it from [[NPCs/Villains/Dr. Drendle]] after the events at the Aldwood Lighthouse
+- [[Worldbuilding/Player Characters/The High Rollers/Clint Weapon]] took it from [[NPCs/Villains/Dr. Drendle]] after the events at the Aldwood Lighthouse
 - The three gems attract each other. Individually, each could be returned or even sold back to The Primus in return for a reward. 
 - Marut are as difficult to create as they are to destroy, and the eye of a Marut is certainly a priceless treasure.
 - Ultimately, the gems were all destroyed when they were combined into [[NPCs/Other/Baj the Unerring]].

@@ -3,7 +3,6 @@ publish: true
 created: 2025-10-03T09:55:09.000-04:00
 modified: 2026-02-04T12:40:43.272-05:00
 published: 2026-02-04T12:40:43.272-05:00
-cssclasses: ""
 Type:
   - Capital City
 Age (years): 1250

@@ -3,7 +3,6 @@ publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-02-18T14:42:22.905-05:00
 published: 2026-02-18T14:42:22.905-05:00
-cssclasses: ""
 Age: "286"
 Ancestry: Halfling
 Gender: Male

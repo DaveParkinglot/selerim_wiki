@@ -3,7 +3,6 @@ publish: true
 created: 2025-07-21T11:30:44.000-04:00
 modified: 2026-02-04T12:30:54.362-05:00
 published: 2026-02-04T12:30:54.362-05:00
-cssclasses: ""
 Age: "22"
 Ancestry: Kobold
 Gender: Male

@@ -3,7 +3,6 @@ publish: true
 created: 2025-10-22T07:44:04.000-04:00
 modified: 2026-01-16T08:55:02.535-05:00
 published: 2026-01-16T08:55:02.535-05:00
-cssclasses: ""
 Age: Unknown
 Ancestry: Human
 Gender: Male

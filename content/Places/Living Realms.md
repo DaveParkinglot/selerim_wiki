@@ -1,10 +1,10 @@
 ---
 publish: true
-aliases: " Living Realm"
+aliases:
+  - Living Realm
 created: 2026-02-04T12:08:10.014-05:00
 modified: 2026-02-05T11:10:01.686-05:00
 published: 2026-02-05T11:10:01.686-05:00
-cssclasses: ""
 alias: Living Realm
 Author: Jordan
 ---

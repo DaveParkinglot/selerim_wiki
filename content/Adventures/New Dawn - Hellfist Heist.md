@@ -3,7 +3,6 @@ publish: true
 created: 2026-01-06T08:11:09.000-05:00
 modified: 2026-02-18T14:44:12.516-05:00
 published: 2026-02-18T14:44:12.516-05:00
-cssclasses: ""
 DM: Jordan
 Players:
   - David

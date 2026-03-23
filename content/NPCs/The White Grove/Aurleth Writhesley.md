@@ -3,7 +3,6 @@ publish: true
 created: 2025-10-15T10:42:10.000-04:00
 modified: 2026-02-18T14:43:26.315-05:00
 published: 2026-02-18T14:43:26.315-05:00
-cssclasses: ""
 Age: "22"
 Ancestry:
   - Elf

@@ -7,7 +7,6 @@ title: Scrimshaw, Free Port City
 created: 2025-07-25T12:30:40.000-04:00
 modified: 2026-01-16T09:19:26.629-05:00
 published: 2026-01-16T09:19:26.629-05:00
-cssclasses: ""
 Type:
   - Free City
 Age (years): 450

@@ -3,7 +3,6 @@ publish: true
 created: 2025-08-12T08:58:27.000-04:00
 modified: 2026-01-16T08:55:01.049-05:00
 published: 2026-01-16T08:55:01.049-05:00
-cssclasses: ""
 Age: "174"
 Ancestry: Fiend (Devil), Sahuagin
 Gender: Male

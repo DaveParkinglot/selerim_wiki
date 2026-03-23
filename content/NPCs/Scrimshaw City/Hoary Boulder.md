@@ -3,7 +3,6 @@ publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-03-03T09:46:02.000-05:00
 published: 2026-03-03T09:46:02.000-05:00
-cssclasses: ""
 Age: "35"
 Ancestry:
   - Human

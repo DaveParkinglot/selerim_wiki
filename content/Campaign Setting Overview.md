@@ -1,9 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-02-22T11:32:01.967-05:00
-published: 2026-02-22T11:32:01.967-05:00
-cssclasses: ""
+modified: 2026-03-23T17:58:59.423-04:00
+published: 2026-03-23T17:58:59.423-04:00
 Author: Jordan
 ---
 
@@ -31,4 +30,10 @@ The diversity seen amongst the peoples of Selerim is such because their ancestor
 As for magic, it is widely available, perhaps more so than on most worlds. Most folk in the [[Places/Inhabitable Lands]] can be taught to harness magic, though the innate magic of sorcerers was anomalously rare until the blood of dragons slain in the [[Worldbuilding/Events/Generations' War]] seeped into the ground, near the present day [[Places/The Forsaken Expanse\|Forsaken Expanse]]. To this day, most sorcerers of Selerim are born on the eastern side of [[Places/Tanglewood Peninsula]] where the concentration of dragon blood is strongest.
 
 # Astronomy
-The world of Selerim is astronomically analogous to the Earth, with similar gravity and rotational patterns... unless I come up with something cooler at some point. [[Lunadel]] is Selerim's only surviving moon, and [[Seladel]] is the solitary star around which Selerim orbits. As of 264 B.T., the most widely used calendar is the [[Worldbuilding/Selerim Calendar\|Selerim Unified Calendar]], which very conveniently has 13 months of 28 days each.
+The world of Selerim is analogous to the Earth, with similar gravity and rotational patterns... unless I come up with something cooler at some point. [[Lunadel]] is Selerim's only surviving moon, and [[Seladel]] is the solitary star around which Selerim orbits. As of 264 B.T., the most widely used calendar is the [[Worldbuilding/Selerim Calendar\|Selerim Unified Calendar]], which very conveniently has 13 months of 28 days each.
+
+# Cosmology
+Selerim is assumed to follow The Great Wheel cosmology configuration as described in the D&D Dungeon Master's Guide, with few exceptions:
+- Due to its damaged ley lines, extraplanar travel is typically easier on Selerim than it is in other worlds. 
+- As they are reflections of the Material Plane, the Feywild and the Shadowfell are affected by the [[Worldbuilding/Lore/Violet Bleed]].
+![[z_assets/great_wheel_cosmology.png|1000]]

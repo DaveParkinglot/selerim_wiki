@@ -3,7 +3,6 @@ publish: true
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-01-16T09:19:26.595-05:00
 published: 2026-01-16T09:19:26.595-05:00
-cssclasses: ""
 Age: "32"
 Ancestry:
   - Satyr

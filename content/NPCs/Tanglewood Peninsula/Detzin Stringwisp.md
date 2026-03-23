@@ -5,7 +5,6 @@ aliases:
 created: 2025-11-02T10:33:16.000-05:00
 modified: 2026-01-18T10:29:48.073-05:00
 published: 2026-01-18T10:29:48.073-05:00
-cssclasses: ""
 Age: "42"
 Ancestry:
   - Wood Elf

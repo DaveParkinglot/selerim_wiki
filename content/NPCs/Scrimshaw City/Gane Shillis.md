@@ -3,7 +3,6 @@ publish: true
 created: 2026-02-25T10:14:57.437-05:00
 modified: 2026-02-25T10:35:28.373-05:00
 published: 2026-02-25T10:35:28.373-05:00
-cssclasses: ""
 Age: "32"
 Ancestry:
   - Orc

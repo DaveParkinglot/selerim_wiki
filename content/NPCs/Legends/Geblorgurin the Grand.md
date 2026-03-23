@@ -4,7 +4,6 @@ aliases: Geblorgurin
 created: 2025-07-21T11:30:43.000-04:00
 modified: 2026-02-19T14:55:01.492-05:00
 published: 2026-02-19T14:55:01.492-05:00
-cssclasses: ""
 Age: Deceased
 Ancestry: Dwarf
 Gender: Male

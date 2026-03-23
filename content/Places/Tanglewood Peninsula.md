@@ -6,7 +6,6 @@ title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
 modified: 2026-02-22T10:28:26.866-05:00
 published: 2026-02-22T10:28:26.866-05:00
-cssclasses: ""
 Type:
   - Region
 Age (years): 264

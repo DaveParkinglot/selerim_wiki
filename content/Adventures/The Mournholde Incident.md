@@ -3,7 +3,6 @@ publish: true
 created: 2025-07-25T14:10:28.000-04:00
 modified: 2026-02-18T14:44:49.005-05:00
 published: 2026-02-18T14:44:49.005-05:00
-cssclasses: ""
 DM: Mike Doom
 Platform: Roll20
 Sessions: 1
