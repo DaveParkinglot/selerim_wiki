@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.774-05:00
-published: 2026-01-16T08:55:01.774-05:00
+modified: 2026-03-24T11:30:04.786-04:00
+published: 2026-03-24T11:30:04.786-04:00
 Age: "56"
 Ancestry:
   - Human
@@ -31,6 +31,7 @@ Author: Jordan
   - Former sand yacht owner
 - He sought to rule all of Tiialia through the puppet king Antonio Adonzio.
 - He was killed by [[The High Rollers]] in the Nova Jersaeria throne room, along with [[Faustia Fanto-Domingo]] and his burly twin sons Lorus and Korus.
+- He is now known as the Tyrant Lord, and his family name is anathema in the holdings of Tiialia.
 
 # Key Details
 
@@ -55,3 +56,6 @@ Author: Jordan
 | Name                      | Relationship   |
 | ------------------------- | -------------- |
 | [[Faustia Fanto-Domingo]] | Co-Conspirator |
+| Lorus Landucci            | Father         |
+| Korus Landucci            | Father         |
+| Monty Landucci            | Father         |

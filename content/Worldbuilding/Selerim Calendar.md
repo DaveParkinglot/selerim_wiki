@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-26T10:29:29.000-04:00
-modified: 2026-03-12T11:41:51.000-04:00
-published: 2026-03-12T11:41:51.000-04:00
+modified: 2026-03-24T11:21:05.371-04:00
+published: 2026-03-24T11:21:05.371-04:00
 Author: Jordan
 ---
 
@@ -23,7 +23,7 @@ Author: Jordan
 | Fiersel  | 8   | Summer | The heat of Seladel is at its apex in the final month of Summer. The prefix "fier" also acknowledges the infernal heritage of many of Selerim's tieflings.                                                                                                                                                      |
 | Yond     | 9   | Autumn | This month is named after the halfling god [Yondalla](https://5e.tools/deities.html#yondalla_halfling_mtf). The constellation Yondalla's Cornucopia is occasionally visible in Selerim's night sky, though the constellation originated from a world no halfling has returned to since their forced relocation. |
 | Bahax    | 10  | Autumn | Named for the lawful dragon god [Bahamut](https://5e.tools/deities.html#bahamut_dawn%20war_dmg), the tenth month is associated with order and judgement.                                                                                                                                                        |
-| Mourne   | 11  | Autumn | Signals the end of the Autumn harvest. The word "Mourne" has been associated with death, and no doubt this is why [[Galgitch, The Afterking]] named his city [[Mournholde]].                                                                                                                                    |
+| Mourne   | 11  | Autumn | Signals the end of the Autumn harvest. The word "Mourne" has been associated with death, and no doubt this is why [[Galgitch the Afterking]] named his city [[Mournholde]].                                                                                                                                    |
 | Khorg    | 12  | Winter | This month's name is a conjugation of the dwarvish word for "forge". Dwarvish tradition is to keep forges running through the Winter season.                                                                                                                                                                    |
 | Murend   | 13  | Winter | A holdover from an earlier calendar used by orcish peoples, prior to their forced relocation to Selerim. There is some debate about whether this is meant to celebrate the end of a year, or if it celebrates the death of "Mur", perhaps a warlord or a nation.                                                |
 

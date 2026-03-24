@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-02-19T14:50:58.790-05:00
-published: 2026-02-19T14:50:58.790-05:00
+modified: 2026-03-24T11:27:23.457-04:00
+published: 2026-03-24T11:27:23.457-04:00
 Age: "43"
 Ancestry: Human
 Gender: Male
@@ -26,7 +26,7 @@ Author: Jordan
 
 - Last known remnant of the blood of the Old Kings of Tiialia.
 - Sole survivor of the Midsummer Massacre, last remaining member of the once powerful [[Esposito Family]].
-- He was great friends with [[Francis Greenstrider De Luca]]’s father Marco, before his death at the hands of [[Fanto-Domingo Family]].
+- He was great friends with [[Francis Greenstrider De Luca]]’s father Marco, before Marco's murder at the hands of [[Faustia Fanto-Domingo]].
 - He worked as a spy with Marco De Luca when they were younger
   - "Nino" was the fourth son of the Esposito family, and never had a thought of becoming a leader within the family
   - He is last member of his family, and he has the Fanto-Domingos to thank for everything

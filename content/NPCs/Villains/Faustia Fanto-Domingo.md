@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.763-05:00
-published: 2026-01-16T08:55:01.763-05:00
+modified: 2026-03-24T11:29:21.549-04:00
+published: 2026-03-24T11:29:21.549-04:00
 Age: "46"
 Ancestry:
   - Human
@@ -52,3 +52,4 @@ Author: Jordan
 | Name                    | Relationship   |
 | ----------------------- | -------------- |
 | [[Lord Draco Landucci]] | Co-Conspirator |
+| Hector Fanto-Domingo    | Cousin in-law  |

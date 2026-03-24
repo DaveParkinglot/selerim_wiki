@@ -2,8 +2,8 @@
 publish: true
 title: Mournholde, City of the Dead
 created: 2023-09-20T14:56:26.000-04:00
-modified: 2026-01-16T08:55:02.035-05:00
-published: 2026-01-16T08:55:02.035-05:00
+modified: 2026-03-24T11:21:05.363-04:00
+published: 2026-03-24T11:21:05.363-04:00
 Type:
   - City of the Dead
   - Free City
@@ -12,7 +12,7 @@ Population: 7000
 Affiliation:
   - None
 Government:
-  - "[[Galgitch, The Afterking]]"
+  - "[[Galgitch the Afterking]]"
   - Mayor Gerard Duck
 Appearances:
   - "[[The Mournholde Incident]]"
@@ -32,7 +32,7 @@ Author: Jordan
 - Mournholde, the City of the Dead, has become a bastion for those who would prefer to live in death than to face the uncertainties of the afterlife.
   - It is not uncommon for an elderly or sick person to attempt the journey to Mournholde, before their time is up.
   - For those who cannot afford to journey to the city, the [[Necronaut of Mournholde]] lottery system takes 50 willing souls to Mournholde to become undead eternals.
-- The city was founded by the adventurer [[Galgitch, The Afterking|Galgitch]], who is now known as "The Afterking". Mournholde was built atop the ruined necropolis of a lich he and his adventuring party vanquished.
+- The city was founded by the adventurer [[Galgitch the Afterking|Galgitch]], who is now known as "The Afterking". Mournholde was built atop the ruined necropolis of a lich he and his adventuring party vanquished.
 - Nothing that dies on [[Ghoulfen Island]] stays dead. Some say attribute this to the nearby Ghoulfen River being a phantom tributary of the River Styx.
 
 # Key Details
@@ -41,7 +41,7 @@ Author: Jordan
 - **Age:** 130
 - **Population**: 7000
 - **Affiliation**: None
-- **Government:** [[NPCs/Legends/Galgitch, The Afterking.md|Galgitch, The Afterking]],Mayor Gerard Duck
+- **Government:** [[NPCs/Legends/Galgitch the Afterking.md|Galgitch the Afterking]],Mayor Gerard Duck
 - **Appearances:**  [[Adventures/The Mournholde Incident.md|The Mournholde Incident]]
 
 # Attributes
