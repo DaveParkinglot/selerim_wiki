@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T11:30:00.000-04:00
-modified: 2026-03-24T11:30:21.044-04:00
-published: 2026-03-24T11:30:21.044-04:00
+modified: 2026-03-24T11:32:32.641-04:00
+published: 2026-03-24T11:32:32.641-04:00
 DM: Jordan
 Platform:
   - Foundry
@@ -143,6 +143,7 @@ The OG campaign.
 - [[The High Rollers]] did not play their best hand, and were soundly defeated after venturing into The Fathomless Vault and exploring several of Tzastis' exhibits.
 - [[The High Rollers]] along with their old friends [[Maldoy]] and [[Eros]] are now on display as [[Tzastis the Collector]]'s 900th exhibit: The Spicy Meatball.
 - The wider world does not know the fate of [[The High Rollers]], and though they may be forgotten, it is possible that someone will rescue them from this terrible and seemingly permanent fate.
+- [[Pudding]], who was imprisoned within the vault, was freed by The High Rollers, and escaped from the vault. He is the only witness to the famous adventuring party's fate.
 
 ## Archfey Assistance
 
