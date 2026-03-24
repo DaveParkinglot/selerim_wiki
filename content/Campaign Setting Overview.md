@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-03-23T17:58:59.423-04:00
-published: 2026-03-23T17:58:59.423-04:00
+modified: 2026-03-24T12:07:49.669-04:00
+published: 2026-03-24T12:07:49.669-04:00
 Author: Jordan
 ---
 
@@ -10,7 +10,7 @@ Author: Jordan
 
 **The [[Selerim Timeline|timeline of Selerim]] is that of a world wounded by war and calamity. The few and disparate [[Living Realms]] are divided by vast tracts of [[Violet Bleed|arcane fallout]], a devastating reminder of the [[Nameless War|brutal war]] fought at the world's inception. Within each of these isolated pockets of life, civilization advances at a varying, non-linear pace.**
 
-In these times, we fix our focus on the [[Inhabitable Lands]]–largest of the Living Realms and host to many fantastic environs, both ancient and new:
+In these times, we fix our focus on the [[Inhabitable Lands]]–largest of the Living Realms and host to many fantastic environs, ancient and new:
 
 - [[Nova Jersaeria]], metro-capital of the expansionist [[Tiialia|Kingdom of Tiialia]], stands as a beacon of civilization and progress–despite constant conflict between its noble families.
 - The inheritors of Selerim's ruthless aboriginals–the [[Vlorn Dynasty]]–plot their long-awaited vengeance against the surface dwellers in the hidden subterranean city of [[Vlorngroth]].
@@ -24,15 +24,17 @@ In these times, we fix our focus on the [[Inhabitable Lands]]–largest of the L
 
 Selerim was first settled over 8,000 years ago by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elf (drow) god of war. For two centuries, Selvetarm and his drow followers used the world as a brutal factory of war, exhausting its resources and creating Planar Rifts to steal and enslave folk from other worlds. Despite his exceedingly dark deeds and his eternal banishment into the Abyss, Selvetarm remains the world's namesake to this day.
 
+# Peoples
+
+The diversity seen amongst the peoples of Selerim is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20\(the%20dark%20seldarine\)_mtf) empire. In the towns, villages, and cities of Selerim, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Vlorngroth]] are openly hostile to surface dwellers, while the drow living on the surface skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
+
+# Magics
+
+Magic is widely available on Selerim, more so than on most worlds. In the [[Inhabitable Lands]], most folk can learn to harness magic. The innate magic of sorcerers was anomalously rare until the blood of dragons slain in the [[Generations' War]] seeped into the ground, near the present day [[The Forsaken Expanse|Forsaken Expanse]]. To this day, most sorcerers of Selerim are born on the eastern side of [[Tanglewood Peninsula]] where the concentration of dragon blood is strongest.
+
 # Geography
 
 With the exception of the [[Inhabitable Lands]], where most of our adventures take place, the [[Living Realms]] of Selerim are largely undocumented. Within the Inhabitable Lands, there are tales of other Living Realms, but travel between them is prohibitively difficult, even in this age. The Inhabitable Lands themselves, now so diminished by [[Darkwells|Darkwell]] floodwater, span a 400 mile strip along Selerim's equator.
-
-# Peoples
-
-The diversity seen amongst the peoples of Selerim is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20\(the%20dark%20seldarine\)_mtf) empire. In the towns, villages, and cities of Selerim, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Vlorngroth]] are openly hostile to surface dwellers, while the drow living on the surface tend to skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
-
-As for magic, it is widely available, perhaps more so than on most worlds. Most folk in the [[Inhabitable Lands]] can be taught to harness magic, though the innate magic of sorcerers was anomalously rare until the blood of dragons slain in the [[Generations' War]] seeped into the ground, near the present day [[The Forsaken Expanse|Forsaken Expanse]]. To this day, most sorcerers of Selerim are born on the eastern side of [[Tanglewood Peninsula]] where the concentration of dragon blood is strongest.
 
 # Astronomy
 
@@ -43,5 +45,5 @@ The world of Selerim is analogous to the Earth, with similar gravity and rotatio
 Selerim is assumed to follow The Great Wheel cosmology configuration as described in the D\&D Dungeon Master's Guide, with few exceptions:
 
 - Due to its damaged ley lines, extraplanar travel is typically easier on Selerim than it is in other worlds.
-- As they are reflections of the Material Plane, the Feywild and the Shadowfell are affected by the [[Violet Bleed]].
-  ![[z_assets/great_wheel_cosmology.png|1000]]
+- As they are reflections of the Material Plane, the Feywild and the Shadowfell are similarly affected by the [[Violet Bleed]].
+  ![[z_assets/great_wheel_cosmology.png|750]]
