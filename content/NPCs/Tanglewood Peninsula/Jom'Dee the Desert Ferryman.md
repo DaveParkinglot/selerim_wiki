@@ -21,24 +21,27 @@ Author: Jordan
 ![[z_assets/jom'dee.png|300]]
 
 # Overview
-- The (mostly) fearless ferryman of the Forsaken Expanse. 
+
+- The (mostly) fearless ferryman of the Forsaken Expanse.
 - The only thing he fears is Mondays, but he sure loves lasagna.
 
 # Key Details
+
 - **Age**: 42
 - **Ancestry**: Tabaxi
 - **Gender**: Male
 - **Location**: Edge of The Forsaken Expanse
 - **Role**: Ferryman
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
-- **Voice**: 
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+
+- **Voice**:
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

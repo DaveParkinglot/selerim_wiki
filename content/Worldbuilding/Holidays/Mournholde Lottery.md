@@ -8,4 +8,4 @@ Author: Jordan
 ---
 
 - **Date:** Mourne 1st
-- The lottery of [[Places/Mournholde]], when the [[Worldbuilding/Lore/Necronaut of Mournholde]] begins to dock at settlements and collect its new undead eternals.
+- The lottery of [[Mournholde]], when the [[Necronaut of Mournholde]] begins to dock at settlements and collect its new undead eternals.

@@ -7,7 +7,7 @@ Age: "22"
 Ancestry: Human
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Morganth Cultist
@@ -23,21 +23,24 @@ Author: Jordan
 ![[z_assets/temur_octagon.png|300]]
 
 # Overview
-- A pompous student who betrayed his friend [[NPCs/The White Grove/Cristos Babblestaff]] and nearly killed him in the library while working as an agent of [[Factions/Morganth's Legion of Doom]].
-- Temur was posing as a student at [[White Grove]], but he actually was only there to sabotage the school and steal information on [[NPCs/Other/Tzastis the Collector]] from the library.
+
+- A pompous student who betrayed his friend [[Cristos Babblestaff]] and nearly killed him in the library while working as an agent of [[Factions/Morganth's Legion of Doom]].
+- Temur was posing as a student at [[White Grove]], but he actually was only there to sabotage the school and steal information on [[Tzastis the Collector]] from the library.
 - After being caught and imprisoned, Temur claimed he was mind controlled by the dark powers of the treacherous Provost Serpentios.
 
 # Key Details
+
 - **Age**: 22
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Places/White Grove\|White Grove]]
+- **Location**: [[Places/White Grove.md|White Grove]]
 - **Role**: Student,Morganth Cultist
 - **Affiliation:** None
-- **Appearances:** [[Adventures/White Grove - First Semester\|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Douchey aha
 - **Traits**: Douchebag
 - **Goals:** Clear his name
@@ -47,5 +50,4 @@ Author: Jordan
 
 | Name                    | Relationship  |
 | ----------------------- | ------------- |
-| [[NPCs/The White Grove/Cristos Babblestaff]] | Former Friend |
-
+| [[Cristos Babblestaff]] | Former Friend |

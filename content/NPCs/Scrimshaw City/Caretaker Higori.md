@@ -8,7 +8,7 @@ Ancestry:
   - Sea Elf
 Gender: Male
 Location:
-  - "[[Places/Scrimshaw City]]"
+  - "[[Scrimshaw City]]"
 Role:
   - Rogue
 Affiliation:
@@ -22,23 +22,26 @@ Author: Jordan
 ![[z_assets/caretaker_higori.png|300]]
 
 # Overview
+
 - Garderner, herbalist, healer, and the caretaker of the Henge of Avandra in [[Scrimshaw City]].
 - Unseelie fey have been overtaking the henge and upsetting him quite a bit recently.
 
 # Key Details
+
 - **Age**: 93
 - **Ancestry**: Sea Elf
 - **Gender**: Male
-- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 - **Role**: Rogue
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Soft spoken and wise
 - **Traits**: Dislikes adventurers because no one wants to help him
-- **Goals:** 
+- **Goals:**
 - **Appearance**: Blue-gray skinned tall sea elf
 
 # Relationships

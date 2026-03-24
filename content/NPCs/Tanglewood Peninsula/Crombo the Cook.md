@@ -22,33 +22,37 @@ Author: Jordan
 
 # Overview
 
-## [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+## [[The High Rollers Campaign|The High Rollers Campaign]]
+
 - Carefree dragonborn bard who wants to be an adventurer, unfortunately he is also the full time head chef at The Soggy Bottom and his work schedule is insane.
 - He goes by "The Unchained" after he was rescued from being kidnapped by kobolds.
 
-## [[Adventures/The Hunt for Pill'Grim\|The Hunt for Pill'Grim]]
-- He was attempting to create an adventuring party with [[NPCs/Tanglewood Peninsula/Bondoon Jr.]]
+## [[The Hunt for Pill'Grim|The Hunt for Pill'Grim]]
+
+- He was attempting to create an adventuring party with [[Bondoon Jr.]]
 - His new party was at the adventurer tryouts for the teleporter adventure.
 
 # Key Details
+
 - **Age**: 17
 - **Ancestry**: Dragonborn
 - **Gender**: Male
-- **Location**: [[Places/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley.md|Crabbley]]
 - **Role**: Adventurer, Bard, Head Chef
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Normal
-- **Traits**: 
+- **Traits**:
 - **Goals:** Become a renowned adventurer
-- **Appearance**: 
+- **Appearance**:
 
 # Relationships
 
 | Name                   | Relationship |
 | ---------------------- | ------------ |
-| [[NPCs/Tanglewood Peninsula/Bondoon Jr.]]        | Party Member |
-| [[NPCs/Tanglewood Peninsula/Grasbo the Barkeep]] | Boss         |
+| [[Bondoon Jr.]]        | Party Member |
+| [[Grasbo the Barkeep]] | Boss         |

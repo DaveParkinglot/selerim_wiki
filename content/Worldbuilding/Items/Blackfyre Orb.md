@@ -1,5 +1,5 @@
 - Not much is known about these abyssal artifacts, except that they can be used to summon demons to the material plane.
-- One orb was used to summon a demon into the heartland of [[Factions/Tiialia]], but the incursion was thwarted by [[Adventures/Dunland's Raiders\|Dunland's Raiders]].
-- A different orb was used to summon [[NPCs/Legends/Proklor the Despoiler]] into [[Adventures/Vlorngroth - The Manor of Madness\|The Manor of Madness]] in the subterranean city of [[Places/Vlorngroth]].
-- A third orb, located in the ruined city of [[Places/Corrodreth]], was retrieved by [[Factions/Morganth's Legion of Doom\|Morganth's Legion of Doom]].
+- One orb was used to summon a demon into the heartland of [[Tiialia]], but the incursion was thwarted by [[Dunland's Raiders|Dunland's Raiders]].
+- A different orb was used to summon [[Proklor the Despoiler]] into [[Vlorngroth - The Manor of Madness|The Manor of Madness]] in the subterranean city of [[Vlorngroth]].
+- A third orb, located in the ruined city of [[Corrodreth]], was retrieved by [[Factions/Morganth's Legion of Doom|Morganth's Legion of Doom]].
 - [[High Lord Kranicz]] seems to be gathering the orbs to him, and paying a hefty price for them.

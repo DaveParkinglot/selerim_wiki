@@ -23,20 +23,23 @@ Author: Jordan
 ![[z_assets/cock_strombolinov.png|300]]
 
 # Overview
-- A monstrous Yuan-ti bodyguard with snakes for arms working for the enigmatic merchant [[NPCs/Tiialia/Riggle Fragoo]]. 
+
+- A monstrous Yuan-ti bodyguard with snakes for arms working for the enigmatic merchant [[Riggle Fragoo]].
 - Loves deadlifts and living in the sewer.
 
 # Key Details
+
 - **Age**: 24
 - **Ancestry**: Yuan-ti
 - **Gender**: Male
-- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]],Sewers
+- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]],Sewers
 - **Role**: Bodyguard
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Terse and vaguely eastern European
 - **Traits**: Loves to get a good pump
 - **Goals:** Become large AF and protect Riggle to make money and leave the sewer
@@ -46,4 +49,4 @@ Author: Jordan
 
 | Name              | Relationship |
 | ----------------- | ------------ |
-| [[NPCs/Tiialia/Riggle Fragoo]] | Boss         |
+| [[Riggle Fragoo]] | Boss         |

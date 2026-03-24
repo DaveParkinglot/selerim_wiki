@@ -23,28 +23,31 @@ Author: Jordan
 ![[z_assets/arby.png|300]]
 
 # Overview
+
 - He goes by the nickname "Arby".
-- Great friends with [[NPCs/Scrimshaw City/Usus 'Sussy' Grimsby]], he was one of Usus' employees at The Pit. Arby has been down on his luck since [[NPCs/Villains/Lord Davos Portnoir]] fired him from his role as the lead monster wrangler at The Pit. 
+- Great friends with [[Usus 'Sussy' Grimsby]], he was one of Usus' employees at The Pit. Arby has been down on his luck since [[Lord Davos Portnoir]] fired him from his role as the lead monster wrangler at The Pit.
 - Now he's the bouncer at The Spicy Meatball.
 
 # Key Details
+
 - **Age**: 48
 - **Ancestry**: Bugbear
 - **Gender**: Male
-- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 - **Role**: Bouncer, Former Monster Wrangler
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Arby's Sauce\|Arby's Sauce]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Arby's Sauce.md|Arby's Sauce]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Deep, kind of stupid sounding
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name             | Relationship     |
 | ---------------- | ---------------- |
-| [[NPCs/Scrimshaw City/Usus 'Sussy' Grimsby]] | Friend, Coworker |
+| [[Usus 'Sussy' Grimsby]] | Friend, Coworker |

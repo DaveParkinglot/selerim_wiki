@@ -7,7 +7,7 @@ Age: "127"
 Ancestry: Elf
 Gender: Male
 Location:
-  - "[[Places/Mitlin]]"
+  - "[[Mitlin]]"
 Role:
   - Lead Ranger
 Affiliation:
@@ -24,19 +24,22 @@ Author: Jordan
 ![[z_assets/lebion_plegathon.png|300]]
 
 # Overview
+
 [[Mitlin]]'s lead ranger, wields a greatsword and wears heavier armor than most other rangers in Mitlin.
 
 # Key Details
+
 - **Age**: 127
 - **Ancestry**: Elf
 - **Gender**: Male
-- **Location**: [[Places/Mitlin\|Mitlin]]
+- **Location**: [[Places/Mitlin.md|Mitlin]]
 - **Role**: Lead Ranger
 - **Affiliation:** Mitlin
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Slightly pompous
 - **Traits**: Fiercely loyal
 - **Goals:** Protect Mitlin from all threats
@@ -46,4 +49,4 @@ Author: Jordan
 
 | Name                  | Relationship |
 | --------------------- | ------------ |
-| [[NPCs/Tanglewood Peninsula/Melvin Oaksleeves]] | Leader       |
+| [[Melvin Oaksleeves]] | Leader       |

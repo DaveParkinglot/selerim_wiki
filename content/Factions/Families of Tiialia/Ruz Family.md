@@ -6,5 +6,4 @@ published: 2026-01-06T10:48:34.698-05:00
 Author: Jordan
 ---
 
-
-- Rivals with the [[Factions/Families of Tiialia/Batista Family]]
+- Rivals with the [[Batista Family]]

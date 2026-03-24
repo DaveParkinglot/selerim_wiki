@@ -7,8 +7,8 @@ Age: "31"
 Ancestry: Half-Orc
 Gender: Male
 Location:
-  - "[[Places/Crabbley]]"
-  - "[[Places/Borfield]]"
+  - "[[Crabbley]]"
+  - "[[Borfield]]"
 Role:
   - Adventurer, Barbarian
 Affiliation:
@@ -22,25 +22,28 @@ Author: Jordan
 ![[z_assets/gronstew_bogbeast.png|300]]
 
 # Overview
-- Leader of Gronstew & The Backbreakers, an adventuring party based in [[Places/Crabbley]].
+
+- Leader of Gronstew & The Backbreakers, an adventuring party based in [[Crabbley]].
 - Gronstew and his friends originally hail from [[Borfield]], but moved to [[Crabbley]] for better adventuring contracts.
-- The Backbreakers were rivals with [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] for a while, until a gnome-nade killed two of their members.
+- The Backbreakers were rivals with [[The High Rollers]] for a while, until a gnome-nade killed two of their members.
 
 # Key Details
+
 - **Age**: 31
 - **Ancestry**: Half-Orc
 - **Gender**: Male
-- **Location**: [[Places/Crabbley\|Crabbley]],[[Places/Borfield\|Borfield]]
+- **Location**: [[Places/Crabbley.md|Crabbley]],[[Places/Borfield.md|Borfield]]
 - **Role**: Adventurer, Barbarian
-- **Affiliation:** [[The Backbreakers\|The Backbreakers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Affiliation:** [[The Backbreakers|The Backbreakers]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Gruff and aggressive
-- **Traits**: 
-	- Despises weakness
-	- Ideals: Nature. The natural world is more important than all the constructs of civilization. (Neutral)
+- **Traits**:
+  - Despises weakness
+  - Ideals: Nature. The natural world is more important than all the constructs of civilization. (Neutral)
 - **Goals:** Protect the town of Crabbley, gain renown as an adventuring party
 - **Appearance**: Gray skinned half-orc
 
@@ -48,5 +51,5 @@ Author: Jordan
 
 | Name                 | Relationship |
 | -------------------- | ------------ |
-| [[NPCs/Tanglewood Peninsula/Blotta Balmer]]    | Party Member |
-| [[NPCs/Tanglewood Peninsula/Woben Thumbstick]] | Party Member |
+| [[Blotta Balmer]]    | Party Member |
+| [[Woben Thumbstick]] | Party Member |

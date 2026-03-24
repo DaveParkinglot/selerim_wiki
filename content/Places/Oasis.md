@@ -6,5 +6,6 @@ published: 2026-02-19T14:51:29.045-05:00
 Author: Jordan
 ---
 
-desert town in the [[Places/The Forsaken Expanse]] run by [[NPCs/Tanglewood Peninsula/Blackhorn the Barbarian]] and his Rough Riders
+desert town in the [[The Forsaken Expanse]] run by [[Blackhorn the Barbarian]] and his Rough Riders
+
 - many of the Rough Riders hail from Borfield, as does Blackhorn himself

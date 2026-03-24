@@ -37,21 +37,25 @@ Classes:
 ---
 
 # Details
+
 - **DM**: Jordan
 - **Platform:** Roll20
 - **Run Dates:** 2023-08-17
 - **In-World Dates:** 264-02-03
 
 # Adventure Premise
+
 - Upstart duergar rebels led by one-time Inquisitor Initiate [[Dyksin Poosie]] have spoken out against [[High Lord Jorad Kranicz]]'s "rampant disregard of duergar culture".
 - Dyksin and his fellow traitors are holed up at the Forge of Dingon, and initial reports indicate that their position is lightly fortified.
 - They must be dealt with swiftly before they rally more disgruntled, disloyal duergar to their side.
 
 # Outcomes
+
 - Despite its significance as a duergar heritage site, the Forge of Dingon was host to a bloodbath as Inquisitors clashed with the traitorous duergar rebels, killing them all.
 - The victorious Inquisitors found and explored a newly dug tunnel leading to the surface, seemingly dug as an escape route by the duergar. This could be of use in the coming Surface Invasion.
 
 # Players & Characters
+
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Alela | Drow | Paladin |

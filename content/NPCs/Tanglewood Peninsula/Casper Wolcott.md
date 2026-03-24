@@ -21,23 +21,26 @@ Author: Jordan
 ![[z_assets/casper_wolcott.png|300]]
 
 # Overview
-Crabbley's one and only strong armed, big bearded blacksmith. 
+
+Crabbley's one and only strong armed, big bearded blacksmith.
 
 # Key Details
+
 - **Age**: 78
 - **Ancestry**: Dwarf
 - **Gender**: Male
-- **Location**: [[Places/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley.md|Crabbley]]
 - **Role**: Blacksmith
-- **Affiliation:** [[Factions/Crabbley Council\|Crabbley Council]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
-- **Voice**: 
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+
+- **Voice**:
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

@@ -7,7 +7,7 @@ Age: "24"
 Ancestry: Orc
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Super Senior
@@ -24,27 +24,31 @@ Author: Jordan
 
 # Overview
 
-## [[Adventures/White Grove - First Semester\|The White Grove- First Semester]]
+## [[White Grove - First Semester|The White Grove- First Semester]]
+
 - A studious and sometimes douchey orc studying at [[White Grove]].
 - He was the first orc student admitted to The White Grove several years ago. He is a senior but he struggles in many of his classes.
-- He was betrayed by [[NPCs/The White Grove/Temur Octagon]] when Temur, who turned out to be working with [[Factions/Morganth's Legion of Doom]], tried to steal information on [[NPCs/Other/Tzastis the Collector]] from The White Grove library.
+- He was betrayed by [[Temur Octagon]] when Temur, who turned out to be working with [[Factions/Morganth's Legion of Doom]], tried to steal information on [[Tzastis the Collector]] from The White Grove library.
 
-## [[Adventures/White Grove - Summer Vacation\|The White Grove - Summer Vacation]]
+## [[White Grove - Summer Vacation|The White Grove - Summer Vacation]]
+
 - Cristos, nervous that he might not graduate next semester, needed the extra credit points from the scavenger hunt.
 - He helped the party deal with some flying snakes, but quickly became nervous about the ancient Corrodrethian temple and fled into the woods.
 - He participated in the killing and looting of Provost Serpentios, but was sworn to secrecy.
 
 # Key Details
+
 - **Age**: 24
 - **Ancestry**: Orc
 - **Gender**: Male
-- **Location**: [[Places/White Grove\|White Grove]]
+- **Location**: [[Places/White Grove.md|White Grove]]
 - **Role**: Student,Super Senior
 - **Affiliation:** None
-- **Appearances:** [[Adventures/White Grove - First Semester\|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Dumb douchey
 - **Traits**: Gullible, agrees to things without thinking them through. Stubborn
 - **Goals:** Become the first educated member of his family
@@ -54,5 +58,4 @@ Author: Jordan
 
 | Name              | Relationship  |
 | ----------------- | ------------- |
-| [[NPCs/The White Grove/Temur Octagon]] | Former Friend |
-
+| [[Temur Octagon]] | Former Friend |

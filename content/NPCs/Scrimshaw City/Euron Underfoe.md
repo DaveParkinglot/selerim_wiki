@@ -22,19 +22,22 @@ Author: Jordan
 ![[z_assets/euron_underfoe.png|300]]
 
 # Overview
+
 Gaunt and terse tiefling who operates the Gobblefirn Apothecary after Old Mr. Gobblefirn's strange disappearance.
 
 # Key Details
+
 - **Age**: 45
 - **Ancestry**: Tiefling
 - **Gender**: Male
-- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 - **Role**: Alchemist
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: High class English gentleman
 - **Traits**: Shifty, ambitious, clever. It's ok to sacrifice morality to get far
 - **Goals:** A thriving alchemy business

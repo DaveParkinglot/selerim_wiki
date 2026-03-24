@@ -7,7 +7,7 @@ Age: "210"
 Ancestry: Elf
 Gender: Male
 Location:
-  - "[[Places/Mitlin]]"
+  - "[[Mitlin]]"
 Role:
   - Wise Wizard
 Affiliation:
@@ -24,29 +24,31 @@ Author: Jordan
 ![[z_assets/melvin_oaksleeves.png|300]]
 
 # Overview
+
 - Leader of the Wise Wizards of [[Mitlin]], and Mitlin's most accomplished seer.
-- He assisted [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] in researching many topics during their stay in Mitlin.
+- He assisted [[The High Rollers]] in researching many topics during their stay in Mitlin.
 - He has been sending adventurers to treat with the fey crossing that appeared close to Mitlin called Kindlethicket.
 
 # Key Details
+
 - **Age**: 210
 - **Ancestry**: Elf
 - **Gender**: Male
-- **Location**: [[Places/Mitlin\|Mitlin]]
+- **Location**: [[Places/Mitlin.md|Mitlin]]
 - **Role**: Wise Wizard
 - **Affiliation:** The Wise Wizards
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt\|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Wise and old
 - **Traits**: Very helpful to Mitlin locals and to outsiders
 - **Goals:** Keep the sanctity of the forest. Protect Mitlin
-- **Appearance**: Gray haired elvish wizard with a leather tunic 
+- **Appearance**: Gray haired elvish wizard with a leather tunic
 
 # Relationships
 
 | Name                  | Relationship |
 | --------------------- | ------------ |
-| [[NPCs/Tanglewood Peninsula/Lebion Phlegathon]] | Ranger       |
-
+| [[Lebion Phlegathon]] | Ranger       |

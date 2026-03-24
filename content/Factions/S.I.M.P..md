@@ -6,11 +6,10 @@ published: 2025-10-30T12:11:24.799-04:00
 Author: Jordan
 ---
 
-
 - Hierarchical society of manly men, led by "Matriarch" Helga Smith
-	- Latrine Baby
-	- Frail Manlet
-	- Bold Beefcake
-	- Manmeister
-	- The Council of Meisters
-	- The Matriarch (Helga Smith)
+  - Latrine Baby
+  - Frail Manlet
+  - Bold Beefcake
+  - Manmeister
+  - The Council of Meisters
+  - The Matriarch (Helga Smith)

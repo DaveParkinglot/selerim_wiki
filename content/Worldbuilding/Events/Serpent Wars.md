@@ -6,5 +6,4 @@ published: 2025-10-30T11:57:21.049-04:00
 Author: Jordan
 ---
 
-
-- A long, drawn out, series of wars fought for 11 years between [[Factions/Tiialia]] and the ancient yuan-ti city state of [[Places/Corrodreth]].
+- A long, drawn out, series of wars fought for 11 years between [[Tiialia]] and the ancient yuan-ti city state of [[Corrodreth]].

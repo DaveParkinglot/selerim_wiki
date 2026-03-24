@@ -7,7 +7,7 @@ Age: "22"
 Ancestry: Kobold
 Gender: Male
 Location:
-  - "[[Places/Crabbley]]"
+  - "[[Crabbley]]"
   - The Cronium Caves
 Role:
   - Master Inventor
@@ -23,22 +23,25 @@ Author: Jordan
 ![[z_assets/dillon_lonergan.png|300]]
 
 # Overview
-- Dillon has spent most of his life serving the [[Factions/Vlorn Dynasty]], mostly against his will and at the tip of a drow's knife. 
-- He was recently brought onto a project to create a doomsday machine to reclaim the Tanglewood Peninsula for the Vlorn, but that project recently fell apart due to intervention from [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] intervention. 
+
+- Dillon has spent most of his life serving the [[Vlorn Dynasty]], mostly against his will and at the tip of a drow's knife.
+- He was recently brought onto a project to create a doomsday machine to reclaim the Tanglewood Peninsula for the Vlorn, but that project recently fell apart due to intervention from [[The High Rollers]] intervention.
 - At Eros' urging, Dillon turned over a new leaf and became the local artificer in the town of [[Crabbley]].
 - He assisted the Cronium Gnomes in repairing their broken teleporter, which almost never malfunctions now.
 
 # Key Details
+
 - **Age**: 22
 - **Ancestry**: Kobold
 - **Gender**: Male
-- **Location**: [[Places/Crabbley\|Crabbley]],The Cronium Caves
+- **Location**: [[Places/Crabbley.md|Crabbley]],The Cronium Caves
 - **Role**: Master Inventor
 - **Affiliation:** Cronium Gnomes
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim\|The Hunt for Pill'Grim]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Logical, somewhat uncertain... stutters
 - **Traits**: Meek, but intelligent
 - **Goals:** Invent great, bold, and creative things
@@ -48,4 +51,4 @@ Author: Jordan
 
 | Name      | Relationship |
 | --------- | ------------ |
-| [[NPCs/Tanglewood Peninsula/Bopus]] | Friend       |
+| [[Bopus]] | Friend       |

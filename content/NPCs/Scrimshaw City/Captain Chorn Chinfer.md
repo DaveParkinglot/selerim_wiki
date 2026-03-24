@@ -22,25 +22,28 @@ Author: Jordan
 ![[z_assets/captain_chorn_chinfer.png|300]]
 
 # Overview
+
 - Captain of the S.S. Tartarmule, before it became lodged in the ice leaving the Aldwood Lighthouse.
-- He is still without a ship, a crew, and a first mate after they were all killed by [[NPCs/Villains/Dr. Drendle]]'s undead.
-- He still owes [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] dinner with his wife one day...
+- He is still without a ship, a crew, and a first mate after they were all killed by [[Dr. Drendle]]'s undead.
+- He still owes [[The High Rollers]] dinner with his wife one day...
 
 # Key Details
+
 - **Age**: 32
 - **Ancestry**: Tiefling
 - **Gender**: Male
-- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 - **Role**: Ship Captain
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Sailor yarrr
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

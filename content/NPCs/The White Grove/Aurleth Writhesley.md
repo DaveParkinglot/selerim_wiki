@@ -8,13 +8,13 @@ Ancestry:
   - Elf
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Sophomore
   - Entrepreneur
 Affiliation:
-  - "[[Places/Mitlin]]"
+  - "[[Mitlin]]"
 Appearances:
   - "[[White Grove - Summer Vacation]]"
 Status: Alive
@@ -24,28 +24,31 @@ Author: Jordan
 ![[z_assets/aurleth_writhesley.png|300]]
 
 # Overview
-- A hoity toity elf from [[Places/Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[White Grove]].
+
+- A hoity toity elf from [[Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[White Grove]].
 - He is in the Arcane College.
-- The new magic shop "Jack of Owl Trades" run by [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]] has cut in on his family's business in [[Mitlin]], Writhesley Family Wizardry. As the heir to the family business, Aurleth wants to get training on things like Arcane Intelligence so he can compete.
+- The new magic shop "Jack of Owl Trades" run by [[Bwanson Wagwan]] has cut in on his family's business in [[Mitlin]], Writhesley Family Wizardry. As the heir to the family business, Aurleth wants to get training on things like Arcane Intelligence so he can compete.
 
 # Key Details
+
 - **Age**: 22
 - **Ancestry**: Elf
 - **Gender**: Male
-- **Location**: [[Places/White Grove\|White Grove]]
+- **Location**: [[Places/White Grove.md|White Grove]]
 - **Role**: Student,Sophomore,Entrepreneur
-- **Affiliation:** [[Places/Mitlin\|Mitlin]]
-- **Appearances:** [[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
+- **Affiliation:** [[Places/Mitlin.md|Mitlin]]
+- **Appearances:** [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Hoity toity elf voice
-- **Traits**: 
-	- I inherited the family business, for better or for worse.
-	- I see trade as an art form, and I'm the artist.
-	- Ideal: Order. Markets must be regulated to ensure fairness and stability. (Lawful)
-	- Bond: The ledger of my first sale is my most prized possession.
-	- Flaw: I cut corners to maximize profit, even if it means skirting the law.
+- **Traits**:
+  - I inherited the family business, for better or for worse.
+  - I see trade as an art form, and I'm the artist.
+  - Ideal: Order. Markets must be regulated to ensure fairness and stability. (Lawful)
+  - Bond: The ledger of my first sale is my most prized possession.
+  - Flaw: I cut corners to maximize profit, even if it means skirting the law.
 - **Goals**: Improve his magical abilities to get his magic shop off the ground
 - **Appearance:** Tall slender auburn haired elf
 
@@ -53,5 +56,4 @@ Author: Jordan
 
 | Name                  | Relationship |
 | --------------------- | ------------ |
-| [[NPCs/Tanglewood Peninsula/Melvin Oaksleeves]] | Great Uncle  |
-
+| [[Melvin Oaksleeves]] | Great Uncle  |

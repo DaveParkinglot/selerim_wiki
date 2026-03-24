@@ -8,6 +8,6 @@ Author: Jordan
 ---
 
 - The clinical term for the purplish haze of arcane fallout that obscures and afflicts the unlivable regions of Selerim.
-- The Bleed was brought to the world by an ancient elvish curse, which shattered Selerim's ley lines during the [[Worldbuilding/Events/Nameless War]].
+- The Bleed was brought to the world by an ancient elvish curse, which shattered Selerim's ley lines during the [[Nameless War]].
 - The secrets of The Bleed were lost to war and time, and they have not been rediscovered. Even the most accomplished spellcasters can scarcely dispel magics of The Bleed.
 - Attempts to dispel The Bleed have been further complicated because use of magic can have unpredictable and sometimes dangerous results near The Bleed.

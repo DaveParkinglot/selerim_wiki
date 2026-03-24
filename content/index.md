@@ -7,16 +7,18 @@ published: 2026-03-18T09:12:20.000-04:00
 Author: Jordan
 ---
 
-*The world of Selerim is ever-changing, inconsistent, and always unfinished. Its histories are neither a science, nor are they exact.*
+_The world of Selerim is ever-changing, inconsistent, and always unfinished. Its histories are neither a science, nor are they exact._
 
 ### Quick-Links:
+
 - [[Campaign Setting Overview]] - overview of the world (start here)
 - [[Selerim Timeline]] - timeline of formative events
 - [[Notable NPCs]] - running list of NPCs
 - [[Adventure Log]] - running log of adventures past
 
-### Interactive Map of the *[[Places/Inhabitable Lands]]*:
-> [!map|minZoom:-2-maxZoom:3-zoomStep:0.5] InteractiveMap
+### Interactive Map of the _[[Inhabitable Lands]]_:
+
+> \[!map|minZoom:-2-maxZoom:3-zoomStep:0.5] InteractiveMap
 > ![[z_assets/inhabitable_lands.webp]]
 
 [[inhabitable_lands.webp|View full map image]]

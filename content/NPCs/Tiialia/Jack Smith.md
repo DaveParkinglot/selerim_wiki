@@ -21,22 +21,25 @@ Author: Jordan
 ![[z_assets/jack_smith.png|300]]
 
 # Overview
+
 - His friends call him Jack "Don't call me 'Black Jack'" Black Jack Smith
 - Owner of the blacksmith shop Steel Yourself.
 - Once had his own party montage with The High Rollers.
 - Hates it when you call him Black Jack.
 
 # Key Details
+
 - **Age**: 40
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]]
+- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
 - **Role**: Blacksmith
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Normal
 - **Traits**: No nonsense blacksmith, tends not to haggle
 - **Goals:** Create works of art with metal

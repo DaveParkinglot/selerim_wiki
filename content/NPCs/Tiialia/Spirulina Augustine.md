@@ -21,19 +21,22 @@ Author: Jordan
 ![[z_assets/spirulina_augustine.png|300]]
 
 # Overview
+
 - The kindly old Tiefling woman who owns Spirulina's Solutions in the Tiialan Marketplace.
 
 # Key Details
+
 - **Age**: 89
 - **Ancestry**: Tiefling
 - **Gender**: Female
-- **Location**: [[Places/Nova Jersaeria\|Nova Jersaeria]]
+- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
 - **Role**: Alchemist
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Kindly old woman
 - **Traits**: Very nice to her customers. Sends gift bags and birthday presents.
 - **Goals:** Provide for herself while providing healing and sundries to adventurers and commoners alike.

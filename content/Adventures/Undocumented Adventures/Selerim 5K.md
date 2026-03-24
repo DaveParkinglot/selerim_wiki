@@ -43,20 +43,24 @@ Classes:
 ---
 
 # Details
+
 - **DM**: Mike Doom
 - **Platform:** Foundry
 - **Sessions:** 8
 - **Run Dates:** 2025-03-12 - 2025-07-02
-- **In-World Dates:**  - 
+- **In-World Dates:**  -
 
 # Adventure Premise
-- Your party has been contracted by the [[Deep Rock Mining Corporation]] to assist with a prospecting venture headed up by the industrious dwarf [[Hematite Stoutload]]. 
+
+- Your party has been contracted by the [[Deep Rock Mining Corporation]] to assist with a prospecting venture headed up by the industrious dwarf [[Hematite Stoutload]].
 - You will travel to the asteroid colony [[Chauntea's Rest]] to check in with Stoutload and begin your quest.
 
 # Outcomes
+
 - List of adventure outcomes
 
 # Players & Characters
+
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Sahuru | Warforged | Paladin |
@@ -65,4 +69,3 @@ Classes:
 | Jordan | AUXILIARY BOPUS BOT 4950 | Autognome | Warlock |
 | Kyle | Frank Yarborough | Human | Paladin |
 | Laura | Clara Biscuit SE641 | Warforged | Bard |
-

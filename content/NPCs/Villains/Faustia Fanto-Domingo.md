@@ -12,7 +12,7 @@ Location:
 Role:
   - Court Witch
 Affiliation:
-  - "[[Factions/Families of Tiialia/Fanto-Domingo Family]]"
+  - "[[Fanto-Domingo Family]]"
   - "[[Landucci Family]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
@@ -23,22 +23,25 @@ Author: Jordan
 ![[z_assets/faustia_fanto-domingo.png|300]]
 
 # Overview
+
 - Cunning enchantress, and matriarch of [[Fanto-Domingo Family]]
-- She orchestrated the Midsummer Massacre that wiped out the [[Factions/Families of Tiialia/Esposito Family]].
-- She was in league with the tyrant [[NPCs/Villains/Lord Draco Landucci]], and sought to rule all of Tiialia through the puppet king Antonio Adonzio.
-- She was killed by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] in the [[Places/Nova Jersaeria]] throne room during their confrontation with Lord Draco Landucci and his burly twin sons.
+- She orchestrated the Midsummer Massacre that wiped out the [[Esposito Family]].
+- She was in league with the tyrant [[Lord Draco Landucci]], and sought to rule all of Tiialia through the puppet king Antonio Adonzio.
+- She was killed by [[The High Rollers]] in the [[Nova Jersaeria]] throne room during their confrontation with Lord Draco Landucci and his burly twin sons.
 
 # Key Details
+
 - **Age**: 46
 - **Ancestry**: Human
 - **Gender**: Female
 - **Location**: Nova Jersaeria
 - **Role**: Court Witch
-- **Affiliation:** [[Factions/Families of Tiialia/Fanto-Domingo Family\|Fanto-Domingo Family]],[[Factions/Families of Tiialia/Landucci Family\|Landucci Family]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Affiliation:** [[Factions/Families of Tiialia/Fanto-Domingo Family.md|Fanto-Domingo Family]],[[Factions/Families of Tiialia/Landucci Family.md|Landucci Family]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Deceased
 
 # Attributes
+
 - **Voice**: Witchy
 - **Traits**: Mean
 - **Goals:** Gain power and influence in Tiialia
@@ -48,4 +51,4 @@ Author: Jordan
 
 | Name                    | Relationship   |
 | ----------------------- | -------------- |
-| [[NPCs/Villains/Lord Draco Landucci]] | Co-Conspirator |
+| [[Lord Draco Landucci]] | Co-Conspirator |

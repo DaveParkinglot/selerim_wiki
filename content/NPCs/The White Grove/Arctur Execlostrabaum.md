@@ -7,7 +7,7 @@ Age: "214"
 Ancestry: Dwarf
 Gender: M
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Headmaster
 Affiliation:
@@ -22,28 +22,30 @@ Author: Jordan
 ![[z_assets/arctur_execlostrabaum.png|300]]
 
 # Overview
+
 - Headmaster of [[White Grove]] magical academy with disturbingly liberal magical philosophies.
-- He is a nephew of [[NPCs/Legends/Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
+- He is a nephew of [[Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
 
 # Key Details
+
 - **Age**: 214
 - **Ancestry**: Dwarf
 - **Gender**: M
-- **Location**: [[Places/White Grove\|White Grove]]
+- **Location**: [[Places/White Grove.md|White Grove]]
 - **Role**: Headmaster
-- **Affiliation:** [[Places/Nova Jersaeria\|Nova Jersaeria]]
-- **Appearances:** [[Adventures/White Grove - First Semester\|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
+- **Affiliation:** [[Places/Nova Jersaeria.md|Nova Jersaeria]]
+- **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Wise old man
-- **Traits**: 
+- **Traits**:
 - **Ideals:** Improve the magical education system
-- **Appearance**: 
+- **Appearance**:
 
 # Relationships
 
 | Name | Relationship |
 | ---- | ------------ |
 |      |              |
-

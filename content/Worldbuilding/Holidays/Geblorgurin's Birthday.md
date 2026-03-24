@@ -8,4 +8,4 @@ Author: Jordan
 ---
 
 - **Date:** Geblorus 7th
-- A day to remember one of the greatest heroes of Selerim, the dwarf king [[NPCs/Legends/Geblorgurin the Grand]].
+- A day to remember one of the greatest heroes of Selerim, the dwarf king [[Geblorgurin the Grand]].

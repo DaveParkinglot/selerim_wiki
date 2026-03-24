@@ -49,6 +49,7 @@ Classes:
 ---
 
 # Details
+
 - **DM**: Mike Doom
 - **Platform:** Roll20
 - **Sessions:** 2
@@ -56,16 +57,19 @@ Classes:
 - **In-World Dates:** 263-11-11
 
 # Adventure Premise
-- You are members of the Tiialan army serving in a special cohort called Dunlands Raiders under [[NPCs/The White Grove/Captain Crebain Dunland]]. Your homelands are under attack by the forces of an evil warlock named [[Morganth]].
-- The fate of all [[Factions/Tiialia]] may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
+
+- You are members of the Tiialan army serving in a special cohort called Dunlands Raiders under [[Captain Crebain Dunland]]. Your homelands are under attack by the forces of an evil warlock named [[Morganth]].
+- The fate of all [[Tiialia]] may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
 
 # Outcomes
-- Morganth's forces were pushed back into a small hold, where they used a relic called the [[Worldbuilding/Items/Blackfyre Orb]] to summon a demon from the Infinite Abyss. 
+
+- Morganth's forces were pushed back into a small hold, where they used a relic called the [[Blackfyre Orb]] to summon a demon from the Infinite Abyss.
 - Dunland's Raiders defeated the demon, and eventually engaged in pitched combat against the remaining forces of Morganth in a barren field, where they were victorious.
 - Skeeter Lutz went on a killing spree within the hold, killing many civilians.
 - Eclipse Malificent was working for unknown forces, and turned on the party. He stole the Blackfyre Orb, using it to teleport to some abyssal plane.
 
 # Players & Characters
+
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Peter | Eclipse Malificent | Half-Orc | Druid |

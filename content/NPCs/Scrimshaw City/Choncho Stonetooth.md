@@ -22,26 +22,30 @@ Author: Jordan
 ![[z_assets/choncho_stonetooth.png|300]]
 
 # Overview
- The steadfast bodyguard of [[NPCs/Scrimshaw City/Garm Deepmine]], he has unswerving loyalty to the Deepmines and their company [[Deepmine Delvings]].
+
+The steadfast bodyguard of [[Garm Deepmine]], he has unswerving loyalty to the Deepmines and their company [[Deepmine Delvings]].
+
 # Key Details
+
 - **Age**: 76
 - **Ancestry**: Dwarf
 - **Gender**: Male
-- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 - **Role**: Bodyguard
 - **Affiliation:** Deepmine Delvings
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Grizzled and gruff
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                   | Relationship     |
 | ---------------------- | ---------------- |
-| [[NPCs/Scrimshaw City/Garm Deepmine]]      | Employer         |
-| [[NPCs/Scrimshaw City/Maureen Stonetooth]] | Estranged Sister |
+| [[Garm Deepmine]]      | Employer         |
+| [[Maureen Stonetooth]] | Estranged Sister |

@@ -7,11 +7,11 @@ Age: "42"
 Ancestry: Drow
 Gender: Male
 Location:
-  - "[[Places/Vlorngroth]]"
+  - "[[Vlorngroth]]"
 Role:
   - Gunslinger Bounty Hunter, Former Inquisitor
 Affiliation:
-  - "[[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -21,24 +21,27 @@ Author: Jordan
 ![[z_assets/carbuckle_duskshot.png|300]]
 
 # Overview
+
 - 5'9 drow with nothin to lose. Always wears a duster, even underwater.
 - A drow gunslinger bounty hunter who once hunted [[The High Rollers]] for their bounty in [[Vlorngroth]].
-- He became an unlikely ally in the fight against [[NPCs/Villains/Master Effree Jypstein]]'s undead.
+- He became an unlikely ally in the fight against [[Master Effree Jypstein]]'s undead.
 - He has a twin brother who was turned into a draegloth when they were young.
 
 # Key Details
+
 - **Age**: 42
 - **Ancestry**: Drow
 - **Gender**: Male
-- **Location**: [[Places/Vlorngroth\|Vlorngroth]]
+- **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
 - **Role**: Gunslinger Bounty Hunter, Former Inquisitor
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Southern/western I'm not really sure
-- **Traits**: Loyal to his friends, open-minded for a drow from the [[Factions/Vlorn Dynasty]]
+- **Traits**: Loyal to his friends, open-minded for a drow from the [[Vlorn Dynasty]]
 - **Goals:** Be free from the yoke of Vlorngroth, collect bounties, live on the edge
 - **Appearance**: Drow with a duster
 
@@ -47,4 +50,4 @@ Author: Jordan
 | Name                        | Relationship |
 | --------------------------- | ------------ |
 | Katharine Voidstone         | Former Lover |
-| [[NPCs/Vlorngroth/Count Calloway Duskveil]] | Uncle        |
+| [[Count Calloway Duskveil]] | Uncle        |

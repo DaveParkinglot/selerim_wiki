@@ -12,7 +12,7 @@ Location:
 Role:
   - Tyrant Lord
 Affiliation:
-  - "[[Factions/Families of Tiialia/Landucci Family]]"
+  - "[[Landucci Family]]"
   - "[[Fanto-Domingo Family]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
@@ -23,32 +23,35 @@ Author: Jordan
 ![[z_assets/lord_draco_landucci.png|300]]
 
 # Overview
-- Before his death at the hands of [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]], Lord Landucci was all of these things:
-	- Tiialan Lord
-	- [[Landucci Family]] patriarch
-	- High Commander of the Legions of Tiialia
-	- Former sand yacht owner
+
+- Before his death at the hands of [[The High Rollers]], Lord Landucci was all of these things:
+  - Tiialan Lord
+  - [[Landucci Family]] patriarch
+  - High Commander of the Legions of Tiialia
+  - Former sand yacht owner
 - He sought to rule all of Tiialia through the puppet king Antonio Adonzio.
-- He was killed by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] in the Nova Jersaeria throne room, along with [[NPCs/Villains/Faustia Fanto-Domingo]] and his burly twin sons Lorus and Korus.
+- He was killed by [[The High Rollers]] in the Nova Jersaeria throne room, along with [[Faustia Fanto-Domingo]] and his burly twin sons Lorus and Korus.
 
 # Key Details
+
 - **Age**: 56
 - **Ancestry**: Human
 - **Gender**: Male
 - **Location**: Nova Jersaeria
 - **Role**: Tyrant Lord
-- **Affiliation:** [[Factions/Families of Tiialia/Landucci Family\|Landucci Family]],[[Factions/Families of Tiialia/Fanto-Domingo Family\|Fanto-Domingo Family]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Affiliation:** [[Factions/Families of Tiialia/Landucci Family.md|Landucci Family]],[[Factions/Families of Tiialia/Fanto-Domingo Family.md|Fanto-Domingo Family]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Deceased
 
 # Attributes
+
 - **Voice**: Gruff and mean
 - **Traits**: Loves to be in charge
-- **Goals:** 
+- **Goals:**
 - **Appearance**: Bald, tall, burly
 
 # Relationships
 
 | Name                      | Relationship   |
 | ------------------------- | -------------- |
-| [[NPCs/Villains/Faustia Fanto-Domingo]] | Co-Conspirator |
+| [[Faustia Fanto-Domingo]] | Co-Conspirator |

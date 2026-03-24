@@ -21,27 +21,30 @@ Author: Jordan
 ![[z_assets/mister_barone.png|300]]
 
 # Overview
+
 - The tough burly bouncer at The Soggy Bottom Tavern, he has put the beatdown on many people who deserved it and some who didn't.
-- Once, while doing his job, his uppercut knocked [[Worldbuilding/Player Characters/The High Rollers/Tadeusz]] 10 feet into the air.
+- Once, while doing his job, his uppercut knocked [[Tadeusz]] 10 feet into the air.
 
 # Key Details
+
 - **Age**: 33
 - **Ancestry**: Hobgoblin
 - **Gender**: Male
-- **Location**: [[Places/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley.md|Crabbley]]
 - **Role**: Bouncer
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Stupid
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                   | Relationship |
 | ---------------------- | ------------ |
-| [[NPCs/Tanglewood Peninsula/Grasbo the Barkeep]] | Boss         |
+| [[Grasbo the Barkeep]] | Boss         |

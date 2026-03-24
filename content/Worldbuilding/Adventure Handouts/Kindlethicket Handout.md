@@ -6,16 +6,17 @@ published: 2026-02-18T13:58:36.121-05:00
 Author: Jordan
 ---
 
-Handout for [[Adventures/Kindlethicket - Envoys of Mitlin]]
+Handout for [[Kindlethicket - Envoys of Mitlin]]
 
 ## Kindlethicket (or, Steamy Fairy Adventures)
-- The Wise Wizards of [[Places/Mitlin]] have sensed a dramatic change in the ley lines of the Tanglewood Peninsula! A new Fey Crossing— where our Material Plane intersects with the Feywild, the Plane of Faerie—has sprung up on the eastern arm of the peninsula, an event that has not happened in generations of elves!
-- With all its rangers out ranging and its fighters out fighting, [[Places/Mitlin]] needs starry eyed adventurers now more than ever. As such, the [[Factions/Oaken Conclave]] has decided to send you and your adventuring party to investigate this new Fey Crossing. Whatever your previous story was, you are now an honorary [[Places/Mitlin]] Ranger.
-- Your instructions, given to you by Wise Wizard [[NPCs/Tanglewood Peninsula/Melvin Oaksleeves\|Melvin]], are as follows:
-	- Journey from [[Places/Mitlin]] to the eastern arm of the [[Places/Tanglewood Peninsula]].
-	- Locate the Fey Crossing and determine what type of Fey inhabit the area.
-	- Should the Fey be Seelie (of the Summer Court), you are to ingratiate yourself with them and learn all you can before reporting back to [[Places/Mitlin]].
-	- Should the Fey be Unseelie (of the Gloaming Court), you are to avoid their deceitful tricks and report back to [[Places/Mitlin]] immediately.
+
+- The Wise Wizards of [[Mitlin]] have sensed a dramatic change in the ley lines of the Tanglewood Peninsula! A new Fey Crossing— where our Material Plane intersects with the Feywild, the Plane of Faerie—has sprung up on the eastern arm of the peninsula, an event that has not happened in generations of elves!
+- With all its rangers out ranging and its fighters out fighting, [[Mitlin]] needs starry eyed adventurers now more than ever. As such, the [[Oaken Conclave]] has decided to send you and your adventuring party to investigate this new Fey Crossing. Whatever your previous story was, you are now an honorary [[Mitlin]] Ranger.
+- Your instructions, given to you by Wise Wizard [[Melvin Oaksleeves|Melvin]], are as follows:
+  - Journey from [[Mitlin]] to the eastern arm of the [[Tanglewood Peninsula]].
+  - Locate the Fey Crossing and determine what type of Fey inhabit the area.
+  - Should the Fey be Seelie (of the Summer Court), you are to ingratiate yourself with them and learn all you can before reporting back to [[Mitlin]].
+  - Should the Fey be Unseelie (of the Gloaming Court), you are to avoid their deceitful tricks and report back to [[Mitlin]] immediately.
 
 Map of the Tanglewood Peninsula, with the location of the Fey Crossing circled in yellow:
 ![[z_assets/kindlethicket_map_location.png]]

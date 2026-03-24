@@ -8,5 +8,5 @@ Author: Jordan
 ---
 
 - **Date:** Redwar 21st
-- The day [[Factions/Tiialia\|Tiialans]] remember the fallen of the [[Worldbuilding/Events/Serpent Wars]]. 
-- This is also the day that [[Places/Corrodreth]] was finally salted and destroyed.
+- The day [[Tiialia|Tiialans]] remember the fallen of the [[Serpent Wars]].
+- This is also the day that [[Corrodreth]] was finally salted and destroyed.

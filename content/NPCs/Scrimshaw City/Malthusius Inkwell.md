@@ -12,7 +12,7 @@ Location:
 Role:
   - Investigative Journalist
 Affiliation:
-  - "[[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Adventures/Arby's Sauce]]"
@@ -23,25 +23,28 @@ Author: Jordan
 ![[z_assets/malthusius_inkwell.png|300]]
 
 # Overview
+
 - A journalist who is always on the lookout for a scoop.
 - He used his journalistic genius and investigative skills to corner Lord Portnoir on the newspaper page, and aided [[The High Rollers]] in deposing Portnoir.
-- Now, he can often be found hanging around [[Places/The Spicy Meatball]].
+- Now, he can often be found hanging around [[The Spicy Meatball]].
 
 # Key Details
+
 - **Age**: 32
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 - **Role**: Investigative Journalist
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Arby's Sauce\|Arby's Sauce]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Arby's Sauce.md|Arby's Sauce]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Nasally nerd
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

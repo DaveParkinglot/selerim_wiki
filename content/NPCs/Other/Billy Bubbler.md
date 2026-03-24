@@ -21,10 +21,12 @@ Author: Jordan
 ![[z_assets/billy_bubbler.png|300]]
 
 # Overview
-- Billy and his sahuagin followers claim the waters west of [[Places/Scrimshaw City\|Scrimshaw]].
+
+- Billy and his sahuagin followers claim the waters west of [[Scrimshaw City|Scrimshaw]].
 - He has very little stake in what happens on the surface, and he only comes to the surface when there's a party with great catered food.
 
 # Key Details
+
 - **Age**: 174
 - **Ancestry**: Fiend (Devil), Sahuagin
 - **Gender**: Male
@@ -34,6 +36,7 @@ Author: Jordan
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Southern Gentlemanly
 - **Traits**: Insatiable appetite
 - **Goals:** Provide sustenance for himself and his tribe of Sahuagin
@@ -44,4 +47,3 @@ Author: Jordan
 | Name | Relationship |
 | ---- | ------------ |
 |      |              |
-

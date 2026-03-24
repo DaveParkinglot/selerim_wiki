@@ -22,26 +22,29 @@ Author: Jordan
 ![[z_assets/garm_deepmine.png|300]]
 
 # Overview
-Legitimate businessman and patriarch of the Deepmine family. Often accompanied by his loyal bodyguard [[NPCs/Scrimshaw City/Choncho Stonetooth]].
+
+Legitimate businessman and patriarch of the Deepmine family. Often accompanied by his loyal bodyguard [[Choncho Stonetooth]].
 
 # Key Details
+
 - **Age**: 97
 - **Ancestry**: Dwarf
 - **Gender**: Male
-- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 - **Role**: Company Head
 - **Affiliation:** Deepmine Delvings
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Some kind of mob boss
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                   | Relationship |
 | ---------------------- | ------------ |
-| [[NPCs/Scrimshaw City/Choncho Stonetooth]] | Bodyguard    |
+| [[Choncho Stonetooth]] | Bodyguard    |

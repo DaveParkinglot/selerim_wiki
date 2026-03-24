@@ -23,30 +23,32 @@ Author: Jordan
 ![[z_assets/vyvian_wynter.png|300]]
 
 # Overview
+
 - A friendly/bossy girl studying at The White Grove.
-- Tries to protect [[NPCs/The White Grove/Vowel Noosins]] from those who would take advantage of his meek will.
+- Tries to protect [[Vowel Noosins]] from those who would take advantage of his meek will.
 
 # Key Details
+
 - **Age**: 16
 - **Ancestry**: Human
 - **Gender**: Female
-- **Location**: [[Places/White Grove\|White Grove]]
+- **Location**: [[Places/White Grove.md|White Grove]]
 - **Role**: Student,Freshman
 - **Affiliation:** None
-- **Appearances:** [[Adventures/White Grove - First Semester\|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Vaguely Australian
-- **Traits**: 
+- **Traits**:
 - **Goals:** Graduate with a 4.0
-- **Appearance**: 
+- **Appearance**:
 
 # Relationships
 
 | Name                      | Relationship           |
 | ------------------------- | ---------------------- |
-| [[NPCs/The White Grove/Vowel Noosins]]         | Study buddy, protector |
-| [[NPCs/The White Grove/Stibby Flimstock]]      | Study buddy            |
-| [[NPCs/The White Grove/Curtottix Dragopolese]] | Study buddy            |
-
+| [[Vowel Noosins]]         | Study buddy, protector |
+| [[Stibby Flimstock]]      | Study buddy            |
+| [[Curtottix Dragopolese]] | Study buddy            |

@@ -8,7 +8,7 @@ Ancestry:
   - Elf
 Gender: Male
 Location:
-  - "[[Places/Mitlin]]"
+  - "[[Mitlin]]"
 Role:
   - Merchant
   - Scryer
@@ -26,19 +26,22 @@ Author: Jordan
 ![[z_assets/scryer_young.png|300]]
 
 # Overview
-- Business partner of [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]], he works with Bwanson at the magic item shop Jack of Owl Trades in [[Mitlin]].
+
+- Business partner of [[Bwanson Wagwan]], he works with Bwanson at the magic item shop Jack of Owl Trades in [[Mitlin]].
 
 # Key Details
+
 - **Age**: 48
 - **Ancestry**: Elf
 - **Gender**: Male
-- **Location**: [[Places/Mitlin\|Mitlin]]
+- **Location**: [[Places/Mitlin.md|Mitlin]]
 - **Role**: Merchant,Scryer
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]],[[Adventures/Lighting the Lighthouse\|Lighting the Lighthouse]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]],[[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Posh nasally elf
 - **Traits**: Enjoys haggling with adventurers, and selling them magic items to help them in their quests.
 - **Goals:** Sell magic items to adventurers, make a small profit
@@ -48,4 +51,4 @@ Author: Jordan
 
 | Name               | Relationship     |
 | ------------------ | ---------------- |
-| [[NPCs/Tanglewood Peninsula/Bwanson Wagwan]] | Business Partner |
+| [[Bwanson Wagwan]] | Business Partner |

@@ -8,7 +8,7 @@ Ancestry:
   - Half Elf
 Gender: Male
 Location:
-  - "[[Places/Scrimshaw City]]"
+  - "[[Scrimshaw City]]"
 Role:
   - Professional Thief
 Affiliation:
@@ -20,42 +20,43 @@ Author: Jordan
 aliases:
 ---
 
-
 ![[z_assets/caleb_arlester.png|300]]
 
 # Overview
-- A [[Places/Scrimshaw City\|Scrimshaw]]-based heist planner of some renown.
+
+- A [[Scrimshaw City|Scrimshaw]]-based heist planner of some renown.
 - He has done some minor heists in the past few years, stealing a few noteworthy magical items:
-	- A Chime of Opening, stolen from a rival crew led by [[NPCs/Scrimshaw City/Terry the Terrible]].
-	- An entire barrel of Devil's Breath Vodka, heisted from [[NPCs/Villains/Lord Davos Portnoir]]'s manor after he was deposed and killed.
-	- A Potion of Storm Giant Strength, stolen from the local Tiialan eatery "The Spicy Meatball", which was established by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]].
+  - A Chime of Opening, stolen from a rival crew led by [[Terry the Terrible]].
+  - An entire barrel of Devil's Breath Vodka, heisted from [[Lord Davos Portnoir]]'s manor after he was deposed and killed.
+  - A Potion of Storm Giant Strength, stolen from the local Tiialan eatery "The Spicy Meatball", which was established by [[The High Rollers]].
 
 # Key Details
+
 - **Age**: 33
 - **Ancestry**: Half Elf
 - **Gender**: Male
-- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]]
+- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 - **Role**: Professional Thief
 - **Affiliation:** None
-- **Appearances:** [[Adventures/New Dawn - Hellfist Heist\|New Dawn - Hellfist Heist]]
+- **Appearances:** [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Something suave
-- **Traits**: 
-	- Brash, reckless, self-serving
-	- Worships Avandra, Lady Luck
-	- Smooth and charismatic
-	- Cares for his immediate crew and those in his employ
-- **Goals**: 
-	- Make enough in [[Scrimshaw City]] to expand his crew into the Tiialan capital city [[Places/Nova Jersaeria]]
-	- No more small time gigs
+- **Traits**:
+  - Brash, reckless, self-serving
+  - Worships Avandra, Lady Luck
+  - Smooth and charismatic
+  - Cares for his immediate crew and those in his employ
+- **Goals**:
+  - Make enough in [[Scrimshaw City]] to expand his crew into the Tiialan capital city [[Nova Jersaeria]]
+  - No more small time gigs
 - **Appearance:** Handsome blonde, tall, somehow always has 5 o'clock shadow but never shaves
 
 # Relationships
 
 | Name                   | Relationship |
 | ---------------------- | ------------ |
-| [[NPCs/Scrimshaw City/Maureen Stonetooth]] | Rival        |
-| [[NPCs/Scrimshaw City/Terry the Terrible]] | Former Rival |
-
+| [[Maureen Stonetooth]] | Rival        |
+| [[Terry the Terrible]] | Former Rival |

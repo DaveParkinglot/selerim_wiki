@@ -21,27 +21,30 @@ Author: Jordan
 ![[z_assets/grasbo.png|300]]
 
 # Overview
+
 Aspiring restauranteur in Crabbley. Owns the popular watering hole The Soggy Bottom Tavern.
 
 # Key Details
+
 - **Age**: 60
 - **Ancestry**: Goblin
 - **Gender**: Male
-- **Location**: [[Places/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley.md|Crabbley]]
 - **Role**: Barkeep, Small Business Owner
-- **Affiliation:** [[Factions/Crabbley Council\|Crabbley Council]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
-- **Voice**: 
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+
+- **Voice**:
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                | Relationship |
 | ------------------- | ------------ |
-| [[NPCs/Tanglewood Peninsula/Crombo the Cook]] | Employee     |
-| [[NPCs/Tanglewood Peninsula/Mister Barone]]   | Employee     |
+| [[Crombo the Cook]] | Employee     |
+| [[Mister Barone]]   | Employee     |

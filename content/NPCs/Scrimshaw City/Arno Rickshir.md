@@ -8,7 +8,7 @@ Ancestry:
   - Half-Orc
 Gender: Male
 Location:
-  - "[[Places/Scrimshaw City]]"
+  - "[[Scrimshaw City]]"
   - Varies
 Role:
   - Pawn Shop Owner
@@ -23,31 +23,33 @@ Author: Jordan
 ![[z_assets/arno_rickshir.png|300]]
 
 # Overview
+
 > "You never know WHAT is gonna come through that door!"
 
-- Though the [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] were able to recover his stolen goods from kobold thieves, his old man and his son were killed while journeying through the Tanglewoods.
+- Though the [[The High Rollers]] were able to recover his stolen goods from kobold thieves, his old man and his son were killed while journeying through the Tanglewoods.
 - Owner of Boldriver Pawn Shop, the best place to buy and trade magic items in [[Scrimshaw City]], and anywhere else
 - Sometimes travels around in his Pocket Pawn Shop, a version of his pawn shop that fits inside of a wagon
 - Inseparable from his best friend and only remaining permanent employee, the sentient bag of holding named Deep Tote
 
 # Key Details
+
 - **Age**: 52
 - **Ancestry**: Half-Orc
 - **Gender**: Male
-- **Location**: [[Places/Scrimshaw City\|Scrimshaw City]],Varies
+- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]],Varies
 - **Role**: Pawn Shop Owner
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Gruff like Rick Harrison
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                 | Relationship |
 | -------------------- | ------------ |
-

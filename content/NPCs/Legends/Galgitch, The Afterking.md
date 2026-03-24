@@ -13,7 +13,7 @@ Ancestry:
   - Undead Human
 Gender: Male
 Location:
-  - "[[Places/Mournholde]]"
+  - "[[Mournholde]]"
 Role:
   - The Afterking of Mournholde
 Affiliation:
@@ -25,21 +25,24 @@ Appearances:
 ![[z_assets/galgitch_the_afterking.png|300]]
 
 # Overview
-- Lawful neutral death knight ruler of [[Places/Ghoulfen Island]], he rules from his necropolis in [[Mournholde]].
+
+- Lawful neutral death knight ruler of [[Ghoulfen Island]], he rules from his necropolis in [[Mournholde]].
 - He was once an adventurer, and though his party succeeded in killing the lich that cursed the island now known as Ghoulfen, he perished in the fighting and became the first Undead Immortal to rise on the island, but not the last.
 - Realizing his story was not over, he set about creating the island as it exists today.
 
 # Key Details
+
 - **Age**: 165
 - **Ancestry**: Undead Human
 - **Gender**: Male
-- **Location**: [[Places/Mournholde\|Mournholde]]
+- **Location**: [[Places/Mournholde.md|Mournholde]]
 - **Role**: The Afterking of Mournholde
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The Mournholde Incident\|The Mournholde Incident]]
+- **Appearances:** [[Adventures/The Mournholde Incident.md|The Mournholde Incident]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Deep, booming, otherworldly
 - **Traits**: Pragmatic, self-serving, isolationist
 - **Goals**: Maintain the sanctity of Undeath on Ghoulfen Island

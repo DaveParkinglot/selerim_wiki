@@ -23,32 +23,36 @@ Author: Jordan
 
 # Overview
 
-## [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
-- As an ally of [[NPCs/Villains/Malmstein the Tangler]], he helped create freakishly mutated monsters in his huge spooky mansion. 
-- [[NPCs/Tanglewood Peninsula/Sleeto Van Coof]] inadvertently foiled his operations when he attempted to rob the mansion, but most of his party was turned to slag in Beezlebop's slagma traps. 
-- [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] encountered a Living Portrait of Beezlebop himself when they helped Sleeto and young [[NPCs/Scrimshaw City/Hoary Boulder]] finish the heist of the mansion, though the actual Beezlebop was nowhere to be found...
+## [[The High Rollers Campaign|The High Rollers Campaign]]
 
-## [[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]] 
+- As an ally of [[Malmstein the Tangler]], he helped create freakishly mutated monsters in his huge spooky mansion.
+- [[Sleeto Van Coof]] inadvertently foiled his operations when he attempted to rob the mansion, but most of his party was turned to slag in Beezlebop's slagma traps.
+- [[The High Rollers]] encountered a Living Portrait of Beezlebop himself when they helped Sleeto and young [[Hoary Boulder]] finish the heist of the mansion, though the actual Beezlebop was nowhere to be found...
+
+## [[The Crimsonclaw Bounty|The Crimsonclaw Bounty]]
+
 - Beezlebop appeared to be active again, as he created the mutant manticore "Old Crimsonclaw".
 
 # Key Details
+
 - **Age**: 60
 - **Ancestry**: Loxodon
 - **Gender**: Male
-- **Location**: [[Places/Tanglewood Peninsula\|Tanglewood Peninsula]]
+- **Location**: [[Places/Tanglewood Peninsula.md|Tanglewood Peninsula]]
 - **Role**: Archmage
-- **Affiliation:** [[The Tanglers\|The Tanglers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]]
+- **Affiliation:** [[The Tanglers|The Tanglers]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 - **Status:** Alive
 
 # Attributes
-- **Voice**: 
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+
+- **Voice**:
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                      | Relationship |
 | ------------------------- | ------------ |
-| [[NPCs/Villains/Malmstein the Tangler]] | Ally         |
+| [[Malmstein the Tangler]] | Ally         |

@@ -22,20 +22,23 @@ Author: Jordan
 ![[z_assets/innkeeper_roger.png|300]]
 
 # Overview
-- The innkeeper at the Crab Claw Inn in Crabbley. 
+
+- The innkeeper at the Crab Claw Inn in Crabbley.
 - He has put up with a lot of crap through the years, but still loves adventurers.
 
 # Key Details
+
 - **Age**: 56
 - **Ancestry**: Human
 - **Gender**: Male
-- **Location**: [[Places/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley.md|Crabbley]]
 - **Role**: Inkeeper, Small Business Owner
-- **Affiliation:** [[Factions/Crabbley Council\|Crabbley Council]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/The Crimsonclaw Bounty\|The Crimsonclaw Bounty]]
+- **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Normal
 - **Traits**: Kind. Believes adventurers are the best of us
 - **Goals:** Run a reputable and comfortable inn. Fix up his boat

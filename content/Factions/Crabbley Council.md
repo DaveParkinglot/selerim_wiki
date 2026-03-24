@@ -6,5 +6,6 @@ published: 2025-10-30T12:11:16.096-04:00
 Author: Jordan
 ---
 
-
-	make faction markdown template
+```
+make faction markdown template
+```

@@ -33,6 +33,7 @@ Classes:
 ---
 
 # Details
+
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
@@ -40,13 +41,16 @@ Classes:
 - **In-World Dates:** 263-09-05
 
 # Adventure Premise
-- Bone Tavern is failing, and [[NPCs/Breakwater Cove/Captain Winchester Bone]] needs to remain solvent in his retirement years. Retrieve his hoard of treasure, which is hidden in a quiet cove to the south.
+
+- Bone Tavern is failing, and [[Captain Winchester Bone]] needs to remain solvent in his retirement years. Retrieve his hoard of treasure, which is hidden in a quiet cove to the south.
 
 # Outcomes
+
 - The Drakes, as the party began calling themselves, carefully navigated the trap-filled corridors of Bone Cove to find the hidden hoard.
 - Captain Winchester Bone now has the cash flow he needs to maintain his exorbitant lifestyle, and Bone Tavern won't go underwater anytime soon!
 
 # Players & Characters
+
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Fingus Bingus | Half-Elf | Bard |

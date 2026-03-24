@@ -21,22 +21,25 @@ Author: Jordan
 ![[z_assets/trilbee_rampo.png|300]]
 
 # Overview
+
 - Owner of Rampo Wagons after his hostile takeover of Werner Wagons. They really don't make em like they used to.
-- Trilbee's son Willy was killed by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] after he participated in a plot to take over the Tanglewood Peninsula with a giant mech-suit built by a captive [[NPCs/Tanglewood Peninsula/Dillon Lonergan]].
-- Trilbee was taken as a prisoner by [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]] after they mounted an assault on [[NPCs/Villains/Lord Draco Landucci]]'s sand yacht, which was polluting [[Places/Oasis]] and the surrounding deserts of [[Places/The Forsaken Expanse]].
-- After The High Rollers forced Trilbee to sign a vineyard purchase agreement in his own blood, Trilbee was left in Oasis as a prisoner of [[NPCs/Tanglewood Peninsula/Blackhorn the Barbarian]].
+- Trilbee's son Willy was killed by [[The High Rollers]] after he participated in a plot to take over the Tanglewood Peninsula with a giant mech-suit built by a captive [[Dillon Lonergan]].
+- Trilbee was taken as a prisoner by [[The High Rollers]] after they mounted an assault on [[Lord Draco Landucci]]'s sand yacht, which was polluting [[Oasis]] and the surrounding deserts of [[The Forsaken Expanse]].
+- After The High Rollers forced Trilbee to sign a vineyard purchase agreement in his own blood, Trilbee was left in Oasis as a prisoner of [[Blackhorn the Barbarian]].
 
 # Key Details
+
 - **Age**: 58
 - **Ancestry**: Half-Elf
 - **Gender**: Male
 - **Location**: Oasis
 - **Role**: Wagon Dealer, Maniacal Businessman
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Pompous businessman voice
 - **Traits**: Too ambitious and conniving for his own good. Greed is great if it gets you places
 - **Goals:** Riches and wealth
@@ -46,4 +49,4 @@ Author: Jordan
 
 | Name                        | Relationship |
 | --------------------------- | ------------ |
-| [[NPCs/Tanglewood Peninsula/Blackhorn the Barbarian]] | Captor       |
+| [[Blackhorn the Barbarian]] | Captor       |

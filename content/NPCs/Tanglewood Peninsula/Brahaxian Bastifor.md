@@ -21,28 +21,30 @@ Author: Jordan
 ![[z_assets/brahaxian_bastifor.png|300]]
 
 # Overview
-- Trophy husband of Mayor [[NPCs/Tanglewood Peninsula/Antoona Bastifor]].
+
+- Trophy husband of Mayor [[Antoona Bastifor]].
 - Shopkeeper at Bastifor's General Store in Crabbley.
 
 # Key Details
+
 - **Age**: 42
 - **Ancestry**: Half-Elf
 - **Gender**: Male
-- **Location**: [[Places/Crabbley\|Crabbley]]
+- **Location**: [[Places/Crabbley.md|Crabbley]]
 - **Role**: Shopkeeper
 - **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: High society fancy
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                 | Relationship |
 | -------------------- | ------------ |
-| [[NPCs/Tanglewood Peninsula/Antoona Bastifor]] | Wife         |
-
+| [[Antoona Bastifor]] | Wife         |

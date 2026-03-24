@@ -6,16 +6,15 @@ published: 2025-12-20T18:05:02.453-05:00
 Author: Jordan
 ---
 
-
 List of deities relevant to the world of Selerim that have come up so far (not an exhaustive list).
 
-For a more exhaustive list of potential deities, visit [https://5e.tools/deities.html](https://5e.tools/deities.html).
+For a more exhaustive list of potential deities, visit <https://5e.tools/deities.html>.
 
 | **Deity**                           | **Alignment**  | **Category/**<br><br>**Pantheon**    | **Domains**              | **Province**                         | **Symbol**                                         | **5etools Link**                                                              |
 | ----------------------------------- | -------------- | ------------------------------------ | ------------------------ | ------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------------------------- |
 | Tiamat                              | Lawful Evil    | Betrayer Gods                        | Order, Trickery, War     | Dragon queen of Hell                 | Taloned dragon claw                                | [Link](https://5e.tools/deities.html#tiamat_exandria_egw)                     |
 | Asmodeus                            | Lawful Evil    | Betrayer Gods                        | Trickery, War            | God of the Nine Hells                | Crown of spiked onyx and curved horns              | [Link](https://5e.tools/deities.html#asmodeus_exandria_egw)                   |
-| [[Worldbuilding/Lore/Tharizdun, the Chained Oblivion]] | Chaotic Evil   | Betrayer Gods                        | Death, Grave, Trickery   | Darkness, destruction                | Crooked, seven-pointed star made of chains         | [Link](https://5e.tools/deities.html#tharizdun_exandria_egw)                  |
+| [[Tharizdun, the Chained Oblivion]] | Chaotic Evil   | Betrayer Gods                        | Death, Grave, Trickery   | Darkness, destruction                | Crooked, seven-pointed star made of chains         | [Link](https://5e.tools/deities.html#tharizdun_exandria_egw)                  |
 | Naviask                             | Neutral Good   | Archfey                              | Life, Nature             | The Summer Court                     | Wreath of flowers shaped into demon horns          | [Link](https://5e.tools/deities.html#naviask_exandria_egw)                    |
 | Myrkul                              | Neutral Evil   | N/A - Broadly Worshipped and Reviled | Death                    | Corruption, the dead, death, old age | White human skull framed by a runed triangle       | [Link](https://5e.tools/deities.html#myrkul_faer%c3%bbnian_scag)              |
 | Iuz                                 | Chaotic Evil   | N/A - Broadly Worshipped and Reviled | Death                    | Pain, oppression                     | Grinning human skull                               | [Link](https://5e.tools/deities.html#iuz_greyhawk_phb)                        |

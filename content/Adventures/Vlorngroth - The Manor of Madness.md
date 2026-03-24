@@ -46,10 +46,11 @@ Classes:
 ---
 
 Handouts:
-[[Worldbuilding/Adventure Handouts/Vlorngroth Setting Overview]]
-[[Worldbuilding/Adventure Handouts/Inquisitor's Dossier]]
+[[Vlorngroth Setting Overview]]
+[[Inquisitor's Dossier]]
 
 # Details
+
 - **DM**: Jordan
 - **Platform:** Roll20
 - **Sessions:** 2
@@ -57,13 +58,15 @@ Handouts:
 - **In-World Dates:** 264-01-11
 
 # Adventure Premise
-- You will play as a group of Inquisitor Initiates in the city of [[Places/Vlorngroth]].
+
+- You will play as a group of Inquisitor Initiates in the city of [[Vlorngroth]].
 - Your mission: subdue and extract a resident from Duskveil Asylum, also known as "The Manor of Madness".
 - A prophetic vision from [[Matron Mother Aranaea]] implies that one asylum resident will be necessary to the coming surface invasion.
 - Unfortunately, the prophecy is not too clear on which resident is the prophesied one…
 
 # Outcomes
-- Despite the misinterpretations of [[Lolth]]'s prophecy, the Inquisitor Initiates were successful in using a [[Worldbuilding/Items/Blackfyre Orb]] to summon the draegloth demigod [[NPCs/Legends/Proklor the Despoiler]] to the material plane of Selerim, with minimal collateral damage.
+
+- Despite the misinterpretations of [[Lolth]]'s prophecy, the Inquisitor Initiates were successful in using a [[Blackfyre Orb]] to summon the draegloth demigod [[Proklor the Despoiler]] to the material plane of Selerim, with minimal collateral damage.
 - After a trial of wits and blades, Proklor pledged his services to the cause of the Vlorn Dynasty and its High Lord, [[Jorad Kranicz]].
 - [[Dyksin Poesie]], the Duergar Barbarian who was initially the leader of the party, accidentally dealt a killing blow to the asylum resident Prince Thalgrim the Desolate.
 - [[Spymaster Valnex]] warned that anyone who kills a resident would in turn be executed (as the resident could have been the prophesied one).
@@ -71,6 +74,7 @@ Handouts:
 - [[Sister Katharine Voidstone]] was afflicted with a horrible case of Surface Sickness.
 
 # Players & Characters
+
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | George | Ashal Fractilian | Kobold | Warlock |

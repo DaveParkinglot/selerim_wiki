@@ -13,7 +13,7 @@ Role:
   - Druid
   - Merchant
 Affiliation:
-  - "[[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Kindlethicket - Envoys of Mitlin]]"
@@ -25,24 +25,27 @@ Author: Jordan
 ![[z_assets/bwanson_wagwan.png|300]]
 
 # Overview
+
 - Bwanson adventured with [[The High Rollers]] during their time on the Tanglewood Peninsula.
 - He settled down to start his magic shop Jack of Owl Trades in Mitlin with his business partner Scryer Young.
 
 # Key Details
+
 - **Age**: 24
 - **Ancestry**: Owlin
 - **Gender**: Male
-- **Location**: [[Places/Mitlin\|Mitlin]]
+- **Location**: [[Places/Mitlin.md|Mitlin]]
 - **Role**: Former Adventurer,Druid,Merchant
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers\|The High Rollers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin\|Kindlethicket - Envoys of Mitlin]],[[Adventures/The Marrowsucker Contract\|The Marrowsucker Contract]]
+- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: High pitched, says "hoo-hoo" like an owl a lot
-- **Traits**: 
-	- I have much to be proud of, but I am still just one strand in the grand, interwoven tapestry of life. Nature offers rich and abundant metaphors for understanding the complexities of life.
-	- Ideals: Preserving life and nature is always a worthwhile endeavor. (Good)
+- **Traits**:
+  - I have much to be proud of, but I am still just one strand in the grand, interwoven tapestry of life. Nature offers rich and abundant metaphors for understanding the complexities of life.
+  - Ideals: Preserving life and nature is always a worthwhile endeavor. (Good)
 - **Goals:** Sell magic items to adventurers, make a small profit
 - **Appearance**: Short owlin druid with a necktie
 
@@ -50,4 +53,4 @@ Author: Jordan
 
 | Name             | Relationship     |
 | ---------------- | ---------------- |
-| [[NPCs/Tanglewood Peninsula/Scryer Young]] | Business Partner |
+| [[Scryer Young]] | Business Partner |

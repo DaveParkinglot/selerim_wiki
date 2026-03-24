@@ -26,21 +26,26 @@ Author: Jordan
 
 # Overview
 
-## [[Adventures/Dunland's Raiders\|Dunland's Raiders]]
- - As a brave knight of [[Factions/Tiialia]], Chauncy became a war hero after he and [[Adventures/Dunland's Raiders\|Dunland's Raiders]] defeated the forces of [[Morganth]] and saved [[Factions/Tiialia]] from a demonic invasion.
+## [[Dunland's Raiders|Dunland's Raiders]]
 
-## [[Adventures/The High Rollers Campaign\|The High Rollers Campaign]]
- - Chauncy put in his lot with the [[Factions/Families of Tiialia/Landucci Family]] and betrayed [[Worldbuilding/Player Characters/The High Rollers/The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Worldbuilding/Player Characters/The High Rollers/Otieno]].
+- As a brave knight of [[Tiialia]], Chauncy became a war hero after he and [[Dunland's Raiders|Dunland's Raiders]] defeated the forces of [[Morganth]] and saved [[Tiialia]] from a demonic invasion.
 
-## [[Adventures/The Hellnight Soirée\|The Hellnight Soirée]]
- - After his death, he battled on the fiery plains of Avernus for a time before he somehow made his way to the Prison Plane of Carceri, where he now works to earn his freedom from a powerful Soul Dealer.
- - He attempted to barge into [[Adventures/The Hellnight Soirée\|Hellnight Soirée]], but was soundly defeated and sent back to the Lower Planes by a group of brave bouncers.
+## [[The High Rollers Campaign|The High Rollers Campaign]]
 
-## [[Adventures/Bobby's Bachelor Birthday Bender]]
+- Chauncy put in his lot with the [[Landucci Family]] and betrayed [[The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Otieno]].
+
+## [[The Hellnight Soirée|The Hellnight Soirée]]
+
+- After his death, he battled on the fiery plains of Avernus for a time before he somehow made his way to the Prison Plane of Carceri, where he now works to earn his freedom from a powerful Soul Dealer.
+- He attempted to barge into [[The Hellnight Soirée|Hellnight Soirée]], but was soundly defeated and sent back to the Lower Planes by a group of brave bouncers.
+
+## [[Bobby's Bachelor Birthday Bender]]
+
 - Chauncy was spotted by Bobby and his boys attempting to escape the infernal planes through Pazunia, first layer of the Infinite Abyss.
 - He was quickly entangled by Uncle Bobson's vines, and the boys promptly beat him to death, presumably sending him back to the Nine Hells.
 
 # Key Details
+
 - **Age**: 26
 - **Ancestry**: Fiend (Devil)
 - **Gender**: Male
@@ -50,6 +55,7 @@ Author: Jordan
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Nasally, with an edge
 - **Traits**: Chauncy has betrayed more friends than he's ever had in the name of making a name for himself.
 - **Goals:** Return to the material plane of Selerim and avenge his own death by any means
@@ -59,5 +65,4 @@ Author: Jordan
 
 | Name                    | Relationship |
 | ----------------------- | ------------ |
-| [[NPCs/Villains/Lord Draco Landucci]] | Former Boss  |
-
+| [[Lord Draco Landucci]] | Former Boss  |

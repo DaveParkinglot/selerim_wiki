@@ -23,28 +23,30 @@ Author: Jordan
 ![[z_assets/stephenie_stalacnicz.png|300]]
 
 # Overview
-- A brilliant student who tested out of a good deal of classes. She started as a junior but is constantly held back academically and otherwise by her jock boyfriend [[NPCs/The White Grove/Asmodeas Brickhaus]].
-- Her on again off again relationship with [[NPCs/The White Grove/Asmodeas Brickhaus]] has been very bad for her academic career.
+
+- A brilliant student who tested out of a good deal of classes. She started as a junior but is constantly held back academically and otherwise by her jock boyfriend [[Asmodeas Brickhaus]].
+- Her on again off again relationship with [[Asmodeas Brickhaus]] has been very bad for her academic career.
 
 # Key Details
+
 - **Age**: 22
 - **Ancestry**: Drow Elf
 - **Gender**: Female
-- **Location**: [[Places/White Grove\|White Grove]]
+- **Location**: [[Places/White Grove.md|White Grove]]
 - **Role**: Student,Junior
 - **Affiliation:** Vlorngroth
-- **Appearances:** [[Adventures/White Grove - First Semester\|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation\|White Grove - Summer Vacation]]
+- **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 - **Status:** Alive
 
 # Attributes
+
 - **Voice**: Mean girls
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                   | Relationship |
 | ---------------------- | ------------ |
-| [[NPCs/The White Grove/Asmodeas Brickhaus]] | Boyfriend    |
-
+| [[Asmodeas Brickhaus]] | Boyfriend    |

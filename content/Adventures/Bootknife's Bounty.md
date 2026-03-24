@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-19T08:46:15.175-04:00
-published: 2026-03-19T08:46:15.175-04:00
+modified: 2026-03-24T11:03:52.652-04:00
+published: 2026-03-24T11:03:52.652-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -33,6 +33,7 @@ Classes:
 ---
 
 # Details
+
 - **DM**: Jordan
 - **Platform:** Foundry
 - **Sessions:** 1
@@ -40,15 +41,19 @@ Classes:
 - **In-World Dates:** 264-06-17
 
 # Adventure Premise
-- You are travelers on the sailing ship The Dankwood Express, heading west from the Tanglewood Peninsula ([[Places/Crillville]], [[Places/Crabbley]], [[Places/Mitlin]], [[Places/Oasis]], or [[Places/Scrimshaw City]]). Your course is set for many destinations in The Great Delphin Sea ([[Places/Breakwater Cove]], [[Places/Forsyth Keep]], [[Places/White Grove]], [[Places/Nova Jersaeria]]). Where are you leaving and where are you heading to? And more importantly, why?
-- During the journey, you are approached by a goblin cabin boy named [[NPCs/Breakwater Cove/Bootknife]] has a big job coming up out of Breakwater Cove, and that he needs a good crew. The payout seems sizeable, but you'll want to meet this Bootknife fellow first…
+
+- You are travelers on the sailing ship The Dankwood Express, heading west from the Tanglewood Peninsula ([[Crillville]], [[Crabbley]], [[Mitlin]], [[Oasis]], or [[Scrimshaw City]]). Your course is set for many destinations in The Great Delphin Sea ([[Breakwater Cove]], [[Forsyth Keep]], [[White Grove]], [[Nova Jersaeria]]). Where are you leaving and where are you heading to? And more importantly, why?
+- During the journey, you are approached by a goblin cabin boy named [[Li'l Gubbins]]. He says his uncle [[Bootknife]] has a big job coming up out of Breakwater Cove, and that he needs a good crew. The payout seems sizeable, but you'll want to meet this Bootknife fellow first…
 
 # Outcomes
-- After a run-in with Captain Ghaster, captain of [[Places/Mournholde]] necronaut The Slow Decline, the party was attacked by zombie rats and left for dead.
-- Despite the odds, they lived. After arriving at [[Places/Breakwater Cove]], they successfully took a job from the goblin Bootknife at Bone Tavern, becoming his new crew.
-- After bullying information about a sickly leviathan from the researcher Krillmort Coloradostein, they defeated Captain Ghaster and his skeleton crew and recovered the coveted leviathan scales from the beached leviathan.
+
+- After a run-in with Captain Ghaster, captain of [[Mournholde]] necronaut The Slow Decline, the party was attacked by zombie rats and left for dead.
+- Despite the odds, they lived. After arriving at [[Breakwater Cove]], they successfully took a job from the goblin [[Bootknife]] at Bone Tavern, becoming his new crew.
+- After bullying information about a sickly leviathan from the researcher Krillmort Coloradostein, they defeated Captain Ghaster and his skeleton crew.
+- The crew recovered the coveted leviathan scales from the beached leviathan, eventually delivering them to Bootknife for their reward.
 
 # Players & Characters
+
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Gorrie | Galath Goatjumper Kalageaku | Goliath | Paladin |

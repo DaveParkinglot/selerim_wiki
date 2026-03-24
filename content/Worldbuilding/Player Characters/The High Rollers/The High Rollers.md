@@ -6,5 +6,4 @@ published: 2025-10-30T11:54:34.987-04:00
 Author: Jordan
 ---
 
-
-An adventuring party originating from the sleepy fishing village of [[Places/Crabbley]]. They saved the world on an occasion and seemed invincible, until they mysteriously vanished…
+An adventuring party originating from the sleepy fishing village of [[Crabbley]]. They saved the world on an occasion and seemed invincible, until they mysteriously vanished…
