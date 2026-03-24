@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-03-24T12:07:49.669-04:00
-published: 2026-03-24T12:07:49.669-04:00
+modified: 2026-03-24T12:41:43.641-04:00
+published: 2026-03-24T12:41:43.641-04:00
 Author: Jordan
 ---
 
 # Primer
 
-**The [[Selerim Timeline|timeline of Selerim]] is that of a world wounded by war and calamity. The few and disparate [[Living Realms]] are divided by vast tracts of [[Violet Bleed|arcane fallout]], a devastating reminder of the [[Nameless War|brutal war]] fought at the world's inception. Within each of these isolated pockets of life, civilization advances at a varying, non-linear pace.**
+The [[Selerim Timeline|timeline of Selerim]] is that of a high fantasy world wounded by war and calamity. The few and disparate [[Living Realms]] are divided by vast tracts of [[Violet Bleed|arcane fallout]], a devastating reminder of the [[Nameless War|brutal war]] fought at the world's inception. Within each of these isolated pockets of life, civilization advances at a varying, non-linear pace.
 
 In these times, we fix our focus on the [[Inhabitable Lands]]–largest of the Living Realms and host to many fantastic environs, ancient and new:
 
@@ -30,7 +30,7 @@ The diversity seen amongst the peoples of Selerim is such because their ancestor
 
 # Magics
 
-Magic is widely available on Selerim, more so than on most worlds. In the [[Inhabitable Lands]], most folk can learn to harness magic. The innate magic of sorcerers was anomalously rare until the blood of dragons slain in the [[Generations' War]] seeped into the ground, near the present day [[The Forsaken Expanse|Forsaken Expanse]]. To this day, most sorcerers of Selerim are born on the eastern side of [[Tanglewood Peninsula]] where the concentration of dragon blood is strongest.
+Magic is widely available on Selerim, and most folk can learn to harness magic with the correct training. In the [[Inhabitable Lands]], the innate magic of sorcery was anomalously rare until the blood of dragons slain in the [[Generations' War]] seeped into the ground, near the present day [[The Forsaken Expanse|Forsaken Expanse]]. To this day, most sorcerers of Selerim are born on the eastern side of [[Tanglewood Peninsula]] where the concentration of dragon blood is strongest.
 
 # Geography
 
@@ -42,8 +42,12 @@ The world of Selerim is analogous to the Earth, with similar gravity and rotatio
 
 # Cosmology
 
-Selerim is assumed to follow The Great Wheel cosmology configuration as described in the D\&D Dungeon Master's Guide, with few exceptions:
+Selerim is assumed to follow The [[great_wheel_cosmology.png|Great Wheel cosmology configuration]] as described in the D\&D Dungeon Master's Guide, with few exceptions:
 
 - Due to its damaged ley lines, extraplanar travel is typically easier on Selerim than it is in other worlds.
 - As they are reflections of the Material Plane, the Feywild and the Shadowfell are similarly affected by the [[Violet Bleed]].
-  ![[z_assets/great_wheel_cosmology.png|750]]
+
+# Further Reading
+
+- [[Selerim Timeline]]
+- [[Adventure Log]]
