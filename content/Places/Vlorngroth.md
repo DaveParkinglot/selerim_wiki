@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T09:55:09.000-04:00
-modified: 2026-02-04T12:40:43.272-05:00
-published: 2026-02-04T12:40:43.272-05:00
+modified: 2026-03-24T11:44:01.928-04:00
+published: 2026-03-24T11:44:01.928-04:00
 Type:
   - Capital City
 Age (years): 1250
@@ -25,7 +25,7 @@ _Vlorngroth, beneath the Fungal Firmament_
 
 # Overview
 
-- The underground city of Vlorngroth lies beneath the surface world of Selerim, in the cavernous depths of the Underdark.
+- The underground city of Vlorngroth lies beneath the [[Inhabitable Lands]], in the cavernous depths of the Underdark.
 - Light from the phosphorescent Fungal Firmament casts a twilight glow upon the city.
 - Vlorngroth has long been the seat of power for the [[Vlorn Dynasty]], an empire long forgotten by most surface dwellers.
 - [[Vlorn Dynasty]] is a ruthless meritocracy.

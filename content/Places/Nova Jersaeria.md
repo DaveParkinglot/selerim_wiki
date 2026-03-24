@@ -2,8 +2,8 @@
 publish: true
 title: Nova Jersaeria, Tiialan Capital
 created: 2025-06-20T09:32:25.000-04:00
-modified: 2026-01-16T08:55:02.540-05:00
-published: 2026-01-16T08:55:02.540-05:00
+modified: 2026-03-24T11:38:21.413-04:00
+published: 2026-03-24T11:38:21.413-04:00
 Type:
   - Capital City
 Age (years): 250
@@ -53,7 +53,7 @@ Author: Jordan
     - Mob presence in the sewers. The mob boss Rigor Mortoni rules the majority of the sewers. There is also a yuan-ti faction in the sewers
   - The Sewer Night Market, home to many more devious, unscrupulous shop owners and merchants
   - The Kings' Barrows
-    - The interred remains of all Tiialan kings have been laid to rest. Disturbed by [[Master Effree Jypstein]] during his attack on the capital.
+    - The remains of the old kings of Tiialia rest here. Disturbed by [[Master Effree Jypstein]] during his attack on the capital.
 
 # Hooks
 

@@ -4,8 +4,8 @@ aliases:
   - Corrodreth, the Salted City
 title: Corrodreth, The Salted City
 created: 2023-09-02T09:43:46.000-04:00
-modified: 2026-02-04T13:10:24.440-05:00
-published: 2026-02-04T13:10:24.440-05:00
+modified: 2026-03-24T11:44:51.701-04:00
+published: 2026-03-24T11:44:51.701-04:00
 Type:
   - Desolate Ruin
 Age (years): 1800
@@ -26,7 +26,7 @@ Author: Jordan
 
 #### Origins
 
-- Corrodreth was built at the height of the [[Generations' War]] by an empire that mysteriously appeared, seemingly from the arcane fallout surrounding the [[Inhabitable Lands]].
+- Corrodreth was built at the height of the [[Generations' War]] by an empire that mysteriously appeared, seemingly from the [[Violet Bleed|arcane fallout]] surrounding the [[Inhabitable Lands]].
 - The mysterious empire that built Corrodreth collapsed soon after the [[Darkwells]] flooded much of the [[Inhabitable Lands]]. This left Corrodreth as a lone city state.
 
 #### The Serpent Wars
