@@ -5,8 +5,8 @@ aliases:
   - The Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T12:30:40.000-04:00
-modified: 2026-01-16T09:19:26.629-05:00
-published: 2026-01-16T09:19:26.629-05:00
+modified: 2026-03-25T10:30:15.349-04:00
+published: 2026-03-25T10:30:15.349-04:00
 Type:
   - Free City
 Age (years): 450
@@ -30,7 +30,7 @@ marker:
 Author: Jordan
 ---
 
-![[z_assets/scrimshaw_city.png|900]] ![[z_assets/scrimshaw_topdown.webp|700]]
+![[z_assets/scrimshaw_city.png|400]] ![[z_assets/scrimshaw_topdown.webp|400]]
 
 # Overview
 

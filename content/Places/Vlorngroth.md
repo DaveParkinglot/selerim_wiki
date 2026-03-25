@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T09:55:09.000-04:00
-modified: 2026-03-24T11:44:01.928-04:00
-published: 2026-03-24T11:44:01.928-04:00
+modified: 2026-03-25T10:30:34.150-04:00
+published: 2026-03-25T10:30:34.150-04:00
 Type:
   - Capital City
 Age (years): 1250
@@ -20,7 +20,7 @@ Appearances:
 Author: Jordan
 ---
 
-![[z_assets/vlorngroth.png]]
+![[z_assets/vlorngroth.png|400]]
 _Vlorngroth, beneath the Fungal Firmament_
 
 # Overview

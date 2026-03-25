@@ -2,8 +2,8 @@
 publish: true
 title: White Grove, Magic Academy
 created: 2023-09-02T09:45:40.000-04:00
-modified: 2026-02-18T14:43:26.380-05:00
-published: 2026-02-18T14:43:26.380-05:00
+modified: 2026-03-25T10:30:37.376-04:00
+published: 2026-03-25T10:30:37.376-04:00
 Type:
   - Magical Academy
 Age (years): 180
@@ -23,7 +23,7 @@ marker:
 Author: Jordan
 ---
 
-![[z_assets/the_white_grove.png|600]]
+![[z_assets/the_white_grove.png|400]]
 
 # Overview
 

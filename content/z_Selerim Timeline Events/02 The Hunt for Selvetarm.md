@@ -7,9 +7,7 @@ modified: 2025-10-30T11:55:10.468-04:00
 published: 2025-10-30T11:55:10.468-04:00
 tags:
   - timeline
-cssclasses: ""
 event-date: -7800
 display-date: 7,800 B.T.
 Author: Jordan
 ---
-

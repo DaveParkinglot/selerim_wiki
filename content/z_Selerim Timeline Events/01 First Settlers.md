@@ -7,9 +7,7 @@ modified: 2025-10-30T11:55:08.478-04:00
 published: 2025-10-30T11:55:08.478-04:00
 tags:
   - timeline
-cssclasses: ""
 event-date: -8000
 display-date: 8,000 Years Before the Founding of Tiialia (B.T.)
 Author: Jordan
 ---
-

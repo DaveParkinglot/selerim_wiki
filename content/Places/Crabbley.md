@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-02-18T13:57:29.684-05:00
-published: 2026-02-18T13:57:29.684-05:00
+modified: 2026-03-25T10:29:38.049-04:00
+published: 2026-03-25T10:29:38.049-04:00
 Type:
   - Village
 Age (years): 25
@@ -25,7 +25,7 @@ marker:
 Author: Jordan
 ---
 
-![[z_assets/crabbley.png|300]]   ![[z_assets/crabbley_topdown.png|450]]
+![[z_assets/crabbley.png|300]]   ![[z_assets/crabbley_topdown.png|400]]
 
 # Overview
 

@@ -7,9 +7,7 @@ modified: 2026-02-19T14:50:44.418-05:00
 published: 2026-02-19T14:50:44.418-05:00
 tags:
   - timeline
-cssclasses: ""
 event-date: -2000
 display-date: 2,000 B.T.
 Author: Jordan
 ---
-

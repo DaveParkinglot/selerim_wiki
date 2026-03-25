@@ -7,9 +7,7 @@ modified: 2026-02-05T13:38:08.716-05:00
 published: 2026-02-05T13:38:08.716-05:00
 tags:
   - timeline
-cssclasses: ""
 event-date: -2500
 display-date: 2,500 B.T.
 Author: Jordan
 ---
-
