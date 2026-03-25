@@ -2,8 +2,8 @@
 publish: true
 title: Kindlethicket, Fey Crossing
 created: 2025-11-02T10:04:59.135-05:00
-modified: 2026-03-25T10:29:52.519-04:00
-published: 2026-03-25T10:29:52.519-04:00
+modified: 2026-03-25T14:05:55.107-04:00
+published: 2026-03-25T14:05:55.107-04:00
 Type:
   - Fey Crossing
 Age (years): 1
@@ -26,7 +26,7 @@ Appearances:
 aliases:
 ---
 
-![[z_assets/kindlethicket.png|300]]
+![[z_assets/kindlethicket.png|600]]
 
 # Overview
 

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Yuleshade
 created: 2025-12-09T19:13:43.000-05:00
-modified: 2026-03-25T10:30:42.675-04:00
-published: 2026-03-25T10:30:42.675-04:00
+modified: 2026-03-25T14:06:30.655-04:00
+published: 2026-03-25T14:06:30.655-04:00
 Type:
   - Fey Realm
   - Planet
@@ -19,7 +19,7 @@ Appearances:
   - "[[Kindlethicket - The Winter Hunt|Kindlethicket - The Winter Hunt]]"
 ---
 
-![[z_assets/yuleshade_forest.png|300]]
+![[z_assets/yuleshade_forest.png|500]]
 
 # Overview
 
