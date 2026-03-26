@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-14T09:47:35.000-05:00
-modified: 2026-03-19T08:46:07.878-04:00
-published: 2026-03-19T08:46:07.878-04:00
+modified: 2026-03-25T14:07:58.900-04:00
+published: 2026-03-25T14:07:58.900-04:00
 DM: Jordan
 Players:
   - Mike Doom
@@ -49,6 +49,7 @@ Classes:
 - The Deep Rock Delivery Services employees discovered that Deep Rock Mining Outpost #7781 was infested with gingerbread monsters and gingerbread puddings, which were created from the occupants of the facility.
 - The crew realized that a nutmeg plant had caused the infestation, and that its roots went deep into the facility, too deep to kill.
 - After fighting their way out of the outpost, ship pilot Nino Bustledorf picked the crew up and they escaped off-world.
+- Notable crew member Shew Mortico was frozen in the ice and eventually evaporated in the fleeing ship's drive plume.
 
 # Players & Characters
 

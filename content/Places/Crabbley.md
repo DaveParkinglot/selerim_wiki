@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-03-25T14:05:44.529-04:00
-published: 2026-03-25T14:05:44.529-04:00
+modified: 2026-03-26T11:53:50.484-04:00
+published: 2026-03-26T11:53:50.484-04:00
 Type:
   - Village
 Age (years): 25
@@ -25,7 +25,20 @@ marker:
 Author: Jordan
 ---
 
-![[z_assets/crabbley.png|500]]   ![[z_assets/crabbley_topdown.png|500]]
+> [!infobox]
+>
+> ## Crabbley
+>
+> ![[z_assets/crabbley.png|300]] ![[z_assets/crabbley_topdown.png|300]]
+>
+> ## Details
+>
+> - **Type**: Village
+> - **Age:** 25
+> - **Population**: 600
+> - **Affiliation**: None
+> - **Government:** [[Factions/Crabbley Council.md|Crabbley Council]]
+> - **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]],[[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 
 # Overview
 
