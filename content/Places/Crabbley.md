@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-03-26T12:21:37.049-04:00
-published: 2026-03-26T12:21:37.049-04:00
+modified: 2026-03-26T12:27:36.055-04:00
+published: 2026-03-26T12:27:36.055-04:00
 Type:
   - Village
 Age (years): 25
@@ -29,19 +29,19 @@ Author: Jordan
 >
 > ## Crabbley
 >
+> Scene view:
 > ![[z_assets/crabbley.png|300]]
-> Topdown view: ![[z_assets/crabbley_topdown.png|300]]
+> Map view:
+> ![[z_assets/crabbley_topdown.png|300]]
 >
-> ### Details
+> ## Details
 >
-> |             |                         |
-> | ----------- | ----------------------- |
-> | Type        | Village           |
-> | Age         | 25 |
-> | Population  | 600     |
-> | Affiliation | None    |
-> | Government  | [[Factions/Crabbley Council.md|Crabbley Council]]     |
-> | Appearances | [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]],[[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]    |
+> **Type**: Village
+> **Age:** 25
+> **Population**: 600
+> **Affiliation**: None
+> **Government:** [[Factions/Crabbley Council.md|Crabbley Council]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]],[[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 
 # Overview
 
