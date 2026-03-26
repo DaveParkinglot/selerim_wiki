@@ -5,8 +5,8 @@ aliases:
   - The Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T12:30:40.000-04:00
-modified: 2026-03-26T12:45:13.121-04:00
-published: 2026-03-26T12:45:13.121-04:00
+modified: 2026-03-26T12:52:16.148-04:00
+published: 2026-03-26T12:52:16.148-04:00
 Type:
   - Free City
 Age (years): 450
@@ -58,15 +58,6 @@ Author: Jordan
 - Old as the waves themselves and twice as salty, the port city of Scrimshaw is currently controlled by El Presidente [[Hugh Mann]] after the previous El Presidente [[Lord Davos Portnoir|Davos Portnoir]] was overthrown by [[The High Rollers]].
 - An abyssal rift, raging for millennia, is buried deep below the mean streets of Scrimshaw City. The original Seven Pirate Kings incorporated in order to found Scrimshaw, seeking to contain, control, and harness the rift’s power. For fifty years, the Seven Kings succeeded in harnessing the power, bringing great prosperity to Scrimshaw. But, as is natural for hot blooded pirates, betrayal soon thwarted their stability, leading to a demonic invasion that nearly destroyed the city.
 - And so, cowed by the demonic forces pouring from the abyss, the Four Faithful Pirate Kings of Scrimshaw made a Pact with the Nine Hells to save the city that burned around them. [[The Faithful Pact]] states that a devil shall always rule in Scrimshaw, in order to prevent a demonic invasion from once again consuming the city. There must always be an El Presidente.
-
-# Key Details
-
-- **Type**: Free City
-- **Age:** 450
-- **Population**: 18000
-- **Affiliation**: None
-- **Government:** [[NPCs/Scrimshaw City/Hugh Mann.md|El Presidente Hugh Mann]],[[Tavernstool|Tavernstool]]
-- **Appearances:**  [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Arby's Sauce.md|Arby's Sauce]],[[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]],[[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
 
 # Attributes
 
