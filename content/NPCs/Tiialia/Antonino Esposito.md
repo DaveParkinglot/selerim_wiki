@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T15:59:39.080-04:00
-published: 2026-03-26T15:59:39.080-04:00
+modified: 2026-03-26T16:28:15.120-04:00
+published: 2026-03-26T16:28:15.120-04:00
 Age: "43"
 Ancestry: Human
 Gender: Male
@@ -59,17 +59,6 @@ Author: Jordan
 - Despite this, [[Lord Draco Landucci]] schemed to undermine his authority, planning to give ownership of the Esposito Vineyard to [[Trilbee Rampo]].
 - [[The High Rollers]], while adventuring in [[The Forsaken Expanse]], intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
 - After some time working with [[The High Rollers]], Nino discovered his true ancestry, overthrew the tyrant [[Lord Draco Landucci]], and rightfully took the crown of [[Tiialia]] for himself.
-
-# Key Details
-
-- **Age**: 43
-- **Ancestry**: Human
-- **Gender**: Male
-- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
-- **Role**: King of Tiialia,Former Spymaster
-- **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]],[[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

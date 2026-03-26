@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:44:14.186-04:00
-published: 2026-03-26T15:44:14.186-04:00
+modified: 2026-03-26T16:22:32.849-04:00
+published: 2026-03-26T16:22:32.849-04:00
 Age: "52"
 Ancestry:
   - Half-Orc
@@ -54,17 +54,6 @@ Author: Jordan
 - Owner of Boldriver Pawn Shop, the best place to buy and trade magic items in [[Scrimshaw City]], and anywhere else
 - Sometimes travels around in his Pocket Pawn Shop, a version of his pawn shop that fits inside of a wagon
 - Inseparable from his best friend and only remaining permanent employee, the sentient bag of holding named Deep Tote
-
-# Key Details
-
-- **Age**: 52
-- **Ancestry**: Half-Orc
-- **Gender**: Male
-- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]],Varies
-- **Role**: Pawn Shop Owner
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

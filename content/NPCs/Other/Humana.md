@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T08:54:32.000-04:00
-modified: 2026-03-26T15:36:03.851-04:00
-published: 2026-03-26T15:36:03.851-04:00
+modified: 2026-03-26T16:22:00.863-04:00
+published: 2026-03-26T16:22:00.863-04:00
 Age: "340"
 Ancestry: Night Hag
 Gender: Female
@@ -47,19 +47,9 @@ Author: Jordan
 - [[Hugh Mann]]'s older sister, by his own account, is probably the reason he became a devil in the first place.
 - She is a somewhat prominent Soul Dealer in the lower planes.
 
-# Key Details
-
-- **Age**: 340
-- **Ancestry**: Night Hag
-- **Gender**: Female
-- **Location**: Varies
-- **Role**: Soul Dealer
-- **Affiliation:** None
-- **Status:** Alive
-
 # Attributes
 
-- **Voice**: Posh British
+- **Voice**: Posh high class, calls people "darling" too much
 - **Traits**: Loves to receive favors and gifts. Strong souls survive, and weak souls get sold en masse
 - **Goals:** Run a successful Soul Dealership
 - **Appearance**: Blue skinned night hag

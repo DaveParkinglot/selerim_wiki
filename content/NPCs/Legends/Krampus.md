@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Winter Huntsman
 created: 2025-12-09T19:17:17.000-05:00
-modified: 2026-03-26T15:34:08.336-04:00
-published: 2026-03-26T15:34:08.336-04:00
+modified: 2026-03-26T16:21:15.180-04:00
+published: 2026-03-26T16:21:15.180-04:00
 Age: "6500"
 Ancestry:
   - Archfey
@@ -58,17 +58,6 @@ Author: Jordan
 
 - Krampus, as always, took pactbreakers from the material plane into his black sack of punishment.
 - This year, however, he relented, allowing [[Pudding]] to go free after being petitioned by brave adventurers.
-
-# Key Details
-
-- **Age**: 6500
-- **Ancestry**: Archfey
-- **Gender**: Male
-- **Location**: [[Places/Yuleshade.md|Yuleshade]]
-- **Role**: Archfey,Winter Huntsman
-- **Affiliation:** None
-- **Appearances:** [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]]
-- **Status:** Alive
 
 # Attributes
 

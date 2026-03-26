@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-05T13:44:04.000-04:00
-modified: 2026-03-26T15:35:12.537-04:00
-published: 2026-03-26T15:35:12.537-04:00
+modified: 2026-03-26T16:19:12.829-04:00
+published: 2026-03-26T16:19:12.829-04:00
 Age: ??
 Ancestry:
   - Fiend (Devil)
@@ -47,16 +47,6 @@ Author: Jordan
 
 - A powerful hell baron who made a name for himself in the Blood War, he is constantly trying to usurp the holdings of other fiends across the multiverse.
 - Though he may seem polite, he is always looking for leverage in order to dominate and subjugate others.
-
-# Key Details
-
-- **Age**: ??
-- **Ancestry**: Fiend (Devil)
-- **Gender**: Male
-- **Location**: Avernus
-- **Role**: Hell Baron
-- **Affiliation:** None
-- **Status:** Alive
 
 # Attributes
 

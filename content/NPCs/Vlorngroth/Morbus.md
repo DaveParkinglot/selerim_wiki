@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-02T12:18:30.000-04:00
-modified: 2026-03-26T16:06:31.465-04:00
-published: 2026-03-26T16:06:31.465-04:00
+modified: 2026-03-26T16:29:49.640-04:00
+published: 2026-03-26T16:29:49.640-04:00
 Age: "35"
 Ancestry:
   - Goblin
@@ -51,17 +51,6 @@ Author: Jordan
 - Morbus is a disgusting goblin kobold hybrid, further mutated by experiments done to him by [[Count Calloway Duskveil]].
 - On more than one occasion, Morbus' body has been entirely dismantled while doing odd jobs for Count Duskveil, but he is always stitched back together by his master.
 - Morbus is fiercely loyal to Duskveil, and claims to be the longest tenured familiar in the employe of Count Duskveil with 16 dedicated years of service.
-
-# Key Details
-
-- **Age**: 35
-- **Ancestry**: Goblin,Kobold,Mutant
-- **Gender**: Male
-- **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
-- **Role**: Familiar
-- **Affiliation:** None
-- **Appearances:** [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]],[[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]]
-- **Status:** Alive
 
 # Attributes
 

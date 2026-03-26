@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:06:45.749-04:00
-published: 2026-03-26T16:06:45.749-04:00
+modified: 2026-03-26T16:28:50.704-04:00
+published: 2026-03-26T16:28:50.704-04:00
 Age: "40"
 Ancestry: Human
 Gender: Male
@@ -48,17 +48,6 @@ Author: Jordan
 - Owner of the blacksmith shop Steel Yourself.
 - Once had his own party montage with The High Rollers.
 - Hates it when you call him Black Jack.
-
-# Key Details
-
-- **Age**: 40
-- **Ancestry**: Human
-- **Gender**: Male
-- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
-- **Role**: Blacksmith
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

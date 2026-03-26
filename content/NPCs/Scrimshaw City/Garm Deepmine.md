@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:48:10.895-04:00
-published: 2026-03-26T15:48:10.895-04:00
+modified: 2026-03-26T16:24:04.167-04:00
+published: 2026-03-26T16:24:04.167-04:00
 Age: "97"
 Ancestry:
   - Dwarf
@@ -46,17 +46,6 @@ Author: Jordan
 # Overview
 
 Legitimate businessman and patriarch of the Deepmine family. Often accompanied by his loyal bodyguard [[Choncho Stonetooth]].
-
-# Key Details
-
-- **Age**: 97
-- **Ancestry**: Dwarf
-- **Gender**: Male
-- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
-- **Role**: Company Head
-- **Affiliation:** Deepmine Delvings
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

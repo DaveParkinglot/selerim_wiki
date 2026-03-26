@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T15:56:59.093-04:00
-published: 2026-03-26T15:56:59.093-04:00
+modified: 2026-03-26T16:26:39.863-04:00
+published: 2026-03-26T16:26:39.863-04:00
 Age: "22"
 Ancestry: Kobold
 Gender: Male
@@ -50,17 +50,6 @@ Author: Jordan
 - He was recently brought onto a project to create a doomsday machine to reclaim the Tanglewood Peninsula for the Vlorn, but that project recently fell apart due to intervention from [[The High Rollers]] intervention.
 - At Eros' urging, Dillon turned over a new leaf and became the local artificer in the town of [[Crabbley]].
 - He assisted the Cronium Gnomes in repairing their broken teleporter, which almost never malfunctions now.
-
-# Key Details
-
-- **Age**: 22
-- **Ancestry**: Kobold
-- **Gender**: Male
-- **Location**: [[Places/Crabbley.md|Crabbley]],The Cronium Caves
-- **Role**: Master Inventor
-- **Affiliation:** Cronium Gnomes
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]]
-- **Status:** Alive
 
 # Attributes
 

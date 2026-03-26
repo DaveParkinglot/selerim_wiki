@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:04:50.950-04:00
-published: 2026-03-26T16:04:50.950-04:00
+modified: 2026-03-26T16:29:10.660-04:00
+published: 2026-03-26T16:29:10.660-04:00
 Age: "32"
 Ancestry:
   - Yuan-ti
@@ -48,17 +48,6 @@ Author: Jordan
 
 - [[Riggle Fragoo]]'s best and only salesman.
 - He worked as [[The High Rollers]] during their time in Nova Jersaeria.
-
-# Key Details
-
-- **Age**: 32
-- **Ancestry**: Yuan-ti
-- **Gender**: Male
-- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]],Sewers
-- **Role**: Account Executive
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

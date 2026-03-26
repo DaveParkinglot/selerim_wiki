@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T15:54:00.824-04:00
-published: 2026-03-26T15:54:00.824-04:00
+modified: 2026-03-26T16:24:54.244-04:00
+published: 2026-03-26T16:24:54.244-04:00
 Age: "60"
 Ancestry: Loxodon
 Gender: Male
@@ -54,17 +54,6 @@ Author: Jordan
 ## [[The Crimsonclaw Bounty|The Crimsonclaw Bounty]]
 
 - Beezlebop appeared to be active again, as he created the mutant manticore "Old Crimsonclaw".
-
-# Key Details
-
-- **Age**: 60
-- **Ancestry**: Loxodon
-- **Gender**: Male
-- **Location**: [[Places/Tanglewood Peninsula.md|Tanglewood Peninsula]]
-- **Role**: Archmage
-- **Affiliation:** [[The Tanglers|The Tanglers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
-- **Status:** Alive
 
 # Attributes
 

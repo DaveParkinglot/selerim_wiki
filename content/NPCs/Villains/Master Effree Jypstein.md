@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:06:08.207-04:00
-published: 2026-03-26T16:06:08.207-04:00
+modified: 2026-03-26T16:29:37.722-04:00
+published: 2026-03-26T16:29:37.722-04:00
 Age: 66 (deceased)
 Ancestry:
   - Human
@@ -53,17 +53,6 @@ Author: Jordan
 - After The Three disbanded due to Effree's actions, he spent time living as a noble in [[Scrimshaw City]], before retreating to his ancestral home in the Jypstein Isles on The Great Delphin Sea.
 - Some time after that, Effree became a powerful lich, went by the pseudonym "The Master", and sought to control or end all life on Selerim.
 - Thankfully, he was killed on his private island by [[The High Rollers]].
-
-# Key Details
-
-- **Age**: 66 (deceased)
-- **Ancestry**: Human
-- **Gender**: Male
-- **Location**: The Jyfstein Isles
-- **Role**: Lich, Former Archwizard Adventurer
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Deceased
 
 # Attributes
 

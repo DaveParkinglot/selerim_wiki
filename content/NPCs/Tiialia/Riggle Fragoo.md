@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:06:43.558-04:00
-published: 2026-03-26T16:06:43.558-04:00
+modified: 2026-03-26T16:28:58.656-04:00
+published: 2026-03-26T16:28:58.656-04:00
 Age: "45"
 Ancestry: Bullywug
 Gender: Male
@@ -49,17 +49,6 @@ Author: Jordan
 - He once lived in the Trackless Mire.
 - Owns The Monkey's Pawn in the sewer for shady dealings, and Riggle's Runeshop in the marketplace for less shady dealings.
 - [[Sssergio]] and [[Cock Strombolinov]] work for him.
-
-# Key Details
-
-- **Age**: 45
-- **Ancestry**: Bullywug
-- **Gender**: Male
-- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]],Sewers
-- **Role**: Business man, Magic item purveyor
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

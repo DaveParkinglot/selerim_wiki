@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T15:59:12.300-04:00
-published: 2026-03-26T15:59:12.300-04:00
+modified: 2026-03-26T16:28:01.606-04:00
+published: 2026-03-26T16:28:01.606-04:00
 Age: "16"
 Ancestry: Goblin
 Gender: Male
@@ -47,17 +47,6 @@ Author: Jordan
 
 - Relatively incompetent rogue adventurer. Bites off more than he can chew too often, but his party members always have his back.
 - Member of [[The Backbreakers]], he originally hails from [[Borfield]] like his other party members.
-
-# Key Details
-
-- **Age**: 16
-- **Ancestry**: Goblin
-- **Gender**: Male
-- **Location**: [[Places/Crabbley.md|Crabbley]],[[Places/Borfield.md|Borfield]]
-- **Role**: Adventurer, Rogue
-- **Affiliation:** [[The Backbreakers|The Backbreakers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

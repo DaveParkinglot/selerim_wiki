@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:08:07.364-04:00
-published: 2026-03-26T16:08:07.364-04:00
+modified: 2026-03-26T16:32:11.653-04:00
+published: 2026-03-26T16:32:11.653-04:00
 Age: "22"
 Ancestry: Drow Elf
 Gender: Female
@@ -48,17 +48,6 @@ Author: Jordan
 
 - A brilliant student who tested out of a good deal of classes. She started as a junior but is constantly held back academically and otherwise by her jock boyfriend [[Asmodeas Brickhaus]].
 - Her on again off again relationship with [[Asmodeas Brickhaus]] has been very bad for her academic career.
-
-# Key Details
-
-- **Age**: 22
-- **Ancestry**: Drow Elf
-- **Gender**: Female
-- **Location**: [[Places/White Grove.md|White Grove]]
-- **Role**: Student,Junior
-- **Affiliation:** Vlorngroth
-- **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
-- **Status:** Alive
 
 # Attributes
 

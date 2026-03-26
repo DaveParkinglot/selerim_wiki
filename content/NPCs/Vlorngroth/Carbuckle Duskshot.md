@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:06:34.283-04:00
-published: 2026-03-26T16:06:34.283-04:00
+modified: 2026-03-26T16:29:41.162-04:00
+published: 2026-03-26T16:29:41.162-04:00
 Age: "42"
 Ancestry: Drow
 Gender: Male
@@ -48,17 +48,6 @@ Author: Jordan
 - A drow gunslinger bounty hunter who once hunted [[The High Rollers]] for their bounty in [[Vlorngroth]].
 - He became an unlikely ally in the fight against [[Master Effree Jypstein]]'s undead.
 - He has a twin brother who was turned into a draegloth when they were young.
-
-# Key Details
-
-- **Age**: 42
-- **Ancestry**: Drow
-- **Gender**: Male
-- **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
-- **Role**: Gunslinger Bounty Hunter, Former Inquisitor
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

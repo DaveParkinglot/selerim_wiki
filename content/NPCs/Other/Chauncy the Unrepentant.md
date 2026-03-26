@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T09:01:12.000-04:00
-modified: 2026-03-26T15:35:44.648-04:00
-published: 2026-03-26T15:35:44.648-04:00
+modified: 2026-03-26T16:21:36.020-04:00
+published: 2026-03-26T16:21:36.020-04:00
 Age: "26"
 Ancestry:
   - Fiend (Devil)
@@ -65,16 +65,6 @@ Author: Jordan
 
 - Chauncy was spotted by Bobby and his boys attempting to escape the infernal planes through Pazunia, first layer of the Infinite Abyss.
 - He was quickly entangled by Uncle Bobson's vines, and the boys promptly beat him to death, presumably sending him back to the Nine Hells.
-
-# Key Details
-
-- **Age**: 26
-- **Ancestry**: Fiend (Devil)
-- **Gender**: Male
-- **Location**: Carceri, The Prison Plane
-- **Role**: Betrayer,Hellknight
-- **Affiliation:** None
-- **Status:** Alive
 
 # Attributes
 

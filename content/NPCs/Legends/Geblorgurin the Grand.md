@@ -2,8 +2,8 @@
 publish: true
 aliases: Geblorgurin
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:34:40.079-04:00
-published: 2026-03-26T15:34:40.079-04:00
+modified: 2026-03-26T16:21:02.434-04:00
+published: 2026-03-26T16:21:02.434-04:00
 Age: Deceased
 Ancestry: Dwarf
 Gender: Male
@@ -53,30 +53,20 @@ Author: Jordan
   - From the shell of a Marut that fell from sky, Geblorgurin pried the gem.
   - Of the dead Marut's shell, Geblorgurin did forge his armor and his kingdom.
 
-> Notes from [[Clint Weapon|Clint Weapon's]] hour long meeting in [[Mitlin]] with Melvin the elvish wizard.
->
-> - [[Jordan's Notes/DM Notes/Gem of Eyes]] was originally found in the crater of a fallen star by Geblorgurin himself
-> - He used it to great effect in the never ending fight against incursions from the Vlorn
-> - Clint would know that [[Vlorn Dynasty]] is a faction in the Underdark led by the drow (dark elves)
-> - \[\[plundered one of Geblorgurin's many monuments
-> - [[Garm Deepmine]] seems to have sold it a man in Scrimshaw, who later became the powerful necromance now known as "The Master"
->   Geblorgurin Lore
-> - He was the last great king of dwarves, and he has been dead for well over two centuries
-> - Notably, he forged an alliance with the gnomes and elves of the Tanglewood in order to finally push [[Vlorn Dynasty]]'s trolls back into the Underdark
-> - Dwarves are fiercely protective of their belongings in life, but in death they desire nothing more than to have their belongings used by worthy individuals
-> - Geblorgurin likely has other monuments meant to challenge the worthy, so that they may earn the powerful items forged by his people
-> - A remnant of Geblorgurin's spirit is left in his armor (he is super aggressive)
->   The meeting ended early because Melvin had to go investigate reports of Vlorn Trolls near [[The Forsaken Expanse]].
+## Notes from [[Clint Weapon|Clint Weapon's]] hour long meeting in [[Mitlin]] with [[Melvin Oaksleeves]] the elvish wizard:\*\*
 
-# Key Details
-
-- **Age**: Deceased
-- **Ancestry**: Dwarf
-- **Gender**: Male
-- **Location**: Dead
-- **Role**: King of the Dwarves
-- **Affiliation:** [[Places/Nova Jersaeria.md|Nova Jersaeria]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+- [[Jordan's Notes/DM Notes/Gem of Eyes]] was originally found in the crater of a fallen star by Geblorgurin himself
+- He used it to great effect in the never ending fight against incursions from the Vlorn
+- Clint would know that [[Vlorn Dynasty]] is a faction in the Underdark led by the drow (dark elves)
+- \[\[plundered one of Geblorgurin's many monuments
+- [[Garm Deepmine]] seems to have sold it a man in Scrimshaw, who later became the powerful necromance now known as "The Master"
+  Info on Geblorgurin:
+- He was the last great king of dwarves, and he has been dead for well over two centuries
+- Notably, he forged an alliance with the gnomes and elves of the Tanglewood in order to finally push [[Vlorn Dynasty]]'s trolls back into the Underdark
+- Dwarves are fiercely protective of their belongings in life, but in death they desire nothing more than to have their belongings used by worthy individuals
+- Geblorgurin likely has other monuments meant to challenge the worthy, so that they may earn the powerful items forged by his people
+- A remnant of Geblorgurin's spirit is left in his armor (he is super aggressive)
+- The meeting ended early because Melvin had to go investigate reports of Vlorn Trolls near [[The Forsaken Expanse]].
 
 # Attributes
 

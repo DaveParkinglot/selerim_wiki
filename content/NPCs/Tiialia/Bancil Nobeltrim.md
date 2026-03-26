@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T15:59:46.687-04:00
-published: 2026-03-26T15:59:46.687-04:00
+modified: 2026-03-26T16:28:19.065-04:00
+published: 2026-03-26T16:28:19.065-04:00
 Age: "29"
 Ancestry: Half-Elf
 Gender: Male
@@ -54,17 +54,6 @@ Author: Jordan
 - Bancil adventured with The High Rollers for a long while after besting [[Tadeusz]] in a duel to prove his worth.
 - Bancil, along with the other High Rollers, performed both great and terrible deeds while adventuring.
 - After the adventuring party deposed [[Lord Davos Portnoir]], Bancil travelled with his family [[Nova Jersaeria]] to spread justice and the word of Tyr.
-
-# Key Details
-
-- **Age**: 29
-- **Ancestry**: Half-Elf
-- **Gender**: Male
-- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
-- **Role**: Former Member of The High Roller, Paladin, Family Guy
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

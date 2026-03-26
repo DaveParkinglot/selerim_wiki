@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:04:42.145-04:00
-published: 2026-03-26T16:04:42.145-04:00
+modified: 2026-03-26T16:29:06.408-04:00
+published: 2026-03-26T16:29:06.408-04:00
 Age: "89"
 Ancestry: Tiefling
 Gender: Female
@@ -45,17 +45,6 @@ Author: Jordan
 # Overview
 
 - The kindly old Tiefling woman who owns Spirulina's Solutions in the Tiialan Marketplace.
-
-# Key Details
-
-- **Age**: 89
-- **Ancestry**: Tiefling
-- **Gender**: Female
-- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
-- **Role**: Alchemist
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

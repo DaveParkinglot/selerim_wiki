@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:07:47.796-04:00
-published: 2026-03-26T16:07:47.796-04:00
+modified: 2026-03-26T16:32:03.274-04:00
+published: 2026-03-26T16:32:03.274-04:00
 Age: "7"
 Ancestry: Kobold
 Gender: Male
@@ -50,17 +50,6 @@ Author: Jordan
 - He escaped to the surface, following his uncle [[Shemcriz]], but got lost in Nova Jersaeria.
 - Showing a hint of magical talent, he was allowed admittance to The White Grove.
 - Fellow students love how down to earth and relatable he is.
-
-# Key Details
-
-- **Age**: 7
-- **Ancestry**: Kobold
-- **Gender**: Male
-- **Location**: [[Places/White Grove.md|White Grove]]
-- **Role**: Student,Freshman
-- **Affiliation:** Vlorngroth
-- **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
-- **Status:** Alive
 
 # Attributes
 

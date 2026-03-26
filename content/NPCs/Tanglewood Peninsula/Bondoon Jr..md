@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T15:54:48.291-04:00
-published: 2026-03-26T15:54:48.291-04:00
+modified: 2026-03-26T16:25:26.076-04:00
+published: 2026-03-26T16:25:26.076-04:00
 Age: "22"
 Ancestry: Human
 Gender: Male
@@ -47,17 +47,6 @@ Author: Jordan
 - An aspiring adventurer, he is tired of spending all his days cooped up at the Bondoon Cereal Factory.
 - His father's mysterious disappearance thrust him into the family business, but he still finds time to go on adventures.
 
-# Key Details
-
-- **Age**: 22
-- **Ancestry**: Human
-- **Gender**: Male
-- **Location**: [[Places/Crabbley.md|Crabbley]]
-- **Role**: Heir to the Cereal Factory
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
-
 # Attributes
 
 - **Voice**: Uncertain and squeaky
@@ -67,5 +56,6 @@ Author: Jordan
 
 # Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                | Relationship |
+| ------------------- | ------------ |
+| [[Crombo the Cook]] | Party Member |

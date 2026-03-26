@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-25T10:14:57.437-05:00
-modified: 2026-03-26T15:48:00.416-04:00
-published: 2026-03-26T15:48:00.416-04:00
+modified: 2026-03-26T16:23:57.585-04:00
+published: 2026-03-26T16:23:57.585-04:00
 Age: "32"
 Ancestry:
   - Orc
@@ -58,17 +58,6 @@ aliases:
 - Gane was invited to Bobby's Bachelor Birthday Bender by [[Hoary Boulder]].
 - During the party, his soul was taken by the demon lord [[Pazuzu]] to join "Pazuzu's Pals" and do stand-up for them.
 - The boys made a deal to get Gane's soul back on weekends, but they have to complete Pazuzu's quest.
-
-# Key Details
-
-- **Age**: 32
-- **Ancestry**: Orc
-- **Gender**: M
-- **Location**: [[Places/Borfield.md|Borfield]],[[Places/Scrimshaw City.md|Scrimshaw City]],Varies
-- **Role**: Professional Comedian,Older Cousin
-- **Affiliation:** None
-- **Appearances:** [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]]
-- **Status:** Alive
 
 # Attributes
 

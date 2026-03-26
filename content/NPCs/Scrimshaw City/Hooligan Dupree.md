@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:48:42.272-04:00
-published: 2026-03-26T15:48:42.272-04:00
+modified: 2026-03-26T16:24:14.056-04:00
+published: 2026-03-26T16:24:14.056-04:00
 Age: "32"
 Ancestry:
   - Satyr
@@ -52,17 +52,6 @@ Author: Jordan
 - Tired of being a lazy bum with too much time to party, Hooligan tried to become an adventurer.
 - This led him to join [[Tavernstool]], and he couldn't handle the amount of hazing. He was, fortunately, saved by The High Rollers before all the hazing killed him.
 - Now he works at The Spicy Meatball while he builds his career as a salt spitter (rapper) in [[Scrimshaw City]].
-
-# Key Details
-
-- **Age**: 32
-- **Ancestry**: Satyr
-- **Gender**: Male
-- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
-- **Role**: Failed Adventurer,Bartender,Aspiring Salt Spitter
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Arby's Sauce.md|Arby's Sauce]]
-- **Status:** Alive
 
 # Attributes
 

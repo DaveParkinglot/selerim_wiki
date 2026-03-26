@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T15:55:36.975-04:00
-published: 2026-03-26T15:55:36.975-04:00
+modified: 2026-03-26T16:26:20.552-04:00
+published: 2026-03-26T16:26:20.552-04:00
 Age: "17"
 Ancestry: Dragonborn
 Gender: Male
@@ -53,17 +53,6 @@ Author: Jordan
 
 - He was attempting to create an adventuring party with [[Bondoon Jr.]]
 - His new party was at the adventurer tryouts for the teleporter adventure.
-
-# Key Details
-
-- **Age**: 17
-- **Ancestry**: Dragonborn
-- **Gender**: Male
-- **Location**: [[Places/Crabbley.md|Crabbley]]
-- **Role**: Adventurer, Bard, Head Chef
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

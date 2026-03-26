@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:11:17.662-04:00
-published: 2026-03-26T16:11:17.662-04:00
+modified: 2026-03-26T16:30:26.971-04:00
+published: 2026-03-26T16:30:26.971-04:00
 Age: "214"
 Ancestry: Dwarf
 Gender: M
@@ -49,17 +49,6 @@ Author: Jordan
 - Of all the folk of Selerim, he may be the most knowledgeable about the world and its histories.
 - He is a nephew of [[Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
 
-# Key Details
-
-- **Age**: 214
-- **Ancestry**: Dwarf
-- **Gender**: M
-- **Location**: [[Places/White Grove.md|White Grove]]
-- **Role**: Headmaster
-- **Affiliation:** [[Places/Nova Jersaeria.md|Nova Jersaeria]]
-- **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
-- **Status:** Alive
-
 # Attributes
 
 - **Voice**: Wise old man
@@ -69,6 +58,6 @@ Author: Jordan
 
 # Relationships
 
-| Name | Relationship |
-| ---- | ------------ |
-|      |              |
+| Name                                   | Relationship |
+| -------------------------------------- | ------------ |
+| [[Geblorgurin the Grand\|Geblorgurin]] | Uncle        |

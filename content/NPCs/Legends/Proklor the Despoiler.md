@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:34:28.998-04:00
-published: 2026-03-26T15:34:28.998-04:00
+modified: 2026-03-26T16:21:19.590-04:00
+published: 2026-03-26T16:21:19.590-04:00
 Age: ??
 Ancestry: Drow, Draegloth
 Gender: Male
@@ -52,16 +52,6 @@ Author: Jordan
 - Lolth only breaks him out for special occasions, lending his services to drow on worlds where she wants a favor
 - Summoned by a group of Vlorn inquisitor initiates during the events of [[Vlorngroth - The Manor of Madness|Vlorngroth - The Manor of Madness]].
 - He has a spiritual shard of [[Tharizdun, the Chained Oblivion]] contained within him, which is what gives him all his powers
-
-# Key Details
-
-- **Age**: ??
-- **Ancestry**: Drow, Draegloth
-- **Gender**: Male
-- **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
-- **Role**: Villain,Destroyer of Worlds
-- **Affiliation:** [[Places/Vlorngroth.md|Vlorngroth]]
-- **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]],[[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 
 # Attributes
 

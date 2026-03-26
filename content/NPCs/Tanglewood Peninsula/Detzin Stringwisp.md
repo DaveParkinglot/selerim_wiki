@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Detzin
 created: 2025-11-02T10:33:16.000-05:00
-modified: 2026-03-26T15:55:56.074-04:00
-published: 2026-03-26T15:55:56.074-04:00
+modified: 2026-03-26T16:26:29.216-04:00
+published: 2026-03-26T16:26:29.216-04:00
 Age: "42"
 Ancestry:
   - Wood Elf
@@ -57,17 +57,6 @@ Author: Jordan
 ## [[Lighting the Lighthouse DM|Lighting the Lighthouse]]
 
 - Detzin and a group of adventurers were tasked with dispelling the necrotic aura surrounding Aldwood Lighthouse.
-
-# Key Details
-
-- **Age**: 42
-- **Ancestry**: Wood Elf
-- **Gender**: M
-- **Location**: [[Places/Mitlin.md|Mitlin]]
-- **Role**: Bard,Solo Artist
-- **Affiliation:** [[Places/Mitlin.md|Mitlin]]
-- **Appearances:** [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
-- **Status:** Alive
 
 # Attributes
 

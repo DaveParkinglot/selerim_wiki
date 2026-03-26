@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:36:14.829-04:00
-published: 2026-03-26T15:36:14.829-04:00
+modified: 2026-03-26T16:21:45.232-04:00
+published: 2026-03-26T16:21:45.232-04:00
 Age: "286"
 Ancestry: Halfling
 Gender: Male
@@ -51,17 +51,6 @@ Author: Jordan
   - He also makes a decent goodberry wine.
 - When a fey incursion from Tzastis the Collector threatened The Thicket, he was instrumental in the fight against Tzastis and his Hag Coven. Though Tzastis was eventually defeated, he and several of his powerful minions escaped banishment back to the Feywild, disappearing into the forests.
 - Myrrdin has certainly heard the tales of a new Hag Coven in the mires to the west, but he and his druids are content knowing that their own home is safe from Tzastis.
-
-# Key Details
-
-- **Age**: 286
-- **Ancestry**: Halfling
-- **Gender**: Male
-- **Location**: [[Places/Wild Thicket.md|Wild Thicket]]
-- **Role**: Archdruid, Mentor
-- **Affiliation:** The Circle of the Thicket
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

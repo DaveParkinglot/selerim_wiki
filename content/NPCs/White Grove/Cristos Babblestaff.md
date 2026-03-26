@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:07:49.278-04:00
-published: 2026-03-26T16:07:49.278-04:00
+modified: 2026-03-26T16:31:59.692-04:00
+published: 2026-03-26T16:31:59.692-04:00
 Age: "24"
 Ancestry: Orc
 Gender: Male
@@ -57,17 +57,6 @@ Author: Jordan
 - Cristos, nervous that he might not graduate next semester, needed the extra credit points from the scavenger hunt.
 - He helped the party deal with some flying snakes, but quickly became nervous about the ancient Corrodrethian temple and fled into the woods.
 - He participated in the killing and looting of Provost Serpentios, but was sworn to secrecy.
-
-# Key Details
-
-- **Age**: 24
-- **Ancestry**: Orc
-- **Gender**: Male
-- **Location**: [[Places/White Grove.md|White Grove]]
-- **Role**: Student,Super Senior
-- **Affiliation:** None
-- **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
-- **Status:** Alive
 
 # Attributes
 

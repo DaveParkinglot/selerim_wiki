@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:03:29.336-04:00
-published: 2026-03-26T16:03:29.336-04:00
+modified: 2026-03-26T16:28:35.947-04:00
+published: 2026-03-26T16:28:35.947-04:00
 Age: "24"
 Ancestry:
   - Yuan-ti
@@ -46,19 +46,8 @@ Author: Jordan
 
 # Overview
 
-- A monstrous Yuan-ti bodyguard with snakes for arms working for the enigmatic merchant [[Riggle Fragoo]].
+- A monstrous yuan-ti bodyguard with snakes for arms working for the enigmatic merchant [[Riggle Fragoo]].
 - Loves deadlifts and living in the sewer.
-
-# Key Details
-
-- **Age**: 24
-- **Ancestry**: Yuan-ti
-- **Gender**: Male
-- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]],Sewers
-- **Role**: Bodyguard
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

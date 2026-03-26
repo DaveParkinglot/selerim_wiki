@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:48:19.250-04:00
-published: 2026-03-26T15:48:19.250-04:00
+modified: 2026-03-26T16:24:08.398-04:00
+published: 2026-03-26T16:24:08.398-04:00
 Age: "35"
 Ancestry:
   - Human
@@ -63,17 +63,6 @@ Author: Jordan
 ## [[Bobby's Bachelor Birthday Bender]]
 
 - Hoary helped organize Bobby's party, but he didn't partake in the festivities since he is sober.
-
-# Key Details
-
-- **Age**: 35
-- **Ancestry**: Human
-- **Gender**: Male
-- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
-- **Role**: Chief Accountant,Bracketologist,Former Thief
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Arby's Sauce.md|Arby's Sauce]],[[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]]
-- **Status:** Alive
 
 # Attributes
 

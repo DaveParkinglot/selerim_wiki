@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:33:47.687-04:00
-published: 2026-03-26T15:33:47.687-04:00
+modified: 2026-03-26T16:19:08.109-04:00
+published: 2026-03-26T16:19:08.109-04:00
 Age: ??
 Ancestry: Marut
 Gender: N/A
@@ -48,17 +48,6 @@ Author: Jordan
 - After [[The High Rollers]] assembled the three Gems of Eyes, they combined into a singular, larger eye. Around this eye, Baj the Unerring's physical form was able to manifest.
 - Somehow, Baj was killed and his Gold Plate shattered prior to the reign of [[Geblorgurin the Grand]] over 250 years ago.
 - The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil.
-
-# Key Details
-
-- **Age**: ??
-- **Ancestry**: Marut
-- **Gender**: N/A
-- **Location**: Sigil, City of Doors
-- **Role**: Unbiased, Unstoppable Machine of Death,Marut of The Primus
-- **Affiliation:** The Primus
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

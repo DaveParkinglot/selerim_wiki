@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:49:26.689-04:00
-published: 2026-03-26T15:49:26.689-04:00
+modified: 2026-03-26T16:24:17.041-04:00
+published: 2026-03-26T16:24:17.041-04:00
 Age: "326"
 Ancestry:
   - Fiend (Devil)
@@ -55,17 +55,6 @@ Author:
 - He adventured with [[The High Rollers]] for a time, and eventually had his vengeance by deposing [[Lord Davos Portnoir]].
 - With Portnoir deposed, Hugh Mann now reigns as El Presidente of [[Scrimshaw City]], and he has sole ownership of [[Tavernstool]], Portnoir's old company.
 - His status as a devil is, at this point, widely known in Scrimshaw.
-
-# Key Details
-
-- **Age**: 326
-- **Ancestry**: Fiend (Devil)
-- **Gender**: Male
-- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
-- **Role**: El Presidente,Former Adventurer
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]],Tavernstool
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]],[[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
-- **Status:** Alive
 
 # Attributes
 

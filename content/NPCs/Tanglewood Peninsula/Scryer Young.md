@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-08T11:33:00.000-05:00
-modified: 2026-03-26T15:58:38.936-04:00
-published: 2026-03-26T15:58:38.936-04:00
+modified: 2026-03-26T16:27:39.845-04:00
+published: 2026-03-26T16:27:39.845-04:00
 Age: "48"
 Ancestry:
   - Elf
@@ -50,17 +50,6 @@ Author: Jordan
 # Overview
 
 - Business partner of [[Bwanson Wagwan]], he works with Bwanson at the magic item shop Jack of Owl Trades in [[Mitlin]].
-
-# Key Details
-
-- **Age**: 48
-- **Ancestry**: Elf
-- **Gender**: Male
-- **Location**: [[Places/Mitlin.md|Mitlin]]
-- **Role**: Merchant,Scryer
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]],[[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
-- **Status:** Alive
 
 # Attributes
 

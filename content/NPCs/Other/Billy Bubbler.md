@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T08:58:27.000-04:00
-modified: 2026-03-26T15:35:28.850-04:00
-published: 2026-03-26T15:35:28.850-04:00
+modified: 2026-03-26T16:21:31.031-04:00
+published: 2026-03-26T16:21:31.031-04:00
 Age: "174"
 Ancestry: Fiend (Devil), Sahuagin
 Gender: Male
@@ -46,16 +46,6 @@ Author: Jordan
 
 - Billy and his sahuagin followers claim the waters west of [[Scrimshaw City|Scrimshaw]].
 - He has very little stake in what happens on the surface, and he only comes to the surface when there's a party with great catered food.
-
-# Key Details
-
-- **Age**: 174
-- **Ancestry**: Fiend (Devil), Sahuagin
-- **Gender**: Male
-- **Location**: Boater's Bay
-- **Role**: Sahuagin Baron
-- **Affiliation:** None
-- **Status:** Alive
 
 # Attributes
 

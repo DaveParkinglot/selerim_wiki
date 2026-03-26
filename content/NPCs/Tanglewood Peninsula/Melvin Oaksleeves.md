@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T15:58:06.225-04:00
-published: 2026-03-26T15:58:06.225-04:00
+modified: 2026-03-26T16:27:13.617-04:00
+published: 2026-03-26T16:27:13.617-04:00
 Age: "210"
 Ancestry: Elf
 Gender: Male
@@ -50,17 +50,6 @@ Author: Jordan
 - Leader of the Wise Wizards of [[Mitlin]], and Mitlin's most accomplished seer.
 - He assisted [[The High Rollers]] in researching many topics during their stay in Mitlin.
 - He has been sending adventurers to treat with the fey crossing that appeared close to Mitlin called Kindlethicket.
-
-# Key Details
-
-- **Age**: 210
-- **Ancestry**: Elf
-- **Gender**: Male
-- **Location**: [[Places/Mitlin.md|Mitlin]]
-- **Role**: Wise Wizard
-- **Affiliation:** The Wise Wizards
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
-- **Status:** Alive
 
 # Attributes
 

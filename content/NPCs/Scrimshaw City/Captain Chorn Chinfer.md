@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:46:40.561-04:00
-published: 2026-03-26T15:46:40.561-04:00
+modified: 2026-03-26T16:22:59.907-04:00
+published: 2026-03-26T16:22:59.907-04:00
 Age: "32"
 Ancestry:
   - Tiefling
@@ -48,17 +48,6 @@ Author: Jordan
 - Captain of the S.S. Tartarmule, before it became lodged in the ice leaving the Aldwood Lighthouse.
 - He is still without a ship, a crew, and a first mate after they were all killed by [[Dr. Drendle]]'s undead.
 - He still owes [[The High Rollers]] dinner with his wife one day...
-
-# Key Details
-
-- **Age**: 32
-- **Ancestry**: Tiefling
-- **Gender**: Male
-- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
-- **Role**: Ship Captain
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

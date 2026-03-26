@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-02T15:31:31.000-05:00
-modified: 2026-03-26T15:53:16.729-04:00
-published: 2026-03-26T15:53:16.729-04:00
+modified: 2026-03-26T16:24:45.759-04:00
+published: 2026-03-26T16:24:45.759-04:00
 Age: "32"
 Ancestry:
   - Orc
@@ -49,17 +49,6 @@ Author: Jordan
 
 - Private security sellsword who was hired to guard [[Arno Rickshir]]'s empty Boldriver Pawn Shop while he ran his traveling magic shop in the [[Tanglewood Peninsula|Tanglewood]].
 - Before setting sail for [[Scrimshaw City]], she was involved in a gang in [[Nova Jersaeria]].
-
-# Key Details
-
-- **Age**: 32
-- **Ancestry**: Orc
-- **Gender**: Female
-- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
-- **Role**: Former Gangster,Private Security
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
-- **Status:** Alive
 
 # Attributes
 

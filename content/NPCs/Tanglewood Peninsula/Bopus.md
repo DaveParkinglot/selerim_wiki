@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T15:55:02.218-04:00
-published: 2026-03-26T15:55:02.218-04:00
+modified: 2026-03-26T16:26:05.180-04:00
+published: 2026-03-26T16:26:05.180-04:00
 Age: "64"
 Ancestry: Gnome
 Gender: Male
@@ -68,18 +68,7 @@ Author: Jordan
 
 ## [[Selerim 5K]]
 
-- In the [[Selerim 5K]] setting, Bopus is known as [[The Machine God]]. Many bots are made in his image, such as the many Bopus Bot versions.
-
-# Key Details
-
-- **Age**: 64
-- **Ancestry**: Gnome
-- **Gender**: Male
-- **Location**: [[Places/Crabbley.md|Crabbley]],The Cronium Caves
-- **Role**: Gnome Diplomat
-- **Affiliation:** Cronium Gnomes
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
-- **Status:** Alive
+- In the [[Selerim 5K]] setting, Bopus is known as [[The Machine God]]. Exactly how he ascended to godhood is not yet known, but many bots are made in his image such as the many varieties of Bopus Bots.
 
 # Attributes
 

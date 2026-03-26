@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:45:41.126-04:00
-published: 2026-03-26T15:45:41.126-04:00
+modified: 2026-03-26T16:22:42.016-04:00
+published: 2026-03-26T16:22:42.016-04:00
 Age: "78"
 Ancestry:
   - Dwarf
@@ -51,17 +51,6 @@ Author: Jordan
 - World renowned drummer, and one of the 3 members of Crag Delta.
 - They've played venues from [[Crabbley]] to [[Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
 - His stage name is "Blostin, Lord of the Sticks".
-
-# Key Details
-
-- **Age**: 78
-- **Ancestry**: Dwarf
-- **Gender**: Male
-- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]],Varies
-- **Role**: Bard, Bandmember (Drummer)
-- **Affiliation:** Crag Delta
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]]
-- **Status:** Alive
 
 # Attributes
 

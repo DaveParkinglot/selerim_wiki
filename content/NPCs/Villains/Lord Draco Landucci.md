@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:06:37.610-04:00
-published: 2026-03-26T16:06:37.610-04:00
+modified: 2026-03-26T16:29:29.075-04:00
+published: 2026-03-26T16:29:29.075-04:00
 Age: "56"
 Ancestry:
   - Human
@@ -54,17 +54,6 @@ Author: Jordan
 - He sought to rule all of Tiialia through the puppet king Antonio Adonzio.
 - He was killed by [[The High Rollers]] in the Nova Jersaeria throne room, along with [[Faustia Fanto-Domingo]] and his burly twin sons Lorus and Korus.
 - He is now known as the Tyrant Lord, and his family name is anathema in the holdings of Tiialia.
-
-# Key Details
-
-- **Age**: 56
-- **Ancestry**: Human
-- **Gender**: Male
-- **Location**: Nova Jersaeria
-- **Role**: Tyrant Lord
-- **Affiliation:** [[Factions/Families of Tiialia/Landucci Family.md|Landucci Family]],[[Factions/Families of Tiialia/Fanto-Domingo Family.md|Fanto-Domingo Family]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Deceased
 
 # Attributes
 

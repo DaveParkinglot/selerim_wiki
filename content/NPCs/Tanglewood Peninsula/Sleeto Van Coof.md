@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T15:58:47.580-04:00
-published: 2026-03-26T15:58:47.580-04:00
+modified: 2026-03-26T16:27:44.777-04:00
+published: 2026-03-26T16:27:44.777-04:00
 Age: "49"
 Ancestry: Human
 Gender: Male
@@ -47,17 +47,6 @@ Author: Jordan
 
 - Thief, spymaster, father figure to the hapless Hoary Boulder.
 - After his initial heist of [[Beezlebop]]'s woodland manor led to the deaths of most of his crew, Sleeto put together a new crew with [[Hoary Boulder]] and [[The High Rollers]] to heist the mansion. This time it went much better, and for a while he became [[The High Rollers]]' eyes and ears in Crabbley.
-
-# Key Details
-
-- **Age**: 49
-- **Ancestry**: Human
-- **Gender**: Male
-- **Location**: [[Places/Crabbley.md|Crabbley]]
-- **Role**: Thief,Spymaster
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

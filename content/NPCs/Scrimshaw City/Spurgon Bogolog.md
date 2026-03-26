@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T15:52:37.657-04:00
-published: 2026-03-26T15:52:37.657-04:00
+modified: 2026-03-26T16:24:34.799-04:00
+published: 2026-03-26T16:24:34.799-04:00
 Age: "32"
 Ancestry:
   - Halfling
@@ -51,17 +51,6 @@ Author: Jordan
 - Lead singer of Crag Delta. For someone with such sticky fingers he sure can play the lyre!
 - One of the 3 members of Crag Delta. They've played venues from [[Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
 - His stage name is "The Spurg".
-
-# Key Details
-
-- **Age**: 32
-- **Ancestry**: Halfling
-- **Gender**: Male
-- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]],Varies
-- **Role**: Bard, Bandmember (Lead Singer)
-- **Affiliation:** Crag Delta
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]]
-- **Status:** Alive
 
 # Attributes
 

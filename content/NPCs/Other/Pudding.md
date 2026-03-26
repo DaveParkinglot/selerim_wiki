@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:36:42.171-04:00
-published: 2026-03-26T15:36:42.171-04:00
+modified: 2026-03-26T16:22:14.661-04:00
+published: 2026-03-26T16:22:14.661-04:00
 Age: "22"
 Ancestry: Troll
 Gender: Male
@@ -60,17 +60,6 @@ Author: Jordan
 ## [[Spring Cleaning in Scrimshaw City|Spring Cleaning in Scrimshaw City]]
 
 - Pudding was seen talking with [[Hugh Mann]] in The High Roller Bar & Gift Shop.
-
-# Key Details
-
-- **Age**: 22
-- **Ancestry**: Troll
-- **Gender**: Male
-- **Location**: The Underdark,The Fathomless Vault,[[Places/Mitlin.md|Mitlin]],[[Places/Scrimshaw City.md|Scrimshaw City]]
-- **Role**: Helpful Troll
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Arby's Sauce.md|Arby's Sauce]]
-- **Status:** Alive
 
 # Attributes
 

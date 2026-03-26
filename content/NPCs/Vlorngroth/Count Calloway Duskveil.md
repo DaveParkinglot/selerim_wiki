@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-09-17T12:03:07.000-04:00
-modified: 2026-03-26T16:06:33.096-04:00
-published: 2026-03-26T16:06:33.096-04:00
+modified: 2026-03-26T16:29:45.341-04:00
+published: 2026-03-26T16:29:45.341-04:00
 Age: "163"
 Ancestry:
   - Drow
@@ -52,17 +52,6 @@ Author: Jordan
 - While he is friends with powerful folk, he himself is not nearly as ambitious, preferring to keep to himself.
 - He is old friends with [[High Lord Jorad Kranicz]], current leader of the Vlorn Dynasty.
 - He is the uncle of the former Inquisitor turned bounty hunter [[Carbuckle Duskshot]], who dropped the Veil in favor of the Shot.
-
-# Key Details
-
-- **Age**: 163
-- **Ancestry**: Drow,Vampire
-- **Gender**: Male
-- **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
-- **Role**: Former Inquisitor
-- **Affiliation:** None
-- **Appearances:** [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]],[[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]]
-- **Status:** Alive
 
 # Attributes
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T15:54:31.517-04:00
-published: 2026-03-26T15:54:31.517-04:00
+modified: 2026-03-26T16:25:08.621-04:00
+published: 2026-03-26T16:25:08.621-04:00
 Age: "22"
 Ancestry: Orc
 Gender: Female
@@ -49,17 +49,6 @@ Author: Jordan
 - Like the others in her party, Blotta originally hails from the smaller village of [[Borfield]].
 - She hooked up with [[Tadeusz]] during the celebrations following the Battle of [[Crillville]], when [[Malmstein the Tangler]] was defeated.
 - At some point, she was betrothed to marry Bobby Dismorphia.
-
-# Key Details
-
-- **Age**: 22
-- **Ancestry**: Orc
-- **Gender**: Female
-- **Location**: [[Places/Crabbley.md|Crabbley]],[[Places/Borfield.md|Borfield]]
-- **Role**: Barbarian Adventurer
-- **Affiliation:** [[The Backbreakers|The Backbreakers]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

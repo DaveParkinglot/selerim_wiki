@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T15:59:24.672-04:00
-published: 2026-03-26T15:59:24.672-04:00
+modified: 2026-03-26T16:28:06.559-04:00
+published: 2026-03-26T16:28:06.559-04:00
 Age: "74"
 Ancestry: Human
 Gender: Male
@@ -52,17 +52,6 @@ Author: Jordan
 - This practice has withstood the test of time, and there are now several generations of Dentes living in [[Mournholde]].
 - He has a daughter named Allie (short for Alberta) who lives in the countryside working as a cleric of the god Selune.
 - She plans to take his place after he soon embarks on the [[Necronaut of Mournholde]].
-
-# Key Details
-
-- **Age**: 74
-- **Ancestry**: Human
-- **Gender**: Male
-- **Location**: The Esposito Vineyard,[[Places/Nova Jersaeria.md|Nova Jersaeria]]
-- **Role**: Butler
-- **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]],[[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

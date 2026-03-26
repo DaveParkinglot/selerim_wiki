@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:03:37.325-04:00
-published: 2026-03-26T16:03:37.325-04:00
+modified: 2026-03-26T16:28:43.850-04:00
+published: 2026-03-26T16:28:43.850-04:00
 Age: "36"
 Ancestry: Kobold
 Gender: Male
@@ -46,17 +46,6 @@ Author: Jordan
 # Overview
 
 A shady kobold who owns Criz's Crib, a staple of the Tiialan sewer night market.
-
-# Key Details
-
-- **Age**: 36
-- **Ancestry**: Kobold
-- **Gender**: Male
-- **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]],Sewers
-- **Role**: Shopkeeper
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
-- **Status:** Alive
 
 # Attributes
 

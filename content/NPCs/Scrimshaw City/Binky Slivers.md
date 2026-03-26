@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:45:42.309-04:00
-published: 2026-03-26T15:45:42.309-04:00
+modified: 2026-03-26T16:22:37.630-04:00
+published: 2026-03-26T16:22:37.630-04:00
 Age: "267"
 Ancestry:
   - Rakshasa
@@ -52,17 +52,6 @@ Author: Jordan
 
 - [[Hugh Mann]]'s primary fixer, he gives out quests to adventures on behalf of Mann from The High Roller Bar & Casino in [[Scrimshaw City]].
 - He fought with Hugh in the Blood War for a time. After Hugh escaped to the material plane and became El Presidente, he used his powers to pull Binky back from the Hells.
-
-# Key Details
-
-- **Age**: 267
-- **Ancestry**: Rakshasa
-- **Gender**: Male
-- **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
-- **Role**: Bartender,Dealer,Fixer
-- **Affiliation:** Tavernstool
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]],[[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]],[[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
-- **Status:** Alive
 
 # Attributes
 
