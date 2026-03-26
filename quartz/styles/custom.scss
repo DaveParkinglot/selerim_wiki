@@ -2,12 +2,9 @@
 @use "./variables.scss" as *;
 @use "sass:map";
 
-/* -- MMW SCSS Modules -- */
-@use "./custom/image-adjustments.scss";
-@use "./custom/callout-adjustments.scss";
-@use "./custom/column-callout.scss";
-@use "./custom/caption-callout.scss";
+/* -- wiki infobox -- */
 @use "./custom/infobox-callout.scss";
+
 // put your custom CSS here!
 
 
