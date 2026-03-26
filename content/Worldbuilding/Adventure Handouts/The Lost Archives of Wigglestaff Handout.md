@@ -1,10 +1,12 @@
 ---
 publish: true
 created: 2025-08-22T13:00:42.000-04:00
-modified: 2025-10-30T11:57:33.026-04:00
-published: 2025-10-30T11:57:33.026-04:00
+modified: 2026-03-26T15:19:52.646-04:00
+published: 2026-03-26T15:19:52.646-04:00
 Author: Jordan
 ---
+
+Handout from [[The Lost Archives of Wigglestaff]]
 
 ## THE LOST ARCHIVES OF WIGGLESTAFF
 

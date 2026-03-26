@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T11:17:12.000-04:00
-modified: 2026-01-16T08:55:00.896-05:00
-published: 2026-01-16T08:55:00.896-05:00
+modified: 2026-03-26T15:29:29.739-04:00
+published: 2026-03-26T15:29:29.739-04:00
 Age: "89"
 Ancestry:
   - Half-Elf
@@ -10,7 +10,7 @@ Gender: Female
 Location:
   - Breakwater Cove
 Role:
-  - Ship Captain
+  - Master Gunner
 Affiliation:
   - None
 Appearances:
@@ -19,11 +19,34 @@ Status: Alive
 Author: Jordan
 ---
 
-![[NPC.webp|300]]
+> [!infobox]
+>
+> ## Marashka Breakwater
+>
+> ![[z_assets/marashka_breakwater.png|300]]
+>
+> ## Details
+>
+> **Age**: 89
+>
+> **Ancestry**: Half-Elf
+>
+> **Gender**: Female
+>
+> **Location**: Breakwater Cove
+>
+> **Role**: Master Gunner
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
+>
+> **Status:** Alive
 
 # Overview
 
-- Former Master Gunner of The Leaky Bucket
+- Former Master Gunner of The Leaky Bucket.
+- Descendant of the legendary Breakwater family, who founded [[Breakwater Cove]].
 
 # Key Details
 
@@ -31,7 +54,7 @@ Author: Jordan
 - **Ancestry**: Half-Elf
 - **Gender**: Female
 - **Location**: Breakwater Cove
-- **Role**: Ship Captain
+- **Role**: Master Gunner
 - **Affiliation:** None
 - **Appearances:** [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 - **Status:** Alive

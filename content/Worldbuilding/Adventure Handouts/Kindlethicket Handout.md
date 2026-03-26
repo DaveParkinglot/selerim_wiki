@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-08-22T12:56:18.000-04:00
-modified: 2026-02-18T13:58:36.121-05:00
-published: 2026-02-18T13:58:36.121-05:00
+modified: 2026-03-26T15:20:05.327-04:00
+published: 2026-03-26T15:20:05.327-04:00
 Author: Jordan
 ---
 
 Handout for [[Kindlethicket - Envoys of Mitlin]]
 
-## Kindlethicket (or, Steamy Fairy Adventures)
+## Kindlethicket - Envoys of Mitlin (or, Steamy Fairy Adventures)
 
 - The Wise Wizards of [[Mitlin]] have sensed a dramatic change in the ley lines of the Tanglewood Peninsula! A new Fey Crossing— where our Material Plane intersects with the Feywild, the Plane of Faerie—has sprung up on the eastern arm of the peninsula, an event that has not happened in generations of elves!
 - With all its rangers out ranging and its fighters out fighting, [[Mitlin]] needs starry eyed adventurers now more than ever. As such, the [[Oaken Conclave]] has decided to send you and your adventuring party to investigate this new Fey Crossing. Whatever your previous story was, you are now an honorary [[Mitlin]] Ranger.

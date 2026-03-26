@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-07-27T17:15:45.000-04:00
-modified: 2026-03-26T15:04:15.575-04:00
-published: 2026-03-26T15:04:15.575-04:00
+modified: 2026-03-26T15:21:28.323-04:00
+published: 2026-03-26T15:21:28.323-04:00
 Author: Jordan
 ---
 
 # Selerim Adventures
 
-| Name                                                                                                    | In-World Date Range   | Date Range                            | DM        | Players                                                | Platform        | Setting    |
+| Name                                                                                                    | In-World Dates        | Session Dates                         | DM        | Players                                                | Platform        | Setting    |
 | ------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------- | --------- | ------------------------------------------------------ | --------------- | ---------- |
 | [[Adventures/Bobby's Bachelor Birthday Bender.md\|Bobby's Bachelor Birthday Bender]]       | 266-02-28 - 266-03-01 | February 12, 2026                     | Jordan    | Peter, Otto, Logan, Cale                               | Foundry         | Selerim    |
 | [[Adventures/New Dawn - Hellfist Heist.md\|New Dawn - Hellfist Heist]]                     | 266-01-01             | January 03, 2026                      | Jordan    | David, Steph, Laura                                    | In person       | Selerim    |

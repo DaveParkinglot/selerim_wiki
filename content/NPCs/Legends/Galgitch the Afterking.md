@@ -4,8 +4,8 @@ aliases:
   - Galgitch
   - The Afterking
 created: 2025-10-17T09:50:27.000-04:00
-modified: 2026-02-05T09:26:13.183-05:00
-published: 2026-02-05T09:26:13.183-05:00
+modified: 2026-03-26T15:29:37.129-04:00
+published: 2026-03-26T15:29:37.129-04:00
 Status: Alive
 Author: Jordan
 Age: "165"
@@ -22,7 +22,29 @@ Appearances:
   - "[[The Mournholde Incident]]"
 ---
 
-![[z_assets/galgitch_the_afterking.png|300]]
+> [!infobox]
+>
+> ## Galgitch the Afterking
+>
+> ![[z_assets/galgitch_the_afterking.png|300]]
+>
+> ## Details
+>
+> **Age**: 165
+>
+> **Ancestry**: Undead Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Mournholde.md|Mournholde]]
+>
+> **Role**: The Afterking of Mournholde
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The Mournholde Incident.md|The Mournholde Incident]]
+>
+> **Status:** Alive
 
 # Overview
 
