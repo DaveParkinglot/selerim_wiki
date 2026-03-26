@@ -2,14 +2,9 @@
 @use "./variables.scss" as *;
 @use "sass:map";
 /* -- Morrowind Modding Wiki SCSS Modules for cooler things-- */
-@use "./custom/callout-adjustments.scss";
-@use "./custom/caption-callout.scss";
-@use "./custom/image-adjustments.scss";
-@use "./custom/column-callout.scss";
 @use "./custom/infobox-callout.scss";
 
 // put your custom CSS here!
-
 
 // Adding some spacing between entries in the explorer
 div.explorer {
