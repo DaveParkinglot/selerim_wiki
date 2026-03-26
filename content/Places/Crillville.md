@@ -2,8 +2,8 @@
 publish: true
 title: Crillville, Harbor Town
 created: 2025-10-09T14:45:41.000-04:00
-modified: 2026-03-26T13:02:07.423-04:00
-published: 2026-03-26T13:02:07.423-04:00
+modified: 2026-03-26T13:11:14.603-04:00
+published: 2026-03-26T13:11:14.603-04:00
 Type:
   - Town
 Age (years): 80
@@ -47,7 +47,7 @@ Author: Jordan
 
 # Overview
 
-- Crillville is a dreary fishing town on the upper reaches of the Tanglewood Peninsula. It rains frequently in Crillville due to the weather patterns in the northern parts of Boater's Bay.
+- Crillville is a dreary fishing town on the upper reaches of the [[Tanglewood Peninsula]]. It rains frequently in Crillville due to the weather patterns in the northern parts of Boater's Bay.
 - Crillville is closely allied with its sister town, [[Crabbley]], which was founded more recently by folk originally from Crillville.
 - The town is protected by [[Dick Gunbarrel]], his paladins of Tyr, and the brave members of the [[Crillville Defense Force]] (CDF).
 - Since the terrorist attacks committed by [[The Tanglers]], both Crillville and [[Crabbley]] joined forces to create the [[Tanglewood Defense Council]].
