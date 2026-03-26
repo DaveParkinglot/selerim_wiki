@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-03-26T13:21:15.175-04:00
-published: 2026-03-26T13:21:15.175-04:00
+modified: 2026-03-26T14:55:49.665-04:00
+published: 2026-03-26T14:55:49.665-04:00
 Type:
   - Village
 Age (years): 25
@@ -23,9 +23,6 @@ marker:
   icon: game-icons:medieval-village-01
   colour: blue
 Author: Jordan
-test:
-  - Item1
-  - Item2
 ---
 
 > [!infobox]
@@ -49,7 +46,7 @@ test:
 >
 > **Government:** [[Factions/Crabbley Council.md|Crabbley Council]]
 >
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]],[[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]], [[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]], [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 
 # Overview
 

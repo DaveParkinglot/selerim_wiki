@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T09:55:09.000-04:00
-modified: 2026-03-26T12:53:36.223-04:00
-published: 2026-03-26T12:53:36.223-04:00
+modified: 2026-03-26T14:58:11.630-04:00
+published: 2026-03-26T14:58:11.630-04:00
 Type:
   - Capital City
 Age (years): 1250
@@ -36,9 +36,9 @@ Author: Jordan
 >
 > **Affiliation**: [[Factions/Vlorn Dynasty.md|Vlorn Dynasty]]
 >
-> **Government:** [[High Lord Jorad Kranicz|High Lord Jorad Kranicz]],The Matron Mothers
+> **Government:** [[High Lord Jorad Kranicz|High Lord Jorad Kranicz]], The Matron Mothers
 >
-> **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]],[[Adventures/Vlorngroth - The Forge of Dingon.md|Vlorngroth - The Forge of Dingon]],[[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]],[[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]]
+> **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/Vlorngroth - The Forge of Dingon.md|Vlorngroth - The Forge of Dingon]], [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]], [[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]]
 
 # Overview
 

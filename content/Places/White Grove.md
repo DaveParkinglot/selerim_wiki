@@ -2,8 +2,8 @@
 publish: true
 title: White Grove, Magic Academy
 created: 2023-09-02T09:45:40.000-04:00
-modified: 2026-03-26T12:47:18.514-04:00
-published: 2026-03-26T12:47:18.514-04:00
+modified: 2026-03-26T14:58:14.298-04:00
+published: 2026-03-26T14:58:14.298-04:00
 Type:
   - Magical Academy
 Age (years): 180
@@ -41,7 +41,7 @@ Author: Jordan
 >
 > **Government:** N/A
 >
-> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 
 # Overview
 

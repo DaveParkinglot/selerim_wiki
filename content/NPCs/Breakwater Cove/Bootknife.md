@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T13:22:57.705-04:00
-published: 2026-03-26T13:22:57.705-04:00
+modified: 2026-03-26T15:00:34.539-04:00
+published: 2026-03-26T15:00:34.539-04:00
 Age: "37"
 Ancestry: Goblin
 Gender: Male
@@ -33,7 +33,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: Breakwater Cove,Varies
+> **Location**: Breakwater Cove, Varies
 >
 > **Role**: Roguish Fiend, Thief, Part-time Merchant
 >

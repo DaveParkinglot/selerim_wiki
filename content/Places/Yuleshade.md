@@ -3,11 +3,10 @@ publish: true
 aliases:
   - The Yuleshade
 created: 2025-12-09T19:13:43.000-05:00
-modified: 2026-03-26T13:06:12.706-04:00
-published: 2026-03-26T13:06:12.706-04:00
+modified: 2026-03-26T14:58:57.344-04:00
+published: 2026-03-26T14:58:57.344-04:00
 Type:
-  - Fey Realm
-  - Planet (in 5K)
+  - Domain of Delight
 Age (years): 6200
 Population: 10000
 Affiliation:
@@ -27,7 +26,7 @@ Appearances:
 >
 > ## Details
 >
-> **Type**: Fey Realm,Planet (in 5K)
+> **Type**: Domain of Delight
 >
 > **Age:** 6200
 >
@@ -46,7 +45,7 @@ Appearances:
 
 # Key Details
 
-- **Type**: Fey Realm,Planet (in 5K)
+- **Type**: Domain of Delight
 - **Age:** 6200
 - **Population**: 10000
 - **Affiliation**: None

@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Borfield, Lawless Hamlet
-created: 2026-01-06T16:13:07.789-05:00
-modified: 2026-03-26T13:35:22.029-04:00
-published: 2026-03-26T13:35:22.029-04:00
+created: 2026-01-06T16:13:07.000-05:00
+modified: 2026-03-26T14:55:17.245-04:00
+published: 2026-03-26T14:55:17.245-04:00
 Type:
   - Hamlet
 Age (years): 200
@@ -41,7 +41,7 @@ aliases:
 >
 > **Affiliation**: None
 >
-> **Government:** [[The Harlburs|The Harlburs]],[[The Poison Tongues|The Poison Tongues]]
+> **Government:** [[The Harlburs|The Harlburs]], [[The Poison Tongues|The Poison Tongues]]
 >
 > **Appearances:** None
 

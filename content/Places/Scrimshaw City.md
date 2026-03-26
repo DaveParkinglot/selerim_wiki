@@ -5,8 +5,8 @@ aliases:
   - The Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T12:30:40.000-04:00
-modified: 2026-03-26T13:05:51.906-04:00
-published: 2026-03-26T13:05:51.906-04:00
+modified: 2026-03-26T14:58:02.179-04:00
+published: 2026-03-26T14:58:02.179-04:00
 Type:
   - Free City
 Age (years): 450
@@ -49,9 +49,9 @@ Author: Jordan
 >
 > **Affiliation**: None
 >
-> **Government:** [[NPCs/Scrimshaw City/Hugh Mann.md|El Presidente Hugh Mann]],[[Tavernstool|Tavernstool]]
+> **Government:** [[NPCs/Scrimshaw City/Hugh Mann.md|El Presidente Hugh Mann]], [[Tavernstool|Tavernstool]]
 >
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Arby's Sauce.md|Arby's Sauce]],[[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]],[[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
 
 # Overview
 

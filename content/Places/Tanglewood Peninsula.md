@@ -4,8 +4,8 @@ aliases:
   - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
-modified: 2026-03-26T12:53:21.121-04:00
-published: 2026-03-26T12:53:21.121-04:00
+modified: 2026-03-26T14:58:06.818-04:00
+published: 2026-03-26T14:58:06.818-04:00
 Type:
   - Region
 Age (years): 264
@@ -46,11 +46,11 @@ Author: Jordan
 >
 > **Population**:
 >
-> **Affiliation**:
+> **Affiliation**: -
 >
-> **Government:**
+> **Government:** -
 >
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]],[[Adventures/The Lost Archives of Wigglestaff.md|The Lost Archives of Wigglestaff]],[[Adventures/The Rentpire Strikes Back.md|The Rentpire Strikes Back]],[[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]],[[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse DM.md|Lighting the Lighthouse DM]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]], [[Adventures/The Lost Archives of Wigglestaff.md|The Lost Archives of Wigglestaff]], [[Adventures/The Rentpire Strikes Back.md|The Rentpire Strikes Back]], [[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]], [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]], [[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse DM.md|Lighting the Lighthouse DM]]
 
 # Overview
 
