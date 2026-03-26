@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-03-26T12:27:36.055-04:00
-published: 2026-03-26T12:27:36.055-04:00
+modified: 2026-03-26T12:31:06.519-04:00
+published: 2026-03-26T12:31:06.519-04:00
 Type:
   - Village
 Age (years): 25
@@ -37,10 +37,15 @@ Author: Jordan
 > ## Details
 >
 > **Type**: Village
+>
 > **Age:** 25
+>
 > **Population**: 600
+>
 > **Affiliation**: None
+>
 > **Government:** [[Factions/Crabbley Council.md|Crabbley Council]]
+>
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]],[[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 
 # Overview
@@ -48,15 +53,6 @@ Author: Jordan
 - Home of the [[Cult of the Crab]], the famous Soggy Bottom Tavern, the Crab Claw Inn, and so many other fantastic places to take your family!  Come visit scenic Crabbley with your family and get one free commemorative item from [[The High Rollers]] gift shop.
 - Crabbley is a sleepy fishing village without much going on, but adventurers are common here because it's on the edge of a great frontier—the Tanglewood Wilds.
 - Crabbley was founded by settlers migrating from the northern town of [[Crillville]]. After [[The Tanglers]] committed atrocities in both Crabbley and [[Crillville]], the two towns created a joint defense force.
-
-# Key Details
-
-- **Type**: Village
-- **Age:** 25
-- **Population**: 600
-- **Affiliation**: None
-- **Government:** [[Factions/Crabbley Council.md|Crabbley Council]]
-- **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]],[[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 
 # Attributes
 
