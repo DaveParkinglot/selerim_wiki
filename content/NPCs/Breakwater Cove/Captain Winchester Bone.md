@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T13:15:23.235-04:00
-published: 2026-03-26T13:15:23.235-04:00
+modified: 2026-03-26T13:37:38.610-04:00
+published: 2026-03-26T13:37:38.610-04:00
 Age: "66"
 Ancestry: Human
 Gender: Male
@@ -30,12 +30,19 @@ Author: Jordan
 > ## Details
 >
 > **Age**: 66
+>
 > **Ancestry**: Human
+>
 > **Gender**: Male
+>
 > **Location**: Breakwater Cove
+>
 > **Role**: Bartender, Retired Captain
+>
 > **Affiliation:** None
+>
 > **Appearances:** [[Adventures/The Hidden Hoard of Winchester Bone.md|The Hidden Hoard of Winchester Bone]],[[Adventures/Sharky's Revenge.md|Sharky's Revenge]],[[Adventures/Bootknife's Bounty.md|Bootknife's Bounty]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
+>
 > **Status:** Alive
 
 # Overview
