@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.116-05:00
-published: 2026-01-16T08:55:01.116-05:00
+modified: 2026-03-26T13:15:23.235-04:00
+published: 2026-03-26T13:15:23.235-04:00
 Age: "66"
 Ancestry: Human
 Gender: Male
@@ -21,12 +21,26 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/winchester_bone.png|300]]
+> [!infobox]
+>
+> ## Captain Winchester Bone
+>
+> ![[z_assets/winchester_bone.png|300]]
+>
+> ## Details
+>
+> **Age**: 66
+> **Ancestry**: Human
+> **Gender**: Male
+> **Location**: Breakwater Cove
+> **Role**: Bartender, Retired Captain
+> **Affiliation:** None
+> **Appearances:** [[Adventures/The Hidden Hoard of Winchester Bone.md|The Hidden Hoard of Winchester Bone]],[[Adventures/Sharky's Revenge.md|Sharky's Revenge]],[[Adventures/Bootknife's Bounty.md|Bootknife's Bounty]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
+> **Status:** Alive
 
 # Overview
 
-Once a renowned pirate captain, he now owns Bone Tavern in [[Breakwater Cove]]. Loves to recount his days of yore to whoever will listen.
-
+- Once a renowned pirate captain, he now owns Bone Tavern in [[Breakwater Cove]]. Loves to recount his days of yore to whoever will listen.
 - He has sailed with many crews aboard many ships, but he is most known for his time aboard the Leaky Bucket.
 - At some point, he had to fight half his crew and his first mate [[Sharky Dolphino]] over some relics they plundered from a ship bound for [[Mournholde|Mournholde]].
   - The following is Bone's accounting of the events that led to the end of "Bone and Sharky's Crew":

@@ -2,8 +2,8 @@
 publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T16:13:07.789-05:00
-modified: 2026-03-26T13:02:18.916-04:00
-published: 2026-03-26T13:02:18.916-04:00
+modified: 2026-03-26T13:16:30.139-04:00
+published: 2026-03-26T13:16:30.139-04:00
 Type:
   - Hamlet
 Age (years): 200
@@ -11,8 +11,8 @@ Population: 400
 Affiliation:
   - None
 Government:
-  - The Harlburs
-  - The Poison Tongues
+  - "[[The Halrburs]]"
+  - "[[The Poison Tongues]]"
 Author: Jordan
 Appearances:
   - None
@@ -41,7 +41,7 @@ aliases:
 >
 > **Affiliation**: None
 >
-> **Government:** The Harlburs,The Poison Tongues
+> **Government:** [[The Halrburs|The Halrburs]],[[The Poison Tongues|The Poison Tongues]]
 >
 > **Appearances:** None
 
