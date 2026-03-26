@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T08:16:34.000-04:00
-modified: 2026-03-26T12:43:53.215-04:00
-published: 2026-03-26T12:43:53.215-04:00
+modified: 2026-03-26T13:04:45.608-04:00
+published: 2026-03-26T13:04:45.608-04:00
 Type:
   - Town
 Age (years): 120
@@ -30,9 +30,9 @@ Author: Jordan
 > [!infobox]
 >
 > ## Mitlin
-
-![[z_assets/mitlin.png|500]]
-
+>
+> ![[z_assets/mitlin.png|500]]
+>
 > ## Details
 >
 > **Type**: Town

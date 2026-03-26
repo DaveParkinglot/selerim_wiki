@@ -2,8 +2,8 @@
 publish: true
 title: Nova Jersaeria, Tiialan Capital
 created: 2025-06-20T09:32:25.000-04:00
-modified: 2026-03-26T12:52:05.680-04:00
-published: 2026-03-26T12:52:05.680-04:00
+modified: 2026-03-26T13:04:51.117-04:00
+published: 2026-03-26T13:04:51.117-04:00
 Type:
   - Capital City
 Age (years): 250
@@ -28,9 +28,9 @@ Author: Jordan
 > [!infobox]
 >
 > ## Nova Jersaeria
-
-![[z_assets/nova_jersaeria.png|600]]
-
+>
+> ![[z_assets/nova_jersaeria.png|600]]
+>
 > ## Details
 >
 > **Type**: Capital City

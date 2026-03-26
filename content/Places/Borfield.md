@@ -2,8 +2,8 @@
 publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T16:13:07.789-05:00
-modified: 2026-03-26T12:39:03.274-04:00
-published: 2026-03-26T12:39:03.274-04:00
+modified: 2026-03-26T13:02:18.916-04:00
+published: 2026-03-26T13:02:18.916-04:00
 Type:
   - Hamlet
 Age (years): 200
@@ -28,9 +28,9 @@ aliases:
 > [!infobox]
 >
 > ## Borfield
-
-![[z_assets/borfield.png|600]]
-
+>
+> ![[z_assets/borfield.png|600]]
+>
 > ## Details
 >
 > **Type**: Hamlet

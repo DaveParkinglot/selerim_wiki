@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Yuleshade
 created: 2025-12-09T19:13:43.000-05:00
-modified: 2026-03-26T12:47:59.806-04:00
-published: 2026-03-26T12:47:59.806-04:00
+modified: 2026-03-26T13:06:12.706-04:00
+published: 2026-03-26T13:06:12.706-04:00
 Type:
   - Fey Realm
   - Planet (in 5K)
@@ -22,9 +22,9 @@ Appearances:
 > [!infobox]
 >
 > ## Yuleshade
-
-![[z_assets/yuleshade_forest.png|500]]
-
+>
+> ![[z_assets/yuleshade_forest.png|500]]
+>
 > ## Details
 >
 > **Type**: Fey Realm,Planet (in 5K)

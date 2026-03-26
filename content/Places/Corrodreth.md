@@ -4,8 +4,8 @@ aliases:
   - Corrodreth, the Salted City
 title: Corrodreth, The Salted City
 created: 2023-09-02T09:43:46.000-04:00
-modified: 2026-03-26T12:51:51.981-04:00
-published: 2026-03-26T12:51:51.981-04:00
+modified: 2026-03-26T13:02:12.396-04:00
+published: 2026-03-26T13:02:12.396-04:00
 Type:
   - Desolate Ruin
 Age (years): 1800
@@ -23,9 +23,9 @@ Author: Jordan
 > [!infobox]
 >
 > ## Corrodreth
-
-![[z_assets/corrodreth.png|600]]
-
+>
+> ![[z_assets/corrodreth.png|600]]
+>
 > ## Details
 >
 > **Type**: Desolate Ruin

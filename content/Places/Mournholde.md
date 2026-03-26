@@ -2,8 +2,8 @@
 publish: true
 title: Mournholde, City of the Dead
 created: 2023-09-20T14:56:26.000-04:00
-modified: 2026-03-26T12:44:09.636-04:00
-published: 2026-03-26T12:44:09.636-04:00
+modified: 2026-03-26T13:04:48.554-04:00
+published: 2026-03-26T13:04:48.554-04:00
 Type:
   - City of the Dead
   - Free City
@@ -28,9 +28,9 @@ Author: Jordan
 > [!infobox]
 >
 > ## Mournholde
-
-![[z_assets/welcome_to_mournholde.png|500]]
-
+>
+> ![[z_assets/welcome_to_mournholde.png|500]]
+>
 > ## Details
 >
 > **Type**: City of the Dead,Free City
