@@ -4,8 +4,8 @@ aliases:
   - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
-modified: 2026-03-25T14:06:19.366-04:00
-published: 2026-03-25T14:06:19.366-04:00
+modified: 2026-03-26T12:46:02.546-04:00
+published: 2026-03-26T12:46:02.546-04:00
 Type:
   - Region
 Age (years): 264
@@ -29,7 +29,28 @@ marker:
 Author: Jordan
 ---
 
-![[z_assets/tanglewood_wilds.png|600]] ![[z_assets/tanglewood_peninsula.png|600]]
+> [!infobox]
+>
+> ## Tanglewood Peninsula
+>
+> Scene view:
+> ![[z_assets/tanglewood_wilds.png|500]]
+> Map view:
+> ![[z_assets/tanglewood_peninsula.png|500]]
+>
+> ## Details
+>
+> **Type**: Region
+>
+> **Age:** 264
+>
+> **Population**:
+>
+> **Affiliation**:
+>
+> **Government:**
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]],[[Adventures/The Lost Archives of Wigglestaff.md|The Lost Archives of Wigglestaff]],[[Adventures/The Rentpire Strikes Back.md|The Rentpire Strikes Back]],[[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]],[[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse DM.md|Lighting the Lighthouse DM]]
 
 # Overview
 

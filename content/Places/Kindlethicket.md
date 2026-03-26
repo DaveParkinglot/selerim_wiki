@@ -2,8 +2,8 @@
 publish: true
 title: Kindlethicket, Fey Crossing
 created: 2025-11-02T10:04:59.135-05:00
-modified: 2026-03-25T14:05:55.107-04:00
-published: 2026-03-25T14:05:55.107-04:00
+modified: 2026-03-26T12:42:40.611-04:00
+published: 2026-03-26T12:42:40.611-04:00
 Type:
   - Fey Crossing
 Age (years): 1
@@ -26,7 +26,25 @@ Appearances:
 aliases:
 ---
 
-![[z_assets/kindlethicket.png|600]]
+> [!infobox]
+>
+> ## Kindlethicket
+
+![[z_assets/kindlethicket.png|400]]
+
+> ## Details
+>
+> **Type**: Fey Crossing
+>
+> **Age:** 1
+>
+> **Population**: 200
+>
+> **Affiliation**: None
+>
+> **Government:** The Prince of Lamps and Luminosity
+>
+> **Appearances:** [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse DM.md|Lighting the Lighthouse DM]]
 
 # Overview
 

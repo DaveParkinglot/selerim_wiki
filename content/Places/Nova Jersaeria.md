@@ -2,8 +2,8 @@
 publish: true
 title: Nova Jersaeria, Tiialan Capital
 created: 2025-06-20T09:32:25.000-04:00
-modified: 2026-03-25T14:06:03.527-04:00
-published: 2026-03-25T14:06:03.527-04:00
+modified: 2026-03-26T12:44:20.849-04:00
+published: 2026-03-26T12:44:20.849-04:00
 Type:
   - Capital City
 Age (years): 250
@@ -25,7 +25,25 @@ marker:
 Author: Jordan
 ---
 
+> [!infobox]
+>
+> ## Nova Jersaeria
+
 ![[z_assets/nova_jersaeria.png|600]]
+
+> ## Details
+>
+> **Type**: Capital City
+>
+> **Age:** 250
+>
+> **Population**: 95000
+>
+> **Affiliation**: [[Factions/Tiialia.md|Kingdom of Tiialia]]
+>
+> **Government:** [[NPCs/Tiialia/Antonino Esposito.md|King Antonino Esposito I]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Giftmas in Nova Jersaeria.md|Giftmas in Nova Jersaeria]],[[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]],[[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]]
 
 # Overview
 

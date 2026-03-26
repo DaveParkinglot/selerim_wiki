@@ -2,8 +2,8 @@
 publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T16:13:07.789-05:00
-modified: 2026-03-25T14:05:32.814-04:00
-published: 2026-03-25T14:05:32.814-04:00
+modified: 2026-03-26T12:39:03.274-04:00
+published: 2026-03-26T12:39:03.274-04:00
 Type:
   - Hamlet
 Age (years): 200
@@ -25,7 +25,25 @@ marker:
 aliases:
 ---
 
+> [!infobox]
+>
+> ## Borfield
+
 ![[z_assets/borfield.png|600]]
+
+> ## Details
+>
+> **Type**: Hamlet
+>
+> **Age:** 200
+>
+> **Population**: 400
+>
+> **Affiliation**: None
+>
+> **Government:** The Harlburs,The Poison Tongues
+>
+> **Appearances:** None
 
 # Overview
 
@@ -33,15 +51,6 @@ aliases:
 - Today, Borfield is a lawless, backwater hamlet where 2 ruffian gangs contend for power: [[The Harlburs]] and [[The Poison Tongues]].
   - The Harlburs are led by an old battle-scarred orc named [[Morris Hellmouth]], and The Poison Tongues are led by an eccentric gnomish gentleman named [[Glib Mintho]].
 - There is a high concentration of orcish ancestry here, likely due to proximity to the [[Bonogon Peaks]], which is where many orcs originally settled before the [[Darkwells]] erupted.
-
-# Key Details
-
-- **Type**: Hamlet
-- **Age:** 200
-- **Population**: 400
-- **Affiliation**: None
-- **Government:** The Harlburs,The Poison Tongues
-- **Appearances:** None
 
 # Attributes
 

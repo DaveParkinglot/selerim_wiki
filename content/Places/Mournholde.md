@@ -2,8 +2,8 @@
 publish: true
 title: Mournholde, City of the Dead
 created: 2023-09-20T14:56:26.000-04:00
-modified: 2026-03-25T14:06:01.327-04:00
-published: 2026-03-25T14:06:01.327-04:00
+modified: 2026-03-26T12:44:09.636-04:00
+published: 2026-03-26T12:44:09.636-04:00
 Type:
   - City of the Dead
   - Free City
@@ -25,7 +25,25 @@ marker:
 Author: Jordan
 ---
 
-![[z_assets/welcome_to_mournholde.png|600]]
+> [!infobox]
+>
+> ## Mournholde
+
+![[z_assets/welcome_to_mournholde.png|500]]
+
+> ## Details
+>
+> **Type**: City of the Dead,Free City
+>
+> **Age:** 130
+>
+> **Population**: 7000
+>
+> **Affiliation**: None
+>
+> **Government:** [[NPCs/Legends/Galgitch the Afterking.md|Galgitch the Afterking]],Mayor Gerard Duck
+>
+> **Appearances:** [[Adventures/The Mournholde Incident.md|The Mournholde Incident]]
 
 # Overview
 

@@ -3,11 +3,11 @@ publish: true
 aliases:
   - The Yuleshade
 created: 2025-12-09T19:13:43.000-05:00
-modified: 2026-03-25T14:06:30.655-04:00
-published: 2026-03-25T14:06:30.655-04:00
+modified: 2026-03-26T12:47:59.806-04:00
+published: 2026-03-26T12:47:59.806-04:00
 Type:
   - Fey Realm
-  - Planet
+  - Planet (in 5K)
 Age (years): 6200
 Population: 10000
 Affiliation:
@@ -19,7 +19,25 @@ Appearances:
   - "[[Kindlethicket - The Winter Hunt|Kindlethicket - The Winter Hunt]]"
 ---
 
+> [!infobox]
+>
+> ## Yuleshade
+
 ![[z_assets/yuleshade_forest.png|500]]
+
+> ## Details
+>
+> **Type**: Fey Realm,Planet (in 5K)
+>
+> **Age:** 6200
+>
+> **Population**: 10000
+>
+> **Affiliation**: None
+>
+> **Government:** [[NPCs/Legends/Krampus.md|Krampus]]
+>
+> **Appearances:** [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]]
 
 # Overview
 
@@ -28,7 +46,7 @@ Appearances:
 
 # Key Details
 
-- **Type**: Fey Realm,Planet
+- **Type**: Fey Realm,Planet (in 5K)
 - **Age:** 6200
 - **Population**: 10000
 - **Affiliation**: None

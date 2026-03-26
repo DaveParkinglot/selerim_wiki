@@ -2,8 +2,8 @@
 publish: true
 title: White Grove, Magic Academy
 created: 2023-09-02T09:45:40.000-04:00
-modified: 2026-03-25T14:06:26.946-04:00
-published: 2026-03-25T14:06:26.946-04:00
+modified: 2026-03-26T12:47:18.514-04:00
+published: 2026-03-26T12:47:18.514-04:00
 Type:
   - Magical Academy
 Age (years): 180
@@ -23,7 +23,25 @@ marker:
 Author: Jordan
 ---
 
-![[z_assets/the_white_grove.png|600]]
+> [!infobox]
+>
+> ## White Grove
+>
+> ![[z_assets/the_white_grove.png|500]]
+>
+> ## Details
+>
+> **Type**: Magical Academy
+>
+> **Age:** 180
+>
+> **Population**: 600
+>
+> **Affiliation**: [[Factions/Tiialia.md|Tiialia]]
+>
+> **Government:** N/A
+>
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 
 # Overview
 

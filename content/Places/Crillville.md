@@ -2,8 +2,8 @@
 publish: true
 title: Crillville, Harbor Town
 created: 2025-10-09T14:45:41.000-04:00
-modified: 2026-03-25T14:05:47.131-04:00
-published: 2026-03-25T14:05:47.131-04:00
+modified: 2026-03-26T12:44:37.994-04:00
+published: 2026-03-26T12:44:37.994-04:00
 Type:
   - Town
 Age (years): 80
@@ -25,7 +25,25 @@ marker:
 Author: Jordan
 ---
 
-![[z_assets/crillville.png|600]]
+> [!infobox]
+>
+> ## Crillville
+
+![[z_assets/crillville.png|500]]
+
+> ## Details
+>
+> **Type**: Town
+>
+> **Age:** 80
+>
+> **Population**: 2500
+>
+> **Affiliation**: [[Tanglewood Defense Council|Tanglewood Defense Council]]
+>
+> **Government:** [[NPCs/Tanglewood Peninsula/Dick Gunbarrel.md|Dick Gunbarrel]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/The Lost Archives of Wigglestaff.md|The Lost Archives of Wigglestaff]],[[Adventures/The Rentpire Strikes Back.md|The Rentpire Strikes Back]]
 
 # Overview
 

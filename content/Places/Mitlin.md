@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T08:16:34.000-04:00
-modified: 2026-03-25T14:05:58.711-04:00
-published: 2026-03-25T14:05:58.711-04:00
+modified: 2026-03-26T12:43:53.215-04:00
+published: 2026-03-26T12:43:53.215-04:00
 Type:
   - Town
 Age (years): 120
@@ -27,7 +27,25 @@ marker:
 Author: Jordan
 ---
 
-![[z_assets/mitlin.png|600]]
+> [!infobox]
+>
+> ## Mitlin
+
+![[z_assets/mitlin.png|500]]
+
+> ## Details
+>
+> **Type**: Town
+>
+> **Age:** 120
+>
+> **Population**: 3200
+>
+> **Affiliation**: None
+>
+> **Government:** The Oaken Conclave
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse DM.md|Lighting the Lighthouse DM]]
 
 # Overview
 
