@@ -5,7 +5,6 @@
 .callout[data-callout="infobox"] {
     background-color: transparent;
     --callout-icon: none;
-    border: 1px solid var(--lightgray);
     float: right;
     width: 300px;
     margin: 0px 0px 10px 10px;
@@ -39,7 +38,6 @@
   font-size: 17px;
   text-align: center;
   border-radius: 2px;
-  background-color: var(--lightgray);
   padding: 4px;
 }
 
@@ -50,7 +48,6 @@
   font-size: 15px;
   text-align: center;
   border-radius: 2px;
-  background-color: var(--lightgray);
   padding: 4px;
 }
 
