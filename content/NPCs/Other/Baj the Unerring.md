@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.169-05:00
-published: 2026-01-16T08:55:01.169-05:00
+modified: 2026-03-26T15:33:47.687-04:00
+published: 2026-03-26T15:33:47.687-04:00
 Age: ??
 Ancestry: Marut
 Gender: N/A
@@ -19,7 +19,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/baj_the_unerring.png|300]]
+> [!infobox]
+>
+> ## Baj the Unerring
+>
+> ![[z_assets/baj_the_unerring.png|300]]
+>
+> ## Details
+>
+> **Age**: ??
+>
+> **Ancestry**: Marut
+>
+> **Gender**: N/A
+>
+> **Location**: Sigil, City of Doors
+>
+> **Role**: Unbiased, Unstoppable Machine of Death, Marut of The Primus
+>
+> **Affiliation:** The Primus
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

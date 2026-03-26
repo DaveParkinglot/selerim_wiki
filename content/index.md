@@ -2,16 +2,18 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-03-18T09:12:20.000-04:00
-published: 2026-03-18T09:12:20.000-04:00
+modified: 2026-03-26T16:12:52.125-04:00
+published: 2026-03-26T16:12:52.125-04:00
 Author: Jordan
 ---
 
-_The world of Selerim is ever-changing, inconsistent, and always unfinished. Its histories are neither a science, nor are they exact._
+> [!quote]
+> _The world of Selerim is ever-changing, inconsistent, and seemingly always unfinished. Its histories are neither a science, nor are they exact._
+> -[[Arctur Execlostrabaum]], Headmaster of [[White Grove|White Grove Academy]]
 
 ### Quick-Links:
 
-- [[Campaign Setting Overview]] - overview of the world (start here)
+- [[Campaign Setting Overview]] - overview of the world of Selerim (**start here!**\*)
 - [[Selerim Timeline]] - timeline of formative events
 - [[Notable NPCs]] - running list of NPCs
 - [[Adventure Log]] - running log of adventures past

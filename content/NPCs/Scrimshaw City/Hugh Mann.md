@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.434-05:00
-published: 2026-01-16T08:55:01.434-05:00
+modified: 2026-03-26T15:49:26.689-04:00
+published: 2026-03-26T15:49:26.689-04:00
 Age: "326"
 Ancestry:
   - Fiend (Devil)
@@ -24,7 +24,29 @@ Author:
   - Jordan
 ---
 
-![[z_assets/hugh_mann_human.png|300]] ![[z_assets/hugh_mann_devil.png|300]]
+> [!infobox]
+>
+> ## Hugh Mann
+>
+> ![[z_assets/hugh_mann_human.png|300]] Hugh Mann in human form ![[z_assets/hugh_mann_devil.png|300]] Hugh Mann in Devil Form
+>
+> ## Details
+>
+> **Age**: 326
+>
+> **Ancestry**: Fiend (Devil)
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: El Presidente, Former Adventurer
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]], Tavernstool
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
+>
+> **Status:** Alive
 
 # Overview
 

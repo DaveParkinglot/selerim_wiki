@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.523-05:00
-published: 2026-01-16T08:55:01.523-05:00
+modified: 2026-03-26T15:54:00.824-04:00
+published: 2026-03-26T15:54:00.824-04:00
 Age: "60"
 Ancestry: Loxodon
 Gender: Male
@@ -19,7 +19,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/beezlebop.png|300]]
+> [!infobox]
+>
+> ## Beezlebop
+>
+> ![[z_assets/beezlebop.png|300]]
+>
+> ## Details
+>
+> **Age**: 60
+>
+> **Ancestry**: Loxodon
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Tanglewood Peninsula.md|Tanglewood Peninsula]]
+>
+> **Role**: Archmage
+>
+> **Affiliation:** [[The Tanglers|The Tanglers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
+>
+> **Status:** Alive
 
 # Overview
 

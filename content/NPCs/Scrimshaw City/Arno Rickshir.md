@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.261-05:00
-published: 2026-01-16T08:55:01.261-05:00
+modified: 2026-03-26T15:44:14.186-04:00
+published: 2026-03-26T15:44:14.186-04:00
 Age: "52"
 Ancestry:
   - Half-Orc
@@ -20,11 +20,35 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/arno_rickshir.png|300]]
+> [!infobox]
+>
+> ## Arno Rickshir
+>
+> ![[z_assets/arno_rickshir.png|300]]
+>
+> ## Details
+>
+> **Age**: 52
+>
+> **Ancestry**: Half-Orc
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]], Varies
+>
+> **Role**: Pawn Shop Owner
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 
+> [!quote]
 > "You never know WHAT is gonna come through that door!"
+> -Arno whenever someone comes through the door
 
 - Though the [[The High Rollers]] were able to recover his stolen goods from kobold thieves, his old man and his son were killed while journeying through the Tanglewoods.
 - Owner of Boldriver Pawn Shop, the best place to buy and trade magic items in [[Scrimshaw City]], and anywhere else

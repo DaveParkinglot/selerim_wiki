@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-02-18T14:42:22.905-05:00
-published: 2026-02-18T14:42:22.905-05:00
+modified: 2026-03-26T15:36:14.829-04:00
+published: 2026-03-26T15:36:14.829-04:00
 Age: "286"
 Ancestry: Halfling
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/myrrdin_turftoe.png|300]]
+> [!infobox]
+>
+> ## Myrrdin Turftoe
+>
+> ![[z_assets/myrrdin_turftoe.png|300]]
+>
+> ## Details
+>
+> **Age**: 286
+>
+> **Ancestry**: Halfling
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Wild Thicket.md|Wild Thicket]]
+>
+> **Role**: Archdruid, Mentor
+>
+> **Affiliation:** The Circle of the Thicket
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

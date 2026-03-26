@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-02-18T14:43:26.348-05:00
-published: 2026-02-18T14:43:26.348-05:00
+modified: 2026-03-26T16:08:07.364-04:00
+published: 2026-03-26T16:08:07.364-04:00
 Age: "22"
 Ancestry: Drow Elf
 Gender: Female
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/stephenie_stalacnicz.png|300]]
+> [!infobox]
+>
+> ## Stephenie Stalacnicz
+>
+> ![[z_assets/stephenie_stalacnicz.png|300]]
+>
+> ## Details
+>
+> **Age**: 22
+>
+> **Ancestry**: Drow Elf
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Student, Junior
+>
+> **Affiliation:** Vlorngroth
+>
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
 
 # Overview
 

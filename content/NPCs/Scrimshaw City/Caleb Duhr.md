@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.325-05:00
-published: 2026-01-16T08:55:01.325-05:00
+modified: 2026-03-26T15:46:31.195-04:00
+published: 2026-03-26T15:46:31.195-04:00
 Age: "3"
 Ancestry:
   - Galeb Duhr, Rock Elemental
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/caleb_duhr.png|300]]
+> [!infobox]
+>
+> ## Caleb Duhr
+>
+> ![[z_assets/caleb_duhr.png|300]]
+>
+> ## Details
+>
+> **Age**: 3
+>
+> **Ancestry**: Galeb Duhr, Rock Elemental
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Rock, Mascot
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

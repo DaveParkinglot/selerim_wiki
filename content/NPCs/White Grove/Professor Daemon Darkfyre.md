@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-02-18T14:43:26.341-05:00
-published: 2026-02-18T14:43:26.341-05:00
+modified: 2026-03-26T16:07:59.214-04:00
+published: 2026-03-26T16:07:59.214-04:00
 Age: ??
 Ancestry: Human
 Gender: Male
@@ -19,7 +19,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/daemon_darkfyre.png|300]]
+> [!infobox]
+>
+> ## Professor Daemon Darkfyre
+>
+> ![[z_assets/daemon_darkfyre.png|300]]
+>
+> ## Details
+>
+> **Age**: ??
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Professor of Infernal Magicks
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
 
 # Overview
 

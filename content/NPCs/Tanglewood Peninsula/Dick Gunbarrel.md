@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:02.053-05:00
-published: 2026-01-16T08:55:02.053-05:00
+modified: 2026-03-26T15:56:09.930-04:00
+published: 2026-03-26T15:56:09.930-04:00
 Age: "34"
 Ancestry: Half-Giant
 Gender: Male
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/dick_gunbarrel.png|300]]
+> [!infobox]
+>
+> ## Dick Gunbarrel
+>
+> ![[z_assets/dick_gunbarrel.png|300]]
+>
+> ## Details
+>
+> **Age**: 34
+>
+> **Ancestry**: Half-Giant
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crillville.md|Crillville]]
+>
+> **Role**: Paladin, Commander of the CDF
+>
+> **Affiliation:** Crillville Defense Force (CDF)
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Lost Archives of Wigglestaff.md|The Lost Archives of Wigglestaff]], [[Adventures/The Rentpire Strikes Back.md|The Rentpire Strikes Back]]
+>
+> **Status:** Alive
 
 # Overview
 

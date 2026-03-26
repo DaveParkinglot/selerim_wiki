@@ -4,8 +4,8 @@ aliases:
   - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
-modified: 2026-03-26T15:07:15.250-04:00
-published: 2026-03-26T15:07:15.250-04:00
+modified: 2026-03-26T15:51:02.978-04:00
+published: 2026-03-26T15:51:02.978-04:00
 Type:
   - Region
 Age (years): 264
@@ -33,10 +33,10 @@ Author: Jordan
 >
 > ## Tanglewood Peninsula
 >
-> Scene view:
 > ![[z_assets/tanglewood_wilds.png|500]]
-> Map view:
+> Scene view
 > ![[z_assets/tanglewood_peninsula.png|500]]
+> Map view
 >
 > ## Details
 >

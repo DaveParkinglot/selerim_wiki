@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Detzin
 created: 2025-11-02T10:33:16.000-05:00
-modified: 2026-01-18T10:29:48.073-05:00
-published: 2026-01-18T10:29:48.073-05:00
+modified: 2026-03-26T15:55:56.074-04:00
+published: 2026-03-26T15:55:56.074-04:00
 Age: "42"
 Ancestry:
   - Wood Elf
@@ -22,7 +22,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/detzin_stringwhisp.png|300]]
+> [!infobox]
+>
+> ## Detzin Stringwisp
+>
+> ![[z_assets/detzin_stringwhisp.png|300]]
+>
+> ## Details
+>
+> **Age**: 42
+>
+> **Ancestry**: Wood Elf
+>
+> **Gender**: M
+>
+> **Location**: [[Places/Mitlin.md|Mitlin]]
+>
+> **Role**: Bard, Solo Artist
+>
+> **Affiliation:** [[Places/Mitlin.md|Mitlin]]
+>
+> **Appearances:** [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
+>
+> **Status:** Alive
 
 # Overview
 

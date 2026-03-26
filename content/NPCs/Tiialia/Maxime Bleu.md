@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:01.728-05:00
-published: 2026-01-16T08:55:01.728-05:00
+modified: 2026-03-26T16:04:15.968-04:00
+published: 2026-03-26T16:04:15.968-04:00
 Age: "72"
 Ancestry: Human
 Gender: Female
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/maxime_bleu.png|300]]
+> [!infobox]
+>
+> ## Maxime Bleu
+>
+> ![[z_assets/maxime_bleu.png|300]]
+>
+> ## Details
+>
+> **Age**: 72
+>
+> **Ancestry**: Human
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
+>
+> **Role**: Shopkeeper
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

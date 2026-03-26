@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.781-05:00
-published: 2026-01-16T08:55:01.781-05:00
+modified: 2026-03-26T16:06:36.517-04:00
+published: 2026-03-26T16:06:36.517-04:00
 Age: "48"
 Ancestry:
   - Half-Elf
@@ -19,7 +19,29 @@ Status: Deceased
 Author: Jordan
 ---
 
-![[z_assets/malmstein.png|300]]
+> [!infobox]
+>
+> ## Malmstein the Tangler
+>
+> ![[z_assets/malmstein.png|300]]
+>
+> ## Details
+>
+> **Age**: 48
+>
+> **Ancestry**: Half-Elf
+>
+> **Gender**: Male
+>
+> **Location**: Tanglewood Peninsula
+>
+> **Role**: Eco-Terrorist, Druid
+>
+> **Affiliation:** [[The Tanglers|The Tanglers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Deceased
 
 # Overview
 

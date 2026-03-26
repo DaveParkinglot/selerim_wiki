@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:01.741-05:00
-published: 2026-01-16T08:55:01.741-05:00
+modified: 2026-03-26T16:06:42.594-04:00
+published: 2026-03-26T16:06:42.594-04:00
 Age: "20"
 Ancestry: Kobold
 Gender: Male
@@ -19,7 +19,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/shemcriz.png|300]]
+> [!infobox]
+>
+> ## Shemcriz
+>
+> ![[z_assets/shemcriz.png|300]]
+>
+> ## Details
+>
+> **Age**: 20
+>
+> **Ancestry**: Kobold
+>
+> **Gender**: Male
+>
+> **Location**: The Esposito Vineyard, Tiialia
+>
+> **Role**: Drunk
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

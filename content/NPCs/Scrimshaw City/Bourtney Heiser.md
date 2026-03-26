@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.312-05:00
-published: 2026-01-16T08:55:01.312-05:00
+modified: 2026-03-26T15:45:38.452-04:00
+published: 2026-03-26T15:45:38.452-04:00
 Age: "44"
 Ancestry:
   - Human
@@ -19,7 +19,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/bourtney_heiser.png|300]]
+> [!infobox]
+>
+> ## Bourtney Heiser
+>
+> ![[z_assets/bourtney_heiser.png|300]]
+>
+> ## Details
+>
+> **Age**: 44
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Barkeep
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

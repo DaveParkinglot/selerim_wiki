@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.337-05:00
-published: 2026-01-16T08:55:01.337-05:00
+modified: 2026-03-26T15:46:40.561-04:00
+published: 2026-03-26T15:46:40.561-04:00
 Age: "32"
 Ancestry:
   - Tiefling
@@ -19,7 +19,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/captain_chorn_chinfer.png|300]]
+> [!infobox]
+>
+> ## Captain Chorn Chinfer
+>
+> ![[z_assets/captain_chorn_chinfer.png|300]]
+>
+> ## Details
+>
+> **Age**: 32
+>
+> **Ancestry**: Tiefling
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Ship Captain
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

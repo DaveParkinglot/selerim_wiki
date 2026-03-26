@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-09-17T12:03:07.000-04:00
-modified: 2026-01-16T08:55:02.491-05:00
-published: 2026-01-16T08:55:02.491-05:00
+modified: 2026-03-26T16:06:33.096-04:00
+published: 2026-03-26T16:06:33.096-04:00
 Age: "163"
 Ancestry:
   - Drow
@@ -21,7 +21,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/calloway_duskveil.png|300]]
+> [!infobox]
+>
+> ## Count Calloway Duskveil
+>
+> ![[z_assets/calloway_duskveil.png|300]]
+>
+> ## Details
+>
+> **Age**: 163
+>
+> **Ancestry**: Drow, Vampire
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
+>
+> **Role**: Former Inquisitor
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]], [[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]]
+>
+> **Status:** Alive
 
 # Overview
 

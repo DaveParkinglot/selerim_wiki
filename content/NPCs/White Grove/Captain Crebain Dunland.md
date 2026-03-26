@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-02-18T14:43:26.321-05:00
-published: 2026-02-18T14:43:26.321-05:00
+modified: 2026-03-26T16:07:50.674-04:00
+published: 2026-03-26T16:07:50.674-04:00
 Age: "41"
 Ancestry: Human
 Gender: Male
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/crebain_dunland.png|300]]
+> [!infobox]
+>
+> ## Captain Crebain Dunland
+>
+> ![[z_assets/crebain_dunland.png|300]]
+>
+> ## Details
+>
+> **Age**: 41
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Captain
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/Dunland's Raiders.md|Dunland's Raiders]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
 
 # Overview
 

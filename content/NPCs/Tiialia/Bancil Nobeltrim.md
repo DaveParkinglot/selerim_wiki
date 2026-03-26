@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:01.697-05:00
-published: 2026-01-16T08:55:01.697-05:00
+modified: 2026-03-26T15:59:46.687-04:00
+published: 2026-03-26T15:59:46.687-04:00
 Age: "29"
 Ancestry: Half-Elf
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/bancil_nobeltrim.png|300]]
+> [!infobox]
+>
+> ## Bancil Nobeltrim
+>
+> ![[z_assets/bancil_nobeltrim.png|300]]
+>
+> ## Details
+>
+> **Age**: 29
+>
+> **Ancestry**: Half-Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
+>
+> **Role**: Former Member of The High Roller, Paladin, Family Guy
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

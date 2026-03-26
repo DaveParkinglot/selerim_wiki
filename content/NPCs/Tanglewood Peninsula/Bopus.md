@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.866-05:00
-published: 2026-01-16T08:55:01.866-05:00
+modified: 2026-03-26T15:55:02.218-04:00
+published: 2026-03-26T15:55:02.218-04:00
 Age: "64"
 Ancestry: Gnome
 Gender: Male
@@ -21,11 +21,35 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/bopus.png|300]]
+> [!infobox]
+>
+> ## Bopus
+>
+> ![[z_assets/bopus.png|300]]
+>
+> ## Details
+>
+> **Age**: 64
+>
+> **Ancestry**: Gnome
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]], The Cronium Caves
+>
+> **Role**: Gnome Diplomat
+>
+> **Affiliation:** Cronium Gnomes
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]], [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
+>
+> **Status:** Alive
 
 # Overview
 
+> [!quote]
 > "Well hey fellas!"
+> -Bopus, all the time
 
 ## [[The High Rollers Campaign|The High Rollers Campaign]]
 

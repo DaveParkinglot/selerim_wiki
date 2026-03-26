@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.585-05:00
-published: 2026-01-16T08:55:01.585-05:00
+modified: 2026-03-26T15:55:44.636-04:00
+published: 2026-03-26T15:55:44.636-04:00
 Age: "17"
 Ancestry: Human
 Gender: Female
@@ -20,7 +20,29 @@ Author:
   - Jordan
 ---
 
-![[z_assets/crystal_van_gander.png|300]]
+> [!infobox]
+>
+> ## Crystal Van Gander
+>
+> ![[z_assets/crystal_van_gander.png|300]]
+>
+> ## Details
+>
+> **Age**: 17
+>
+> **Ancestry**: Human
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Hedge Warlock, Farmer
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

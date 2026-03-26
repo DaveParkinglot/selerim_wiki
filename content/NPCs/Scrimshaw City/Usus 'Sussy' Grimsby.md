@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T09:19:26.621-05:00
-published: 2026-01-16T09:19:26.621-05:00
+modified: 2026-03-26T15:53:03.823-04:00
+published: 2026-03-26T15:53:03.823-04:00
 Age: "97"
 Ancestry:
   - Dwarf
@@ -21,7 +21,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/usus_grimsby.png|300]]
+> [!infobox]
+>
+> ## Usus 'Sussy' Grimsby
+>
+> ![[z_assets/usus_grimsby.png|300]]
+>
+> ## Details
+>
+> **Age**: 97
+>
+> **Ancestry**: Dwarf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Former Gladiator Trainer, Failed Blood Hunter
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
+>
+> **Status:** Alive
 
 # Overview
 

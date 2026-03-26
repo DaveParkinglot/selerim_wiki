@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.787-05:00
-published: 2026-01-16T08:55:01.787-05:00
+modified: 2026-03-26T16:06:08.207-04:00
+published: 2026-03-26T16:06:08.207-04:00
 Age: 66 (deceased)
 Ancestry:
   - Human
@@ -19,7 +19,29 @@ Status: Deceased
 Author: Jordan
 ---
 
-![[z_assets/master_effree_jypstein.png|300]]
+> [!infobox]
+>
+> ## Master Effree Jypstein
+>
+> ![[z_assets/master_effree_jypstein.png|300]]
+>
+> ## Details
+>
+> **Age**: 66 (deceased)
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: The Jyfstein Isles
+>
+> **Role**: Lich, Former Archwizard Adventurer
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Deceased
 
 # Overview
 

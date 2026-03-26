@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:01.668-05:00
-published: 2026-01-16T08:55:01.668-05:00
+modified: 2026-03-26T15:58:54.448-04:00
+published: 2026-03-26T15:58:54.448-04:00
 Age: "19"
 Ancestry: Goblin
 Gender: Female
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/stellica_gombermin.png|300]]
+> [!infobox]
+>
+> ## Stellica Gombermin
+>
+> ![[z_assets/stellica_gombermin.png|300]]
+>
+> ## Details
+>
+> **Age**: 19
+>
+> **Ancestry**: Goblin
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Intern, Staffer, Aspiring Politician
+>
+> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-24T11:29:21.549-04:00
-published: 2026-03-24T11:29:21.549-04:00
+modified: 2026-03-26T16:05:10.952-04:00
+published: 2026-03-26T16:05:10.952-04:00
 Age: "46"
 Ancestry:
   - Human
@@ -20,7 +20,29 @@ Status: Deceased
 Author: Jordan
 ---
 
-![[z_assets/faustia_fanto-domingo.png|300]]
+> [!infobox]
+>
+> ## Faustia Fanto-Domingo
+>
+> ![[z_assets/faustia_fanto-domingo.png|300]]
+>
+> ## Details
+>
+> **Age**: 46
+>
+> **Ancestry**: Human
+>
+> **Gender**: Female
+>
+> **Location**: Nova Jersaeria
+>
+> **Role**: Court Witch
+>
+> **Affiliation:** [[Factions/Families of Tiialia/Fanto-Domingo Family.md|Fanto-Domingo Family]], [[Factions/Families of Tiialia/Landucci Family.md|Landucci Family]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Deceased
 
 # Overview
 

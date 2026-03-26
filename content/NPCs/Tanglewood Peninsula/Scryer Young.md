@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-08T11:33:00.000-05:00
-modified: 2026-01-16T08:55:01.981-05:00
-published: 2026-01-16T08:55:01.981-05:00
+modified: 2026-03-26T15:58:38.936-04:00
+published: 2026-03-26T15:58:38.936-04:00
 Age: "48"
 Ancestry:
   - Elf
@@ -23,7 +23,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/scryer_young.png|300]]
+> [!infobox]
+>
+> ## Scryer Young
+>
+> ![[z_assets/scryer_young.png|300]]
+>
+> ## Details
+>
+> **Age**: 48
+>
+> **Ancestry**: Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Mitlin.md|Mitlin]]
+>
+> **Role**: Merchant, Scryer
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]], [[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
+>
+> **Status:** Alive
 
 # Overview
 

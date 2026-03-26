@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-02-18T14:43:26.366-05:00
-published: 2026-02-18T14:43:26.366-05:00
+modified: 2026-03-26T16:08:38.924-04:00
+published: 2026-03-26T16:08:38.924-04:00
 Age: "14"
 Ancestry: Human
 Gender: Male
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/vowel_noosins.png|300]]
+> [!infobox]
+>
+> ## Vowel Noosins
+>
+> ![[z_assets/vowel_noosins.png|300]]
+>
+> ## Details
+>
+> **Age**: 14
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Student, Freshman
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
 
 # Overview
 

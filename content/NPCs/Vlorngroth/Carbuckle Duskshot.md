@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-02-04T12:31:15.279-05:00
-published: 2026-02-04T12:31:15.279-05:00
+modified: 2026-03-26T16:06:34.283-04:00
+published: 2026-03-26T16:06:34.283-04:00
 Age: "42"
 Ancestry: Drow
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/carbuckle_duskshot.png|300]]
+> [!infobox]
+>
+> ## Carbuckle Duskshot
+>
+> ![[z_assets/carbuckle_duskshot.png|300]]
+>
+> ## Details
+>
+> **Age**: 42
+>
+> **Ancestry**: Drow
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
+>
+> **Role**: Gunslinger Bounty Hunter, Former Inquisitor
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

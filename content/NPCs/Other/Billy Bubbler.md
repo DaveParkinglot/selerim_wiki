@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T08:58:27.000-04:00
-modified: 2026-01-16T08:55:01.049-05:00
-published: 2026-01-16T08:55:01.049-05:00
+modified: 2026-03-26T15:35:28.850-04:00
+published: 2026-03-26T15:35:28.850-04:00
 Age: "174"
 Ancestry: Fiend (Devil), Sahuagin
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/billy_bubbler.png|300]]
+> [!infobox]
+>
+> ## Billy Bubbler
+>
+> ![[z_assets/billy_bubbler.png|300]]
+>
+> ## Details
+>
+> **Age**: 174
+>
+> **Ancestry**: Fiend (Devil), Sahuagin
+>
+> **Gender**: Male
+>
+> **Location**: Boater's Bay
+>
+> **Role**: Sahuagin Baron
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
+>
+> **Status:** Alive
 
 # Overview
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.220-05:00
-published: 2026-01-16T08:55:01.220-05:00
+modified: 2026-03-26T15:37:05.081-04:00
+published: 2026-03-26T15:37:05.081-04:00
 Age: "9"
 Ancestry: Fey Dragon
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/skitterdream.png|300]]
+> [!infobox]
+>
+> ## Skitterdream
+>
+> ![[z_assets/skitterdream.png|300]]
+>
+> ## Details
+>
+> **Age**: 9
+>
+> **Ancestry**: Fey Dragon
+>
+> **Gender**: Male
+>
+> **Location**: Varies
+>
+> **Role**: Fey Messenger
+>
+> **Affiliation:** The Summer Court
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.385-05:00
-published: 2026-01-16T08:55:01.385-05:00
+modified: 2026-03-26T15:47:47.006-04:00
+published: 2026-03-26T15:47:47.006-04:00
 Age: "53"
 Ancestry:
   - Halfling
@@ -21,7 +21,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/frankie_fizzno.png|300]]
+> [!infobox]
+>
+> ## Franky Fizzno
+>
+> ![[z_assets/frankie_fizzno.png|300]]
+>
+> ## Details
+>
+> **Age**: 53
+>
+> **Ancestry**: Halfling
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]], Varies
+>
+> **Role**: Bard, Bandmember (Lead Lutist)
+>
+> **Affiliation:** Crag Delta
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]]
+>
+> **Status:** Alive
 
 # Overview
 

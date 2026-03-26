@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-02-18T14:43:26.329-05:00
-published: 2026-02-18T14:43:26.329-05:00
+modified: 2026-03-26T16:07:49.278-04:00
+published: 2026-03-26T16:07:49.278-04:00
 Age: "24"
 Ancestry: Orc
 Gender: Male
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/cristos_babblestaff.png|300]]
+> [!infobox]
+>
+> ## Cristos Babblestaff
+>
+> ![[z_assets/cristos_babblestaff.png|300]]
+>
+> ## Details
+>
+> **Age**: 24
+>
+> **Ancestry**: Orc
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Student, Super Senior
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
 
 # Overview
 

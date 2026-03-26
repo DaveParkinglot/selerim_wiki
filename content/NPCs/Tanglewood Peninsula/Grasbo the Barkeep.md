@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.604-05:00
-published: 2026-01-16T08:55:01.604-05:00
+modified: 2026-03-26T15:56:28.943-04:00
+published: 2026-03-26T15:56:28.943-04:00
 Age: "60"
 Ancestry: Goblin
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/grasbo.png|300]]
+> [!infobox]
+>
+> ## Grasbo the Barkeep
+>
+> ![[z_assets/grasbo.png|300]]
+>
+> ## Details
+>
+> **Age**: 60
+>
+> **Ancestry**: Goblin
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Barkeep, Small Business Owner
+>
+> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T07:44:04.000-04:00
-modified: 2026-01-16T08:55:02.535-05:00
-published: 2026-01-16T08:55:02.535-05:00
+modified: 2026-03-26T16:03:19.304-04:00
+published: 2026-03-26T16:03:19.304-04:00
 Age: Unknown
 Ancestry: Human
 Gender: Male
@@ -21,7 +21,29 @@ Status: Deceased
 Author: Ethan
 ---
 
-![[z_assets/carlos_luciano.png|300]]
+> [!infobox]
+>
+> ## Carlos 'Lucky' Luciano
+>
+> ![[z_assets/carlos_luciano.png|300]]
+>
+> ## Details
+>
+> **Age**: Unknown
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], Batista Family Manor
+>
+> **Role**: Muscle, Undead Muscle
+>
+> **Affiliation:** [[Factions/Families of Tiialia/Batista Family.md|Batista Family]]
+>
+> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]]
+>
+> **Status:** Deceased
 
 # Overview
 

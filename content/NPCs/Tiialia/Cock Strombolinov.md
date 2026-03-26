@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:01.708-05:00
-published: 2026-01-16T08:55:01.708-05:00
+modified: 2026-03-26T16:03:29.336-04:00
+published: 2026-03-26T16:03:29.336-04:00
 Age: "24"
 Ancestry:
   - Yuan-ti
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/cock_strombolinov.png|300]]
+> [!infobox]
+>
+> ## Cock Strombolinov
+>
+> ![[z_assets/cock_strombolinov.png|300]]
+>
+> ## Details
+>
+> **Age**: 24
+>
+> **Ancestry**: Yuan-ti
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], Sewers
+>
+> **Role**: Bodyguard
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

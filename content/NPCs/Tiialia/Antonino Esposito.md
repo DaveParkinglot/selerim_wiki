@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-24T11:27:23.457-04:00
-published: 2026-03-24T11:27:23.457-04:00
+modified: 2026-03-26T15:59:39.080-04:00
+published: 2026-03-26T15:59:39.080-04:00
 Age: "43"
 Ancestry: Human
 Gender: Male
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/antonino_esposito.png|300]]
+> [!infobox]
+>
+> ## Antonino Esposito
+>
+> ![[z_assets/antonino_esposito.png|300]]
+>
+> ## Details
+>
+> **Age**: 43
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
+>
+> **Role**: King of Tiialia, Former Spymaster
+>
+> **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

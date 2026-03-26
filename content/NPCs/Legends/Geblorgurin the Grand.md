@@ -2,8 +2,8 @@
 publish: true
 aliases: Geblorgurin
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-02-19T14:55:01.492-05:00
-published: 2026-02-19T14:55:01.492-05:00
+modified: 2026-03-26T15:34:40.079-04:00
+published: 2026-03-26T15:34:40.079-04:00
 Age: Deceased
 Ancestry: Dwarf
 Gender: Male
@@ -19,7 +19,29 @@ Status: Deceased
 Author: Jordan
 ---
 
-![[z_assets/geblorgurin_the_grand.png|300]]
+> [!infobox]
+>
+> ## Geblorgurin the Grand
+>
+> ![[z_assets/geblorgurin_the_grand.png|300]]
+>
+> ## Details
+>
+> **Age**: Deceased
+>
+> **Ancestry**: Dwarf
+>
+> **Gender**: Male
+>
+> **Location**: Dead
+>
+> **Role**: King of the Dwarves
+>
+> **Affiliation:** [[Places/Nova Jersaeria.md|Nova Jersaeria]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Deceased
 
 # Overview
 

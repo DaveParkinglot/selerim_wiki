@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - Arby
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T09:19:26.581-05:00
-published: 2026-01-16T09:19:26.581-05:00
+modified: 2026-03-26T15:43:31.863-04:00
+published: 2026-03-26T15:43:31.863-04:00
 Age: "48"
 Ancestry:
   - Bugbear
@@ -20,7 +22,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/arby.png|300]]
+> [!infobox]
+>
+> ## Arbeits Gemeinschaften
+>
+> ![[z_assets/arby.png|300]]
+>
+> ## Details
+>
+> **Age**: 48
+>
+> **Ancestry**: Bugbear
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Bouncer, Former Monster Wrangler
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
+>
+> **Status:** Alive
 
 # Overview
 

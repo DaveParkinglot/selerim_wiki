@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-02-04T12:34:48.981-05:00
-published: 2026-02-04T12:34:48.981-05:00
+modified: 2026-03-26T15:59:55.351-04:00
+published: 2026-03-26T15:59:55.351-04:00
 Age: "57"
 Ancestry: Deep Gnome
 Gender: Male
@@ -19,7 +19,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/bedmund_the_catatonic.png|300]]
+> [!infobox]
+>
+> ## Bedmund the Catatonic
+>
+> ![[z_assets/bedmund_the_catatonic.png|300]]
+>
+> ## Details
+>
+> **Age**: 57
+>
+> **Ancestry**: Deep Gnome
+>
+> **Gender**: Male
+>
+> **Location**: The Esposito Vineyard
+>
+> **Role**: Sleepy Wizard
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T09:19:26.568-05:00
-published: 2026-01-16T09:19:26.568-05:00
+modified: 2026-03-26T15:36:42.171-04:00
+published: 2026-03-26T15:36:42.171-04:00
 Age: "22"
 Ancestry: Troll
 Gender: Male
@@ -22,7 +22,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/pudding.png|300]]
+> [!infobox]
+>
+> ## Pudding
+>
+> ![[z_assets/pudding.png|300]]
+>
+> ## Details
+>
+> **Age**: 22
+>
+> **Ancestry**: Troll
+>
+> **Gender**: Male
+>
+> **Location**: The Underdark, The Fathomless Vault, [[Places/Mitlin.md|Mitlin]], [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Helpful Troll
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
+>
+> **Status:** Alive
 
 # Overview
 

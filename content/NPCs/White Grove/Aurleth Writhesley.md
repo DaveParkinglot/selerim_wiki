@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-15T10:42:10.000-04:00
-modified: 2026-02-18T14:43:26.315-05:00
-published: 2026-02-18T14:43:26.315-05:00
+modified: 2026-03-26T16:07:24.931-04:00
+published: 2026-03-26T16:07:24.931-04:00
 Age: "22"
 Ancestry:
   - Elf
@@ -21,7 +21,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/aurleth_writhesley.png|300]]
+> [!infobox]
+>
+> ## Aurleth Writhesley
+>
+> ![[z_assets/aurleth_writhesley.png|300]]
+>
+> ## Details
+>
+> **Age**: 22
+>
+> **Ancestry**: Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Student, Sophomore, Entrepreneur
+>
+> **Affiliation:** [[Places/Mitlin.md|Mitlin]]
+>
+> **Appearances:** [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
 
 # Overview
 

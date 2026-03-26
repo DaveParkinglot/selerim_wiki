@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.516-05:00
-published: 2026-01-16T08:55:01.516-05:00
+modified: 2026-03-26T15:53:47.048-04:00
+published: 2026-03-26T15:53:47.048-04:00
 Age: "43"
 Ancestry: Elf
 Gender: Female
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/antoona_bastifor.png|300]]
+> [!infobox]
+>
+> ## Antoona Bastifor
+>
+> ![[z_assets/antoona_bastifor.png|300]]
+>
+> ## Details
+>
+> **Age**: 43
+>
+> **Ancestry**: Elf
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Mayor
+>
+> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

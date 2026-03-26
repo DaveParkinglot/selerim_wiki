@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:01.722-05:00
-published: 2026-01-16T08:55:01.722-05:00
+modified: 2026-03-26T16:06:45.749-04:00
+published: 2026-03-26T16:06:45.749-04:00
 Age: "40"
 Ancestry: Human
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/jack_smith.png|300]]
+> [!infobox]
+>
+> ## Jack Smith
+>
+> ![[z_assets/jack_smith.png|300]]
+>
+> ## Details
+>
+> **Age**: 40
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
+>
+> **Role**: Blacksmith
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

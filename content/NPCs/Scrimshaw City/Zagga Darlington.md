@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-02T15:31:31.000-05:00
-modified: 2026-01-16T08:55:01.511-05:00
-published: 2026-01-16T08:55:01.511-05:00
+modified: 2026-03-26T15:53:16.729-04:00
+published: 2026-03-26T15:53:16.729-04:00
 Age: "32"
 Ancestry:
   - Orc
@@ -21,7 +21,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/zagga_darlington.png|300]]
+> [!infobox]
+>
+> ## Zagga Darlington
+>
+> ![[z_assets/zagga_darlington.png|300]]
+>
+> ## Details
+>
+> **Age**: 32
+>
+> **Ancestry**: Orc
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Former Gangster, Private Security
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
+>
+> **Status:** Alive
 
 # Overview
 

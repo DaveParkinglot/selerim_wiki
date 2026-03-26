@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Winter Huntsman
 created: 2025-12-09T19:17:17.000-05:00
-modified: 2026-01-16T08:55:00.455-05:00
-published: 2026-01-16T08:55:00.455-05:00
+modified: 2026-03-26T15:34:08.336-04:00
+published: 2026-03-26T15:34:08.336-04:00
 Age: "6500"
 Ancestry:
   - Archfey
@@ -22,7 +22,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/krampus.png|300]]
+> [!infobox]
+>
+> ## Krampus
+>
+> ![[z_assets/krampus.png|300]]
+>
+> ## Details
+>
+> **Age**: 6500
+>
+> **Ancestry**: Archfey
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Yuleshade.md|Yuleshade]]
+>
+> **Role**: Archfey, Winter Huntsman
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]]
+>
+> **Status:** Alive
 
 # Overview
 

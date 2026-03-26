@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.769-05:00
-published: 2026-01-16T08:55:01.769-05:00
+modified: 2026-03-26T16:06:38.268-04:00
+published: 2026-03-26T16:06:38.268-04:00
 Age: "347"
 Ancestry:
   - Devil
@@ -19,7 +19,32 @@ Status: Deceased
 Author: Jordan
 ---
 
-![[z_assets/lord_davos_portnoir_human.jpg|200]] ![[z_assets/lord_davos_portnoir_devil.png|300]]
+> [!infobox]
+>
+> ## Lord Davos Portnoir
+>
+> ![[z_assets/lord_davos_portnoir_human.jpg|200]]
+> Portnoir's human form
+> ![[z_assets/lord_davos_portnoir_devil.png|300]]
+> Portnoir's devil form
+>
+> ## Details
+>
+> **Age**: 347
+>
+> **Ancestry**: Devil
+>
+> **Gender**: Male
+>
+> **Location**: Dead
+>
+> **Role**: Former El Presidente
+>
+> **Affiliation:** [[Tavernstool|Tavernstool]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Deceased
 
 # Overview
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-02-19T14:57:08.610-05:00
-published: 2026-02-19T14:57:08.610-05:00
+modified: 2026-03-26T16:13:31.492-04:00
+published: 2026-03-26T16:13:31.492-04:00
 Age: "58"
 Ancestry: Half-Elf
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/trilbee_rampo.png|300]]
+> [!infobox]
+>
+> ## Trilbee Rampo
+>
+> ![[z_assets/trilbee_rampo.png|300]]
+>
+> ## Details
+>
+> **Age**: 58
+>
+> **Ancestry**: Half-Elf
+>
+> **Gender**: Male
+>
+> **Location**: Oasis
+>
+> **Role**: Wagon Dealer, Maniacal Businessman
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

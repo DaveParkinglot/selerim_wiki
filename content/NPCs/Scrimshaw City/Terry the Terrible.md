@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T09:16:48.076-05:00
-modified: 2026-01-16T09:19:26.614-05:00
-published: 2026-01-16T09:19:26.614-05:00
+modified: 2026-03-26T15:53:30.980-04:00
+published: 2026-03-26T15:53:30.980-04:00
 Age: "47"
 Ancestry:
   - Satyr
@@ -21,10 +21,31 @@ Appearances:
   - "[[New Dawn - Hellfist Heist|New Dawn - Hellfist Heist]]"
 Status: Alive
 Author: Jordan
-aliases:
 ---
 
-![[z_assets/terry_the_terrible.png|300]]
+> [!infobox]
+>
+> ## Terry the Terrible
+>
+> ![[z_assets/terry_the_terrible.png|300]]
+>
+> ## Details
+>
+> **Age**: 47
+>
+> **Ancestry**: Satyr
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]], [[Places/The Spicy Meatball.md|The Spicy Meatball]]
+>
+> **Role**: Former Criminal, Head Chef
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]], [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
+>
+> **Status:** Alive
 
 # Overview
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:01.274-05:00
-published: 2026-01-16T08:55:01.274-05:00
+modified: 2026-03-26T15:45:42.309-04:00
+published: 2026-03-26T15:45:42.309-04:00
 Age: "267"
 Ancestry:
   - Rakshasa
@@ -24,7 +24,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/binky_slivers.png|300]]
+> [!infobox]
+>
+> ## Binky Slivers
+>
+> ![[z_assets/binky_slivers.png|300]]
+>
+> ## Details
+>
+> **Age**: 267
+>
+> **Ancestry**: Rakshasa
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Bartender, Dealer, Fixer
+>
+> **Affiliation:** Tavernstool
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]], [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
+>
+> **Status:** Alive
 
 # Overview
 

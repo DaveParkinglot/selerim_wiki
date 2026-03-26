@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.470-05:00
-published: 2026-01-16T08:55:01.470-05:00
+modified: 2026-03-26T15:52:37.657-04:00
+published: 2026-03-26T15:52:37.657-04:00
 Age: "32"
 Ancestry:
   - Halfling
@@ -21,7 +21,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/spurgon_bogolog.png|300]]
+> [!infobox]
+>
+> ## Spurgon Bogolog
+>
+> ![[z_assets/spurgon_bogolog.png|300]]
+>
+> ## Details
+>
+> **Age**: 32
+>
+> **Ancestry**: Halfling
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]], Varies
+>
+> **Role**: Bard, Bandmember (Lead Singer)
+>
+> **Affiliation:** Crag Delta
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]]
+>
+> **Status:** Alive
 
 # Overview
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.562-05:00
-published: 2026-01-16T08:55:01.562-05:00
+modified: 2026-03-26T15:55:11.299-04:00
+published: 2026-03-26T15:55:11.299-04:00
 Age: "42"
 Ancestry: Half-Elf
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/brahaxian_bastifor.png|300]]
+> [!infobox]
+>
+> ## Brahaxian Bastifor
+>
+> ![[z_assets/brahaxian_bastifor.png|300]]
+>
+> ## Details
+>
+> **Age**: 42
+>
+> **Ancestry**: Half-Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Shopkeeper
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

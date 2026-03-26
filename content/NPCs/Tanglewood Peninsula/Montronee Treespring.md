@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:01.644-05:00
-published: 2026-01-16T08:55:01.644-05:00
+modified: 2026-03-26T15:58:20.298-04:00
+published: 2026-03-26T15:58:20.298-04:00
 Age: "142"
 Ancestry:
   - Half Sea Elf
@@ -19,7 +19,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/montronee_treespring.png|300]]
+> [!infobox]
+>
+> ## Montronee Treespring
+>
+> ![[z_assets/montronee_treespring.png|300]]
+>
+> ## Details
+>
+> **Age**: 142
+>
+> **Ancestry**: Half Sea Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Archdruid, Leader of The Cult of the Crab
+>
+> **Affiliation:** The Cult of the Crab
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.528-05:00
-published: 2026-01-16T08:55:01.528-05:00
+modified: 2026-03-26T15:54:12.781-04:00
+published: 2026-03-26T15:54:12.781-04:00
 Age: "48"
 Ancestry: Human
 Gender: Male
@@ -19,7 +19,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/biltus_van_gander.png|300]]
+> [!infobox]
+>
+> ## Biltus Van Gander
+>
+> ![[z_assets/biltus_van_gander.png|300]]
+>
+> ## Details
+>
+> **Age**: 48
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Farmer, Former Adventurer
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

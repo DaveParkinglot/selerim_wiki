@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T09:05:08.273-05:00
-modified: 2026-01-16T08:55:00.698-05:00
-published: 2026-01-16T08:55:00.698-05:00
+modified: 2026-03-26T15:45:36.936-04:00
+published: 2026-03-26T15:45:36.936-04:00
 Age: "33"
 Ancestry:
   - Half Elf
@@ -20,7 +20,29 @@ Author: Jordan
 aliases:
 ---
 
-![[z_assets/caleb_arlester.png|300]]
+> [!infobox]
+>
+> ## Caleb Arlester
+>
+> ![[z_assets/caleb_arlester.png|300]]
+>
+> ## Details
+>
+> **Age**: 33
+>
+> **Ancestry**: Half Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Professional Thief
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
+>
+> **Status:** Alive
 
 # Overview
 

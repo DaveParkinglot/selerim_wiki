@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T08:54:32.000-04:00
-modified: 2026-01-16T08:55:01.076-05:00
-published: 2026-01-16T08:55:01.076-05:00
+modified: 2026-03-26T15:36:03.851-04:00
+published: 2026-03-26T15:36:03.851-04:00
 Age: "340"
 Ancestry: Night Hag
 Gender: Female
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/humana.png|300]]
+> [!infobox]
+>
+> ## Humana
+>
+> ![[z_assets/humana.png|300]]
+>
+> ## Details
+>
+> **Age**: 340
+>
+> **Ancestry**: Night Hag
+>
+> **Gender**: Female
+>
+> **Location**: Varies
+>
+> **Role**: Soul Dealer
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
+>
+> **Status:** Alive
 
 # Overview
 

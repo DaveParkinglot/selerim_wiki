@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:01.650-05:00
-published: 2026-01-16T08:55:01.650-05:00
+modified: 2026-03-26T15:58:29.560-04:00
+published: 2026-03-26T15:58:29.560-04:00
 Age: "44"
 Ancestry: Human
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/ray_stilts.png|300]]
+> [!infobox]
+>
+> ## Ray Stilts
+>
+> ![[z_assets/ray_stilts.png|300]]
+>
+> ## Details
+>
+> **Age**: 44
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Entrepreneur, Former Patron of The High Rollers
+>
+> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

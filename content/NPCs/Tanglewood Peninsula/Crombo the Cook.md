@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.872-05:00
-published: 2026-01-16T08:55:01.872-05:00
+modified: 2026-03-26T15:55:36.975-04:00
+published: 2026-03-26T15:55:36.975-04:00
 Age: "17"
 Ancestry: Dragonborn
 Gender: Male
@@ -18,7 +18,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/crombo_the_cook.png|300]]
+> [!infobox]
+>
+> ## Crombo the Cook
+>
+> ![[z_assets/crombo_the_cook.png|300]]
+>
+> ## Details
+>
+> **Age**: 17
+>
+> **Ancestry**: Dragonborn
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Adventurer, Bard, Head Chef
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

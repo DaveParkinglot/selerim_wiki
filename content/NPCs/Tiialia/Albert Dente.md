@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-01-16T08:55:01.685-05:00
-published: 2026-01-16T08:55:01.685-05:00
+modified: 2026-03-26T15:59:24.672-04:00
+published: 2026-03-26T15:59:24.672-04:00
 Age: "74"
 Ancestry: Human
 Gender: Male
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/albert_dente.png|300]]
+> [!infobox]
+>
+> ## Albert Dente
+>
+> ![[z_assets/albert_dente.png|300]]
+>
+> ## Details
+>
+> **Age**: 74
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: The Esposito Vineyard, [[Places/Nova Jersaeria.md|Nova Jersaeria]]
+>
+> **Role**: Butler
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]], [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

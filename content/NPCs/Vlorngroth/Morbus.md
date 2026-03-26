@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-02T12:18:30.000-04:00
-modified: 2026-01-16T08:55:02.497-05:00
-published: 2026-01-16T08:55:02.497-05:00
+modified: 2026-03-26T16:06:31.465-04:00
+published: 2026-03-26T16:06:31.465-04:00
 Age: "35"
 Ancestry:
   - Goblin
@@ -22,7 +22,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/morbus.png|300]]
+> [!infobox]
+>
+> ## Morbus
+>
+> ![[z_assets/morbus.png|300]]
+>
+> ## Details
+>
+> **Age**: 35
+>
+> **Ancestry**: Goblin, Kobold, Mutant
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
+>
+> **Role**: Familiar
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]], [[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]]
+>
+> **Status:** Alive
 
 # Overview
 

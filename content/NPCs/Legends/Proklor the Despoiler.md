@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-01-16T08:55:02.425-05:00
-published: 2026-01-16T08:55:02.425-05:00
+modified: 2026-03-26T15:34:28.998-04:00
+published: 2026-03-26T15:34:28.998-04:00
 Age: ??
 Ancestry: Drow, Draegloth
 Gender: Male
@@ -20,7 +20,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/proklor_the_despoiler.png|300]]
+> [!infobox]
+>
+> ## Proklor the Despoiler
+>
+> ![[z_assets/proklor_the_despoiler.png|300]]
+>
+> ## Details
+>
+> **Age**: ??
+>
+> **Ancestry**: Drow, Draegloth
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
+>
+> **Role**: Villain, Destroyer of Worlds
+>
+> **Affiliation:** [[Places/Vlorngroth.md|Vlorngroth]]
+>
+> **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

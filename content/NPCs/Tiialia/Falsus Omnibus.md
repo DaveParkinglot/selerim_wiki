@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-26T23:27:19.000-04:00
-modified: 2026-01-16T08:55:00.982-05:00
-published: 2026-01-16T08:55:00.982-05:00
+modified: 2026-03-26T16:03:44.533-04:00
+published: 2026-03-26T16:03:44.533-04:00
 Age: "45"
 Ancestry:
   - Human
@@ -18,7 +18,29 @@ Status: Alive
 Author: Ethan
 ---
 
-![[z_assets/falsus_omnibus.png|300]]
+> [!infobox]
+>
+> ## Falsus Omnibus
+>
+> ![[z_assets/falsus_omnibus.png|300]]
+>
+> ## Details
+>
+> **Age**: 45
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], Batista Family Manor
+>
+> **Role**: Conman, Crime affiliate
+>
+> **Affiliation:** Batiste Family
+>
+> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]]
+>
+> **Status:** Alive
 
 # Overview
 

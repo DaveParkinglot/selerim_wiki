@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-01-16T08:55:01.540-05:00
-published: 2026-01-16T08:55:01.540-05:00
+modified: 2026-03-26T15:54:31.517-04:00
+published: 2026-03-26T15:54:31.517-04:00
 Age: "22"
 Ancestry: Orc
 Gender: Female
@@ -19,7 +19,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/blotta_balmer.png|300]]
+> [!infobox]
+>
+> ## Blotta Balmer
+>
+> ![[z_assets/blotta_balmer.png|300]]
+>
+> ## Details
+>
+> **Age**: 22
+>
+> **Ancestry**: Orc
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]], [[Places/Borfield.md|Borfield]]
+>
+> **Role**: Barbarian Adventurer
+>
+> **Affiliation:** [[The Backbreakers|The Backbreakers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
 

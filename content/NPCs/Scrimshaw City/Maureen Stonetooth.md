@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T08:53:02.346-05:00
-modified: 2026-01-16T08:55:00.713-05:00
-published: 2026-01-16T08:55:00.713-05:00
+modified: 2026-03-26T15:53:35.071-04:00
+published: 2026-03-26T15:53:35.071-04:00
 Age: "51"
 Ancestry:
   - Dwarf
@@ -17,10 +17,31 @@ Appearances:
   - "[[New Dawn - Hellfist Heist]]"
 Status: Alive
 Author: Jordan
-aliases:
 ---
 
-![[z_assets/maureen_stonetooth.png|300]]
+> [!infobox]
+>
+> ## Maureen Stonetooth
+>
+> ![[z_assets/maureen_stonetooth.png|300]]
+>
+> ## Details
+>
+> **Age**: 51
+>
+> **Ancestry**: Dwarf
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Crime Boss
+>
+> **Affiliation:** Stonetooth's Scoundrels
+>
+> **Appearances:** [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
+>
+> **Status:** Alive
 
 # Overview
 

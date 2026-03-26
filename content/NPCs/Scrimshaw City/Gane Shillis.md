@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-25T10:14:57.437-05:00
-modified: 2026-02-25T10:35:28.373-05:00
-published: 2026-02-25T10:35:28.373-05:00
+modified: 2026-03-26T15:48:00.416-04:00
+published: 2026-03-26T15:48:00.416-04:00
 Age: "32"
 Ancestry:
   - Orc
@@ -23,7 +23,29 @@ Author: Jordan
 aliases:
 ---
 
-![[z_assets/gane_shillis.png|300]]
+> [!infobox]
+>
+> ## Gane Shillis
+>
+> ![[z_assets/gane_shillis.png|300]]
+>
+> ## Details
+>
+> **Age**: 32
+>
+> **Ancestry**: Orc
+>
+> **Gender**: M
+>
+> **Location**: [[Places/Borfield.md|Borfield]], [[Places/Scrimshaw City.md|Scrimshaw City]], Varies
+>
+> **Role**: Professional Comedian, Older Cousin
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]]
+>
+> **Status:** Alive
 
 # Overview
 

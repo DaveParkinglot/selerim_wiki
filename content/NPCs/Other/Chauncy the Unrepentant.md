@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T09:01:12.000-04:00
-modified: 2026-02-25T10:13:36.919-05:00
-published: 2026-02-25T10:13:36.919-05:00
+modified: 2026-03-26T15:35:44.648-04:00
+published: 2026-03-26T15:35:44.648-04:00
 Age: "26"
 Ancestry:
   - Fiend (Devil)
@@ -22,7 +22,29 @@ Status: Alive
 Author: Jordan
 ---
 
-![[z_assets/chauncy_the_unrepentant.png|300]]
+> [!infobox]
+>
+> ## Chauncy the Unrepentant
+>
+> ![[z_assets/chauncy_the_unrepentant.png|300]]
+>
+> ## Details
+>
+> **Age**: 26
+>
+> **Ancestry**: Fiend (Devil)
+>
+> **Gender**: Male
+>
+> **Location**: Carceri, The Prison Plane
+>
+> **Role**: Betrayer, Hellknight
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/Dunland's Raiders.md|Dunland's Raiders]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
+>
+> **Status:** Alive
 
 # Overview
 
