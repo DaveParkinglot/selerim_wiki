@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T08:16:34.000-04:00
-modified: 2026-03-26T14:56:13.232-04:00
-published: 2026-03-26T14:56:13.232-04:00
+modified: 2026-03-26T16:53:37.406-04:00
+published: 2026-03-26T16:53:37.406-04:00
 Type:
   - Town
 Age (years): 120
@@ -53,15 +53,6 @@ Author: Jordan
 - The [[Oaken Conclave]] is the main ruling body.
 - The Home Tree, first of the Great Oaks of Mitlin, stands at the center of the town.
 - The religious sect Dragon Faithful has most of its members in Mitlin.
-
-# Key Details
-
-- **Type**: Town
-- **Age:** 120
-- **Population**: 3200
-- **Affiliation**: None
-- **Government:** The Oaken Conclave
-- **Appearances:**  [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]],[[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]],[[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]],[[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
 
 # Attributes
 

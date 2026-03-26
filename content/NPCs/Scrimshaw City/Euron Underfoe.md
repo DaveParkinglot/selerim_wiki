@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:23:44.566-04:00
-published: 2026-03-26T16:23:44.566-04:00
+modified: 2026-03-26T16:34:32.661-04:00
+published: 2026-03-26T16:34:32.661-04:00
 Age: "45"
 Ancestry:
   - Tiefling
@@ -49,7 +49,7 @@ Gaunt and terse tiefling who operates the Gobblefirn Apothecary after Old Mr. Go
 
 # Attributes
 
-- **Voice**: Older high class gentlemanly
+- **Voice**: Precise, harsh. Older high class gentlemanly
 - **Traits**: Shifty, ambitious, clever. It's ok to sacrifice morality to get far
 - **Goals:** A thriving alchemy business
 - **Appearance**: He appears as an extremely gaunt Tiefling, and stands approximately 6'5". He wears a fancy black suit, and his gloved hand is always found clutching a hand crossbow.

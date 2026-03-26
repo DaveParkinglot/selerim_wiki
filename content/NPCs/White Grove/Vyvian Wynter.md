@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:32:28.217-04:00
-published: 2026-03-26T16:32:28.217-04:00
+modified: 2026-03-26T16:33:46.936-04:00
+published: 2026-03-26T16:33:46.936-04:00
 Age: "16"
 Ancestry: Human
 Gender: Female
@@ -46,14 +46,14 @@ Author: Jordan
 
 # Overview
 
-- A friendly/bossy girl studying at The White Grove.
+- A friendly/bossy girl studying at [[White Grove]].
 - Tries to protect [[Vowel Noosins]] from those who would take advantage of his meek will.
 
 # Attributes
 
-- **Voice**: Vaguely Australian
+- **Voice**: Vaguely Australian feminine
 - **Traits**:
-- **Goals:** Graduate with a 4.0
+- **Goals:** Graduate with a 4.0 GPA
 - **Appearance**:
 
 # Relationships

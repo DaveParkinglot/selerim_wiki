@@ -4,8 +4,8 @@ aliases:
   - White Grove Academy
 title: White Grove, Magic Academy
 created: 2023-09-02T09:45:40.000-04:00
-modified: 2026-03-26T16:09:51.864-04:00
-published: 2026-03-26T16:09:51.864-04:00
+modified: 2026-03-26T16:54:01.896-04:00
+published: 2026-03-26T16:54:01.896-04:00
 Type:
   - Magical Academy
 Age (years): 180
@@ -56,15 +56,6 @@ Author: Jordan
 - [[Arctur Execlostrabaum]], the highly eccentric Tiialan archmage, has been chosen as the headmaster of the school.
   - It goes without saying that his highly progressive mindset has been a topic of discussion amongst conservative Tiialans.
   - He believes magic is a staple of the world, to be shared with all peoples whether north, south, above, or... below...
-
-# Key Details
-
-- **Type**: Magical Academy
-- **Age:** 180
-- **Population**: 600
-- **Affiliation**: [[Factions/Tiialia.md|Tiialia]]
-- **Government:** N/A
-- **Appearances:**  [[Adventures/White Grove - First Semester.md|White Grove - First Semester]],[[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 
 # Attributes
 

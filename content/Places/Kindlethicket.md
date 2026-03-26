@@ -2,8 +2,8 @@
 publish: true
 title: Kindlethicket, Fey Crossing
 created: 2025-11-02T10:04:59.135-05:00
-modified: 2026-03-26T14:56:04.250-04:00
-published: 2026-03-26T14:56:04.250-04:00
+modified: 2026-03-26T16:53:21.953-04:00
+published: 2026-03-26T16:53:21.953-04:00
 Type:
   - Fey Crossing
 Age (years): 1
@@ -49,15 +49,6 @@ aliases:
 # Overview
 
 Kindlethicket is a fey crossing—a location where the Selerim Material Plane intersects with The Feywild, the Plane of Faerie. It sprung up on the eastern arm of the [[Tanglewood Peninsula]] in the Spring of 264.
-
-# Key Details
-
-- **Type**: Fey Crossing
-- **Age:** 1
-- **Population**: 200
-- **Affiliation**: None
-- **Government:** The Prince of Lamps and Luminosity
-- **Appearances:** [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]],[[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]],[[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse DM.md|Lighting the Lighthouse DM]]
 
 # Attributes
 
