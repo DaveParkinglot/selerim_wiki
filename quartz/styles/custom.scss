@@ -48,7 +48,14 @@ div.explorer {
   border-collapse: collapse !important;
 }
 
-/* keep this at the bottom of custom.scss*/
+/* Ensure tables take up the available space instead of scrunching */
 body table {
-  width: unset;
+  width: 100%;           /* Fills the available content area */
+  display: table;        /* Standard table behavior */
+  margin: 1rem 0;        /* Gives tables some vertical breathing room */
+  border-collapse: collapse;
 }
+
+/* If you want them to only be as wide as their content, but NOT scrunched */
+/* Use this instead of width: 100% if you prefer smaller tables */
+/* body table { width: max-content; max-width: 100%; } */
