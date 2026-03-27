@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T14:27:16.704-04:00
-published: 2026-03-27T14:27:16.704-04:00
+modified: 2026-03-27T14:31:56.474-04:00
+published: 2026-03-27T14:31:56.474-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -43,7 +43,7 @@ Handouts:
 >
 > ## Kindlethicket - Envoys of Mitlin
 >
-> ![[z_assets/Pasted image 20260327142532.png|500]]
+> ![[z_assets/darkling_with_scythe.png|500]]
 >
 > > [!caption]
 > > An unseelie darkling with a scythe

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T15:37:56.000-04:00
-modified: 2026-03-27T14:20:28.482-04:00
-published: 2026-03-27T14:20:28.482-04:00
+modified: 2026-03-27T14:34:21.740-04:00
+published: 2026-03-27T14:34:21.740-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -36,10 +36,10 @@ Classes:
 >
 > ## Giftmas in Nova Jersaeria
 >
-> ![[z_assets/Pasted image 20260327141836.png|500]]
+> ![[z_assets/3_giftmas_goblins.png|500]]
 >
 > > [!caption]
-> > [[Giftmas]] goblins threaten the Giftmas Market
+> > Giftmas goblins threaten the Giftmas Market
 >
 > ## Details
 >
