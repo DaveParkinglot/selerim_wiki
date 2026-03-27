@@ -42,20 +42,9 @@ div.explorer {
   background-color: transparent !important; /* Ensures the background doesn't hide the border */
 }
 
-/* Ensure any tables inside that infobox also use the green border */
-.callout[data-callout="infobox"] table {
-  border: 1px solid #22a578 !important;
-  border-collapse: collapse !important;
-}
-
-/* Ensure tables take up the available space instead of scrunching */
+/* fix width for dataview tables */
 body table {
-  width: 100%;           /* Fills the available content area */
-  display: table;        /* Standard table behavior */
-  margin: 1rem 0;        /* Gives tables some vertical breathing room */
-  border-collapse: collapse;
-}
 
-/* If you want them to only be as wide as their content, but NOT scrunched */
-/* Use this instead of width: 100% if you prefer smaller tables */
-/* body table { width: max-content; max-width: 100%; } */
+width: unset;
+
+}
