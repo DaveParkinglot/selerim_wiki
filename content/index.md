@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-03-27T15:49:06.000-04:00
-published: 2026-03-27T15:49:06.000-04:00
+modified: 2026-03-27T16:03:54.704-04:00
+published: 2026-03-27T16:03:54.704-04:00
 Author: Jordan
 ---
 
@@ -14,7 +14,7 @@ Author: Jordan
 
 ### Quick-Links:
 
-- [[Campaign Setting Overview]] - overview of the world of Selerim (\*\*Start here!\*)
+- [[Campaign Setting Overview]] - overview of the world of Selerim (**Start here!**)
 - [[Selerim Timeline]] - timeline of formative events
 - [[Notable NPCs]] - running list of NPCs
 - [[Adventure Log]] - running log of adventures past
