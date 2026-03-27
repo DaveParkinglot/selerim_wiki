@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-24T11:58:21.865-04:00
-published: 2026-03-24T11:58:21.865-04:00
+modified: 2026-03-27T14:49:07.043-04:00
+published: 2026-03-27T14:49:07.043-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -34,13 +34,26 @@ Classes:
   - Cleric
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 2
-- **Run Dates:** 2025-01-22 - 2025-01-29
-- **In-World Dates:** 264-07-03 - 264-07-14
+> [!infobox]
+>
+> ## Morganth's LEGION OF DOOM
+>
+> ![[z_assets/Pasted image 20260327144801.png|500]]
+>
+> > [!caption]
+> > The shade of Zalaath
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 2
+>
+> **Run Dates**: 2025-01-22 - 2025-01-29
+>
+> **In-World Dates**: 264-07-03 - 264-07-14
 
 # Adventure Premise
 

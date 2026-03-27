@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-11-02T09:22:56.000-05:00
-modified: 2026-02-18T14:44:00.308-05:00
-published: 2026-02-18T14:44:00.308-05:00
+modified: 2026-03-27T14:42:44.306-04:00
+published: 2026-03-27T14:42:44.306-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -33,15 +33,26 @@ Classes:
   - Warlock
 ---
 
-![[z_assets/lighting_the_lighthouse.png|300]]
-
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2025-12-04
-- **In-World Dates:** 265-13-16 - 265-13-16
+> [!infobox]
+>
+> ## Lighting the Lighthouse
+>
+> ![[z_assets/lighting_the_lighthouse.png|300]]
+>
+> > [!caption]
+> > Aldwood Lighthouse, before the necrotic storm of 263
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2025-12-04
+>
+> **In-World Dates**: 265-13-16
 
 # Adventure Premise
 
