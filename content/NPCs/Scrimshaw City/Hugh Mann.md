@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-27T10:35:07.223-04:00
-published: 2026-03-27T10:35:07.223-04:00
+modified: 2026-03-27T11:48:16.014-04:00
+published: 2026-03-27T11:48:16.014-04:00
 Age: "326"
 Ancestry:
   - Fiend (Devil)
@@ -20,8 +20,7 @@ Appearances:
   - "[[Spring Cleaning in Scrimshaw City]]"
   - "[[The Hellnight Soirée]]"
 Status: Alive
-Author:
-  - Jordan
+Author: Jordan
 ---
 
 > [!infobox]
@@ -32,10 +31,7 @@ Author:
 >
 > > \[!caption|center]
 > > Hugh Mann's human form
->
-> ![[z_assets/hugh_mann_devil.png|300]]
->
-> > \[!caption|center]
+> > ![[z_assets/hugh_mann_devil.png|300]]
 > > Hugh Mann's devil form
 >
 > ## Details

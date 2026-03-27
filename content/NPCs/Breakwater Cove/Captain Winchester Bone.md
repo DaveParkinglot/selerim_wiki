@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T15:34:46.393-04:00
-published: 2026-03-26T15:34:46.393-04:00
+modified: 2026-03-27T11:35:52.092-04:00
+published: 2026-03-27T11:35:52.092-04:00
 Age: "66"
 Ancestry: Human
 Gender: Male
@@ -56,17 +56,6 @@ Author: Jordan
     - "Yarrr… lost over half me crew that day. Twas a terrible time."
     - "Yarrr… The artifact were a small vase with a skull on it… still remember the way the eyes gleamed, lookin up at me… blasted the ol' skin right from their bones and sucked in their souls to boot"
     - "Yarr, I chucked that strange vase right in the ocean on me way back home, suppose it's still there buried beneath the waves"
-
-# Key Details
-
-- **Age**: 66
-- **Ancestry**: Human
-- **Gender**: Male
-- **Location**: Breakwater Cove
-- **Role**: Bartender, Retired Captain
-- **Affiliation:** None
-- **Appearances:** [[Adventures/The Hidden Hoard of Winchester Bone.md|The Hidden Hoard of Winchester Bone]],[[Adventures/Sharky's Revenge.md|Sharky's Revenge]],[[Adventures/Bootknife's Bounty.md|Bootknife's Bounty]],[[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
-- **Status:** Alive
 
 # Attributes
 
