@@ -33,11 +33,6 @@ div.explorer {
   }
 }
 
-body table {
-  width: unset;
-}
-
-
 /* Force borders on Quartz Callout Infoboxes */
 .callout[data-callout="infobox"] {
   border: 1px solid #22a578 !important;
@@ -51,4 +46,9 @@ body table {
 .callout[data-callout="infobox"] table {
   border: 1px solid #22a578 !important;
   border-collapse: collapse !important;
+}
+
+/* keep this at the bottom of custom.scss*/
+body table {
+  width: unset;
 }
