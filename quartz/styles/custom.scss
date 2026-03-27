@@ -33,4 +33,13 @@ body table {
   width: unset;
 }
 
+/* Force borders on anything that looks like an infobox */
+.infobox, 
+table[style*="float: right"], 
+.admonition.infobox {
+  border: 1px solid var(--border) !important;
+  border-collapse: collapse !important;
+  margin-bottom: 1rem !important;
+  padding: 5px !important;
+}
 
