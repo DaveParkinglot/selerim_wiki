@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T10:08:23.000-04:00
-modified: 2026-02-18T14:43:57.566-05:00
-published: 2026-02-18T14:43:57.566-05:00
+modified: 2026-03-27T14:41:22.420-04:00
+published: 2026-03-27T14:41:22.420-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -32,13 +32,26 @@ Classes:
   - Fighter
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** In person
-- **Sessions:** 1
-- **Run Dates:** 2024-12-20
-- **In-World Dates:** 264-13-25
+> [!infobox]
+>
+> ## Kindlethicket - The Winter Hunt
+>
+> ![[z_assets/krampus.png|300]]
+>
+> > [!caption]
+> > Archfey Krampus stowing another naughty child in his punishment sack
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: In person
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2024-12-20
+>
+> **In-World Dates**: 264-13-25
 
 # Adventure Premise
 
