@@ -2,8 +2,8 @@
 publish: true
 aliases: Geblorgurin
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:21:02.434-04:00
-published: 2026-03-26T16:21:02.434-04:00
+modified: 2026-03-27T12:27:15.945-04:00
+published: 2026-03-27T12:27:15.945-04:00
 Age: Deceased
 Ancestry: Dwarf
 Gender: Male
@@ -53,7 +53,7 @@ Author: Jordan
   - From the shell of a Marut that fell from sky, Geblorgurin pried the gem.
   - Of the dead Marut's shell, Geblorgurin did forge his armor and his kingdom.
 
-## Notes from [[Clint Weapon|Clint Weapon's]] hour long meeting in [[Mitlin]] with [[Melvin Oaksleeves]] the elvish wizard:\*\*
+## Notes from [[Clint Weapon|Clint Weapon's]] hour long meeting in [[Mitlin]] with [[Melvin Oaksleeves]] the elvish wizard:
 
 - [[Jordan's Notes/DM Notes/Gem of Eyes]] was originally found in the crater of a fallen star by Geblorgurin himself
 - He used it to great effect in the never ending fight against incursions from the Vlorn
