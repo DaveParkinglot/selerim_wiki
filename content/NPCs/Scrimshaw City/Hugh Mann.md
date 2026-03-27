@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:24:17.041-04:00
-published: 2026-03-26T16:24:17.041-04:00
+modified: 2026-03-27T10:35:07.223-04:00
+published: 2026-03-27T10:35:07.223-04:00
 Age: "326"
 Ancestry:
   - Fiend (Devil)
@@ -28,7 +28,15 @@ Author:
 >
 > ## Hugh Mann
 >
-> ![[z_assets/hugh_mann_human.png|300]] Hugh Mann in human form ![[z_assets/hugh_mann_devil.png|300]] Hugh Mann in Devil Form
+> ![[z_assets/hugh_mann_human.png|300]]
+>
+> > \[!caption|center]
+> > Hugh Mann's human form
+>
+> ![[z_assets/hugh_mann_devil.png|300]]
+>
+> > \[!caption|center]
+> > Hugh Mann's devil form
 >
 > ## Details
 >
