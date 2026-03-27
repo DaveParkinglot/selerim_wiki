@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:30:26.971-04:00
-published: 2026-03-26T16:30:26.971-04:00
+modified: 2026-03-26T17:57:04.000-04:00
+published: 2026-03-26T17:57:04.000-04:00
 Age: "214"
 Ancestry: Dwarf
-Gender: M
+Gender: Male
 Location:
   - "[[White Grove]]"
 Role:
@@ -31,7 +31,7 @@ Author: Jordan
 >
 > **Ancestry**: Dwarf
 >
-> **Gender**: M
+> **Gender**: Male
 >
 > **Location**: [[Places/White Grove.md|White Grove]]
 >
