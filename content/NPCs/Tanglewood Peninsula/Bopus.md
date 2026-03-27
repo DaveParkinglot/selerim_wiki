@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T16:26:05.180-04:00
-published: 2026-03-26T16:26:05.180-04:00
+modified: 2026-03-27T12:09:52.972-04:00
+published: 2026-03-27T12:09:52.972-04:00
 Age: "64"
 Ancestry: Gnome
 Gender: Male
@@ -47,7 +47,7 @@ Author: Jordan
 
 # Overview
 
-> [!quote]
+> \[!quote|clean]
 > "Well hey fellas!"
 > -Bopus, all the time
 

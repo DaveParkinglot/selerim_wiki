@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:22:32.849-04:00
-published: 2026-03-26T16:22:32.849-04:00
+modified: 2026-03-27T12:10:08.690-04:00
+published: 2026-03-27T12:10:08.690-04:00
 Age: "52"
 Ancestry:
   - Half-Orc
@@ -46,7 +46,7 @@ Author: Jordan
 
 # Overview
 
-> [!quote]
+> \[!quote|clean]
 > "You never know WHAT is gonna come through that door!"
 > -Arno whenever someone comes through the door
 

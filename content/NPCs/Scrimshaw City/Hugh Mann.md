@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-27T11:48:16.014-04:00
-published: 2026-03-27T11:48:16.014-04:00
+modified: 2026-03-27T12:11:49.502-04:00
+published: 2026-03-27T12:11:49.502-04:00
 Age: "326"
 Ancestry:
   - Fiend (Devil)
@@ -31,7 +31,10 @@ Author: Jordan
 >
 > > \[!caption|center]
 > > Hugh Mann's human form
-> > ![[z_assets/hugh_mann_devil.png|300]]
+>
+> ![[z_assets/hugh_mann_devil.png|300]]
+>
+> > \[!caption|center]
 > > Hugh Mann's devil form
 >
 > ## Details
