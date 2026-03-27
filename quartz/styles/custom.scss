@@ -42,9 +42,19 @@ div.explorer {
   background-color: transparent !important; /* Ensures the background doesn't hide the border */
 }
 
-/* fix width for dataview tables */
+/* DATAVIEW TABLE FIX: fix width for dataview and standard tables */
 body table {
+  width: 100% !important;   /* Force the table to span the full available width */
+  display: table !important;
+  border-collapse: collapse;
+  margin: 1.5rem 0;        /* Space out tables from text */
+  table-layout: auto;      /* Allows columns to size based on content */
+  clear: both;             /* IMPORTANT: Forces table below floating infoboxes if space is tight */
+}
 
-width: unset;
-
+/* Ensure table cells don't force weird wrapping */
+body table th, body table td {
+  white-space: normal;     /* Allows text to wrap naturally */
+  word-break: normal;
+  padding: 8px;            /* Gives the data some breathing room */
 }
