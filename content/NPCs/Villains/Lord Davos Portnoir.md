@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-27T10:33:46.982-04:00
-published: 2026-03-27T10:33:46.982-04:00
+modified: 2026-03-27T11:25:22.089-04:00
+published: 2026-03-27T11:25:22.089-04:00
 Age: "347"
 Ancestry:
   - Devil
@@ -27,10 +27,7 @@ Author: Jordan
 >
 > > \[!caption|center]
 > > Portnoir's human form
->
-> ![[z_assets/lord_davos_portnoir_devil.png|300]]
->
-> > \[!caption|center]
+> > ![[z_assets/lord_davos_portnoir_devil.png|300]]
 > > Portnoir's devil form
 >
 > ## Details
