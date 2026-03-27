@@ -37,18 +37,5 @@ body table {
   width: unset;
 }
 
-/* Force borders on Quartz Callout Infoboxes */
-.callout[data-callout="infobox"] {
-  border: 1px solid #22a578 !important;
-  border-collapse: collapse !important;
-  margin-bottom: 1rem !important;
-  padding: 5px !important;
-  background-color: transparent !important; /* Ensures the background doesn't hide the border */
-}
 
-/* Ensure any tables inside that infobox also use the green border */
-.callout[data-callout="infobox"] table {
-  border: 1px solid #22a578 !important;
-  border-collapse: collapse !important;
-}
 
