@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:43:50.521-05:00
-published: 2026-02-18T14:43:50.521-05:00
+modified: 2026-03-27T14:15:58.234-04:00
+published: 2026-03-27T14:15:58.234-04:00
 DM: Mike Doom
 Platform: Roll20
 Sessions: 2
@@ -48,13 +48,26 @@ Classes:
   - Cleric
 ---
 
-# Details
-
-- **DM**: Mike Doom
-- **Platform:** Roll20
-- **Sessions:** 2
-- **Run Dates:** 2023-05-24 - 2023-05-31
-- **In-World Dates:** 263-11-11
+> [!infobox]
+>
+> ## Dunland's Raiders
+>
+> ![[z_assets/Pasted image 20260327141427.png|500]]
+>
+> > [!caption]
+> > [[Chauncy the Unrepentant|Sir Chauncy]] joins Dunland's Raiders in the fight against [[Morganth]]'s forces
+>
+> ## Details
+>
+> **DM**: Mike Doom
+>
+> **Platform**: Roll20
+>
+> **Sessions**: 2
+>
+> **Run Dates**: 2023-05-24 - 2023-05-31
+>
+> **In-World Dates**: 263-11-11
 
 # Adventure Premise
 

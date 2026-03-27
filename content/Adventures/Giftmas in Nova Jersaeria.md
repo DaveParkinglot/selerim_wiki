@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T15:37:56.000-04:00
-modified: 2026-02-18T14:43:52.994-05:00
-published: 2026-02-18T14:43:52.994-05:00
+modified: 2026-03-27T14:20:28.482-04:00
+published: 2026-03-27T14:20:28.482-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -32,13 +32,26 @@ Classes:
   - Barbarian
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** In person
-- **Sessions:** 1
-- **Run Dates:** 2024-12-25
-- **In-World Dates:** 264-13-25
+> [!infobox]
+>
+> ## Giftmas in Nova Jersaeria
+>
+> ![[z_assets/Pasted image 20260327141836.png|500]]
+>
+> > [!caption]
+> > [[Giftmas]] goblins threaten the Giftmas Market
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: In person
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2024-12-25
+>
+> **In-World Dates**: 264-13-25
 
 # Adventure Premise
 

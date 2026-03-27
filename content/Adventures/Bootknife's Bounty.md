@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-24T11:03:52.652-04:00
-published: 2026-03-24T11:03:52.652-04:00
+modified: 2026-03-27T14:07:04.380-04:00
+published: 2026-03-27T14:07:04.380-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -32,13 +32,26 @@ Classes:
   - Bard
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2024-10-30
-- **In-World Dates:** 264-06-17
+> [!infobox]
+>
+> ## Bootknife's Bounty
+>
+> ![[z_assets/leviathan_drawing.png|500]]
+>
+> > [!caption]
+> > Li'l Gubbins' rendition of a leviathan. He may have taken a _few_ liberties.
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2024-10-30
+>
+> **In-World Dates**: 264-06-17
 
 # Adventure Premise
 

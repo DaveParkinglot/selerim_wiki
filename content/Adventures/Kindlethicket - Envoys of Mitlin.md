@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-20T11:36:22.379-04:00
-published: 2026-03-20T11:36:22.379-04:00
+modified: 2026-03-27T14:27:16.704-04:00
+published: 2026-03-27T14:27:16.704-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -39,13 +39,26 @@ Classes:
 Handouts:
 [[Kindlethicket Handout]]
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** In person
-- **Sessions:** 1
-- **Run Dates:** 2024-11-27
-- **In-World Dates:** 264-04-20
+> [!infobox]
+>
+> ## Kindlethicket - Envoys of Mitlin
+>
+> ![[z_assets/Pasted image 20260327142532.png|500]]
+>
+> > [!caption]
+> > An unseelie darkling with a scythe
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: In person
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2024-11-27
+>
+> **In-World Dates**: 264-04-20
 
 # Adventure Premise
 

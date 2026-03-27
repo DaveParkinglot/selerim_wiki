@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:43:35.913-05:00
-published: 2026-02-18T14:43:35.913-05:00
+modified: 2026-03-27T13:45:15.610-04:00
+published: 2026-03-27T13:45:15.610-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -37,17 +37,30 @@ Classes:
   - Sorcerer
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 2
-- **Run Dates:** 2024-02-20 - 2024-02-27
-- **In-World Dates:** 264-02-12
+> [!infobox]
+>
+> ## Arby's Sauce
+>
+> ![[z_assets/giant_goose.png|300]]
+>
+> > [!caption]
+> > Fumbo Bimpis' deadly attack goose
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 2
+>
+> **Run Dates**: 2024-02-20 - 2024-02-27
+>
+> **In-World Dates**: 264-02-12
 
 # Adventure Premise
 
-- As an up and coming adventuring party in [[Scrimshaw City]], you have been approached by a mysterious stranger named [[Loeb]] who claims to be the Interim Chief Operating Officer of a well known business in the city. He has a task that, left undone, could spell doom for the local Tiialan eatery “The Spicy Meatball”.
+- As an up and coming adventuring party in [[Scrimshaw City]], you have been approached by a mysterious stranger named [[Loeb]] who claims to be the Interim Chief Operating Officer of a well known business in the city. He has a task that, left undone, could spell doom for the local [[Tiialia|Tiialan]] eatery “The Spicy Meatball”.
 
 # Outcomes
 

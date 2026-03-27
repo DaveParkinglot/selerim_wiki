@@ -1,8 +1,11 @@
 ---
 publish: true
+aliases:
+  - Sir Chauncy
+  - Chauncy the Brave
 created: 2025-08-12T09:01:12.000-04:00
-modified: 2026-03-26T16:21:36.020-04:00
-published: 2026-03-26T16:21:36.020-04:00
+modified: 2026-03-27T14:17:14.571-04:00
+published: 2026-03-27T14:17:14.571-04:00
 Age: "26"
 Ancestry:
   - Fiend (Devil)
@@ -47,6 +50,8 @@ Author: Jordan
 > **Status:** Alive
 
 # Overview
+
+Formerly a decorated war hero of [[Tiialia]], Brave Sir Chauncy has fallen far, becoming becoming a Hellknight of the Nine Hells.
 
 ## [[Dunland's Raiders|Dunland's Raiders]]
 

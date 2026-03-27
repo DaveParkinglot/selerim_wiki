@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T12:22:17.000-05:00
-modified: 2026-03-27T13:39:12.373-04:00
-published: 2026-03-27T13:39:12.373-04:00
+modified: 2026-03-27T13:47:11.920-04:00
+published: 2026-03-27T13:47:11.920-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
