@@ -32,26 +32,35 @@
 }
 
 
-/* H2 Title */
+/* H2 Title - Full Width Streak */
 .callout[data-callout="infobox"] h2 {
-  margin: auto;
-  max-width: 100%;
+  width: 100%;           /* Spans the full width of the infobox */
+  margin: 0;             /* Removes margins that might shrink the 'streak' */
+  box-sizing: border-box; /* Ensures padding doesn't push it outside the border */
   font-size: 17px;
   text-align: center;
-  border-radius: 2px;
-  background-color: var(--secondary);
-  padding: 4px;
+  padding: 6px 0px;      /* Vertical padding for height, 0 for horizontal */
+  
+  /* Use your Quartz theme variables */
+  background-color: #22a578 !important; 
+  color: var(--bg) !important; 
+  
+  /* Remove rounded corners if you want it to sit flush against the box borders */
+  border-radius: 0px; 
 }
 
-/* H3 Title */
+/* H3 Title - Full Width Streak */
 .callout[data-callout="infobox"] h3 {
-  margin: auto;
-  max-width: 100%;
+  width: 100%;
+  margin: 10px 0 0 0;    /* Adds space above the streak, but keeps it full width */
+  box-sizing: border-box;
   font-size: 15px;
   text-align: center;
-  border-radius: 2px;
-  background-color: var(--secondary);
-  padding: 4px;
+  padding: 4px 0px;
+  
+  background-color: #22a578 !important;
+  color: var(--bg) !important;
+  border-radius: 0px;
 }
 
 /* hide anchor in infobox headings so they remain centered */
