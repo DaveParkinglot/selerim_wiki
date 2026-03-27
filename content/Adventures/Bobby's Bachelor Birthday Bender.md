@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T12:22:17.000-05:00
-modified: 2026-03-27T13:33:21.904-04:00
-published: 2026-03-27T13:33:21.904-04:00
+modified: 2026-03-27T13:39:12.373-04:00
+published: 2026-03-27T13:39:12.373-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -39,7 +39,7 @@ Classes:
 >
 > ## Bobby's Bachelor Birthday Bender
 >
-> ![[z_assets/Pasted image 20260327133138.png|500]]
+> ![[z_assets/tween_worlds_tavern.png|500]]
 >
 > > [!caption]
 > > The 'Tween Worlds Tavern
@@ -52,16 +52,9 @@ Classes:
 >
 > **Sessions**: 1
 >
-> **Run Dates**: 2026-02-12 - -
+> **Run Dates**: 2026-02-12
 >
 > **In-World Dates**: 266-02-28 - 266-03-01
->
-> | Player              | Character Name         | Race              | Class               |
-> | ------------------- | ---------------------- | ----------------- | ------------------- |
-> | Peter | Bobby Dismorphia | Orc | Fighter |
-> | Otto | Squeembo Montgomery | Halfling | Cleric |
-> | Logan | Bobson Dugnut | Orc | Ranger |
-> | Cale | Bingus | Dwarf | Barbarian |
 
 # Adventure Premise
 
