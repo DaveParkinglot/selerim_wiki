@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-27T17:24:16.000-04:00
-modified: 2026-02-18T14:44:27.444-05:00
-published: 2026-02-18T14:44:27.444-05:00
+modified: 2026-03-27T15:43:19.897-04:00
+published: 2026-03-27T15:43:19.897-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 1
@@ -32,13 +32,26 @@ Classes:
   - Rogue
 ---
 
-# Details
-
-- **DM**: Ethan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Dates:** 2025-06-25
-- **In-World Dates:** 265-10-01
+> [!infobox]
+>
+> ## The Great Tiialan Heist
+>
+> ![[z_assets/robertos_birthday_gala.png|600]]
+>
+> > [!caption]
+> > The long-awaited birthday gala of young Roberto Batista
+>
+> ## Details
+>
+> **DM**: Ethan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2025-06-25
+>
+> **In-World Dates**: 265-10-01
 
 # Adventure Premise
 

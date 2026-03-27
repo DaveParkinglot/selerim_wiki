@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T08:11:09.000-05:00
-modified: 2026-02-18T14:44:12.516-05:00
-published: 2026-02-18T14:44:12.516-05:00
+modified: 2026-03-27T15:00:46.657-04:00
+published: 2026-03-27T15:00:46.657-04:00
 DM: Jordan
 Players:
   - David
@@ -30,13 +30,26 @@ Classes:
   - Warlock
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** In person
-- **Sessions:** 1
-- **Run Dates:** 2026-01-03
-- **In-World Dates:** 266-01-01
+> [!infobox]
+>
+> ## New Dawn - Hellfire Heist
+>
+> ![[z_assets/hellfist.png|300]]
+>
+> > [!caption]
+> > The Hellfist
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: In person
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2026-01-03
+>
+> **In-World Dates**: 266-01-01
 
 # Adventure Premise
 

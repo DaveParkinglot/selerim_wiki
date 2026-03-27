@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:17.633-05:00
-published: 2026-02-18T14:44:17.633-05:00
+modified: 2026-03-27T15:43:39.097-04:00
+published: 2026-03-27T15:43:39.097-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -32,13 +32,26 @@ Classes:
   - Rogue
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2024-02-24
-- **In-World Dates:** 263-10-28
+> [!infobox]
+>
+> ## Sharky's Revenge
+>
+> ![[z_assets/sharky_and_crew.png|400]]
+>
+> > [!caption]
+> > Sharky and his crew make landfall at Bone Tavern
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2024-02-24
+>
+> **In-World Dates**: 263-10-28
 
 # Adventure Premise
 

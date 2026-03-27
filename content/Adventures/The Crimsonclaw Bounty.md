@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:24.116-05:00
-published: 2026-02-18T14:44:24.116-05:00
+modified: 2026-03-27T15:43:27.133-04:00
+published: 2026-03-27T15:43:27.133-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -28,13 +28,26 @@ Classes:
   - Fighter
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2025-05-14
-- **In-World Dates:** 264-09-05
+> [!infobox]
+>
+> ## The Crimsonclaw Bounty
+>
+> ![[z_assets/leaky_bucket_hanging.png]]
+>
+> > [!caption]
+> > The long-lost Leaky Bucket hangs from vines in the Tanglewood Wilds
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2025-05-14
+>
+> **In-World Dates**: 264-09-05
 
 # Adventure Premise
 

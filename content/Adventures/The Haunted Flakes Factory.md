@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:31.091-05:00
-published: 2026-02-18T14:44:31.091-05:00
+modified: 2026-03-27T15:42:49.370-04:00
+published: 2026-03-27T15:42:49.370-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -29,17 +29,30 @@ Classes:
   - Wizard
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2024-10-23
-- **In-World Dates:** 264-10-27
+> [!infobox]
+>
+> ## The Haunted Flakes Factory
+>
+> ![[z_assets/billy_basilisk_factory.png]]
+>
+> > [!caption]
+> > Li'l Carlos Dunlap's drawing of cereal mascot Billy Basilisk, chained up in the laboratory wing
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2024-10-23
+>
+> **In-World Dates**: 264-10-27
 
 # Adventure Premise
 
-- Halloween One Shot
+- It's a Halloween One Shot.
 - You are all attending a beach bonfire party on the outskirts of the town of [[Crabbley]], enjoying beverages and scary ghost stories. Unfortunately, one of these spooky tales will be more than just a story…
 
 # Outcomes

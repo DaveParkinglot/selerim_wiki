@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T14:49:07.043-04:00
-published: 2026-03-27T14:49:07.043-04:00
+modified: 2026-03-27T15:00:55.386-04:00
+published: 2026-03-27T15:00:55.386-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -38,10 +38,10 @@ Classes:
 >
 > ## Morganth's LEGION OF DOOM
 >
-> ![[z_assets/Pasted image 20260327144801.png|500]]
+> ![[z_assets/tomb_of_zalaash.png|500]]
 >
 > > [!caption]
-> > The shade of Zalaath
+> > Entering the Tomb of Zalaash
 >
 > ## Details
 >
