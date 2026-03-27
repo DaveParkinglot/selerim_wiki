@@ -6,7 +6,7 @@ on:
       - v4
  
 env:
-  THEME_NAME: violet-evening
+  THEME_NAME: reverie
  
 permissions:
   contents: read
