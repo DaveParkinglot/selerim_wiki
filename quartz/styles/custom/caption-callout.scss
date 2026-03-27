@@ -32,10 +32,10 @@
   .callout.callout[data-callout~=caption] p {
     margin-block-start: 0;
     margin-block-end: 0;
-    color: var(--gray);
+    color: var(--lightgray);
 
     & strong {
-      color: var(--gray);
+      color: var(--lightgray);
     }
   }
   .callout.callout[data-callout~=caption]:is([data-callout-metadata~=sban], [data-callout-metadata~=banner]) .image-embed img {
