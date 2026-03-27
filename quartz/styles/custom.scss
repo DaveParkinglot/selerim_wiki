@@ -3,6 +3,10 @@
 @use "sass:map";
 /* -- Morrowind Modding Wiki SCSS Modules for cooler things-- */
 @use "./custom/infobox-callout.scss";
+@use "./custom/image-adjustments.scss";
+@use "./custom/callout-adjustments.scss";
+@use "./custom/column-callout.scss";
+@use "./custom/caption-callout.scss";
 
 // put your custom CSS here!
 
