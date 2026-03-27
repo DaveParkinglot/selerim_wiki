@@ -6,7 +6,7 @@ on:
       - v4
  
 env:
-  THEME_NAME: velvet-moon
+  THEME_NAME: violet-evening
  
 permissions:
   contents: read
