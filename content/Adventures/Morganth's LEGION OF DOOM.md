@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T15:00:55.386-04:00
-published: 2026-03-27T15:00:55.386-04:00
+modified: 2026-03-28T08:16:58.669-04:00
+published: 2026-03-28T08:16:58.669-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -40,7 +40,7 @@ Classes:
 >
 > ![[z_assets/tomb_of_zalaash.png|500]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > Entering the Tomb of Zalaash
 >
 > ## Details

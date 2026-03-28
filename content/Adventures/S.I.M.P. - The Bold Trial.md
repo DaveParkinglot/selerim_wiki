@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T15:44:03.285-04:00
-published: 2026-03-27T15:44:03.285-04:00
+modified: 2026-03-28T08:16:55.230-04:00
+published: 2026-03-28T08:16:55.230-04:00
 DM: Jordan
 Platform: Roll20
 Sessions: 1
@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/rusted_armory_golem.png|300]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > The rusted armory golem, second of the three Bold Trials
 >
 > ## Details

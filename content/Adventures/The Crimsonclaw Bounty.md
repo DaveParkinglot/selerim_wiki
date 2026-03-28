@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T15:43:27.133-04:00
-published: 2026-03-27T15:43:27.133-04:00
+modified: 2026-03-28T08:16:48.666-04:00
+published: 2026-03-28T08:16:48.666-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -34,7 +34,7 @@ Classes:
 >
 > ![[z_assets/leaky_bucket_hanging.png]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > The long-lost Leaky Bucket hangs from vines in the Tanglewood Wilds
 >
 > ## Details

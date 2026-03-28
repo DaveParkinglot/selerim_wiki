@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T14:56:00.632-04:00
-published: 2026-03-27T14:56:00.632-04:00
+modified: 2026-03-28T08:16:27.141-04:00
+published: 2026-03-28T08:16:27.141-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -45,7 +45,7 @@ Handouts:
 >
 > ![[z_assets/darkling_with_scythe.png|500]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > A scythe-wielding unseelie darkling
 >
 > ## Details

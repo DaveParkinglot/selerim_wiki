@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-14T09:47:35.000-05:00
-modified: 2026-03-27T13:46:50.801-04:00
-published: 2026-03-27T13:46:50.801-04:00
+modified: 2026-03-27T16:11:20.000-04:00
+published: 2026-03-27T16:11:20.000-04:00
 DM: Jordan
 Players:
   - Mike Doom
@@ -36,7 +36,7 @@ Classes:
 >
 > ![[z_assets/back_to_the_ship.png|600]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > Exterior view of Deep Rock Mining Outpost #7781
 >
 > ## Details

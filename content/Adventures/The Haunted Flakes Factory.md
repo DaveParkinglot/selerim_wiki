@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T15:42:49.370-04:00
-published: 2026-03-27T15:42:49.370-04:00
+modified: 2026-03-28T08:19:23.595-04:00
+published: 2026-03-28T08:19:23.595-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -35,7 +35,7 @@ Classes:
 >
 > ![[z_assets/billy_basilisk_factory.png]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > Li'l Carlos Dunlap's drawing of cereal mascot Billy Basilisk, chained up in the laboratory wing
 >
 > ## Details
@@ -52,8 +52,7 @@ Classes:
 
 # Adventure Premise
 
-- It's a Halloween One Shot.
-- You are all attending a beach bonfire party on the outskirts of the town of [[Crabbley]], enjoying beverages and scary ghost stories. Unfortunately, one of these spooky tales will be more than just a story…
+- On [[Hallowmass]] Eve, you and your friends are attending a beach bonfire party on the outskirts of the town of [[Crabbley]], enjoying beverages and scary ghost stories. Unfortunately, one of these spooky tales will be more than just a story…
 
 # Outcomes
 

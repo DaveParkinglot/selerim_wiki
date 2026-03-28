@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T14:52:58.734-04:00
-published: 2026-03-27T14:52:58.734-04:00
+modified: 2026-03-28T08:16:30.733-04:00
+published: 2026-03-28T08:16:30.733-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/leviathan_drawing.png|500]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > Li'l Gubbins' artistic rendition of a juvenile leviathan
 >
 > ## Details

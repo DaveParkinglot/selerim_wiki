@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T12:22:17.000-05:00
-modified: 2026-03-27T16:02:20.298-04:00
-published: 2026-03-27T16:02:20.298-04:00
+modified: 2026-03-28T08:16:34.368-04:00
+published: 2026-03-28T08:16:34.368-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -41,7 +41,7 @@ Classes:
 >
 > ![[z_assets/tween_worlds_tavern.png|500]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > The 'Tween Worlds Tavern, under construction
 >
 > ## Details

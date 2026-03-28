@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T13:45:15.610-04:00
-published: 2026-03-27T13:45:15.610-04:00
+modified: 2026-03-27T16:11:08.000-04:00
+published: 2026-03-27T16:11:08.000-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -43,7 +43,7 @@ Classes:
 >
 > ![[z_assets/giant_goose.png|300]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > Fumbo Bimpis' deadly attack goose
 >
 > ## Details

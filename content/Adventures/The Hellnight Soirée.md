@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-03T20:47:11.000-04:00
-modified: 2026-03-27T15:42:41.477-04:00
-published: 2026-03-27T15:42:41.477-04:00
+modified: 2026-03-28T08:17:05.710-04:00
+published: 2026-03-28T08:17:05.710-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -34,7 +34,7 @@ Classes:
 >
 > ![[z_assets/fiend_feud.png|500]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > Pazuzu and Baron Neffery's entourages attack each other, beginning a Fiend Feud
 >
 > ## Details

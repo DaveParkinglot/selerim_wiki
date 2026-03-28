@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T15:43:39.097-04:00
-published: 2026-03-27T15:43:39.097-04:00
+modified: 2026-03-28T08:16:53.289-04:00
+published: 2026-03-28T08:16:53.289-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/sharky_and_crew.png|400]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > Sharky and his crew make landfall at Bone Tavern
 >
 > ## Details

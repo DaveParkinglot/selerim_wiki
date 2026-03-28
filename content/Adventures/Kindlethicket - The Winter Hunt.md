@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T10:08:23.000-04:00
-modified: 2026-03-27T14:56:08.299-04:00
-published: 2026-03-27T14:56:08.299-04:00
+modified: 2026-03-28T08:16:22.033-04:00
+published: 2026-03-28T08:16:22.033-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/krampus.png|300]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > Archfey Krampus stows another naughty child in his punishment sack
 >
 > ## Details

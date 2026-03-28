@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-27T15:43:33.002-04:00
-published: 2026-03-27T15:43:33.002-04:00
+modified: 2026-03-28T08:16:51.767-04:00
+published: 2026-03-28T08:16:51.767-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -34,7 +34,7 @@ Classes:
 >
 > ![[z_assets/barry_the_barlgura.png|500]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > Barry the Barlgura vandalizes the Crystal Theatre
 >
 > ## Details

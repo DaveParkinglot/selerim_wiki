@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-11-02T09:22:56.000-05:00
-modified: 2026-03-27T14:42:44.306-04:00
-published: 2026-03-27T14:42:44.306-04:00
+modified: 2026-03-28T08:16:20.258-04:00
+published: 2026-03-28T08:16:20.258-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -39,7 +39,7 @@ Classes:
 >
 > ![[z_assets/lighting_the_lighthouse.png|300]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > Aldwood Lighthouse, before the necrotic storm of 263
 >
 > ## Details
