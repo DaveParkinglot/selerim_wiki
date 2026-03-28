@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-28T08:19:23.595-04:00
-published: 2026-03-28T08:19:23.595-04:00
+modified: 2026-03-28T08:27:21.174-04:00
+published: 2026-03-28T08:27:21.174-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
 Start Date: 2024-10-23
-In-World Start Date: 264-10-27
+In-World Start Date: 264-10-28
 Setting: Selerim
 Author:
   - Jordan
@@ -48,11 +48,11 @@ Classes:
 >
 > **Run Dates**: 2024-10-23
 >
-> **In-World Dates**: 264-10-27
+> **In-World Dates**: 264-10-28
 
 # Adventure Premise
 
-- On [[Hallowmass]] Eve, you and your friends are attending a beach bonfire party on the outskirts of the town of [[Crabbley]], enjoying beverages and scary ghost stories. Unfortunately, one of these spooky tales will be more than just a story…
+- On [[Hallowtide]] Eve, you and your friends are attending a beach bonfire party on the outskirts of the town of [[Crabbley]], enjoying beverages and scary ghost stories. Unfortunately, one of these spooky tales will be more than just a story…
 
 # Outcomes
 
