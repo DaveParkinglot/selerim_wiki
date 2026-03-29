@@ -2,6 +2,8 @@
 
 #yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 
+#yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Welcome to Selerim
@@ -253,6 +255,7 @@ plugins:
       display: all
   - source: github:Requiae/quartz-leaflet-map-plugin
     enabled: true
+    options: {}
   - source:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
@@ -260,6 +263,10 @@ plugins:
     enabled: true
     options:
       theme: reverie
+  - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:
