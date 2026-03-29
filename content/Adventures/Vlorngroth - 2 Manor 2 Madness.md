@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:57.446-05:00
-published: 2026-02-18T14:44:57.446-05:00
+modified: 2026-03-29T00:04:58.206-04:00
+published: 2026-03-29T00:04:58.206-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -36,13 +36,26 @@ Classes:
   - Rogue
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2025-04-02
-- **In-World Dates:** 265-03-23
+> [!infobox]
+>
+> ## Vlorngroth - 2 Manor 2 Madness
+>
+> ![[z_assets/Pasted image 20260329000435.png|500]]
+>
+> > \[!caption|center]
+> > Count Duskveil's dining hall in Duskveil Keep
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2025-04-02
+>
+> **In-World Dates**: 265-03-23
 
 # Adventure Premise
 

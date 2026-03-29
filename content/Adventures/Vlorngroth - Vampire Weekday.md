@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T10:23:37.000-04:00
-modified: 2026-03-19T08:46:39.591-04:00
-published: 2026-03-19T08:46:39.591-04:00
+modified: 2026-03-28T23:41:44.667-04:00
+published: 2026-03-28T23:41:44.667-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -32,15 +32,26 @@ Classes:
   - Warlock
 ---
 
-![[z_assets/vampire_weekday.png|500]]
-
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Dates:** 2025-10-29
-- **In-World Dates:** 265-11-13
+> [!infobox]
+>
+> ## Vlorngroth - Vampire Weekday
+>
+> ![[z_assets/duskveil_keep.png|500]]
+>
+> > \[!caption|center]
+> > Duskveil Keep
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2025-10-29
+>
+> **In-World Dates**: 265-11-13
 
 # Adventure Premise
 

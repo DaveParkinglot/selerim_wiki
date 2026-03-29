@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:45:00.523-05:00
-published: 2026-02-18T14:45:00.523-05:00
+modified: 2026-03-28T23:47:23.819-04:00
+published: 2026-03-28T23:47:23.819-04:00
 DM: Jordan
 Platform: Roll20
 Sessions: 1
@@ -36,12 +36,26 @@ Classes:
   - Rogue
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Roll20
-- **Run Dates:** 2023-08-17
-- **In-World Dates:** 264-02-03
+> [!infobox]
+>
+> ## Vlorngroth - The Forge of Dingon
+>
+> ![[z_assets/avatar.png|500]]
+>
+> > \[!caption|center]
+> > The ruined Forge of Dingon
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Roll20
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2023-08-17
+>
+> **In-World Dates**: 264-02-03
 
 # Adventure Premise
 

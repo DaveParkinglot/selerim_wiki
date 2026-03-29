@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T08:02:27.000-04:00
-modified: 2026-02-18T14:45:12.016-05:00
-published: 2026-02-18T14:45:12.016-05:00
+modified: 2026-03-28T23:52:41.121-04:00
+published: 2026-03-28T23:52:41.121-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 4
@@ -34,13 +34,26 @@ Classes:
   - Rogue
 ---
 
-# Details
-
-- **DM**: Ethan
-- **Platform:** Foundry
-- **Sessions:** 4
-- **Dates:** 2025-07-31
-- **In-World Dates:** 265-10-28 - 265-11-15
+> [!infobox]
+>
+> ## Voyage a la Isla Ruz
+>
+> ![[z_assets/Pasted image 20260328235236.png|500]]
+>
+> > \[!caption|center]
+> > Gladiatorial combat on Isla Ruz
+>
+> ## Details
+>
+> **DM**: Ethan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 4
+>
+> **Run Dates**: 2025-07-31
+>
+> **In-World Dates**: 265-10-28
 
 # Adventure Premise
 
@@ -77,7 +90,7 @@ Classes:
 - The adventurers came to the royal Salon, and worked to try and gain court favor to be able to meet with either [[Alejandro Ruz]], [[General Ernesto de la Sern]], or [[Ambassador "Tiny" Timmy Trebles]] (from the Esposito court).
 - The adventurers stumbled through this task, with The Knight of Confidence dramatically failing to gain court favor despite initially appearing successful at the task.
 - The adventurers had enough court favor to talk to [[General Ernesto de la Sern]].
-- The adventurers finally determined which way the wind was blowing: They didn't like [[Vlorngroth]], but they HATED [[Factions/Morganth's Legion of Doom]]. They decided to side with the Ruz family against the Batistas. This was possibly a very significant decision for the future of Tiialia.
+- The adventurers finally determined which way the wind was blowing: They didn't like [[Vlorngroth]], but they HATED [[Factions/Morganth's Legion of Doom|Morganth's Legion of Doom]]. They decided to side with the Ruz family against the Batistas. This was possibly a very significant decision for the future of Tiialia.
 - They adventurers shared their evidence with [[General Ernesto de la Sern]], who seemed thoroughly convinced and happy to have more allies. Before he could share the evidence with [[Alejandro Ruz]], a Batista spy smashed a stone through a window, indicating to a ready-in-waiting assassination crew to make an assassination attempt on [[Alejandro Ruz]].
 
 # Players & Characters

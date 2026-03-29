@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-28T22:59:42.390-04:00
-published: 2026-03-28T22:59:42.390-04:00
+modified: 2026-03-29T00:05:27.886-04:00
+published: 2026-03-29T00:05:27.886-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -40,7 +40,7 @@ Classes:
 > ![[z_assets/waverender.png|500]]
 >
 > > \[!caption|center]
-> > A "Waverender", one of Boss Renton's scrap ships
+> > A "Waverender", one of Boss Renton's many scrap ships
 >
 > ## Details
 >

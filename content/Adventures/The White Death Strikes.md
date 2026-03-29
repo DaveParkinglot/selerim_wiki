@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:54.868-05:00
-published: 2026-02-18T14:44:54.868-05:00
+modified: 2026-03-29T00:05:16.733-04:00
+published: 2026-03-29T00:05:16.733-04:00
 DM: Bishop
 Platform: Foundry
 Sessions: 1
@@ -28,13 +28,26 @@ Classes:
   - Paladin
 ---
 
-# Details
-
-- **DM**: Bishop
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2024-06-04
-- **In-World Dates:** 264-04-17
+> [!infobox]
+>
+> ## The White Death Strikes
+>
+> ![[z_assets/Pasted image 20260328230715.png|400]]
+>
+> > \[!caption|center]
+> > The titular "White Death"
+>
+> ## Details
+>
+> **DM**: Bishop
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2024-06-04
+>
+> **In-World Dates**: 264-04-17
 
 # Adventure Premise
 

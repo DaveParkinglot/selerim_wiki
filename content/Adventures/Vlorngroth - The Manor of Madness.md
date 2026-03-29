@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:45:02.573-05:00
-published: 2026-02-18T14:45:02.573-05:00
+modified: 2026-03-28T23:59:19.346-04:00
+published: 2026-03-28T23:59:19.346-04:00
 DM: Jordan
 Platform: Roll20
 Sessions: 2
@@ -49,13 +49,26 @@ Handouts:
 [[Vlorngroth Setting Overview]]
 [[Inquisitor's Dossier]]
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Roll20
-- **Sessions:** 2
-- **Run Dates:** 2023-07-06 - 2023-07-12
-- **In-World Dates:** 264-01-11
+> [!infobox]
+>
+> ## Vlorngroth - The Manor of Madness
+>
+> ![[z_assets/duskveil_asylum.png|500]]
+>
+> > \[!caption|center]
+> > Duskveil Asylum, affectionately called "The Manor of Madness"
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Roll20
+>
+> **Sessions**: 2
+>
+> **Run Dates**: 2023-07-06 - 2023-07-12
+>
+> **In-World Dates**: 264-01-11
 
 # Adventure Premise
 

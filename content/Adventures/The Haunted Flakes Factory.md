@@ -1,16 +1,15 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-28T08:27:21.174-04:00
-published: 2026-03-28T08:27:21.174-04:00
+modified: 2026-03-29T00:06:04.610-04:00
+published: 2026-03-29T00:06:04.610-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
 Start Date: 2024-10-23
 In-World Start Date: 264-10-28
 Setting: Selerim
-Author:
-  - Jordan
+Author: Jordan
 Players:
   - Peter
   - Larry

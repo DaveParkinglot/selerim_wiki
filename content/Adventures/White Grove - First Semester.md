@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-27T17:44:31.000-04:00
-modified: 2026-03-19T08:46:56.070-04:00
-published: 2026-03-19T08:46:56.070-04:00
+modified: 2026-03-28T23:56:43.432-04:00
+published: 2026-03-28T23:56:43.432-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -29,13 +29,26 @@ Classes:
   - Warlock
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Dates:** 2025-07-10
-- **In-World Dates:** 265-04-22 - 265-04-27
+> [!infobox]
+>
+> ## White Grove - First Semester
+>
+> ![[z_assets/Pasted image 20260328235627.png|500]]
+>
+> > \[!caption|center]
+> > The Spontaneous Staircase
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2025-07-10
+>
+> **In-World Dates**: 265-04-22
 
 # Adventure Premise
 
