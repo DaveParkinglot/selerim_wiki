@@ -1,0 +1,51 @@
+---
+Age: "32"
+Ancestry: Tiialian
+Gender: Male
+Location:
+  - "[[Nova Jersaeria]]"
+  - Isla Ruz
+Role: Head of Ruz Family
+Affiliation: Ruz Family
+Appearances:
+  - "[[The Great Tiialan Heist]]"
+  - "[[Voyage a la Isla Ruz]]"
+Status: Alive
+Author: Ethan
+---
+> [!infobox]
+> ## Alejandro Ruz
+> ![[alejandro_ruz.png|300]]
+> ## Details
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
+
+# Overview
+The young head of the [[Ruz Family]]. Mystery surrounds this revolutionary. Some in the Esposito course believe that he intends to break free from [[Tiialia]]. Others believe he may be the only hope that [[Antonino Esposito|King Esposito]] has against the [[Batista Family]].
+
+# Attributes
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**: 
+
+# Relationships
+
+| Name                           | Relationship          |
+| ------------------------------ | --------------------- |
+| [[General Ernesto de la Sern]] | Confidant and General |
+
