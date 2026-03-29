@@ -60,3 +60,11 @@ body table th, body table td {
   word-break: normal;
   padding: 8px;            /* Gives the data some breathing room */
 }
+
+// Targets the background of both internal and external links
+.internal, .external, a {
+  background-color: transparent !important; // Removes the background fill
+  background: none !important;              // Catch-all for gradient backgrounds
+  padding: 0 !important;                    // Removes extra spacing around the text
+  border-radius: 0 !important;              // Removes rounded corners if they existed
+}
