@@ -1,4 +1,9 @@
 ---
+publish: true
+title: Kindlethicket, Fey Crossing
+created: 2025-11-02T10:04:59.135-05:00
+modified: 2026-03-26T16:53:21.953-04:00
+published: 2026-03-26T16:53:21.953-04:00
 Type:
   - Fey Crossing
 Age (years): 1
@@ -7,7 +12,6 @@ Affiliation:
   - None
 Government:
   - The Prince of Lamps and Luminosity
-title: Kindlethicket, Fey Crossing
 marker:
   mapName: InteractiveMap
   x: 1700
@@ -21,36 +25,43 @@ Appearances:
   - "[[Lighting the Lighthouse DM]]"
 aliases:
 ---
+
 > [!infobox]
+>
 > ## Kindlethicket
-> ![[kindlethicket.png|400]]
+>
+> ![[z_assets/kindlethicket.png|400]]
+>
 > ## Details
-> 
->**Type**: `= join(this.Type, ", ")`
 >
->**Age:** `= this["Age (years)"]`
+> **Type**: Fey Crossing
 >
->**Population**: `= this.Population`
+> **Age:** 1
 >
->**Affiliation**: `= join(this.Affiliation, ", ")`
+> **Population**: 200
 >
->**Government:** `= join(this.Government, ", ")`
+> **Affiliation**: None
 >
->**Appearances:** `= join(this.Appearances, ", ")`
+> **Government:** The Prince of Lamps and Luminosity
+>
+> **Appearances:** [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]], [[Jordan's Notes/DM Notes/Adventures/Completed/Lighting the Lighthouse DM.md|Lighting the Lighthouse DM]]
 
 # Overview
+
 Kindlethicket is a fey crossing—a location where the Selerim Material Plane intersects with The Feywild, the Plane of Faerie. It sprung up on the eastern arm of the [[Tanglewood Peninsula]] in the Spring of 264.
 
 # Attributes
-- **Appearance**: 
-	- Faerie architecture, lots of mushrooms and twinkling lights
-	- Buildings are formed from mushrooms and trees
-	- Sprites and faeries dart around hundreds of lamps hanging from branches on trees
+
+- **Appearance**:
+  - Faerie architecture, lots of mushrooms and twinkling lights
+  - Buildings are formed from mushrooms and trees
+  - Sprites and faeries dart around hundreds of lamps hanging from branches on trees
 - **Economy/Resources**: (What it produces, trades, or lacks)
 - **Dangers/Secrets**: (Rumors, threats, hidden lore)
 - **Points of Interest**: (Taverns, landmarks, shrines, ruins, etc.)
 
 # Hooks
+
 - Adventure seed 1
 - Adventure seed 2
 - Adventure seed 3

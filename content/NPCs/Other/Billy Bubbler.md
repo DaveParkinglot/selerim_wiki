@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-08-12T08:58:27.000-04:00
+modified: 2026-03-26T16:21:31.031-04:00
+published: 2026-03-26T16:21:31.031-04:00
 Age: "174"
 Ancestry: Fiend (Devil), Sahuagin
 Gender: Male
@@ -13,32 +17,38 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox]
+>
 > ## Billy Bubbler
-> ![[billy_bubbler.png|300]]
+>
+> ![[z_assets/billy_bubbler.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 174
+>
+> **Ancestry**: Fiend (Devil), Sahuagin
+>
+> **Gender**: Male
+>
+> **Location**: Boater's Bay
+>
+> **Role**: Sahuagin Baron
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Billy and his sahuagin followers claim the waters west of [[Scrimshaw City|Scrimshaw]].
 - He has very little stake in what happens on the surface, and he only comes to the surface when there's a party with great catered food.
 
 # Attributes
+
 - **Voice**: Southern Gentlemanly
 - **Traits**: Insatiable appetite
 - **Goals:** Provide sustenance for himself and his tribe of Sahuagin
@@ -49,4 +59,3 @@ Author: Jordan
 | Name | Relationship |
 | ---- | ------------ |
 |      |              |
-

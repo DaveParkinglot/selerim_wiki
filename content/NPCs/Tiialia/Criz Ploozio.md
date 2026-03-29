@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:45.000-04:00
+modified: 2026-03-26T16:28:43.850-04:00
+published: 2026-03-26T16:28:43.850-04:00
 Age: "36"
 Ancestry: Kobold
 Gender: Male
@@ -14,31 +18,37 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox]
+>
 > ## Criz Ploozio
-> ![[criz_ploozio.png|300]]
+>
+> ![[z_assets/criz_ploozio.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 36
+>
+> **Ancestry**: Kobold
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], Sewers
+>
+> **Role**: Shopkeeper
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 A shady kobold who owns Criz's Crib, a staple of the Tiialan sewer night market.
 
 # Attributes
+
 - **Voice**: Raspy
 - **Traits**: Generally agreeable, loves makin trades. Competition in the free market is a great and noble thing, but so is cheating
 - **Goals:** Outsell [[Riggle Fragoo]]

@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:45.000-04:00
+modified: 2026-03-26T16:28:01.606-04:00
+published: 2026-03-26T16:28:01.606-04:00
 Age: "16"
 Ancestry: Goblin
 Gender: Male
@@ -14,32 +18,38 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox]
+>
 > ## Woben Thumbstick
-> ![[woben_thumbstick.png|300]]
+>
+> ![[z_assets/woben_thumbstick.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 16
+>
+> **Ancestry**: Goblin
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]], [[Places/Borfield.md|Borfield]]
+>
+> **Role**: Adventurer, Rogue
+>
+> **Affiliation:** [[The Backbreakers|The Backbreakers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Relatively incompetent rogue adventurer. Bites off more than he can chew too often, but his party members always have his back.
 - Member of [[The Backbreakers]], he originally hails from [[Borfield]] like his other party members.
 
 # Attributes
+
 - **Voice**: High pitched New York gangster
 - **Traits**: I hide scraps of food and trinkets away in my pockets.
 - **Goals:** That jewelry would look better in my pocket.
