@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-24T11:08:02.117-04:00
-published: 2026-03-24T11:08:02.117-04:00
+modified: 2026-03-28T23:00:04.240-04:00
+published: 2026-03-28T23:00:04.240-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -32,13 +32,26 @@ Classes:
   - Rogue
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2025-02-12
-- **In-World Dates:** 264-08-16
+> [!infobox]
+>
+> ## The Marrowsucker Contract
+>
+> ![[z_assets/marrowsucker_archer.png|500]]
+>
+> > \[!caption|center]
+> > A vicious Marrowsucker archer
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2025-02-12
+>
+> **In-World Dates**: 264-08-16
 
 # Adventure Premise
 

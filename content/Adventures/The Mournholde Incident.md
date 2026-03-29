@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:49.005-05:00
-published: 2026-02-18T14:44:49.005-05:00
+modified: 2026-03-28T22:59:49.361-04:00
+published: 2026-03-28T22:59:49.361-04:00
 DM: Mike Doom
 Platform: Roll20
 Sessions: 1
@@ -36,13 +36,26 @@ Classes:
   - Barbarian
 ---
 
-# Details
-
-- **DM**: Mike Doom
-- **Platform:** Roll20
-- **Sessions:** 1
-- **Run Dates:** 2023-09-19
-- **In-World Dates:** 264-02-26
+> [!infobox]
+>
+> ## The Mournholde Incident
+>
+> ![[z_assets/mournholde_soldier.png|300]]
+>
+> > \[!caption|center]
+> > Mournholde's soldiers rise against the invasion of the living
+>
+> ## Details
+>
+> **DM**: Mike Doom
+>
+> **Platform**: Roll20
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2023-09-19
+>
+> **In-World Dates**: 264-02-26
 
 # Adventure Premise
 
@@ -50,7 +63,7 @@ Classes:
 
 # Outcomes
 
-- Captain Rattlebones, Mayor Jerrard Duck, and the brave heroes of [[Mournholde]] defeated Ser Obadiah Justice and Lady Tempesta, who were seeking to cleanse the undeath from the City of the Dead.
+- Captain Rattlebones, Mayor Jerrard Duck, and the brave heroes of [[Mournholde]] defeated Ser Obadiah Justice and Lady Tempesta, who were foolishly seeking to cleanse the undeath from the City of the Dead.
 
 # Players & Characters
 

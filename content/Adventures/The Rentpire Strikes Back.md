@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:51.256-05:00
-published: 2026-02-18T14:44:51.256-05:00
+modified: 2026-03-28T22:59:42.390-04:00
+published: 2026-03-28T22:59:42.390-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -33,13 +33,26 @@ Classes:
   - Barbarian
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2024-09-12
-- **In-World Dates:** 264-06-23 - 264-06-27
+> [!infobox]
+>
+> ## The Rentpire Strikes Back
+>
+> ![[z_assets/waverender.png|500]]
+>
+> > \[!caption|center]
+> > A "Waverender", one of Boss Renton's scrap ships
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2024-09-12
+>
+> **In-World Dates**: 264-06-23
 
 # Adventure Premise
 
