@@ -1,3 +1,62 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
+@use "sass:map";
+// put your custom CSS here!
+
+/* -- Morrowind Modding Wiki SCSS Modules for cooler things-- */
+@use "./custom/infobox-callout.scss";
+@use "./custom/image-adjustments.scss";
+@use "./custom/callout-adjustments.scss";
+@use "./custom/column-callout.scss";
+@use "./custom/caption-callout.scss";
 
 // put your custom CSS here!
+
+// Adding some spacing between entries in the explorer
+div.explorer {
+    .overflow {
+        li {
+            li {
+                margin-bottom: 0.3rem;
+            }
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+// expands to match wide monitors better (I think)
+@media all and ($desktop) {
+  body div#quartz-root.page div#quartz-body {
+    width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
+    max-width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
+    padding: 0 auto;
+  }
+}
+
+/* Force borders on Quartz Callout Infoboxes */
+.callout[data-callout="infobox"] {
+  border: 1px solid #22a578 !important;
+  border-collapse: collapse !important;
+  margin-bottom: 1rem !important;
+  padding: 5px !important;
+  background-color: transparent !important; /* Ensures the background doesn't hide the border */
+}
+
+/* DATAVIEW TABLE FIX: fix width for dataview and standard tables */
+body table {
+  width: 100% !important;   /* Force the table to span the full available width */
+  display: table !important;
+  border-collapse: collapse;
+  margin: 1.5rem 0;        /* Space out tables from text */
+  table-layout: auto;      /* Allows columns to size based on content */
+  clear: both;             /* IMPORTANT: Forces table below floating infoboxes if space is tight */
+}
+
+/* Ensure table cells don't force weird wrapping */
+body table th, body table td {
+  white-space: normal;     /* Allows text to wrap naturally */
+  word-break: normal;
+  padding: 8px;            /* Gives the data some breathing room */
+}
