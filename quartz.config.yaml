@@ -1,6 +1,8 @@
+#yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Welcome to Selerim
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -200,7 +202,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options: {}
