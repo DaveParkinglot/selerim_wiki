@@ -71,7 +71,7 @@ plugins:
     enabled: true
     options:
       comments: true
-      highlight: true
+      highlight: false
       wikilinks: true
       callouts: true
       mermaid: true
