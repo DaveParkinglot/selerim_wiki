@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T08:11:09.000-05:00
-modified: 2026-03-27T15:00:46.657-04:00
-published: 2026-03-27T15:00:46.657-04:00
+modified: 2026-03-29T08:29:41.000-04:00
+published: 2026-03-29T08:29:41.000-04:00
 DM: Jordan
 Players:
   - David
@@ -36,7 +36,7 @@ Classes:
 >
 > ![[z_assets/hellfist.png|300]]
 >
-> > [!caption]
+> > \[!caption|center]
 > > The Hellfist
 >
 > ## Details

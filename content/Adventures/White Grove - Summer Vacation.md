@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-16T21:13:04.000-04:00
-modified: 2026-03-29T00:09:07.867-04:00
-published: 2026-03-29T00:09:07.867-04:00
+modified: 2026-03-29T08:42:44.825-04:00
+published: 2026-03-29T08:42:44.825-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 4
@@ -38,7 +38,7 @@ Classes:
 >
 > ## White Grove - Summer Vacation
 >
-> ![[z_assets/Pasted image 20260328235811.png|500]]
+> ![[z_assets/leviathan_lagoon.png|500]]
 >
 > > \[!caption|center]
 > > Leviathan Lagoon, the best spot to relax after finals week

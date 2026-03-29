@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T11:30:00.000-04:00
-modified: 2026-03-28T23:00:24.849-04:00
-published: 2026-03-28T23:00:24.849-04:00
+modified: 2026-03-29T10:43:57.018-04:00
+published: 2026-03-29T10:43:57.018-04:00
 DM: Jordan
 Platform:
   - Foundry
@@ -102,7 +102,7 @@ The OG campaign.
 
 ### Adventure Premise
 
-- End the threat to [[Crabbley]] and [[Crillville]] by eliminating [[Malmstein the Tangler]] and his terroristic druid organization [[The Tanglers]].
+- End the threat to [[Crabbley]] and [[Crillville]] by eliminating [[Malmstein the Tangler]] and the eco-terrorist cell [[The Tanglers]].
 
 ### Outcomes
 

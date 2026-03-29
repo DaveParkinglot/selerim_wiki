@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-29T00:05:16.733-04:00
-published: 2026-03-29T00:05:16.733-04:00
+modified: 2026-03-29T08:43:03.152-04:00
+published: 2026-03-29T08:43:03.152-04:00
 DM: Bishop
 Platform: Foundry
 Sessions: 1
@@ -32,7 +32,7 @@ Classes:
 >
 > ## The White Death Strikes
 >
-> ![[z_assets/Pasted image 20260328230715.png|400]]
+> ![[z_assets/white_death.png|400]]
 >
 > > \[!caption|center]
 > > The titular "White Death"

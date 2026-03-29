@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-28T08:16:48.666-04:00
-published: 2026-03-28T08:16:48.666-04:00
+modified: 2026-03-29T11:14:14.224-04:00
+published: 2026-03-29T11:14:14.224-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -63,7 +63,7 @@ Classes:
 - After leaving town, they ventured through the Tanglewood Wilds until they reached the old Greenspring Trail.
 - While traveling the trail, they looted a dead member of the [[Crillville Defense Force]] and barely escaped an ambush by crocodiles, thanks to a friendly mud mephit named Jiggy Mudpie.
 - Unbelievably, the manticore Old Crimsonclaw's nest was made atop the Leaky Bucket, the lost sailing ship of the famous privateer [[Captain Winchester Bone]].
-- After handedly dispatching the manticore, the party was able to loot both the ship and the beast, finding many magical items and a disturbing note from the mutated manticore's creator, [[Beezlebop|"The Gray Mage of Tanglewood"]].
+- After handedly dispatching the manticore, the party was able to loot both the ship and the beast, finding many magical items and a disturbing note from the mutated manticore's creator, the [[Beezlebop|"Gray Mage of Tanglewood"]].
 
 # Players & Characters
 

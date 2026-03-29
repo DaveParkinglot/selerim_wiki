@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T08:02:27.000-04:00
-modified: 2026-03-29T00:09:22.086-04:00
-published: 2026-03-29T00:09:22.086-04:00
+modified: 2026-03-29T08:42:58.157-04:00
+published: 2026-03-29T08:42:58.157-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 4
@@ -38,7 +38,7 @@ Classes:
 >
 > ## Voyage a la Isla Ruz
 >
-> ![[z_assets/Pasted image 20260328235236.png|500]]
+> ![[z_assets/isla_ruz_gladiator.png|500]]
 >
 > > \[!caption|center]
 > > Gladiatorial combat on Isla Ruz

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-28T23:47:23.819-04:00
-published: 2026-03-28T23:47:23.819-04:00
+modified: 2026-03-29T08:44:55.248-04:00
+published: 2026-03-29T08:44:55.248-04:00
 DM: Jordan
 Platform: Roll20
 Sessions: 1
@@ -43,7 +43,7 @@ Classes:
 > ![[z_assets/avatar.png|500]]
 >
 > > \[!caption|center]
-> > The ruined Forge of Dingon
+> > The moldering Forge of Dingon
 >
 > ## Details
 >
