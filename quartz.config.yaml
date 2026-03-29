@@ -14,6 +14,9 @@ configuration:
     - private
     - templates
     - .obsidian
+    - .z_
+    - z_Selerim Timeline Events
+    - z_Templates
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
@@ -254,8 +257,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme
-      variation: ttrpg-dnd
+      theme: reverie
 layout:
   groups:
     toolbar:
