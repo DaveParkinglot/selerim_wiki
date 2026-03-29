@@ -53,7 +53,7 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: modified
+      defaultDateType: created
       priority:
         - frontmatter
         - git
@@ -149,6 +149,11 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: Explorer
+      folderClickBehavior: collapse
+      folderDefaultState: collapsed
+      useSavedState: false
     layout:
       position: left
       priority: 50
