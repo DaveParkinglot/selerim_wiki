@@ -267,6 +267,15 @@ plugins:
     enabled: true
     order: 50
     options: {}
+  - source: github:Requiae/quartz-leaflet-bases-plugin
+    enabled: true
+    order: 50
+    options:
+      enableCopyTool: false
+  - source: github:quartz-community/obsidian-plugin-leaflet
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:
