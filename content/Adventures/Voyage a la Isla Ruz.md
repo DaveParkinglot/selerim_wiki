@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T08:02:27.000-04:00
-modified: 2026-03-28T23:52:41.121-04:00
-published: 2026-03-28T23:52:41.121-04:00
+modified: 2026-03-29T00:09:22.086-04:00
+published: 2026-03-29T00:09:22.086-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 4
@@ -51,9 +51,9 @@ Classes:
 >
 > **Sessions**: 4
 >
-> **Run Dates**: 2025-07-31
+> **Run Dates**: 2025-07-31 - 2025-10-23
 >
-> **In-World Dates**: 265-10-28
+> **In-World Dates**: 265-10-28 - 265-11-15
 
 # Adventure Premise
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-29T00:05:27.886-04:00
-published: 2026-03-29T00:05:27.886-04:00
+modified: 2026-03-29T00:09:44.236-04:00
+published: 2026-03-29T00:09:44.236-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -52,7 +52,7 @@ Classes:
 >
 > **Run Dates**: 2024-09-12
 >
-> **In-World Dates**: 264-06-23
+> **In-World Dates**: 264-06-23 - 264-06-27
 
 # Adventure Premise
 
