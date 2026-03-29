@@ -1,4 +1,4 @@
-> Recap of all the happenings in [[Vlorngroth]].
+> Recap of all the happenings in [[Vlorngroth]]. Each section header links to the respective adventure.
 
 ## [[Vlorngroth - The Manor of Madness|The Manor of Madness]]
 

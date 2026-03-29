@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T09:55:09.000-04:00
-modified: 2026-03-27T11:16:00.197-04:00
-published: 2026-03-27T11:16:00.197-04:00
+modified: 2026-03-29T00:12:44.061-04:00
+published: 2026-03-29T00:12:44.061-04:00
 Type:
   - Capital City
 Age (years): 1250
@@ -49,6 +49,7 @@ Author: Jordan
 - Light from the phosphorescent Fungal Firmament casts a twilight glow upon the city.
 - Vlorngroth has long been the seat of power for the [[Vlorn Dynasty]], an empire long forgotten by most surface dwellers.
 - [[Vlorn Dynasty]] is a ruthless meritocracy.
+- [[Vlorngroth Setting Recap]] contains a chronicle of recent happenings.
 
 # Attributes
 
