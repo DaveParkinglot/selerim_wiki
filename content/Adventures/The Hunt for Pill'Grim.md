@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:41.958-05:00
-published: 2026-02-18T14:44:41.958-05:00
+modified: 2026-03-28T21:30:47.024-04:00
+published: 2026-03-28T21:30:47.024-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -36,13 +36,26 @@ Classes:
   - Cleric
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** In person
-- **Sessions:** 1
-- **Run Dates:** 2023-11-25
-- **In-World Dates:** 263-11-25
+> [!infobox]
+>
+> ## The Hunt for Pill'Grim
+>
+> ![[z_assets/Pasted image 20260328213003.png|500]]
+>
+> > \[!caption|center]
+> > The dastardly turkey villain Pill'Grim with his signature corn cob repeating musket
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: In person
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2023-11-25
+>
+> **In-World Dates**: 263-11-25
 
 # Adventure Premise
 

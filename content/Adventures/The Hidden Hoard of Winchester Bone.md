@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:36.471-05:00
-published: 2026-02-18T14:44:36.471-05:00
+modified: 2026-03-28T20:33:18.383-04:00
+published: 2026-03-28T20:33:18.383-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -32,13 +32,26 @@ Classes:
   - Rogue
 ---
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2024-02-17
-- **In-World Dates:** 263-09-05
+> [!infobox]
+>
+> ## The Hidden Hoard of Winchester Bone
+>
+> ![[z_assets/Pasted image 20260328202633.png|500]]
+>
+> > \[!caption|center]
+> > Bone's hidden hoard, complete with decorative skeletons
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2024-02-17
+>
+> **In-World Dates**: 263-09-05
 
 # Adventure Premise
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-02-18T14:44:44.031-05:00
-published: 2026-02-18T14:44:44.031-05:00
+modified: 2026-03-28T21:51:26.175-04:00
+published: 2026-03-28T21:51:26.175-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -43,17 +43,31 @@ Classes:
 Handouts:
 [[The Lost Archives of Wigglestaff Handout]]
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry
-- **Sessions:** 1
-- **Run Dates:** 2024-05-02
-- **In-World Dates:** 264-04-10
+> [!infobox]
+>
+> ## The Lost Archives of Wigglestaff
+>
+> ![[z_assets/Pasted image 20260328215018.png|500]]
+>
+> > \[!caption|center]
+> > The abandoned tower of the wizard Wigglestaff
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 1
+>
+> **Run Dates**: 2024-05-02
+>
+> **In-World Dates**: 264-04-10
 
 # Adventure Premise
 
-- [[Dick Gunbarrel]], commander of the [[Crillville Defense Force]] (CDF) has placed a bounty on the head of Ringleader Redtusk, a half-ogre warlord who has suddenly appeared in the region. Investigate what Redtusk is doing on the island of the former gnome Wigglestaff, and bring his head back to [[Crillville]] to make a name for yourself.
+- [[Dick Gunbarrel]], commander of the [[Crillville Defense Force]] (CDF) has placed a bounty on the head of Ringleader Redtusk, a half-ogre warlord who has suddenly appeared in the region.
+- Investigate what Redtusk is doing on the island of the wizard Wigglestaff, and bring his head back to [[Crillville]] to make a name for yourself.
 
 # Outcomes
 

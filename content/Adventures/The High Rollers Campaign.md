@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T11:30:00.000-04:00
-modified: 2026-03-24T11:32:32.641-04:00
-published: 2026-03-24T11:32:32.641-04:00
+modified: 2026-03-28T20:46:08.496-04:00
+published: 2026-03-28T20:46:08.496-04:00
 DM: Jordan
 Platform:
   - Foundry
@@ -60,13 +60,26 @@ Classes:
 The OG campaign.
 [Session Notes and Campaign Calendar archived here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDrepZ6ufuBd06czok7yZsXPGo6cuFXygRQpcnKU0MQsEsPHQac3FE7obJlYtZXZ4WPgaxIftdBcd-/pubhtml).
 
-# Details
-
-- **DM**: Jordan
-- **Platform:** Foundry,Roll20
-- **Sessions:** 71
-- **Run Dates:** 2022-07-25 - 2024-05-24
-- **In-World Dates:** 263-08-07 - 264-04-05
+> [!infobox]
+>
+> ## The High Rollers Campaign
+>
+> ![[z_assets/Pasted image 20260328204552.png|500]]
+>
+> > \[!caption|center]
+> > The coronation of King Antonino Esposito I
+>
+> ## Details
+>
+> **DM**: Jordan
+>
+> **Platform**: Foundry, Roll20
+>
+> **Sessions**: 71
+>
+> **Run Dates**: 2022-07-25 - 2024-05-24
+>
+> **In-World Dates**: 263-08-07 - 264-04-05
 
 # Players & Characters
 
