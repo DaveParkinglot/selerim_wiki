@@ -1,5 +1,7 @@
 #yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 
+#yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Welcome to Selerim
@@ -9,7 +11,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: daveparkinglot.github.io
+  baseUrl: daveparkinglot.github.io/selerim_wiki
   ignorePatterns:
     - private
     - templates
