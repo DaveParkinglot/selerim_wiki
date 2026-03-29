@@ -250,7 +250,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
@@ -276,7 +276,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      enableCopyTool: false
+      enableCopyTool: true
   - source: github:quartz-community/obsidian-plugin-leaflet
     enabled: true
     order: 50
