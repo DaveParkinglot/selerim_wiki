@@ -214,10 +214,9 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-  enabled: true
-  options:
-    provider: giscus
+    enabled: true
     options:
+      provider: giscus
       repo: DaveParkinglot/selerim_wiki
       repoId: R_kgDOQTBrDQ
       category: General
