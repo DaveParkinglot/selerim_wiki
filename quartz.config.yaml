@@ -269,7 +269,7 @@ plugins:
     options:
       theme: reverie
   - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
-    enabled: true
+    enabled: false
     order: 50
     options: {}
   - source: github:Requiae/quartz-leaflet-bases-plugin
@@ -278,7 +278,7 @@ plugins:
     options:
       enableCopyTool: true
   - source: github:quartz-community/obsidian-plugin-leaflet
-    enabled: true
+    enabled: false
     order: 50
     options: {}
 layout:
