@@ -217,11 +217,12 @@ plugins:
     enabled: true
     options:
       provider: giscus
-      repo: DaveParkinglot/selerim_wiki
-      repoId: R_kgDOQTBrDQ
-      category: General
-      categoryId: DIC_kwDOQTBrDc4C5jp-
-      lang: en
+      options:
+        repo: DaveParkinglot/selerim_wiki
+        repoId: R_kgDOQTBrDQ
+        category: General
+        categoryId: DIC_kwDOQTBrDc4C5jp-
+        lang: en
     layout:
       position: afterBody
       priority: 10
