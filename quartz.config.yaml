@@ -71,7 +71,7 @@ plugins:
     enabled: true
     options:
       comments: true
-      highlight: false
+      highlight: true
       wikilinks: true
       callouts: true
       mermaid: true
@@ -214,10 +214,15 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: true
+  enabled: true
+  options:
+    provider: giscus
     options:
-      provider: giscus
-      options: {}
+      repo: DaveParkinglot/selerim_wiki
+      repoId: R_kgDOQTBrDQ
+      category: General
+      categoryId: DIC_kwDOQTBrDc4C5jp-
+      lang: en
     layout:
       position: afterBody
       priority: 10
@@ -258,9 +263,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: github:Requiae/quartz-leaflet-map-plugin
-    enabled: true
-    options: {}
   - source:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
