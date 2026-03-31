@@ -49,6 +49,7 @@ Author: Jordan
 
 > \[!quote|clean]
 > _"Well hey fellas!"_
+> 
 > Bopus, all the time
 
 ## [[The High Rollers Campaign|The High Rollers Campaign]]
