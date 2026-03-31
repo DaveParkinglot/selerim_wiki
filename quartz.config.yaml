@@ -13,7 +13,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: daveparkinglot.github.io
+  baseUrl: daveparkinglot.github.io/selerim_wiki_v5
   ignorePatterns:
     - private
     - templates
