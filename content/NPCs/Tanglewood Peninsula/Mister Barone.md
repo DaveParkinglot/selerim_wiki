@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:27:17.612-04:00
-published: 2026-03-26T16:27:17.612-04:00
 Age: "33"
 Ancestry: Hobgoblin
 Gender: Male
@@ -17,42 +13,36 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox]
->
 > ## Mister Barone
->
-> ![[z_assets/mister_barone.png|300]]
->
+> ![[mister_barone.png|300]]
 > ## Details
->
-> **Age**: 33
->
-> **Ancestry**: Hobgoblin
->
-> **Gender**: Male
->
-> **Location**: [[Places/Crabbley.md|Crabbley]]
->
-> **Role**: Bouncer
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - The tough burly bouncer at The Soggy Bottom Tavern, he has put the beatdown on many people who deserved it and some who didn't.
 - Once, while doing his job, his uppercut knocked [[Tadeusz]] 10 feet into the air.
 
 # Attributes
-
 - **Voice**: Stupid
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 

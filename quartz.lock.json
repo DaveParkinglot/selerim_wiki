@@ -173,13 +173,13 @@
       "source": "github:quartz-community/obsidian-plugin-leaflet",
       "resolved": "https://github.com/quartz-community/obsidian-plugin-leaflet.git",
       "commit": "a99880935166871025ab3f0c06e39ed344de41ec",
-      "installedAt": "2026-03-31T13:03:19.931Z"
+      "installedAt": "2026-03-31T13:17:56.291Z"
     },
     "obsidian-plugin-ttrpg-tools-maps": {
       "source": "github:quartz-community/obsidian-plugin-ttrpg-tools-maps",
       "resolved": "https://github.com/quartz-community/obsidian-plugin-ttrpg-tools-maps.git",
       "commit": "c4e82603fbefc908fce10014255faa4303752c5b",
-      "installedAt": "2026-03-31T13:03:19.878Z"
+      "installedAt": "2026-03-31T13:17:55.927Z"
     },
     "og-image": {
       "source": "github:quartz-community/og-image",

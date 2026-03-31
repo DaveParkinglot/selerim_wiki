@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-12-14T09:47:35.000-05:00
-modified: 2026-03-27T16:11:20.000-04:00
-published: 2026-03-27T16:11:20.000-04:00
 DM: Jordan
 Players:
   - Mike Doom
@@ -29,43 +25,37 @@ Classes:
   - Rogue
   - Wizard
 ---
-
 > [!infobox]
->
 > ## Back to the Ship
+> ![[back_to_the_ship.png|600]]
+> > [!caption|center]
+> >Exterior view of Deep Rock Mining Outpost #7781
 >
-> ![[z_assets/back_to_the_ship.png|600]]
+>## Details
 >
-> > \[!caption|center]
-> > Exterior view of Deep Rock Mining Outpost #7781
->
-> ## Details
->
-> **DM**: Jordan
->
-> **Platform**: Foundry
->
-> **Sessions**: 1
->
-> **Run Dates**: 2025-12-11
->
-> **In-World Dates**: 5050-13-20
+> **DM**: `= join(this.DM, ", ")`
+> 
+> **Platform**: `= join(this.Platform, ", ")`
+> 
+> **Sessions**: `= join(this.Sessions, ", ")`
+> 
+> **Run Dates**: `= join(dateformat(this["Start Date"], "yyyy-MM-dd"), ", ")`
+> 
+> **In-World Dates**: `= join(this["In-World Start Date"], ", ")`
 
 # Adventure Premise
-
 - While working on a routine [[Giftmas]] delivery in the Krampus System, you and your shipmates are stranded at a mining outpost whose occupants have mysteriously vanished.
 
 # Outcomes
-
 - The Deep Rock Delivery Services employees discovered that Deep Rock Mining Outpost #7781 was infested with gingerbread monsters and gingerbread puddings, which were created from the occupants of the facility.
 - The crew realized that a nutmeg plant had caused the infestation, and that its roots went deep into the facility, too deep to kill.
 - After fighting their way out of the outpost, ship pilot Nino Bustledorf picked the crew up and they escaped off-world.
 - Notable crew member Shew Mortico was frozen in the ice and eventually evaporated in the fleeing ship's drive plume.
 
 # Players & Characters
-
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Mike Doom | Francis "Voidstrider" De Luca | Human | Cleric |
-| Ethan | Cran Halcard | Human | Rogue |
-| Gorrie | Liro Ashe | Elf | Wizard |
+| `= this.Players[0]` | `= this.Characters[0]` | `= this.Races[0]` | `= this.Classes[0]` |
+| `= this.Players[1]` | `= this.Characters[1]` | `= this.Races[1]` | `= this.Classes[1]` |
+| `= this.Players[2]` | `= this.Characters[2]` | `= this.Races[2]` | `= this.Classes[2]` |
+

@@ -1,14 +1,10 @@
 ---
-publish: true
-created: 2025-08-21T11:41:30.000-04:00
-modified: 2025-12-20T18:05:02.453-05:00
-published: 2025-12-20T18:05:02.453-05:00
 Author: Jordan
 ---
 
 List of deities relevant to the world of Selerim that have come up so far (not an exhaustive list).
 
-For a more exhaustive list of potential deities, visit <https://5e.tools/deities.html>.
+For a more exhaustive list of potential deities, visit [https://5e.tools/deities.html](https://5e.tools/deities.html).
 
 | **Deity**                           | **Alignment**  | **Category/**<br><br>**Pantheon**    | **Domains**              | **Province**                         | **Symbol**                                         | **5etools Link**                                                              |
 | ----------------------------------- | -------------- | ------------------------------------ | ------------------------ | ------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------------------------- |

@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T16:26:16.046-04:00
-published: 2026-03-26T16:26:16.046-04:00
 Age: "78"
 Ancestry: Dwarf
 Gender: Male
@@ -17,41 +13,35 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox]
->
 > ## Casper Wolcott
->
-> ![[z_assets/casper_wolcott.png|300]]
->
+> ![[casper_wolcott.png|300]]
 > ## Details
->
-> **Age**: 78
->
-> **Ancestry**: Dwarf
->
-> **Gender**: Male
->
-> **Location**: [[Places/Crabbley.md|Crabbley]]
->
-> **Role**: Blacksmith
->
-> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
-Crabbley's one and only strong armed, big bearded blacksmith.
+Crabbley's one and only strong armed, big bearded blacksmith. 
 
 # Attributes
-
-- **Voice**:
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Voice**: 
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 

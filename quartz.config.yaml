@@ -6,14 +6,14 @@
 
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Welcome to Selerim
+  pageTitle: Selerim Wiki
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: daveparkinglot.github.io/selerim_wiki
+  baseUrl: daveparkinglot.github.io
   ignorePatterns:
     - private
     - templates
@@ -231,7 +231,6 @@ plugins:
     options:
       links:
         GitHub Repo: https://github.com/DaveParkinglot/selerim_wiki
-        D&D Discord Community: https://discord.gg/2HJh5jbmYw
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -270,19 +269,11 @@ plugins:
     enabled: true
     options:
       theme: reverie
-  - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
-    enabled: false
-    order: 50
-    options: {}
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
     order: 50
     options:
       enableCopyTool: true
-  - source: github:quartz-community/obsidian-plugin-leaflet
-    enabled: false
-    order: 50
-    options: {}
 layout:
   groups:
     toolbar:

@@ -4,6 +4,7 @@
 /* ---- Callout Adjustments ---- */
 
 /* --- Positioning --- */
+:root {
 .callout.callout.callout[data-callout-metadata~=left] {
   float: left;
   margin: unset;
@@ -248,4 +249,5 @@
 [data-callout-metadata~=no-table-header]) > .callout-content table thead, .callout:is([data-callout-metadata~=n-th],
 [data-callout-metadata~=no-table-header]) > .callout-content table th {
   display: none;
+}
 }

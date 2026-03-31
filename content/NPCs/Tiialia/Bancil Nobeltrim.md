@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:28:19.065-04:00
-published: 2026-03-26T16:28:19.065-04:00
 Age: "29"
 Ancestry: Half-Elf
 Gender: Male
@@ -17,51 +13,44 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox]
->
 > ## Bancil Nobeltrim
->
-> ![[z_assets/bancil_nobeltrim.png|300]]
->
+> ![[bancil_nobeltrim.png|300]]
 > ## Details
->
-> **Age**: 29
->
-> **Ancestry**: Half-Elf
->
-> **Gender**: Male
->
-> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
->
-> **Role**: Former Member of The High Roller, Paladin, Family Guy
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - Bancil was taken into the temple of Tyr as a child when his savior, [[Dick Gunbarrel]] rescued him from a goblin attack on his village.
 - He was raised on tales of the xenophobic folk hero Mogul Taybuck, who punished immigrants and had 13 children.
 
 ## **[[The High Rollers Campaign|The High Rollers Campaign]]**
-
 - Originally Logan's player character.
-- A paladin of the god of justice, Tyr. Bancil hails from Crillville.
+- A paladin of the god of justice, Tyr. Bancil hails from Crillville. 
 - Bancil adventured with The High Rollers for a long while after besting [[Tadeusz]] in a duel to prove his worth.
 - Bancil, along with the other High Rollers, performed both great and terrible deeds while adventuring.
 - After the adventuring party deposed [[Lord Davos Portnoir]], Bancil travelled with his family [[Nova Jersaeria]] to spread justice and the word of Tyr.
 
 # Attributes
-
 - **Voice**: for honor! for valor!
-- **Traits**:
-  - I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods. I idolize a particular hero of my faith, and constantly refer to that person’s deeds and example.
-  - I put too much trust in those who wield power within my temple’s hierarchy.
-  - Ideal: Charity. I always try to help those in need, no matter what the personal cost. (Good)
+- **Traits**: 
+	- I am tolerant (or intolerant) of other faiths and respect (or condemn) the worship of other gods. I idolize a particular hero of my faith, and constantly refer to that person’s deeds and example. 
+	- I put too much trust in those who wield power within my temple’s hierarchy.
+	- Ideal: Charity. I always try to help those in need, no matter what the personal cost. (Good)
 - **Goals:** Find a safe home for his family, spread the good word of Tyr
 - **Appearance**: Red haired handsome half elf wearing plate armor
 
