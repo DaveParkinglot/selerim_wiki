@@ -2,6 +2,7 @@
 @use "../variables.scss" as *;
 
 /*----Image Positions/Adjustments----*/
+:root {
 body {
     --micro: 70px;
     --tiny: 100px;
@@ -501,4 +502,4 @@ body {
   .img-adj-list :is(ul, ol) {
     display: flow-root;
   }
-    
+}    
