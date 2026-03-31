@@ -7,7 +7,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Selerim Wiki
-  pageTitleSuffix: "Welcome to Selerim"
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
