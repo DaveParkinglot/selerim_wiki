@@ -166,8 +166,20 @@
     "obsidian-flavored-markdown": {
       "source": "github:quartz-community/obsidian-flavored-markdown",
       "resolved": "https://github.com/quartz-community/obsidian-flavored-markdown.git",
-      "commit": "9c6f17e56f17453b828946ad8ff6d609159be8c9",
-      "installedAt": "2026-03-27T22:29:00.990Z"
+      "commit": "105a59c2f59cd1919c6663b79ae71f9932c399d0",
+      "installedAt": "2026-03-31T13:01:11.020Z"
+    },
+    "obsidian-plugin-leaflet": {
+      "source": "github:quartz-community/obsidian-plugin-leaflet",
+      "resolved": "https://github.com/quartz-community/obsidian-plugin-leaflet.git",
+      "commit": "a99880935166871025ab3f0c06e39ed344de41ec",
+      "installedAt": "2026-03-31T13:03:19.931Z"
+    },
+    "obsidian-plugin-ttrpg-tools-maps": {
+      "source": "github:quartz-community/obsidian-plugin-ttrpg-tools-maps",
+      "resolved": "https://github.com/quartz-community/obsidian-plugin-ttrpg-tools-maps.git",
+      "commit": "c4e82603fbefc908fce10014255faa4303752c5b",
+      "installedAt": "2026-03-31T13:03:19.878Z"
     },
     "og-image": {
       "source": "github:quartz-community/og-image",
@@ -187,11 +199,11 @@
       "commit": "2c1ec1c3bdc9993fd92c8b0ca26a646c61872573",
       "installedAt": "2026-03-25T23:34:58.746Z"
     },
-    "quartz-leaflet-map-plugin": {
-      "source": "github:Requiae/quartz-leaflet-map-plugin",
-      "resolved": "https://github.com/Requiae/quartz-leaflet-map-plugin.git",
+    "quartz-leaflet-bases-plugin": {
+      "source": "github:Requiae/quartz-leaflet-bases-plugin",
+      "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
       "commit": "38424abb80929bc013d106d2fd3e9c426e00cc24",
-      "installedAt": "2026-03-29T15:51:02.822Z"
+      "installedAt": "2026-03-31T13:03:19.904Z"
     },
     "quartz-themes": {
       "source": {
@@ -200,9 +212,9 @@
         "subdir": "plugin"
       },
       "resolved": "https://github.com/saberzero1/quartz-themes.git",
-      "commit": "014ac86872cb9370fbb005b9c476c72918afb251",
+      "commit": "b124e385ca4ff482b635573cc4a24b087f35eb3d",
       "subdir": "plugin",
-      "installedAt": "2026-03-30T14:18:51.302Z"
+      "installedAt": "2026-03-31T13:01:50.509Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
