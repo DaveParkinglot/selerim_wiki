@@ -2,8 +2,8 @@
 publish: true
 title: Crillville, Harbor Town
 created: 2025-10-09T14:45:41.000-04:00
-modified: 2026-03-26T16:53:09.577-04:00
-published: 2026-03-26T16:53:09.577-04:00
+modified: 2026-03-31T13:58:27.742-04:00
+published: 2026-03-31T13:58:27.742-04:00
 Type:
   - Town
 Age (years): 80
@@ -17,11 +17,11 @@ Appearances:
   - "[[The Lost Archives of Wigglestaff]]"
   - "[[The Rentpire Strikes Back]]"
 marker:
-  mapName: InteractiveMap
-  x: 1590
-  y: 565
-  icon: game-icons:medieval-village-01
-  colour: blue
+  - coordinates: 1130, 3180
+    icon: lucide-house
+    colour: "#0000ff"
+    minZoom: -4
+    mapName: Inhabitable_Lands_Map
 Author: Jordan
 ---
 
@@ -60,9 +60,3 @@ Author: Jordan
   - Goblins and orcs from another world attacked Crillville once, and some are still at large in the northern forests
 - **Points of Interest**:
   - The Big Shrimp (Tavern)
-
-# Hooks
-
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

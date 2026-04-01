@@ -4,8 +4,8 @@ aliases:
   - Sir Chauncy
   - Chauncy the Brave
 created: 2025-08-12T09:01:12.000-04:00
-modified: 2026-03-27T14:17:14.571-04:00
-published: 2026-03-27T14:17:14.571-04:00
+modified: 2026-04-01T12:16:12.494-04:00
+published: 2026-04-01T12:16:12.494-04:00
 Age: "26"
 Ancestry:
   - Fiend (Devil)
@@ -29,7 +29,14 @@ Author: Jordan
 >
 > ## Chauncy the Unrepentant
 >
-> ![[z_assets/chauncy_the_unrepentant.png|300]]
+> ![[z_assets/brave_sir_chauncy.png|300]]
+>
+> > \[!caption|center]
+> > Sir Chauncy, before his death
+> > ![[z_assets/chauncy_the_unrepentant.png|300]]
+>
+> > \[!caption|center]
+> > Hellknight Chauncy
 >
 > ## Details
 >
@@ -51,7 +58,7 @@ Author: Jordan
 
 # Overview
 
-Formerly a decorated war hero of [[Tiialia]], Brave Sir Chauncy has fallen far, becoming becoming a Hellknight of the Nine Hells.
+Formerly a decorated war hero of [[Tiialia]], brave Sir Chauncy has fallen far. After his death, he became a Hellknight and eventually was imprisoned in Carceri.
 
 ## [[Dunland's Raiders|Dunland's Raiders]]
 

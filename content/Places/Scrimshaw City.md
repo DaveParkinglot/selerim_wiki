@@ -5,8 +5,8 @@ aliases:
   - The Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T12:30:40.000-04:00
-modified: 2026-03-27T11:46:58.836-04:00
-published: 2026-03-27T11:46:58.836-04:00
+modified: 2026-03-31T13:59:05.011-04:00
+published: 2026-03-31T13:59:05.011-04:00
 Type:
   - Free City
 Age (years): 450
@@ -22,11 +22,11 @@ Appearances:
   - "[[Spring Cleaning in Scrimshaw City]]"
   - "[[The Hellnight Soirée]]"
 marker:
-  mapName: InteractiveMap
-  x: 1575
-  y: 410
-  icon: game-icons:medieval-gate
-  colour: blue
+  - coordinates: 815, 3155
+    icon: lucide-anchor
+    colour: "#0000ff"
+    minZoom: -4
+    mapName: Inhabitable_Lands_Map
 Author: Jordan
 ---
 
@@ -82,9 +82,3 @@ Author: Jordan
   - The Pit
   - The High Roller Bar & Grille
   - The Shanties
-
-# Hooks
-
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

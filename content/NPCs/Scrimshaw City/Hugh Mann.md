@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - El Presidente Hugh Mann
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-27T12:17:39.900-04:00
-published: 2026-03-27T12:17:39.900-04:00
+modified: 2026-04-01T12:10:15.020-04:00
+published: 2026-04-01T12:10:15.020-04:00
 Age: "326"
 Ancestry:
   - Fiend (Devil)

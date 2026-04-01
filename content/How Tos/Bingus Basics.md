@@ -10,18 +10,18 @@
 3. **Action:** Attack an enemy NPC with Bingus' greatsword.
 4. Use Reckless Attack feature to gain Advantage on the attack. Even if Bingus misses, his greatsword does 4 damage due to its Graze Mastery property.
 
-> Pro tip: The above turn makes use of all your per-turn resources (Movement, Bonus Action, and Action). If you do nothing but these 4 things on your turn, you will already be more effective than 75% of D\&D players.
+> [!note] Pro tip: The above turn makes use of all your per-turn resources (Movement, Bonus Action, and Action). If you do nothing but these 4 things on your turn, you will already be more effective than 75% of D\&D players.
 
 # Bingus Combat Example
 
-> The Situation: Sitting at a ramshackle tavern on the side of the road, Bingus orders a 20% IPA but is served a 15% IPA by a small, miserly tavernkeeper.
+> [!note] The Situation: Sitting at a ramshackle tavern on the side of the road, Bingus orders a 20% IPA but is served a 15% IPA by a small, miserly tavernkeeper.
 > Bingus decides the tavernkeeper's payment will be the steel of his infamous greatsword, Gargoyle.
 
 1. When the DM asks, roll for Initiative! Your Initiative for the combat equals your D20 roll + 2 (your Dexterity modifier).
 2. Wait for your turn...
 3. On your turn, describe to everyone what Bingus does:
 
-> "Entering a drunken Rage, Bingus vaults the bar and unsheathes Gargoyle, recklessly swinging it at the miserly tavernkeeper who dared to serve him a watered down IPA!"
+> [!note] "Entering a drunken Rage, Bingus vaults the bar and unsheathes Gargoyle, recklessly swinging it at the miserly tavernkeeper who dared to serve him a watered down IPA!"
 
 4. If applicable, move Bingus' token up to 30 ft. toward the miserly tavernkeeper.
 5. Activate the barbarian Rage feature.

@@ -2,8 +2,8 @@
 publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T16:13:07.000-05:00
-modified: 2026-03-27T13:37:42.194-04:00
-published: 2026-03-27T13:37:42.194-04:00
+modified: 2026-03-31T13:58:15.504-04:00
+published: 2026-03-31T13:58:15.504-04:00
 Type:
   - Hamlet
 Age (years): 200
@@ -17,11 +17,11 @@ Author: Jordan
 Appearances:
   - None
 marker:
-  mapName: InteractiveMap
-  x: 1700
-  y: 635
-  icon: game-icons:huts-village
-  colour: yellow
+  - coordinates: 1278, 3396
+    icon: lucide-house
+    colour: "#cfb53b"
+    minZoom: -4
+    mapName: Inhabitable_Lands_Map
 aliases:
 ---
 
@@ -62,9 +62,3 @@ aliases:
   - Roadside Provisions, general store run by Hemmy Gurpend
   - Borfield High, a poorly run and unfunded high school with a pitiful graduation rate. It is situated in the ruins of a castle on the outskirts of town
   - Dumptrash Canyon, a fractured magical leyline filled with [[Violet Bleed]]. Borfield residents throw their trash in it because, as they've observed, it slowly dissolves anything that falls into it
-
-# Hooks
-
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3
