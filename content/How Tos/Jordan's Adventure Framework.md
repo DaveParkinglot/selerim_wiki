@@ -1,4 +1,4 @@
-> [!quote] _“It doesn’t matter if it is good, it only matters if it rocks.”_ - unknown bard
+> _“It doesn’t matter if it is good, it only matters if it rocks.”_ - unknown bard
 
 # Introductory Notes
 
@@ -10,7 +10,7 @@
 
 ---
 
-> [!note] Parts 0-4 below provide a list of the things you need to do to get your adventure up and running (Parts 0-4). I’ve also added some helpful stuff at the end, but you don’t need that to make your adventure.
+> Parts 0-4 below provide a list of the things you need to do to get your adventure up and running (Parts 0-4). I’ve also added some helpful stuff at the end, but you don’t need that to make your adventure.
 
 # Part 0: The Premise & Setup
 

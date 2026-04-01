@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-31T07:53:00.000-04:00
-published: 2026-03-31T07:53:00.000-04:00
+modified: 2026-03-26T16:25:04.471-04:00
+published: 2026-03-26T16:25:04.471-04:00
 Age: "49"
 Ancestry: Rhinoan
 Gender: Male
@@ -12,7 +12,6 @@ Role:
   - Former Adventurer, Leader of The Rough Riders
 Affiliation:
   - The Rough Riders
-  - The Three
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -37,7 +36,7 @@ Author: Jordan
 >
 > **Role**: Former Adventurer, Leader of The Rough Riders
 >
-> **Affiliation:** The Rough Riders, The Three
+> **Affiliation:** The Rough Riders
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

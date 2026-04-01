@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-03-31T07:48:48.000-04:00
-published: 2026-03-31T07:48:48.000-04:00
+modified: 2026-03-24T16:02:16.811-04:00
+published: 2026-03-24T16:02:16.811-04:00
 Author: Jordan
 ---
 
@@ -17,7 +17,7 @@ In these times, we fix our focus on the [[Inhabitable Lands]]–largest of the L
 - Thieves and merchants alike ply their trade in the free port city of [[Scrimshaw City|Scrimshaw]], all while a corporatized abyssal rift rages beneath the city's mean streets.
 - The [[Darkwells]] and other Planar Rifts lie dormant in the hidden places of the realm, waiting to be rediscovered and harnessed.
 - The quiet lifestyle of settlements on the [[Tanglewood Peninsula]] has been disrupted by mutated monsters, and the call for adventurers has never been louder.
-- Progressive arcane theory and unheard-of adventures await new students at [[White Grove]], Tiialia's most reputable (and only) state-sanctioned magical academy.
+- Progressive arcane theory and unheard-of adventures await new students at the [[White Grove]], Tiialia's most reputable (and only) state-sanctioned magical academy.
 - The Salted City of [[Corrodreth]], born of a forgotten empire and destroyed within living memory, offers hints at a civilization beyond the deadly [[Violet Bleed]] to the far west.
 
 # Namesake

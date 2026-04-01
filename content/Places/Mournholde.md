@@ -2,8 +2,8 @@
 publish: true
 title: Mournholde, City of the Dead
 created: 2023-09-20T14:56:26.000-04:00
-modified: 2026-03-31T13:58:56.332-04:00
-published: 2026-03-31T13:58:56.332-04:00
+modified: 2026-03-26T16:53:42.136-04:00
+published: 2026-03-26T16:53:42.136-04:00
 Type:
   - City of the Dead
   - Free City
@@ -17,11 +17,11 @@ Government:
 Appearances:
   - "[[The Mournholde Incident]]"
 marker:
-  - coordinates: 1040, 1835
-    icon: lucide-castle
-    colour: "#FFAC1C"
-    minZoom: -4
-    mapName: Inhabitable_Lands_Map
+  mapName: InteractiveMap
+  x: 920
+  y: 515
+  icon: game-icons:spooky-house
+  colour: orange
 Author: Jordan
 ---
 
@@ -62,3 +62,9 @@ Author: Jordan
   - Paladins and clerics who cannot leave it alone
 - **Points of Interest**:
   - The (now underground) necropolis of the dead lich
+
+# Hooks
+
+- Adventure seed 1
+- Adventure seed 2
+- Adventure seed 3
