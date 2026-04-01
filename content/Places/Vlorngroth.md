@@ -59,8 +59,3 @@ Author: Jordan
 	- Duskveil Asylum, aka The Manor of Madness
 	- Duskveil Keep
 	- The Forge of Dingon
-
-# Hooks
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

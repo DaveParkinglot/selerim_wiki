@@ -50,8 +50,3 @@ Author: Jordan
 	- Goblins and orcs from another world attacked Crillville once, and some are still at large in the northern forests
 - **Points of Interest**: 
 	- The Big Shrimp (Tavern)
-
-# Hooks
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

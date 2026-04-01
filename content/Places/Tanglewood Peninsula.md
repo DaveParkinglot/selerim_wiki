@@ -58,8 +58,3 @@ Author: Jordan
 - **Economy/Resources**: (What it produces, trades, or lacks)
 - **Dangers/Secrets**: (Rumors, threats, hidden lore)
 - **Points of Interest**: (Taverns, landmarks, shrines, ruins, etc.)
-
-# Hooks
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

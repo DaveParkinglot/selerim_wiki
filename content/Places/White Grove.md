@@ -60,8 +60,3 @@ aliases:
 	- The Spontaneous Staircase
 	- The Menagerie
 	- Leviathan Lagoon
-
-# Hooks
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

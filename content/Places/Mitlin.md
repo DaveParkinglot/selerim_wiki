@@ -56,8 +56,3 @@ Author: Jordan
 	- Kindlethicket, a fey crossing, is less than a day's journey from Mitlin
 	- The edge of the Forsaken Expanse
 	- Jack of Owl Trades, [[Bwanson Wagwan]]'s magic shop
-
-# Hooks
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

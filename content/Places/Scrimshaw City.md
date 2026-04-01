@@ -72,8 +72,3 @@ aliases:
 	- The Pit
 	- The High Roller Bar & Grille
 	- The Shanties
-
-# Hooks
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

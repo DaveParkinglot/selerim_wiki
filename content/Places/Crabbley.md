@@ -63,8 +63,3 @@ Author: Jordan
 	- Soggy Bottom Tavern
 	- Crab Claw Inn
 	- New Bondoon Flakes Cereal Factory
-
-# Hooks
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

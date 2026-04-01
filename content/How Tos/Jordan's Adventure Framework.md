@@ -1,4 +1,4 @@
-> *“It doesn’t matter if it is good, it only matters if it rocks.”* - unknown bard
+> [!quote] *“It doesn’t matter if it is good, it only matters if it rocks.”* - unknown bard
 
 # Introductory Notes
 - This is meant to be a list of suggestions to help you create your very own D&D adventure. 
@@ -8,7 +8,7 @@
 - This is NOT a Foundry VTT tutorial, you’ll have to get that from somewhere else.
 ---
 
-> Parts 0-4 below provide a list of the things you need to do to get your adventure up and running (Parts 0-4). I’ve also added some helpful stuff at the end, but you don’t need that to make your adventure.
+> [!note] Parts 0-4 below provide a list of the things you need to do to get your adventure up and running (Parts 0-4). I’ve also added some helpful stuff at the end, but you don’t need that to make your adventure.
 
 # Part 0: The Premise & Setup
 The “hook” or the premise of the adventure should be a short paragraph, or a list of ideas to grab players’ imaginations while giving some high-level background on what their characters will be doing in the adventure.
@@ -43,7 +43,6 @@ Example Introduction notes from The Crimsonclaw Bounty:
 - In Foundry, you can find these pre-built tavern scenes here: Scenes > Taverns of Selerim
 ---
 
-
 # Part 2: Challenge Montage - 30-45 Minutes
 A challenge montage allows players to feel out how their characters work and interact with the rest of the party, while also expending some of their resources (HP, Inspiration, spells, etc.). I usually run this early in the session, often after the Introduction. Your challenge montage should be able to clearly answer the following questions:
 - What obstacle(s) are the characters trying to overcome?
@@ -71,8 +70,6 @@ I like to think of this part of the session as a montage, with each round repres
 - In Foundry, Travel Outcomes tables can be found here: Rollable Tables > Travel Outcomes
 ---
 
-
-
 # Part 3: Optional Encounter - 30-45 minutes
 I like to put in one encounter that the characters can bypass or expedite with either stealth, clever roleplay, or by some other means. This gives you some flexibility as a DM if things are moving slower or faster than you expected. I have no specific advice for how to design this encounter, but here are some guidelines:
 - The encounter should fit the theme of your adventure. Maybe drop some loot here for the players. Or try foreshadowing, it’s a good trick.
@@ -96,8 +93,6 @@ While this ISN’T a guide on how to create fun & balanced encounters, here are 
 - In Foundry, Actors (NPCs) from previously run adventures can be accessed here: Compendium Packs > Jordan’s Compendium > Actors
 ---
 
-
-
 # Part 4: The Final Encounter - 45-60 minutes
 The final encounter of your adventure should almost always resolve as a combat encounter. By this point, players should be well acquainted with their character sheets, so give them a challenge. Again, this is not a guide on encounter design, but here are some basic pointers:
 - Don’t put a million enemies in this encounter. Keep it to the boss and maybe just a few henchmen. You won’t want to keep track of that many things in combat, trust me. Ideally, your turn as the DM should take no longer than 2 minutes.
@@ -115,8 +110,6 @@ The final encounter of your adventure should almost always resolve as a combat e
 - In Foundry, find these random loot roll items here: Items > Loot Rolls
 - Just don’t be the guy who gives a Legendary item to a level 3 party. Consult the [Magic Items section of the DMG](https://5e.tools/book.html#xdmg,6,magic%20items) if you want guidelines on loot distribution.
 ---
-
-
 
 # Foundry Best Practices (NOT A TUTORIAL!)
 Below are some Foundry VTT best practices. I’m planning to add to this when I think of more. 
@@ -137,8 +130,6 @@ Again, this is not meant to be a Foundry VTT tutorial. Most of your Foundry know
 Hitting Ctrl + Space bar will allow you to use the Quick Insert module to quickly pull in Items, Creatures, etc. from either the Plutonium module or from an item that already exists in the Foundry world.
 
 ---
-
-
 
 # Jordan’s Preferred DM Resources
 [https://5e.tools](https://5e.tools) 

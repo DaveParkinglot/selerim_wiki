@@ -52,8 +52,3 @@ Author: Jordan
 	- Paladins and clerics who cannot leave it alone
 - **Points of Interest**:
 	- The (now underground) necropolis of the dead lich
-
-# Hooks
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

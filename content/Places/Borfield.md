@@ -52,8 +52,3 @@ aliases:
 	- Roadside Provisions, general store run by Hemmy Gurpend
 	- Borfield High, a poorly run and unfunded high school with a pitiful graduation rate. It is situated in the ruins of a castle on the outskirts of town
 	- Dumptrash Canyon, a fractured magical leyline filled with [[Violet Bleed]]. Borfield residents throw their trash in it because, as they've observed, it slowly dissolves anything that falls into it
-
-# Hooks
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

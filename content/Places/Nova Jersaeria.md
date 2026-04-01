@@ -54,8 +54,3 @@ Author: Jordan
 	- The Sewer Night Market, home to many more devious, unscrupulous shop owners and merchants
 	- The Kings' Barrows 
 		- The remains of the old kings of Tiialia rest here. Disturbed by [[Master Effree Jypstein]] during his attack on the capital.
-
-# Hooks
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3
