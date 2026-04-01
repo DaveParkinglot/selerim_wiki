@@ -2,8 +2,8 @@
 publish: true
 aliases: Geblorgurin
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-27T12:27:15.945-04:00
-published: 2026-03-27T12:27:15.945-04:00
+modified: 2026-03-30T19:16:04.733-04:00
+published: 2026-03-30T19:16:04.733-04:00
 Age: Deceased
 Ancestry: Dwarf
 Gender: Male
@@ -53,13 +53,11 @@ Author: Jordan
   - From the shell of a Marut that fell from sky, Geblorgurin pried the gem.
   - Of the dead Marut's shell, Geblorgurin did forge his armor and his kingdom.
 
-## Notes from [[Clint Weapon|Clint Weapon's]] hour long meeting in [[Mitlin]] with [[Melvin Oaksleeves]] the elvish wizard:
+## Notes from [[Clint Weapon|Clint Weapon's]] hour long meeting in [[Mitlin]] with [[Melvin Oaksleeves]]:
 
-- [[Jordan's Notes/DM Notes/Gem of Eyes]] was originally found in the crater of a fallen star by Geblorgurin himself
-- He used it to great effect in the never ending fight against incursions from the Vlorn
-- Clint would know that [[Vlorn Dynasty]] is a faction in the Underdark led by the drow (dark elves)
-- \[\[plundered one of Geblorgurin's many monuments
-- [[Garm Deepmine]] seems to have sold it a man in Scrimshaw, who later became the powerful necromance now known as "The Master"
+- [[Gem of Eyes]] was originally found in the crater of a fallen star by Geblorgurin himself
+- He used it to great effect in the never ending fight against incursions from the Vlorn. Clint would know that [[Vlorn Dynasty]] is a faction in the Underdark led by the drow (dark elves)
+- Deepmine Co. plundered one of Geblorgurin's many monuments and found the Gem of Eyes, and [[Garm Deepmine]] seems to have sold it a man in Scrimshaw. That man later became the powerful necromancer now known as "The Master"
   Info on Geblorgurin:
 - He was the last great king of dwarves, and he has been dead for well over two centuries
 - Notably, he forged an alliance with the gnomes and elves of the Tanglewood in order to finally push [[Vlorn Dynasty]]'s trolls back into the Underdark

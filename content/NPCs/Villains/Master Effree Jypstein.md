@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:29:37.722-04:00
-published: 2026-03-26T16:29:37.722-04:00
+modified: 2026-04-01T09:54:54.856-04:00
+published: 2026-04-01T09:54:54.856-04:00
 Age: 66 (deceased)
 Ancestry:
   - Human
 Gender: Male
 Location:
-  - The Jyfstein Isles
+  - The Jypstein Isles
 Role:
   - Lich, Former Archwizard Adventurer
 Affiliation:
-  - None
+  - The Three
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Deceased
@@ -33,11 +33,11 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: The Jyfstein Isles
+> **Location**: The Jypstein Isles
 >
 > **Role**: Lich, Former Archwizard Adventurer
 >
-> **Affiliation:** None
+> **Affiliation:** The Three
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >
@@ -50,8 +50,8 @@ Author: Jordan
 - The cleric Geelayne was killed on one of their adventures and rather than "wasting" the Scroll of Resurrection, Effree opted to use necromantic magic he had just learned to bring her back.
   - Geelayne became a shade of herself for months, and Effree and Blackhorn became estranged.
   - Geelayne eventually regained a fraction of her former power and struck out with rangers from Mitlin to end the threat that Effree posed to the world, but she failed and was once again resurrected by Effree, this time as a banshee
-- After The Three disbanded due to Effree's actions, he spent time living as a noble in [[Scrimshaw City]], before retreating to his ancestral home in the Jypstein Isles on The Great Delphin Sea.
-- Some time after that, Effree became a powerful lich, went by the pseudonym "The Master", and sought to control or end all life on Selerim.
+- After The Three disbanded due to Effree's actions, he spent years living as a noble in [[Scrimshaw City]], before retreating to his ancestral home in the Jypstein Isles on The Great Delphin Sea.
+- Some time after that, Effree became a powerful lich, took up the pseudonym "The Master", and sought to control (or end) all life in the [[Inhabitable Lands]].
 - Thankfully, he was killed on his private island by [[The High Rollers]].
 
 # Attributes
