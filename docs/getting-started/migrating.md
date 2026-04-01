@@ -39,7 +39,7 @@ Available templates: `default`, `obsidian`, `ttrpg`, `blog`. Pick the one closes
 After running `create`, install all the plugins referenced in the generated config:
 
 ```shell
-npx quartz plugin resolve
+npx quartz plugin install --from-config
 ```
 
 This reads your `quartz.config.yaml` and installs every plugin listed in it. No need to run 30 individual `npx quartz plugin add` commands.
@@ -57,7 +57,7 @@ This reads your `quartz.config.yaml` and installs every plugin listed in it. No 
 > See [[plugins/index|Plugins]] for the full list of available community plugins.
 
 > [!info] Alternative: Use `npx quartz migrate`
-> If you have an existing `quartz.config.ts` and `quartz.layout.ts` from v4, you can run `npx quartz migrate` instead. This reads your old config files and generates `quartz.config.yaml` with your existing settings. You'll still need to run `npx quartz plugin resolve` afterward to install the plugins. See [[cli/migrate|quartz migrate]] for details.
+> If you have an existing `quartz.config.ts` and `quartz.layout.ts` from v4, you can run `npx quartz migrate` instead. This reads your old config files and generates `quartz.config.yaml` with your existing settings. You'll still need to run `npx quartz plugin install --from-config` afterward to install the plugins. See [[cli/migrate|quartz migrate]] for details.
 
 #### 2. Update quartz.config.yaml
 
@@ -254,13 +254,13 @@ Key changes:
 
 #### 4. Update CI/CD
 
-Add `npx quartz plugin restore` to your build pipeline, before `npx quartz build`. This installs plugins from the lockfile at their pinned versions.
+Add `npx quartz plugin install` to your build pipeline, before `npx quartz build`. This installs plugins from the lockfile at their pinned versions.
 
-If your CI uses `quartz.config.default.yaml` (or contributors may add plugins to config without updating the lockfile), also run `npx quartz plugin resolve` to install any config-referenced plugins that are missing from the lockfile:
+If your CI uses `quartz.config.default.yaml` (or contributors may add plugins to config without updating the lockfile), also run `npx quartz plugin install --from-config` to install any config-referenced plugins that are missing from the lockfile:
 
 ```shell
-npx quartz plugin restore  # install pinned plugins from lockfile
-npx quartz plugin resolve  # install any config-referenced plugins not yet in lockfile
+npx quartz plugin install              # install pinned plugins from lockfile
+npx quartz plugin install --from-config  # install any config-referenced plugins not yet in lockfile
 npx quartz build
 ```
 
@@ -326,7 +326,7 @@ git fetch
 git checkout v4
 git pull upstream v4
 npm i
-npx quartz plugin restore
+npx quartz plugin install
 npx quartz create
 ```
 

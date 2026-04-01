@@ -77,8 +77,8 @@ When `npx quartz plugin add github:quartz-community/explorer` is run:
 ### Plugin CLI Commands
 
 - `npx quartz plugin add github:quartz-community/<name>` — Install a community plugin
-- `npx quartz plugin update` — Update all plugins to latest commits
-- `npx quartz plugin restore` — Restore plugins from locked commits in `quartz.lock.json` (used in CI/CD)
+- `npx quartz plugin install --latest` — Update all plugins to latest commits
+- `npx quartz plugin install --clean` — Restore plugins from locked commits in `quartz.lock.json` (used in CI/CD)
 - `npx quartz plugin remove <name>` — Remove an installed plugin
 
 ### Plugin Structure

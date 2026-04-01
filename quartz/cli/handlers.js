@@ -26,7 +26,6 @@ import {
 import {
   handlePluginRestore,
   handlePluginCheck,
-  handlePluginUpdate,
   handlePluginResolve,
 } from "./plugin-git-handlers.js"
 import {
@@ -680,16 +679,6 @@ export async function handleUpgrade(argv) {
   await handlePluginCheck()
 
   console.log(styleText("green", "Done!"))
-}
-
-/**
- * Handles `npx quartz update`
- * Shortcut for `npx quartz plugin update` — updates all installed plugins.
- * @param {*} argv arguments for `update`
- */
-export async function handleUpdate(argv) {
-  console.log(`\n${styleText(["bgGreen", "black"], ` Quartz v${version} `)} \n`)
-  await handlePluginUpdate(argv.names)
 }
 
 /**

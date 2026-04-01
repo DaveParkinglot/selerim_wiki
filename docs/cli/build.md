@@ -56,6 +56,19 @@ If you have a very large vault, you can limit the number of concurrent workers t
 npx quartz build --concurrency 2
 ```
 
+## Serve vs Watch
+
+The `--serve` and `--watch` flags control different behaviors:
+
+- **`--serve`** starts a local development server AND automatically watches for changes (implies `--watch`). This is the recommended mode for local development.
+- **`--watch`** only watches for file changes and rebuilds automatically, without starting a server. This is useful for CI pipelines or custom server setups where you want automatic rebuilds but handle serving separately.
+
+In most cases, you want `--serve`:
+
+```shell
+npx quartz build --serve
+```
+
 ## Development Server
 
 The `--serve` flag starts a local web server. This server is intended for development and previewing only. It is not designed for production use. For information on how to deploy your site, see [[hosting]].

@@ -145,7 +145,7 @@ This adds the plugin to `quartz.config.yaml` and installs it to `.quartz/plugins
 To install all plugins referenced in your config that aren't yet installed (useful when cloning a project or setting up CI):
 
 ```shell
-npx quartz plugin resolve
+npx quartz plugin install --from-config
 ```
 
 To remove installed plugins that are no longer in your config:

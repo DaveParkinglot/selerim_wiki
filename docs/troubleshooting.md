@@ -11,7 +11,7 @@ Common issues and solutions when working with Quartz.
 This usually means a plugin is not installed. Run:
 
 ```bash
-npx quartz plugin restore
+npx quartz plugin install
 ```
 
 This restores all plugins from your `quartz.lock.json` to `.quartz/plugins/`.
@@ -37,7 +37,7 @@ The default uses all available CPU cores. If you're on a memory-constrained envi
 1. Verify the plugin appears in `quartz.config.yaml` under `plugins:`
 2. Check that `enabled: true` is set
 3. Run `npx quartz plugin list` to confirm it's installed
-4. Run `npx quartz plugin check` to verify plugin health
+4. Run `npx quartz plugin install --latest --dry-run` to verify plugin health
 
 ### Plugin options not taking effect
 

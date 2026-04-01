@@ -43,6 +43,6 @@ The `upgrade` command supports the standard [[cli/index|common flags]] (`--direc
 
 ## See Also
 
-- [[cli/update|quartz update]] — update installed plugins
+- [[cli/plugin|quartz plugin install --latest]] — update installed plugins
 - [[getting-started/upgrading|Upgrading Quartz]] — detailed upgrading guide
 - [[cli/restore|quartz restore]] — recover content from cache

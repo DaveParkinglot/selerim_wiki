@@ -514,10 +514,10 @@ If you've updated your `quartz.config.yaml` to reference a plugin that isn't ins
 
 ```shell
 # Install all config-referenced plugins missing from the lockfile
-npx quartz plugin resolve
+npx quartz plugin install --from-config
 
 # Preview first without making changes
-npx quartz plugin resolve --dry-run
+npx quartz plugin install --from-config --dry-run
 ```
 
 To clean up plugins that are installed but no longer referenced in your config:

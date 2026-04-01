@@ -117,30 +117,3 @@ export const BuildArgv = {
     describe: "how many threads to use to parse notes",
   },
 }
-
-export const PluginInstallArgv = {
-  ...CommonArgv,
-  _: {
-    type: "string",
-    demandOption: true,
-    describe: "package names to install",
-  },
-}
-
-export const PluginUninstallArgv = {
-  ...CommonArgv,
-  _: {
-    type: "string",
-    demandOption: true,
-    describe: "package names to uninstall",
-  },
-}
-
-export const PluginSearchArgv = {
-  ...CommonArgv,
-  query: {
-    string: true,
-    alias: ["q"],
-    describe: "search query for plugins",
-  },
-}

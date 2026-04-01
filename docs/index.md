@@ -4,28 +4,25 @@ title: Welcome to Quartz 5
 
 Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
 
-## 🪴 Get Started
+## Getting Started
 
 Quartz requires **at least [Node](https://nodejs.org/) v22** and `npm` v10.9.2 to function correctly. Ensure you have this installed on your machine before continuing.
 
-Then, in your terminal of choice, enter the following commands line by line:
+### New to Quartz?
+
+1. **[[getting-started/installation|Set up your repository]]** — Fork and clone the Quartz template
+2. **[[getting-started/installation|Initialize]]** — Run `npx quartz create` to choose a template and configure your site
+3. **[[build|Build]]** — Preview your site locally with `npx quartz build --serve`
+4. **[[hosting|Deploy]]** — Host your site for free on GitHub Pages, Cloudflare, or Netlify
+
+### Returning User?
+
+If you've already set up Quartz and are cloning your repository on a new machine:
 
 ```shell
-git clone -b v5 https://github.com/jackyzha0/quartz.git
-cd quartz
-npm i
-npx quartz plugin restore
-npx quartz create
+npx quartz plugin install
+npx quartz build --serve
 ```
-
-This will guide you through initializing your Quartz with content, including choosing a [[cli/create#templates|project template]] and configuring your site's base URL. Once you've done so, see how to:
-
-1. [[authoring content|Writing content]] in Quartz
-2. [[configuration|Configure]] Quartz's behaviour
-3. Change Quartz's [[layout]]
-4. [[build|Build and preview]] Quartz
-5. Sync your changes with [[setting up your GitHub repository|GitHub]]
-6. [[hosting|Host]] Quartz online
 
 ## 🔧 Features
 
