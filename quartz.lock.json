@@ -190,8 +190,8 @@
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
-      "commit": "38424abb80929bc013d106d2fd3e9c426e00cc24",
-      "installedAt": "2026-03-31T17:26:26.200Z"
+      "commit": "c28c89c0f3f67ae7b93447b936c5b89560d0bb16",
+      "installedAt": "2026-04-02T17:23:38.419Z"
     },
     "quartz-themes": {
       "source": {
