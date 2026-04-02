@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T13:57:03.000-04:00
-modified: 2026-04-02T15:14:47.036-04:00
-published: 2026-04-02T15:14:47.036-04:00
+modified: 2026-04-02T15:19:24.863-04:00
+published: 2026-04-02T15:19:24.863-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -70,8 +70,8 @@ Classes:
   - After failing to secure a job at the Marketplace of Jokes, Bobby used his rage and NEET strength on a hammer game and took the hammer as a prize.
 - After gathering enough wealth to petition the jade sphinx guarding the crossing, the boys successfully answered her riddles four and crossed into the [[Jaded Lands]].
 - At the Jaded Vault, the boys made short work of the magpie tellers, and Bobby even pocketed one in his new bag of holding. Bobby, recognizing its importance, also pocketed an invitation to the [[Fathomless Vault]] of [[Tzastis the Collector]], which was addressed to the [[Jaded Queen]].
-- Deeper into the vault, the boys shattered jade construct defenses with hammers and threatened head teller Mr. Moneysworth with pain and suffering.
-- Mr. Moneysworth cowered for his life and surrendered the vault's treasure, which included [[Pazuzu]]'s first pal—the living demonic artifact [[Labubu]]. He implied that Labubu was kept hidden for a good reason and that returning Labubu to [[Pazunia]] could herald the end of times, but he could not fully substantiate these claims.
+- In the inner chamber, the boys shattered the vault's jade construct security with hammers and proceeded to beat the head teller Mr. Moneysworth within an inch of his life.
+- Mr. Moneysworth cowered for his life and surrendered the vault's treasure, which included [[Pazuzu]]'s first pal—the living demonic artifact [[Labubu]]. Before giving the artifact over, he implied that Labubu was kept hidden for a good reason and that returning Labubu to [[Pazunia]] could herald the end of times, but he could not fully substantiate these claims.
 
 # Players & Characters
 
