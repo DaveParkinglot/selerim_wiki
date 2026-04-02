@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-03-31T07:48:48.000-04:00
-published: 2026-03-31T07:48:48.000-04:00
+modified: 2026-04-02T08:44:07.732-04:00
+published: 2026-04-02T08:44:07.732-04:00
 Author: Jordan
 ---
 
@@ -50,7 +50,7 @@ The world of Selerim is analogous to the Earth, with similar gravity and rotatio
 
 # Cosmology
 
-Selerim is assumed to follow The [[great_wheel_cosmology.png|Great Wheel cosmology configuration]] as described in the D\&D Dungeon Master's Guide, with few exceptions:
+Selerim is assumed to follow the [[great_wheel_cosmology.png|Great Wheel cosmology configuration]] as described in the D\&D Dungeon Master's Guide, with few exceptions:
 
 - Due to its damaged ley lines, extraplanar travel is typically easier on Selerim than it is in other worlds.
 - As they are reflections of the Material Plane, the Feywild and the Shadowfell are similarly affected by the [[Violet Bleed]].
