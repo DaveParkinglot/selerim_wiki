@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-03-31T09:28:01.557-04:00
-published: 2026-03-31T09:28:01.557-04:00
+modified: 2026-04-02T13:24:20.618-04:00
+published: 2026-04-02T13:24:20.618-04:00
 Author: Jordan
 ---
 
@@ -31,7 +31,7 @@ views:
     minZoom: -3
     maxZoom: 3
     defaultZoom: -2
-    zoomDelta: 0.25
+    zoomDelta: 0.26
     scale: "0.0935"
     unit: mi
 ```
