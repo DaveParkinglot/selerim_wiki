@@ -1,4 +1,9 @@
 ---
+publish: true
+title: Crillville, Harbor Town
+created: 2025-10-09T14:45:41.000-04:00
+modified: 2026-03-31T13:58:27.742-04:00
+published: 2026-03-31T13:58:27.742-04:00
 Type:
   - Town
 Age (years): 80
@@ -11,42 +16,47 @@ Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[The Lost Archives of Wigglestaff]]"
   - "[[The Rentpire Strikes Back]]"
-title: Crillville, Harbor Town
 marker:
-    - coordinates: 1130, 3180
-      icon: lucide-house
-      colour: "#0000ff"
-      minZoom: -4
-      mapName: Inhabitable_Lands_Map
+  - coordinates: 1130, 3180
+    icon: lucide-house
+    colour: "#0000ff"
+    minZoom: -4
+    mapName: Inhabitable_Lands_Map
 Author: Jordan
 ---
+
 > [!infobox]
+>
 > ## Crillville
-> ![[crillville.png|500]]
+>
+> ![[z_assets/crillville.png|500]]
+>
 > ## Details
-> 
->**Type**: `= join(this.Type, ", ")`
 >
->**Age:** `= this["Age (years)"]`
+> **Type**: Town
 >
->**Population**: `= this.Population`
+> **Age:** 80
 >
->**Affiliation**: `= join(this.Affiliation, ", ")`
+> **Population**: 2500
 >
->**Government:** `= join(this.Government, ", ")`
+> **Affiliation**: [[Tanglewood Defense Council|Tanglewood Defense Council]]
 >
->**Appearances:** `= join(this.Appearances, ", ")`
+> **Government:** [[NPCs/Tanglewood Peninsula/Dick Gunbarrel.md|Dick Gunbarrel]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Lost Archives of Wigglestaff.md|The Lost Archives of Wigglestaff]], [[Adventures/The Rentpire Strikes Back.md|The Rentpire Strikes Back]]
 
 # Overview
+
 - Crillville is a dreary fishing town on the upper reaches of the [[Tanglewood Peninsula]]. It rains frequently in Crillville due to the weather patterns in the northern parts of Boater's Bay.
 - Crillville is closely allied with its sister town, [[Crabbley]], which was founded more recently by folk originally from Crillville.
 - The town is protected by [[Dick Gunbarrel]], his paladins of Tyr, and the brave members of the [[Crillville Defense Force]] (CDF).
 - Since the terrorist attacks committed by [[The Tanglers]], both Crillville and [[Crabbley]] joined forces to create the [[Tanglewood Defense Council]].
 
 # Attributes
+
 - **Appearance**: Dark, gloomy, vaguely gothic
 - **Economy/Resources**: Fish, grain
-- **Dangers/Secrets**: 
-	- Goblins and orcs from another world attacked Crillville once, and some are still at large in the northern forests
-- **Points of Interest**: 
-	- The Big Shrimp (Tavern)
+- **Dangers/Secrets**:
+  - Goblins and orcs from another world attacked Crillville once, and some are still at large in the northern forests
+- **Points of Interest**:
+  - The Big Shrimp (Tavern)
