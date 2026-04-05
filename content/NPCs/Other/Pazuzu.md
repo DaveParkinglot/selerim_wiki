@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T09:10:18.000-04:00
-modified: 2026-03-26T16:22:11.365-04:00
-published: 2026-03-26T16:22:11.365-04:00
+modified: 2026-04-02T14:50:56.772-04:00
+published: 2026-04-02T14:50:56.772-04:00
 Age: ??
 Ancestry:
   - Demon
@@ -54,7 +54,9 @@ Author: Jordan
 
 - **Voice**: Aggressively Australian
 - **Traits**: Crude
-- **Goals:** Bring more cool people to join his crew in Pazunia, Pazuzu's Pals
+- **Goals:**
+  - Bring more cool people to join his crew in Pazunia, Pazuzu's Pals
+  - Retrieve Labubu, the first of Pazuzu's Pals
 - **Appearance**: Giant demon with black wings and a plague mask
 
 # Relationships

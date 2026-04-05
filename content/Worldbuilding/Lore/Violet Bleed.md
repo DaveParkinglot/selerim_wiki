@@ -1,15 +1,15 @@
 ---
 publish: true
 aliases: arcane fallout
-created: 2026-02-05T09:54:52.047-05:00
-modified: 2026-03-27T13:38:02.793-04:00
-published: 2026-03-27T13:38:02.793-04:00
+created: 2026-02-05T09:54:52.000-05:00
+modified: 2026-04-04T10:26:13.000-04:00
+published: 2026-04-04T10:26:13.000-04:00
 Author: Jordan
 ---
 
-![[z_assets/violet_bleed.png]]
+![[z_assets/violet_bleed.png|500]]
 
-- The clinical term for the purplish haze of arcane fallout that obscures and afflicts the unlivable regions of Selerim.
+- The common name for the purplish haze of arcane fallout that obscures and afflicts the unlivable regions of Selerim.
 - The Bleed was brought to the world by an ancient elvish curse, which shattered Selerim's ley lines during the [[Nameless War]].
 - It extends beneath the surface world into the Underdark, and its reach even extends into the reflective planes of the Feywild and the Shadowfell.
 - The secrets of The Bleed were lost to war and time, and they have not been rediscovered. Even the most accomplished spellcasters can scarcely dispel magics of The Bleed.
