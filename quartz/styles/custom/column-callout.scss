@@ -2,7 +2,7 @@
 @use "../variables.scss" as *;
 
 /*----Column Callout----*/
-:root:root:root:root:root {{{{{
+:root {
 .callout[data-callout="column"] {
     /* Removes padding and background colour from the container */
     padding: 0;
@@ -108,4 +108,4 @@
     margin-top: 16;
     /* First-child needs a margin-top of 16 to match the margin-top of other grid items - except codeblocks and nested callouts */
   }
-}}}}}
+}
