@@ -4,7 +4,7 @@
 /* ---- Callout Adjustments ---- */
 
 /* --- Positioning --- */
-:root {
+:root:root:root:root:root {{{{{
 .callout.callout.callout[data-callout-metadata~=left] {
   float: left;
   margin: unset;
@@ -250,4 +250,4 @@
 [data-callout-metadata~=no-table-header]) > .callout-content table th {
   display: none;
 }
-}
+}}}}}
