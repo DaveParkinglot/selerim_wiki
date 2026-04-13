@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-03-31T13:58:24.431-04:00
-published: 2026-03-31T13:58:24.431-04:00
+modified: 2026-04-12T22:31:58.701-04:00
+published: 2026-04-12T22:31:58.701-04:00
 Type:
   - Village
 Age (years): 25
@@ -18,7 +18,7 @@ Appearances:
   - "[[The Crimsonclaw Bounty]]"
 marker:
   - coordinates: 1070, 2975
-    icon: lucide-house
+    icon: game-icons:medieval-village-01
     colour: "#0000ff"
     minZoom: -4
     mapName: Inhabitable_Lands_Map
@@ -31,12 +31,12 @@ Author: Jordan
 >
 > ![[z_assets/crabbley.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Scene view
 >
 > ![[z_assets/crabbley_topdown.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Map view
 >
 > ## Details

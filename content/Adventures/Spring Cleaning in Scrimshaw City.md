@@ -34,7 +34,7 @@ Classes:
 >
 > ![[z_assets/barry_the_barlgura.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Barry the Barlgura vandalizes the Crystal Theatre
 >
 > ## Details

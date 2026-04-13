@@ -36,7 +36,7 @@ Classes:
 >
 > ![[z_assets/hellfist.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The Hellfist
 >
 > ## Details

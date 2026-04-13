@@ -4,8 +4,8 @@ aliases:
   - Corrodreth, the Salted City
 title: Corrodreth, The Salted City
 created: 2023-09-02T09:43:46.000-04:00
-modified: 2026-03-30T12:08:24.136-04:00
-published: 2026-03-30T12:08:24.136-04:00
+modified: 2026-04-12T22:31:30.759-04:00
+published: 2026-04-12T22:31:30.759-04:00
 Type:
   - Desolate Ruin
 Age (years): 1800
@@ -13,7 +13,7 @@ Appearances:
   - "[[Adventures/Morganth's LEGION OF DOOM|Morganth's LEGION OF DOOM]]"
 marker:
   - coordinates: 160, 180
-    icon: lucide-castle
+    icon: game-icons:ancient-ruins
     colour: "#FF0000"
     minZoom: -4
     mapName: Inhabitable_Lands_Map

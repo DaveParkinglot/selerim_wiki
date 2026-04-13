@@ -7,7 +7,7 @@ published: 2026-04-02T13:24:20.618-04:00
 Author: Jordan
 ---
 
-> \[!quote|clean]
+> [!quote|clean]
 > _"The world of Selerim is ever-changing, inconsistent, and seemingly always unfinished. Its histories are neither a science, nor are they exact."_
 >
 > [[Arctur Execlostrabaum]], Headmaster of [[White Grove|White Grove Academy]] & Loremaster of Selerim

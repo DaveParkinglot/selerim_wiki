@@ -2,8 +2,8 @@
 publish: true
 title: Nova Jersaeria, Tiialan Capital
 created: 2025-06-20T09:32:25.000-04:00
-modified: 2026-03-31T13:59:00.783-04:00
-published: 2026-03-31T13:59:00.783-04:00
+modified: 2026-04-12T22:33:01.295-04:00
+published: 2026-04-12T22:33:01.295-04:00
 Type:
   - Capital City
 Age (years): 250
@@ -18,7 +18,7 @@ Appearances:
   - "[[Voyage a la Isla Ruz]]"
 marker:
   - coordinates: 200, 2190
-    icon: lucide-castle
+    icon: game-icons:medieval-gate
     colour: "#0000ff"
     minZoom: -4
     mapName: Inhabitable_Lands_Map

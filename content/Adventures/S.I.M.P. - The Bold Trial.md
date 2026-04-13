@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/rusted_armory_golem.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The rusted armory golem, second of the three Bold Trials
 >
 > ## Details

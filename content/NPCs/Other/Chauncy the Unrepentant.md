@@ -31,12 +31,12 @@ Author: Jordan
 >
 > ![[z_assets/brave_sir_chauncy.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Sir Chauncy, before his death
 >
 > ![[z_assets/chauncy_the_unrepentant.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Hellknight Chauncy
 >
 > ## Details

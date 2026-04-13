@@ -4,8 +4,8 @@ aliases:
   - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
-modified: 2026-03-31T13:59:11.781-04:00
-published: 2026-03-31T13:59:11.781-04:00
+modified: 2026-04-12T22:33:23.219-04:00
+published: 2026-04-12T22:33:23.219-04:00
 Type:
   - Region
 Age (years): 264
@@ -22,7 +22,7 @@ Appearances:
   - "[[Lighting the Lighthouse DM]]"
 marker:
   - coordinates: 1060, 3150
-    icon: lucide-trees
+    icon: game-icons:jungle
     colour: "#008000"
     minZoom: -4
     mapName: Inhabitable_Lands_Map
@@ -35,12 +35,12 @@ Author: Jordan
 >
 > ![[z_assets/tanglewood_wilds.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Scene view
 >
 > ![[z_assets/tanglewood_peninsula.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Map view
 >
 > ## Details

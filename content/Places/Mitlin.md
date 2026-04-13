@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T08:16:34.000-04:00
-modified: 2026-03-31T13:58:49.880-04:00
-published: 2026-03-31T13:58:49.880-04:00
+modified: 2026-04-12T22:32:30.804-04:00
+published: 2026-04-12T22:32:30.804-04:00
 Type:
   - Town
 Age (years): 120
@@ -20,7 +20,7 @@ Appearances:
   - "[[Lighting the Lighthouse]]"
 marker:
   - coordinates: 1050, 3290
-    icon: lucide-house
+    icon: game-icons:medieval-village-01
     colour: "#0000ff"
     minZoom: -4
     mapName: Inhabitable_Lands_Map

@@ -26,7 +26,7 @@ Author: Jordan
 >
 > ![[z_assets/vlorngroth.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Vlorngroth, beneath the Fungal Firmament
 >
 > ## Details

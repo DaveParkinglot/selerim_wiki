@@ -47,7 +47,7 @@ Author: Jordan
 
 # Overview
 
-> \[!quote|clean]
+> [!quote|clean]
 > _"Well hey fellas!"_
 >
 > Bopus, all the time
