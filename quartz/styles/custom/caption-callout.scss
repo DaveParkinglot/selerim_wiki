@@ -2,7 +2,6 @@
 @use "../variables.scss" as *;
 
 /*----Caption Callout----*/
-:root:root:root:root:root {{{{{
 .callout.callout[data-callout~=caption] {
     background: transparent;
     text-align: center;
@@ -41,4 +40,3 @@
   .callout.callout[data-callout~=caption]:is([data-callout-metadata~=sban], [data-callout-metadata~=banner]) .image-embed img {
     width: 100%;
   }
-  }}}}}
