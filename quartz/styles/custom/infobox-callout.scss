@@ -2,7 +2,6 @@
 @use "../variables.scss" as *;
 
 /*----infobox callout----*/
-:root:root:root:root:root {{{{{
 .callout[data-callout="infobox"] {
     background-color: transparent;
     --callout-icon: none;
@@ -104,4 +103,3 @@
   vertical-align: top;
   line-height: 1.6rem;
 }
-}}}}}
