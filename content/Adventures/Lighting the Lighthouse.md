@@ -39,7 +39,7 @@ Classes:
 >
 > ![[z_assets/lighting_the_lighthouse.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Aldwood Lighthouse, before the necrotic storm of 263
 >
 > ## Details

@@ -55,7 +55,7 @@ Handouts:
 >
 > ![[z_assets/duskveil_asylum.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Duskveil Asylum, affectionately called "The Manor of Madness"
 >
 > ## Details

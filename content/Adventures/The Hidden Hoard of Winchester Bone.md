@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/hidden_hoard.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Bone's hidden hoard, complete with decorative skeletons
 >
 > ## Details

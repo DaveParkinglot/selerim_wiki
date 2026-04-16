@@ -34,7 +34,7 @@ Classes:
 >
 > ![[z_assets/leaky_bucket_hanging.png]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The long-lost Leaky Bucket hangs from vines in the Tanglewood Wilds
 >
 > ## Details

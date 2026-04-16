@@ -40,7 +40,7 @@ Classes:
 >
 > ![[z_assets/leviathan_lagoon.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Leviathan Lagoon, the best spot to relax after finals week
 >
 > ## Details

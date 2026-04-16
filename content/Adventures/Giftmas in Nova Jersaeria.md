@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/3_giftmas_goblins.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Giftmas goblins threaten the Giftmas Market
 >
 > ## Details

@@ -35,7 +35,7 @@ Classes:
 >
 > ![[z_assets/spontaneous_staircase.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The Spontaneous Staircase
 >
 > ## Details

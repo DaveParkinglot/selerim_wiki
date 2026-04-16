@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/marrowsucker_archer.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > A vicious Marrowsucker archer
 >
 > ## Details

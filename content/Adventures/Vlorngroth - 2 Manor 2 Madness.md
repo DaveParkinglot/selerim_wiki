@@ -42,7 +42,7 @@ Classes:
 >
 > ![[z_assets/duskveil_dining_room.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Count Duskveil's dining hall in Duskveil Keep
 >
 > ## Details

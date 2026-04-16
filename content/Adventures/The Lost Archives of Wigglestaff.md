@@ -49,7 +49,7 @@ Handouts:
 >
 > ![[z_assets/wigglestaffs_tower.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The abandoned tower of the wizard Wigglestaff
 >
 > ## Details

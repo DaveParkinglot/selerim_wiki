@@ -34,7 +34,7 @@ Classes:
 >
 > ![[z_assets/white_death.png|400]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The titular "White Death"
 >
 > ## Details

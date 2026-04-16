@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:28:58.656-04:00
-published: 2026-03-26T16:28:58.656-04:00
+modified: 2026-04-15T21:58:47.489-04:00
+published: 2026-04-15T21:58:47.489-04:00
 Age: "45"
 Ancestry: Bullywug
 Gender: Male
@@ -54,13 +54,13 @@ Author: Jordan
 
 - **Voice**: High pitched, ribbits at times because he's a frogman
 - **Traits**: Loves to do business and haggle
-- **Goals:** Earn enough money from his businesses so he can bring his family to Nova Jersaeria
+- **Goals:** Earn enough money from his businesses so he can bring his family to [[Nova Jersaeria]]
 - **Appearance**: 4'8 frogman wearing simple clothing
 
 # Relationships
 
-| Name                  | Relationship       |
-| --------------------- | ------------------ |
-| [[Sssergio]]          | Account Executive  |
-| \[\[Bodyguard |
-| [[Criz Ploozio]]      | Competitor         |
+| Name                  | Relationship      |
+| --------------------- | ----------------- |
+| [[Sssergio]]          | Account Executive |
+| [[Cock Strombolinov]] | Bodyguard         |
+| [[Criz Ploozio]]      | Competitor        |

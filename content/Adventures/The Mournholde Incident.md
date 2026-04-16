@@ -42,7 +42,7 @@ Classes:
 >
 > ![[z_assets/mournholde_soldier.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Mournholde's soldiers rise against the invasion of the living
 >
 > ## Details

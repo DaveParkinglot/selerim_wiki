@@ -40,7 +40,7 @@ Classes:
 >
 > ![[z_assets/isla_ruz_gladiator.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Gladiatorial combat on Isla Ruz
 >
 > ## Details

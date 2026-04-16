@@ -39,7 +39,7 @@ Classes:
 >
 > ![[z_assets/waverender.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > A "Waverender", one of Boss Renton's many scrap ships
 >
 > ## Details

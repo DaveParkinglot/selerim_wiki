@@ -39,7 +39,7 @@ Classes:
 >
 > ![[z_assets/festival_of_japes.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Revelers enter the Festival of Japes
 >
 > ## Details

@@ -34,7 +34,7 @@ Classes:
 >
 > ![[z_assets/fiend_feud.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Pazuzu and Baron Neffery's entourages attack each other, beginning a Fiend Feud
 >
 > ## Details

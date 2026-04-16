@@ -46,7 +46,7 @@ Author: Jordan
 
 # Overview
 
-> \[!quote|clean]
+> [!quote|clean]
 > _"You never know WHAT is gonna come through that door!"_
 > Arno whenever someone comes through the door
 

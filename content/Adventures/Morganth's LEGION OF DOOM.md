@@ -40,7 +40,7 @@ Classes:
 >
 > ![[z_assets/tomb_of_zalaash.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Entering the Tomb of Zalaash
 >
 > ## Details

@@ -42,7 +42,7 @@ Classes:
 >
 > ![[z_assets/avatar.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The moldering Forge of Dingon
 >
 > ## Details

@@ -54,7 +54,7 @@ Classes:
 >
 > ![[z_assets/chauncy_joins_the_fray.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Sir Chauncy joins the fight against Morganth's forces
 >
 > ## Details
