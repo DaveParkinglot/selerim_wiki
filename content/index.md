@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-04-02T13:24:20.618-04:00
-published: 2026-04-02T13:24:20.618-04:00
+modified: 2026-04-17T17:42:21.973-04:00
+published: 2026-04-17T17:42:21.973-04:00
 Author: Jordan
 ---
 
@@ -12,12 +12,16 @@ Author: Jordan
 >
 > [[Arctur Execlostrabaum]], Headmaster of [[White Grove|White Grove Academy]] & Loremaster of Selerim
 
-### Quick-Links:
+> [!cards|4]
+> **[[World Overview|World Overview - Start Here]]**
+> ![[z_assets/selerim_planet_view.png|profile ctr p+b]]
 
-- [[Campaign Setting Overview]] - overview of the world of Selerim (**Start here!**)
-- [[Selerim Timeline]] - timeline of formative events
-- [[Notable NPCs]] - running list of NPCs
-- [[Adventure Log]] - running log of adventures past
+**[[Selerim Timeline|Timeline of Formative Events]]**
+
+> ![[z_assets/timeline_icon.png|profile hban ctr small]]
+>
+> **[[Adventure Log]]**
+> ![[z_assets/adventurelog.png|profile hban ctr small]]
 
 ### Interactive Map of the [[Inhabitable Lands]]:
 
