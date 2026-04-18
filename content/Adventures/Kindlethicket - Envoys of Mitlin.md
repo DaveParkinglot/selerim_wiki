@@ -45,7 +45,7 @@ Handouts:
 >
 > ![[z_assets/darkling_with_scythe.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > A scythe-wielding unseelie darkling
 >
 > ## Details

@@ -1,12 +1,12 @@
 ---
 publish: true
-created: 2026-02-25T10:14:57.437-05:00
-modified: 2026-03-26T16:23:57.585-04:00
-published: 2026-03-26T16:23:57.585-04:00
+created: 2026-02-25T10:14:57.000-05:00
+modified: 2026-04-05T18:37:23.000-04:00
+published: 2026-04-05T18:37:23.000-04:00
 Age: "32"
 Ancestry:
   - Orc
-Gender: M
+Gender: Male
 Location:
   - "[[Borfield]]"
   - "[[Scrimshaw City]]"
@@ -35,7 +35,7 @@ aliases:
 >
 > **Ancestry**: Orc
 >
-> **Gender**: M
+> **Gender**: Male
 >
 > **Location**: [[Places/Borfield.md|Borfield]], [[Places/Scrimshaw City.md|Scrimshaw City]], Varies
 >

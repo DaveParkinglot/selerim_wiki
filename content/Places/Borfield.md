@@ -2,8 +2,8 @@
 publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T16:13:07.000-05:00
-modified: 2026-03-31T13:58:15.504-04:00
-published: 2026-03-31T13:58:15.504-04:00
+modified: 2026-04-12T22:31:44.901-04:00
+published: 2026-04-12T22:31:44.901-04:00
 Type:
   - Hamlet
 Age (years): 200
@@ -18,7 +18,7 @@ Appearances:
   - None
 marker:
   - coordinates: 1278, 3396
-    icon: lucide-house
+    icon: game-icons:huts-village
     colour: "#cfb53b"
     minZoom: -4
     mapName: Inhabitable_Lands_Map

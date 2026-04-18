@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/leviathan_drawing.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Li'l Gubbins' artistic rendition of a juvenile leviathan
 >
 > ## Details

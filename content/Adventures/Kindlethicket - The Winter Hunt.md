@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/krampus.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Archfey Krampus stows another naughty child in his punishment sack
 >
 > ## Details

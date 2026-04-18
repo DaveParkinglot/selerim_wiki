@@ -2,8 +2,8 @@
 publish: true
 title: Mournholde, City of the Dead
 created: 2023-09-20T14:56:26.000-04:00
-modified: 2026-03-31T13:58:56.332-04:00
-published: 2026-03-31T13:58:56.332-04:00
+modified: 2026-04-12T22:32:42.746-04:00
+published: 2026-04-12T22:32:42.746-04:00
 Type:
   - City of the Dead
   - Free City
@@ -18,7 +18,7 @@ Appearances:
   - "[[The Mournholde Incident]]"
 marker:
   - coordinates: 1040, 1835
-    icon: lucide-castle
+    icon: game-icons:spooky-house
     colour: "#FFAC1C"
     minZoom: -4
     mapName: Inhabitable_Lands_Map

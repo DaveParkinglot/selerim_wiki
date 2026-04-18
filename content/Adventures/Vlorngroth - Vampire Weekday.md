@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/duskveil_keep.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Duskveil Keep
 >
 > ## Details

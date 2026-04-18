@@ -1,16 +1,19 @@
 ---
 publish: true
 created: 2025-10-22T08:02:28.000-04:00
-modified: 2026-03-26T16:28:10.278-04:00
-published: 2026-03-26T16:28:10.278-04:00
+modified: 2026-04-18T09:46:47.000-04:00
+published: 2026-04-18T09:46:47.000-04:00
 Age: "32"
-Ancestry: Tiialian
+Ancestry:
+  - Human
 Gender: Male
 Location:
   - "[[Nova Jersaeria]]"
   - Isla Ruz
 Role: Head of Ruz Family
-Affiliation: Ruz Family
+Affiliation:
+  - Ruz Family
+  - "[[Tiialia]]"
 Appearances:
   - "[[The Great Tiialan Heist]]"
   - "[[Voyage a la Isla Ruz]]"
@@ -28,7 +31,7 @@ Author: Ethan
 >
 > **Age**: 32
 >
-> **Ancestry**: Tiialian
+> **Ancestry**: Human
 >
 > **Gender**: Male
 >
@@ -36,7 +39,7 @@ Author: Ethan
 >
 > **Role**: Head of Ruz Family
 >
-> **Affiliation:** Ruz Family
+> **Affiliation:** Ruz Family, [[Factions/Tiialia.md|Tiialia]]
 >
 > **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]]
 >

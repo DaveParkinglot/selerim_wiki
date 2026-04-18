@@ -11,5 +11,5 @@ Author: Jordan
 - Unfortunately for the folk of this realm, the eruption of the [[Darkwells]] flooded many regions, diminishing its size.
 - In the current age, the Inhabitable Lands span a 400 mile strip along Selerim's equator.
 
-> \[!map|minZoom:-2-maxZoom:3-zoomStep:0.5] InteractiveMap
+> [!map|minZoom:-2-maxZoom:3-zoomStep:0.5] InteractiveMap
 > ![[z_assets/inhabitable_lands.webp]]

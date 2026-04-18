@@ -42,7 +42,7 @@ Classes:
 >
 > ![[z_assets/pil_grim.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The dastardly turkey villain Pill'Grim with his signature corn cob repeating musket
 >
 > ## Details

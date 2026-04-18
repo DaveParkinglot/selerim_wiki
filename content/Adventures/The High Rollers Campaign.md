@@ -66,7 +66,7 @@ The OG campaign.
 >
 > ![[z_assets/nino_coronation.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The coronation of King Antonino Esposito I
 >
 > ## Details

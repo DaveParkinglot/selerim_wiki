@@ -5,8 +5,8 @@ aliases:
   - The Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T12:30:40.000-04:00
-modified: 2026-03-31T13:59:05.011-04:00
-published: 2026-03-31T13:59:05.011-04:00
+modified: 2026-04-12T22:33:14.347-04:00
+published: 2026-04-12T22:33:14.347-04:00
 Type:
   - Free City
 Age (years): 450
@@ -23,7 +23,7 @@ Appearances:
   - "[[The Hellnight Soirée]]"
 marker:
   - coordinates: 815, 3155
-    icon: lucide-anchor
+    icon: game-icons:medieval-gate
     colour: "#0000ff"
     minZoom: -4
     mapName: Inhabitable_Lands_Map
@@ -36,12 +36,12 @@ Author: Jordan
 >
 > ![[z_assets/scrimshaw_city.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Scene view
 >
 > ![[z_assets/scrimshaw_topdown.webp|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Map view
 >
 > ## Details

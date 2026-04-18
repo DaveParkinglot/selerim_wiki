@@ -1,9 +1,11 @@
 ---
 publish: true
 created: 2025-07-27T17:15:45.000-04:00
-modified: 2026-03-26T15:21:28.323-04:00
-published: 2026-03-26T15:21:28.323-04:00
+modified: 2026-04-18T09:05:07.195-04:00
+published: 2026-04-18T09:05:07.195-04:00
+socialImage: adventurelog.png
 Author: Jordan
+image: adventurelog.png
 ---
 
 # Selerim Adventures

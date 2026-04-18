@@ -25,12 +25,12 @@ Author: Jordan
 >
 > ![[z_assets/lord_davos_portnoir_human.jpg|200]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Portnoir's human form
 >
 > ![[z_assets/lord_davos_portnoir_devil.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Portnoir's devil form
 >
 > ## Details

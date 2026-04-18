@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/sharky_and_crew.png|400]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Sharky and his crew make landfall at Bone Tavern
 >
 > ## Details

@@ -31,12 +31,12 @@ Author: Jordan
 >
 > ![[z_assets/hugh_mann_human.png]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Hugh Mann's human form
 >
 > ![[z_assets/hugh_mann_devil.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Hugh Mann's devil form
 >
 > ## Details

@@ -2,8 +2,8 @@
 publish: true
 title: Crillville, Harbor Town
 created: 2025-10-09T14:45:41.000-04:00
-modified: 2026-03-31T13:58:27.742-04:00
-published: 2026-03-31T13:58:27.742-04:00
+modified: 2026-04-12T22:32:02.648-04:00
+published: 2026-04-12T22:32:02.648-04:00
 Type:
   - Town
 Age (years): 80
@@ -18,7 +18,7 @@ Appearances:
   - "[[The Rentpire Strikes Back]]"
 marker:
   - coordinates: 1130, 3180
-    icon: lucide-house
+    icon: game-icons:medieval-village-01
     colour: "#0000ff"
     minZoom: -4
     mapName: Inhabitable_Lands_Map

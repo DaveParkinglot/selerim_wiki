@@ -36,7 +36,7 @@ Classes:
 >
 > ![[z_assets/back_to_the_ship.png|600]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Exterior view of Deep Rock Mining Outpost #7781
 >
 > ## Details

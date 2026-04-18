@@ -38,7 +38,7 @@ Classes:
 >
 > ![[z_assets/robertos_birthday_gala.png|600]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The long-awaited birthday gala of young Roberto Batista
 >
 > ## Details

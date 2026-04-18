@@ -43,7 +43,7 @@ Classes:
 >
 > ![[z_assets/giant_goose.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Fumbo Bimpis' deadly attack goose
 >
 > ## Details

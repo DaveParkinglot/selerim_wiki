@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-04-02T08:44:07.732-04:00
-published: 2026-04-02T08:44:07.732-04:00
+modified: 2026-04-18T09:03:49.440-04:00
+published: 2026-04-18T09:03:49.440-04:00
+socialImage: selerim_planet_view.png
 Author: Jordan
+image: selerim_planet_view.png
 ---
 
-# Primer
+# World Primer
 
 The [[Selerim Timeline|timeline of Selerim]] is that of a world wounded by war and calamity. The few and disparate [[Living Realms]] are divided by vast tracts of [[Violet Bleed|arcane fallout]], a devastating reminder of the [[Nameless War|brutal war]] fought at the world's inception. Within each of these isolated pockets of life, civilization advances at a varying, non-linear pace.
 
@@ -22,9 +24,9 @@ In these times, we fix our focus on the [[Inhabitable Lands]]–largest of the L
 
 # Namesake
 
-Selerim was first settled over 8,000 years ago by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elf (drow) god of war. For two centuries, Selvetarm and his drow followers used the world as a brutal factory of war, exhausting its resources and creating Planar Rifts to steal and enslave folk from other worlds. Despite his exceedingly dark deeds and his eternal banishment into the Abyss, Selvetarm remains the world's namesake to this day.
+Selerim was first settled over 8,000 years ago by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elf (drow) god of war. For two centuries, Selvetarm and his drow followers used the world as a brutal factory of war, exhausting its resources and creating Planar Rifts to steal and enslave folk from other worlds. Despite his terrible deeds and his eternal banishment into the Infinite Abyss, Selvetarm remains the world's namesake to this day.
 
-The [[Inhabitable Lands]], named by [The Seldarine](https://5e.tools/tables.html#elf%20deities%20\(the%20seldarine\)_mtf) before they departed Selerim, were named this because it was thought to be the only remaining habitable region after the destruction wrought by the [[Nameless War]], and the onset of the [[Violet Bleed]].
+The [[Inhabitable Lands]], named by [The Seldarine](https://5e.tools/tables.html#elf%20deities%20\(the%20seldarine\)_mtf) before they departed Selerim, were named as such because they were thought to be the planet’s only habitable lands after the destruction wrought by the [[Nameless War]] and the onset of the [[Violet Bleed]].
 
 # Peoples
 

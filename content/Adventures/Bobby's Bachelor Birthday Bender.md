@@ -41,7 +41,7 @@ Classes:
 >
 > ![[z_assets/tween_worlds_tavern.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > The 'Tween Worlds Tavern, under construction
 >
 > ## Details

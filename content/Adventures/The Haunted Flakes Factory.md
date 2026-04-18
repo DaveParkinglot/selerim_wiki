@@ -34,7 +34,7 @@ Classes:
 >
 > ![[z_assets/billy_basilisk_factory.png]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Li'l Carlos Dunlap's drawing of cereal mascot Billy Basilisk, chained up in the laboratory wing
 >
 > ## Details

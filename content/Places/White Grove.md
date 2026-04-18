@@ -4,8 +4,8 @@ aliases:
   - White Grove Academy
 title: White Grove, Magic Academy
 created: 2023-09-02T09:45:40.000-04:00
-modified: 2026-03-31T13:59:24.429-04:00
-published: 2026-03-31T13:59:24.429-04:00
+modified: 2026-04-12T22:33:34.405-04:00
+published: 2026-04-12T22:33:34.405-04:00
 Type:
   - Magical Academy
 Age (years): 180
@@ -18,7 +18,7 @@ Appearances:
   - "[[White Grove - Summer Vacation]]"
 marker:
   - coordinates: 555, 680
-    icon: lucide-university
+    icon: fa7-solid:university
     colour: "#0000ff"
     minZoom: -4
     mapName: Inhabitable_Lands_Map

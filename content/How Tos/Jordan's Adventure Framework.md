@@ -1,4 +1,5 @@
-> [!quote] _“It doesn’t matter if it is good, it only matters if it rocks.”_ - unknown bard
+> [!quote|mark] Unknown Bard
+> It doesn’t matter if it is good, it only matters if it rocks.
 
 # Introductory Notes
 
