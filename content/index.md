@@ -16,7 +16,6 @@ Author: Jordan
 
 - [[Campaign Setting Overview]] - overview of the world of Selerim (**Start here!**)
 - [[Selerim Timeline]] - timeline of formative events
-- [[Notable NPCs]] - running list of NPCs
 - [[Adventure Log]] - running log of adventures past
 
 ### Interactive Map of the _[[Inhabitable Lands]]_:
