@@ -25,7 +25,7 @@ configuration:
     - z_Templates
   theme:
     fontOrigin: googleFonts
-    cdnCaching: true
+    cdnCaching: false
     typography:
       header: Schibsted Grotesk
       body: Source Sans Pro
@@ -277,7 +277,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      theme: its-theme.ttrpg-dnd
+      theme: its-theme.drowned
 layout:
   groups:
     toolbar:
