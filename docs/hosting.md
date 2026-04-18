@@ -13,7 +13,7 @@ However, if you'd like to publish your site to the world, you need a way to host
 > Some Quartz features (like [[RSS Feed]] and sitemap generation) require `baseUrl` to be configured properly in your [[configuration]] to work properly. Make sure you set this before deploying!
 
 > [!tip] Keeping plugins in sync
-> All hosting examples below use `npx quartz plugin install` to install plugins from the lockfile. If contributors may add plugins to `quartz.config.yaml` without updating the lockfile, add `npx quartz plugin install --from-config` after `restore` in your build command to install any missing plugins. See [[cli/plugin#resolve|plugin resolve]] for details.
+> All hosting examples below use `npx quartz plugin install` to install plugins from the lockfile. If contributors may add plugins to `quartz.config.yaml` without updating the lockfile, add `npx quartz plugin install --from-config` after `install` in your build command to install any missing plugins. See [[cli/plugin#install|plugin install]] for details.
 
 ## Cloudflare Pages
 
@@ -36,7 +36,7 @@ To add a custom domain, check out [Cloudflare's documentation](https://developer
 > Cloudflare Pages performs a shallow clone by default, so if you rely on `git` for timestamps, it is recommended that you add `git fetch --unshallow &&` to the beginning of the build command (e.g., `git fetch --unshallow && npx quartz plugin install && npx quartz build`).
 
 > [!note]
-> For more detailed CI/CD configuration including caching and plugin management, see [[ci-cd]].
+> For more detailed CI/CD configuration including caching and plugin management, see [[migrating#Updating Your CI/CD|the migration guide]].
 
 ## GitHub Pages
 
@@ -61,17 +61,31 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
-          node-version: 22
+          node-version: 24
+      - name: Cache dependencies
+        uses: actions/cache@v5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - name: Cache Quartz plugins
+        uses: actions/cache@v5
+        with:
+          path: .quartz/plugins
+          key: ${{ runner.os }}-plugins-${{ hashFiles('quartz.lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-plugins-
       - name: Install Dependencies
         run: npm ci
-      - name: Restore Quartz plugins
+      - name: Install Quartz plugins
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
@@ -197,11 +211,14 @@ stages:
   - build
   - deploy
 
-image: node:22
-cache: # Cache modules in between jobs
-  key: $CI_COMMIT_REF_SLUG
-  paths:
-    - .npm/
+image: node:24
+cache:
+  - key: npm-$CI_COMMIT_REF_SLUG
+    paths:
+      - .npm/
+  - key: plugins-$CI_COMMIT_REF_SLUG
+    paths:
+      - .quartz/plugins/
 
 build:
   stage: build
@@ -216,8 +233,6 @@ build:
   artifacts:
     paths:
       - public
-  tags:
-    - gitlab-org-docker
 
 pages:
   stage: deploy

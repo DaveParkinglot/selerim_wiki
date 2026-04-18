@@ -11,6 +11,11 @@ export const CommonArgv = {
     default: false,
     describe: "print out extra logging information",
   },
+  concurrency: {
+    number: true,
+    alias: ["c"],
+    describe: "max parallel operations (default: number of CPU cores)",
+  },
 }
 
 export const CreateArgv = {
@@ -111,9 +116,5 @@ export const BuildArgv = {
     boolean: true,
     default: false,
     describe: "show detailed bundle information",
-  },
-  concurrency: {
-    number: true,
-    describe: "how many threads to use to parse notes",
   },
 }

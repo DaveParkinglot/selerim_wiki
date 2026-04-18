@@ -20,6 +20,7 @@ This plugin accepts the following configuration options:
 - `openLinksInNewTab`: If `true`, configures external links to open in a new tab. Defaults to `false`.
 - `lazyLoad`: If `true`, adds lazy loading to resource elements (`img`, `video`, etc.) to improve page load performance. Defaults to `false`.
 - `externalLinkIcon`: Adds an icon next to external links when `true` (default) to visually distinguishing them from internal links.
+- `disableBrokenWikilinks`: If `true`, internal links whose resolved slug is not present in the site (i.e. no matching file under `markdownLinkResolution`) gain an additional `broken` CSS class alongside `internal`, so they can be styled distinctly. Defaults to `false`. Applies to both wikilinks and regular Markdown links, since both are indistinguishable `<a>` elements by the time this plugin runs.
 
 > [!warning]
 > Removing this plugin is _not_ recommended and will likely break the page.

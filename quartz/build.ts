@@ -9,7 +9,8 @@ import { parseMarkdown } from "./processors/parse"
 import { filterContent } from "./processors/filter"
 import { emitContent } from "./processors/emit"
 import cfg from "../quartz"
-import { FilePath, FullSlug, joinSegments, slugifyFilePath } from "./util/path"
+import { FilePath, joinSegments, slugifyFilePath } from "./util/path"
+import { detectSlugCollisions, formatCollisionWarning } from "./util/slugCollisions"
 import chokidar from "chokidar"
 import { ProcessedContent } from "./plugins/vfile"
 import { Argv, BuildCtx } from "./util/ctx"
@@ -19,38 +20,13 @@ import { options } from "./util/sourcemap"
 import { Mutex } from "async-mutex"
 import { getStaticResourcesFromPlugins } from "./plugins"
 import { randomIdNonSecure } from "./util/random"
-import { ChangeEvent, QuartzPageTypePluginInstance } from "./plugins/types"
+import { ChangeEvent } from "./plugins/types"
 import { minimatch } from "minimatch"
 
-function getPageTypeExtensions(ctx: BuildCtx): Set<string> {
-  const extensions = new Set<string>()
-  const pageTypes = (ctx.cfg.plugins.pageTypes ?? []) as unknown as QuartzPageTypePluginInstance[]
-  for (const pt of pageTypes) {
-    if (pt.fileExtensions) {
-      for (const ext of pt.fileExtensions) {
-        extensions.add(ext)
-      }
-    }
-  }
-  return extensions
-}
-
-// For files whose extensions are handled by PageType plugins (e.g. .canvas, .base),
-// add extension-stripped slug aliases so that wikilink resolution (CrawlLinks) maps
-// `![[file.canvas]]` to the virtual-page slug `file` instead of the raw `file.canvas`.
-function addVirtualPageSlugAliases(allSlugs: FullSlug[], extensions: Set<string>): FullSlug[] {
-  const extra: FullSlug[] = []
-  for (const slug of allSlugs) {
-    for (const ext of extensions) {
-      if (slug.endsWith(ext)) {
-        const stripped = slug.slice(0, -ext.length) as FullSlug
-        if (!allSlugs.includes(stripped) && !extra.includes(stripped)) {
-          extra.push(stripped)
-        }
-      }
-    }
-  }
-  return extra
+function reportSlugCollisions(content: ProcessedContent[]): void {
+  const collisions = detectSlugCollisions(content)
+  if (collisions.length === 0) return
+  console.warn(styleText("yellow", formatCollisionWarning(collisions)))
 }
 
 type ContentMap = Map<
@@ -114,15 +90,8 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   ctx.allFiles = allFiles
   ctx.allSlugs = allFiles.map((fp) => slugifyFilePath(fp as FilePath))
 
-  // Add extension-stripped slug aliases for PageType-registered extensions
-  // so that wikilinks like ![[file.canvas]] resolve to virtual page slugs
-  const ptExtensions = getPageTypeExtensions(ctx)
-  if (ptExtensions.size > 0) {
-    const aliases = addVirtualPageSlugAliases(ctx.allSlugs, ptExtensions)
-    ctx.allSlugs.push(...aliases)
-  }
-
   const parsedFiles = await parseMarkdown(ctx, filePaths)
+  reportSlugCollisions(parsedFiles)
   const filteredContent = filterContent(ctx, parsedFiles)
 
   await emitContent(ctx, filteredContent)
@@ -297,18 +266,11 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
   ctx.allFiles = Array.from(contentMap.keys())
   ctx.allSlugs = ctx.allFiles.map((fp) => slugifyFilePath(fp as FilePath))
 
-  // Add extension-stripped slug aliases for PageType-registered extensions
-  const ptExtensions = getPageTypeExtensions(ctx)
-  if (ptExtensions.size > 0) {
-    const aliases = addVirtualPageSlugAliases(ctx.allSlugs, ptExtensions)
-    ctx.allSlugs.push(...aliases)
-  }
-  let processedFiles = filterContent(
-    ctx,
-    Array.from(contentMap.values())
-      .filter((file) => file.type === "markdown")
-      .map((file) => file.content),
-  )
+  const markdownContent = Array.from(contentMap.values())
+    .filter((file) => file.type === "markdown")
+    .map((file) => file.content)
+  reportSlugCollisions(markdownContent)
+  let processedFiles = filterContent(ctx, markdownContent)
 
   let emittedFiles = 0
 

@@ -178,7 +178,7 @@ Plugins can ship their own frames by declaring them in `package.json` and export
 
 **2. Core frames (for project-specific frames):**
 
-You can also create frames directly in `quartz/components/frames/` by implementing the `PageFrame` interface and registering the frame in `quartz/components/frames/index.ts`. See the [[advanced/architecture|architecture overview]] for the full `PageFrame` interface.
+You can also create frames directly in `quartz/components/frames/` by implementing the `PageFrame` interface and registering the frame in `quartz/components/frames/index.ts`. See the [[architecture|architecture overview]] for the full `PageFrame` interface.
 
 Frames are applied as a `data-frame` attribute on the `.page` element, which you can target in CSS:
 

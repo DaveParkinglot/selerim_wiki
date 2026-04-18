@@ -35,7 +35,7 @@ For other files, if a conflict occurs:
 
 ## Recovery
 
-If an upgrade goes wrong or leaves your project in an unusable state, you can use the [[cli/restore|restore]] command to recover your content from the local cache.
+If an upgrade goes wrong or leaves your project in an unusable state, you can use the [[restore|restore]] command to recover your content from the local cache.
 
 ## Flags
 
@@ -44,5 +44,5 @@ The `upgrade` command supports the standard [[cli/index|common flags]] (`--direc
 ## See Also
 
 - [[cli/plugin|quartz plugin install --latest]] — update installed plugins
-- [[getting-started/upgrading|Upgrading Quartz]] — detailed upgrading guide
-- [[cli/restore|quartz restore]] — recover content from cache
+- [[upgrading|Upgrading Quartz]] — detailed upgrading guide
+- [[restore|quartz restore]] — recover content from cache

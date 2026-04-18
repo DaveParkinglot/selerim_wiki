@@ -349,7 +349,8 @@ export async function loadQuartzConfig(
           // If the module exports an init() function, call it with merged options
           // so component-only plugins can receive user configuration from YAML.
           if (typeof module.init === "function") {
-            const options = { ...manifest?.defaultOptions, ...entry.options }
+            const initOverrides = componentRegistry.getOptionOverrides(gitSpec.name)
+            const options = { ...manifest?.defaultOptions, ...entry.options, ...initOverrides }
             await module.init(Object.keys(options).length > 0 ? options : undefined)
           }
         } catch (e) {
@@ -440,7 +441,8 @@ export async function loadQuartzConfig(
           )
           continue
         }
-        const options = { ...manifest?.defaultOptions, ...entry.options }
+        const pluginOverrides = componentRegistry.getOptionOverrides(gitSpec.name)
+        const options = { ...manifest?.defaultOptions, ...entry.options, ...pluginOverrides }
         instances.push(factory(Object.keys(options).length > 0 ? options : undefined))
       } catch (err) {
         console.error(
@@ -636,7 +638,8 @@ export async function loadQuartzLayout(layoutOverrides?: {
     if (footerReg) {
       if (typeof footerReg.component === "function" && !("displayName" in footerReg.component)) {
         // It's a constructor — use registry cache for consistent instances
-        const opts = { ...footerEntry.options }
+        const footerOverrides = componentRegistry.getOptionOverrides("footer")
+        const opts = { ...footerEntry.options, ...footerOverrides }
         footer = componentRegistry.instantiate(
           footerReg.component as QuartzComponentConstructor,
           Object.keys(opts).length > 0 ? opts : undefined,
@@ -726,7 +729,8 @@ function buildLayoutForEntries(
     if (typeof reg.component === "function" && !("displayName" in reg.component)) {
       // It's a constructor — use registry cache to avoid duplicate instances
       // (and duplicate afterDOMLoaded scripts) across page-type layouts
-      const opts = { ...entry.options }
+      const tsOverrides = componentRegistry.getOptionOverrides(name)
+      const opts = { ...entry.options, ...tsOverrides }
       const optsArg = Object.keys(opts).length > 0 ? opts : undefined
       component = componentRegistry.instantiate(
         reg.component as QuartzComponentConstructor,

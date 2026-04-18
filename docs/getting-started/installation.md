@@ -45,6 +45,15 @@ npx quartz sync --no-pull
 
 In future updates, you can simply run `npx quartz sync` every time you want to push updates to your repository.
 
+> [!tip] First-time plugin install on a fresh clone
+> The Quartz template ships with a `quartz.lock.json` that pins community plugins to specific commits. On a brand-new clone those pins may be older than the plugins' current dependency versions, which can cause a handful of plugins to fail to build on first install. If you hit build errors during initial setup, run:
+>
+> ```bash
+> npx quartz plugin install --latest
+> ```
+>
+> This refreshes every plugin to the latest commit on its default branch and rewrites `quartz.lock.json`. See [[troubleshooting#Plugins fail to build on a fresh clone]] for details.
+
 > [!hint] Flags and options
 > For full help options, you can run `npx quartz sync --help`.
 >

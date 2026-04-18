@@ -42,7 +42,7 @@ See [[Frontmatter]] for a complete list of frontmatter.
 ## Syncing your Content
 
 When your Quartz is at a point you're happy with, you can save your changes to GitHub.
-First, make sure you've [[getting-started/installation|already setup your GitHub repository]] and then do `npx quartz sync`.
+First, make sure you've [[installation|already setup your GitHub repository]] and then do `npx quartz sync`.
 
 ## Customization
 

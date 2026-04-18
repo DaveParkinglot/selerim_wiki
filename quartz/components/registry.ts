@@ -19,6 +19,7 @@ export interface RegisteredComponent {
 class ComponentRegistry {
   private components = new Map<string, RegisteredComponent>()
   private instanceCache = new Map<string, QuartzComponent>()
+  private optionOverrides = new Map<string, Record<string, unknown>>()
 
   register(
     name: string,
@@ -39,6 +40,17 @@ class ComponentRegistry {
 
   getAll(): Map<string, RegisteredComponent> {
     return new Map(this.components)
+  }
+
+  /** Store option overrides for a plugin, keyed by plugin directory name. */
+  setOptionOverrides(pluginName: string, opts?: Record<string, unknown>): void {
+    if (!opts || Object.keys(opts).length === 0) return
+    this.optionOverrides.set(pluginName, { ...this.optionOverrides.get(pluginName), ...opts })
+    this.instanceCache.clear()
+  }
+
+  getOptionOverrides(pluginName: string): Record<string, unknown> | undefined {
+    return this.optionOverrides.get(pluginName)
   }
 
   /**

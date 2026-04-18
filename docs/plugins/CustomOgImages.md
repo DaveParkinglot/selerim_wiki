@@ -40,9 +40,10 @@ plugins:
 For the TS override approach (needed for custom `imageStructure`):
 
 ```ts title="quartz.ts (override)"
+import * as ExternalPlugin from "./.quartz/plugins"
 import { defaultImage } from "./quartz/plugins/emitters/ogImage"
 
-CustomOgImages({
+ExternalPlugin.CustomOgImages({
   colorScheme: "lightMode",
   width: 1200,
   height: 630,

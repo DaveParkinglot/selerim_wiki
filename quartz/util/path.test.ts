@@ -120,11 +120,33 @@ describe("transforms", () => {
         ["test/special chars?.md", "test/special-chars"],
         ["test/special chars #3.md", "test/special-chars-3"],
         ["cool/what about r&d?.md", "cool/what-about-r-and-d"],
+        // Obsidian "Folder Notes" convention: folder/folder.md is the folder's landing page
+        ["characters/characters.md", "characters/index"],
+        ["fiction/books/books.md", "fiction/books/index"],
+        ["a/a/a.md", "a/a/index"],
+        // Top-level single-segment: NOT rewritten (parentFolder storage, out of scope)
+        ["characters.md", "characters"],
+        // Non-matching last two segments: no rewrite
+        ["characters/alice.md", "characters/alice"],
+        ["characters/sub/characters.md", "characters/sub/characters"],
+        // Folder literally named "index" is unaffected by the rewrite
+        ["index/index.md", "index/index"],
+        ["docs/index/index.md", "docs/index/index"],
       ],
       path.slugifyFilePath,
       path.isFilePath,
       path.isFullSlug,
     )
+  })
+
+  test("slugifyFilePath + simplifySlug end-to-end canonicalization", () => {
+    // Both folder-note conventions must produce identical user-facing URLs.
+    const indexStyle = path.simplifySlug(path.slugifyFilePath("characters/index.md" as any))
+    const folderNameStyle = path.simplifySlug(
+      path.slugifyFilePath("characters/characters.md" as any),
+    )
+    assert.strictEqual(indexStyle, folderNameStyle)
+    assert.strictEqual(indexStyle, "characters/")
   })
 
   test("transformInternalLink", () => {

@@ -10,7 +10,7 @@ Shows pages that link to the current page.
 > [!note]
 > For information on how to add, remove or configure plugins, see the [[configuration#Plugins|Configuration]] page.
 
-See [[backlinks]] for detailed usage information.
+See [[plugins/Backlinks]] for detailed usage information.
 
 ## Configuration
 

@@ -20,7 +20,7 @@ The `build` command transforms your Markdown content into a static HTML website.
 | `--baseDir`       |           | Set a base directory for the site (e.g. for GitHub Pages) | `/`               |
 | `--remoteDevHost` |           | The hostname to use for the development server            | `localhost`       |
 | `--bundleInfo`    |           | Output a JSON file with bundle size information           | `false`           |
-| `--concurrency`   |           | Number of worker threads to use for building              | CPU core count    |
+| `--concurrency`   | `-c`      | Number of worker threads to use for building              | CPU core count    |
 
 ## Examples
 

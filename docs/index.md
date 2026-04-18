@@ -10,8 +10,8 @@ Quartz requires **at least [Node](https://nodejs.org/) v22** and `npm` v10.9.2 t
 
 ### New to Quartz?
 
-1. **[[getting-started/installation|Set up your repository]]** — Fork and clone the Quartz template
-2. **[[getting-started/installation|Initialize]]** — Run `npx quartz create` to choose a template and configure your site
+1. **[[installation|Set up your repository]]** — Fork and clone the Quartz template
+2. **[[installation|Initialize]]** — Run `npx quartz create` to choose a template and configure your site
 3. **[[build|Build]]** — Preview your site locally with `npx quartz build --serve`
 4. **[[hosting|Deploy]]** — Host your site for free on GitHub Pages, Cloudflare, or Netlify
 
@@ -26,7 +26,7 @@ npx quartz build --serve
 
 ## 🔧 Features
 
-- [[Obsidian compatibility]], [[full-text search]], [[graph view]], [[wikilinks|wikilinks, transclusions]], [[backlinks]], [[features/Latex|Latex]], [[syntax highlighting]], [[popover previews]], [[Docker Support]], [[i18n|internationalization]], [[comments]] and [many more](./features/) right out of the box
+- [[Obsidian compatibility]], [[full-text search]], [[graph view]], [[wikilinks|wikilinks, transclusions]], [[plugins/Backlinks]], [[features/Latex|Latex]], [[syntax highlighting]], [[popover previews]], [[Docker Support]], [[i18n|internationalization]], [[features/comments|comments]] and [many more](./features/) right out of the box
 - Hot-reload on configuration edits and incremental rebuilds for content edits
 - Simple JSX layouts and [[creating components|page components]]
 - [[SPA Routing|Ridiculously fast page loads]] and tiny bundle sizes

@@ -19,14 +19,25 @@ You can run the CLI using `npx quartz`.
 
 ## Commands
 
-- [[cli/create|create]]: Initialize a new Quartz project with a choice of templates (default, obsidian, ttrpg, blog) and base URL configuration.
-- [[cli/build|build]]: Build your Quartz site into static HTML. Includes a development server.
-- [[cli/sync|sync]]: Push and pull changes between your local machine and GitHub.
-- [[cli/upgrade|upgrade]]: Upgrade the Quartz framework to the latest version. Also available as `npx quartz update`.
-- [[cli/restore|restore]]: Recover your content folder from the local cache.
-- [[cli/migrate|migrate]]: Convert older configuration files to the new YAML format.
+- [[create|create]]: Initialize a new Quartz project with a choice of templates (default, obsidian, ttrpg, blog) and base URL configuration.
+- [[build|build]]: Build your Quartz site into static HTML. Includes a development server.
+- [[sync|sync]]: Push and pull changes between your local machine and GitHub.
+- [[upgrade|upgrade]]: Upgrade the Quartz framework to the latest version. Also available as `npx quartz update`.
+- [[restore|restore]]: Recover your content folder from the local cache.
 - [[cli/plugin|plugin]]: Install, add, remove, prune, and configure plugins. Use `plugin install` with flags for lockfile/config sync, updates, and checks.
-- [[cli/tui|tui]]: Use a terminal interface to manage plugins and layout.
+- [[tui|tui]]: Use a terminal interface to manage plugins and layout.
+
+## Global Flags
+
+These flags are accepted by every Quartz command:
+
+| Flag            | Shorthand | Description                                                                                             | Default        |
+| --------------- | --------- | ------------------------------------------------------------------------------------------------------- | -------------- |
+| `--directory`   | `-d`      | The directory containing your Quartz project                                                            | `content`      |
+| `--verbose`     | `-v`      | Enable detailed logging for debugging                                                                   | `false`        |
+| `--concurrency` | `-c`      | Max parallel workers for operations that run in parallel (e.g. `build`, `plugin install`, `plugin add`) | CPU core count |
+
+Commands that don't perform parallel work accept `-c` as a no-op, so it's always safe to pass. See [[build#Performance Tuning|build]] and [[cli/plugin#Installing on low-end hardware|plugin]] for practical examples.
 
 ## Help and Versioning
 
