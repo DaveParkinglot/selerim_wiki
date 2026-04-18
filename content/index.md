@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-04-18T09:29:22.308-04:00
-published: 2026-04-18T09:29:22.308-04:00
+modified: 2026-04-18T10:35:41.565-04:00
+published: 2026-04-18T10:35:41.565-04:00
 Author: Jordan
 ---
 
@@ -16,9 +16,9 @@ views:
     name: Cards
     filters:
       or:
-        - file.path.startsWith("Selerim Wiki/World Overview")
-        - file.path.startsWith("Selerim Wiki/Selerim Timeline")
-        - file.path.startsWith("Selerim Wiki/Adventure Log")
+        - file.name == "World Overview"
+        - file.name == "Selerim Timeline"
+        - file.name == "Adventure Log"
     sort:
       - property: file.name
         direction: DESC

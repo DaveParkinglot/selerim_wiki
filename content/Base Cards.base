@@ -5,7 +5,7 @@ views:
       or:
         - file.path.startsWith("Selerim Wiki/World Overview")
         - file.path.startsWith("Selerim Wiki/Selerim Timeline")
-        - file.path.startsWith("Selerim Wiki/Adventure Log")
+        - file.name == "Adventure Log"
     sort:
       - property: file.name
         direction: DESC
