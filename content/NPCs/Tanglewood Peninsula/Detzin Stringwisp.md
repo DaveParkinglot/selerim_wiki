@@ -3,12 +3,12 @@ publish: true
 aliases:
   - Detzin
 created: 2025-11-02T10:33:16.000-05:00
-modified: 2026-03-26T16:26:29.216-04:00
-published: 2026-03-26T16:26:29.216-04:00
+modified: 2026-04-15T21:53:57.785-04:00
+published: 2026-04-15T21:53:57.785-04:00
 Age: "42"
 Ancestry:
   - Wood Elf
-Gender: M
+Gender: Male
 Location:
   - "[[Mitlin]]"
 Role:
@@ -34,7 +34,7 @@ Author: Jordan
 >
 > **Ancestry**: Wood Elf
 >
-> **Gender**: M
+> **Gender**: Male
 >
 > **Location**: [[Places/Mitlin.md|Mitlin]]
 >

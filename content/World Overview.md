@@ -1,9 +1,11 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-04-17T16:44:06.393-04:00
-published: 2026-04-17T16:44:06.393-04:00
+modified: 2026-04-18T09:03:49.440-04:00
+published: 2026-04-18T09:03:49.440-04:00
+socialImage: selerim_planet_view.png
 Author: Jordan
+image: selerim_planet_view.png
 ---
 
 # World Primer

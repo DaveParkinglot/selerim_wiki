@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: Cards
+    filters:
+      or:
+        - file.path.startsWith("Selerim Wiki/World Overview")
+        - file.path.startsWith("Selerim Wiki/Selerim Timeline")
+        - file.path.startsWith("Selerim Wiki/Adventure Log")
+    sort:
+      - property: file.name
+        direction: DESC
+    image: note.image
+    imageAspectRatio: 0.45
