@@ -14,7 +14,7 @@ Author: Jordan
 
 ### Quick-Links:
 
-- [[World Overview]] - overview of the world of Selerim (**Start here!**)
+- [[Campaign Setting Overview]] - overview of the world of Selerim (**Start here!**)
 - [[Selerim Timeline]] - timeline of formative events
 - [[Adventure Log]] - running log of adventures past
 
