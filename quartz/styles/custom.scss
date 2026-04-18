@@ -8,7 +8,7 @@
 @use "./custom/image-adjustments.scss";
 @use "./custom/callout-adjustments.scss";
 @use "./custom/column-callout.scss";
-@use "./custom/caption-callout.scss";
+@use "./custom/caption-callout.scss"; 
 
 // put your custom CSS here!
 
@@ -37,7 +37,7 @@ div.explorer {
 
 /* Force borders on Quartz Callout Infoboxes */
 .callout[data-callout="infobox"] {
-  border: 1px solid #22a578 !important;
+  border: 1px solid #378876 !important;
   border-collapse: collapse !important;
   margin-bottom: 1rem !important;
   padding: 5px !important;
@@ -68,3 +68,4 @@ body table th, body table td {
   padding: 0 !important;                    // Removes extra spacing around the text
   border-radius: 0 !important;              // Removes rounded corners if they existed
 }
+

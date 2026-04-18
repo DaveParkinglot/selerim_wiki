@@ -15,7 +15,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: daveparkinglot.github.io/selerim_wiki_v5/
+  baseUrl: daveparkinglot.github.io/
   ignorePatterns:
     - private
     - templates
@@ -234,7 +234,7 @@ plugins:
       links:
         GitHub Repo: https://github.com/DaveParkinglot/selerim_wiki
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -250,7 +250,7 @@ plugins:
   - source: github:quartz-community/note-properties
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       includedProperties:
         - description
         - tags

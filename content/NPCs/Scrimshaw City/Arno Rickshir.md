@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-18T09:28:29.083-04:00
-published: 2026-04-18T09:28:29.083-04:00
 Age: "52"
 Ancestry:
   - Half-Orc
@@ -19,35 +15,30 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox]
->
 > ## Arno Rickshir
->
-> ![[z_assets/arno_rickshir.png|300]]
->
+> ![[arno_rickshir.png|300]]
 > ## Details
->
-> **Age**: 52
->
-> **Ancestry**: Half-Orc
->
-> **Gender**: Male
->
-> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]], Varies
->
-> **Role**: Pawn Shop Owner
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 > [!Quote|author mark] Arno Rickshir
-> You never know WHAT is gonna come through that door!
+>You never know WHAT is gonna come through that door!
 
 - Though the [[The High Rollers]] were able to recover his stolen goods from kobold thieves, his old man and his son were killed while journeying through the Tanglewoods.
 - Owner of Boldriver Pawn Shop, the best place to buy and trade magic items in [[Scrimshaw City]], and anywhere else
@@ -55,13 +46,13 @@ Author: Jordan
 - Inseparable from his best friend and only remaining permanent employee, the sentient bag of holding named Deep Tote
 
 # Attributes
-
 - **Voice**: Gruff like Rick Harrison
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 
 | Name                 | Relationship |
 | -------------------- | ------------ |
+

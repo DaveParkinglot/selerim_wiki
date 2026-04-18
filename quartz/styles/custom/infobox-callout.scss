@@ -5,7 +5,7 @@
 .callout[data-callout="infobox"] {
     background-color: transparent;
     --callout-icon: none;
-    border: 1px solid #22a578;
+    border: 1px solid #378876;
     float: right;
     width: 300px;
     margin: 0px 0px 10px 10px;
@@ -42,7 +42,7 @@
   padding: 6px 0px;      /* Vertical padding for height, 0 for horizontal */
   
   /* Use your Quartz theme variables */
-  background-color: #22a578 !important; 
+  background-color: #378876 !important; 
   color: var(--normal) !important; 
   
   /* Remove rounded corners if you want it to sit flush against the box borders */
@@ -58,7 +58,7 @@
   text-align: center;
   padding: 4px 0px;
   
-  background-color: #22a578 !important;
+  background-color: #378876 !important;
   color: var(--normal) !important;
   border-radius: 0px;
 }

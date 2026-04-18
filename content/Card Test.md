@@ -1,16 +1,16 @@
-> [!cards|4 no-i]
+> [!cards|3]
+> > [!caption]
+> **[[World Overview]]**
+> ![[selerim_planet_view.png|banner+small ]]
+>> Start Here
 >
 > > [!caption]
-> > **[[World Overview]]**
-> > ![[z_assets/selerim_planet_view.png|banner+small ]]
-> > Start Here
+> **[[Selerim Timeline]]**
+> ![[timeline_icon.png|banner+small]]
+> Formative events
 >
 > > [!caption]
-> > **[[Selerim Timeline]]**
-> > ![[z_assets/timeline_icon.png|banner+small]]
-> > Formative events
->
-> > [!caption]
-> > **[[Adventure Log]]**
-> > ![[z_assets/adventurelog.png|banner+small]]
-> > Legends of Selerim's adventurers
+> **[[Adventure Log]]**
+ > ![[adventurelog.png|banner+small]]
+ >> Legends of Selerim's adventurers
+ 

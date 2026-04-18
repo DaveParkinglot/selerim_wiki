@@ -10,4 +10,5 @@ views:
       - property: file.name
         direction: DESC
     image: note.image
-    imageAspectRatio: 0.45
+    imageAspectRatio: 2.5
+    cardSize: 50
