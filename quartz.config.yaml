@@ -264,18 +264,20 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: its-theme.drowned
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
     order: 50
     options:
       enableCopyTool: true
+  - source:
+      name: quartz-themes
+      repo: github:saberzero1/quartz-themes
+      subdir: plugin
+      ref: main
+    enabled: true
+    order: 50
+    options:
+      theme: its-theme.ttrpg-dnd
 layout:
   groups:
     toolbar:
