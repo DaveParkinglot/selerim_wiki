@@ -8,23 +8,9 @@
 @use "./custom/image-adjustments.scss";
 @use "./custom/callout-adjustments.scss";
 @use "./custom/column-callout.scss";
-@use "./custom/caption-callout.scss"; 
+@use "./custom/caption-callout.scss";
 
 // put your custom CSS here!
-
-// Adding some spacing between entries in the explorer
-div.explorer {
-    .overflow {
-        li {
-            li {
-                margin-bottom: 0.3rem;
-            }
-            &:last-child {
-                margin-bottom: 0;
-            }
-        }
-    }
-}
 
 // expands to match wide monitors better (I think)
 @media all and ($desktop) {
@@ -35,14 +21,6 @@ div.explorer {
   }
 }
 
-/* Force borders on Quartz Callout Infoboxes */
-.callout[data-callout="infobox"] {
-  border: 1px solid #378876 !important;
-  border-collapse: collapse !important;
-  margin-bottom: 1rem !important;
-  padding: 5px !important;
-  background-color: transparent !important; /* Ensures the background doesn't hide the border */
-}
 
 /* DATAVIEW TABLE FIX: fix width for dataview and standard tables */
 body table {
@@ -61,6 +39,7 @@ body table th, body table td {
   padding: 8px;            /* Gives the data some breathing room */
 }
 
+
 // Targets the background of both internal and external links
 .internal, .external, a {
   background-color: transparent !important; // Removes the background fill
@@ -69,3 +48,17 @@ body table th, body table td {
   border-radius: 0 !important;              // Removes rounded corners if they existed
 }
 
+/* Ensure list items share the same font properties as body text */
+li {
+  font-family: var(--bodyFont);
+  font-size: 1rem; /* Adjust to match your body font size */
+  color: var(--dark);  /* Matches standard text color */
+  line-height: 1.5;    /* Matches standard paragraph spacing */
+  margin-bottom: 0.5em; /* Adjust or set to 0 to match paragraph gaps */
+}
+
+/* Optional: If you want to remove the extra indentation */
+ul, ol {
+  padding-left: 1.5rem; 
+  margin-top: 0;
+}
