@@ -1,4 +1,10 @@
 ---
+publish: true
+aliases:
+  - El Presidente Hugh Mann
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-04-01T12:10:15.020-04:00
+published: 2026-04-01T12:10:15.020-04:00
 Age: "326"
 Ancestry:
   - Fiend (Devil)
@@ -17,38 +23,42 @@ Appearances:
   - "[[The Hellnight Soirée]]"
 Status: Alive
 Author: Jordan
-aliases:
-  - El Presidente Hugh Mann
 ---
+
 > [!infobox]
+>
 > ## Hugh Mann
-> ![[hugh_mann_human.png]] 
+>
+> ![[z_assets/hugh_mann_human.png]]
+>
 > > [!caption|center]
 > > Hugh Mann's human form
-> 
-> ![[hugh_mann_devil.png|300]]
+>
+> ![[z_assets/hugh_mann_devil.png|300]]
+>
 > > [!caption|center]
 > > Hugh Mann's devil form
-> 
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 326
+>
+> **Ancestry**: Fiend (Devil)
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: El Presidente, Former Adventurer
+>
+> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]], Tavernstool
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
+>
+> **Status:** Alive
 
 # Overview
+
 - A devil from one of the Nine Hells who isn't actually all that bad.
 - Hundreds of years ago, Hugh and his friends were thrown away as battlefield fodder by the man who would become the devil [[Lord Davos Portnoir]].
 - He adventured with [[The High Rollers]] for a time, and eventually had his vengeance by deposing [[Lord Davos Portnoir]].
@@ -56,12 +66,13 @@ aliases:
 - His status as a devil is, at this point, widely known in Scrimshaw.
 
 # Attributes
+
 - **Voice**: Flat, official, corporate... almost bored at times
 - **Traits**: Uses flattery and can be highly manipulative. Friendship lasts forever
-- **Goals:** 
-	- Vengeance upon those who have wronged me
-	- Keep the Abyssal Rift closed
-	- Rule in Scrimshaw without drawing the attention of other fiends
+- **Goals:**
+  - Vengeance upon those who have wronged me
+  - Keep the Abyssal Rift closed
+  - Rule in Scrimshaw without drawing the attention of other fiends
 - **Appearance**: Often appears as human
 
 # Relationships

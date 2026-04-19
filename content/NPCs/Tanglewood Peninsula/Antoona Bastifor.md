@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-03-26T16:24:49.908-04:00
+published: 2026-03-26T16:24:49.908-04:00
 Age: "43"
 Ancestry: Elf
 Gender: Female
@@ -13,32 +17,38 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox]
+>
 > ## Antoona Bastifor
-> ![[antoona_bastifor.png|300]]
+>
+> ![[z_assets/antoona_bastifor.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 43
+>
+> **Ancestry**: Elf
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Mayor
+>
+> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
-- After Mayor Boje's untimely death by crab during the Tangler Crisis, Antoona stepped into the mayoral role. 
+
+- After Mayor Boje's untimely death by crab during the Tangler Crisis, Antoona stepped into the mayoral role.
 - Since then, she has worked tirelessly to maintain [[Crabbley]]'s relationship with its sister town of [[Crillville]].
 
 # Attributes
+
 - **Voice**: Posh elvish woman
 - **Traits**: Risk averse, self-serious, very politically savvy
 - **Goals:** Prosperity for the denizens of the Tanglewood Peninsula
@@ -50,4 +60,3 @@ Author: Jordan
 | ---------------------- | ------------ |
 | [[Brahaxian Bastifor]] | Husband      |
 | [[Stellica Gombermin]] | Staffer      |
-

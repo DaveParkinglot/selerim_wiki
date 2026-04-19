@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-03-26T16:27:08.665-04:00
+published: 2026-03-26T16:27:08.665-04:00
 Age: "127"
 Ancestry: Elf
 Gender: Male
@@ -16,31 +20,37 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox]
+>
 > ## Lebion Phlegathon
-> ![[lebion_plegathon.png|300]]
+>
+> ![[z_assets/lebion_plegathon.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 127
+>
+> **Ancestry**: Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Mitlin.md|Mitlin]]
+>
+> **Role**: Lead Ranger
+>
+> **Affiliation:** Mitlin
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
+>
+> **Status:** Alive
 
 # Overview
+
 [[Mitlin]]'s lead ranger, wields a greatsword and wears heavier armor than most other rangers in Mitlin.
 
 # Attributes
+
 - **Voice**: Slightly pompous
 - **Traits**: Fiercely loyal
 - **Goals:** Protect Mitlin from all threats

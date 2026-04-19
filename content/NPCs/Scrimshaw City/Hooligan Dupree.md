@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-03-26T16:24:14.056-04:00
+published: 2026-03-26T16:24:14.056-04:00
 Age: "32"
 Ancestry:
   - Satyr
@@ -13,38 +17,44 @@ Affiliation:
   - None
 Appearances:
   - "[[The High Rollers Campaign]]"
-  - "[[Selerim Wiki/Adventures/Arby's Sauce]]"
+  - "[[Adventures/Arby's Sauce]]"
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox]
+>
 > ## Hooligan Dupree
-> ![[hooligan_dupree.png|300]]
+>
+> ![[z_assets/hooligan_dupree.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 32
+>
+> **Ancestry**: Satyr
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Failed Adventurer, Bartender, Aspiring Salt Spitter
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
+>
+> **Status:** Alive
 
 # Overview
+
 - One of [[Eros]]' friends from before he joined [[The High Rollers]].
 - Tired of being a lazy bum with too much time to party, Hooligan tried to become an adventurer.
 - This led him to join [[Tavernstool]], and he couldn't handle the amount of hazing. He was, fortunately, saved by The High Rollers before all the hazing killed him.
 - Now he works at The Spicy Meatball while he builds his career as a salt spitter (rapper) in [[Scrimshaw City]].
 
 # Attributes
+
 - **Voice**: Dopey stoned guy (Shaggy?)
 - **Traits**: He's not good at stuff and he's very gullible... but he loves hanging out
 - **Goals:** Hanging out is the best
