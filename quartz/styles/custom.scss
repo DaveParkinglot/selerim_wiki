@@ -47,18 +47,3 @@ body table th, body table td {
   padding: 0 !important;                    // Removes extra spacing around the text
   border-radius: 0 !important;              // Removes rounded corners if they existed
 }
-
-/* Ensure list items share the same font properties as body text */
-li {
-  font-family: var(--bodyFont);
-  font-size: 1rem; /* Adjust to match your body font size */
-  color: var(--dark);  /* Matches standard text color */
-  line-height: 1.5;    /* Matches standard paragraph spacing */
-  margin-bottom: 0.5em; /* Adjust or set to 0 to match paragraph gaps */
-}
-
-/* Optional: If you want to remove the extra indentation */
-ul, ol {
-  padding-left: 1.5rem; 
-  margin-top: 0;
-}
