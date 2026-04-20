@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-19T21:24:31.189-04:00
-modified: 2026-04-19T21:27:15.888-04:00
-published: 2026-04-19T21:27:15.888-04:00
+modified: 2026-04-19T22:29:50.889-04:00
+published: 2026-04-19T22:29:50.889-04:00
 Type:
   - Village
 Age (years): 250
@@ -21,7 +21,7 @@ aliases:
 >
 > ## Timberheim
 >
-> ![[z_assets/Pasted image 20260419212509.png|500]]
+> ![[z_assets/timberheim.png|500]]
 >
 > ## Details
 >

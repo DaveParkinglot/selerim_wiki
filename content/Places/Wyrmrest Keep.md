@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-19T21:04:15.006-04:00
-modified: 2026-04-19T21:09:22.364-04:00
-published: 2026-04-19T21:09:22.364-04:00
+modified: 2026-04-19T22:30:54.946-04:00
+published: 2026-04-19T22:30:54.946-04:00
 Type:
   - Castle
 Age (years): 300
@@ -21,7 +21,7 @@ aliases:
 >
 > ## Wyrmrest Keep
 >
-> ![[landscape.avif|500]]
+> ![[z_assets/wyrmrest_keep.png|500]]
 >
 > ## Details
 >
