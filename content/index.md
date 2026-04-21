@@ -13,7 +13,7 @@ Author: Jordan
 > [[Arctur Execlostrabaum]], Headmaster of [[White Grove|White Grove Academy]] & Loremaster of Selerim
 
 <br>
-> \[!cards|3 bg-purple]
+> [!cards|3 bg-purple]
 >  **[[World Overview]]**
 > [![[selerim_planet_view.png|profile+medium cover center]]](World%20Overview)
 > 
@@ -21,7 +21,7 @@ Author: Jordan
 > [![[timeline_icon.png|profile+medium cover center]]](Selerim%20Timeline)
 > 
 > **[[Adventure Log]]**
- > [![[adventurelog.png|profile+medium cover center]]](Adventure%20Log)
+> [![[adventurelog.png|profile+medium cover center]]](Adventure%20Log)
 
 ### Interactive Map of the _[[Inhabitable Lands]]_:
 
