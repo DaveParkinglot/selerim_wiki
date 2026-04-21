@@ -12,15 +12,11 @@ Author: Jordan
 
 <br>
 
-> [!cards|clean 3 bg-purple]
-> **[[World Overview]]**
-> [![[z_assets/selerim_planet_view.png|profile+medium cover center]]](World%20Overview)
->
-> **[[Selerim Timeline|Timeline]]**
-> [![[z_assets/timeline_icon.png|profile+medium cover center]]](Selerim%20Timeline)
->
-> **[[Adventure Log]]**
-> [![[z_assets/adventurelog.png|profile+medium cover center]]](Adventure%20Log)
+### Quick-Links:
+
+- [[World Overview]] - overview of the world of Selerim (**Start here!**)
+- [[Selerim Timeline]] - timeline of formative events
+- [[Adventure Log]] - running log of adventures past
 
 ### Interactive Map of the [[Inhabitable Lands]]:
 
