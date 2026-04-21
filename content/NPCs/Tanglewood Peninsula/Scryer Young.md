@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-08T11:33:00.000-05:00
-modified: 2026-03-26T16:27:39.845-04:00
-published: 2026-03-26T16:27:39.845-04:00
+modified: 2026-04-21T09:14:49.230-04:00
+published: 2026-04-21T09:14:49.230-04:00
 Age: "48"
 Ancestry:
   - Elf
@@ -23,7 +23,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Scryer Young
 >

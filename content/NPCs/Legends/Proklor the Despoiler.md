@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:21:19.590-04:00
-published: 2026-03-26T16:21:19.590-04:00
+modified: 2026-04-21T08:46:25.798-04:00
+published: 2026-04-21T08:46:25.798-04:00
 Age: ??
 Ancestry: Drow, Draegloth
 Gender: Male
@@ -20,7 +20,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Proklor the Despoiler
 >

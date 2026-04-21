@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T08:16:34.000-04:00
-modified: 2026-03-26T16:53:37.406-04:00
-published: 2026-03-26T16:53:37.406-04:00
+modified: 2026-04-21T08:36:19.977-04:00
+published: 2026-04-21T08:36:19.977-04:00
 Type:
   - Town
 Age (years): 120
@@ -19,15 +19,15 @@ Appearances:
   - "[[The Marrowsucker Contract]]"
   - "[[Lighting the Lighthouse]]"
 marker:
-  mapName: InteractiveMap
-  x: 1645
-  y: 515
-  icon: game-icons:medieval-village-01
-  colour: blue
+  - coordinates: 1050, 3290
+    icon: game-icons:medieval-village-01
+    colour: "#0000ff"
+    minZoom: -4
+    mapName: Inhabitable_Lands_Map
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Mitlin
 >
@@ -66,9 +66,3 @@ Author: Jordan
   - Kindlethicket, a fey crossing, is less than a day's journey from Mitlin
   - The edge of the Forsaken Expanse
   - Jack of Owl Trades, [[Bwanson Wagwan]]'s magic shop
-
-# Hooks
-
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

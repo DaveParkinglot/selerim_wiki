@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-16T21:13:04.000-04:00
-modified: 2026-03-29T08:42:44.825-04:00
-published: 2026-03-29T08:42:44.825-04:00
+modified: 2026-04-21T09:15:53.310-04:00
+published: 2026-04-21T09:15:53.310-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 4
@@ -34,7 +34,7 @@ Classes:
   - Ranger
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## White Grove - Summer Vacation
 >
@@ -89,12 +89,12 @@ Classes:
 
 - The Study Group researched lore and maps regarding The White Grove's [[Primal Tree]] and the surrounding Primal Marshlands to improve their chances of finding the final scavenger hunt item.
 - After concluding their study session, the students did some social shopping on The Quad, meeting both [[Aurleth Writhesley]] and [[Pedro Sancho]].
-- While on The Quad, they also saw that [[Temur Octagon]] was being held in a prison portrait for his past crimes against the school. He claimed he was innocent and that he had been framed, but his pleas fell on deaf ears as [[Professor Daemon Darkfyre]] dragged him back to be hung on the wall.
+- While on The Quad, they also saw that [[Temur Octagon]] was being held in a prison portrait for his past crimes against the school. He claimed he was innocent and that he had been framed, but his pleas fell on deaf ears as [[Daemon Darkfyre]] dragged him back to be hung on the wall.
 - The Study Group traversed the Primal Marshlands quite successfully, even receiving help from a giant ape named Bartumbus Vinecranker.
 - After Bartumbus left the students to their travels, they killed two sons of [[Scorpaxton]], the giant scorpion mascot of the [[Primal School]].
 - Finally reaching the branches of the withered Primal Tree, the students made friends with yet another giant ape named Dirt Mud, by tending to his razorvine wounds with their healing spells and potions.
 - Dirt Mud helped them reach the final scavenger hunt item: a crate of pineapples with a recipe for [[Arctur Execlostrabaum]]'s Excellent Rum Bomb, along with a record of extra credit from the Headmaster himself.
-- After such a successful outing, the party kicked back with their peers and [[Professor Daemon Darkfyre]] at Leviathan Lagoon, enjoying the best thing summer vacation can offer: a sunny beach, trauma-bonded friends, and a great deal of rum.
+- After such a successful outing, the party kicked back with their peers and [[Daemon Darkfyre]] at Leviathan Lagoon, enjoying the best thing summer vacation can offer: a sunny beach, trauma-bonded friends, and a great deal of rum.
 
 # Players & Characters
 

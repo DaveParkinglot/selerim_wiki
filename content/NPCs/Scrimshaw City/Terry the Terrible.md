@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T09:16:48.076-05:00
-modified: 2026-03-26T16:24:38.285-04:00
-published: 2026-03-26T16:24:38.285-04:00
+modified: 2026-04-21T09:13:56.943-04:00
+published: 2026-04-21T09:13:56.943-04:00
 Age: "47"
 Ancestry:
   - Satyr
@@ -23,7 +23,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Terry the Terrible
 >

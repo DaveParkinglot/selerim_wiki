@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-02T15:31:31.000-05:00
-modified: 2026-03-26T16:24:45.759-04:00
-published: 2026-03-26T16:24:45.759-04:00
+modified: 2026-04-21T09:14:00.510-04:00
+published: 2026-04-21T09:14:00.510-04:00
 Age: "32"
 Ancestry:
   - Orc
@@ -21,7 +21,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Zagga Darlington
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-29T11:14:14.224-04:00
-published: 2026-03-29T11:14:14.224-04:00
+modified: 2026-04-21T08:47:13.453-04:00
+published: 2026-04-21T08:47:13.453-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -28,7 +28,7 @@ Classes:
   - Fighter
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## The Crimsonclaw Bounty
 >

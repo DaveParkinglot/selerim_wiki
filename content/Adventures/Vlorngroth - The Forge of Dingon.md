@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-29T08:44:55.248-04:00
-published: 2026-03-29T08:44:55.248-04:00
+modified: 2026-04-21T08:47:37.919-04:00
+published: 2026-04-21T08:47:37.919-04:00
 DM: Jordan
 Platform: Roll20
 Sessions: 1
@@ -36,7 +36,7 @@ Classes:
   - Rogue
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Vlorngroth - The Forge of Dingon
 >

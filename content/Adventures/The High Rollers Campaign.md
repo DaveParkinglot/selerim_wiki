@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T11:30:00.000-04:00
-modified: 2026-03-29T10:43:57.018-04:00
-published: 2026-03-29T10:43:57.018-04:00
+modified: 2026-04-21T08:47:24.437-04:00
+published: 2026-04-21T08:47:24.437-04:00
 DM: Jordan
 Platform:
   - Foundry
@@ -60,7 +60,7 @@ Classes:
 The OG campaign.
 [Session Notes and Campaign Calendar archived here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDrepZ6ufuBd06czok7yZsXPGo6cuFXygRQpcnKU0MQsEsPHQac3FE7obJlYtZXZ4WPgaxIftdBcd-/pubhtml).
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## The High Rollers Campaign
 >

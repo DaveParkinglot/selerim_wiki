@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-03-27T11:46:49.354-04:00
-published: 2026-03-27T11:46:49.354-04:00
+modified: 2026-04-21T08:35:53.492-04:00
+published: 2026-04-21T08:35:53.492-04:00
 Type:
   - Village
 Age (years): 25
@@ -17,26 +17,26 @@ Appearances:
   - "[[The Haunted Flakes Factory]]"
   - "[[The Crimsonclaw Bounty]]"
 marker:
-  mapName: InteractiveMap
-  x: 1485
-  y: 530
-  icon: game-icons:medieval-village-01
-  colour: blue
+  - coordinates: 1070, 2975
+    icon: game-icons:medieval-village-01
+    colour: "#0000ff"
+    minZoom: -4
+    mapName: Inhabitable_Lands_Map
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Crabbley
 >
 > ![[z_assets/crabbley.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Scene view
 >
 > ![[z_assets/crabbley_topdown.png|300]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Map view
 >
 > ## Details
@@ -74,9 +74,3 @@ Author: Jordan
   - Soggy Bottom Tavern
   - Crab Claw Inn
   - New Bondoon Flakes Cereal Factory
-
-# Hooks
-
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

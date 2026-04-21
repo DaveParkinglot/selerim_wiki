@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:28:35.947-04:00
-published: 2026-03-26T16:28:35.947-04:00
+modified: 2026-04-21T09:15:06.117-04:00
+published: 2026-04-21T09:15:06.117-04:00
 Age: "24"
 Ancestry:
   - Yuan-ti
@@ -20,7 +20,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Cock Strombolinov
 >

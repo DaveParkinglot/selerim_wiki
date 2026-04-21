@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-30T13:56:01.458-04:00
-published: 2026-03-30T13:56:01.458-04:00
+modified: 2026-04-21T09:14:14.131-04:00
+published: 2026-04-21T09:14:14.131-04:00
 Age: "64"
 Ancestry: Gnome
 Gender: Male
@@ -21,7 +21,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Bopus
 >
@@ -47,10 +47,8 @@ Author: Jordan
 
 # Overview
 
-> [!quote|clean]
-> _"Well hey fellas!"_
->
-> Bopus, all the time
+> [!Quote|author mark] Bopus
+> _Well, hey fellas!_
 
 ## [[The High Rollers Campaign|The High Rollers Campaign]]
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:29:10.660-04:00
-published: 2026-03-26T16:29:10.660-04:00
+modified: 2026-04-21T09:15:16.708-04:00
+published: 2026-04-21T09:15:16.708-04:00
 Age: "32"
 Ancestry:
   - Yuan-ti
@@ -20,7 +20,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Sssergio
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:28:19.065-04:00
-published: 2026-03-26T16:28:19.065-04:00
+modified: 2026-04-21T09:15:01.915-04:00
+published: 2026-04-21T09:15:01.915-04:00
 Age: "29"
 Ancestry: Half-Elf
 Gender: Male
@@ -18,7 +18,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Bancil Nobeltrim
 >

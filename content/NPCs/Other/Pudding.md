@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:22:14.661-04:00
-published: 2026-03-26T16:22:14.661-04:00
+modified: 2026-04-21T08:50:05.339-04:00
+published: 2026-04-21T08:50:05.339-04:00
 Age: "22"
 Ancestry: Troll
 Gender: Male
@@ -22,7 +22,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Pudding
 >

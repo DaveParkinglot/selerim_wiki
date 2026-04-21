@@ -2,8 +2,8 @@
 publish: true
 title: Nova Jersaeria, Tiialan Capital
 created: 2025-06-20T09:32:25.000-04:00
-modified: 2026-03-26T14:56:24.483-04:00
-published: 2026-03-26T14:56:24.483-04:00
+modified: 2026-04-21T08:36:24.007-04:00
+published: 2026-04-21T08:36:24.007-04:00
 Type:
   - Capital City
 Age (years): 250
@@ -17,15 +17,15 @@ Appearances:
   - "[[The Great Tiialan Heist]]"
   - "[[Voyage a la Isla Ruz]]"
 marker:
-  mapName: InteractiveMap
-  x: 1095
-  y: 100
-  icon: game-icons:medieval-gate
-  colour: blue
+  - coordinates: 200, 2190
+    icon: game-icons:medieval-gate
+    colour: "#0000ff"
+    minZoom: -4
+    mapName: Inhabitable_Lands_Map
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Nova Jersaeria
 >
@@ -63,9 +63,3 @@ Author: Jordan
   - The Sewer Night Market, home to many more devious, unscrupulous shop owners and merchants
   - The Kings' Barrows
     - The remains of the old kings of Tiialia rest here. Disturbed by [[Master Effree Jypstein]] during his attack on the capital.
-
-# Hooks
-
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

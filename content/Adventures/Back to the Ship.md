@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-14T09:47:35.000-05:00
-modified: 2026-03-27T16:11:20.000-04:00
-published: 2026-03-27T16:11:20.000-04:00
+modified: 2026-04-21T08:46:30.679-04:00
+published: 2026-04-21T08:46:30.679-04:00
 DM: Jordan
 Players:
   - Mike Doom
@@ -30,7 +30,7 @@ Classes:
   - Wizard
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Back to the Ship
 >

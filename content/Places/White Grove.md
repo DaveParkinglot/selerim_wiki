@@ -4,8 +4,8 @@ aliases:
   - White Grove Academy
 title: White Grove, Magic Academy
 created: 2023-09-02T09:45:40.000-04:00
-modified: 2026-03-26T16:54:01.896-04:00
-published: 2026-03-26T16:54:01.896-04:00
+modified: 2026-04-21T08:36:37.466-04:00
+published: 2026-04-21T08:36:37.466-04:00
 Type:
   - Magical Academy
 Age (years): 180
@@ -17,15 +17,15 @@ Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
 marker:
-  mapName: InteractiveMap
-  x: 340
-  y: 275
-  icon: fa7-solid:university
-  colour: blue
+  - coordinates: 555, 680
+    icon: fa7-solid:university
+    colour: "#0000ff"
+    minZoom: -4
+    mapName: Inhabitable_Lands_Map
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## White Grove
 >
@@ -70,9 +70,3 @@ Author: Jordan
   - The Spontaneous Staircase
   - The Menagerie
   - Leviathan Lagoon
-
-# Hooks
-
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

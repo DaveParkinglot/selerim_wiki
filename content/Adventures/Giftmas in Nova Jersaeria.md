@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T15:37:56.000-04:00
-modified: 2026-03-28T08:16:29.188-04:00
-published: 2026-03-28T08:16:29.188-04:00
+modified: 2026-04-21T08:46:36.815-04:00
+published: 2026-04-21T08:46:36.815-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -32,7 +32,7 @@ Classes:
   - Barbarian
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Giftmas in Nova Jersaeria
 >

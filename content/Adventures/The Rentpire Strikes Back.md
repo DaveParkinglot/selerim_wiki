@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-29T00:09:44.236-04:00
-published: 2026-03-29T00:09:44.236-04:00
+modified: 2026-04-21T08:47:33.951-04:00
+published: 2026-04-21T08:47:33.951-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -33,7 +33,7 @@ Classes:
   - Barbarian
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## The Rentpire Strikes Back
 >

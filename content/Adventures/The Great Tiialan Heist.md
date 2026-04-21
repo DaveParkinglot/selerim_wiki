@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-27T17:24:16.000-04:00
-modified: 2026-03-28T08:16:44.804-04:00
-published: 2026-03-28T08:16:44.804-04:00
+modified: 2026-04-21T08:47:16.651-04:00
+published: 2026-04-21T08:47:16.651-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 1
@@ -32,7 +32,7 @@ Classes:
   - Rogue
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## The Great Tiialan Heist
 >

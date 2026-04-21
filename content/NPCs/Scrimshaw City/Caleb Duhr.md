@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:22:56.749-04:00
-published: 2026-03-26T16:22:56.749-04:00
+modified: 2026-04-21T09:13:21.727-04:00
+published: 2026-04-21T09:13:21.727-04:00
 Age: "3"
 Ancestry:
   - Galeb Duhr, Rock Elemental
@@ -20,7 +20,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Caleb Duhr
 >

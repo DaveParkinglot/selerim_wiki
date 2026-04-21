@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-09-17T12:03:07.000-04:00
-modified: 2026-03-26T16:29:45.341-04:00
-published: 2026-03-26T16:29:45.341-04:00
+modified: 2026-04-21T09:15:30.066-04:00
+published: 2026-04-21T09:15:30.066-04:00
 Age: "163"
 Ancestry:
   - Drow
@@ -21,7 +21,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Count Calloway Duskveil
 >

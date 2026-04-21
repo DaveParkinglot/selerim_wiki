@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-29T08:43:03.152-04:00
-published: 2026-03-29T08:43:03.152-04:00
+modified: 2026-04-21T08:47:35.485-04:00
+published: 2026-04-21T08:47:35.485-04:00
 DM: Bishop
 Platform: Foundry
 Sessions: 1
@@ -28,7 +28,7 @@ Classes:
   - Paladin
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## The White Death Strikes
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:27:17.612-04:00
-published: 2026-03-26T16:27:17.612-04:00
+modified: 2026-04-21T09:14:42.709-04:00
+published: 2026-04-21T09:14:42.709-04:00
 Age: "33"
 Ancestry: Hobgoblin
 Gender: Male
@@ -18,7 +18,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Mister Barone
 >

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Yuleshade
 created: 2025-12-09T19:13:43.000-05:00
-modified: 2026-03-26T16:54:08.288-04:00
-published: 2026-03-26T16:54:08.288-04:00
+modified: 2026-04-21T08:36:41.937-04:00
+published: 2026-04-21T08:36:41.937-04:00
 Type:
   - Domain of Delight
 Age (years): 6200
@@ -18,7 +18,7 @@ Appearances:
   - "[[Kindlethicket - The Winter Hunt|Kindlethicket - The Winter Hunt]]"
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Yuleshade
 >

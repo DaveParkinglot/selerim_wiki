@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-28T08:16:27.141-04:00
-published: 2026-03-28T08:16:27.141-04:00
+modified: 2026-04-21T08:46:39.423-04:00
+published: 2026-04-21T08:46:39.423-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -39,7 +39,7 @@ Classes:
 Handouts:
 [[Kindlethicket Handout]]
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Kindlethicket - Envoys of Mitlin
 >

@@ -4,8 +4,8 @@ aliases:
   - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
-modified: 2026-03-28T08:08:43.000-04:00
-published: 2026-03-28T08:08:43.000-04:00
+modified: 2026-04-21T08:36:29.555-04:00
+published: 2026-04-21T08:36:29.555-04:00
 Type:
   - Region
 Age (years): 264
@@ -21,26 +21,26 @@ Appearances:
   - "[[The Crimsonclaw Bounty]]"
   - "[[Lighting the Lighthouse DM]]"
 marker:
-  mapName: InteractiveMap
-  x: 1575
-  y: 500
-  icon: game-icons:jungle
-  colour: green
+  - coordinates: 1060, 3150
+    icon: game-icons:jungle
+    colour: "#008000"
+    minZoom: -4
+    mapName: Inhabitable_Lands_Map
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Tanglewood Peninsula
 >
 > ![[z_assets/tanglewood_wilds.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Scene view
 >
 > ![[z_assets/tanglewood_peninsula.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Map view
 >
 > ## Details
@@ -69,9 +69,3 @@ Author: Jordan
 - **Economy/Resources**: (What it produces, trades, or lacks)
 - **Dangers/Secrets**: (Rumors, threats, hidden lore)
 - **Points of Interest**: (Taverns, landmarks, shrines, ruins, etc.)
-
-# Hooks
-
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

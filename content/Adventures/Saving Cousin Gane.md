@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-04-02T13:57:03.000-04:00
-modified: 2026-04-02T15:27:55.790-04:00
-published: 2026-04-02T15:27:55.790-04:00
+modified: 2026-04-21T08:47:09.633-04:00
+published: 2026-04-21T08:47:09.633-04:00
+socialImage: festival_of_japes.png
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -31,9 +32,10 @@ Classes:
   - Cleric
   - Fighter
   - Bard
+image: festival_of_japes.png
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Saving Cousin Gane
 >

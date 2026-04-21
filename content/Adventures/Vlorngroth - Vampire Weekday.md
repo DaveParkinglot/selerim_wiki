@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T10:23:37.000-04:00
-modified: 2026-03-28T23:41:44.667-04:00
-published: 2026-03-28T23:41:44.667-04:00
+modified: 2026-04-21T08:47:42.194-04:00
+published: 2026-04-21T08:47:42.194-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -32,7 +32,7 @@ Classes:
   - Warlock
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Vlorngroth - Vampire Weekday
 >

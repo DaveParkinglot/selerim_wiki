@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:22:23.733-04:00
-published: 2026-03-26T16:22:23.733-04:00
+modified: 2026-04-21T08:50:08.917-04:00
+published: 2026-04-21T08:50:08.917-04:00
 Age: ??
 Ancestry: Archfey
 Gender: Varies
@@ -21,7 +21,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Tzastis the Collector
 >

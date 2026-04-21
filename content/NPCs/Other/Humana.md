@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T08:54:32.000-04:00
-modified: 2026-03-26T16:22:00.863-04:00
-published: 2026-03-26T16:22:00.863-04:00
+modified: 2026-04-21T08:50:01.175-04:00
+published: 2026-04-21T08:50:01.175-04:00
 Age: "340"
 Ancestry: Night Hag
 Gender: Female
@@ -18,7 +18,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Humana
 >

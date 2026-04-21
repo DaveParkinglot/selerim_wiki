@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:28:23.110-04:00
-published: 2026-03-26T16:28:23.110-04:00
+modified: 2026-04-21T09:15:03.222-04:00
+published: 2026-04-21T09:15:03.222-04:00
 Age: "57"
 Ancestry: Deep Gnome
 Gender: Male
@@ -19,7 +19,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Bedmund the Catatonic
 >

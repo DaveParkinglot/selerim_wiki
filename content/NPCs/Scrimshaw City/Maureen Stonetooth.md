@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T08:53:02.346-05:00
-modified: 2026-03-26T16:24:31.063-04:00
-published: 2026-03-26T16:24:31.063-04:00
+modified: 2026-04-21T09:13:54.388-04:00
+published: 2026-04-21T09:13:54.388-04:00
 Age: "51"
 Ancestry:
   - Dwarf
@@ -19,7 +19,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Maureen Stonetooth
 >

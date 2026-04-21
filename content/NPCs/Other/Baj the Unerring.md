@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:19:08.109-04:00
-published: 2026-03-26T16:19:08.109-04:00
+modified: 2026-04-21T08:49:51.999-04:00
+published: 2026-04-21T08:49:51.999-04:00
 Age: ??
 Ancestry: Marut
 Gender: N/A
@@ -19,7 +19,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Baj the Unerring
 >

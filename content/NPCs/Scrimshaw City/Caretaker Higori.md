@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:23:03.594-04:00
-published: 2026-03-26T16:23:03.594-04:00
+modified: 2026-04-21T09:13:25.199-04:00
+published: 2026-04-21T09:13:25.199-04:00
 Age: "93"
 Ancestry:
   - Sea Elf
@@ -19,7 +19,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Caretaker Higori
 >

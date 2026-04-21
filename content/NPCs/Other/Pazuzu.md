@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T09:10:18.000-04:00
-modified: 2026-04-02T14:50:56.772-04:00
-published: 2026-04-02T14:50:56.772-04:00
+modified: 2026-04-21T08:50:03.991-04:00
+published: 2026-04-21T08:50:03.991-04:00
 Age: ??
 Ancestry:
   - Demon
@@ -20,7 +20,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Pazuzu
 >

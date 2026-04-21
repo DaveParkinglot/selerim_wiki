@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-31T07:53:00.000-04:00
-published: 2026-03-31T07:53:00.000-04:00
+modified: 2026-04-21T09:14:06.185-04:00
+published: 2026-04-21T09:14:06.185-04:00
 Age: "49"
 Ancestry: Rhinoan
 Gender: Male
@@ -19,7 +19,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Blackhorn the Barbarian
 >

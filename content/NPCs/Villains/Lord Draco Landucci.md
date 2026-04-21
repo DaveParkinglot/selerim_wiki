@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:29:29.075-04:00
-published: 2026-03-26T16:29:29.075-04:00
+modified: 2026-04-21T09:15:22.612-04:00
+published: 2026-04-21T09:15:22.612-04:00
 Age: "56"
 Ancestry:
   - Human
@@ -20,7 +20,7 @@ Status: Deceased
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Lord Draco Landucci
 >

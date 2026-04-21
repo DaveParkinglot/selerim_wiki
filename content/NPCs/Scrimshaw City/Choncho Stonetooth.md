@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:23:19.726-04:00
-published: 2026-03-26T16:23:19.726-04:00
+modified: 2026-04-21T09:13:26.639-04:00
+published: 2026-04-21T09:13:26.639-04:00
 Age: "76"
 Ancestry:
   - Dwarf
@@ -19,7 +19,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Choncho Stonetooth
 >

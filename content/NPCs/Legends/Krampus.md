@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Winter Huntsman
 created: 2025-12-09T19:17:17.000-05:00
-modified: 2026-03-26T16:21:15.180-04:00
-published: 2026-03-26T16:21:15.180-04:00
+modified: 2026-04-21T08:46:23.647-04:00
+published: 2026-04-21T08:46:23.647-04:00
 Age: "6500"
 Ancestry:
   - Archfey
@@ -22,7 +22,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Krampus
 >

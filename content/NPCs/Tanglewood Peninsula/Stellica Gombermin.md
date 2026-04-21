@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:27:49.776-04:00
-published: 2026-03-26T16:27:49.776-04:00
+modified: 2026-04-21T09:14:52.314-04:00
+published: 2026-04-21T09:14:52.314-04:00
 Age: "19"
 Ancestry: Goblin
 Gender: Female
@@ -20,7 +20,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Stellica Gombermin
 >

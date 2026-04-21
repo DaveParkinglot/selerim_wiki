@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Detzin
 created: 2025-11-02T10:33:16.000-05:00
-modified: 2026-04-15T21:53:57.785-04:00
-published: 2026-04-15T21:53:57.785-04:00
+modified: 2026-04-21T09:14:30.008-04:00
+published: 2026-04-21T09:14:30.008-04:00
 Age: "42"
 Ancestry:
   - Wood Elf
@@ -22,7 +22,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Detzin Stringwisp
 >

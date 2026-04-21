@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-26T23:27:19.000-04:00
-modified: 2026-03-26T16:28:47.561-04:00
-published: 2026-03-26T16:28:47.561-04:00
+modified: 2026-04-21T09:15:09.084-04:00
+published: 2026-04-21T09:15:09.084-04:00
 Age: "45"
 Ancestry:
   - Human
@@ -18,7 +18,7 @@ Status: Alive
 Author: Ethan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Falsus Omnibus
 >

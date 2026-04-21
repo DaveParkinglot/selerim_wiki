@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T16:24:21.101-04:00
-published: 2026-03-26T16:24:21.101-04:00
+modified: 2026-04-21T09:13:51.145-04:00
+published: 2026-04-21T09:13:51.145-04:00
 Age: "34"
 Ancestry:
   - Human
@@ -22,7 +22,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Loeb
 >

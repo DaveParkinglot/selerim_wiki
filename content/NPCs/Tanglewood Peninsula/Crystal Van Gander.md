@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T16:26:24.674-04:00
-published: 2026-03-26T16:26:24.674-04:00
+modified: 2026-04-21T09:14:28.765-04:00
+published: 2026-04-21T09:14:28.765-04:00
 Age: "17"
 Ancestry: Human
 Gender: Female
@@ -20,7 +20,7 @@ Author:
   - Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Crystal Van Gander
 >

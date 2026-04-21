@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T09:55:09.000-04:00
-modified: 2026-03-29T00:12:44.061-04:00
-published: 2026-03-29T00:12:44.061-04:00
+modified: 2026-04-21T08:36:35.168-04:00
+published: 2026-04-21T08:36:35.168-04:00
 Type:
   - Capital City
 Age (years): 1250
@@ -20,13 +20,13 @@ Appearances:
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Vlorngroth
 >
 > ![[z_assets/vlorngroth.png|500]]
 >
-> > \[!caption|center]
+> > [!caption|center]
 > > Vlorngroth, beneath the Fungal Firmament
 >
 > ## Details
@@ -69,9 +69,3 @@ Author: Jordan
   - Duskveil Asylum, aka The Manor of Madness
   - Duskveil Keep
   - The Forge of Dingon
-
-# Hooks
-
-- Adventure seed 1
-- Adventure seed 2
-- Adventure seed 3

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T16:26:16.046-04:00
-published: 2026-03-26T16:26:16.046-04:00
+modified: 2026-04-21T09:14:26.216-04:00
+published: 2026-04-21T09:14:26.216-04:00
 Age: "78"
 Ancestry: Dwarf
 Gender: Male
@@ -18,7 +18,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Casper Wolcott
 >

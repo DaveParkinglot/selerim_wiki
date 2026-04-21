@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-28T08:16:58.669-04:00
-published: 2026-03-28T08:16:58.669-04:00
+modified: 2026-04-21T08:47:08.095-04:00
+published: 2026-04-21T08:47:08.095-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -34,7 +34,7 @@ Classes:
   - Cleric
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Morganth's LEGION OF DOOM
 >

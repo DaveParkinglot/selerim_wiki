@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T08:11:09.000-05:00
-modified: 2026-03-29T08:29:41.000-04:00
-published: 2026-03-29T08:29:41.000-04:00
+modified: 2026-04-21T08:47:05.584-04:00
+published: 2026-04-21T08:47:05.584-04:00
 DM: Jordan
 Players:
   - David
@@ -30,7 +30,7 @@ Classes:
   - Warlock
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## New Dawn - Hellfire Heist
 >

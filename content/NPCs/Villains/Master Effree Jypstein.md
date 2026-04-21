@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-01T09:54:54.856-04:00
-published: 2026-04-01T09:54:54.856-04:00
+modified: 2026-04-21T09:15:26.449-04:00
+published: 2026-04-21T09:15:26.449-04:00
 Age: 66 (deceased)
 Ancestry:
   - Human
@@ -19,7 +19,7 @@ Status: Deceased
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Master Effree Jypstein
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:29:02.561-04:00
-published: 2026-03-26T16:29:02.561-04:00
+modified: 2026-04-21T09:15:13.906-04:00
+published: 2026-04-21T09:15:13.906-04:00
 Age: "20"
 Ancestry: Kobold
 Gender: Male
@@ -19,7 +19,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Shemcriz
 >

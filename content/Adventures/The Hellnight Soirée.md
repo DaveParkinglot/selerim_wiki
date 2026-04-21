@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-03T20:47:11.000-04:00
-modified: 2026-03-28T08:17:05.710-04:00
-published: 2026-03-28T08:17:05.710-04:00
+modified: 2026-04-21T08:47:20.219-04:00
+published: 2026-04-21T08:47:20.219-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -28,7 +28,7 @@ Classes:
   - Fighter
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## The Hellnight Soirée
 >

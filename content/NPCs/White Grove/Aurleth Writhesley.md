@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-15T10:42:10.000-04:00
-modified: 2026-03-26T16:31:01.291-04:00
-published: 2026-03-26T16:31:01.291-04:00
+modified: 2026-04-21T09:15:38.538-04:00
+published: 2026-04-21T09:15:38.538-04:00
 Age: "22"
 Ancestry:
   - Elf
@@ -21,7 +21,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Aurleth Writhesley
 >

@@ -5,8 +5,8 @@ aliases:
   - The Afterking
   - Afterking
 created: 2025-10-17T09:50:27.000-04:00
-modified: 2026-03-27T08:48:10.000-04:00
-published: 2026-03-27T08:48:10.000-04:00
+modified: 2026-04-21T08:46:18.357-04:00
+published: 2026-04-21T08:46:18.357-04:00
 Status: Alive
 Author: Jordan
 Age: "165"
@@ -23,7 +23,7 @@ Appearances:
   - "[[The Mournholde Incident]]"
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Galgitch the Afterking
 >

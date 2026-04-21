@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T11:17:12.000-04:00
-modified: 2026-03-27T11:35:59.824-04:00
-published: 2026-03-27T11:35:59.824-04:00
+modified: 2026-04-21T08:46:16.594-04:00
+published: 2026-04-21T08:46:16.594-04:00
 Age: "89"
 Ancestry:
   - Half-Elf
@@ -19,7 +19,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Marashka Breakwater
 >

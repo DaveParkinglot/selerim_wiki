@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-26T16:21:45.232-04:00
-published: 2026-03-26T16:21:45.232-04:00
+modified: 2026-04-21T08:50:02.423-04:00
+published: 2026-04-21T08:50:02.423-04:00
 Age: "286"
 Ancestry: Halfling
 Gender: Male
@@ -18,7 +18,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Myrrdin Turftoe
 >

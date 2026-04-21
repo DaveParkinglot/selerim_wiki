@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-28T08:16:32.842-04:00
-published: 2026-03-28T08:16:32.842-04:00
+modified: 2026-04-21T08:46:35.338-04:00
+published: 2026-04-21T08:46:35.338-04:00
 DM: Mike Doom
 Platform: Roll20
 Sessions: 2
@@ -48,7 +48,7 @@ Classes:
   - Cleric
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Dunland's Raiders
 >

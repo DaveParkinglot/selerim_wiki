@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T08:02:27.000-04:00
-modified: 2026-03-29T08:42:58.157-04:00
-published: 2026-03-29T08:42:58.157-04:00
+modified: 2026-04-21T08:47:44.244-04:00
+published: 2026-04-21T08:47:44.244-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 4
@@ -34,7 +34,7 @@ Classes:
   - Rogue
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Voyage a la Isla Ruz
 >

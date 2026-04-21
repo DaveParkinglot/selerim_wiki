@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T10:08:23.000-04:00
-modified: 2026-03-28T08:16:22.033-04:00
-published: 2026-03-28T08:16:22.033-04:00
+modified: 2026-04-21T08:46:41.142-04:00
+published: 2026-04-21T08:46:41.142-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -32,7 +32,7 @@ Classes:
   - Fighter
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Kindlethicket - The Winter Hunt
 >

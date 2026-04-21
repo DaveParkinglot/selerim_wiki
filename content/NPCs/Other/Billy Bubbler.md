@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T08:58:27.000-04:00
-modified: 2026-03-26T16:21:31.031-04:00
-published: 2026-03-26T16:21:31.031-04:00
+modified: 2026-04-21T08:49:58.300-04:00
+published: 2026-04-21T08:49:58.300-04:00
 Age: "174"
 Ancestry: Fiend (Devil), Sahuagin
 Gender: Male
@@ -18,7 +18,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Billy Bubbler
 >

@@ -2,8 +2,8 @@
 publish: true
 aliases: Geblorgurin
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-30T19:16:04.733-04:00
-published: 2026-03-30T19:16:04.733-04:00
+modified: 2026-04-21T08:46:20.408-04:00
+published: 2026-04-21T08:46:20.408-04:00
 Age: Deceased
 Ancestry: Dwarf
 Gender: Male
@@ -19,7 +19,7 @@ Status: Deceased
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Geblorgurin the Grand
 >

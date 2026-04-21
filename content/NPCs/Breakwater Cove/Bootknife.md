@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-03-27T11:04:07.922-04:00
-published: 2026-03-27T11:04:07.922-04:00
+modified: 2026-04-21T08:46:13.033-04:00
+published: 2026-04-21T08:46:13.033-04:00
 Age: "37"
 Ancestry: Goblin
 Gender: Male
@@ -19,7 +19,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Bootknife
 >

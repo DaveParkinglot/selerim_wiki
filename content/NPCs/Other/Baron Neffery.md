@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-05T13:44:04.000-04:00
-modified: 2026-03-26T16:19:12.829-04:00
-published: 2026-03-26T16:19:12.829-04:00
+modified: 2026-04-21T08:49:56.553-04:00
+published: 2026-04-21T08:49:56.553-04:00
 Age: ??
 Ancestry:
   - Fiend (Devil)
@@ -19,7 +19,7 @@ Status: Alive
 Author: Jordan
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Baron Neffery
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T09:05:08.273-05:00
-modified: 2026-03-26T16:22:52.580-04:00
-published: 2026-03-26T16:22:52.580-04:00
+modified: 2026-04-21T09:13:20.335-04:00
+published: 2026-04-21T09:13:20.335-04:00
 Age: "33"
 Ancestry:
   - Half Elf
@@ -20,7 +20,7 @@ Author: Jordan
 aliases:
 ---
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## Caleb Arlester
 >

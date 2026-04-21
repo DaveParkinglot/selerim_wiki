@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-28T23:00:12.244-04:00
-published: 2026-03-28T23:00:12.244-04:00
+modified: 2026-04-21T08:47:29.013-04:00
+published: 2026-04-21T08:47:29.013-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -43,7 +43,7 @@ Classes:
 Handouts:
 [[The Lost Archives of Wigglestaff Handout]]
 
-> [!infobox]
+> [!infobox|right]
 >
 > ## The Lost Archives of Wigglestaff
 >
