@@ -12,11 +12,16 @@ Author: Jordan
 >
 > [[Arctur Execlostrabaum]], Headmaster of [[White Grove|White Grove Academy]] & Loremaster of Selerim
 
-### Quick-Links:
-
-- [[World Overview]] - overview of the world of Selerim (**Start here!**)
-- [[Selerim Timeline]] - timeline of formative events
-- [[Adventure Log]] - running log of adventures past
+<br>
+> \[!cards|3 bg-purple]
+>  **[[World Overview]]**
+> [![[selerim_planet_view.png|profile+medium cover center]]](World%20Overview)
+> 
+> **[[Selerim Timeline|Timeline]]**
+> [![[timeline_icon.png|profile+medium cover center]]](Selerim%20Timeline)
+> 
+> **[[Adventure Log]]**
+ > [![[adventurelog.png|profile+medium cover center]]](Adventure%20Log)
 
 ### Interactive Map of the _[[Inhabitable Lands]]_:
 
