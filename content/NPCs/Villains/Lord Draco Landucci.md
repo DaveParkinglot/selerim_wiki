@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-04-21T09:15:22.612-04:00
+published: 2026-04-21T09:15:22.612-04:00
 Age: "56"
 Ancestry:
   - Human
@@ -15,41 +19,47 @@ Appearances:
 Status: Deceased
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Lord Draco Landucci
-> ![[lord_draco_landucci.png|300]]
+>
+> ![[z_assets/lord_draco_landucci.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 56
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: Nova Jersaeria
+>
+> **Role**: Tyrant Lord
+>
+> **Affiliation:** [[Factions/Families of Tiialia/Landucci Family.md|Landucci Family]], [[Factions/Families of Tiialia/Fanto-Domingo Family.md|Fanto-Domingo Family]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Deceased
 
 # Overview
+
 - Before his death at the hands of [[The High Rollers]], Lord Landucci was all of these things:
-	- Tiialan Lord
-	- [[Landucci Family]] patriarch
-	- High Commander of the Legions of Tiialia
-	- Former sand yacht owner
+  - Tiialan Lord
+  - [[Landucci Family]] patriarch
+  - High Commander of the Legions of Tiialia
+  - Former sand yacht owner
 - He sought to rule all of Tiialia through the puppet king Antonio Adonzio.
 - He was killed by [[The High Rollers]] in the Nova Jersaeria throne room, along with [[Faustia Fanto-Domingo]] and his burly twin sons Lorus and Korus.
 - He is now known as the Tyrant Lord, and his family name is anathema in the holdings of Tiialia.
 
 # Attributes
+
 - **Voice**: Gruff and mean
 - **Traits**: Loves to be in charge
-- **Goals:** 
+- **Goals:**
 - **Appearance**: Bald, tall, burly
 
 # Relationships

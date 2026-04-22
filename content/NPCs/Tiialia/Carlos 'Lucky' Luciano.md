@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-10-22T07:44:04.000-04:00
+modified: 2026-04-21T09:15:04.755-04:00
+published: 2026-04-21T09:15:04.755-04:00
 Age: Unknown
 Ancestry: Human
 Gender: Male
@@ -16,40 +20,45 @@ Appearances:
 Status: Deceased
 Author: Ethan
 ---
+
 > [!infobox|right]
+>
 > ## Carlos 'Lucky' Luciano
-> ![[carlos_luciano.png|300]]
+>
+> ![[z_assets/carlos_luciano.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: Unknown
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], Batista Family Manor
+>
+> **Role**: Muscle, Undead Muscle
+>
+> **Affiliation:** [[Factions/Families of Tiialia/Batista Family.md|Batista Family]]
+>
+> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]]
+>
+> **Status:** Deceased
 
 # Overview
+
 - A loyal servant to the [[Batista Family]].
 - He was originally slain at [[Roberto Batista]]'s estate. However, he was later encountered on Isla Ruz as an undead horror, and also slightly bigger than he was when first encountered. Dark forces seem to be at work with this character.
 
 # Attributes
-- **Voice**: 
-- **Traits**: 
-- **Ideals:** 
-- **Appearance**: 
+
+- **Voice**:
+- **Traits**:
+- **Ideals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                      | Relationship |
 | ------------------------- | ------------ |
 | [[Lord Zaldivar Batista]] | Liege Lord   |
-
