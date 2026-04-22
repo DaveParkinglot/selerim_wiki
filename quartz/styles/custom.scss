@@ -35,3 +35,21 @@ body table th, body table td {
   word-break: normal;
   padding: 8px;            /* Gives the data some breathing room */
 }
+
+
+/* 1. Remove the default background highlight */
+body a.internal {
+    background-color: transparent !important;
+    /* Optional: Quartz adds padding/radius for the highlight; 
+       setting to 0 keeps the text alignment tight when the highlight is gone. */
+    padding: 0; 
+    border-radius: 4px;
+    transition: background-color 0.2s ease; /* Makes the highlight fade in smoothly */
+}
+
+/* 2. Re-introduce the highlight only on hover */
+body a.internal:hover {
+    background-color: rgb(from var(--highlight) r g b / 0.4) !important;
+    padding: 0 0.2rem; /* Adds a little breathing room around the text on hover */
+    text-decoration: none;
+}

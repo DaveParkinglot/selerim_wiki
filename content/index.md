@@ -35,4 +35,3 @@ views:
     unit: mi
 ```
 [[inhabitable_lands.webp|View full map image]]
-
