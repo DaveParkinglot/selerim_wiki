@@ -16,13 +16,13 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
           __html: `
           if (typeof fetchData !== "undefined") {
             fetchData.then(function(index) {
-              var base = document.querySelector("base");
-              var basePath = (base && base.getAttribute("href")) || "/";
+              var basePath = document.body.dataset.basepath || "";
               if (basePath.length > 1 && basePath.endsWith("/")) {
                 basePath = basePath.slice(0, -1);
               }
               var pathname = window.location.pathname;
-              if (basePath.length > 1 && pathname.startsWith(basePath)) {
+              var hasBasePrefix = basePath.length > 1 && pathname.startsWith(basePath);
+              if (hasBasePrefix) {
                 pathname = pathname.slice(basePath.length);
               }
               if (pathname.startsWith("/")) {
@@ -31,17 +31,16 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
               if (pathname.endsWith("/")) {
                 pathname = pathname.slice(0, -1);
               }
-              // Strip .html extension if present
               if (pathname.endsWith(".html")) {
                 pathname = pathname.slice(0, -5);
               }
-              // Convert trailing /index to folder slug
               if (pathname.endsWith("/index")) {
                 pathname = pathname.slice(0, -6);
               }
               var lowered = pathname.toLowerCase();
               if (lowered !== pathname && index[lowered] != null) {
-                var target = basePath + (basePath.endsWith("/") ? "" : "/") + lowered;
+                var prefix = hasBasePrefix ? basePath : "";
+                var target = prefix + (prefix.endsWith("/") ? "" : "/") + lowered;
                 window.location.replace(target);
               }
             });

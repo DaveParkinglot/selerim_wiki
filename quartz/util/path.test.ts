@@ -170,6 +170,15 @@ describe("transforms", () => {
         ["content/with spaces", "./content/with-spaces"],
         ["content/with spaces/index", "./content/with-spaces/"],
         ["content/with spaces#and Anchor!", "./content/with-spaces#and-anchor"],
+        // Folder note convention: same-name parent triggers /index rewrite → folder path
+        ["characters/characters", "./characters/"],
+        ["My Folder/My Folder", "./my-folder/"],
+        ["a/b/c/d/d", "./a/b/c/d/"],
+        ["My Folder/My Folder#heading", "./my-folder/#heading"],
+        // Non-matching last segments: no folder rewrite
+        ["characters/alice", "./characters/alice"],
+        // Percent-encoded spaces
+        ["My%20Folder/My%20Note", "./my-folder/my-note"],
       ],
       path.transformInternalLink,
       (_x: string): _x is string => true,
