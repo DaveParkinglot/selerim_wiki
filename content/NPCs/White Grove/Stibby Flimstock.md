@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-03-26T16:32:15.803-04:00
-published: 2026-03-26T16:32:15.803-04:00
 Age: "17"
 Ancestry: Tiefling
 Gender: Male
@@ -19,41 +15,35 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
-> [!infobox]
->
+> [!infobox|right]
 > ## Stibby Flimstock
->
-> ![[z_assets/stibby_flimstock.png|300]]
->
+> ![[stibby_flimstock.png|300]]
 > ## Details
->
-> **Age**: 17
->
-> **Ancestry**: Tiefling
->
-> **Gender**: Male
->
-> **Location**: [[Places/White Grove.md|White Grove]]
->
-> **Role**: Student, Freshman
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - A tiefling student at [[White Grove]] who is very uncertain and bad at infernal magic.
 
 # Attributes
-
 - **Voice**: High pitched and unsure
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 
@@ -62,3 +52,4 @@ Author: Jordan
 | [[Vowel Noosins]]         | Study buddy  |
 | [[Vyvian Wynter]]         | Study buddy  |
 | [[Curtottix Dragopolese]] | Study buddy  |
+

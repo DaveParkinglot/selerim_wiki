@@ -232,7 +232,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub Repo: https://github.com/DaveParkinglot/selerim_wiki
+        GitHub: https://github.com/DaveParkinglot/selerim_wiki
   - source: github:quartz-community/recent-notes
     enabled: true
   - source: github:quartz-community/spacer

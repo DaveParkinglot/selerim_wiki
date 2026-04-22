@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T16:25:26.076-04:00
-published: 2026-03-26T16:25:26.076-04:00
 Age: "22"
 Ancestry: Human
 Gender: Male
@@ -17,42 +13,36 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
-> [!infobox]
->
+> [!infobox|right]
 > ## Bondoon Jr.
->
-> ![[z_assets/bondoon_jr.png|300]]
->
+> ![[bondoon_jr.png|300]]
 > ## Details
->
-> **Age**: 22
->
-> **Ancestry**: Human
->
-> **Gender**: Male
->
-> **Location**: [[Places/Crabbley.md|Crabbley]]
->
-> **Role**: Heir to the Cereal Factory
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - An aspiring adventurer, he is tired of spending all his days cooped up at the Bondoon Cereal Factory.
 - His father's mysterious disappearance thrust him into the family business, but he still finds time to go on adventures.
 
 # Attributes
-
 - **Voice**: Uncertain and squeaky
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 

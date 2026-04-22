@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-10-22T08:02:28.000-04:00
-modified: 2026-04-18T09:46:47.000-04:00
-published: 2026-04-18T09:46:47.000-04:00
 Age: "32"
 Ancestry:
   - Human
@@ -20,44 +16,39 @@ Appearances:
 Status: Alive
 Author: Ethan
 ---
-
-> [!infobox]
->
+> [!infobox|right]
 > ## Alejandro Ruz
->
-> ![[z_assets/alejandro_ruz.png|300]]
->
+> ![[alejandro_ruz.png|300]]
 > ## Details
->
-> **Age**: 32
->
-> **Ancestry**: Human
->
-> **Gender**: Male
->
-> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], Isla Ruz
->
-> **Role**: Head of Ruz Family
->
-> **Affiliation:** Ruz Family, [[Factions/Tiialia.md|Tiialia]]
->
-> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 The young head of the [[Ruz Family]]. Mystery surrounds this revolutionary. Some in the Esposito course believe that he intends to break free from [[Tiialia]]. Others believe he may be the only hope that [[Antonino Esposito|King Esposito]] has against the [[Batista Family]].
 
 # Attributes
-
-- **Voice**:
-- **Traits**:
-- **Ideals:**
-- **Appearance**:
+- **Voice**: 
+- **Traits**: 
+- **Ideals:** 
+- **Appearance**: 
 
 # Relationships
 
 | Name                           | Relationship          |
 | ------------------------------ | --------------------- |
 | [[General Ernesto de la Sern]] | Confidant and General |
+

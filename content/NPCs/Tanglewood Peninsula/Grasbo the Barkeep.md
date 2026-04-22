@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-03-26T16:26:45.893-04:00
-published: 2026-03-26T16:26:45.893-04:00
 Age: "60"
 Ancestry: Goblin
 Gender: Male
@@ -17,41 +13,35 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
-> [!infobox]
->
+> [!infobox|right]
 > ## Grasbo the Barkeep
->
-> ![[z_assets/grasbo.png|300]]
->
+> ![[grasbo.png|300]]
 > ## Details
->
-> **Age**: 60
->
-> **Ancestry**: Goblin
->
-> **Gender**: Male
->
-> **Location**: [[Places/Crabbley.md|Crabbley]]
->
-> **Role**: Barkeep, Small Business Owner
->
-> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 Aspiring restauranteur in Crabbley. Owns the popular watering hole The Soggy Bottom Tavern.
 
 # Attributes
-
-- **Voice**:
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Voice**: 
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 
