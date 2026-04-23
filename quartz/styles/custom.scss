@@ -21,21 +21,28 @@
 
 // DATAVIEW TABLE FIX: fix width for dataview and standard tables //
 body table {
-  width: 100% !important;   /* Force the table to span the full available width */
-  display: table !important;
-  border-collapse: collapse;
-  margin: 1.5rem 0;        /* Space out tables from text */
-  table-layout: auto;      /* Allows columns to size based on content */
-  clear: both;             /* IMPORTANT: Forces table below floating infoboxes if space is tight */
+    width: auto !important;   
+    min-width: 60%;          /* PREVENTS SQUEEZE: Ensures it takes up at least 60% of the area */
+    max-width: 100% !important; 
+    display: table !important;
+    border-collapse: collapse;
+    margin: 1.5rem 0;   
+    table-layout: auto; 
 }
 
-// Ensure table cells don't force weird wrapping //
-body table th, body table td {
-  white-space: normal;     /* Allows text to wrap naturally */
-  word-break: normal;
-  padding: 8px;            /* Gives the data some breathing room */
+/* Keep headers on one line so they don't get squished vertically */
+body table th {
+    white-space: nowrap !important; 
+    background-color: var(--highlight); /* Optional: makes headers pop in Quartz */
 }
 
+/* Standard cell behavior */
+body table td {
+    white-space: normal;
+    word-break: normal;
+    padding: 8px 12px;       /* Increased padding for a cleaner look */
+    min-width: 100px;        /* PREVENTS SQUEEZE: Cells won't shrink smaller than 100px */
+}
 
 /* 1. Remove the default background highlight */
 body a.internal {
