@@ -154,7 +154,6 @@ plugins:
     options:
       title: Explorer
       folderClickBehavior: collapse
-      folderDefaultState: collapsed
     layout:
       position: left
       priority: 50
