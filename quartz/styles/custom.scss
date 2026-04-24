@@ -60,3 +60,27 @@ body a.internal:hover {
     padding: 0 0.2rem; /* Adds a little breathing room around the text on hover */
     text-decoration: none;
 }
+
+
+// List Item Override for the ITS-THEME.DROWNED //
+/* DARK THEME: Pure White Text */
+html[saved-theme="dark"] body ul > li, 
+html[saved-theme="dark"] body ol > li,
+html[saved-theme="dark"] body p {
+    color: rgb(255, 255, 255) !important;
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+    text-decoration-color: rgb(255, 255, 255) !important;
+}
+
+/* Prevent links in headers from changing font/weight */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    text-decoration: none; /* Optional: removes the underline if you want it to look like plain text */
+}
+
+/* If Quartz uses a specific class for header links, use this too */
+.markdown-section :is(h1, h2, h3, h4, h5, h6) a {
+    font-family: inherit !important;
+    font-weight: inherit !important;
+}
