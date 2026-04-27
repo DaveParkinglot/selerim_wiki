@@ -61,27 +61,28 @@ body a.internal:hover {
     text-decoration: none;
 }
 
-
 // List Item Override for the ITS-THEME.DROWNED //
-/* DARK THEME: Pure White Text */
-html[saved-theme="dark"] body ul > li, 
-html[saved-theme="dark"] body ol > li,
-html[saved-theme="dark"] body p {
-    color: rgb(255, 255, 255) !important;
-    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-    text-decoration-color: rgb(255, 255, 255) !important;
+/* DARK THEME: Pure White Text (Excluding Captions) */
+html[saved-theme="dark"] {
+    body ul > li, 
+    body ol > li,
+    body p:not(.callout[data-callout~="caption"] p) {
+        color: rgb(255, 255, 255) !important;
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+        text-decoration-color: rgb(255, 255, 255) !important;
+    }
 }
 
-/* LIGHT THEME: Black Text */
-html[saved-theme="light"] body ul > li, 
-html[saved-theme="light"] body ol > li,
-html[saved-theme="light"] body p {
-    color: rgb(0, 0, 0) !important;
-    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
-    text-decoration-color: rgb(0, 0, 0) !important;
+/* LIGHT THEME: Black Text (Excluding Captions) */
+html[saved-theme="light"] {
+    body ul > li, 
+    body ol > li,
+    body p:not(.callout[data-callout~="caption"] p) {
+        color: rgb(0, 0, 0) !important;
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+        text-decoration-color: rgb(0, 0, 0) !important;
+    }
 }
-
-
 
 
 /* Prevent links in headers from changing font/weight */

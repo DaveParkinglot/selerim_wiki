@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:19.083-04:00
-published: 2026-04-21T09:14:19.083-04:00
 Age: "24"
 Ancestry: Owlin
 Gender: Male
@@ -21,42 +17,36 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Bwanson Wagwan
->
-> ![[z_assets/bwanson_wagwan.png|300]]
->
+> ![[bwanson_wagwan.png|300]]
 > ## Details
->
-> **Age**: 24
->
-> **Ancestry**: Owlin
->
-> **Gender**: Male
->
-> **Location**: [[Places/Mitlin.md|Mitlin]]
->
-> **Role**: Former Adventurer, Druid, Merchant
->
-> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - Bwanson adventured with [[The High Rollers]] during their time on the Tanglewood Peninsula.
 - He settled down to start his magic shop Jack of Owl Trades in Mitlin with his business partner Scryer Young.
 
 # Attributes
-
 - **Voice**: High pitched, says "hoo-hoo" like an owl a lot
-- **Traits**:
-  - I have much to be proud of, but I am still just one strand in the grand, interwoven tapestry of life. Nature offers rich and abundant metaphors for understanding the complexities of life.
-  - Ideals: Preserving life and nature is always a worthwhile endeavor. (Good)
+- **Traits**: 
+	- I have much to be proud of, but I am still just one strand in the grand, interwoven tapestry of life. Nature offers rich and abundant metaphors for understanding the complexities of life.
+	- Ideals: Preserving life and nature is always a worthwhile endeavor. (Good)
 - **Goals:** Sell magic items to adventurers, make a small profit
 - **Appearance**: Short owlin druid with a necktie
 
