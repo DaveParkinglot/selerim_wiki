@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T09:15:26.449-04:00
-published: 2026-04-21T09:15:26.449-04:00
+modified: 2026-04-28T15:07:43.545-04:00
+published: 2026-04-28T15:07:43.545-04:00
 Age: 66 (deceased)
 Ancestry:
   - Human
@@ -63,5 +63,6 @@ Author: Jordan
 
 # Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                        | Relationship        |
+| --------------------------- | ------------------- |
+| [[Blackhorn the Barbarian]] | Former Party Member |
