@@ -1,3 +1,99 @@
+@use "./base.scss";
 @use "./variables.scss" as *;
-
+@use "sass:map";
 // put your custom CSS here!
+
+// -- Morrowind Modding Wiki SCSS Modules for cooler things-- //
+@use "./custom/infobox-callout.scss";
+@use "./custom/image-adjustments.scss";
+@use "./custom/callout-adjustments.scss";
+@use "./custom/column-callout.scss";
+@use "./custom/caption-callout.scss";
+
+// expands to match wide monitors better (I think) //
+@media all and ($desktop) {
+  body div#quartz-root.page div#quartz-body {
+    width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
+    max-width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
+    padding: 0 auto;
+  }
+}
+
+// DATAVIEW TABLE FIX: fix width for dataview and standard tables //
+body table {
+    width: auto !important;   
+    min-width: 60%;          /* PREVENTS SQUEEZE: Ensures it takes up at least 60% of the area */
+    max-width: 100% !important; 
+    display: table !important;
+    border-collapse: collapse;
+    margin: 1.5rem 0;   
+    table-layout: auto; 
+}
+
+/* Keep headers on one line so they don't get squished vertically */
+body table th {
+    white-space: nowrap !important; 
+    background-color: var(--highlight); /* Optional: makes headers pop in Quartz */
+}
+
+/* Standard cell behavior */
+body table td {
+    white-space: normal;
+    word-break: normal;
+    padding: 8px 12px;       /* Increased padding for a cleaner look */
+    min-width: 100px;        /* PREVENTS SQUEEZE: Cells won't shrink smaller than 100px */
+}
+
+/* 1. Remove the default background highlight */
+body a.internal {
+    background-color: transparent !important;
+    /* Optional: Quartz adds padding/radius for the highlight; 
+       setting to 0 keeps the text alignment tight when the highlight is gone. */
+    padding: 0; 
+    border-radius: 4px;
+    transition: background-color 0.2s ease; /* Makes the highlight fade in smoothly */
+}
+
+/* 2. Re-introduce the highlight only on hover */
+body a.internal:hover {
+    background-color: rgb(from var(--highlight) r g b / 0.4) !important;
+    padding: 0 0.2rem; /* Adds a little breathing room around the text on hover */
+    text-decoration: none;
+}
+
+// List Item Override for the ITS-THEME.DROWNED //
+/* DARK THEME: Pure White Text (Excluding Captions) */
+html[saved-theme="dark"] {
+    body ul > li, 
+    body ol > li,
+    body p:not(.callout[data-callout~="caption"] p) {
+        color: rgb(255, 255, 255) !important;
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+        text-decoration-color: rgb(255, 255, 255) !important;
+    }
+}
+
+/* LIGHT THEME: Black Text (Excluding Captions) */
+html[saved-theme="light"] {
+    body ul > li, 
+    body ol > li,
+    body p:not(.callout[data-callout~="caption"] p) {
+        color: rgb(0, 0, 0) !important;
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+        text-decoration-color: rgb(0, 0, 0) !important;
+    }
+}
+
+
+/* Prevent links in headers from changing font/weight */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    text-decoration: none; /* Optional: removes the underline if you want it to look like plain text */
+}
+
+/* If Quartz uses a specific class for header links, use this too */
+.markdown-section :is(h1, h2, h3, h4, h5, h6) a {
+    font-family: inherit !important;
+    font-weight: inherit !important;
+}
