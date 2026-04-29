@@ -54,13 +54,6 @@ body a.internal {
     transition: background-color 0.2s ease; /* Makes the highlight fade in smoothly */
 }
 
-/* 2. Re-introduce the highlight only on hover */
-body a.internal:hover {
-    background-color: rgb(from var(--highlight) r g b / 0.4) !important;
-    padding: 0 0.2rem; /* Adds a little breathing room around the text on hover */
-    text-decoration: none;
-}
-
 // List Item Override for the ITS-THEME.DROWNED //
 /* DARK THEME: Pure White Text (Excluding Captions) */
 html[saved-theme="dark"] {
