@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T08:50:08.917-04:00
-published: 2026-04-21T08:50:08.917-04:00
+modified: 2026-05-01T12:23:05.399-04:00
+published: 2026-05-01T12:23:05.399-04:00
 Age: ??
 Ancestry: Archfey
-Gender: Varies
+Gender: N/A
 Location:
   - The Fathomless Vault
 Role:
@@ -33,7 +33,7 @@ Author: Jordan
 >
 > **Ancestry**: Archfey
 >
-> **Gender**: Varies
+> **Gender**: N/A
 >
 > **Location**: The Fathomless Vault
 >
@@ -47,11 +47,19 @@ Author: Jordan
 
 # Overview
 
-- Archfey who collects mortals as trophies
-- They wants to preserve the history of notable people, places, and events
-- They have a preference for "collecting" notable mortals, but some say he has entire towns on display in his Fathomless Vault, frozen in place
-- The entrance to Tzastis' Fathomless Vault exists in many places on the material plane, and one such place is in the Trackless Mire
-- One of their goals is to preserve the history of [[The High Rollers]], which will involve collecting some of their friends to create a mirror of The Spicy Meatball for display purposes
+- Archfey who collects mortals as trophies. They want to preserve the history of notable people, places, and events
+- Tzastis has a preference for "collecting" notable mortals, but some say they have entire towns on display in the [[Fathomless Vault]], frozen in place
+- The entrance to Tzastis' Fathomless Vault exists in many places on the material plane, and one such place is in the [[Trackless Mire]].
+
+## [[The High Rollers Campaign]]
+
+- One of their goals is to preserve the history of famous and powerful adventurers, including [[The High Rollers]].
+- During their last, [[The High Rollers Campaign#Thwart The Collector|ill-fated adventure]], The High Rollers and their companions Eros and Maldoy were collected by Tzastis, excluding the blood hunter [[Tadeusz]]. They were placed on display as trophies in the 900th exhibit of the Fathomless Vault, a false copy of their restaurant The Spicy Meatball.
+
+### [[Saving Cousin Gane]]
+
+- Bobby Dismorphia and his boys discovered and stole an invitation to the [[Fathomless Vault]], which was intended for [[The Jaded Queen]].
+- Bobby, having studied the adventures of The High Rollers during his time as a NEAT, is aware that Selerim's foremost adventuring party is trapped in the vault. He may have plans to free them, but only time will tell.
 
 # Attributes
 
@@ -59,10 +67,12 @@ Author: Jordan
 - **Traits**: Inscrutable archfey
 - **Goals:**
   - Fill out the Fathomless Vault with notable mortals as trophies
-  - Entertain other powerful guests
-- **Appearance**:
+  - Entertain other powerful guests and archfey
+- **Appearance**: Effeminate fox wearing a dress
 
 # Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                | Relationship |
+| ------------------- | ------------ |
+| [[The Jaded Queen]] | Peer         |
+| [[Myrrdin Turftoe]] | Enemy        |

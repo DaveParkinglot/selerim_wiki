@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T11:30:00.000-04:00
-modified: 2026-04-21T08:47:24.437-04:00
-published: 2026-04-21T08:47:24.437-04:00
+modified: 2026-05-01T12:19:54.723-04:00
+published: 2026-05-01T12:19:54.723-04:00
 DM: Jordan
 Platform:
   - Foundry
@@ -149,7 +149,7 @@ The OG campaign.
 ### Adventure Premise
 
 - Those who wander into [[Wild Thicket]] are preyed upon by fey who serve someone, or something, known as [[Tzastis the Collector|"The Collector"]]. Not much is known about this Collector except that their fey minions are constantly appearing in these woods to deceive and kidnap any who wander in.
-- Tzastis is said to collect mortals like trophies in a location called "[[The Fathomless Vault]]", which is said to have many entrances on the material plane. One such entrance may be in [[The Trackless Mire]], according to [[Myrrdin Turftoe]].
+- Tzastis is said to collect mortals like trophies in a location called the "[[Fathomless Vault]]", which is said to have many entrances on the material plane. One such entrance may be in the [[Trackless Mire]], according to [[Myrrdin Turftoe]].
 
 ### Outcomes
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T08:50:02.423-04:00
-published: 2026-04-21T08:50:02.423-04:00
+modified: 2026-05-01T12:24:31.120-04:00
+published: 2026-05-01T12:24:31.120-04:00
 Age: "286"
 Ancestry: Halfling
 Gender: Male
@@ -54,14 +54,16 @@ Author: Jordan
 
 # Attributes
 
-- **Voice**:
-- **Traits**:
+- **Voice**: Normal, wizened
+- **Traits**: Friendly and wise
 - **Goals:**
-  - Protect [[Wild Thicket]]
-  - Banish [[Tzastis the Collector]]
-- **Appearance**:
+  - Protect the [[Wild Thicket]]
+  - Banish [[Tzastis the Collector]] from Selerim
+- **Appearance**: Copper haired halfling with vines growing all throughout his outfit
 
 # Relationships
 
-| Name  | Relationship |
-| ----- | ------------ |
+| Name                             | Relationship |
+| -------------------------------- | ------------ |
+| [[Francis Greenstrider De Luca]] | Mentor       |
+| [[Tzastis the Collector]]        | Enemy        |
