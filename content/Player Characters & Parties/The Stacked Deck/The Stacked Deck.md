@@ -10,3 +10,4 @@ Their grand adventures are cataloged here:
 
 - [[The Great Tiialan Heist]]
 - [[Voyage a la Isla Ruz]]
+- [[The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]

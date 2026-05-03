@@ -43,7 +43,7 @@ aliases:
 >
 > **Government:** [[NPCs/Tiialia/Lord Zalvidar Batista.md|Lord Zalvidar Batista]]
 >
-> **Appearances:** [[The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy|The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]
+> **Appearances:** [[Adventures/The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy.md|The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]
 
 # Overview
 
