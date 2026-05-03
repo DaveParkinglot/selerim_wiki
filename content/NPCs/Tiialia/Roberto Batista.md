@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-05-03T11:29:43.020-04:00
-modified: 2026-05-03T11:48:26.063-04:00
-published: 2026-05-03T11:48:26.063-04:00
+modified: 2026-05-03T12:40:38.973-04:00
+published: 2026-05-03T12:40:38.973-04:00
 Age: "27"
 Ancestry:
   - Human
-  - Archfey
 Gender: Male
 Location:
   - "[[Nova Jersaeria]]"
@@ -33,7 +32,7 @@ aliases:
 >
 > **Age**: 27
 >
-> **Ancestry**: Human, Archfey
+> **Ancestry**: Human
 >
 > **Gender**: Male
 >

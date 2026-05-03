@@ -2,8 +2,8 @@
 publish: true
 title: Batistallas
 created: 2026-04-30T10:04:28.649-04:00
-modified: 2026-05-03T11:37:06.621-04:00
-published: 2026-05-03T11:37:06.621-04:00
+modified: 2026-05-03T12:39:28.070-04:00
+published: 2026-05-03T12:39:28.070-04:00
 Type:
   - City
 Age (years): 105
@@ -12,10 +12,10 @@ Affiliation:
   - "[[Tiialia|Kingdom of Tiialia]]"
   - "[[Batista Family]]"
 Government:
-  - "[[Zalvidar Batista]]"
+  - "[[Lord Zalvidar Batista]]"
 Author: Ethan
 Appearances:
-  - "[[The Assassination of King Antonino Esposito by the Coward Playing Card Murphy]]"
+  - "[[The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]"
 marker:
   - coordinates: 92, 2610
     icon: game-icons:medieval-gate
@@ -41,9 +41,9 @@ aliases:
 >
 > **Affiliation**: [[Factions/Tiialia.md|Kingdom of Tiialia]], [[Factions/Families of Tiialia/Batista Family.md|Batista Family]]
 >
-> **Government:** [[Zalvidar Batista|Zalvidar Batista]]
+> **Government:** [[NPCs/Tiialia/Lord Zalvidar Batista.md|Lord Zalvidar Batista]]
 >
-> **Appearances:** [[The Assassination of King Antonino Esposito by the Coward Playing Card Murphy|The Assassination of King Antonino Esposito by the Coward Playing Card Murphy]]
+> **Appearances:** [[The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy|The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]
 
 # Overview
 
