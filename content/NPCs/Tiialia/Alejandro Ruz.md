@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T08:02:28.000-04:00
-modified: 2026-04-21T09:14:59.333-04:00
-published: 2026-04-21T09:14:59.333-04:00
+modified: 2026-05-03T11:49:13.101-04:00
+published: 2026-05-03T11:49:13.101-04:00
 Age: "32"
 Ancestry:
   - Human
@@ -51,10 +51,10 @@ The young head of the [[Ruz Family]]. Mystery surrounds this revolutionary. Some
 
 # Attributes
 
-- **Voice**:
-- **Traits**:
-- **Ideals:**
-- **Appearance**:
+- **Voice**: Cuban
+- **Traits**: If you help him, he will always remember
+- **Ideals:** - Preserve the Ruz family and seek vengeance on the Batistas
+- **Appearance**: A communist dwarf partisan
 
 # Relationships
 

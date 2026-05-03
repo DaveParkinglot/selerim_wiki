@@ -85,13 +85,13 @@ The OG campaign.
 
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Evan | [[Worldbuilding/Player Characters/The High Rollers/Clint Weapon.md\|Clint Weapon]] | Human | Barbarian |
+| Evan | [[Player Characters & Parties/The High Rollers/Clint Weapon.md\|Clint Weapon]] | Human | Barbarian |
 | Logan | [[NPCs/Tiialia/Bancil Nobeltrim.md\|Bancil Nobeltrim]] | Half-Elf | Paladin |
-| Logan | [[Worldbuilding/Player Characters/The High Rollers/Lorundil the Wanderer.md\|Lorundil the Wanderer]] | Half-Elf | Warlock |
-| Michael | [[Worldbuilding/Player Characters/The High Rollers/Otieno.md\|Otieno]] | Elf | Ranger |
+| Logan | [[Player Characters & Parties/The High Rollers/Lorundil the Wanderer.md\|Lorundil the Wanderer]] | Half-Elf | Warlock |
+| Michael | [[Player Characters & Parties/The High Rollers/Otieno.md\|Otieno]] | Elf | Ranger |
 | Mike Doom | [[NPCs/Scrimshaw City/Hugh Mann.md\|Hugh Mann]] | "Human" (Fiend) | Wizard |
-| Mike Doom | [[Worldbuilding/Player Characters/The High Rollers/Francis Greenstrider De Luca.md\|Francis Greenstrider De Luca]] | Half-Elf | Cleric/Druid |
-| Peter | [[Worldbuilding/Player Characters/The High Rollers/Tadeusz.md\|Tadeusz]] | Human | Blood Hunter |
+| Mike Doom | [[Player Characters & Parties/The High Rollers/Francis Greenstrider De Luca.md\|Francis Greenstrider De Luca]] | Half-Elf | Cleric/Druid |
+| Peter | [[Player Characters & Parties/The High Rollers/Tadeusz.md\|Tadeusz]] | Human | Blood Hunter |
 | George | Eros | Satyr | Bard |
 | George | P3360 TUR60 | Warforged | Rogue |
 | Fisher | [[NPCs/Tanglewood Peninsula/Bwanson Wagwan.md\|Bwanson Wagwan]] | Owlin | Druid |

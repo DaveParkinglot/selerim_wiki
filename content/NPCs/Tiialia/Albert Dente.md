@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Butler
 >
-> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]], [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]]
+> **Affiliation:** [[Player Characters & Parties/The High Rollers/The High Rollers.md|The High Rollers]], [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

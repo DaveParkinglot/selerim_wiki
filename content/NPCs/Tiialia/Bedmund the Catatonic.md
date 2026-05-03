@@ -37,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Sleepy Wizard
 >
-> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Player Characters & Parties/The High Rollers/The High Rollers.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

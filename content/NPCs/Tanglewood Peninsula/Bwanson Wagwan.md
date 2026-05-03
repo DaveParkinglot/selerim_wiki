@@ -40,7 +40,7 @@ Author: Jordan
 >
 > **Role**: Former Adventurer, Druid, Merchant
 >
-> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Player Characters & Parties/The High Rollers/The High Rollers.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
 >

@@ -51,7 +51,7 @@ Author: Jordan
 >
 > **Role**: El Presidente, Former Adventurer
 >
-> **Affiliation:** [[Worldbuilding/Player Characters/The High Rollers/The High Rollers.md|The High Rollers]], Tavernstool
+> **Affiliation:** [[Player Characters & Parties/The High Rollers/The High Rollers.md|The High Rollers]], Tavernstool
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
 >

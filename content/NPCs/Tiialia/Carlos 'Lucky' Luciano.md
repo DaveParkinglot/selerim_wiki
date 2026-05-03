@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2025-10-22T07:44:04.000-04:00
-modified: 2026-04-21T09:15:04.755-04:00
-published: 2026-04-21T09:15:04.755-04:00
+modified: 2026-05-03T11:49:21.463-04:00
+published: 2026-05-03T11:49:21.463-04:00
 Age: Unknown
-Ancestry: Human
+Ancestry:
+  - Undead Human
 Gender: Male
 Location:
   - "[[Nova Jersaeria]]"
@@ -31,7 +32,7 @@ Author: Ethan
 >
 > **Age**: Unknown
 >
-> **Ancestry**: Human
+> **Ancestry**: Undead Human
 >
 > **Gender**: Male
 >
@@ -49,16 +50,17 @@ Author: Ethan
 
 - A loyal servant to the [[Batista Family]].
 - He was originally slain at [[Roberto Batista]]'s estate. However, he was later encountered on Isla Ruz as an undead horror, and also slightly bigger than he was when first encountered. Dark forces seem to be at work with this character.
+- After being killed a second time, the Stacked Deck took the “Batista Amulet of the Black Skull from Luciano’s corpse so he could not reincorporate.
 
 # Attributes
 
-- **Voice**:
-- **Traits**:
-- **Ideals:**
-- **Appearance**:
+- **Voice**: Jason Statham
+- **Traits**: Keeps being reincarnated bigger and more undeader until [[The Stacked Deck]] took his Amulet of the Black Skull
+- **Ideals:** Serving the Batistas
+- **Appearance**: Large warrior, balding hair.
 
 # Relationships
 
 | Name                      | Relationship |
 | ------------------------- | ------------ |
-| [[Lord Zaldivar Batista]] | Liege Lord   |
+| [[Lord Zalvidar Batista]] | Liege Lord   |
