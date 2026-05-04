@@ -1,1 +1,0 @@
-Human, rogue, gambling addict. "Card" of [[The Stacked Deck]] may not be the most effective operative, but he gets results.
