@@ -41,7 +41,7 @@ Author: Jordan
 >
 > **Role**: Former Criminal, Head Chef
 >
-> **Affiliation:** [[Player Characters & Parties/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]], [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
 >

@@ -36,9 +36,9 @@ Author: Jordan
 >
 > **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
 >
-> **Role**: Former Member of The High Roller, Paladin, Family Guy
+> **Role**: Paladin, Former Adventurer, Family Guy
 >
-> **Affiliation:** None
+> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

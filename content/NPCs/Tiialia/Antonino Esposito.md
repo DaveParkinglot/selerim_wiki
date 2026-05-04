@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: King of Tiialia, Former Spymaster
 >
-> **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Player Characters & Parties/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >
