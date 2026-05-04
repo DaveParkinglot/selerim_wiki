@@ -70,7 +70,7 @@ Classes:
 
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Jordan | [[Player Characters & Parties/The Stacked Deck/Hector Fanto-Domingo.md\|Hector Fanto-Domingo]] | Human | Barbarian |
-| Devin | [[Player Characters & Parties/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
-| Mike Doom | [[Player Characters & Parties/The Stacked Deck/The Knight of Confidence.md\|The Knight of Confidence]] | Human | Fighter |
+| Jordan | [[Player Characters/The Stacked Deck/Hector Fanto-Domingo.md\|Hector Fanto-Domingo]] | Human | Barbarian |
+| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
+| Mike Doom | [[Player Characters/The Stacked Deck/The Knight of Confidence.md\|The Knight of Confidence]] | Human | Fighter |
 |  |  |  |  |
