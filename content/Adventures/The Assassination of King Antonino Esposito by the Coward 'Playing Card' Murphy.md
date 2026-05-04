@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-05-03T17:11:13.701-04:00
-modified: 2026-05-03T17:13:10.863-04:00
-published: 2026-05-03T17:13:10.863-04:00
+modified: 2026-05-04T10:21:32.285-04:00
+published: 2026-05-04T10:21:32.285-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 2
 Start Date: 2026-04-30
 End Date: 2026-05-26
-In-World Start Date: 266-10-22
+In-World Start Date: 266-11-22
 In-World End Date:
 Setting: Selerim
 Author: Ethan
@@ -49,7 +49,7 @@ Classes:
 >
 > **Run Dates**: 2026-04-30 - 2026-05-26
 >
-> **In-World Dates**: 266-10-22 - -
+> **In-World Dates**: 266-11-22 - -
 
 # Adventure Premise
 
