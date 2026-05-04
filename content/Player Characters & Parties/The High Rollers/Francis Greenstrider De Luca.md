@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2023-08-26T23:24:22.000-04:00
-modified: 2026-01-06T10:48:16.551-05:00
-published: 2026-01-06T10:48:16.551-05:00
+modified: 2026-05-04T10:13:30.722-04:00
+published: 2026-05-04T10:13:30.722-04:00
 Author: Jordan
 ---
 
--
 - [[Tiialia]] hooks:
   - His father Marco De Luca was a spy working for the Landuccis in the [[The War of the Four Families]]
     - Before his father died, he was working closely to broker a peace between the four families
