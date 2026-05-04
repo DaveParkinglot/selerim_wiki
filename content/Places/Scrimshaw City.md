@@ -5,8 +5,8 @@ aliases:
   - The Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T12:30:40.000-04:00
-modified: 2026-04-21T08:36:27.618-04:00
-published: 2026-04-21T08:36:27.618-04:00
+modified: 2026-05-04T11:45:13.963-04:00
+published: 2026-05-04T11:45:13.963-04:00
 Type:
   - Free City
 Age (years): 450
@@ -60,7 +60,7 @@ Author: Jordan
 
 # Overview
 
-- Old as the waves themselves and twice as salty, the port city of Scrimshaw is currently controlled by El Presidente [[Hugh Mann]] after the previous El Presidente [[Lord Davos Portnoir|Davos Portnoir]] was overthrown by [[The High Rollers]].
+- Old as the waves themselves and twice as salty, the port city of Scrimshaw is currently controlled by El Presidente [[Hugh Mann]] after the previous El Presidente [[Lord Davos Portnoir|Davos Portnoir]] was overthrown by [[Player Characters/The High Rollers/The High Rollers|The High Rollers]].
 - An abyssal rift, raging for millennia, is buried deep below the mean streets of Scrimshaw City. The original Seven Pirate Kings incorporated in order to found Scrimshaw, seeking to contain, control, and harness the rift’s power. For fifty years, the Seven Kings succeeded in harnessing the power, bringing great prosperity to Scrimshaw. But, as is natural for hot blooded pirates, betrayal soon thwarted their stability, leading to a demonic invasion that nearly destroyed the city.
 - And so, cowed by the demonic forces pouring from the abyss, the Four Faithful Pirate Kings of Scrimshaw made a Pact with the Nine Hells to save the city that burned around them. [[The Faithful Pact]] states that a devil shall always rule in Scrimshaw, in order to prevent a demonic invasion from once again consuming the city. There must always be an El Presidente.
 

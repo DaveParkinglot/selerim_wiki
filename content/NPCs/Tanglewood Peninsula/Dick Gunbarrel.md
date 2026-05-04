@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:31.090-04:00
-published: 2026-04-21T09:14:31.090-04:00
+modified: 2026-05-04T11:40:24.443-04:00
+published: 2026-05-04T11:40:24.443-04:00
 Age: "34"
 Ancestry: Half-Giant
 Gender: Male
@@ -47,7 +47,7 @@ Author: Jordan
 # Overview
 
 - Xenophobic half-giant paladin of Tyr, and [[Bancil Nobeltrim|Bancil Nobeltrim]]'s childhood savior.
-- He mustered a militia force to support [[The High Rollers]] during The Battle of Crillville, and he summarily executed the terrorist [[Malmstein the Tangler]] after the battle was won.
+- He mustered a militia force to support [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] during The Battle of Crillville, and he summarily executed the terrorist [[Malmstein the Tangler]] after the battle was won.
 
 # Attributes
 

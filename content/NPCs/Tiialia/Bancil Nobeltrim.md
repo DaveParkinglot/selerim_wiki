@@ -1,17 +1,19 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:15:01.915-04:00
-published: 2026-04-21T09:15:01.915-04:00
+modified: 2026-05-04T11:36:07.559-04:00
+published: 2026-05-04T11:36:07.559-04:00
 Age: "29"
 Ancestry: Half-Elf
 Gender: Male
 Location:
   - "[[Nova Jersaeria]]"
 Role:
-  - Former Member of The High Roller, Paladin, Family Guy
+  - Paladin
+  - Former Adventurer
+  - Family Guy
 Affiliation:
-  - None
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -49,9 +51,8 @@ Author: Jordan
 
 ## **[[The High Rollers Campaign|The High Rollers Campaign]]**
 
-- Originally Logan's player character.
-- A paladin of the god of justice, Tyr. Bancil hails from Crillville.
-- Bancil adventured with The High Rollers for a long while after besting [[Tadeusz]] in a duel to prove his worth.
+- A paladin of the god of justice, Tyr. Bancil hails from [[Crillville]].
+- Bancil adventured with [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] for a long while after besting [[Tadeusz]] in a duel to prove his worth.
 - Bancil, along with the other High Rollers, performed both great and terrible deeds while adventuring.
 - After the adventuring party deposed [[Lord Davos Portnoir]], Bancil travelled with his family [[Nova Jersaeria]] to spread justice and the word of Tyr.
 

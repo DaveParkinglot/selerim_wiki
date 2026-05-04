@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:14:53.564-04:00
-published: 2026-04-21T09:14:53.564-04:00
+modified: 2026-05-04T11:49:08.101-04:00
+published: 2026-05-04T11:49:08.101-04:00
 Age: "58"
 Ancestry: Half-Elf
 Gender: Male
@@ -45,8 +45,8 @@ Author: Jordan
 # Overview
 
 - Owner of Rampo Wagons after his hostile takeover of Werner Wagons. They really don't make em like they used to.
-- Trilbee's son Willy was killed by [[The High Rollers]] after he participated in a plot to take over the Tanglewood Peninsula with a giant mech-suit built by a captive [[Dillon Lonergan]].
-- Trilbee was taken as a prisoner by [[The High Rollers]] after they mounted an assault on [[Lord Draco Landucci]]'s sand yacht, which was polluting [[Oasis]] and the surrounding deserts of [[The Forsaken Expanse]].
+- Trilbee's son Willy was killed by [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] after he participated in a plot to take over the Tanglewood Peninsula with a giant mech-suit built by a captive [[Dillon Lonergan]].
+- Trilbee was taken as a prisoner by The High Rollers after they mounted an assault on [[Lord Draco Landucci]]'s sand yacht, which was polluting [[Oasis]] and the surrounding deserts of [[The Forsaken Expanse]].
 - After The High Rollers forced Trilbee to sign a vineyard purchase agreement in his own blood, Trilbee was left in Oasis as a prisoner of [[Blackhorn the Barbarian]].
 
 # Attributes

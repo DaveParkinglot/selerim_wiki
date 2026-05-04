@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:15:13.906-04:00
-published: 2026-04-21T09:15:13.906-04:00
+modified: 2026-05-04T11:45:32.607-04:00
+published: 2026-05-04T11:45:32.607-04:00
 Age: "20"
 Ancestry: Kobold
 Gender: Male
@@ -46,7 +46,7 @@ Author: Jordan
 # Overview
 
 - Shemcriz is a sturdy, thick, and hapless kobold who gets in way over his head way too often.
-- He originally came to the surface with a scouting party from Vlorngroth, but overstayed his welcome in the distillery of the Esposito Vineyard, where he was captured by [[The High Rollers]].
+- He originally came to the surface with a scouting party from Vlorngroth, but overstayed his welcome in the distillery of the Esposito Vineyard, where he was captured by [[Player Characters/The High Rollers/The High Rollers|The High Rollers]].
 - Later, he was found by The High Rollers (and luckily saved) while being sacrificed to a yuan-ti god.
 
 # Attributes

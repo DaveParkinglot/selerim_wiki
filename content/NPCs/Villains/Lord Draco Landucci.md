@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T09:15:22.612-04:00
-published: 2026-04-21T09:15:22.612-04:00
+modified: 2026-05-04T11:43:22.426-04:00
+published: 2026-05-04T11:43:22.426-04:00
 Age: "56"
 Ancestry:
   - Human
@@ -46,13 +46,13 @@ Author: Jordan
 
 # Overview
 
-- Before his death at the hands of [[The High Rollers]], Lord Landucci was all of these things:
+- Before his death at the hands of [[Player Characters/The High Rollers/The High Rollers|The High Rollers]], Lord Landucci was all of these things:
   - Tiialan Lord
   - [[Landucci Family]] patriarch
   - High Commander of the Legions of Tiialia
   - Former sand yacht owner
 - He sought to rule all of Tiialia through the puppet king Antonio Adonzio.
-- He was killed by [[The High Rollers]] in the Nova Jersaeria throne room, along with [[Faustia Fanto-Domingo]] and his burly twin sons Lorus and Korus.
+- He was killed by The High Rollers in the Nova Jersaeria throne room, along with [[Faustia Fanto-Domingo]] and his burly twin sons Lorus and Korus.
 - He is now known as the Tyrant Lord, and his family name is anathema in the holdings of Tiialia.
 
 # Attributes

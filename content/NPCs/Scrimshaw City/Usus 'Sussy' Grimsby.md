@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:13:59.159-04:00
-published: 2026-04-21T09:13:59.159-04:00
+modified: 2026-05-04T11:49:31.289-04:00
+published: 2026-05-04T11:49:31.289-04:00
 Age: "97"
 Ancestry:
   - Dwarf
@@ -13,7 +13,7 @@ Role:
   - Former Gladiator Trainer
   - Failed Blood Hunter
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Adventures/Arby's Sauce]]"

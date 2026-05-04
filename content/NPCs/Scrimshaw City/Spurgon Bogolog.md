@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:13:55.601-04:00
-published: 2026-04-21T09:13:55.601-04:00
+modified: 2026-05-04T11:46:08.227-04:00
+published: 2026-05-04T11:46:08.227-04:00
 Age: "32"
 Ancestry:
   - Halfling
@@ -47,7 +47,7 @@ Author: Jordan
 
 # Overview
 
-- This hapless halfling made waves in [[Crabbley]] by stealing a sacred merfolk artifact, which caused merfolks to begin attacking the town. This became the inciting incident for the [[The High Rollers]]' first quest in [[Crabbley]].
+- This hapless halfling made waves in [[Crabbley]] by stealing a sacred merfolk artifact, which caused merfolks to begin attacking the town. This became the inciting incident for the [[Player Characters/The High Rollers/The High Rollers|The High Rollers]]' first quest in [[Crabbley]].
 - Lead singer of Crag Delta. For someone with such sticky fingers he sure can play the lyre!
 - One of the 3 members of Crag Delta. They've played venues from [[Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
 - His stage name is "The Spurg".

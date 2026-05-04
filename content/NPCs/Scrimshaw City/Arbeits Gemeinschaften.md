@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Arby
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T09:13:08.292-04:00
-published: 2026-04-21T09:13:08.292-04:00
+modified: 2026-05-04T11:34:28.599-04:00
+published: 2026-05-04T11:34:28.599-04:00
 Age: "48"
 Ancestry:
   - Bugbear
@@ -14,7 +14,7 @@ Location:
 Role:
   - Bouncer, Former Monster Wrangler
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Adventures/Arby's Sauce]]"

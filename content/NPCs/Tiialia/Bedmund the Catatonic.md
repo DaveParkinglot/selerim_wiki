@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:15:03.222-04:00
-published: 2026-04-21T09:15:03.222-04:00
+modified: 2026-05-04T11:36:14.616-04:00
+published: 2026-05-04T11:36:14.616-04:00
 Age: "57"
 Ancestry: Deep Gnome
 Gender: Male
@@ -11,7 +11,7 @@ Location:
 Role:
   - Sleepy Wizard
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[Vlorngroth - The Manor of Madness]]"
   - "[[The High Rollers Campaign]]"

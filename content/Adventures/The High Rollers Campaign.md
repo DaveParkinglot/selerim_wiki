@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T11:30:00.000-04:00
-modified: 2026-05-01T12:19:54.723-04:00
-published: 2026-05-01T12:19:54.723-04:00
+modified: 2026-05-04T11:48:36.020-04:00
+published: 2026-05-04T11:48:36.020-04:00
 DM: Jordan
 Platform:
   - Foundry
@@ -106,8 +106,8 @@ The OG campaign.
 
 ### Outcomes
 
-- The forces of [[Crabbley]] and [[Crillville]] retook [[Crillville]] after it was occupied by The Tanglers.
-- In the final confrontation, [[The High Rollers]] struck down Malmstein, who was summarily executed by [[Dick Gunbarrel]].
+- The forces of Crabbley and Crillville retook Crillville after it was occupied by The Tanglers.
+- In the final confrontation, [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] struck down Malmstein, who was summarily executed by [[Dick Gunbarrel]].
 
 ## Depose Lord Davos Portnoir
 
@@ -117,7 +117,7 @@ The OG campaign.
 
 ### Outcomes
 
-- [[Lord Davos Portnoir]] was sent screaming back to the Nine Hells, and [[Hugh Mann]] became the new El Presidente of [[Scrimshaw City]].
+- Lord Davos Portnoir was sent screaming back to the Nine Hells, and [[Hugh Mann]] became the new El Presidente of [[Scrimshaw City]].
 
 ## Restore the Tiialan Royal Line
 
@@ -128,8 +128,8 @@ The OG campaign.
 
 ### Outcomes
 
-- The tyrant [[Lord Draco Landucci]] was overthrown by [[The High Rollers]] and Antonino "Nino" Esposito.
-- Long live the new King of [[Tiialia]]: Nino Esposito.
+- The tyrant Lord Draco Landucci was overthrown by The High Rollers and Antonino "Nino" Esposito.
+- Long live the new King of Tiialia: Nino Esposito.
 
 ## Destroy "The Master"
 
@@ -139,7 +139,7 @@ The OG campaign.
 
 ### Outcomes
 
-- With the help of [[Carbuckle Duskshot]], [[The High Rollers]] snuck out of [[Nova Jersaeria]], and delved through the Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
+- With the help of [[Carbuckle Duskshot]], The High Rollers snuck out of [[Nova Jersaeria]], and delved through the Underdark to pay a visit to Jypstein's private island at the edge of Boater's Bay.
 - Effree Jypstein was killed and his phylactery was destroyed.
 
 # Incomplete Quests
@@ -153,9 +153,9 @@ The OG campaign.
 
 ### Outcomes
 
-- [[The High Rollers]] did not play their best hand, and were soundly defeated after venturing into The Fathomless Vault and exploring several of Tzastis' exhibits.
-- [[The High Rollers]] along with their old friends [[Maldoy]] and [[Eros]] are now on display as [[Tzastis the Collector]]'s 900th exhibit: The Spicy Meatball.
-- The wider world does not know the fate of [[The High Rollers]], and though they may be forgotten, it is possible that someone will rescue them from this terrible and seemingly permanent fate.
+- The High Rollers did not play their best hand, and were soundly defeated after venturing into The Fathomless Vault and exploring several of Tzastis' exhibits.
+- The High Rollers along with their old friends [[Maldoy]] and [[Eros]] are now on display as Tzastis the Collector's 900th exhibit: The Spicy Meatball.
+- The wider world does not know the fate of The High Rollers, and though they may be forgotten, it is possible that someone will rescue them from this terrible and seemingly permanent fate.
 - [[Pudding]], who was imprisoned within the vault, was freed by The High Rollers, and escaped from the vault. He is the only witness to the famous adventuring party's fate.
 
 ## Archfey Assistance
@@ -163,7 +163,7 @@ The OG campaign.
 ### Adventure Premise
 
 - **[[Skitterdream]]'s Requests:**
-  "I entreat you on behalf of the opponents of The Black Prince. After these threats to your material plane are dealt with, the services of [[The High Rollers]] will soon be needed by an archfey of the summer court. To aid you in your current quests, and with the hope of receiving your help at its end, I have given you a powerful boon: the experience of dreams, and a single Quickdream Potion. Forget it not."
+  "I entreat you on behalf of the opponents of The Black Prince. After these threats to your material plane are dealt with, the services of The High Rollers will soon be needed by an archfey of the summer court. To aid you in your current quests, and with the hope of receiving your help at its end, I have given you a powerful boon: the experience of dreams, and a single Quickdream Potion. Forget it not."
 - **The Wreath of [[Naviask]]:**
   "The wreath that you once found must be recovered, as it contains the instructions from Naviask, the Blooming Balor. The instructions are known only to Naviask, and he has disappeared, perhaps killed or imprisoned by The Black Prince."
 - The Wreath of Naviask was last carried by [[Eros]]. Basically it sounds like the wreath may have many crucial voicemails on it from Naviask…

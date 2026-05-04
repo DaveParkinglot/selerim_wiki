@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:04.462-04:00
-published: 2026-04-21T09:14:04.462-04:00
+modified: 2026-05-04T11:36:46.925-04:00
+published: 2026-05-04T11:36:46.925-04:00
 Age: "48"
 Ancestry: Human
 Gender: Male
@@ -46,7 +46,7 @@ Author: Jordan
 # Overview
 
 - Biltus was formerly an adventurer before he and his family settled down as farmers in Crabbley.
-- His family housed [[The High Rollers]] for a time, while they were on a quest to rescue the Van Gander's prized hog.
+- His family housed [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] for a time, while they were on a quest to rescue the Van Gander's prized hog.
 - Unfortunately the prized hog was never recovered from the kobolds who stole it.
 
 # Attributes

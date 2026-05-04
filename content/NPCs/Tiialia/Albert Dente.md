@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:14:57.719-04:00
-published: 2026-04-21T09:14:57.719-04:00
+modified: 2026-05-04T11:33:18.487-04:00
+published: 2026-05-04T11:33:18.487-04:00
 Age: "74"
 Ancestry: Human
 Gender: Male
@@ -12,8 +12,8 @@ Location:
 Role:
   - Butler
 Affiliation:
-  - "[[The High Rollers]]"
   - "[[Esposito Family]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive

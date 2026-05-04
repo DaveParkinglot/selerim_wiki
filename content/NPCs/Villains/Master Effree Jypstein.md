@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-28T15:07:43.545-04:00
-published: 2026-04-28T15:07:43.545-04:00
+modified: 2026-05-04T11:43:51.273-04:00
+published: 2026-05-04T11:43:51.273-04:00
 Age: 66 (deceased)
 Ancestry:
   - Human
@@ -52,7 +52,7 @@ Author: Jordan
   - Geelayne eventually regained a fraction of her former power and struck out with rangers from Mitlin to end the threat that Effree posed to the world, but she failed and was once again resurrected by Effree, this time as a banshee
 - After The Three disbanded due to Effree's actions, he spent years living as a noble in [[Scrimshaw City]], before retreating to his ancestral home in the Jypstein Isles on The Great Delphin Sea.
 - Some time after that, Effree became a powerful lich, took up the pseudonym "The Master", and sought to control (or end) all life in the [[Inhabitable Lands]].
-- Thankfully, he was killed on his private island by [[The High Rollers]].
+- Thankfully, he was killed on his private island by [[Player Characters/The High Rollers/The High Rollers|The High Rollers]].
 
 # Attributes
 

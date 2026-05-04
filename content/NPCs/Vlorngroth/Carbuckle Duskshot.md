@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-01T00:19:46.000-04:00
-published: 2026-05-01T00:19:46.000-04:00
+modified: 2026-05-04T11:39:08.173-04:00
+published: 2026-05-04T11:39:08.173-04:00
 Age: "42"
 Ancestry: Drow
 Gender: Male
@@ -12,7 +12,7 @@ Role:
   - Gunslinger Bounty Hunter, Former Inquisitor
   - Colonel
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -46,7 +46,7 @@ Author: Jordan
 # Overview
 
 - 5'9 drow with nothin to lose. Always wears a duster, even underwater.
-- A drow gunslinger bounty hunter who once hunted [[The High Rollers]] for their bounty in [[Vlorngroth]].
+- A drow gunslinger bounty hunter who once hunted [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] for their bounty in [[Vlorngroth]].
 - He became an unlikely ally in the fight against [[Master Effree Jypstein]]'s undead.
 - He has a twin brother who was turned into a draegloth when they were young.
 - He is currently serving as a Colonel in the [[Tiialia|Tiialan]] military, based in the town of Scallion.

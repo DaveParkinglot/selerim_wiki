@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T09:13:34.157-04:00
-published: 2026-04-21T09:13:34.157-04:00
+modified: 2026-05-04T11:41:38.949-04:00
+published: 2026-05-04T11:41:38.949-04:00
 Age: "35"
 Ancestry:
   - Human
@@ -14,7 +14,7 @@ Role:
   - Bracketologist
   - Former Thief
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -52,9 +52,9 @@ Author: Jordan
 ## [[The High Rollers Campaign]]
 
 - "Nothing better than a crisp glass of pink lemonade in the morning". Everyone's favorite 35 year old kid.
-- Hoary was brought into [[Beezlebop]]'s hidden manor after [[The High Rollers]] convinced him that hanging out in his mom's basement was less cool than adventuring.
+- Hoary was brought into [[Beezlebop]]'s hidden manor after [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] convinced him that hanging out in his mom's basement was less cool than adventuring.
 - Hoary lost his right eye after being kidnapped by kobolds.
-- Hoary departed his mom's basement in [[Crabbley]] and journeyed with [[The High Rollers]] and [[Captain Chorn Chinfer]] to [[Scrimshaw City]]. There, he hoped to begin working for [[Tavernstool]] because he was a huge fan of [[Lord Davos Portnoir]].
+- Hoary departed his mom's basement in [[Crabbley]] and journeyed with The High Rollers and [[Captain Chorn Chinfer]] to [[Scrimshaw City]]. There, he hoped to begin working for [[Tavernstool]] because he was a huge fan of [[Lord Davos Portnoir]].
   **Downtime after Tiialia arc**:
 - Created all the tournament brackets for Hugh Mann’s Midwinter Invitational at The Pit, and also taught a course on Bracketology at Scrimshaw Area Community College.
 - Unwittingly exchanged the only copy of [[Adventures/Arby's Sauce|Arby's Sauce]] and 18 years of his life to the mad fey Fumbo Bimpis, making him 17 again. Arby's secret recipe has not been recovered, and Loeb is unsure how Scrimshaw’s child labor laws apply to Hoary now.

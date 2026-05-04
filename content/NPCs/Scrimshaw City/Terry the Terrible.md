@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T09:16:48.076-05:00
-modified: 2026-04-21T09:13:56.943-04:00
-published: 2026-04-21T09:13:56.943-04:00
+modified: 2026-05-04T11:46:50.769-04:00
+published: 2026-05-04T11:46:50.769-04:00
 Age: "47"
 Ancestry:
   - Satyr
@@ -14,7 +14,7 @@ Role:
   - Former Criminal
   - Head Chef
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Adventures/Arby's Sauce]]"
@@ -49,8 +49,8 @@ Author: Jordan
 
 # Overview
 
-- Terry used to run a small time bandit gang in [[Scrimshaw City|Scrimshaw]], but after kidnapping [[Hoary Boulder]] and running afoul of [[The High Rollers]], his crew was wiped out.
-- After some soul searching, he decided to take a job as sous chef at The Spicy Meatball. He is now head chef, after the disappearance of [[The High Rollers]].
+- Terry used to run a small time bandit gang in [[Scrimshaw City|Scrimshaw]], but after kidnapping [[Hoary Boulder]] and running afoul of [[Player Characters/The High Rollers/The High Rollers|The High Rollers]], his crew was wiped out.
+- After some soul searching, he decided to take a job as sous chef at The Spicy Meatball. He is now head chef, after the disappearance of The High Rollers.
 
 # Attributes
 

@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-04-21T08:35:53.492-04:00
-published: 2026-04-21T08:35:53.492-04:00
+modified: 2026-05-04T11:39:50.076-04:00
+published: 2026-05-04T11:39:50.076-04:00
 Type:
   - Village
 Age (years): 25
@@ -55,7 +55,7 @@ Author: Jordan
 
 # Overview
 
-- Home of the [[Cult of the Crab]], the famous Soggy Bottom Tavern, the Crab Claw Inn, and so many other fantastic places to take your family!  Come visit scenic Crabbley with your family and get one free commemorative item from [[The High Rollers]] gift shop.
+- Home of the [[Cult of the Crab]], the famous Soggy Bottom Tavern, the Crab Claw Inn, and so many other fantastic places to take your family!  Come visit scenic Crabbley with your family and get one free commemorative item from [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] gift shop.
 - Crabbley is a sleepy fishing village without much going on, but adventurers are common here because it's on the edge of a great frontier—the Tanglewood Wilds.
 - Crabbley was founded by settlers migrating from the northern town of [[Crillville]]. After [[The Tanglers]] committed atrocities in both Crabbley and [[Crillville]], the two towns created a joint defense force.
 

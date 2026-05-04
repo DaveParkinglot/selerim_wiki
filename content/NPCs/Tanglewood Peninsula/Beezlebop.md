@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:03.311-04:00
-published: 2026-04-21T09:14:03.311-04:00
+modified: 2026-05-04T11:36:30.338-04:00
+published: 2026-05-04T11:36:30.338-04:00
 Age: "60"
 Ancestry: Loxodon
 Gender: Male
@@ -49,7 +49,7 @@ Author: Jordan
 
 - As an ally of [[Malmstein the Tangler]], he helped create freakishly mutated monsters in his huge spooky mansion.
 - [[Sleeto Van Coof]] inadvertently foiled his operations when he attempted to rob the mansion, but most of his party was turned to slag in Beezlebop's slagma traps.
-- [[The High Rollers]] encountered a Living Portrait of Beezlebop himself when they helped Sleeto and young [[Hoary Boulder]] finish the heist of the mansion, though the actual Beezlebop was nowhere to be found...
+- [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] encountered a Living Portrait of Beezlebop himself when they helped Sleeto and young [[Hoary Boulder]] finish the heist of the mansion, though the actual Beezlebop was nowhere to be found...
 
 ## [[The Crimsonclaw Bounty|The Crimsonclaw Bounty]]
 

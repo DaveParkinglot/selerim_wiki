@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:13:51.145-04:00
-published: 2026-04-21T09:13:51.145-04:00
+modified: 2026-05-04T11:42:56.651-04:00
+published: 2026-05-04T11:42:56.651-04:00
 Age: "34"
 Ancestry:
   - Human
@@ -49,7 +49,7 @@ Author: Jordan
 # Overview
 
 - Originally, Loeb was [[Tadeusz]]'s blood hunter battle buddy who was lost after their voyage to kill a kraken went wrong.
-- Like all blood hunters, he is steely on the surface, with a bestial fury underneath. He uses this very effectively in managing [[The Spicy Meatball]] and all of its misfit workers in the absence of [[Tadeusz]] and the rest of [[The High Rollers]].
+- Like all blood hunters, he is steely on the surface, with a bestial fury underneath. He uses this very effectively in managing [[The Spicy Meatball]] and all of its misfit workers in the absence of [[Tadeusz]] and the rest of [[Player Characters/The High Rollers/The High Rollers|The High Rollers]].
 
 # Attributes
 

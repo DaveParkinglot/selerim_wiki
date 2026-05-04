@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:34.771-04:00
-published: 2026-04-21T09:14:34.771-04:00
+modified: 2026-05-04T11:41:20.838-04:00
+published: 2026-05-04T11:41:20.838-04:00
 Age: "31"
 Ancestry: Half-Orc
 Gender: Male
@@ -47,7 +47,7 @@ Author: Jordan
 
 - Leader of Gronstew & The Backbreakers, an adventuring party based in [[Crabbley]].
 - Gronstew and his friends originally hail from [[Borfield]], but moved to [[Crabbley]] for better adventuring contracts.
-- The Backbreakers were rivals with [[The High Rollers]] for a while, until a gnome-nade killed two of their members.
+- The Backbreakers were rivals with [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] for a while, until a gnome-nade killed two of their members.
 
 # Attributes
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T08:50:05.339-04:00
-published: 2026-04-21T08:50:05.339-04:00
+modified: 2026-05-04T11:45:06.458-04:00
+published: 2026-05-04T11:45:06.458-04:00
 Age: "22"
 Ancestry: Troll
 Gender: Male
@@ -14,7 +14,7 @@ Location:
 Role:
   - Helpful Troll
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Adventures/Arby's Sauce]]"
@@ -50,7 +50,7 @@ Author: Jordan
 
 ## [[The High Rollers Campaign|The High Rollers Campaign]]
 
-- [[The High Rollers]] encountered this helpful troll trying to get back to his home in the Underdark. He assisted them in clearing out a kobold lair. Afterwards he went back to his troll home and troll wife in the Underdark...
+- [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] encountered this helpful troll trying to get back to his home in the Underdark. He assisted them in clearing out a kobold lair. Afterwards he went back to his troll home and troll wife in the Underdark...
 - Pudding was found to have been collected by [[Tzastis the Collector]] when The High Rollers infiltrated The Fathomless Vault. Though the powerful adventuring party never made it out of the vault, but somehow Pudding did, making him one of the few who know the location of The High Rollers.
 
 ## [[Kindlethicket - The Winter Hunt|Kindlethicket - The Winter Hunt]]

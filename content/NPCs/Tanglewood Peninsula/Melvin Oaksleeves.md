@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:39.496-04:00
-published: 2026-04-21T09:14:39.496-04:00
+modified: 2026-05-04T11:44:07.521-04:00
+published: 2026-05-04T11:44:07.521-04:00
 Age: "210"
 Ancestry: Elf
 Gender: Male
@@ -48,7 +48,7 @@ Author: Jordan
 # Overview
 
 - Leader of the Wise Wizards of [[Mitlin]], and Mitlin's most accomplished seer.
-- He assisted [[The High Rollers]] in researching many topics during their stay in Mitlin.
+- He assisted [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] in researching many topics during their stay in Mitlin.
 - He has been sending adventurers to treat with the fey crossing that appeared close to Mitlin called Kindlethicket.
 
 # Attributes

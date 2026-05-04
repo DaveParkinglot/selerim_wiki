@@ -4,8 +4,8 @@ aliases:
   - Sir Chauncy
   - Chauncy the Brave
 created: 2025-08-12T09:01:12.000-04:00
-modified: 2026-04-21T08:49:59.709-04:00
-published: 2026-04-21T08:49:59.709-04:00
+modified: 2026-05-04T11:39:28.626-04:00
+published: 2026-05-04T11:39:28.626-04:00
 Age: "26"
 Ancestry:
   - Fiend (Devil)
@@ -67,7 +67,7 @@ Formerly a decorated war hero of [[Tiialia]], brave Sir Chauncy has fallen far. 
 
 ## [[The High Rollers Campaign|The High Rollers Campaign]]
 
-- Chauncy put in his lot with the [[Landucci Family]] and betrayed [[The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Otieno]].
+- Chauncy put in his lot with the [[Landucci Family]] and betrayed [[Player Characters/The High Rollers/The High Rollers|The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Otieno]].
 
 ## [[The Hellnight Soirée|The Hellnight Soirée]]
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T09:13:23.330-04:00
-published: 2026-04-21T09:13:23.330-04:00
+modified: 2026-05-04T11:38:57.967-04:00
+published: 2026-05-04T11:38:57.967-04:00
 Age: "32"
 Ancestry:
   - Tiefling
@@ -47,7 +47,7 @@ Author: Jordan
 
 - Captain of the S.S. Tartarmule, before it became lodged in the ice leaving the Aldwood Lighthouse.
 - He is still without a ship, a crew, and a first mate after they were all killed by [[Dr. Drendle]]'s undead.
-- He still owes [[The High Rollers]] dinner with his wife one day...
+- He still owes [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] dinner with his wife one day...
 
 # Attributes
 
