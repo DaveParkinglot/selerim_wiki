@@ -153,7 +153,7 @@ plugins:
     enabled: true
     options:
       title: Explorer
-      folderClickBehavior: collapse
+      folderClickBehavior: link
     layout:
       position: left
       priority: 50
