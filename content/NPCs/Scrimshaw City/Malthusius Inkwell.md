@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-05-04T11:43:39.520-04:00
-published: 2026-05-04T11:43:39.520-04:00
+modified: 2026-05-05T08:54:20.723-04:00
+published: 2026-05-05T08:54:20.723-04:00
 Age: "32"
 Ancestry:
   - Human
@@ -12,7 +12,7 @@ Location:
 Role:
   - Investigative Journalist
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Adventures/Arby's Sauce]]"

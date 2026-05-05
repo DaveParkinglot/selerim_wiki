@@ -19,7 +19,7 @@
 
 ## [[The High Rollers Campaign|The High Rollers Campaign]]
 
-- Incursions by Vlorn agents began to occur in [[Tiialia]] while [[The High Rollers]] were adventuring there.
+- Incursions by Vlorn agents began to occur in [[Tiialia]] while [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] were adventuring there.
 - They thwarted the incursions, killing many scouts and even a draegloth, which held a decree from [[High Lord Jorad Kranicz]] about an impending Vlorn invasion of Tiialia.
 - A drow named [[Carbuckle Duskshot]] began hunting The High Rollers for the bounty on their heads, but ultimately became an ally of necessity after both the adventuring party and Carbuckle were caught up in [[Master Effree Jypstein]]'s undead invasion of [[Nova Jersaeria]].
 

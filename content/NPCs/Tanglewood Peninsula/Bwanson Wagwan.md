@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:19.083-04:00
-published: 2026-04-21T09:14:19.083-04:00
+modified: 2026-05-05T08:54:16.196-04:00
+published: 2026-05-05T08:54:16.196-04:00
 Age: "24"
 Ancestry: Owlin
 Gender: Male
@@ -13,7 +13,7 @@ Role:
   - Druid
   - Merchant
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Kindlethicket - Envoys of Mitlin]]"
@@ -40,7 +40,7 @@ Author: Jordan
 >
 > **Role**: Former Adventurer, Druid, Merchant
 >
-> **Affiliation:** [[Player Characters & Parties/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-04T11:43:51.273-04:00
-published: 2026-05-04T11:43:51.273-04:00
+modified: 2026-05-05T08:54:28.096-04:00
+published: 2026-05-05T08:54:28.096-04:00
 Age: 66 (deceased)
 Ancestry:
   - Human
@@ -58,7 +58,7 @@ Author: Jordan
 
 - **Voice**: Sinister posh
 - **Traits**: Cartoonishly evil
-- **Goals:** Spread his plague of undeath, raise [[The High Rollers]] from the grave and use them to control the world
+- **Goals:** Spread his plague of undeath, raise [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] from the grave and use them to control the world
 - **Appearance**: Tall, stick-thin, pale white lich with flowing robes
 
 # Relationships

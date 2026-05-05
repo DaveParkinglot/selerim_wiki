@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-05-04T11:42:56.651-04:00
-published: 2026-05-04T11:42:56.651-04:00
+modified: 2026-05-05T08:53:51.720-04:00
+published: 2026-05-05T08:53:51.720-04:00
 Age: "34"
 Ancestry:
   - Human
@@ -14,7 +14,7 @@ Role:
   - Acting CEO
   - Blood Hunter
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Adventures/Arby's Sauce]]"

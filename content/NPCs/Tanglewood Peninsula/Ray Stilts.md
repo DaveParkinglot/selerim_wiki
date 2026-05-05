@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:14:47.647-04:00
-published: 2026-04-21T09:14:47.647-04:00
+modified: 2026-05-05T08:53:59.114-04:00
+published: 2026-05-05T08:53:59.114-04:00
 Age: "44"
 Ancestry: Human
 Gender: Male
@@ -45,7 +45,7 @@ Author: Jordan
 # Overview
 
 - Owner of Pinny Stilts, Inc. His co-owner Pinny went missing while sailing Boater's Bay.
-- For a while, he employed [[The High Rollers]] to conduct salvage operations along the coastlines of the Tanglewood Peninsula.
+- For a while, he employed [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] to conduct salvage operations along the coastlines of the Tanglewood Peninsula.
 
 # Attributes
 

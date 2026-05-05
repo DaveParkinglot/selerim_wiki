@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-08T11:33:00.000-05:00
-modified: 2026-04-21T09:14:49.230-04:00
-published: 2026-04-21T09:14:49.230-04:00
+modified: 2026-05-05T08:54:38.218-04:00
+published: 2026-05-05T08:54:38.218-04:00
 Age: "48"
 Ancestry:
   - Elf
@@ -13,7 +13,7 @@ Role:
   - Merchant
   - Scryer
 Affiliation:
-  - "[[The High Rollers]]"
+  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Kindlethicket - Envoys of Mitlin]]"
@@ -41,7 +41,7 @@ Author: Jordan
 >
 > **Role**: Merchant, Scryer
 >
-> **Affiliation:** [[Player Characters & Parties/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** None
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]], [[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
 >
