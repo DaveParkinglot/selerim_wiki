@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-03T11:29:43.020-04:00
-modified: 2026-05-03T21:30:10.490-04:00
-published: 2026-05-03T21:30:10.490-04:00
+modified: 2026-05-07T10:21:59.209-04:00
+published: 2026-05-07T10:21:59.209-04:00
 Age: "27"
 Ancestry:
   - Human
@@ -48,7 +48,7 @@ aliases:
 
 # Overview
 
-[[The Stacked Deck1]] found him getting high in the gardens of his manor before they stole [[Lord Zalvidar Batista]]'s gifts to Roberto.
+[[Player Characters/The Stacked Deck/The Stacked Deck|The Stacked Deck]] found him getting high in the gardens of his manor before they stole [[Lord Zalvidar Batista]]'s gifts to Roberto.
 
 # Attributes
 
