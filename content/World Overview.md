@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-04-27T22:27:45.000-04:00
-published: 2026-04-27T22:27:45.000-04:00
+modified: 2026-05-07T10:54:42.024-04:00
+published: 2026-05-07T10:54:42.024-04:00
 socialImage: selerim_planet_view.png
 Author: Jordan
 image: selerim_planet_view.png
@@ -15,11 +15,11 @@ The [[Selerim Timeline|timeline of Selerim]] is that of a world wounded by war a
 In these times, we fix our focus on the [[Inhabitable Lands]]–largest of the Living Realms and host to many fantastic environs, ancient and new:
 
 - [[Nova Jersaeria]], metro-capital of the expansionist [[Tiialia|Kingdom of Tiialia]], stands as a beacon of civilization and progress–despite constant conflict between its noble families.
-- The inheritors of Selerim's ruthless aboriginals–the [[Vlorn Dynasty]]–plot their long-awaited vengeance against the surface dwellers in the hidden subterranean city of [[Vlorngroth]].
-- Thieves and merchants alike ply their trade in the free port city of [[Scrimshaw City|Scrimshaw]], all while a corporatized abyssal rift rages beneath the city's mean streets.
-- The [[Darkwells]] and other Planar Rifts lie dormant in the hidden places of the realm, waiting to be rediscovered and harnessed.
-- The quiet lifestyle of settlements on the [[Tanglewood Peninsula]] has been disrupted by mutated monsters, and the call for adventurers has never been louder.
+- Thieves and merchants alike ply their trade in the free port city of [[Scrimshaw City|Scrimshaw]], as an ancient abyssal rift rages beneath the city's mean streets.
+- The quiet lifestyle of settlements on the [[Tanglewood Peninsula]] is threatened by mutated monsters, and the call for adventurers has never been louder.
+- The [[Darkwells]] and other planar rifts lie dormant in the hidden places of the realm, waiting to be rediscovered and harnessed.
 - Progressive arcane theory and unheard-of adventures await new students at [[White Grove]], Tiialia's most reputable (and only) state-sanctioned magical academy.
+- In the subterranean city of [[Vlorngroth]], the inheritors of Selerim's ruthless aboriginals plot their long-awaited vengeance against the surface world.
 - The Salted City of [[Corrodreth]], born of a forgotten empire and destroyed within living memory, offers hints at a civilization beyond the deadly [[Violet Bleed]] to the far west.
 
 # Namesake
