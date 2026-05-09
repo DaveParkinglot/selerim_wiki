@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T08:02:27.000-04:00
-modified: 2026-05-03T11:37:06.589-04:00
-published: 2026-05-03T11:37:06.589-04:00
+modified: 2026-05-09T18:18:23.424-04:00
+published: 2026-05-09T18:18:23.424-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 4
@@ -19,9 +19,9 @@ Players:
   - Devin
 Characters:
   - Asana Totashi
-  - The Knight of Confidence
-  - Hector Fanto-Domingo
-  - '"Playing Card" Murphy'
+  - "[[The Knight of Confidence]]"
+  - "[[Hector Fanto-Domingo]]"
+  - "[['Playing Card' Murphy]]"
 Races:
   - Human
   - Human
@@ -98,6 +98,6 @@ Classes:
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Asana Totashi | Human | Monk |
-| Mike Doom | The Knight of Confidence | Human | Fighter |
-| Jordan | Hector Fanto-Domingo | Human | Barbarian |
-| Devin | "Playing Card" Murphy | Human | Rogue |
+| Mike Doom | [[Player Characters/The Stacked Deck/The Knight of Confidence.md\|The Knight of Confidence]] | Human | Fighter |
+| Jordan | [[Player Characters/The Stacked Deck/Hector Fanto-Domingo.md\|Hector Fanto-Domingo]] | Human | Barbarian |
+| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |

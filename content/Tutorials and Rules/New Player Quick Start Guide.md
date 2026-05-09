@@ -6,7 +6,7 @@ Every game of D\&D is different, but every game of D\&D follows this basic loop:
 
 ## Combat
 
-Most rules in D\&D are for handling combat situations. In combat, players take turns like in a board game based on their Initiative roll.
+Most rules in D\&D are for handling combat situations. In combat, players take turns like in a board game, based on their Initiative roll.
 
 On your turn, you have 3 resources that you can spend: **Movement**, **Action**, **Bonus Action**. You can use these in any order.
 

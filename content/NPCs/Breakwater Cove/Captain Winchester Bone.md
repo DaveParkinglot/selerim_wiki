@@ -1,8 +1,11 @@
 ---
 publish: true
+aliases:
+  - Captain Bone
+  - Captain Winchester Bone
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-01T12:27:57.260-04:00
-published: 2026-05-01T12:27:57.260-04:00
+modified: 2026-05-09T18:35:50.381-04:00
+published: 2026-05-09T18:35:50.381-04:00
 Age: "66"
 Ancestry: Human
 Gender: Male
@@ -64,6 +67,11 @@ In order to keep Bone Tavern afloat financially, Captain Bone requested the assi
     - "Yarrr… The artifact were a small vase with a skull on it… still remember the way the eyes gleamed, lookin up at me… blasted the ol' skin right from their bones and sucked in their souls to boot"
     - "Yarr, I chucked that strange vase right in the ocean on me way back home, suppose it's still there buried beneath the waves"
 - Bone was visited by Sharky, and requested help from adventurers to thwart Sharky's plans.
+
+## [[The Hunt for the Leaky Bucket]]
+
+- Captain Bone recruited new adventurers to hunt down his missing ship, the Leaky Bucket.
+- The ship vanished off the coast of [[Breakwater Cove]] several decades ago after the ship's mage incorrectly used a teleportation spell. Bone was out for a swim at the time, and was left stranded in the open ocean.
 
 # Attributes
 

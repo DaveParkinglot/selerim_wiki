@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:13.453-04:00
-published: 2026-04-21T08:47:13.453-04:00
+modified: 2026-05-09T18:17:40.082-04:00
+published: 2026-05-09T18:17:40.082-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -16,8 +16,8 @@ Players:
   - Mike Doom
 Characters:
   - Jaemee Babaganoush
-  - '"Playing Card" Murphy'
-  - The Knight of Confidence
+  - "[['Playing Card' Murphy]]"
+  - "[[The Knight of Confidence]]"
 Races:
   - Human
   - Human
@@ -70,5 +70,5 @@ Classes:
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Jaemee Babaganoush | Human | Wizard |
-| Devin | "Playing Card" Murphy | Human | Rogue |
-| Mike Doom | The Knight of Confidence | Human | Fighter |
+| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
+| Mike Doom | [[Player Characters/The Stacked Deck/The Knight of Confidence.md\|The Knight of Confidence]] | Human | Fighter |

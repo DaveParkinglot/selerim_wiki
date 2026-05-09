@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-27T17:24:16.000-04:00
-modified: 2026-04-21T08:47:16.651-04:00
-published: 2026-04-21T08:47:16.651-04:00
+modified: 2026-05-09T18:17:52.955-04:00
+published: 2026-05-09T18:17:52.955-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 1
@@ -18,8 +18,8 @@ Players:
 Characters:
   - Asana Totashi
   - Jaguar
-  - Hector Fanto-Domingo
-  - '"Playing Card" Murphy'
+  - "[[Hector Fanto-Domingo]]"
+  - "[['Playing Card' Murphy]]"
 Races:
   - Human
   - Tabaxi
@@ -78,5 +78,5 @@ Classes:
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Asana Totashi | Human | Monk |
 | Mike Doom | Jaguar | Tabaxi | Rogue |
-| Jordan | Hector Fanto-Domingo | Human | Barbarian |
-| Devin | "Playing Card" Murphy | Human | Rogue |
+| Jordan | [[Player Characters/The Stacked Deck/Hector Fanto-Domingo.md\|Hector Fanto-Domingo]] | Human | Barbarian |
+| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
