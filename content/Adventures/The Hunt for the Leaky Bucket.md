@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-30T12:05:28.000-04:00
-modified: 2026-05-09T18:35:39.055-04:00
-published: 2026-05-09T18:35:39.055-04:00
+modified: 2026-05-09T18:36:29.422-04:00
+published: 2026-05-09T18:36:29.422-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -40,7 +40,7 @@ Classes:
 
 > [!infobox|right]
 >
-> ## Adventure Name
+> ## The Hunt for the Leaky Bucket
 >
 > ![[z_assets/leaky_bucket_hanging.png]]
 >
