@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-12T09:23:41.158-04:00
-published: 2026-05-12T09:23:41.158-04:00
+modified: 2026-04-21T09:16:03.073-04:00
+published: 2026-04-21T09:16:03.073-04:00
 Age: "16"
 Ancestry: Human
 Gender: Female
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Freshman
@@ -46,7 +46,7 @@ Author: Jordan
 
 # Overview
 
-- A friendly/bossy girl studying at [[Places/White Grove]].
+- A friendly/bossy girl studying at [[White Grove]].
 - Tries to protect [[Vowel Noosins]] from those who would take advantage of his meek will.
 
 # Attributes

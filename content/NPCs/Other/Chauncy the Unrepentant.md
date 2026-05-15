@@ -4,8 +4,8 @@ aliases:
   - Sir Chauncy
   - Chauncy the Brave
 created: 2025-08-12T09:01:12.000-04:00
-modified: 2026-05-15T11:32:02.969-04:00
-published: 2026-05-15T11:32:02.969-04:00
+modified: 2026-05-04T11:39:28.626-04:00
+published: 2026-05-04T11:39:28.626-04:00
 Age: "26"
 Ancestry:
   - Fiend (Devil)
@@ -21,7 +21,6 @@ Appearances:
   - "[[Dunland's Raiders]]"
   - "[[The High Rollers Campaign]]"
   - "[[The Hellnight Soirée]]"
-  - "[[Bobby's Bachelor Birthday Bender]]"
 Status: Alive
 Author: Jordan
 ---
@@ -54,13 +53,13 @@ Author: Jordan
 >
 > **Affiliation:** None
 >
-> **Appearances:** [[Adventures/Dunland's Raiders.md|Dunland's Raiders]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]], [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]]
+> **Appearances:** [[Adventures/Dunland's Raiders.md|Dunland's Raiders]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
 >
 > **Status:** Alive
 
 # Overview
 
-Formerly a decorated war hero of [[Tiialia]], brave Sir Chauncy has fallen far after his betrayal of [[The High Rollers]] and [[Antonino Esposito|King Esposito]]. After his death, he became a Hellknight and eventually was imprisoned in Carceri. In [[Tiialia]], the name Chauncy is now synonymous with betrayal of ones friends. Using it will get you cast out of taverns and spit upon by the commonfolk.
+Formerly a decorated war hero of [[Tiialia]], brave Sir Chauncy has fallen far. After his death, he became a Hellknight and eventually was imprisoned in Carceri.
 
 ## [[Dunland's Raiders|Dunland's Raiders]]
 

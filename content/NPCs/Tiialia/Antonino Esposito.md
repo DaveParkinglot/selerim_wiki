@@ -1,11 +1,8 @@
 ---
 publish: true
-aliases:
-  - King Esposito
-  - King Antonino Esposito
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-15T11:31:33.855-04:00
-published: 2026-05-15T11:31:33.855-04:00
+modified: 2026-05-04T11:34:08.757-04:00
+published: 2026-05-04T11:34:08.757-04:00
 Age: "43"
 Ancestry: Human
 Gender: Male

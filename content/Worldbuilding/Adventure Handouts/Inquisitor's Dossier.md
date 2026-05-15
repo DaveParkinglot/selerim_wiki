@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-22T12:42:41.000-04:00
-modified: 2026-05-12T09:27:48.725-04:00
-published: 2026-05-12T09:27:48.725-04:00
+modified: 2026-02-04T12:34:04.300-05:00
+published: 2026-02-04T12:34:04.300-05:00
 Author: Jordan
 ---
 
@@ -22,7 +22,7 @@ RULER: LOLTH THE SPIDER QUEEN, DROW GODDESS OF KNOWLEDGE AND TRICKERY.
 
 The vision fades.
 
-The ever-insightful Matron Council has deduced that Matron Aranaea's prophetic vision can only be referencing one location: [[Places/Vlorngroth]]’s own Duskveil Asylum. The Spider Queen's orbs are thought to represent the eight residents of the asylum. Through this vision, our goddess seeks to test the cunning of the [[Vlorn Dynasty]], and it is imperative that we make good use of her knowledge.
+The ever-insightful Matron Council has deduced that Matron Aranaea's prophetic vision can only be referencing one location: [[Vlorngroth]]’s own Duskveil Asylum. The Spider Queen's orbs are thought to represent the eight residents of the asylum. Through this vision, our goddess seeks to test the cunning of the [[Vlorn Dynasty]], and it is imperative that we make good use of her knowledge.
 
 ## Spymaster Valnex's Final Instructions
 

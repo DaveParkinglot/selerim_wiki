@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-11T10:07:20.392-04:00
-published: 2026-05-11T10:07:20.392-04:00
+modified: 2026-04-21T09:15:07.595-04:00
+published: 2026-04-21T09:15:07.595-04:00
 Age: "36"
 Ancestry: Kobold
 Gender: Male
@@ -45,7 +45,7 @@ Author: Jordan
 
 # Overview
 
-A shady kobold who owns Criz's Crib, a staple of the [[Nova Jersaeria]] sewer night market.
+A shady kobold who owns Criz's Crib, a staple of the Tiialan sewer night market.
 
 # Attributes
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-05-12T09:27:48.722-04:00
-published: 2026-05-12T09:27:48.722-04:00
+modified: 2026-05-07T10:54:42.024-04:00
+published: 2026-05-07T10:54:42.024-04:00
 socialImage: selerim_planet_view.png
 Author: Jordan
 image: selerim_planet_view.png
@@ -18,8 +18,8 @@ In these times, we fix our focus on the [[Inhabitable Lands]]–largest of the L
 - Thieves and merchants alike ply their trade in the free port city of [[Scrimshaw City|Scrimshaw]], as an ancient abyssal rift rages beneath the city's mean streets.
 - The quiet lifestyle of settlements on the [[Tanglewood Peninsula]] is threatened by mutated monsters, and the call for adventurers has never been louder.
 - The [[Darkwells]] and other planar rifts lie dormant in the hidden places of the realm, waiting to be rediscovered and harnessed.
-- Progressive arcane theory and unheard-of adventures await new students at [[Places/White Grove]], Tiialia's most reputable (and only) state-sanctioned magical academy.
-- In the subterranean city of [[Places/Vlorngroth]], the inheritors of Selerim's ruthless aboriginals plot their long-awaited vengeance against the surface world.
+- Progressive arcane theory and unheard-of adventures await new students at [[White Grove]], Tiialia's most reputable (and only) state-sanctioned magical academy.
+- In the subterranean city of [[Vlorngroth]], the inheritors of Selerim's ruthless aboriginals plot their long-awaited vengeance against the surface world.
 - The Salted City of [[Corrodreth]], born of a forgotten empire and destroyed within living memory, offers hints at a civilization beyond the deadly [[Violet Bleed]] to the far west.
 
 # Namesake
@@ -30,11 +30,11 @@ The [[Inhabitable Lands]], named by [The Seldarine](https://5e.tools/tables.html
 
 # Peoples
 
-The diversity seen amongst the peoples of the [[Inhabitable Lands]] is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20\(the%20dark%20seldarine\)_mtf) empire. In the towns, villages, and cities of Selerim, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Places/Vlorngroth]] are openly hostile to surface dwellers, while the drow living on the surface skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
+The diversity seen amongst the peoples of the [[Inhabitable Lands]] is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20\(the%20dark%20seldarine\)_mtf) empire. In the towns, villages, and cities of Selerim, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Vlorngroth]] are openly hostile to surface dwellers, while the drow living on the surface skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
 
 # Technology
 
-In the last century of relative peace, invention and ingenuity centered around [[Nova Jersaeria]] and [[Scrimshaw City]] have pushed the [[Inhabitable Lands]] into early industrial technologies. Calamity, strife, and conservatism have dampened technological advancement for other regions of the [[Inhabitable Lands]]. [[Mitlin]] and population centers on the [[Tanglewood Peninsula|Tanglewood]] are slower to adopt new technologies when magic is more prevalent and more useful. The blending of magic and technology, coined "[[Magitech]]" by [[Arctur Execlostrabaum]] is also being studied and advanced at [[Places/White Grove|White Grove Academy]]. Independently, and more recklessly, the [[Cronium Gnomes]] of [[Crabbley]] have developed an inter-planar teleporter that perfectly blends sorcery with new technology.
+In the last century of relative peace, invention and ingenuity centered around [[Nova Jersaeria]] and [[Scrimshaw City]] have pushed the [[Inhabitable Lands]] into early industrial technologies. Calamity, strife, and conservatism have dampened technological advancement for other regions of the [[Inhabitable Lands]]. [[Mitlin]] and population centers on the [[Tanglewood Peninsula|Tanglewood]] are slower to adopt new technologies when magic is more prevalent and more useful. The blending of magic and technology, coined "[[Magitech]]" by [[Arctur Execlostrabaum]] is also being studied and advanced at [[White Grove|White Grove Academy]]. Independently, and more recklessly, the [[Cronium Gnomes]] of [[Crabbley]] have developed an inter-planar teleporter that perfectly blends sorcery with new technology.
 
 Distance, isolationism, and the [[Violet Bleed]] have largely prevented the spread of new technology to far-flung places like [[Mournholde]] and [[Fordsfaire]]—both make do with medieval technologies. As for the other [[Living Realms]] of Selerim, there is no telling what technologies are in use. However, it is unlikely that any one realm has achieved a level of technological advancement greater than that of the Inhabitable Lands.
 

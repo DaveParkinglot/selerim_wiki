@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-02T12:18:30.000-04:00
-modified: 2026-05-12T09:27:48.712-04:00
-published: 2026-05-12T09:27:48.712-04:00
+modified: 2026-04-21T09:15:32.366-04:00
+published: 2026-04-21T09:15:32.366-04:00
 Age: "35"
 Ancestry:
   - Goblin
@@ -10,7 +10,7 @@ Ancestry:
   - Mutant
 Gender: Male
 Location:
-  - "[[Places/Vlorngroth]]"
+  - "[[Vlorngroth]]"
 Role:
   - Familiar
 Affiliation:

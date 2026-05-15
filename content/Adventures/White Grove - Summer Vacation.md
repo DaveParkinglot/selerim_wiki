@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-16T21:13:04.000-04:00
-modified: 2026-05-12T09:23:41.053-04:00
-published: 2026-05-12T09:23:41.053-04:00
+modified: 2026-04-21T09:15:53.310-04:00
+published: 2026-04-21T09:15:53.310-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 4
@@ -57,7 +57,7 @@ Classes:
 
 # Adventure Premise
 
-- Over summer break, Headmaster [[Arctur Execlostrabaum]] has challenged the students of [[Places/White Grove]] to a competitive off-campus scavenger hunt.
+- Over summer break, Headmaster [[Arctur Execlostrabaum]] has challenged the students of [[White Grove]] to a competitive off-campus scavenger hunt.
 - Students who succeed in the scavenger hunt will be given extra commendations in their culminating portfolio, which makes this an exceedingly valuable extra-curricular (if you care about having a successful career as a spellcaster).
 
 # Outcomes
@@ -82,7 +82,7 @@ Classes:
 - Provost Serpentios was killed as he begged the students to spare him, saying that they could join him as members of [[Factions/Morganth's Legion of Doom]].
 - Deeper in the temple, [[Sari]] was being held captive by the Provost, and the students were able to both rescue her and kill a large gelatinous cube filled with magic items.
 - As Sari was already on her way to completing the scavenger hunt, she quickly joined with the party, and everyone grabbed a coconut, the second item in the scavenger hunt.
-- After making their way back to [[Places/White Grove]] campus, the students researched the meaning of the next clue of the scavenger hunt and took some much needed rest and relaxation.
+- After making their way back to [[White Grove]] campus, the students researched the meaning of the next clue of the scavenger hunt and took some much needed rest and relaxation.
 - Despite the death (murder) of the Provost, and the discovery that he was in fact both a disguised yuan-ti AND an agent of [[Morganth]], no one, including [[Cristos Babblestaff]], informed any of the faculty members of the school.
 
 ## Session 4

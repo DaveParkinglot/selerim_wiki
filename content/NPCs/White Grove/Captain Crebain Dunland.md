@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-12T09:23:41.117-04:00
-published: 2026-05-12T09:23:41.117-04:00
+modified: 2026-04-21T09:15:39.792-04:00
+published: 2026-04-21T09:15:39.792-04:00
 Age: "41"
 Ancestry: Human
 Gender: Male
 Location:
   - "[[Nova Jersaeria]]"
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Captain
 Affiliation:
