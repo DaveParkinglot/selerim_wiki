@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:15:46.038-04:00
-published: 2026-04-21T09:15:46.038-04:00
+modified: 2026-05-12T09:23:41.138-04:00
+published: 2026-05-12T09:23:41.138-04:00
 Age: "22"
 Ancestry: Drow Elf
 Gender: Female
 Location:
-  - "[[White Grove]]"
+  - "[[Places/White Grove]]"
 Role:
   - Student
   - Junior

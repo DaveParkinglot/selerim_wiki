@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T08:46:25.798-04:00
-published: 2026-04-21T08:46:25.798-04:00
+modified: 2026-05-12T09:27:48.691-04:00
+published: 2026-05-12T09:27:48.691-04:00
 Age: ??
 Ancestry: Drow, Draegloth
 Gender: Male
 Location:
-  - "[[Vlorngroth]]"
+  - "[[Places/Vlorngroth]]"
 Role:
   - Villain
   - Destroyer of Worlds
 Affiliation:
-  - "[[Vlorngroth]]"
+  - "[[Places/Vlorngroth]]"
 Appearances:
   - "[[Vlorngroth - The Manor of Madness]]"
   - "[[The High Rollers Campaign]]"

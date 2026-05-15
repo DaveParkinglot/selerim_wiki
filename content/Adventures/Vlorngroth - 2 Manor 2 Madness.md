@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:36.772-04:00
-published: 2026-04-21T08:47:36.772-04:00
+modified: 2026-05-12T09:27:48.658-04:00
+published: 2026-05-12T09:27:48.658-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -59,7 +59,7 @@ Classes:
 
 # Adventure Premise
 
-- In the subterranean city of [[Vlorngroth]], you serve as a familiar of [[Count Calloway Duskveil]], a powerful yet reclusive vampire.
+- In the subterranean city of [[Places/Vlorngroth]], you serve as a familiar of [[Count Calloway Duskveil]], a powerful yet reclusive vampire.
 - Your master has urgent need of your services—and, almost unbelievably, he has promised to turn one of you into a vampire once his task is complete.
 - His ancestral manse, the converted Duskveil Asylum (aka The Manor of Madness) was recently returned to his family holdings by decree of [[High Lord Jorad Kranicz]].
 - Some of the asylum inmates oppose this change in ownership, so your master needs you to remove these loathsome squatters before they wreck the place—or worse, find legal representation.
