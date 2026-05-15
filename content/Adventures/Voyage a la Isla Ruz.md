@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T08:02:27.000-04:00
-modified: 2026-05-09T18:18:23.424-04:00
-published: 2026-05-09T18:18:23.424-04:00
+modified: 2026-05-12T09:27:48.680-04:00
+published: 2026-05-12T09:27:48.680-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 4
@@ -77,7 +77,7 @@ Classes:
 - "Playing Card" Murphy had seemingly gotten violently sick from an abundance of raw coconuts that he picked up at Burguessia Bay, and was too sick to join the rest of the adventurers.
 - The adventurers landed at Port Ruz - it seemed that [[Jaemee "The Unsinkable" Babaganoush]] wanted to deliver the Infernal Iron to the Ruzs instead of the Batistas. Jaemee informed the adventurers of a tavern to which they can travel where they will be met with a contact that can get them in contact with the Ruz family.
 - The adventurers traveled to a Tavern where they encountered [[Verum Omnibus]], the brother of [[Falsus Omnibus]]. He explained that that, just at a nearby table, is a group that is about to go fight at the Gran Coliseo de la Ruz. Because the winner of such gladiatorial fights gets to meet with the Ruz family, this group is planning to win and assassinate [[Alejandro Ruz]]. The adventurers were tasked with beating this group at a drinking match so that they passed out and the adventurers can take their place - this could have helped them save the Ruz family and tell them about the Batista plot.
-- In their conversations with Verum, the adventurers learned that there appear to be two competing plots happening in Tiialia: Factions within the Ruz family appear to be colluding with the subterranean city of [[Vlorngroth]] in some plot to defeat the Batistas, while the Batistas have allied with [[Factions/Morganth's Legion of Doom]] to defeat the Ruz family (and perhaps even overthrow the Tiialian throne?)
+- In their conversations with Verum, the adventurers learned that there appear to be two competing plots happening in Tiialia: Factions within the Ruz family appear to be colluding with the subterranean city of [[Places/Vlorngroth]] in some plot to defeat the Batistas, while the Batistas have allied with [[Factions/Morganth's Legion of Doom]] to defeat the Ruz family (and perhaps even overthrow the Tiialian throne?)
 - The adventurers outdrank the other party. Verum then remembered that it might have been the other gladiatorial team that was actually the Batista spies...
 - The adventurers traveled and entered the Gran Coliseo de la Ruz to fight their battle. Asana Totashi shoved [[Verum Omnibus]] in the ring with them as the door closes.
 - The adventurers began their gladiatorial combat, with [[Alejandro Ruz]] and [[General Ernesto de la Sern]] in attendance. They must step on a majority of platforms in the coliseo to turn it their team's color, but risk consequences when they do so, such as animated balistas that may fuck up their day or lions that may release from underground pits.
@@ -90,7 +90,7 @@ Classes:
 - The adventurers came to the royal Salon, and worked to try and gain court favor to be able to meet with either [[Alejandro Ruz]], [[General Ernesto de la Sern]], or [[Ambassador "Tiny" Timmy Trebles]] (from the Esposito court).
 - The adventurers stumbled through this task, with The Knight of Confidence dramatically failing to gain court favor despite initially appearing successful at the task.
 - The adventurers had enough court favor to talk to [[General Ernesto de la Sern]].
-- The adventurers finally determined which way the wind was blowing: They didn't like [[Vlorngroth]], but they HATED [[Factions/Morganth's Legion of Doom|Morganth's Legion of Doom]]. They decided to side with the Ruz family against the Batistas. This was possibly a very significant decision for the future of Tiialia.
+- The adventurers finally determined which way the wind was blowing: They didn't like [[Places/Vlorngroth]], but they HATED [[Factions/Morganth's Legion of Doom|Morganth's Legion of Doom]]. They decided to side with the Ruz family against the Batistas. This was possibly a very significant decision for the future of Tiialia.
 - They adventurers shared their evidence with [[General Ernesto de la Sern]], who seemed thoroughly convinced and happy to have more allies. Before he could share the evidence with [[Alejandro Ruz]], a Batista spy smashed a stone through a window, indicating to a ready-in-waiting assassination crew to make an assassination attempt on [[Alejandro Ruz]].
 
 # Players & Characters

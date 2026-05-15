@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2025-09-17T12:03:07.000-04:00
-modified: 2026-04-21T09:15:30.066-04:00
-published: 2026-04-21T09:15:30.066-04:00
+modified: 2026-05-12T09:27:48.707-04:00
+published: 2026-05-12T09:27:48.707-04:00
 Age: "163"
 Ancestry:
   - Drow
   - Vampire
 Gender: Male
 Location:
-  - "[[Vlorngroth]]"
+  - "[[Places/Vlorngroth]]"
 Role:
   - Former Inquisitor
 Affiliation:

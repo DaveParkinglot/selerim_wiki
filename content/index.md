@@ -2,15 +2,15 @@
 publish: true
 title: Welcome to Selerim
 created: 2025-09-29T11:06:14.000-04:00
-modified: 2026-04-27T15:35:00.531-04:00
-published: 2026-04-27T15:35:00.531-04:00
+modified: 2026-05-12T09:23:41.165-04:00
+published: 2026-05-12T09:23:41.165-04:00
 Author: Jordan
 ---
 
-> [!Quote|author mark] [[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[White Grove|White Grove Academy]]
+> [!Quote|author mark] [[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[Places/White Grove|White Grove Academy]]
 > _The world of Selerim is ever-changing, inconsistent, and seemingly always unfinished. <br> Its histories are neither a science, nor are they exact._
-
-<br>
+>
+> <br>
 
 > [!cards|3 background-color-black]
 > **[[World Overview]]**

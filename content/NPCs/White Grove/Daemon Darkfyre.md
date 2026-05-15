@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:15:44.370-04:00
-published: 2026-04-21T09:15:44.370-04:00
+modified: 2026-05-12T09:23:41.132-04:00
+published: 2026-05-12T09:23:41.132-04:00
 Age: ??
 Ancestry: Human
 Gender: Male
 Location:
-  - "[[White Grove]]"
+  - "[[Places/White Grove]]"
 Role:
   - Professor of Infernal Magicks
 Affiliation:
