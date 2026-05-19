@@ -274,7 +274,7 @@ plugins:
     enabled: true
     order: 50
     options:
-      theme: its-theme.drowned
+      theme: reverie
 layout:
   groups:
     toolbar:
