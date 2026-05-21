@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-05-09T18:17:40.082-04:00
-published: 2026-05-09T18:17:40.082-04:00
+modified: 2026-05-18T11:47:04.207-04:00
+published: 2026-05-18T11:47:04.207-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -35,7 +35,7 @@ Classes:
 > ![[z_assets/leaky_bucket_hanging.png]]
 >
 > > [!caption|center]
-> > The long-lost Leaky Bucket hangs from vines in the Tanglewood Wilds
+> > The long-lost _Leaky Bucket_ hangs from vines in the Tanglewood Wilds
 >
 > ## Details
 >
@@ -62,7 +62,7 @@ Classes:
 - The party retrieved the bounty and a map from [[Bopus]] after some carousing at the Crab Claw Inn.
 - After leaving town, they ventured through the Tanglewood Wilds until they reached the old Greenspring Trail.
 - While traveling the trail, they looted a dead member of the [[Crillville Defense Force]] and barely escaped an ambush by crocodiles, thanks to a friendly mud mephit named Jiggy Mudpie.
-- Unbelievably, the manticore Old Crimsonclaw's nest was made atop the Leaky Bucket, the lost sailing ship of the famous privateer [[Captain Winchester Bone]].
+- Unbelievably, the manticore Old Crimsonclaw's nest was made atop the _Leaky Bucket_, the lost sailing ship of the famous privateer [[Captain Winchester Bone]].
 - After handedly dispatching the manticore, the party was able to loot both the ship and the beast, finding many magical items and a disturbing note from the mutated manticore's creator, the [[Beezlebop|"Gray Mage of Tanglewood"]].
 
 # Players & Characters

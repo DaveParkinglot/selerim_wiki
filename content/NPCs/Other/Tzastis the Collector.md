@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-04T11:49:22.052-04:00
-published: 2026-05-04T11:49:22.052-04:00
+modified: 2026-05-18T11:53:21.901-04:00
+published: 2026-05-18T11:53:21.901-04:00
 Age: ??
 Ancestry: Archfey
 Gender: N/A
@@ -58,7 +58,7 @@ Author: Jordan
 
 ### [[Saving Cousin Gane]]
 
-- Bobby Dismorphia and his boys discovered and stole an invitation to the [[Fathomless Vault]], which was intended for [[The Jaded Queen]].
+- Bobby Dismorphia and his boys discovered and stole an invitation to the [[Fathomless Vault]], which was intended for the [[Jade Queen]].
 - Bobby, having studied the adventures of The High Rollers during his time as a NEAT, is aware that Selerim's foremost adventuring party is trapped in the vault. He may have plans to free them, but only time will tell.
 
 # Attributes
@@ -74,5 +74,5 @@ Author: Jordan
 
 | Name                | Relationship |
 | ------------------- | ------------ |
-| [[The Jaded Queen]] | Peer         |
+| [[Jade Queen]]      | Peer         |
 | [[Myrrdin Turftoe]] | Enemy        |

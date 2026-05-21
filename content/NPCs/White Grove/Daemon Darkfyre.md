@@ -1,8 +1,11 @@
 ---
 publish: true
+aliases:
+  - Professor Daemon Darkfyre
+  - Professor Darkfyre
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-12T09:23:41.132-04:00
-published: 2026-05-12T09:23:41.132-04:00
+modified: 2026-05-15T14:29:26.003-04:00
+published: 2026-05-15T14:29:26.003-04:00
 Age: ??
 Ancestry: Human
 Gender: Male

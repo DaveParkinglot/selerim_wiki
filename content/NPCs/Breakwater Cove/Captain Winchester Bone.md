@@ -4,8 +4,8 @@ aliases:
   - Captain Bone
   - Captain Winchester Bone
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-09T18:35:50.381-04:00
-published: 2026-05-09T18:35:50.381-04:00
+modified: 2026-05-18T11:46:19.432-04:00
+published: 2026-05-18T11:46:19.432-04:00
 Age: "66"
 Ancestry: Human
 Gender: Male
