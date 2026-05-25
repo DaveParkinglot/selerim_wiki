@@ -92,23 +92,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 
-// 1. Fix the Transparency
-// 2. Force the Sidebar to sit on top of Callouts
-@media all and ($mobile) {
-  #quartz-body .sidebar.left {
-    background-color: var(--light); // Ensures it's solid
-    z-index: 1000 !important;        // Higher than callouts (usually ~100)
-    opacity: 1 !important;
-    
-    // Optional: Add a subtle shadow so it looks like it's over the content
-    box-shadow: 2px 0 10px rgba(0,0,0,0.1);
-  }
 
-  // Ensure callouts don't fight back
-  .callout {
-    z-index: 1; 
-  }
-}
 
 /* --- Force External Links to Inherit Global Font --- */
 html[saved-theme="dark"] body a.external,
