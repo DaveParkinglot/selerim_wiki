@@ -10,40 +10,6 @@
  @use "./custom/column-callout.scss";
  @use "./custom/caption-callout.scss";
 
-// expands to match wide monitors better (I think) //
-@media all and ($desktop) {
-  body div#quartz-root.page div#quartz-body {
-    width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
-    max-width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
-    padding: 0 auto;
-  }
-}
-
-// DATAVIEW TABLE FIX: fix width for dataview and standard tables //
-body table {
-    width: auto !important;   
-    min-width: 60%;          /* PREVENTS SQUEEZE: Ensures it takes up at least 60% of the area */
-    max-width: 100% !important; 
-    display: table !important;
-    border-collapse: collapse;
-    margin: 1.5rem 0;   
-    table-layout: auto; 
-}
-
-/* Keep headers on one line so they don't get squished vertically */
-body table th {
-    white-space: nowrap !important; 
-    background-color: var(--highlight); /* Optional: makes headers pop in Quartz */
-}
-
-/* Standard cell behavior */
-body table td {
-    white-space: normal;
-    word-break: normal;
-    padding: 8px 12px;       /* Increased padding for a cleaner look */
-    min-width: 100px;        /* PREVENTS SQUEEZE: Cells won't shrink smaller than 100px */
-}
-
 /* 1. Remove the default background highlight */
 body a.internal {
     background-color: transparent !important;
