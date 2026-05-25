@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-12T09:23:41.068-04:00
-published: 2026-05-12T09:23:41.068-04:00
+modified: 2026-05-22T10:11:48.811-04:00
+published: 2026-05-22T10:11:48.811-04:00
 Age: "214"
 Ancestry: Dwarf
 Gender: Male
@@ -46,7 +46,7 @@ Author: Jordan
 
 # Overview
 
-- Headmaster of [[Places/White Grove]] magical academy with disturbingly liberal magical philosophies.
+- Headmaster of [[Places/White Grove|White Grove Academy]] with disturbingly liberal magical philosophies.
 - Of all the folk of Selerim, he may be the most knowledgeable about the world and its histories.
 - He is a nephew of [[Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
 
