@@ -1,0 +1,70 @@
+---
+publish: true
+created: 2025-10-15T10:42:10.000-04:00
+modified: 2026-05-12T09:23:41.094-04:00
+published: 2026-05-12T09:23:41.094-04:00
+Age: "22"
+Ancestry:
+  - Elf
+Gender: Male
+Location:
+  - "[[Places/White Grove]]"
+Role:
+  - Student
+  - Sophomore
+  - Entrepreneur
+Affiliation:
+  - "[[Mitlin]]"
+Appearances:
+  - "[[White Grove - Summer Vacation]]"
+Status: Alive
+Author: Jordan
+---
+
+> [!infobox|right]
+>
+> ## Aurleth Writhesley
+>
+> ![[z_assets/aurleth_writhesley.png|300]]
+>
+> ## Details
+>
+> **Age**: 22
+>
+> **Ancestry**: Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Student, Sophomore, Entrepreneur
+>
+> **Affiliation:** [[Places/Mitlin.md|Mitlin]]
+>
+> **Appearances:** [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
+
+# Overview
+
+- A hoity toity elf from [[Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[Places/White Grove]].
+- He is in the Arcane College.
+- The new magic shop "Jack of Owl Trades" run by [[Bwanson Wagwan]] has cut in on his family's business in [[Mitlin]], Writhesley Family Wizardry. As the heir to the family business, Aurleth wants to get training on things like Arcane Intelligence so he can compete.
+
+# Attributes
+
+- **Voice**: Hoity toity elf voice
+- **Traits**:
+  - I inherited the family business, for better or for worse.
+  - I see trade as an art form, and I'm the artist.
+  - Ideal: Order. Markets must be regulated to ensure fairness and stability. (Lawful)
+  - Bond: The ledger of my first sale is my most prized possession.
+  - Flaw: I cut corners to maximize profit, even if it means skirting the law.
+- **Goals**: Improve his magical abilities to get his magic shop off the ground
+- **Appearance:** Tall slender auburn haired elf
+
+# Relationships
+
+| Name                  | Relationship |
+| --------------------- | ------------ |
+| [[Melvin Oaksleeves]] | Great Uncle  |

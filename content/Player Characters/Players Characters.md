@@ -1,0 +1,1 @@
+Gods, there are just so many! I couldn't possibly record the names, personalities, and quirks of the heroes of this age. Player Characters, at this time, are not all appropriately cataloged.
