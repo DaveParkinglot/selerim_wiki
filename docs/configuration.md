@@ -47,6 +47,9 @@ This part of the configuration concerns anything that can affect the whole site.
   - Note that Quartz 5 will avoid using this as much as possible and use relative URLs whenever it can to make sure your site works no matter _where_ you end up actually deploying it.
 - `ignorePatterns`: a list of [glob](<https://en.wikipedia.org/wiki/Glob_(programming)>) patterns that Quartz should ignore and not search through when looking for files inside the `content` folder. See [[private pages]] for more details.
 - `theme`: configure how the site looks.
+  - `fontOrigin`: where to load fonts from.
+    - `"googleFonts"` (default): loads fonts from Google Fonts API. Fastest option, especially with CDN caching enabled.
+    - `"local"`: downloads fonts and serves them from your site. Fully self-contained with no external requests.
   - `cdnCaching`: if `true` (default), use Google CDN to cache the fonts. This will generally be faster. Disable (`false`) this if you want Quartz to download the fonts to be self-contained.
   - `typography`: what fonts to use. Any font available on [Google Fonts](https://fonts.google.com/) works here.
     - `title`: font for the title of the site (optional, same as `header` by default)
@@ -239,6 +242,7 @@ plugins:
 > Some plugin options require JavaScript callback functions (e.g. custom sort, filter, or map functions) that can't be expressed in YAML. For these, use the TS override in `quartz.ts`:
 >
 > ```ts title="quartz.ts"
+> import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 > import * as ExternalPlugin from "./.quartz/plugins"
 >
 > ExternalPlugin.Explorer({
@@ -247,9 +251,13 @@ plugins:
 >     return node
 >   },
 > })
+>
+> const config = await loadQuartzConfig()
+> export default config
+> export const layout = await loadQuartzLayout()
 > ```
 >
-> Options set in `quartz.ts` are merged with YAML options and take precedence. See the plugin-specific documentation for available callback options.
+> Options set in `quartz.ts` are merged with YAML options and take precedence. Plugin overrides must be placed **before** `loadQuartzConfig()` so they are applied when components are instantiated during config loading. See the plugin-specific documentation for available callback options.
 
 You can see a list of all plugins and their configuration options [[tags/plugin|here]].
 
@@ -263,6 +271,7 @@ Fonts can be specified as a simple string or with advanced options in `quartz.co
 configuration:
   theme:
     typography:
+      title: Schibsted Grotesk # optional, defaults to header font
       header: Schibsted Grotesk
       body: Source Sans Pro
       code: IBM Plex Mono

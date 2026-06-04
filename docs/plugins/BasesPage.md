@@ -1,9 +1,14 @@
 ---
 title: BasesPage
+description: Renders Obsidian Bases files as database-style views.
 tags:
   - plugin/pageType
   - plugin/component
 image:
+new-in-v5: true
+repository: "[quartz-community/bases-page](https://github.com/quartz-community/bases-page)"
+enabled: true
+required: false
 ---
 
 This plugin provides support for [Obsidian Bases](https://obsidian.md/changelog/2025-04-15-desktop-v1.8.0/) (`.base` files) in Quartz. It reads `.base` files from your vault, resolves matching notes based on the query definition, and renders them as interactive database-like views with support for tables, lists, cards, and maps. It uses the `default` [[layout#Page Frames|page frame]] (three-column layout with sidebars).
@@ -36,6 +41,7 @@ This plugin provides support for [Obsidian Bases](https://obsidian.md/changelog/
 This plugin accepts the following configuration options:
 
 - `defaultViewType`: The default view type when none is specified in the `.base` file. Defaults to `"table"`.
+- `linkResolution`: How to resolve internal links in view renderers. Should match the `markdownLinkResolution` setting of the [[CrawlLinks]] plugin. Can be `"absolute"`, `"relative"`, or `"shortest"`. Defaults to `"shortest"`.
 - `customViews`: A map of custom view renderers. Keys are view type names. These override built-in renderers for the same type, or add new view types. Requires a TS override.
 
 ### Default options
@@ -50,6 +56,7 @@ For custom view renderers, use a TS override in `quartz.ts`:
 ```ts title="quartz.ts (override)"
 import * as ExternalPlugin from "./.quartz/plugins"
 
+// Must be placed before loadQuartzConfig()
 ExternalPlugin.BasesPage({
   defaultViewType: "table",
   customViews: {

@@ -6,7 +6,87 @@ aliases:
 
 First, make sure you have Quartz [[index#🪴 Get Started|cloned and setup locally]].
 
+<<<<<<< HEAD
 Then, create a new repository on GitHub.com. Do **not** initialize the new repository with `README`, license, or `gitignore` files.
+=======
+## 1. Clone Quartz
+
+```bash
+git clone https://github.com/jackyzha0/quartz.git
+cd quartz
+```
+
+## 2. Install Dependencies
+
+> [!important]
+> Quartz requires **Node.js 22** or later. Check your version with `node -v` and upgrade at [nodejs.org](https://nodejs.org/) if needed.
+
+```bash
+npm i
+```
+
+> [!note]
+> On subsequent clones of your own repository (e.g. on a new machine), use `npm ci` instead for a faster, reproducible install from the lockfile.
+
+## 3. Initialize Your Site
+
+Run the interactive setup wizard:
+
+```bash
+npx quartz create
+```
+
+This will prompt you for:
+
+- A **template** (`default`, `obsidian`, `ttrpg`, `blog`) — pick the one that matches your use case. See [[create#Templates]] for details on each.
+- A **content strategy** — choose how to populate the `content/` folder:
+  - **new**: Start with an empty folder
+  - **copy**: Copy files from an existing folder (e.g. your Obsidian vault)
+  - **symlink**: Link to an existing folder so changes sync automatically
+- A **base URL** — the URL where your site will be deployed (e.g. `mysite.github.io/quartz`). Don't include `https://`.
+- A **link resolution** strategy — how to resolve internal links (`shortest`, `absolute`, or `relative`). Skipped for Obsidian and TTRPG templates.
+
+For non-interactive usage and more details, see the [[create|`quartz create` CLI reference]].
+
+## 4. Install Plugins
+
+The template you chose references community plugins that need to be installed:
+
+```bash
+npx quartz plugin install --from-config
+```
+
+This downloads and builds all plugins listed in `quartz.config.yaml` into `.quartz/plugins/`.
+
+> [!tip]
+> If some plugins fail to build, try refreshing them to their latest versions:
+>
+> ```bash
+> npx quartz plugin install --latest
+> ```
+>
+> See [[troubleshooting#Plugins fail to build on a fresh clone]] for more details.
+
+## 5. Preview Your Site
+
+```bash
+npx quartz build --serve
+```
+
+Your site is now running at `http://localhost:8080`. The dev server watches for file changes and reloads automatically.
+
+At this point you can [[authoring-content|start writing content]] in the `content/` folder. When you're ready to publish, continue below to push your site to GitHub and [[hosting|deploy it]].
+
+---
+
+## Setting Up Your GitHub Repository
+
+To publish your site, you'll need your own GitHub repository.
+
+### Create the Repository
+
+Create a new repository on [GitHub.com](https://github.com/new). Do **not** initialize it with a README, license, or `.gitignore` — the Quartz clone already has these.
+>>>>>>> 9737bce7095f93c9fb41700449505d963a6b2bb8
 
 ![[github-init-repo-options.png]]
 

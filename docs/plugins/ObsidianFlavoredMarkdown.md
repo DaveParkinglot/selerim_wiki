@@ -1,8 +1,12 @@
 ---
 title: ObsidianFlavoredMarkdown
+description: Obsidian-specific Markdown extensions (wikilinks, callouts, highlights, tags, embeds).
 tags:
   - plugin/transformer
 image:
+repository: "[quartz-community/obsidian-flavored-markdown](https://github.com/quartz-community/obsidian-flavored-markdown)"
+enabled: true
+required: false
 ---
 
 This plugin provides support for [[Obsidian compatibility]].

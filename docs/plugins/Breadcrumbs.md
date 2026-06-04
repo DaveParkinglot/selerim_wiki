@@ -1,8 +1,12 @@
 ---
 title: Breadcrumbs
+description: Breadcrumb navigation trail.
 tags:
   - plugin/component
 image:
+repository: "[quartz-community/breadcrumbs](https://github.com/quartz-community/breadcrumbs)"
+enabled: true
+required: false
 ---
 
 Navigation breadcrumb trail.

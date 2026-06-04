@@ -8,7 +8,14 @@ Quartz is a fast, batteries-included static-site generator that transforms Markd
 
 Quartz requires **at least [Node](https://nodejs.org/) v22** and `npm` v10.9.2 to function correctly. Ensure you have this installed on your machine before continuing.
 
+<<<<<<< HEAD
 ### New to Quartz?
+=======
+```shell
+# 1. Clone the Quartz repository
+git clone https://github.com/jackyzha0/quartz.git
+cd quartz
+>>>>>>> 9737bce7095f93c9fb41700449505d963a6b2bb8
 
 1. **[[installation|Set up your repository]]** — Fork and clone the Quartz template
 2. **[[installation|Initialize]]** — Run `npx quartz create` to choose a template and configure your site
