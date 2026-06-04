@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-04-21T09:13:26.639-04:00
+published: 2026-04-21T09:13:26.639-04:00
 Age: "76"
 Ancestry:
   - Dwarf
@@ -14,35 +18,41 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Choncho Stonetooth
-> ![[choncho_stonetooth.png|300]]
+>
+> ![[z_assets/choncho_stonetooth.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 76
+>
+> **Ancestry**: Dwarf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Bodyguard
+>
+> **Affiliation:** Deepmine Delvings
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
- The steadfast bodyguard of [[Garm Deepmine]], he has unswerving loyalty to the Deepmines and their company [[Deepmine Delvings]].
+
+The steadfast bodyguard of [[Garm Deepmine]], he has unswerving loyalty to the Deepmines and their company [[Deepmine Delvings]].
 
 # Attributes
+
 - **Voice**: Grizzled and gruff
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

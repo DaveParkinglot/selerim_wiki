@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-04-21T09:14:15.851-04:00
+published: 2026-04-21T09:14:15.851-04:00
 Age: "42"
 Ancestry: Half-Elf
 Gender: Male
@@ -13,40 +17,45 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Brahaxian Bastifor
-> ![[brahaxian_bastifor.png|300]]
+>
+> ![[z_assets/brahaxian_bastifor.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 42
+>
+> **Ancestry**: Half-Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Shopkeeper
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Trophy husband of Mayor [[Antoona Bastifor]].
 - Shopkeeper at Bastifor's General Store in Crabbley.
 
 # Attributes
+
 - **Voice**: High society fancy
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                 | Relationship |
 | -------------------- | ------------ |
 | [[Antoona Bastifor]] | Wife         |
-

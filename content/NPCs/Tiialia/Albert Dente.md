@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:45.000-04:00
+modified: 2026-05-04T11:33:18.487-04:00
+published: 2026-05-04T11:33:18.487-04:00
 Age: "74"
 Ancestry: Human
 Gender: Male
@@ -9,34 +13,39 @@ Role:
   - Butler
 Affiliation:
   - "[[Esposito Family]]"
-  - "[[Selerim Wiki/Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Albert Dente
-> ![[albert_dente.png|300]]
+>
+> ![[z_assets/albert_dente.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 74
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: The Esposito Vineyard, [[Places/Nova Jersaeria.md|Nova Jersaeria]]
+>
+> **Role**: Butler
+>
+> **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 - An old timey butler from [[Nova Jersaeria]].
 - His family has served the [[Esposito Family]] for generations. An age-old bargain between the [[Esposito Family]] and the Dentes states that the Espositos pay for passage aboard the [[Necronaut of Mournholde]] when a Dente who has loyally served them reaches the age of 75.
 - This bargain was struck between Albert's great great great great grandfather, Albert, and the progenitor of the Esposito family, Quintino
@@ -45,6 +54,7 @@ Author: Jordan
 - She plans to take his place after he soon embarks on the [[Necronaut of Mournholde]].
 
 # Attributes
+
 - **Voice**: Old man
 - **Traits**: Exceedingly polite and helpful
 - **Goals:** Board the [[Necronaut of Mournholde]] at age 75
@@ -56,4 +66,3 @@ Author: Jordan
 | --------------------- | ------------ |
 | [[Alberta Dente]]     | Daughter     |
 | [[Antonino Esposito]] | Liege Lord   |
-

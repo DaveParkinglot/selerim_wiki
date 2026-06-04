@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-05-04T11:36:46.925-04:00
+published: 2026-05-04T11:36:46.925-04:00
 Age: "48"
 Ancestry: Human
 Gender: Male
@@ -14,37 +18,43 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Biltus Van Gander
-> ![[biltus_van_gander.png|300]]
+>
+> ![[z_assets/biltus_van_gander.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 48
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Farmer, Former Adventurer
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Biltus was formerly an adventurer before he and his family settled down as farmers in Crabbley.
-- His family housed [[Selerim Wiki/Player Characters/The High Rollers/The High Rollers|The High Rollers]] for a time, while they were on a quest to rescue the Van Gander's prized hog. 
+- His family housed [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] for a time, while they were on a quest to rescue the Van Gander's prized hog.
 - Unfortunately the prized hog was never recovered from the kobolds who stole it.
 
 # Attributes
+
 - **Voice**: Gruff
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

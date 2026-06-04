@@ -1,9 +1,13 @@
 ---
+publish: true
+created: 2025-07-21T11:30:45.000-04:00
+modified: 2026-05-27T09:59:49.067-04:00
+published: 2026-05-27T09:59:49.067-04:00
 Age: "214"
 Ancestry: Dwarf
 Gender: Male
 Location:
-  - "[[Selerim Wiki/Places/White Grove]]"
+  - "[[Places/White Grove]]"
 Role:
   - Headmaster
   - Loremaster
@@ -15,41 +19,46 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Arctur Execlostrabaum
-> ![[arctur_execlostrabaum.png|300]]
+>
+> ![[z_assets/arctur_execlostrabaum.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 214
+>
+> **Ancestry**: Dwarf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Headmaster, Loremaster
+>
+> **Affiliation:** [[Places/Nova Jersaeria.md|Nova Jersaeria]]
+>
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
 
 # Overview
-- Headmaster of [[Selerim Wiki/Places/White Grove|White Grove Academy]] with disturbingly liberal magical philosophies.
+
+- Headmaster of [[Places/White Grove|White Grove Academy]] with disturbingly liberal magical philosophies.
 - Of all the folk of Selerim, he may be the most knowledgeable about the world and its histories.
 - He is a nephew of [[Geblorgurin the Grand]], and he shares similar ideologies of uniting the peoples of Selerim.
 
 # Attributes
+
 - **Voice**: Wise old man
-- **Traits**: 
+- **Traits**:
 - **Ideals:** Improve the magical education system
-- **Appearance**: 
+- **Appearance**:
 
 # Relationships
 
 | Name                                   | Relationship |
 | -------------------------------------- | ------------ |
 | [[Geblorgurin the Grand\|Geblorgurin]] | Uncle        |
-

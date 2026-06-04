@@ -1,10 +1,14 @@
 ---
+publish: true
+created: 2025-07-21T11:30:45.000-04:00
+modified: 2026-05-12T09:23:41.117-04:00
+published: 2026-05-12T09:23:41.117-04:00
 Age: "41"
 Ancestry: Human
 Gender: Male
 Location:
   - "[[Nova Jersaeria]]"
-  - "[[Selerim Wiki/Places/White Grove]]"
+  - "[[Places/White Grove]]"
 Role:
   - Captain
 Affiliation:
@@ -15,34 +19,40 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Captain Crebain Dunland
-> ![[crebain_dunland.png|300]]
+>
+> ![[z_assets/crebain_dunland.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 41
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Captain
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/Dunland's Raiders.md|Dunland's Raiders]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Captain of Dunland's Raiders, the Tiialan Commandos who thwarted [[Morganth's Legion of Doom]] when [[Morganth]] and his minions attempted to summon demons in the heartland of [[Tiialia]].
 
 # Attributes
-- **Voice**: 
-- **Traits**: 
-- **Ideals:** 
+
+- **Voice**:
+- **Traits**:
+- **Ideals:**
 - **Appearance**:
 
 # Relationships
