@@ -1,1 +1,1 @@
-Redirect: [[Places/Vlorngroth|Vlorngroth]]
+Redirect: [[Selerim Wiki/Places/Vlorngroth|Vlorngroth]]

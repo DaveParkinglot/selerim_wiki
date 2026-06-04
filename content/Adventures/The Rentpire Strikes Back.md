@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:33.951-04:00
-published: 2026-04-21T08:47:33.951-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -32,43 +28,36 @@ Classes:
   - Fighter
   - Barbarian
 ---
-
-> [!infobox|right]
->
+ > [!infobox|right]
 > ## The Rentpire Strikes Back
->
-> ![[z_assets/waverender.png|500]]
->
+> ![[waverender.png|500]]
 > > [!caption|center]
 > > A "Waverender", one of Boss Renton's many scrap ships
 >
-> ## Details
+>## Details
 >
-> **DM**: Jordan
->
-> **Platform**: Foundry
->
-> **Sessions**: 1
->
-> **Run Dates**: 2024-09-12
->
-> **In-World Dates**: 264-06-23 - 264-06-27
+> **DM**: `= join(this.DM, ", ")`
+> 
+> **Platform**: `= join(this.Platform, ", ")`
+> 
+> **Sessions**: `= join(this.Sessions, ", ")`
+> 
+> **Run Dates**: `= join(dateformat(this["Start Date"], "yyyy-MM-dd"), ", ")`
+> 
+> **In-World Dates**: `= join(this["In-World Start Date"], ", ")` - `= join(this["In-World End Date"], ", ")`
 
 # Adventure Premise
-
 - It has been 3 months since the brave and patriotic adventuring party ISIS-T slew Ringleader Redtusk on behalf of Dick Gunbarrel and the [[Crillville Defense Force]] (CDF). Somehow, in this short span of time, an even more insidious threat has arisen...
 - Across the channel north of [[Crillville]], Redtusk's half-brother Boss Renton has amassed a veritable empire of goblins, a horde unheard of. This Rentpire (as he calls it) has spent these months gathering great hoards of iron. Surviving CDF scouts are baffled as to where all this iron is coming from, but it continues to be used to create crude, boat-like watercrafts. One thing is for sure: an aquatic goblin invasion is sure to come to Crillville, and soon.
 
 # Outcomes
-
 - ISIS-T, with some new faces, took down Boss Renton's invading forces before they could make landfall in Crillville. With the help of their trusty companion Byfunkel Crisp, they decimated Renton's shoddily constructed boats and put an end to his Rentpire. Sadly, Bru Ski met his end aboard Renton's Ravager, and fell to a watery grave.
 - It became apparent that both Boss Renton and Ringleader Redtusk were not even from the world of Selerim, instead hailing from a different world altogether…
 
 # Players & Characters
-
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Michael | Bru Ski | Harengon | Monk |
-| Bishop | Elenda Duskwood | Elf | Rogue |
-| Mike Doom | Curly | Human | Fighter |
-| Bucher | Tumeighto Nose | Half-Orc | Barbarian |
+| `= this.Players[0]` | `= this.Characters[0]` | `= this.Races[0]` | `= this.Classes[0]` |
+| `= this.Players[1]` | `= this.Characters[1]` | `= this.Races[1]` | `= this.Classes[1]` |
+| `= this.Players[2]` | `= this.Characters[2]` | `= this.Races[2]` | `= this.Classes[2]` |
+| `= this.Players[3]` | `= this.Characters[3]` | `= this.Races[3]` | `= this.Classes[3]` |

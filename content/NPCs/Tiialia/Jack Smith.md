@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-04T11:42:25.633-04:00
-published: 2026-05-04T11:42:25.633-04:00
 Age: "40"
 Ancestry: Human
 Gender: Male
@@ -17,40 +13,34 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Jack Smith
->
-> ![[z_assets/jack_smith.png|300]]
->
+> ![[jack_smith.png|300]]
 > ## Details
->
-> **Age**: 40
->
-> **Ancestry**: Human
->
-> **Gender**: Male
->
-> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
->
-> **Role**: Blacksmith
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - His friends call him Jack "Don't call me 'Black Jack'" Black Jack Smith
 - Owner of the blacksmith shop Steel Yourself.
-- Once had his own party montage with [[Player Characters/The High Rollers/The High Rollers|The High Rollers]].
+- Once had his own party montage with [[Selerim Wiki/Player Characters/The High Rollers/The High Rollers|The High Rollers]].
 - Hates it when you call him Black Jack.
 
 # Attributes
-
 - **Voice**: Normal
 - **Traits**: No nonsense blacksmith, tends not to haggle
 - **Goals:** Create works of art with metal

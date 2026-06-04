@@ -1,3 +1,3 @@
-Barbaric street tough from [[Nova Jersaeria]]. His name is anathema, and his cousin is _wrongfully_ imprisoned for a grand conspiracy to overthrow the [[Tiialia|Tiialan]] royal line.
+Barbaric street tough from [[Nova Jersaeria]]. His name is anathema, and his cousin is *wrongfully* imprisoned for a grand conspiracy to overthrow the [[Tiialia|Tiialan]] royal line.
 
 Most known for his time with [[Player Characters/The Stacked Deck/The Stacked Deck|The Stacked Deck]].

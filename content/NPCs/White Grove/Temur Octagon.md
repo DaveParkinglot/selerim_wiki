@@ -1,13 +1,9 @@
 ---
-publish: true
-created: 2025-07-21T11:30:00.000-04:00
-modified: 2026-05-12T09:23:41.147-04:00
-published: 2026-05-12T09:23:41.147-04:00
 Age: "22"
 Ancestry: Human
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[Selerim Wiki/Places/White Grove]]"
 Role:
   - Student
   - Morganth Cultist
@@ -19,39 +15,33 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Temur Octagon
->
-> ![[z_assets/temur_octagon.png|300]]
->
+> ![[temur_octagon.png|300]]
 > ## Details
->
-> **Age**: 22
->
-> **Ancestry**: Human
->
-> **Gender**: Male
->
-> **Location**: [[Places/White Grove.md|White Grove]]
->
-> **Role**: Student, Morganth Cultist
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
-- A pompous student who betrayed his friend [[Cristos Babblestaff]] and nearly killed him in the library while working as an agent of [[Factions/Morganth's Legion of Doom]].
-- Temur was posing as a student at [[Places/White Grove]], but he actually was only there to sabotage the school and steal information on [[Tzastis the Collector]] from the library.
+- A pompous student who betrayed his friend [[Cristos Babblestaff]] and nearly killed him in the library while working as an agent of [[Selerim Wiki/Factions/Morganth's Legion of Doom]].
+- Temur was posing as a student at [[Selerim Wiki/Places/White Grove]], but he actually was only there to sabotage the school and steal information on [[Tzastis the Collector]] from the library.
 - After being caught and imprisoned, Temur claimed he was mind controlled by the dark powers of the treacherous Provost Serpentios.
 
 # Attributes
-
 - **Voice**: Douchey aha
 - **Traits**: Douchebag
 - **Goals:** Clear his name
@@ -62,3 +52,4 @@ Author: Jordan
 | Name                    | Relationship  |
 | ----------------------- | ------------- |
 | [[Cristos Babblestaff]] | Former Friend |
+

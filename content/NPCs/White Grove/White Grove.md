@@ -1,1 +1,1 @@
-Redirect: [[Places/White Grove|White Grove]]
+Redirect: [[Selerim Wiki/Places/White Grove|White Grove]]

@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-05-04T11:36:30.338-04:00
-published: 2026-05-04T11:36:30.338-04:00
 Age: "60"
 Ancestry: Loxodon
 Gender: Male
@@ -18,49 +14,42 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Beezlebop
->
-> ![[z_assets/beezlebop.png|300]]
->
+> ![[beezlebop.png|300]]
 > ## Details
->
-> **Age**: 60
->
-> **Ancestry**: Loxodon
->
-> **Gender**: Male
->
-> **Location**: [[Places/Tanglewood Peninsula.md|Tanglewood Peninsula]]
->
-> **Role**: Archmage
->
-> **Affiliation:** [[The Tanglers|The Tanglers]]
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
 
 ## [[The High Rollers Campaign|The High Rollers Campaign]]
+- As an ally of [[Malmstein the Tangler]], he helped create freakishly mutated monsters in his huge spooky mansion. 
+- [[Sleeto Van Coof]] inadvertently foiled his operations when he attempted to rob the mansion, but most of his party was turned to slag in Beezlebop's slagma traps. 
+- [[Selerim Wiki/Player Characters/The High Rollers/The High Rollers|The High Rollers]] encountered a Living Portrait of Beezlebop himself when they helped Sleeto and young [[Hoary Boulder]] finish the heist of the mansion, though the actual Beezlebop was nowhere to be found...
 
-- As an ally of [[Malmstein the Tangler]], he helped create freakishly mutated monsters in his huge spooky mansion.
-- [[Sleeto Van Coof]] inadvertently foiled his operations when he attempted to rob the mansion, but most of his party was turned to slag in Beezlebop's slagma traps.
-- [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] encountered a Living Portrait of Beezlebop himself when they helped Sleeto and young [[Hoary Boulder]] finish the heist of the mansion, though the actual Beezlebop was nowhere to be found...
-
-## [[The Crimsonclaw Bounty|The Crimsonclaw Bounty]]
-
+## [[The Crimsonclaw Bounty|The Crimsonclaw Bounty]] 
 - Beezlebop appeared to be active again, as he created the mutant manticore "Old Crimsonclaw".
 
 # Attributes
-
-- **Voice**:
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Voice**: 
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 

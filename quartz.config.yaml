@@ -233,6 +233,14 @@ plugins:
         GitHub: https://github.com/DaveParkinglot/selerim_wiki
   - source: github:quartz-community/recent-notes
     enabled: true
+    options:
+      limit: 5
+      showTags: true
+      hideTagPages: false
+      hideFolderPages: false
+    layout:
+      position: right
+      priority: 20
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
