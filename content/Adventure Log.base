@@ -1,0 +1,36 @@
+summaries:
+  Filled: values.filter(!value.isType("null")).length
+filters:
+  and:
+    - file.folder.contains("Adventures")
+    - '!file.fullname.endsWith("base")'
+    - "!file.path.startsWith(\"Jordan's Notes\")"
+properties:
+  file.name:
+    displayName: Adventure Name
+views:
+  - type: table
+    name: Adventure Log
+    order:
+      - file.name
+      - Sessions
+      - In-World Start Date
+      - In-World End Date
+      - Start Date
+      - End Date
+      - DM
+      - Players
+      - Setting
+      - Platform
+    sort:
+      - property: Start Date
+        direction: DESC
+    summaries:
+      Sessions: Sum
+    columnSize:
+      note.Sessions: 113
+  - type: cards
+    name: Cards
+    image: note.image
+    imageAspectRatio: 0.5
+    cardSize: 160
