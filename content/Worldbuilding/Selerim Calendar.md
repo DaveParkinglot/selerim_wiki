@@ -1,8 +1,13 @@
 ---
+publish: true
+created: 2025-10-26T10:29:29.000-04:00
+modified: 2026-04-02T15:39:28.475-04:00
+published: 2026-04-02T15:39:28.475-04:00
 Author: Jordan
 ---
 
 # Selerim Unified Calendar
+
 - Used broadly by most of the world, this calendar was created during the reign of the Old Kings of [[Tiialia]]. It pays homage to the many distinct peoples of Selerim, who were stolen from their home worlds to be slaves under the brutal regime of [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_scag).
 - It should be noted that each of the 13 months has 28 days in it, and that Summer is the longest season because the [[Inhabitable Lands]] stretch along Selerim's equator.
 
@@ -23,6 +28,7 @@ Author: Jordan
 | Murend   | 13  | Winter | A holdover from an earlier calendar used by orcish peoples, prior to their forced relocation to Selerim. There is some debate about whether this is meant to celebrate the end of a year, or if it celebrates the death of "Mur", perhaps a warlord or a nation.                                                |
 
 # Antiquated Elvish Calendar
+
 Antiquated Elvish calendar from another world. This is very rarely used, because most folks agree the names sound stupid, and the seasons do not match the world of Selerim.
 
 | Month      | #   | Season |

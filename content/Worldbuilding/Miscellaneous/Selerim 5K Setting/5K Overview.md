@@ -4,6 +4,6 @@
 Organization pending
 
 Corporations:
+
 - Deep Rock Corporation
 - Batista Syndicate
-

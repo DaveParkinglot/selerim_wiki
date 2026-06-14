@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:43.000-04:00
+modified: 2026-04-21T09:13:28.407-04:00
+published: 2026-04-21T09:13:28.407-04:00
 Age: "45"
 Ancestry:
   - Tiefling
@@ -14,31 +18,37 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Euron Underfoe
-> ![[euron_underfoe.png|300]]
+>
+> ![[z_assets/euron_underfoe.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 45
+>
+> **Ancestry**: Tiefling
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Alchemist
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 Gaunt and terse tiefling who operates the Gobblefirn Apothecary after Old Mr. Gobblefirn's strange disappearance.
 
 # Attributes
+
 - **Voice**: Precise, harsh. Older high class gentlemanly
 - **Traits**: Shifty, ambitious, clever. It's ok to sacrifice morality to get far
 - **Goals:** A thriving alchemy business

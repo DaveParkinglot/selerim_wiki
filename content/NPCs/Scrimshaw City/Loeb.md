@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-06-14T08:48:48.207-04:00
+published: 2026-06-14T08:48:48.207-04:00
 Age: "34"
 Ancestry:
   - Human
@@ -10,43 +14,49 @@ Role:
   - Acting CEO
   - Blood Hunter
 Affiliation:
-  - "[[Selerim Wiki/Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
-  - "[[Selerim Wiki/Adventures/Arby's Sauce]]"
+  - "[[Arby's Sauce]]"
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Loeb
-> ![[loeb.png|300]]
+>
+> ![[z_assets/loeb.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 34
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]], [[Places/Scrimshaw City/The Spicy Meatball.md|The Spicy Meatball]]
+>
+> **Role**: Acting CEO, Blood Hunter
+>
+> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Originally, Loeb was [[Tadeusz]]'s blood hunter battle buddy who was lost after their voyage to kill a kraken went wrong.
-- Like all blood hunters, he is steely on the surface, with a bestial fury underneath. He uses this very effectively in managing [[The Spicy Meatball]] and all of its misfit workers in the absence of [[Tadeusz]] and the rest of [[Selerim Wiki/Player Characters/The High Rollers/The High Rollers|The High Rollers]].
+- Like all blood hunters, he is steely on the surface, with a bestial fury underneath. He uses this very effectively in managing [[The Spicy Meatball]] and all of its misfit workers in the absence of [[Tadeusz]] and the rest of [[Player Characters/The High Rollers/The High Rollers|The High Rollers]].
 
 # Attributes
+
 - **Voice**: Geralt of Rivia
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-04-21T09:14:35.808-04:00
+published: 2026-04-21T09:14:35.808-04:00
 Age: "56"
 Ancestry: Human
 Gender: Male
@@ -14,32 +18,38 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Innkeeper Roger
-> ![[innkeeper_roger.png|300]]
+>
+> ![[z_assets/innkeeper_roger.png|300]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 56
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Inkeeper, Small Business Owner
+>
+> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
+>
+> **Status:** Alive
 
 # Overview
-- The innkeeper at the Crab Claw Inn in Crabbley. 
+
+- The innkeeper at the Crab Claw Inn in Crabbley.
 - He has put up with a lot of crap through the years, but still loves adventurers.
 
 # Attributes
+
 - **Voice**: Normal
 - **Traits**: Kind. Believes adventurers are the best of us
 - **Goals:** Run a reputable and comfortable inn. Fix up his boat

@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T11:30:44.000-04:00
+modified: 2026-06-14T09:03:50.564-04:00
+published: 2026-06-14T09:03:50.564-04:00
 Age: "32"
 Ancestry:
   - Human
@@ -8,44 +12,50 @@ Location:
 Role:
   - Investigative Journalist
 Affiliation:
-  - "[[Selerim Wiki/Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
-  - "[[Selerim Wiki/Adventures/Arby's Sauce]]"
+  - "[[Arby's Sauce]]"
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Malthusius Inkwell
-> ![[malthusius_inkwell.png|300]]]
+>
+> ![[z_assets/malthusius_inkwell.png|300]]]
+>
 > ## Details
-> 
-> **Age**: `= join(this.Age, ", ")`
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age**: 32
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Investigative Journalist
+>
+> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
+>
+> **Status:** Alive
 
 # Overview
+
 - A journalist who is always on the lookout for a scoop.
-- He used his journalistic genius and investigative skills to corner Lord Portnoir on the newspaper page, and aided [[Selerim Wiki/Player Characters/The High Rollers/The High Rollers|The High Rollers]] in deposing Portnoir.
+- He used his journalistic genius and investigative skills to corner Lord Portnoir on the newspaper page, and aided [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] in deposing Portnoir.
 - Now, he can often be found hanging around [[The Spicy Meatball]].
 
 # Attributes
+
 - **Voice**: Nasally nerd
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
