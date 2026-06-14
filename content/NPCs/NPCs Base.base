@@ -1,0 +1,17 @@
+properties:
+  file.name:
+    displayName: NPC Name
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("Selerim Wiki/NPCs")
+        - '!file.name.endsWith("base")'
+    order:
+      - file.name
+      - Location
+      - Role
+    sort:
+      - property: image
+        direction: ASC

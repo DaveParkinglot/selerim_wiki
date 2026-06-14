@@ -5,11 +5,7 @@
       "source": "github:quartz-community/alias-redirects",
       "resolved": "https://github.com/quartz-community/alias-redirects.git",
       "commit": "73a98dda7e4f55239310833299d91daf8611349f",
-<<<<<<< HEAD
       "installedAt": "2026-06-09T20:18:09.851Z"
-=======
-      "installedAt": "2026-06-14T01:34:47.173Z"
->>>>>>> aef6ef25f54f01de0ca54d089844da6a31ef39dc
     },
     "article-title": {
       "source": "github:quartz-community/article-title",
@@ -201,11 +197,7 @@
       "source": "github:saberzero1/quartz-themes",
       "resolved": "https://github.com/saberzero1/quartz-themes.git",
       "commit": "945135e8b70576753d0591e1713fe56553100b3d",
-<<<<<<< HEAD
       "installedAt": "2026-06-14T01:37:33.868Z"
-=======
-      "installedAt": "2026-06-14T01:34:47.176Z"
->>>>>>> aef6ef25f54f01de0ca54d089844da6a31ef39dc
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
