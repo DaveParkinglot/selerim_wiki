@@ -283,6 +283,10 @@ plugins:
     order: 50
     options:
       theme: its-theme.drowned
+  - source: https://github.com/DreamCutter28/quartz-image-zoom
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:
