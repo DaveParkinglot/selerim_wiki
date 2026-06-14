@@ -4,8 +4,8 @@
     "alias-redirects": {
       "source": "github:quartz-community/alias-redirects",
       "resolved": "https://github.com/quartz-community/alias-redirects.git",
-      "commit": "39231fd8a3b477ec7045b7df91898da9c919d134",
-      "installedAt": "2026-06-04T19:58:35.633Z"
+      "commit": "73a98dda7e4f55239310833299d91daf8611349f",
+      "installedAt": "2026-06-09T20:18:09.851Z"
     },
     "article-title": {
       "source": "github:quartz-community/article-title",
@@ -126,12 +126,6 @@
       "resolved": "https://github.com/quartz-community/folder-page.git",
       "commit": "93304d22e1d7f09f93a33658ec273f7cb8d17793",
       "installedAt": "2026-06-04T19:58:35.633Z"
-    },
-    "fonts": {
-      "source": "github:quartz-community/fonts",
-      "resolved": "https://github.com/quartz-community/fonts.git",
-      "commit": "8be5be706d19ca34fa8e342327b78e11aff3d4f0",
-      "installedAt": "2026-06-10T21:13:18.081Z"
     },
     "footer": {
       "source": "github:quartz-community/footer",
