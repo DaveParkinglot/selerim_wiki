@@ -33,7 +33,7 @@ Classes:
 ---
  > [!infobox|right]
 > ## Vlorngroth - The Forge of Dingon
-> ![[avatar.png|500]]
+> ![[Forge_dingon.png|500]]
 > > [!caption|center]
 > > The moldering Forge of Dingon
 >

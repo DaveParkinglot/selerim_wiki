@@ -37,8 +37,8 @@ Author: Jordan
 > **Status:** `= join(this.Status, ", ")`
 
 # Overview
-> [!Quote|author mark] Arno Rickshir
->*You never know WHAT is gonna come through that door!*
+> [!Quote|author mark no-title]
+> *You never know WHAT is gonna come through that door!* <br> <span style="float: right;">—[[Arno Rickshir]] <br>  </span>
 
 - Though [[Selerim Wiki/Player Characters/The High Rollers/The High Rollers|The High Rollers]] were able to recover his stolen goods from kobold thieves, his old man and his son were killed while journeying through the [[Tanglewood Peninsula|Tanglewood]].
 - Owner of Boldriver Pawn Shop, the best place to buy and trade magic items in [[Scrimshaw City]], and anywhere else

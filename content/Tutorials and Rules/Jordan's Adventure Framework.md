@@ -1,6 +1,9 @@
 > [!Quote|author mark] Unknown Bard
 > *It doesn’t matter if it is good, it only matters if it rocks.*
 
+> [!Quote|author mark no-title]
+> *It doesn’t matter if it is good, it only matters if it rocks.* <br> <span style="float: right;">—Unknown Bard <br> </span>
+
 # Introductory Notes
 - This is meant to be a list of suggestions to help you create your very own D&D adventure.
 - Each section will provide examples from an adventure I already ran ([[The Crimsonclaw Bounty|The Crimsonclaw Bounty]]), and also may include a subsection of pointers for DMing in Foundry VTT.

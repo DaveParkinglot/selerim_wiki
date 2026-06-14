@@ -12,11 +12,11 @@ Author: Jordan
 Appearances:
   - None
 marker:
-    - coordinates: 1278, 3396
-      icon: game-icons:huts-village
-      colour: "#cfb53b"
-      minZoom: -4
-      mapName: Inhabitable_Lands_Map
+  - coordinates: 1278, 3396
+    icon: game-icons:huts-village
+    colour: "#cfb53b"
+    minZoom: -4
+    mapName: Inhabitable_Lands_Map
 title: Borfield, Lawless Hamlet
 aliases:
 ---

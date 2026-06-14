@@ -37,7 +37,7 @@ Classes:
 > ## The Hunt for the *Leaky Bucket*
 > ![[leaky_bucket_hanging.png]]
 > > [!caption|center]
-> > The long-lost *Leaky Bucket* hangs from vines in the Tanglewood Wilds
+> > The long-lost Leaky Bucket hangs from vines in the Tanglewood Wilds
 >
 >## Details
 >

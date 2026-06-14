@@ -38,9 +38,8 @@ Author: Jordan
 > **Status:** `= join(this.Status, ", ")`
 
 # Overview
-> [!Quote|author mark] Bopus
-> *Well, hey fellas!*
-
+> [!Quote|author mark no-title]
+> *Well, hey fellas!*  <br> <span style="float: right;">—[[Bopus]] <br>  </span>
 
 ## [[The High Rollers Campaign|The High Rollers Campaign]]
 - Bopus was a gnome diplomat living in The Cronium Caves, a gnome commune beneath [[Crabbley]]. The Cronium gnomes preferred to stay hidden, until their commune was invaded by kobolds. Bopus bravely went to Crabbley in search of help, and recruited [[Selerim Wiki/Player Characters/The High Rollers/The High Rollers|The High Rollers]] to assist his people. They dragged their feet for a while, but eventually they took up Bopus' quest and helped retake the Cronium Caves from the kobolds.

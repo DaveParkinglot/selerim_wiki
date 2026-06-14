@@ -23,11 +23,11 @@ Classes:
   - Rogue
   - Fighter
 ---
-> [!infobox|right]
+> [!infobox|right subt]
 > ## The Crimsonclaw Bounty
 > ![[leaky_bucket_hanging.png]]
 > > [!caption|center]
-> > The long-lost *Leaky Bucket* hangs from vines in the Tanglewood Wilds
+> > The long-lost Leaky Bucket hangs from vines in the Tanglewood Wilds
 >
 >## Details
 >
