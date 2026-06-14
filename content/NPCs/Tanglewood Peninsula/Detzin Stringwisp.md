@@ -50,7 +50,7 @@ Author: Jordan
 
 - An elvish bard from Mitlin, Detzin was once a destitute gambler before his friend [[Bwanson Wagwan]] helped him get out from the mountains of debt he owed to the loan shark Purt Sterner.
 
-## [[The Marrowsucker Contract|The Marrowsucker Contract]]
+## [[The Marrowsucker Contract]]
 
 - Detzin was being held captive by the Marrowsucker gnolls, when he was rescued. He may have partaken in some of "The Substance" before and after being rescued.
 

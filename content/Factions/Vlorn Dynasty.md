@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - Vlorn
 created: 2025-09-10T09:03:30.000-04:00
-modified: 2026-02-05T12:51:33.058-05:00
-published: 2026-02-05T12:51:33.058-05:00
+modified: 2026-06-14T10:44:01.422-04:00
+published: 2026-06-14T10:44:01.422-04:00
 Author: Jordan
 ---
 

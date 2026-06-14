@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-12T09:27:48.718-04:00
-published: 2026-05-12T09:27:48.718-04:00
+modified: 2026-06-14T10:04:20.072-04:00
+published: 2026-06-14T10:04:20.072-04:00
 Age: "7"
 Ancestry: Kobold
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Freshman
@@ -46,7 +46,7 @@ Author: Jordan
 
 # Overview
 
-- A young kobold hailing from the underground city of [[Places/Vlorngroth]], currently studying at [[Places/White Grove]]
+- A young kobold hailing from the underground city of [[Vlorngroth]], currently studying at [[White Grove]]
 - He escaped to the surface, following his uncle [[Shemcriz]], but got lost in Nova Jersaeria.
 - Showing a hint of magical talent, he was allowed admittance to The White Grove.
 - Fellow students love how down to earth and relatable he is.

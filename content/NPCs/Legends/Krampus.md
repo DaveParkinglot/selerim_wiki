@@ -54,7 +54,7 @@ Author: Jordan
   - As a counterpart to the more cheerful aspects of winter, Krampus represents the cold, harsh lessons the season brings: scarcity, hardship, and the reckoning of debts. He embodies the "other side" of [[Giftmas]], ensuring excess and greed are punished while humility and generosity are rewarded.
   - Those who have broken a pact are decreed as PACTBREAKERS by Krampus, and they are thrown in his BLACK SACK to be tormented for 12 years.
 
-## [[Kindlethicket - The Winter Hunt|Kindlethicket - The Winter Hunt]]
+## [[Kindlethicket - The Winter Hunt]]
 
 - Krampus, as always, took pactbreakers from the material plane into his black sack of punishment.
 - This year, however, he relented, allowing [[Pudding]] to go free after being petitioned by brave adventurers.

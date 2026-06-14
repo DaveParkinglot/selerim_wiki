@@ -34,7 +34,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], [[NPCs/White Grove/White Grove.md|White Grove]]
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], [[Places/White Grove.md|White Grove]]
 >
 > **Role**: Captain
 >

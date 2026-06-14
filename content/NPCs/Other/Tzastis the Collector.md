@@ -53,7 +53,7 @@ Author: Jordan
 
 ## [[The High Rollers Campaign]]
 
-- One of their goals is to preserve the history of famous and powerful adventurers, including [[Player Characters/The High Rollers/The High Rollers|The High Rollers]].
+- One of their goals is to preserve the history of famous and powerful adventurers, including [[The High Rollers]].
 - During their last, [[The High Rollers Campaign#Thwart The Collector|ill-fated adventure]], The High Rollers and their companions Eros and Maldoy were collected by Tzastis, excluding the blood hunter [[Tadeusz]]. They were placed on display as trophies in the 900th exhibit of the Fathomless Vault, a false copy of their restaurant The Spicy Meatball.
 
 ### [[Saving Cousin Gane]]

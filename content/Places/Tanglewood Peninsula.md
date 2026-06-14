@@ -4,8 +4,8 @@ aliases:
   - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
-modified: 2026-04-21T08:36:29.555-04:00
-published: 2026-04-21T08:36:29.555-04:00
+modified: 2026-06-14T10:37:47.683-04:00
+published: 2026-06-14T10:37:47.683-04:00
 Type:
   - Region
 Age (years): 264
@@ -61,7 +61,7 @@ Author: Jordan
 
 - The Tanglewood Peninsula is the peninsula of land between Boater's Bay and the Cloven Sea.
 - Many settlements have grown up on the peninsula since the [[Darkwells]] erupted, but the region is still a mostly unexplored and unsettled frontier, known as the Tanglewood Wilds.
-- Tanglewood settlements include [[Borfield]], [[Crabbley]], [[Crillville]], and [[Mitlin]]
+- Notable Tanglewood settlements include [[Crabbley]], [[Crillville]], and [[Mitlin]]
 
 # Attributes
 

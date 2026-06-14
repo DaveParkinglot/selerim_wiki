@@ -57,7 +57,7 @@ Classes:
 
 # Adventure Premise
 
-- Over summer break, Headmaster [[Arctur Execlostrabaum]] has challenged the students of [[Places/White Grove]] to a competitive off-campus scavenger hunt.
+- Over summer break, Headmaster [[Arctur Execlostrabaum]] has challenged the students of [[White Grove]] to a competitive off-campus scavenger hunt.
 - Students who succeed in the scavenger hunt will be given extra commendations in their culminating portfolio, which makes this an exceedingly valuable extra-curricular (if you care about having a successful career as a spellcaster).
 
 # Outcomes
@@ -79,7 +79,7 @@ Classes:
 ## Session 3
 
 - [[Cristos Babblestaff]] wandered back into the temple in the nick of time and was able to use his Aid spell scroll to save the day.
-- Provost Serpentios was killed as he begged the students to spare him, saying that they could join him as members of [[Factions/Morganth's Legion of Doom]].
+- Provost Serpentios was killed as he begged the students to spare him, saying that they could join him as members of [[Morganth's LEGION OF DOOM|Morganth's Legion of Doom]].
 - Deeper in the temple, [[Sari]] was being held captive by the Provost, and the students were able to both rescue her and kill a large gelatinous cube filled with magic items.
 - As Sari was already on her way to completing the scavenger hunt, she quickly joined with the party, and everyone grabbed a coconut, the second item in the scavenger hunt.
 - After making their way back to [[White Grove]] campus, the students researched the meaning of the next clue of the scavenger hunt and took some much needed rest and relaxation.

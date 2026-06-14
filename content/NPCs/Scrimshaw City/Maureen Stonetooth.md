@@ -33,7 +33,7 @@ Author: Jordan
 >
 > **Gender**: Female
 >
-> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]]
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 >
 > **Role**: Crime Boss
 >

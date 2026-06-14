@@ -47,7 +47,7 @@ Author: Jordan
 # Overview
 
 - [[Riggle Fragoo]]'s best and only salesman.
-- He worked as [[Player Characters/The High Rollers/The High Rollers|The High Rollers]]during their time in Nova Jersaeria.
+- He worked as [[The High Rollers]]during their time in Nova Jersaeria.
 
 # Attributes
 

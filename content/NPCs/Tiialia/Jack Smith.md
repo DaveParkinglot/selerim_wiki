@@ -46,7 +46,7 @@ Author: Jordan
 
 - His friends call him Jack "Don't call me 'Black Jack'" Black Jack Smith
 - Owner of the blacksmith shop Steel Yourself.
-- Once had his own party montage with [[Player Characters/The High Rollers/The High Rollers|The High Rollers]].
+- Once had his own party montage with [[The High Rollers]].
 - Hates it when you call him Black Jack.
 
 # Attributes

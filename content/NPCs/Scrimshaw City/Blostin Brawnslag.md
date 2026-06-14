@@ -35,7 +35,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]], Varies
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]], Varies
 >
 > **Role**: Bard, Bandmember (Drummer)
 >
@@ -47,7 +47,7 @@ Author: Jordan
 
 # Overview
 
-- He and [[Franky Fizzno]] gave the first quest to [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] after they requested that the party track down and locate [[Spurgon Bogolog]], their missing frontman.
+- He and [[Franky Fizzno]] gave the first quest to [[The High Rollers]] after they requested that the party track down and locate [[Spurgon Bogolog]], their missing frontman.
 - World renowned drummer, and one of the 3 members of Crag Delta.
 - They've played venues from [[Crabbley]] to [[Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
 - His stage name is "Blostin, Lord of the Sticks".

@@ -33,7 +33,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]]
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 >
 > **Role**: Ship Captain
 >
@@ -47,7 +47,7 @@ Author: Jordan
 
 - Captain of the S.S. Tartarmule, before it became lodged in the ice leaving the Aldwood Lighthouse.
 - He is still without a ship, a crew, and a first mate after they were all killed by [[Dr. Drendle]]'s undead.
-- He still owes [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] dinner with his wife one day...
+- He still owes [[The High Rollers]] dinner with his wife one day...
 
 # Attributes
 

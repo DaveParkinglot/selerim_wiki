@@ -7,7 +7,7 @@ Age: "19"
 Ancestry: Tiefling
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Freshman

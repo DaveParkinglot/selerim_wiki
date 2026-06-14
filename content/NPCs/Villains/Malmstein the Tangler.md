@@ -47,7 +47,7 @@ Author: Jordan
 
 - One very angry druid, and the former leader of the eco-terrorist organization [[The Tanglers]].
 - He crashed the [[Crab Fest]] and caused quite an issue for [[Crabbley]] and [[Crillville]], but he was put in his place one fateful Monday during the Invasion of Crillville.
-- Ultimately, he was captured by [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] and impaled on [[Dick Gunbarrel]]'s greatsword.
+- Ultimately, he was captured by [[The High Rollers]] and impaled on [[Dick Gunbarrel]]'s greatsword.
 
 # Attributes
 

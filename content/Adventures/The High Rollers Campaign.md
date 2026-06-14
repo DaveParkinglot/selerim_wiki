@@ -107,7 +107,7 @@ The OG campaign.
 ### Outcomes
 
 - The forces of Crabbley and Crillville retook Crillville after it was occupied by The Tanglers.
-- In the final confrontation, [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] struck down Malmstein, who was summarily executed by [[Dick Gunbarrel]].
+- In the final confrontation, [[The High Rollers]] struck down Malmstein, who was summarily executed by [[Dick Gunbarrel]].
 
 ## Depose Lord Davos Portnoir
 

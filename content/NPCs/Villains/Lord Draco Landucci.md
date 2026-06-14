@@ -46,7 +46,7 @@ Author: Jordan
 
 # Overview
 
-- Before his death at the hands of [[Player Characters/The High Rollers/The High Rollers|The High Rollers]], Lord Landucci was all of these things:
+- Before his death at the hands of [[The High Rollers]], Lord Landucci was all of these things:
   - Tiialan Lord
   - [[Landucci Family]] patriarch
   - High Commander of the Legions of Tiialia

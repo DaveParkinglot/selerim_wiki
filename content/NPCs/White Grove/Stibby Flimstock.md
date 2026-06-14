@@ -7,7 +7,7 @@ Age: "17"
 Ancestry: Tiefling
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Freshman
@@ -46,7 +46,7 @@ Author: Jordan
 
 # Overview
 
-- A tiefling student at [[Places/White Grove]] who is very uncertain and bad at infernal magic.
+- A tiefling student at [[White Grove]] who is very uncertain and bad at infernal magic.
 
 # Attributes
 

@@ -33,7 +33,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]]
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 >
 > **Role**: Barkeep
 >
@@ -46,7 +46,7 @@ Author: Jordan
 # Overview
 
 - Barkeep at the tavern The Billowing Boar. He is originally from Tiialia.
-- Before [[Lord Davos Portnoir]]'s deposition by [[Player Characters/The High Rollers/The High Rollers|The High Rollers]], he was one of many tenants suffering from rent increases.
+- Before [[Lord Davos Portnoir]]'s deposition by [[The High Rollers]], he was one of many tenants suffering from rent increases.
 - He is still resentful of his parents for naming him Bourtney.
 
 # Attributes

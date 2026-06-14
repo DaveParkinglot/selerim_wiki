@@ -16,7 +16,7 @@ Role:
   - Former Adventurer
 Affiliation:
   - Tavernstool
-  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Spring Cleaning in Scrimshaw City]]"
@@ -47,7 +47,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]]
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 >
 > **Role**: El Presidente, Former Adventurer
 >
@@ -61,7 +61,7 @@ Author: Jordan
 
 - A devil from one of the Nine Hells who isn't actually all that bad.
 - Hundreds of years ago, Hugh and his friends were thrown away as battlefield fodder by the man who would become the devil [[Lord Davos Portnoir]].
-- He adventured with [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] for a time, and eventually had his vengeance by deposing [[Lord Davos Portnoir]].
+- He adventured with [[The High Rollers]] for a time, and eventually had his vengeance by deposing [[Lord Davos Portnoir]].
 - With Portnoir deposed, Hugh Mann now reigns as El Presidente of [[Scrimshaw City]], and he has sole ownership of [[Tavernstool]], Portnoir's old company.
 - His status as a devil is, at this point, widely known in Scrimshaw.
 

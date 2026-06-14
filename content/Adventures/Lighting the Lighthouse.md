@@ -65,7 +65,7 @@ With [[Giftmas]] fast approaching, the [[Oaken Conclave]] of [[Mitlin]] has deci
 - And from [[Mitlin]] itself, they have procured the services of the great and celebrated musician [[Detzin Stringwisp]], a local troubadour with extensive training in classical elvish tunes (he also has a Giftmas album coming out soon, which you can preorder).
 
 Your party has been entrusted to safely deliver Mr. Stringwisp to the lantern room at the very top of the Aldwood Lighthouse, so that he may strum a chord of radiance, rekindle the Aldwood Lantern, and at last dispel the aura of undeath that surrounds the lighthouse.
-Once this is accomplished, the Aldwood Star can be placed atop the lighthouse to spread Giftmas cheer to the entire [[Tanglewood Peninsula|Tanglewood Peninsula]].
+Once this is accomplished, the Aldwood Star can be placed atop the lighthouse to spread Giftmas cheer to the entire [[Tanglewood Peninsula]].
 
 # Outcomes
 

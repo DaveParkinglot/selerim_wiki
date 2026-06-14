@@ -12,7 +12,7 @@ Role:
   - Gunslinger Bounty Hunter, Former Inquisitor
   - Colonel
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -33,7 +33,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: [[NPCs/Vlorngroth/Vlorngroth.md|Vlorngroth]]
+> **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
 >
 > **Role**: Gunslinger Bounty Hunter, Former Inquisitor, Colonel
 >
@@ -46,7 +46,7 @@ Author: Jordan
 # Overview
 
 - 5'9 drow with nothin to lose. Always wears a duster, even underwater.
-- A drow gunslinger bounty hunter who once hunted [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] for their bounty in [[Places/Vlorngroth]].
+- A drow gunslinger bounty hunter who once hunted [[The High Rollers]] for their bounty in [[Vlorngroth]].
 - He became an unlikely ally in the fight against [[Master Effree Jypstein]]'s undead.
 - He has a twin brother who was turned into a draegloth when they were young.
 - He is currently serving as a Colonel in the [[Tiialia|Tiialan]] military, based in the town of Scallion.

@@ -15,7 +15,7 @@ Government:
   - "[[Krampus]]"
 Author: Jordan
 Appearances:
-  - "[[Kindlethicket - The Winter Hunt|Kindlethicket - The Winter Hunt]]"
+  - "[[Kindlethicket - The Winter Hunt]]"
 ---
 
 > [!infobox|right]

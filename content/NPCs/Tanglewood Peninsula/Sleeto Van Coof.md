@@ -46,7 +46,7 @@ Author: Jordan
 # Overview
 
 - Thief, spymaster, father figure to the hapless Hoary Boulder.
-- After his initial heist of [[Beezlebop]]'s woodland manor led to the deaths of most of his crew, Sleeto put together a new crew with [[Hoary Boulder]] and [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] to heist the mansion. This time it went much better, and for a while he became The High Rollers' eyes and ears in Crabbley.
+- After his initial heist of [[Beezlebop]]'s woodland manor led to the deaths of most of his crew, Sleeto put together a new crew with [[Hoary Boulder]] and [[The High Rollers]] to heist the mansion. This time it went much better, and for a while he became The High Rollers' eyes and ears in Crabbley.
 
 # Attributes
 

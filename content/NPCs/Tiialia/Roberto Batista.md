@@ -48,7 +48,7 @@ aliases:
 
 # Overview
 
-[[Player Characters/The Stacked Deck/The Stacked Deck|The Stacked Deck]] found him getting high in the gardens of his manor before they stole [[Lord Zalvidar Batista]]'s gifts to Roberto.
+[[The Stacked Deck]] found him getting high in the gardens of his manor before they stole [[Lord Zalvidar Batista]]'s gifts to Roberto.
 
 # Attributes
 

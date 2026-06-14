@@ -7,7 +7,7 @@ Age: "22"
 Ancestry: Drow Elf
 Gender: Female
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Junior

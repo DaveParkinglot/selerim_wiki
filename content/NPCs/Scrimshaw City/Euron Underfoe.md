@@ -33,7 +33,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]]
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 >
 > **Role**: Alchemist
 >

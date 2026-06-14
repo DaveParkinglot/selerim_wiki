@@ -1,17 +1,18 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-04T11:36:14.616-04:00
-published: 2026-05-04T11:36:14.616-04:00
+modified: 2026-06-14T10:38:59.810-04:00
+published: 2026-06-14T10:38:59.810-04:00
 Age: "57"
 Ancestry: Deep Gnome
 Gender: Male
 Location:
-  - The Esposito Vineyard
+  - Esposito Vineyard
+  - "[[Tiialia]]"
 Role:
   - Sleepy Wizard
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[Vlorngroth - The Manor of Madness]]"
   - "[[The High Rollers Campaign]]"
@@ -33,7 +34,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: The Esposito Vineyard
+> **Location**: Esposito Vineyard, [[Factions/Tiialia.md|Tiialia]]
 >
 > **Role**: Sleepy Wizard
 >

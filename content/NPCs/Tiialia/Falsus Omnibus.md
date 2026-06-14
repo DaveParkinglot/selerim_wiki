@@ -44,7 +44,7 @@ Author: Ethan
 
 # Overview
 
-It seems that, while Falsus Omnibus in theory serves the [[Batista Family]], he mostly just serves himself. He originally suggested that a gang of misfits conduct a heist on a birthday party at the Batista Family manor, and then betrayed these adventures, and then bargained with them to spare him in exchange for him lying about who they were (suggesting to the Batistas that they were [[Ruz Family|Ruz Family]] bandits).
+It seems that, while Falsus Omnibus in theory serves the [[Batista Family]], he mostly just serves himself. He originally suggested that a gang of misfits conduct a heist on a birthday party at the Batista Family manor, and then betrayed these adventures, and then bargained with them to spare him in exchange for him lying about who they were (suggesting to the Batistas that they were [[Ruz Family]] bandits).
 
 # Attributes
 

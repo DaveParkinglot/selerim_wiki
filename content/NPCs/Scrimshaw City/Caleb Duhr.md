@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-04T11:38:46.315-04:00
-published: 2026-05-04T11:38:46.315-04:00
+modified: 2026-06-14T10:47:18.270-04:00
+published: 2026-06-14T10:47:18.270-04:00
 Age: "3"
 Ancestry:
   - Galeb Duhr, Rock Elemental
@@ -13,7 +13,7 @@ Role:
   - Rock
   - Mascot
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -34,7 +34,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]]
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 >
 > **Role**: Rock, Mascot
 >
@@ -47,7 +47,7 @@ Author: Jordan
 # Overview
 
 - The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
-- After fighting and losing to [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] in the pit, Caleb decided he wanted to live in [[The Spicy Meatball]]. He is often used in advertising campaigns because he can be painted to look almost exactly like a meatball.
+- After fighting and losing to [[The High Rollers]] in the pit, Caleb decided he wanted to live in [[Spicy Meatball]]. He is often used in advertising campaigns because he can be painted to look almost exactly like a meatball.
 
 # Attributes
 

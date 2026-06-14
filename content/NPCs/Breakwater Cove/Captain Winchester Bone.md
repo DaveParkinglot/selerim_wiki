@@ -18,7 +18,7 @@ Affiliation:
 Appearances:
   - "[[The Hidden Hoard of Winchester Bone]]"
   - "[[Sharky's Revenge]]"
-  - "[[Adventures/Bootknife's Bounty]]"
+  - "[[Bootknife's Bounty]]"
   - "[[The Crimsonclaw Bounty]]"
 Status: Alive
 Author: Jordan
@@ -59,7 +59,7 @@ In order to keep Bone Tavern afloat financially, Captain Bone requested the assi
 
 ## [[Sharky's Revenge]]
 
-- At some point, he had to fight half his crew and his first mate [[Sharky Dolphino]] over some relics they plundered from a ship bound for [[Mournholde|Mournholde]].
+- At some point, he had to fight half his crew and his first mate [[Sharky Dolphino]] over some relics they plundered from a ship bound for [[Mournholde]].
   - The following is Bone's accounting of the events that led to the end of "Bone and Sharky's Crew":
     - Sharky, being an orphan cast out of Tiialia, wanted to use powerful artifacts they looted to get revenge on those who had wronged him
     - Bone had no choice but to mutiny, and he used one of the artifacts on Sharky and his supporters.

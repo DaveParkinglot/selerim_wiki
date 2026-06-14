@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-12T09:27:48.691-04:00
-published: 2026-05-12T09:27:48.691-04:00
+modified: 2026-06-14T10:05:37.693-04:00
+published: 2026-06-14T10:05:37.693-04:00
 Age: ??
 Ancestry: Drow, Draegloth
 Gender: Male
 Location:
-  - "[[Places/Vlorngroth]]"
+  - "[[Vlorngroth]]"
 Role:
   - Villain
   - Destroyer of Worlds
 Affiliation:
-  - "[[Places/Vlorngroth]]"
+  - "[[Vlorngroth]]"
 Appearances:
   - "[[Vlorngroth - The Manor of Madness]]"
   - "[[The High Rollers Campaign]]"
@@ -50,7 +50,7 @@ Author: Jordan
 - He was plucked from his cradle by Lolth herself, and turned into a draegloth thousands of years ago
 - Until recently he resided in Demonweb layer of the abyss with his goddess Lolth
 - Lolth only breaks him out for special occasions, lending his services to drow on worlds where she wants a favor
-- Summoned by a group of Vlorn inquisitor initiates during the events of [[Vlorngroth - The Manor of Madness|Vlorngroth - The Manor of Madness]].
+- Summoned by a group of Vlorn inquisitor initiates during the events of [[Vlorngroth - The Manor of Madness]].
 - He has a spiritual shard of [[Tharizdun, the Chained Oblivion]] contained within him, which is what gives him all his powers
 
 # Attributes

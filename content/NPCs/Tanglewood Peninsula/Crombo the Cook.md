@@ -44,12 +44,12 @@ Author: Jordan
 
 # Overview
 
-## [[The High Rollers Campaign|The High Rollers Campaign]]
+## [[The High Rollers Campaign]]
 
 - Carefree dragonborn bard who wants to be an adventurer, unfortunately he is also the full time head chef at The Soggy Bottom and his work schedule is insane.
 - He goes by "The Unchained" after he was rescued from being kidnapped by kobolds.
 
-## [[The Hunt for Pill'Grim|The Hunt for Pill'Grim]]
+## [[The Hunt for Pill'Grim]]
 
 - He was attempting to create an adventuring party with [[Bondoon Jr.]]
 - His new party was at the adventurer tryouts for the teleporter adventure.

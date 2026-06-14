@@ -7,7 +7,7 @@ Age: "16"
 Ancestry: Human
 Gender: Female
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Freshman

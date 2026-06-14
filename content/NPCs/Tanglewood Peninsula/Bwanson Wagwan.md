@@ -13,7 +13,7 @@ Role:
   - Druid
   - Merchant
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Kindlethicket - Envoys of Mitlin]]"

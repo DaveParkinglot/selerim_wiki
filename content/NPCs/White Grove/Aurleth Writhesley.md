@@ -8,7 +8,7 @@ Ancestry:
   - Elf
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Sophomore
@@ -47,7 +47,7 @@ Author: Jordan
 
 # Overview
 
-- A hoity toity elf from [[Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[Places/White Grove]].
+- A hoity toity elf from [[Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[White Grove]].
 - He is in the Arcane College.
 - The new magic shop "Jack of Owl Trades" run by [[Bwanson Wagwan]] has cut in on his family's business in [[Mitlin]], Writhesley Family Wizardry. As the heir to the family business, Aurleth wants to get training on things like Arcane Intelligence so he can compete.
 

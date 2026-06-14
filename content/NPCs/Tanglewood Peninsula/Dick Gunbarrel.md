@@ -46,8 +46,8 @@ Author: Jordan
 
 # Overview
 
-- Xenophobic half-giant paladin of Tyr, and [[Bancil Nobeltrim|Bancil Nobeltrim]]'s childhood savior.
-- He mustered a militia force to support [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] during The Battle of Crillville, and he summarily executed the terrorist [[Malmstein the Tangler]] after the battle was won.
+- Xenophobic half-giant paladin of Tyr, and [[Bancil Nobeltrim]]'s childhood savior.
+- He mustered a militia force to support [[The High Rollers]] during The Battle of Crillville, and he summarily executed the terrorist [[Malmstein the Tangler]] after the battle was won.
 
 # Attributes
 

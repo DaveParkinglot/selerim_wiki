@@ -16,7 +16,7 @@ Role:
   - Former Spymaster
 Affiliation:
   - "[[Esposito Family]]"
-  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -56,11 +56,11 @@ Author: Jordan
   - "Nino" was the fourth son of the Esposito family, and never had a thought of becoming a leader within the family
   - He is last member of his family, and he has the Fanto-Domingos to thank for everything
 
-## [[The High Rollers Campaign|The High Rollers Campaign]]
+## [[The High Rollers Campaign]]
 
 - He still held some sway, and had been working as a Tiialan spymaster out of his family's vineyard, supporting the [[Landucci Family]] and the [[Adonzio Family]].
 - Despite this, [[Lord Draco Landucci]] schemed to undermine his authority, planning to give ownership of the Esposito Vineyard to [[Trilbee Rampo]].
-- [[Player Characters/The High Rollers/The High Rollers|The High Rollers]], while adventuring in [[The Forsaken Expanse]], intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
+- [[The High Rollers]], while adventuring in [[The Forsaken Expanse]], intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
 - After some time working with The High Rollers, Nino discovered his true ancestry, overthrew the tyrant [[Lord Draco Landucci]], and rightfully took the crown of [[Tiialia]] for himself.
 
 # Attributes

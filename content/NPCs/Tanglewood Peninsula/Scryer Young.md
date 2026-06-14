@@ -18,7 +18,7 @@ Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Kindlethicket - Envoys of Mitlin]]"
   - "[[The Marrowsucker Contract]]"
-  - "[[Adventures/Lighting the Lighthouse]]"
+  - "[[Lighting the Lighthouse]]"
 Status: Alive
 Author: Jordan
 ---

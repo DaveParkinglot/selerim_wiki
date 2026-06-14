@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2025-11-03T18:37:06.000-05:00
-modified: 2026-02-18T14:45:34.830-05:00
-published: 2026-02-18T14:45:34.830-05:00
+modified: 2026-06-14T10:55:31.193-04:00
+published: 2026-06-14T10:55:31.193-04:00
 DM: Mike Doom
 Platform: Foundry
 Sessions: 8
 Start Date: 2025-03-12
 End Date: 2025-07-02
-In-World Start Date:
-In-World End Date:
+In-World Start Date: 5050-01-01
+In-World End Date: 5050-04-28
 Setting: Selerim 5K
 Author: Mike Doom
 Players:
@@ -48,7 +48,7 @@ Classes:
 - **Platform:** Foundry
 - **Sessions:** 8
 - **Run Dates:** 2025-03-12 - 2025-07-02
-- **In-World Dates:**  -
+- **In-World Dates:** 5050-01-01T00:00:00.000-05:00 - 5050-04-28T00:00:00.000-04:00
 
 # Adventure Premise
 

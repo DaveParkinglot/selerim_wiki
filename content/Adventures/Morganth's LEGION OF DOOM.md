@@ -58,7 +58,7 @@ Classes:
 # Adventure Premise
 
 - Your brilliant leader, the wicked sorcerer [[Morganth|MORGANTH]], seeks the eldritch powers of a powerful yuan-ti warlock who perished in the fall of [[Corrodreth|CORRODRETH, THE SALTED CITY]].
-- As a devoted member of [[Factions/Morganth's Legion of Doom|MORGANTH'S LEGION OF DOOM]], you will aid your master even unto death.
+- As a devoted member of [[Morganth's LEGION OF DOOM|MORGANTH'S LEGION OF DOOM]], you will aid your master even unto death.
 - As such, you have agreed to infiltrate the accursed city and locate the warlock's tomb.
 
 # Outcomes

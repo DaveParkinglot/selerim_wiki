@@ -49,7 +49,7 @@ Author: Jordan
 - Though it is a kingdom ruled by a human these days, Geblorgurin helped to found the [[Tiialia|Kingdom of Tiialia]]
 - It is said that these monuments contain great artifacts of power, but the monuments are said to test those who enter them. Only the worthy may wield the artifacts Geblorgurin left behind.
 - Dwarves (especially those of Geblorgurin's time) are fiercely protective of their belongings in life, but in death they desire nothing more than to have their belongings used by worthy individuals
-- Geblorgurin was the first wielder of the powerful artifact the [[Worldbuilding/Items/Gem of Eyes|Gem of Eyes]]
+- Geblorgurin was the first wielder of the powerful artifact the [[Gem of Eyes]]
   - From the shell of a Marut that fell from sky, Geblorgurin pried the gem.
   - Of the dead Marut's shell, Geblorgurin did forge his armor and his kingdom.
 

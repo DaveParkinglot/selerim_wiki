@@ -10,7 +10,7 @@ Type:
   - Desolate Ruin
 Age (years): 1800
 Appearances:
-  - "[[Adventures/Morganth's LEGION OF DOOM|Morganth's LEGION OF DOOM]]"
+  - "[[Morganth's Legion of Doom|Morganth's LEGION OF DOOM]]"
 marker:
   - coordinates: 160, 180
     icon: game-icons:ancient-ruins
@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Government:** -
 >
-> **Appearances:** [[Adventures/Morganth's LEGION OF DOOM.md|Morganth's LEGION OF DOOM]]
+> **Appearances:** [[Factions/Morganth's Legion of Doom.md|Morganth's LEGION OF DOOM]]
 
 # Overview
 

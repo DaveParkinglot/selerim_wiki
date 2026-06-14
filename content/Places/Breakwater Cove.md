@@ -1,25 +1,29 @@
 ---
 publish: true
 created: 2025-10-17T09:49:06.000-04:00
-modified: 2026-06-14T08:45:25.228-04:00
-published: 2026-06-14T08:45:25.228-04:00
+modified: 2026-06-14T11:27:53.250-04:00
+published: 2026-06-14T11:27:53.250-04:00
 Author: Jordan
 Type:
   - Town
 Age (years): 160
-Population: 1300
+Population: 500
 Affiliation:
   - None
 Government:
+  - Breakwater Family
 Appearances:
+  - "[[The Hidden Hoard of Winchester Bone]]"
+  - "[[Sharky's Revenge]]"
+  - "[[Bootknife's Bounty]]"
 aliases:
 ---
 
 > [!infobox|right]
 >
-> ## Place Name
+> ## Breakwater Cove
 >
-> ![[Location.webp|500]]
+> ![[z_assets/Pasted image 20260614112708.png|500]]
 >
 > ## Details
 >
@@ -27,24 +31,25 @@ aliases:
 >
 > **Age:** 160
 >
-> **Population**: 1300
+> **Population**: 500
 >
 > **Affiliation**: None
 >
-> **Government:** -
+> **Government:** Breakwater Family
 >
-> **Appearances:** -
+> **Appearances:** [[Adventures/The Hidden Hoard of Winchester Bone.md|The Hidden Hoard of Winchester Bone]], [[Adventures/Sharky's Revenge.md|Sharky's Revenge]], [[Adventures/Bootknife's Bounty.md|Bootknife's Bounty]]
 
 # Overview
 
-A short paragraph or bulleted list describing the location. Could include its purpose, notable features, and general atmosphere.
+Small port town founded by the Breakwater family.
 
 # Attributes
 
 - **Appearance**: (Architecture, landscape, or vibe)
 - **Economy/Resources**: (What it produces, trades, or lacks)
 - **Dangers/Secrets**: (Rumors, threats, hidden lore)
-- **Points of Interest**: (Taverns, landmarks, shrines, ruins, etc.)
+- **Points of Interest**:
+  - Bone Tavern
 
 # Hooks
 

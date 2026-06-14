@@ -48,7 +48,7 @@ Author: Jordan
 
 - A storied demon, he is one of the only demon lords with good relations with Asmodeus, Lord of Hell.
 - Some legends say it was Pazuzu himself who corrupted Asmodeus. Other legends say they are just great drinking buddies.
-- He has a Fiend Feud with [[Baron Neffery]] after the events of  [[The Hellnight Soirée|The Hellnight Soirée]].
+- He has a Fiend Feud with [[Baron Neffery]] after the events of  [[The Hellnight Soirée]].
 
 # Attributes
 

@@ -7,7 +7,7 @@ Age: "22"
 Ancestry: Human
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Morganth Cultist
@@ -46,8 +46,8 @@ Author: Jordan
 
 # Overview
 
-- A pompous student who betrayed his friend [[Cristos Babblestaff]] and nearly killed him in the library while working as an agent of [[Factions/Morganth's Legion of Doom]].
-- Temur was posing as a student at [[Places/White Grove]], but he actually was only there to sabotage the school and steal information on [[Tzastis the Collector]] from the library.
+- A pompous student who betrayed his friend [[Cristos Babblestaff]] and nearly killed him in the library while working as an agent of [[Morganth's Legion of Doom]].
+- Temur was posing as a student at [[White Grove]], but he actually was only there to sabotage the school and steal information on [[Tzastis the Collector]] from the library.
 - After being caught and imprisoned, Temur claimed he was mind controlled by the dark powers of the treacherous Provost Serpentios.
 
 # Attributes

@@ -14,7 +14,7 @@ Role:
   - Bracketologist
   - Former Thief
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -37,7 +37,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]]
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
 >
 > **Role**: Chief Accountant, Bracketologist, Former Thief
 >
@@ -52,7 +52,7 @@ Author: Jordan
 ## [[The High Rollers Campaign]]
 
 - "Nothing better than a crisp glass of pink lemonade in the morning". Everyone's favorite 35 year old kid.
-- Hoary was brought into [[Beezlebop]]'s hidden manor after [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] convinced him that hanging out in his mom's basement was less cool than adventuring.
+- Hoary was brought into [[Beezlebop]]'s hidden manor after [[The High Rollers]] convinced him that hanging out in his mom's basement was less cool than adventuring.
 - Hoary lost his right eye after being kidnapped by kobolds.
 - Hoary departed his mom's basement in [[Crabbley]] and journeyed with The High Rollers and [[Captain Chorn Chinfer]] to [[Scrimshaw City]]. There, he hoped to begin working for [[Tavernstool]] because he was a huge fan of [[Lord Davos Portnoir]].
   **Downtime after Tiialia arc**:

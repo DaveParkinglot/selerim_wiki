@@ -13,7 +13,7 @@ Role:
   - Former Adventurer
   - Family Guy
 Affiliation:
-  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -49,10 +49,10 @@ Author: Jordan
 - Bancil was taken into the temple of Tyr as a child when his savior, [[Dick Gunbarrel]] rescued him from a goblin attack on his village.
 - He was raised on tales of the xenophobic folk hero Mogul Taybuck, who punished immigrants and had 13 children.
 
-## **[[The High Rollers Campaign|The High Rollers Campaign]]**
+## **[[The High Rollers Campaign]]**
 
 - A paladin of the god of justice, Tyr. Bancil hails from [[Crillville]].
-- Bancil adventured with [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] for a long while after besting [[Tadeusz]] in a duel to prove his worth.
+- Bancil adventured with [[The High Rollers]] for a long while after besting [[Tadeusz]] in a duel to prove his worth.
 - Bancil, along with the other High Rollers, performed both great and terrible deeds while adventuring.
 - After the adventuring party deposed [[Lord Davos Portnoir]], Bancil travelled with his family [[Nova Jersaeria]] to spread justice and the word of Tyr.
 

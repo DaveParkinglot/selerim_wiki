@@ -10,7 +10,7 @@ Age: ??
 Ancestry: Human
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Professor of Infernal Magicks
 Affiliation:

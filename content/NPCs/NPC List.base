@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.folder.contains("NPCs")
+    - '!file.name.endsWith("base")'
+properties:
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: NPC Table
+    order:
+      - file.name
+      - Location
+      - Appearances
+      - Role
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Location
+        direction: ASC

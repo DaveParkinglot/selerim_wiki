@@ -37,7 +37,7 @@ aliases:
 >
 > **Gender**: Male
 >
-> **Location**: [[Places/Borfield.md|Borfield]], [[Places/Scrimshaw City/Scrimshaw City.md|Scrimshaw City]], Varies
+> **Location**: [[Places/Borfield.md|Borfield]], [[Places/Scrimshaw City.md|Scrimshaw City]], Varies
 >
 > **Role**: Professional Comedian, Older Cousin
 >

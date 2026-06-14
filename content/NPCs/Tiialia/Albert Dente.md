@@ -13,7 +13,7 @@ Role:
   - Butler
 Affiliation:
   - "[[Esposito Family]]"
-  - "[[Player Characters/The High Rollers/The High Rollers|The High Rollers]]"
+  - "[[The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive

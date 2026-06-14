@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-12T09:23:41.122-04:00
-published: 2026-05-12T09:23:41.122-04:00
+modified: 2026-06-14T10:17:34.469-04:00
+published: 2026-06-14T10:17:34.469-04:00
 Age: "24"
 Ancestry: Orc
 Gender: Male
 Location:
-  - "[[Places/White Grove]]"
+  - "[[White Grove]]"
 Role:
   - Student
   - Super Senior
@@ -48,9 +48,9 @@ Author: Jordan
 
 ## [[White Grove - First Semester|The White Grove- First Semester]]
 
-- A studious and sometimes douchey orc studying at [[Places/White Grove]].
+- A studious and sometimes douchey orc studying at [[White Grove]].
 - He was the first orc student admitted to The White Grove several years ago. He is a senior but he struggles in many of his classes.
-- He was betrayed by [[Temur Octagon]] when Temur, who turned out to be working with [[Factions/Morganth's Legion of Doom]], tried to steal information on [[Tzastis the Collector]] from The White Grove library.
+- He was betrayed by [[Temur Octagon]] when Temur, who turned out to be working with [[Morganth's Legion of Doom]], tried to steal information on [[Tzastis the Collector]] from The White Grove library.
 
 ## [[White Grove - Summer Vacation|The White Grove - Summer Vacation]]
 

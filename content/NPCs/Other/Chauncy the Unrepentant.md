@@ -62,15 +62,15 @@ Author: Jordan
 
 Formerly a decorated war hero of [[Tiialia]], brave Sir Chauncy has fallen far after his betrayal of [[The High Rollers]] and [[Antonino Esposito|King Esposito]]. After his death, he became a Hellknight and eventually was imprisoned in Carceri. In [[Tiialia]], the name Chauncy is now synonymous with betrayal of ones friends. Using it will get you cast out of taverns and spit upon by the commonfolk.
 
-## [[Dunland's Raiders|Dunland's Raiders]]
+## [[Dunland's Raiders]]
 
-- As a brave knight of [[Tiialia]], Chauncy became a war hero after he and [[Dunland's Raiders|Dunland's Raiders]] defeated the forces of [[Morganth]] and saved [[Tiialia]] from a demonic invasion.
+- As a brave knight of [[Tiialia]], Chauncy became a war hero after he and [[Dunland's Raiders]] defeated the forces of [[Morganth]] and saved [[Tiialia]] from a demonic invasion.
 
-## [[The High Rollers Campaign|The High Rollers Campaign]]
+## [[The High Rollers Campaign]]
 
-- Chauncy put in his lot with the [[Landucci Family]] and betrayed [[Player Characters/The High Rollers/The High Rollers|The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Otieno]].
+- Chauncy put in his lot with the [[Landucci Family]] and betrayed [[The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Otieno]].
 
-## [[The Hellnight Soirée|The Hellnight Soirée]]
+## [[The Hellnight Soirée]]
 
 - After his death, he battled on the fiery plains of Avernus for a time before he somehow made his way to the Prison Plane of Carceri, where he now works to earn his freedom from a powerful Soul Dealer.
 - He attempted to barge into [[The Hellnight Soirée|Hellnight Soirée]], but was soundly defeated and sent back to the Lower Planes by a group of brave bouncers.

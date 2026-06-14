@@ -45,13 +45,13 @@ Author: Jordan
 
 # Overview
 
-## [[The High Rollers Campaign|The High Rollers Campaign]]
+## [[The High Rollers Campaign]]
 
 - As an ally of [[Malmstein the Tangler]], he helped create freakishly mutated monsters in his huge spooky mansion.
 - [[Sleeto Van Coof]] inadvertently foiled his operations when he attempted to rob the mansion, but most of his party was turned to slag in Beezlebop's slagma traps.
-- [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] encountered a Living Portrait of Beezlebop himself when they helped Sleeto and young [[Hoary Boulder]] finish the heist of the mansion, though the actual Beezlebop was nowhere to be found...
+- [[The High Rollers]] encountered a Living Portrait of Beezlebop himself when they helped Sleeto and young [[Hoary Boulder]] finish the heist of the mansion, though the actual Beezlebop was nowhere to be found...
 
-## [[The Crimsonclaw Bounty|The Crimsonclaw Bounty]]
+## [[The Crimsonclaw Bounty]]
 
 - Beezlebop appeared to be active again, as he created the mutant manticore "Old Crimsonclaw".
 
