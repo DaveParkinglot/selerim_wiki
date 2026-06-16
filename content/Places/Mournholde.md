@@ -2,8 +2,10 @@
 publish: true
 title: Mournholde, City of the Dead
 created: 2023-09-20T14:56:26.000-04:00
-modified: 2026-04-21T08:36:21.248-04:00
-published: 2026-04-21T08:36:21.248-04:00
+modified: 2026-06-16T09:04:14.854-04:00
+published: 2026-06-16T09:04:14.854-04:00
+tags:
+  - Settlement
 Type:
   - City of the Dead
   - Free City

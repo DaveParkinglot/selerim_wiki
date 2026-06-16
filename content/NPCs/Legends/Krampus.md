@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Winter Huntsman
 created: 2025-12-09T19:17:17.000-05:00
-modified: 2026-04-21T10:51:51.933-04:00
-published: 2026-04-21T10:51:51.933-04:00
+modified: 2026-06-15T09:42:38.816-04:00
+published: 2026-06-15T09:42:38.816-04:00
 Age: "6500"
 Ancestry:
   - Archfey
@@ -20,6 +20,7 @@ Appearances:
   - "[[Kindlethicket - The Winter Hunt]]"
 Status: Alive
 Author: Jordan
+tags:
 ---
 
 > [!infobox|right]

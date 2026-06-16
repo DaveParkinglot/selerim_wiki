@@ -4,8 +4,11 @@ aliases:
   - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
-modified: 2026-06-14T10:37:47.683-04:00
-published: 2026-06-14T10:37:47.683-04:00
+modified: 2026-06-16T09:05:17.364-04:00
+published: 2026-06-16T09:05:17.364-04:00
+tags:
+  - Tanglewood-Peninsula
+  - Region
 Type:
   - Region
 Age (years): 264

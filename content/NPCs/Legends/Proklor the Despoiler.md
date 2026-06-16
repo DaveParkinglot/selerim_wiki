@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-14T10:05:37.693-04:00
-published: 2026-06-14T10:05:37.693-04:00
+modified: 2026-06-15T09:42:42.742-04:00
+published: 2026-06-15T09:42:42.742-04:00
 Age: ??
 Ancestry: Drow, Draegloth
 Gender: Male
@@ -18,6 +18,8 @@ Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
 Author: Jordan
+tags:
+aliases:
 ---
 
 > [!infobox|right]

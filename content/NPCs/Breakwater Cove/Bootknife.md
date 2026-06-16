@@ -1,13 +1,15 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T08:46:13.033-04:00
-published: 2026-04-21T08:46:13.033-04:00
+modified: 2026-06-15T09:11:46.597-04:00
+published: 2026-06-15T09:11:46.597-04:00
+tags:
+  - Breakwater-Cove
 Age: "37"
 Ancestry: Goblin
 Gender: Male
 Location:
-  - Breakwater Cove
+  - "[[Breakwater Cove]]"
   - Varies
 Role:
   - Roguish Fiend, Thief, Part-time Merchant
@@ -33,7 +35,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: Breakwater Cove, Varies
+> **Location**: [[Places/Breakwater Cove.md|Breakwater Cove]], Varies
 >
 > **Role**: Roguish Fiend, Thief, Part-time Merchant
 >

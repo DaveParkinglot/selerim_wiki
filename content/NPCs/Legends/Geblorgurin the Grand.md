@@ -2,8 +2,8 @@
 publish: true
 aliases: Geblorgurin
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T08:46:20.408-04:00
-published: 2026-04-21T08:46:20.408-04:00
+modified: 2026-06-15T09:42:36.596-04:00
+published: 2026-06-15T09:42:36.596-04:00
 Age: Deceased
 Ancestry: Dwarf
 Gender: Male
@@ -17,6 +17,7 @@ Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Deceased
 Author: Jordan
+tags:
 ---
 
 > [!infobox|right]

@@ -2,8 +2,10 @@
 publish: true
 title: Timberheim
 created: 2026-04-19T21:24:31.189-04:00
-modified: 2026-04-27T14:14:27.510-04:00
-published: 2026-04-27T14:14:27.510-04:00
+modified: 2026-06-16T09:04:36.786-04:00
+published: 2026-06-16T09:04:36.786-04:00
+tags:
+  - Settlement
 Type:
   - Village
 Age (years): 250

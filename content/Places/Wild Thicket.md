@@ -1,9 +1,18 @@
 ---
 publish: true
 created: 2023-09-26T09:14:17.000-04:00
-modified: 2026-04-19T22:09:43.510-04:00
-published: 2026-04-19T22:09:43.510-04:00
+modified: 2026-06-16T09:06:17.069-04:00
+published: 2026-06-16T09:06:17.069-04:00
 Author: Jordan
+Type:
+  - Region
+Age (years):
+Population:
+Affiliation:
+Government:
+Appearances:
+  - adventures it has appeared in
+aliases:
 ---
 
 - From [[Francis Greenstrider De Luca]]'s backstory.

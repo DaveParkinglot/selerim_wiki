@@ -4,13 +4,15 @@ aliases:
   - Captain Bone
   - Captain Winchester Bone
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-18T11:46:19.432-04:00
-published: 2026-05-18T11:46:19.432-04:00
+modified: 2026-06-15T09:11:56.564-04:00
+published: 2026-06-15T09:11:56.564-04:00
+tags:
+  - Breakwater-Cove
 Age: "66"
 Ancestry: Human
 Gender: Male
 Location:
-  - Breakwater Cove
+  - "[[Breakwater Cove]]"
 Role:
   - Bartender, Retired Captain
 Affiliation:
@@ -38,7 +40,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: Breakwater Cove
+> **Location**: [[Places/Breakwater Cove.md|Breakwater Cove]]
 >
 > **Role**: Bartender, Retired Captain
 >

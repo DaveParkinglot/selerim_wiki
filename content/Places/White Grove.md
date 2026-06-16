@@ -4,8 +4,10 @@ aliases:
   - White Grove Academy
 title: White Grove, Magic Academy
 created: 2023-09-02T09:45:40.000-04:00
-modified: 2026-04-29T09:44:01.392-04:00
-published: 2026-04-29T09:44:01.392-04:00
+modified: 2026-06-16T09:04:53.297-04:00
+published: 2026-06-16T09:04:53.297-04:00
+tags:
+  - Settlement
 Type:
   - Magical Academy
 Age (years): 180

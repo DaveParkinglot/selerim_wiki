@@ -3,8 +3,10 @@ publish: true
 aliases:
   - The Yuleshade
 created: 2025-12-09T19:13:43.000-05:00
-modified: 2026-04-21T08:36:41.937-04:00
-published: 2026-04-21T08:36:41.937-04:00
+modified: 2026-06-16T09:05:10.373-04:00
+published: 2026-06-16T09:05:10.373-04:00
+tags:
+  - Region
 Type:
   - Domain of Delight
 Age (years): 6200

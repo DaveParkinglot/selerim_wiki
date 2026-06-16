@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2025-07-25T11:17:12.000-04:00
-modified: 2026-04-21T08:46:16.594-04:00
-published: 2026-04-21T08:46:16.594-04:00
+modified: 2026-06-15T09:12:02.931-04:00
+published: 2026-06-15T09:12:02.931-04:00
+tags:
+  - Breakwater-Cove
 Age: "89"
 Ancestry:
   - Half-Elf
 Gender: Female
 Location:
-  - Breakwater Cove
+  - "[[Breakwater Cove]]"
 Role:
   - Master Gunner
 Affiliation:
@@ -33,7 +35,7 @@ Author: Jordan
 >
 > **Gender**: Female
 >
-> **Location**: Breakwater Cove
+> **Location**: [[Places/Breakwater Cove.md|Breakwater Cove]]
 >
 > **Role**: Master Gunner
 >

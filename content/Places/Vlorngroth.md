@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2025-10-03T09:55:09.000-04:00
-modified: 2026-04-21T08:36:35.168-04:00
-published: 2026-04-21T08:36:35.168-04:00
+modified: 2026-06-16T09:04:40.812-04:00
+published: 2026-06-16T09:04:40.812-04:00
+tags:
+  - Settlement
 Type:
   - Capital City
 Age (years): 1250

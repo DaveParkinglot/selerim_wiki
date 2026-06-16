@@ -2,8 +2,11 @@
 publish: true
 title: Crillville, Harbor Town
 created: 2025-10-09T14:45:41.000-04:00
-modified: 2026-04-21T08:35:55.679-04:00
-published: 2026-04-21T08:35:55.679-04:00
+modified: 2026-06-16T09:03:40.842-04:00
+published: 2026-06-16T09:03:40.842-04:00
+tags:
+  - Tanglewood-Peninsula
+  - Settlement
 Type:
   - Town
 Age (years): 80

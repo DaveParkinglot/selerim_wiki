@@ -2,8 +2,10 @@
 publish: true
 title: Wyrmrest Keep
 created: 2026-04-19T21:04:15.006-04:00
-modified: 2026-04-27T14:11:14.148-04:00
-published: 2026-04-27T14:11:14.148-04:00
+modified: 2026-06-16T09:05:02.344-04:00
+published: 2026-06-16T09:05:02.344-04:00
+tags:
+  - Settlement
 Type:
   - Castle
 Age (years): 300

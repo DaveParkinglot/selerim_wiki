@@ -5,8 +5,8 @@ aliases:
   - The Afterking
   - Afterking
 created: 2025-10-17T09:50:27.000-04:00
-modified: 2026-04-21T08:46:18.357-04:00
-published: 2026-04-21T08:46:18.357-04:00
+modified: 2026-06-15T09:44:08.212-04:00
+published: 2026-06-15T09:44:08.212-04:00
 Status: Alive
 Author: Jordan
 Age: "165"
@@ -21,6 +21,7 @@ Affiliation:
   - None
 Appearances:
   - "[[The Mournholde Incident]]"
+tags:
 ---
 
 > [!infobox|right]

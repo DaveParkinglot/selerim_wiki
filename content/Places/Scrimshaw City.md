@@ -5,8 +5,10 @@ aliases:
   - Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T12:30:40.000-04:00
-modified: 2026-06-14T09:38:07.193-04:00
-published: 2026-06-14T09:38:07.193-04:00
+modified: 2026-06-16T09:04:26.349-04:00
+published: 2026-06-16T09:04:26.349-04:00
+tags:
+  - Settlement
 Type:
   - Free City
 Age (years): 450
