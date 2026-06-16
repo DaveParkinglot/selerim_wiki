@@ -7,7 +7,7 @@
 # Introductory Notes
 
 - This is meant to be a list of suggestions to help you create your very own D\&D adventure.
-- Each section will provide examples from an adventure I already ran ([[The Crimsonclaw Bounty|The Crimsonclaw Bounty]]), and also may include a subsection of pointers for DMing in Foundry VTT.
+- Each section will provide examples from an adventure I already ran ([[The Crimsonclaw Bounty]]), and also may include a subsection of pointers for DMing in Foundry VTT.
 - Each section has a recommendation on how much time you should spend on it. I recommend sessions last no more than 3 hours, and you should also keep room for two 5 minute breaks.
 - For your adventure, you might want to swap some of these parts around—your adventure doesn’t need to be ordered the same way that my framework is.
 - This is NOT a Foundry VTT tutorial, you’ll have to get that from [somewhere else](https://foundryvtt.com/article/tutorial/).
@@ -109,7 +109,7 @@ I like to put in one encounter that the characters can bypass or expedite with e
 
 While this ISN’T a guide on how to create fun & balanced encounters, here are a few resources that can help you with encounter building:
 
-- Read the Dungeon Master’s Guide (DMG). You don't need to read the whole thing, but it absolutely will make you a better DM. Free Online DMG: <https://5e.tools/book.html#xdmg>
+- Read the Dungeon Master’s Guide (DMG). You don't need to read the whole thing, but it absolutely will make you a better DM. Free Online DMG: https://5e.tools/book.html#xdmg
 - Free online encounter builder: <https://redcap.press/encounters>
 
 ---
@@ -156,7 +156,7 @@ The final encounter of your adventure should almost always resolve as a combat e
 
 - Curating loot for the party or creating your own items can be fun and rewarding. But if you’d rather leave it to chance, I have created tons of random loot items in Foundry.
 - In Foundry, find these random loot roll items here: Items > Loot Rolls
-- Just don’t be the guy who gives a Legendary item to a level 3 party. Consult the [Magic Items section of the DMG](https://5e.tools/book.html#xdmg,6,magic%20items) if you want guidelines on loot distribution.
+- Just don’t be the guy who gives a Legendary item to a level 3 party. Consult the [Magic Items](https://5e.tools/book.html#xdmg,6,magic%20items) section of the DMG if you want guidelines on loot distribution.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-06-14T12:34:27.007-04:00
-published: 2026-06-14T12:34:27.007-04:00
+modified: 2026-06-16T11:23:21.111-04:00
+published: 2026-06-16T11:23:21.111-04:00
 socialImage: selerim_planet_view.png
 Author: Jordan
 image: selerim_planet_view.png
@@ -30,7 +30,7 @@ The [[Inhabitable Lands]], named by [The Seldarine](https://5e.tools/tables.html
 
 # Peoples
 
-The diversity seen amongst the peoples of the [[Inhabitable Lands]] is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of https://5e.tools/tables.html#drow deities (the dark seldarine empire. In the towns, villages, and cities of Selerim, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Vlorngroth]] are openly hostile to surface dwellers, while the drow living on the surface skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
+The diversity seen amongst the peoples of the [[Inhabitable Lands]] is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of [The Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20\(the%20dark%20seldarine\)_mtf) empire. In the towns, villages, and cities of Selerim, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Vlorngroth]] are openly hostile to surface dwellers, while the drow living on the surface skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
 
 # Technology
 
@@ -60,4 +60,4 @@ Selerim follows the [[great_wheel_cosmology.png|Great Wheel cosmology configurat
 # Further Reading
 
 - [[Selerim Timeline]]
-- [[Adventure Log]]
+- [[Adventure Log.base|Adventure Log]]
