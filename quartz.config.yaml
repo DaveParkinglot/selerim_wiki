@@ -279,10 +279,10 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: false
+    enabled: true
     order: 50
     options:
-      theme: its-theme.drowned
+      theme: reverie
   - source: https://github.com/DreamCutter28/quartz-image-zoom
     enabled: true
     order: 50
