@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:00.000-04:00
-modified: 2026-05-12T09:23:41.147-04:00
-published: 2026-05-12T09:23:41.147-04:00
+modified: 2026-06-18T09:08:36.764-04:00
+published: 2026-06-18T09:08:36.764-04:00
 Age: "22"
 Ancestry: Human
 Gender: Male
@@ -46,7 +46,7 @@ Author: Jordan
 
 # Overview
 
-- A pompous student who betrayed his friend [[Cristos Babblestaff]] and nearly killed him in the library while working as an agent of [[Morganth's Legion of Doom]].
+- A pompous student who betrayed his friend [[Cristos Babblestaff]] and nearly killed him in the library while working as an agent of [[Legion of Doom]].
 - Temur was posing as a student at [[White Grove]], but he actually was only there to sabotage the school and steal information on [[Tzastis the Collector]] from the library.
 - After being caught and imprisoned, Temur claimed he was mind controlled by the dark powers of the treacherous Provost Serpentios.
 
