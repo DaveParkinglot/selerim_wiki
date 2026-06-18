@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-14T09:04:11.119-04:00
-published: 2026-06-14T09:04:11.119-04:00
+modified: 2026-06-18T15:37:04.121-04:00
+published: 2026-06-18T15:37:04.121-04:00
 Age: "35"
 Ancestry:
   - Human
@@ -58,7 +58,7 @@ Author: Jordan
   **Downtime after Tiialia arc**:
 - Created all the tournament brackets for Hugh Mann’s Midwinter Invitational at The Pit, and also taught a course on Bracketology at Scrimshaw Area Community College.
 - Unwittingly exchanged the only copy of [[Arby's Sauce]] and 18 years of his life to the mad fey Fumbo Bimpis, making him 17 again. Arby's secret recipe has not been recovered, and Loeb is unsure how Scrimshaw’s child labor laws apply to Hoary now.
-- Helped Loeb and Arby salvage Tavernstool memorabilia from Lord Davos Portnoir’s ransacked mansion, then sold it to Arno Rickshir to keep The Spicy Meatball afloat.
+- Helped Loeb and Arby salvage Tavernstool memorabilia from Lord Davos Portnoir’s ransacked mansion, then sold it to Arno Rickshir to keep [[The Spicy Meatball]] afloat.
 
 ## [[Bobby's Bachelor Birthday Bender]]
 

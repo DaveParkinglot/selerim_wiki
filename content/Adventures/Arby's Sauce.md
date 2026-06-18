@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-06-15T09:10:27.070-04:00
-published: 2026-06-15T09:10:27.070-04:00
+modified: 2026-06-18T15:37:38.779-04:00
+published: 2026-06-18T15:37:38.779-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -60,7 +60,7 @@ Classes:
 
 # Adventure Premise
 
-- As an up and coming adventuring party in [[Scrimshaw City]], you have been approached by a mysterious stranger named [[Loeb]] who claims to be the Interim Chief Operating Officer of a well known business in the city. He has a task that, left undone, could spell doom for the local [[Tiialia|Tiialan]] eatery “The Spicy Meatball”.
+- As an up and coming adventuring party in [[Scrimshaw City]], you have been approached by a mysterious stranger named [[Loeb]] who claims to be the Interim Chief Operating Officer of a well known business in the city. He has a task that, left undone, could spell doom for the local [[Tiialia|Tiialan]] eatery “[[The Spicy Meatball]]”.
 
 # Outcomes
 

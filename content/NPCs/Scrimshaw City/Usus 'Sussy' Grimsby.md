@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-06-14T10:47:18.306-04:00
-published: 2026-06-14T10:47:18.306-04:00
+modified: 2026-06-18T15:35:50.127-04:00
+published: 2026-06-18T15:35:50.127-04:00
 Age: "97"
 Ancestry:
   - Dwarf
@@ -48,7 +48,7 @@ Author: Jordan
 # Overview
 
 - Once a gladiator school owner, Usus became like a father to [[Otieno]] before Otieno's adventuring career took off. Unfortunately, he lost all his money betting on Otieno and disowned him... a very reasonable choice.
-- He also was the former manager of The Pit before [[Lord Davos Portnoir]] took over. After this, Usus lost his job for a time. He eventually came begging back to Otieno for a job and started working at [[Spicy Meatball]].
+- He also was the former manager of The Pit before [[Lord Davos Portnoir]] took over. After this, Usus lost his job for a time. He eventually came begging back to Otieno for a job and started working at [[The Spicy Meatball]].
 - Few people know this, but a young Usus tried to become a blood hunter at [[Forsyth Keep]], but he failed out.
 
 # Attributes

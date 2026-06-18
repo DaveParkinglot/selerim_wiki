@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-06-18T15:28:54.465-04:00
-published: 2026-06-18T15:28:54.465-04:00
+modified: 2026-06-18T15:35:50.101-04:00
+published: 2026-06-18T15:35:50.101-04:00
 Age: "32"
 Ancestry:
   - Human
@@ -48,7 +48,7 @@ Author: Jordan
 
 - A journalist who is always on the lookout for a scoop.
 - He used his journalistic genius and investigative skills to corner Lord Portnoir on the newspaper page, and aided [[The High Rollers]] in deposing Portnoir.
-- Now, he can often be found hanging around [[Spicy Meatball]].
+- Now, he can often be found hanging around [[The Spicy Meatball]].
 
 # Attributes
 
