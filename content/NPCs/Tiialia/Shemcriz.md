@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-06-14T10:38:36.379-04:00
-published: 2026-06-14T10:38:36.379-04:00
+modified: 2026-06-18T15:26:56.915-04:00
+published: 2026-06-18T15:26:56.915-04:00
 Age: "20"
 Ancestry: Kobold
 Gender: Male
