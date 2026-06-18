@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-02T19:01:27.000-04:00
-modified: 2026-06-16T12:01:46.586-04:00
-published: 2026-06-16T12:01:46.586-04:00
+modified: 2026-06-18T15:19:21.851-04:00
+published: 2026-06-18T15:19:21.851-04:00
 socialImage: "[[timeline_icon.png]]"
 Author: Jordan
 image: "[[timeline_icon.png]]"

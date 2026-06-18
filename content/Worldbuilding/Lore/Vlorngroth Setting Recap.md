@@ -1,9 +1,9 @@
-> Recap of all the happenings in [[Places/Vlorngroth]]. Each section header links to the respective adventure.
+> Recap of all the happenings in [[Vlorngroth]]. Each section header links to the respective adventure.
 
 ## [[Vlorngroth - The Manor of Madness|The Manor of Madness]]
 
 - Nearly 2 years ago, a group of inquisitors of the [[Vlorn Dynasty]] located a [[Blackfyre Orb]] in Duskveil Asylum (aka, the Manor of Madness), and used it to summon the wretched draegloth demigod [[Proklor the Despoiler]]
-- Proklor, this great draegloth of legend, has been seen rarely, if at all since he was summoned to [[Places/Vlorngroth]].
+- Proklor, this great draegloth of legend, has been seen rarely, if at all since he was summoned to [[Vlorngroth]].
 - Rumors abound about the nature of High Lord Kranicz's deal with Proklor.
   - Some say that the High Lord uses Proklor as a threat to those who would oppose him.
   - Others claim Proklor has broken his pact with the Vlorn Dynasty, and that he roams the deepest chambers of the Underdark as a feral shadow of his former self.
@@ -17,9 +17,9 @@
 - Notably, they also located a Surface Tunnel which led to a vineyard in the heartland of [[Nova Jersaeria]].
 - That foothold on the surface allowed a significant number of Inquisitors to infiltrate the local governments of [[Tiialia]], but all full-scale surface incursions proved unsuccessful due to Tiialia's military prowess.
 
-## [[The High Rollers Campaign|The High Rollers Campaign]]
+## [[The High Rollers Campaign]]
 
-- Incursions by Vlorn agents began to occur in [[Tiialia]] while [[Player Characters/The High Rollers/The High Rollers|The High Rollers]] were adventuring there.
+- Incursions by Vlorn agents began to occur in [[Tiialia]] while [[The High Rollers]] were adventuring there.
 - They thwarted the incursions, killing many scouts and even a draegloth, which held a decree from [[High Lord Jorad Kranicz]] about an impending Vlorn invasion of Tiialia.
 - A drow named [[Carbuckle Duskshot]] began hunting The High Rollers for the bounty on their heads, but ultimately became an ally of necessity after both the adventuring party and Carbuckle were caught up in [[Master Effree Jypstein]]'s undead invasion of [[Nova Jersaeria]].
 

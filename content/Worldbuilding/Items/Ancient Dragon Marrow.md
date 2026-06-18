@@ -4,12 +4,12 @@ aliases:
   - The Substance
   - ADM
 created: 2026-03-24T11:06:13.636-04:00
-modified: 2026-05-04T11:33:38.975-04:00
-published: 2026-05-04T11:33:38.975-04:00
+modified: 2026-06-18T15:22:15.624-04:00
+published: 2026-06-18T15:22:15.624-04:00
 ---
 
-> [!Quote|author mark] [[Jom'Dee the Desert Ferryman]] <br> to [[Player Characters/The High Rollers/The High Rollers|The High Rollers]]
-> _[[The Forsaken Expanse]] is littered with dragon bones that can wreck a sandskiff, but the marrow still contains the magics of those long-dead wyrms. <br> It's quite the kick, or so I've heard._
+> [!Quote|author mark no-title]
+> _[[The Forsaken Expanse]] is littered with dragon bones that can wreck a sandskiff, but the marrow still contains the magics of those long-dead wyrms. <br><br> It's quite the kick, or so I've heard._ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]] <br> to [[The High Rollers]] </span>
 
 ![[z_assets/ancient_dragon_marrow.png]]
 
