@@ -4,8 +4,8 @@ aliases:
   - White Grove Academy
 title: White Grove, Magic Academy
 created: 2023-09-02T09:45:40.000-04:00
-modified: 2026-06-16T09:04:53.297-04:00
-published: 2026-06-16T09:04:53.297-04:00
+modified: 2026-06-17T20:44:56.419-04:00
+published: 2026-06-17T20:44:56.419-04:00
 tags:
   - Settlement
 Type:
@@ -50,7 +50,7 @@ Author: Jordan
 # Overview
 
 - White Grove is perhaps the only reputable magic school in the world, located at a confluence of ley lines on a peninsula above the former holdings of [[Corrodreth]].
-- The school's campus is encircled by four great trees, which are said to represent the four fundamental pillars of magic—arcane, divine, primal, and infernal.
+- The school's campus is encircled by four [[Realm Trees]], which are said to represent the four fundamental pillars of magic—arcane, divine, primal, and infernal.
 - Though the college pre-dates [[Tiialia]], most of Tiialia's artillery mages, who famously laid waste to Corrodreth, were students of White Grove.
 - The Primal Tree has been withered since its magic was channeled to stave off an invasion from Corrodreth, during the [[Serpent Wars]].
 - During the Serpent Wars, the Grove was heavily co-opted by the Kingdom of Tiialia, in order to train its artillery mages. Since then it has been jokingly called TACC, or "Tiialan Arcane Cannon College"

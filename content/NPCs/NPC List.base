@@ -13,6 +13,7 @@ views:
       - Location
       - Appearances
       - Role
+      - tags
     sort:
       - property: file.name
         direction: ASC
