@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-16T21:13:04.000-04:00
-modified: 2026-06-14T09:05:58.721-04:00
-published: 2026-06-14T09:05:58.721-04:00
+modified: 2026-06-22T22:27:21.000-04:00
+published: 2026-06-22T22:27:21.000-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 4
@@ -87,9 +87,9 @@ Classes:
 
 ## Session 4
 
-- The Study Group researched lore and maps regarding The White Grove's [[Primal Tree]] and the surrounding Primal Marshlands to improve their chances of finding the final scavenger hunt item.
-- After concluding their study session, the students did some social shopping on The Quad, meeting both [[Aurleth Writhesley]] and [[Pedro Sancho]].
-- While on The Quad, they also saw that [[Temur Octagon]] was being held in a prison portrait for his past crimes against the school. He claimed he was innocent and that he had been framed, but his pleas fell on deaf ears as [[Daemon Darkfyre]] dragged him back to be hung on the wall.
+- The Study Group researched lore and maps regarding White Grove's [[Primal Tree]] and the surrounding Primal Marshlands to improve their chances of finding the final scavenger hunt item.
+- After concluding their study session, the students did some social shopping on the Quad, meeting both [[Aurleth Writhesley]] and [[Pedro Sancho]].
+- While on the Quad, they also saw that [[Temur Octagon]] was being held in a prison portrait for his past crimes against the school. He claimed he was innocent and that he had been framed, but his pleas fell on deaf ears as [[Daemon Darkfyre]] dragged him back to be hung on the wall.
 - The Study Group traversed the Primal Marshlands quite successfully, even receiving help from a giant ape named Bartumbus Vinecranker.
 - After Bartumbus left the students to their travels, they killed two sons of [[Scorpaxton]], the giant scorpion mascot of the [[Primal School]].
 - Finally reaching the branches of the withered Primal Tree, the students made friends with yet another giant ape named Dirt Mud, by tending to his razorvine wounds with their healing spells and potions.
