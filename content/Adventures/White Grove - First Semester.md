@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-07-27T17:44:31.000-04:00
-modified: 2026-05-12T09:23:41.041-04:00
-published: 2026-05-12T09:23:41.041-04:00
+modified: 2026-06-26T09:48:11.794-04:00
+published: 2026-06-26T09:48:11.794-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
 Start Date: 2025-07-10
-In-World Start Date: 265-04-22
-In-World End Date: 265-04-27
+In-World Start Date: 265-01-22
+In-World End Date: 265-01-27
 Setting: Selerim
 Author: Jordan
 Players:
@@ -48,7 +48,7 @@ Classes:
 >
 > **Run Dates**: 2025-07-10
 >
-> **In-World Dates**: 265-04-22
+> **In-World Dates**: 265-01-22
 
 # Adventure Premise
 
@@ -61,7 +61,7 @@ Classes:
 
 - After surviving a sabotaged magical staircase that flung them into multiple dimensions, the students began a legendary cram session to prepare for their Intro to Infernal Exam.
 - During this cram session, they collaborated with their fellow students to improve their chances at passing the exam. Some students became fast friends, while others became bitter enemies.
-- Deep into their all-nighter, the students were interrupted by cultists from [[Morganth's LEGION OF DOOM|Morganth's Legion of Doom]], led by the senior [[Temur Octagon]]. They were searching the library for information about [[Tzastis the Collector]].
+- Deep into their all-nighter, the students were interrupted by cultists from the [[Legion of Doom]], led by the senior [[Temur Octagon]]. They were searching the library for information about [[Tzastis the Collector]].
 - The heroic students dispatched several [[Morganth]] cultists, and showed much restraint when delivering a non-lethal knockout blow to the traitorous Temur.
 - The students passed the exam, except for Tony Gorgonzoli. He failed big time and will need to take Remedial Infernal.
 - Headmaster [[Arctur Execlostrabaum]] congratulated the students and handed out rewards to them, though he was unwilling to alter Tony's grade due to his academic honesty policy.
