@@ -1,3 +1,11 @@
+---
+publish: true
+created: 2025-12-24T09:31:17.330-05:00
+modified: 2026-06-28T09:59:38.363-04:00
+published: 2026-06-28T09:59:38.363-04:00
+Author: Jordan
+---
+
 > _The eye in the gem seems to wander, but never when observed._
 
 ![[z_assets/gem_of_eyes.png|300]]

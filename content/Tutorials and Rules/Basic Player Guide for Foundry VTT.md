@@ -1,3 +1,11 @@
+---
+publish: true
+created: 2026-01-22T08:24:00.000-05:00
+modified: 2026-06-28T10:00:13.432-04:00
+published: 2026-06-28T10:00:13.432-04:00
+Author: Jordan
+---
+
 # Playing Bingus for Dummies or: How I Learned to Stop Whining and Love Foundry VTT
 
 - This guide will help you navigate playing D\&D in Foundry VTT, and it is geared towards new players. Experienced players may still benefit from reading through this.

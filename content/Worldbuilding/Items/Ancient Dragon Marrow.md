@@ -4,8 +4,9 @@ aliases:
   - The Substance
   - ADM
 created: 2026-03-24T11:06:13.636-04:00
-modified: 2026-06-18T15:22:15.624-04:00
-published: 2026-06-18T15:22:15.624-04:00
+modified: 2026-06-28T09:59:49.762-04:00
+published: 2026-06-28T09:59:49.762-04:00
+Author: Jordan
 ---
 
 > [!Quote|author mark no-title]

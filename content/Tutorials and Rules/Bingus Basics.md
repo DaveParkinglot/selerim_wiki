@@ -1,3 +1,11 @@
+---
+publish: true
+created: 2026-01-16T09:57:54.000-05:00
+modified: 2026-06-28T10:00:18.606-04:00
+published: 2026-06-28T10:00:18.606-04:00
+Author: Jordan
+---
+
 - This guide describes an optimal combat turn with Bingus the dwarf barbarian.
 - In D\&D you get to do each of these 3 things on your turn: **Movement, Action, and Bonus Action.**
   - You can do these in any order, and you can split up your Movement as well (e.g., Move 15 ft. → Action → Move 15 ft. → Bonus Action)

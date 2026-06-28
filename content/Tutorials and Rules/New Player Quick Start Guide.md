@@ -1,3 +1,11 @@
+---
+publish: true
+created: 2026-05-06T11:52:45.000-04:00
+modified: 2026-06-28T10:00:28.790-04:00
+published: 2026-06-28T10:00:28.790-04:00
+Author: Jordan
+---
+
 ## Rhythm of Play
 
 Every game of D\&D is different, but every game of D\&D follows this basic loop:
