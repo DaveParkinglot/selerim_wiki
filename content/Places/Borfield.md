@@ -2,8 +2,8 @@
 publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T16:13:07.000-05:00
-modified: 2026-06-16T09:03:10.516-04:00
-published: 2026-06-16T09:03:10.516-04:00
+modified: 2026-06-28T16:34:26.455-04:00
+published: 2026-06-28T16:34:26.455-04:00
 tags:
   - Settlement
 Type:

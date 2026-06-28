@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-12T22:16:38.120-04:00
-modified: 2026-06-14T09:15:00.703-04:00
-published: 2026-06-14T09:15:00.703-04:00
+modified: 2026-06-28T10:18:47.300-04:00
+published: 2026-06-28T10:18:47.300-04:00
 Type:
   - Megalopolis
 Age (years): 5450
@@ -19,7 +19,7 @@ aliases:
 >
 > ## Scrimshawpolis
 >
-> ![[z_assets/Pasted image 20260614090920.png|500]]
+> ![[z_assets/scrimshawpolis.png|500]]
 >
 > ## Details
 >

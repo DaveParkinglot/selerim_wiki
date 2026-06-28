@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-17T09:49:06.000-04:00
-modified: 2026-06-16T09:03:16.964-04:00
-published: 2026-06-16T09:03:16.964-04:00
+modified: 2026-06-28T16:34:24.808-04:00
+published: 2026-06-28T16:34:24.808-04:00
 tags:
   - Settlement
 Author: Jordan
@@ -25,7 +25,7 @@ aliases:
 >
 > ## Breakwater Cove
 >
-> ![[z_assets/Pasted image 20260614112708.png|500]]
+> ![[z_assets/breakwater_cove.png|500]]
 >
 > ## Details
 >

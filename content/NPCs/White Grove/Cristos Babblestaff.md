@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-06-18T09:08:36.758-04:00
-published: 2026-06-18T09:08:36.758-04:00
+modified: 2026-06-28T11:51:21.165-04:00
+published: 2026-06-28T11:51:21.165-04:00
 Age: "24"
 Ancestry: Orc
 Gender: Male
@@ -46,13 +46,13 @@ Author: Jordan
 
 # Overview
 
-## [[White Grove - First Semester|The White Grove- First Semester]]
+## [[White Grove - First Semester]]
 
 - A studious and sometimes douchey orc studying at [[White Grove]].
 - He was the first orc student admitted to The White Grove several years ago. He is a senior but he struggles in many of his classes.
 - He was betrayed by [[Temur Octagon]] when Temur, who turned out to be working with [[Legion of Doom]], tried to steal information on [[Tzastis the Collector]] from The White Grove library.
 
-## [[White Grove - Summer Vacation|The White Grove - Summer Vacation]]
+## [[White Grove - Summer Vacation]]
 
 - Cristos, nervous that he might not graduate next semester, needed the extra credit points from the scavenger hunt.
 - He helped the party deal with some flying snakes, but quickly became nervous about the ancient Corrodrethian temple and fled into the woods.

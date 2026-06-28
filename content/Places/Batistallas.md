@@ -2,8 +2,8 @@
 publish: true
 title: Batistallas
 created: 2026-04-30T10:04:28.649-04:00
-modified: 2026-06-16T09:03:01.494-04:00
-published: 2026-06-16T09:03:01.494-04:00
+modified: 2026-06-28T16:34:29.308-04:00
+published: 2026-06-28T16:34:29.308-04:00
 tags:
   - Settlement
   - Kingdom-of-Tiialia
