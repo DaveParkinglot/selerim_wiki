@@ -2,23 +2,23 @@
 publish: true
 title: Welcome to Selerim
 created: 2026-04-21T09:58:34.000-04:00
-modified: 2026-06-28T11:32:21.652-04:00
-published: 2026-06-28T11:32:21.652-04:00
+modified: 2026-06-29T12:38:06.633-04:00
+published: 2026-06-29T12:38:06.633-04:00
 Author: Jordan
 ---
 
 > [!Quote|author mark no-title]
 > _"The world of Selerim is ever-changing, inconsistent, and seemingly always unfinished._ <br> _Its histories are neither a science, nor are they exact."_  <br> <span style="float: right;">—[[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[White Grove|White Grove Academy]] </span>
 
-> [!cards|3 background-color-black no-title]\
-> **[[World Overview]]**\
-> ![](z_assets/selerim_planet_view.png)
+> [!cards|3 background-color-black no-title]
+> **[[World Overview]]**
+> [![[z_assets/selerim_planet_view.png|banner+small cover center]]](World%20Overview)
 >
-> **[[World Timeline]]**\
-> ![](z_assets/timeline_icon.png)
+> **[[Selerim Timeline|World Timeline]]**
+> [![[z_assets/timeline_icon.png|banner+small cover center]]](Selerim%20Timeline)
 >
-> **[[Adventure Log]]**\
-> ![](z_assets/adventurelog.png)
+> **[[Adventure Log.base|Adventure Log]]**
+> [![[z_assets/adventurelog.png|banner+small cover center]]](Adventure%20Log.base)
 
 ### Interactive Map of the [[Inhabitable Lands]]:
 
