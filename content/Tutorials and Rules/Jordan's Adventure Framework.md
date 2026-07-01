@@ -1,13 +1,10 @@
 ---
 publish: true
 created: 2026-01-14T14:23:00.921-05:00
-modified: 2026-06-28T10:00:23.614-04:00
-published: 2026-06-28T10:00:23.614-04:00
+modified: 2026-06-30T21:26:08.602-04:00
+published: 2026-06-30T21:26:08.602-04:00
 Author: Jordan
 ---
-
-> [!Quote|author mark] Unknown Bard
-> _It doesn’t matter if it is good, it only matters if it rocks._
 
 > [!Quote|author mark no-title]
 > _It doesn’t matter if it is good, it only matters if it rocks._ <br> <span style="float: right;">—Unknown Bard <br> </span>
