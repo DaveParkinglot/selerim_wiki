@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2025-10-26T10:29:29.000-04:00
-modified: 2026-06-17T11:44:38.323-04:00
-published: 2026-06-17T11:44:38.323-04:00
+modified: 2026-07-16T13:58:28.883-04:00
+published: 2026-07-16T13:58:28.883-04:00
 Author: Jordan
 ---
 
 # Selerim Unified Calendar
 
 - Used broadly by most of the world, this calendar was created during the reign of the Old Kings of [[Tiialia]]. It pays homage to the many distinct peoples of Selerim, who were stolen from their home worlds to be slaves under the brutal regime of [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_scag).
-- It should be noted that each of the 13 months has 28 days in it, and that Summer is the longest season because the [[Inhabitable Lands]] stretch along Selerim's equator.
+- It should be noted that each of the 13 months has 28 days in it, and that Summer is the longest season because the [[Habitable Lands]] stretch along Selerim's equator.
 
 | Month    | #   | Season | Lore                                                                                                                                                                                                                                                                                                            |
 | -------- | --- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

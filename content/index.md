@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to Selerim
 created: 2026-04-21T09:58:34.000-04:00
-modified: 2026-06-30T21:32:37.455-04:00
-published: 2026-06-30T21:32:37.455-04:00
+modified: 2026-07-16T14:00:01.872-04:00
+published: 2026-07-16T14:00:01.872-04:00
 Author: Jordan
 ---
 
@@ -20,7 +20,7 @@ Author: Jordan
 > **[[Adventure Log.base|Adventure Log]]**
 > [![[z_assets/adventurelog.png|banner+small cover center]]](Adventure%20Log.base)
 
-### Interactive Map of the [[Inhabitable Lands]]:
+### Interactive Map of the [[Habitable Lands]]:
 
 ```base
 views:
@@ -37,4 +37,4 @@ views:
     unit: mi
 ```
 
-[[inhabitable_lands.webp|View full map image]]
+[[habitable_lands.webp|View full map image]]

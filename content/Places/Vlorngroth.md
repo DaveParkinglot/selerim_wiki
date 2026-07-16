@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T09:55:09.000-04:00
-modified: 2026-06-16T09:04:40.812-04:00
-published: 2026-06-16T09:04:40.812-04:00
+modified: 2026-07-16T13:58:28.822-04:00
+published: 2026-07-16T13:58:28.822-04:00
 tags:
   - Settlement
 Type:
@@ -47,7 +47,7 @@ Author: Jordan
 
 # Overview
 
-- The underground city of Vlorngroth lies beneath the [[Inhabitable Lands]], in the cavernous depths of the Underdark.
+- The underground city of Vlorngroth lies beneath the [[Habitable Lands]], in the cavernous depths of the Underdark.
 - Light from the phosphorescent Fungal Firmament casts a twilight glow upon the city.
 - Vlorngroth has long been the seat of power for the [[Vlorn Dynasty]], an empire long forgotten by most surface dwellers.
 - [[Vlorn Dynasty]] is a ruthless meritocracy.
