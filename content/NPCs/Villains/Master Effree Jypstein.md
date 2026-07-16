@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - The Master
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-28T16:37:23.199-04:00
-published: 2026-06-28T16:37:23.199-04:00
+modified: 2026-07-03T10:33:18.416-04:00
+published: 2026-07-03T10:33:18.416-04:00
 Age: 66 (deceased)
 Ancestry:
   - Human

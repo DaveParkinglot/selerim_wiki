@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:46:35.338-04:00
-published: 2026-04-21T08:46:35.338-04:00
+modified: 2026-07-15T08:47:24.641-04:00
+published: 2026-07-15T08:47:24.641-04:00
 DM: Mike Doom
 Platform: Roll20
 Sessions: 2
@@ -55,7 +55,7 @@ Classes:
 > ![[z_assets/chauncy_joins_the_fray.png|500]]
 >
 > > [!caption|center]
-> > Sir Chauncy joins the fight against Morganth's forces
+> > [[Chauncy the Unrepentant|Sir Chauncy]] joins the fight against Morganth's forces
 >
 > ## Details
 >

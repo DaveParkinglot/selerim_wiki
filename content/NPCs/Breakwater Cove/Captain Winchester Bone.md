@@ -4,8 +4,8 @@ aliases:
   - Captain Bone
   - Captain Winchester Bone
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-15T09:11:56.564-04:00
-published: 2026-06-15T09:11:56.564-04:00
+modified: 2026-07-03T11:00:10.943-04:00
+published: 2026-07-03T11:00:10.943-04:00
 tags:
   - Breakwater-Cove
 Age: "66"
@@ -52,7 +52,7 @@ Author: Jordan
 
 # Overview
 
-- Once a renowned pirate captain, he now owns Bone Tavern in [[Breakwater Cove]]. Loves to recount his days of yore to whoever will listen.
+- Once a renowned ship captain, he now owns Bone Tavern in [[Breakwater Cove]]. Loves to recount his days of yore to whoever will listen.
 - He has sailed with many crews aboard many ships, but he is most known for his time aboard the Leaky Bucket.
 
 ## [[The Hidden Hoard of Winchester Bone]]

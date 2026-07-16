@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T08:16:34.000-04:00
-modified: 2026-06-16T09:04:10.874-04:00
-published: 2026-06-16T09:04:10.874-04:00
+modified: 2026-07-03T10:20:54.678-04:00
+published: 2026-07-03T10:20:54.678-04:00
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -15,6 +15,7 @@ Affiliation:
   - None
 Government:
   - The Oaken Conclave
+  - "[[Tanglewood Defense Council]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Kindlethicket - Envoys of Mitlin]]"
@@ -46,7 +47,7 @@ Author: Jordan
 >
 > **Affiliation**: None
 >
-> **Government:** The Oaken Conclave
+> **Government:** The Oaken Conclave, [[Factions/Tanglewood Defense Council.md|Tanglewood Defense Council]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]], [[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
 

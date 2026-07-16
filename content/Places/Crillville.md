@@ -42,7 +42,7 @@ Author: Jordan
 >
 > **Population**: 2500
 >
-> **Affiliation**: [[Tanglewood Defense Council|Tanglewood Defense Council]]
+> **Affiliation**: [[Factions/Tanglewood Defense Council.md|Tanglewood Defense Council]]
 >
 > **Government:** [[NPCs/Tanglewood Peninsula/Dick Gunbarrel.md|Dick Gunbarrel]]
 >
