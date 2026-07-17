@@ -109,12 +109,6 @@
   display: none;
 }
 
-.callout.callout.callout.callout:is([data-callout-metadata~=no-t],
-[data-callout-metadata~=no-title]) > .callout-content > :first-child {
-  margin-top: 16;
-  /* quartz does not seem to add a margin-top to .callout-content, so removing .callout-title squishes it to the top unless a margin is added here */
-}
-
 .callout.callout.callout.callout:is([data-callout-metadata~=s-t],
 [data-callout-metadata~=show-title]) > .callout-title {
   display: flex;
