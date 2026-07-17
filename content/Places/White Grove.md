@@ -4,8 +4,8 @@ aliases:
   - White Grove Academy
 title: White Grove, Magic Academy
 created: 2023-09-02T09:45:40.000-04:00
-modified: 2026-06-17T20:44:56.419-04:00
-published: 2026-06-17T20:44:56.419-04:00
+modified: 2026-07-17T11:27:47.774-04:00
+published: 2026-07-17T11:27:47.774-04:00
 tags:
   - Settlement
 Type:
@@ -23,7 +23,7 @@ marker:
     icon: fa7-solid:university
     colour: "#0000ff"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Author: Jordan
 ---
 

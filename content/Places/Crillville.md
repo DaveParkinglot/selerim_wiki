@@ -2,8 +2,8 @@
 publish: true
 title: Crillville, Harbor Town
 created: 2025-10-09T14:45:41.000-04:00
-modified: 2026-06-16T09:03:40.842-04:00
-published: 2026-06-16T09:03:40.842-04:00
+modified: 2026-07-17T11:30:59.378-04:00
+published: 2026-07-17T11:30:59.378-04:00
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -24,7 +24,7 @@ marker:
     icon: game-icons:medieval-village-01
     colour: "#0000ff"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Author: Jordan
 ---
 

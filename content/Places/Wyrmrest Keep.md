@@ -2,8 +2,8 @@
 publish: true
 title: Wyrmrest Keep
 created: 2026-04-19T21:04:15.006-04:00
-modified: 2026-06-16T09:05:02.344-04:00
-published: 2026-06-16T09:05:02.344-04:00
+modified: 2026-07-17T11:30:09.908-04:00
+published: 2026-07-17T11:30:09.908-04:00
 tags:
   - Settlement
 Type:
@@ -20,7 +20,7 @@ marker:
     icon: game-icons:spiked-dragon-head
     colour: "#FF0000"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Appearances:
   - "[[Dragon Quest]]"
 aliases:

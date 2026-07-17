@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-07-16T08:00:12.922-04:00
-published: 2026-07-16T08:00:12.922-04:00
+modified: 2026-07-17T11:31:01.695-04:00
+published: 2026-07-17T11:31:01.695-04:00
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -26,7 +26,7 @@ marker:
     icon: game-icons:medieval-village-01
     colour: "#0000ff"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Author: Jordan
 ---
 

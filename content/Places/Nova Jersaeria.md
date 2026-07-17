@@ -2,8 +2,8 @@
 publish: true
 title: Nova Jersaeria, Tiialan Capital
 created: 2025-06-20T09:32:25.000-04:00
-modified: 2026-06-16T09:04:20.039-04:00
-published: 2026-06-16T09:04:20.039-04:00
+modified: 2026-07-17T11:30:51.784-04:00
+published: 2026-07-17T11:30:51.784-04:00
 tags:
   - Settlement
   - Kingdom-of-Tiialia
@@ -24,7 +24,7 @@ marker:
     icon: game-icons:medieval-gate
     colour: "#0000ff"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Author: Jordan
 ---
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-21T11:41:30.000-04:00
-modified: 2026-06-28T09:59:18.461-04:00
-published: 2026-06-28T09:59:18.461-04:00
+modified: 2026-07-17T11:33:43.849-04:00
+published: 2026-07-17T11:33:43.849-04:00
 Author: Jordan
 ---
 
@@ -22,9 +22,9 @@ For a more exhaustive list of potential deities, visit <https://5e.tools/deitie
 | Avandra                             | Chaotic Good   | Prime Deities                        | Nature, Trickery         | Change, freedom, luck                | Woman's profile embossed on a gold coin or pendant | [Avandra](https://5e.tools/deities.html#avandra_exandria_egw)                           |
 | Melora                              | Neutral        | Prime Deities                        | Life, Nature, Tempest    | Seas, wilderness                     | Wreath of grass and grain affixed to a crook       | [Melora](https://5e.tools/deities.html#melora_exandria_egw)                             |
 | Bahamut                             | Lawful Good    | Prime Deities                        | Life, Order, War         | Honor, justice                       | Silver dragon's head in profile                    | [Bahamut](https://5e.tools/deities.html#bahamut_exandria_egw)                           |
-| Lolth                               | Chaotic Evil   | The Dark Seldarine (Drow)            | Ambition, Cruelty        | Primary god of the drow (dark elves) | A black spider                                     | [Lolth](https://5e.tools/deities.html#lolth_faer%c3%bbnian_frhof)                       |
-| Selvetarm                           | Chaotic Evil   | The Dark Seldarine (Drown)           | War                      | Drow god of war                      | Spider over crossed sword-and-mace                 | [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_scag)                          |
-| Labelas Enoreth                     | Chaotic Good   | The Seldarine (Elven)                | Arcana, Knowledge, Life  | Time, history, memory                | Setting sun                                        | [Labelas Enoreth](https://5e.tools/deities.html#labelas%20enoreth_elven_scag)           |
-| Corellon                            | Chaotic Good   | The Seldarine (Elven)                | Arcana, Life, Light, War | Primary god of elves                 | Quarter moon or starburst                          | [Corellon](https://5e.tools/deities.html#corellon_exandria_egw)                         |
+| Lolth                               | Chaotic Evil   | Dark Seldarine (Drow)                | Ambition, Cruelty        | Primary god of the drow (dark elves) | A black spider                                     | [Lolth](https://5e.tools/deities.html#lolth_faer%c3%bbnian_frhof)                       |
+| Selvetarm                           | Chaotic Evil   | Dark Seldarine (Drow)                | War                      | Drow god of war                      | Spider over crossed sword-and-mace                 | [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_scag)                          |
+| Labelas Enoreth                     | Chaotic Good   | Seldarine (Elven)                    | Arcana, Knowledge, Life  | Time, history, memory                | Setting sun                                        | [Labelas Enoreth](https://5e.tools/deities.html#labelas%20enoreth_elven_scag)           |
+| Corellon                            | Chaotic Good   | Seldarine (Elven)                    | Arcana, Life, Light, War | Primary god of elves                 | Quarter moon or starburst                          | [Corellon](https://5e.tools/deities.html#corellon_exandria_egw)                         |
 | The Red Knight                      | Lawful Neutral | Tiialan                              | War                      | Strategic warfare                    | Red knight chess piece with stars for eyes         | [The Red Knight](https://5e.tools/deities.html#the%20red%20knight_faer%c3%bbnian_frhof) |
 | Tyr                                 | Lawful Good    | Tiialan                              | Order, War               | JUSTICE                              | Balanced scales resting on a warhammer             | [Tyr](https://5e.tools/deities.html#tyr_faer%c3%bbnian_frhof)                           |

@@ -2,8 +2,8 @@
 publish: true
 title: Batistallas
 created: 2026-04-30T10:04:28.649-04:00
-modified: 2026-06-28T16:34:29.308-04:00
-published: 2026-06-28T16:34:29.308-04:00
+modified: 2026-07-17T11:26:50.809-04:00
+published: 2026-07-17T11:26:50.809-04:00
 tags:
   - Settlement
   - Kingdom-of-Tiialia
@@ -24,7 +24,7 @@ marker:
     icon: game-icons:medieval-gate
     colour: "#cfb53b"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 aliases:
 ---
 

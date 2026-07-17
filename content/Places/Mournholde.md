@@ -2,8 +2,8 @@
 publish: true
 title: Mournholde, City of the Dead
 created: 2023-09-20T14:56:26.000-04:00
-modified: 2026-06-16T09:04:14.854-04:00
-published: 2026-06-16T09:04:14.854-04:00
+modified: 2026-07-17T11:27:26.196-04:00
+published: 2026-07-17T11:27:26.196-04:00
 tags:
   - Settlement
 Type:
@@ -23,7 +23,7 @@ marker:
     icon: game-icons:spooky-house
     colour: "#FFAC1C"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Author: Jordan
 ---
 

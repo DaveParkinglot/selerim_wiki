@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to Selerim
 created: 2026-04-21T09:58:34.000-04:00
-modified: 2026-07-16T14:00:01.872-04:00
-published: 2026-07-16T14:00:01.872-04:00
+modified: 2026-07-17T11:27:21.454-04:00
+published: 2026-07-17T11:27:21.454-04:00
 Author: Jordan
 ---
 
@@ -20,21 +20,21 @@ Author: Jordan
 > **[[Adventure Log.base|Adventure Log]]**
 > [![[z_assets/adventurelog.png|banner+small cover center]]](Adventure%20Log.base)
 
-### Interactive Map of the [[Habitable Lands]]:
+### Interactive Map of the [[Summer Lands]]:
 
 ```base
 views:
   - type: leaflet-map
-    name: Inhabitable Lands Interactive Map
-    mapName: Inhabitable_Lands_Map
-    image: z_assets/inhabitable_lands.webp
+    name: Summer Lands Interactive Map
+    mapName: Summer_Lands_Map
+    image: z_assets/summer_lands.webp
     height: 600
     minZoom: -3
     maxZoom: 3
-    defaultZoom: -2.25
+    defaultZoom: -2.5
     zoomDelta: 0.25
     scale: "0.0935"
     unit: mi
 ```
 
-[[habitable_lands.webp|View full map image]]
+[[summer_lands.webp|View full map image]]

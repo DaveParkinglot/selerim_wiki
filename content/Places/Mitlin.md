@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T08:16:34.000-04:00
-modified: 2026-07-03T10:20:54.678-04:00
-published: 2026-07-03T10:20:54.678-04:00
+modified: 2026-07-17T11:27:55.517-04:00
+published: 2026-07-17T11:27:55.517-04:00
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -27,7 +27,7 @@ marker:
     icon: game-icons:medieval-village-01
     colour: "#0000ff"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Author: Jordan
 ---
 

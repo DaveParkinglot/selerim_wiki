@@ -2,8 +2,8 @@
 publish: true
 title: Kindlethicket, Fey Crossing
 created: 2025-11-02T10:04:59.135-05:00
-modified: 2026-06-16T09:04:03.984-04:00
-published: 2026-06-16T09:04:03.984-04:00
+modified: 2026-07-17T11:30:56.633-04:00
+published: 2026-07-17T11:30:56.633-04:00
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -20,7 +20,7 @@ marker:
     icon: game-icons:mushroom-house
     colour: "#cfb53b"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Author: Jordan
 Appearances:
   - "[[Kindlethicket - Envoys of Mitlin]]"

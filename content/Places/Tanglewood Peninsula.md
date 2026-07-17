@@ -4,8 +4,8 @@ aliases:
   - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
-modified: 2026-06-17T11:51:03.418-04:00
-published: 2026-06-17T11:51:03.418-04:00
+modified: 2026-07-17T11:28:18.933-04:00
+published: 2026-07-17T11:28:18.933-04:00
 tags:
   - Tanglewood-Peninsula
   - Region
@@ -28,7 +28,7 @@ marker:
     icon: game-icons:jungle
     colour: "#008000"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Author: Jordan
 ---
 

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Master
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-07-16T13:58:28.810-04:00
-published: 2026-07-16T13:58:28.810-04:00
+modified: 2026-07-17T11:24:39.358-04:00
+published: 2026-07-17T11:24:39.358-04:00
 Age: 66 (deceased)
 Ancestry:
   - Human
@@ -53,7 +53,7 @@ Author: Jordan
   - Geelayne became a shade of herself for months, and Effree and Blackhorn became estranged.
   - Geelayne eventually regained a fraction of her former power and struck out with rangers from Mitlin to end the threat that Effree posed to the world, but she failed and was once again resurrected by Effree, this time as a banshee.
 - After The Three disbanded due to Effree's actions, he spent years living as a noble in [[Scrimshaw City]], before retreating to his ancestral home in the Jypstein Isles on the Great Delphin Sea.
-- Some time after that, Effree became a powerful lich, took up the pseudonym "The Master", and sought to control (or end) all life in the [[Habitable Lands]].
+- Some time after that, Effree became a powerful lich, took up the pseudonym "The Master", and sought to control (or end) all life in the [[Summer Lands]].
 - Thankfully, he was killed on his private island by [[The High Rollers]].
 
 # Attributes

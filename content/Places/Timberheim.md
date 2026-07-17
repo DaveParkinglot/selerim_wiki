@@ -2,8 +2,8 @@
 publish: true
 title: Timberheim
 created: 2026-04-19T21:24:31.189-04:00
-modified: 2026-06-16T09:04:36.786-04:00
-published: 2026-06-16T09:04:36.786-04:00
+modified: 2026-07-17T11:27:51.460-04:00
+published: 2026-07-17T11:27:51.460-04:00
 tags:
   - Settlement
 Type:
@@ -20,7 +20,7 @@ marker:
     icon: game-icons:medieval-village-01
     colour: "#cfb53b"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Appearances:
   - "[[Dragon Quest]]"
 aliases:

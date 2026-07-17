@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T09:10:18.000-04:00
-modified: 2026-04-21T08:50:03.991-04:00
-published: 2026-04-21T08:50:03.991-04:00
+modified: 2026-07-16T14:14:22.452-04:00
+published: 2026-07-16T14:14:22.452-04:00
 Age: ??
 Ancestry:
   - Demon
@@ -16,6 +16,7 @@ Affiliation:
   - None
 Appearances:
   - "[[The Hellnight Soirée]]"
+  - "[[Bobby's Bachelor Birthday Bender]]"
 Status: Alive
 Author: Jordan
 ---
@@ -40,7 +41,7 @@ Author: Jordan
 >
 > **Affiliation:** None
 >
-> **Appearances:** [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
+> **Appearances:** [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]], [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]]
 >
 > **Status:** Alive
 
@@ -48,11 +49,11 @@ Author: Jordan
 
 - A storied demon, he is one of the only demon lords with good relations with Asmodeus, Lord of Hell.
 - Some legends say it was Pazuzu himself who corrupted Asmodeus. Other legends say they are just great drinking buddies.
-- He has a Fiend Feud with [[Baron Neffery]] after the events of  [[The Hellnight Soirée]].
+- He has a Fiend Feud with [[Baron Neffery]] after the events of [[The Hellnight Soirée]].
 
 # Attributes
 
-- **Voice**: Aggressively Australian
+- **Voice**: Deep and aggressively Australian
 - **Traits**: Crude
 - **Goals:**
   - Bring more cool people to join his crew in Pazunia, Pazuzu's Pals

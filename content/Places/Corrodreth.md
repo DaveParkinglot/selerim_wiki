@@ -4,8 +4,8 @@ aliases:
   - Corrodreth, the Salted City
 title: Corrodreth, the Salted City
 created: 2023-09-02T09:43:46.000-04:00
-modified: 2026-07-16T13:58:28.815-04:00
-published: 2026-07-16T13:58:28.815-04:00
+modified: 2026-07-17T11:27:03.338-04:00
+published: 2026-07-17T11:27:03.338-04:00
 Type:
   - Landmark
 Age (years): 1800
@@ -16,7 +16,7 @@ marker:
     icon: game-icons:ancient-ruins
     colour: "#FF0000"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Author: Jordan
 tags:
 ---
@@ -45,9 +45,9 @@ tags:
 
 #### Origins
 
-- Corrodreth was built at the height of the [[Generations' War]] by an empire that mysteriously appeared, seemingly from the [[Violet Bleed|arcane fallout]] surrounding the [[Habitable Lands]].
+- Corrodreth was built at the height of the [[Generations' War]] by an empire that mysteriously appeared, seemingly from the [[Violet Bleed|arcane fallout]] surrounding the [[Summer Lands]].
 - The mysterious empire that built Corrodreth once occupied all lands west of the Bleeding Peeks, according to archeological records.
-- The empire collapsed soon after the [[Darkwells]] flooded much of the [[Habitable Lands]]. This left Corrodreth as a lone city state.
+- The empire collapsed soon after the [[Darkwells]] flooded much of the [[Summer Lands]]. This left Corrodreth as a lone city state.
 
 #### The Serpent Wars
 

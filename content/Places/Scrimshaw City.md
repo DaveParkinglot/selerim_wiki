@@ -5,8 +5,8 @@ aliases:
   - Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T12:30:40.000-04:00
-modified: 2026-06-18T15:26:49.785-04:00
-published: 2026-06-18T15:26:49.785-04:00
+modified: 2026-07-17T11:27:28.937-04:00
+published: 2026-07-17T11:27:28.937-04:00
 tags:
   - Settlement
 Type:
@@ -28,7 +28,7 @@ marker:
     icon: game-icons:medieval-gate
     colour: "#0000ff"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 Author: Jordan
 ---
 

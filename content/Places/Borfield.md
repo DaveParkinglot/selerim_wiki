@@ -2,8 +2,8 @@
 publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T16:13:07.000-05:00
-modified: 2026-06-28T16:34:26.455-04:00
-published: 2026-06-28T16:34:26.455-04:00
+modified: 2026-07-17T11:27:07.945-04:00
+published: 2026-07-17T11:27:07.945-04:00
 tags:
   - Settlement
 Type:
@@ -23,7 +23,7 @@ marker:
     icon: game-icons:huts-village
     colour: "#cfb53b"
     minZoom: -4
-    mapName: Inhabitable_Lands_Map
+    mapName: Summer_Lands_Map
 aliases:
 ---
 
