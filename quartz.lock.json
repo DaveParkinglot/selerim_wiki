@@ -25,6 +25,12 @@
       "commit": "f8fc7da3515a4d4bbe0bd4be0fd9188823866a01",
       "installedAt": "2026-06-04T19:58:35.633Z"
     },
+    "bg-varieties": {
+      "source": "https://github.com/xoconoch/bg-varieties",
+      "resolved": "https://github.com/xoconoch/bg-varieties",
+      "commit": "238a8ca059c7cf008e96e5d4e5011f6c9cc2fd3e",
+      "installedAt": "2026-07-18T18:46:28.259Z"
+    },
     "breadcrumbs": {
       "source": "github:quartz-community/breadcrumbs",
       "resolved": "https://github.com/quartz-community/breadcrumbs.git",
@@ -126,6 +132,12 @@
       "resolved": "https://github.com/quartz-community/folder-page.git",
       "commit": "93304d22e1d7f09f93a33658ec273f7cb8d17793",
       "installedAt": "2026-06-04T19:58:35.633Z"
+    },
+    "fonts": {
+      "source": "github:quartz-community/fonts",
+      "resolved": "https://github.com/quartz-community/fonts.git",
+      "commit": "8be5be706d19ca34fa8e342327b78e11aff3d4f0",
+      "installedAt": "2026-07-18T18:55:25.371Z"
     },
     "footer": {
       "source": "github:quartz-community/footer",

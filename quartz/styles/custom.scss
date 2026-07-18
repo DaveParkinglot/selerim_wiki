@@ -10,8 +10,21 @@
  @use "./custom/column-callout.scss";
  @use "./custom/caption-callout.scss";
 
-/* 1. Remove the default background highlight */
-body a.internal {
+
+// expands to match wide monitors better (I think)
+@media all and ($desktop) {
+  body div#quartz-root.page div#quartz-body {
+    width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
+    max-width: min(100%, calc(#{map.get($breakpoints, desktop)} + 700px));
+    padding: 0 auto;
+  }
+}
+
+
+
+/* 1. Remove the default background highlight for internal links and tag links */
+body a.internal
+{
     background-color: transparent !important;
     /* Optional: Quartz adds padding/radius for the highlight; 
        setting to 0 keeps the text alignment tight when the highlight is gone. */
@@ -19,3 +32,76 @@ body a.internal {
     border-radius: 4px;
     transition: background-color 0.2s ease; /* Makes the highlight fade in smoothly */
 }
+
+
+
+// Style changes to fix Infobox callout styling //
+
+/* Infobox callout fix 1: Prevent heading underlines from bleeding into floated infoboxes */
+h1, h2, h3, h4, h5, h6 {
+  display: flow-root;
+}
+
+/*  Infobox callout fix 2: Reset Quartz's default callout box styles specifically for ITS infoboxes */
+.callout[data-callout~="infobox"] {
+  border: none !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  
+  /* Retain grid and layout mechanics for child content elements */
+  & > .callout-content {
+    display: grid;
+    
+    & > :first-child {
+      margin-top: 0;
+    }
+  }
+}
+
+
+// Style changes to fix comma separated values in Bases having extra spaces //
+
+/* Fix Bases comma-separated lists wrapping before commas */
+.bases-table td .bases-list {
+  display: inline !important;
+}
+
+.bases-table td .bases-text,
+.bases-table td .bases-separator {
+  display: inline !important;
+}
+
+
+// Style changes to allow for Animated Backgrounds //
+
+/* 1. Strip backgrounds from Quartz layout wrappers and footer elements */
+html,
+body, 
+footer,
+.footer,
+.footer *,
+#quartz-body, 
+.page, 
+main, 
+.page-header {
+  background: transparent !important;
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+
+/* 2. Make your text readable over the background animation */
+/* This adds a "glassmorphism" effect so the moving background 
+   doesn't make your notes hard to read. Adjust the 0.5 opacity 
+   up or down depending on your preference! */
+.page .center {
+  background: rgba(var(--light), 0.5); 
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  padding: 0rem;
+  border-radius: 0px;
+}
+
+
+
+

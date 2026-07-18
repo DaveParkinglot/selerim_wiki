@@ -1,11 +1,3 @@
-#yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
-
-#yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
-
-#yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
-
-#yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
-
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Selerim Wiki
@@ -282,11 +274,35 @@ plugins:
     enabled: true
     order: 50
     options:
-      theme: reverie
+      theme: its-theme.drowned
   - source: https://github.com/DreamCutter28/quartz-image-zoom
-    enabled: true
+    enabled: false
     order: 50
     options: {}
+  - source: https://github.com/xoconoch/bg-varieties
+    enabled: true
+    options:
+      type: dots
+      zIndex: -2
+      opacity: 0.3
+      speedMultiplier: 0.3
+      density: 50
+      interactive: true
+      theme: auto
+      palette: cosmic
+    order: 50
+    layout:
+      position: afterBody
+      priority: 10
+  - source: github:quartz-community/fonts
+    enabled: true
+    options:
+      useThemeFonts: false
+      fontOrigin: googleFonts
+      title: Cardo
+      header: Cardo
+      body: Merriweather
+      code: JetBrains Mono
 layout:
   groups:
     toolbar:
