@@ -89,7 +89,7 @@ plugins:
     order: 50
     layout:
       position: right
-      priority: 20
+      priority: 30
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -286,21 +286,6 @@ plugins:
     enabled: false
     order: 50
     options: {}
-  - source: https://github.com/xoconoch/bg-varieties
-    enabled: false
-    options:
-      type: dots
-      zIndex: -2
-      opacity: 0.3
-      speedMultiplier: 0.3
-      density: 50
-      interactive: true
-      theme: auto
-      palette: cosmic
-    order: 50
-    layout:
-      position: afterBody
-      priority: 10
   - source: github:quartz-community/fonts
     enabled: true
     options:
