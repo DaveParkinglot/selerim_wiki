@@ -82,7 +82,14 @@ plugins:
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
+    showByDefault: true
+    collapseByDefault: false
+    minEntries: 2
+    maxDepth: 6
     order: 50
+    layout:
+      position: right
+      priority: 20
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
