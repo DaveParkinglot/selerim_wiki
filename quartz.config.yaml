@@ -280,7 +280,7 @@ plugins:
     order: 50
     options: {}
   - source: https://github.com/xoconoch/bg-varieties
-    enabled: true
+    enabled: false
     options:
       type: dots
       zIndex: -2
