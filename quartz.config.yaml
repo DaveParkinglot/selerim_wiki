@@ -237,6 +237,7 @@ plugins:
       showTags: true
       hideTagPages: false
       hideFolderPages: false
+      condition: not-(not-index)
     layout:
       position: left
       priority: 70
