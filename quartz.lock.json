@@ -25,6 +25,12 @@
       "commit": "f8fc7da3515a4d4bbe0bd4be0fd9188823866a01",
       "installedAt": "2026-06-04T19:58:35.633Z"
     },
+    "bg-varieties_temp": {
+      "source": "https://github.com/DaveParkinglot/bg-varieties_temp",
+      "resolved": "https://github.com/DaveParkinglot/bg-varieties_temp",
+      "commit": "0f6e8bb0aa7e1228bc0b11f25ff4089256255ece",
+      "installedAt": "2026-07-19T01:36:05.335Z"
+    },
     "breadcrumbs": {
       "source": "github:quartz-community/breadcrumbs",
       "resolved": "https://github.com/quartz-community/breadcrumbs.git",
