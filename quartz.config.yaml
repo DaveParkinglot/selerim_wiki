@@ -89,7 +89,7 @@ plugins:
     order: 50
     layout:
       position: right
-      priority: 30
+      priority: 21
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -239,7 +239,7 @@ plugins:
       hideFolderPages: false
     layout:
       position: right
-      priority: 20
+      priority: 25
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
