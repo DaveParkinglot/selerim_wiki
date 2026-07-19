@@ -1,6 +1,7 @@
 ---
 Author: Jordan
-alias: The Stacked Deck
+aliases:
+  - The Stacked Deck
 ---
 An adventuring party that has become embroiled in the feud between the [[Tiialia|Tiialan]] noble houses [[Ruz Family|Ruz]] and [[Batista Family|Batista]] 
 

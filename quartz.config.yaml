@@ -158,6 +158,34 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
+    options:
+      localGraph:
+        drag: true
+        zoom: true
+        depth: 1
+        scale: 1.1
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        removeTags: []
+        showTags: true
+        enableRadial: false
+      globalGraph:
+        drag: true
+        zoom: true
+        depth: -1
+        scale: 0.9
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        removeTags: []
+        showTags: true
+        focusOnHover: true
+        enableRadial: true
     layout:
       position: right
       priority: 10
@@ -238,9 +266,9 @@ plugins:
       hideTagPages: false
       hideFolderPages: false
     layout:
-      condition: index-only
       position: left
-      priority: 70
+      display: desktop-only
+      priority: 100
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -301,9 +329,9 @@ plugins:
     options:
       type: dots
       zIndex: -2
-      opacity: 0.3
+      opacity: 0.4
       speedMultiplier: 0.3
-      density: 70
+      density: 80
       interactive: true
       theme: auto
       palette: cosmic

@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:26.326-04:00
-published: 2026-04-21T08:47:26.326-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -35,45 +31,38 @@ Classes:
   - Fighter
   - Cleric
 ---
-
-> [!infobox|right]
->
+ > [!infobox|right]
 > ## The Hunt for Pill'Grim
->
-> ![[z_assets/pil_grim.png|500]]
->
+> ![[pil_grim.png|500]]
 > > [!caption|center]
 > > The dastardly turkey villain Pill'Grim with his signature corn cob repeating musket
 >
-> ## Details
+>## Details
 >
-> **DM**: Jordan
->
-> **Platform**: In person
->
-> **Sessions**: 1
->
-> **Run Dates**: 2023-11-25
->
-> **In-World Dates**: 263-11-25
+> **DM**: `= join(this.DM, ", ")`
+> 
+> **Platform**: `= join(this.Platform, ", ")`
+> 
+> **Sessions**: `= join(this.Sessions, ", ")`
+> 
+> **Run Dates**: `= join(dateformat(this["Start Date"], "yyyy-MM-dd"), ", ")`
+> 
+> **In-World Dates**: `= join(this["In-World Start Date"], ", ")`
 
 # Adventure Premise
-
 - Many automatons created by the renowned inventor [[Dillon Lonergan]] malfunctioned under mysterious circumstances last week, wreaking havoc across all of [[Crabbley]].
 - The notice boards around the town mention a large bounty on the head of the dastardly villain “[[Pill’Grim]]”, who is believed to be the perpetrator of this terrible crime.
 - Meet [[Bopus]] at the Crab Claw Inn for more information.
 - Should you succeed in Bopus’ quest, the bounty and the local fame would surely turn your life around.
 
 # Outcomes
-
 - Interdimensional hijinks and multiple fights with strange gnomish devices eventually led the party to a sanctuary farm world that Pill’Grim had peacefully settled in. Despite his years of tactical training and his gravy grenades, they were able to roast him in the end.
 
 # Players & Characters
-
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Peter | Thurney Snooper | Human | Warlock |
-| Leah | Unknown | Unknown | Unknown |
-| Evan | Unknown | Unknown | Unknown |
-| Alex | Green B. Casserole | Goblin | Fighter |
-| Mike Doom | Frosty, the Old Salt | Human | Cleric |
+| `= this.Players[0]` | `= this.Characters[0]` | `= this.Races[0]` | `= this.Classes[0]` |
+| `= this.Players[1]` | `= this.Characters[1]` | `= this.Races[1]` | `= this.Classes[1]` |
+| `= this.Players[2]` | `= this.Characters[2]` | `= this.Races[2]` | `= this.Classes[2]` |
+| `= this.Players[3]` | `= this.Characters[3]` | `= this.Races[3]` | `= this.Classes[3]` |
+| `= this.Players[4]` | `= this.Characters[4]` | `= this.Races[4]` | `= this.Classes[4]` |

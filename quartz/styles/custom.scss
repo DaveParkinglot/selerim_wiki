@@ -20,8 +20,6 @@
   }
 }
 
-
-
 /* 1. Remove the default background highlight for internal links and tag links */
 body a.internal
 {
@@ -77,41 +75,47 @@ h1, h2, h3, h4, h5, h6 {
 
 /* 1. Strip backgrounds from Quartz layout wrappers and footer elements */
 html,
-body, 
-footer,
-.footer,
-.footer *,
-#quartz-body, 
-.page, 
-main, 
-.page-header {
+body,
+#quartz-body,
+.page,
+.header,
+.before-body,   /* Maps to: beforeBody */
+.page-body,     /* Maps to: pageBody */
+.after-body,    /* Maps to: afterBody */
+.left,          /* Maps to: left */
+.right,         /* Maps to: right */
+footer          /* Maps to: footer */ {
   background: transparent !important;
   background-color: transparent !important;
   border-color: transparent !important;
+  box-shadow: none !important;
 }
 
 /* 2. Make your text readable over the background animation */
-/* This adds a "glassmorphism" effect so the moving background 
-   doesn't make your notes hard to read. Adjust the 0.5 opacity 
-   up or down depending on your preference! */
+/* Targets the main layout column wrapper where page content resides */
 .page .center {
-  background: rgba(var(--light), 0.5); 
+  /* Safely mixes 50% opacity into whatever --light color is active */
+  background: color-mix(in srgb, var(--light) 30%, transparent) !important; 
+  
+  /* Glassmorphism glass blur */
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  padding: 0rem;
-  border-radius: 0px;
+  
+  /* Keeps layout spacing clean over the background */
+  padding: 2rem; 
+  border-radius: 8px;
 }
-
-
 
 // Style setting to fix Quartz doing a very bad job of handling fonts //
 
-// Force the body font onto paragraphs and lists
-article, .content {
-  p, ul, ol, li {
+// Force the body font onto paragraphs, lists, meta elements, tree views, and their children
+article, 
+.content, 
+.content-meta, 
+footer, 
+.tree-item-children, 
+.nav-file-title {
+  &, p, span, a, li {
     font-family: var(--bodyFont) !important;
-    font-size: 1rem !important;               // Ensure consistent sizing
-    line-height: var(--lineHeight) !important; // Ensure consistent line height
-    color: var(--text) !important;             // Ensure consistent coloring
   }
 }

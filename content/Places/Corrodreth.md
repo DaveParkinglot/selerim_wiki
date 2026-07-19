@@ -1,16 +1,10 @@
 ---
-publish: true
-aliases:
-  - Corrodreth, the Salted City
-title: Corrodreth, the Salted City
-created: 2023-09-02T09:43:46.000-04:00
-modified: 2026-07-17T11:27:03.338-04:00
-published: 2026-07-17T11:27:03.338-04:00
 Type:
   - Landmark
 Age (years): 1800
 Appearances:
-  - "[[Adventures/Morganth's LEGION OF DOOM|Morganth's LEGION OF DOOM]]"
+  - "[[Selerim Wiki/Adventures/Morganth's LEGION OF DOOM|Morganth's LEGION OF DOOM]]"
+title: Corrodreth, the Salted City
 marker:
   - coordinates: 160, 180
     icon: game-icons:ancient-ruins
@@ -18,54 +12,54 @@ marker:
     minZoom: -4
     mapName: Summer_Lands_Map
 Author: Jordan
+aliases:
+  - Corrodreth, the Salted City
 tags:
 ---
-
 > [!infobox|right]
->
 > ## Corrodreth
->
-> ![[z_assets/corrodreth.png|600]]
->
+> ![[corrodreth.png|600]]
 > ## Details
+> 
+>**Type**: `= join(this.Type, ", ")`
 >
-> **Type**: Landmark
+>**Age:** `= this["Age (years)"]`
 >
-> **Age:** 1800
+>**Population**: `= this.Population`
 >
-> **Population**:
+>**Affiliation**: `= join(this.Affiliation, ", ")`
 >
-> **Affiliation**: -
+>**Government:** `= join(this.Government, ", ")`
 >
-> **Government:** -
->
-> **Appearances:** [[Adventures/Morganth's LEGION OF DOOM.md|Morganth's LEGION OF DOOM]]
+>**Appearances:** `= join(this.Appearances, ", ")`
 
 # Overview
-
 #### Origins
-
 - Corrodreth was built at the height of the [[Generations' War]] by an empire that mysteriously appeared, seemingly from the [[Violet Bleed|arcane fallout]] surrounding the [[Summer Lands]].
 - The mysterious empire that built Corrodreth once occupied all lands west of the Bleeding Peeks, according to archeological records.
 - The empire collapsed soon after the [[Darkwells]] flooded much of the [[Summer Lands]]. This left Corrodreth as a lone city state.
 
 #### The Serpent Wars
-
 - Known in these times as "The Salted City", the desolate ruins of Corrodreth are talked of in hushed tones by citizens of [[Tiialia]].
 - At the conclusion of the [[Serpent Wars]], the enraged Tiialans laid siege to the city, destroying and salting it to ensure that no green thing would again grow in Corrodreth.
 - Much of the city was left as is, as the destruction wrought by the Tiialan artillery mages was devastating. The landscape surrounding Corrodreth still suffers from these wounds, a sobering reminder of the realities of arcane warfare.
 - It is said that the yuan-ti warlocks summoned an eldritch entity to the city in its twilight hour, but it would not serve, and so it remains buried in the deepest chambers of the ruined city.
 
 # Attributes
-
 - **Appearance**: Destroyed cityscape, eldritch horrors at every turn
 - **Dangers/Secrets**: Eldritch entity below the city
 - **Points of Interest**:
-  - The Breach
-  - The Tomb of Zalaash
+	- The Breach
+	- The Tomb of Zalaash
 
 # Hooks
-
 - Flashes in the night sky above Corrodreth
 - Secrets of the yuan-ti arch-warlocks remain buried beneath the ruins
 - Wicked creatures now lay claim to the environs of Corrodreth
+
+
+
+
+
+
+

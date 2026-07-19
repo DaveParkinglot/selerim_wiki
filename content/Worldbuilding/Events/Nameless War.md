@@ -1,12 +1,9 @@
 ---
-publish: true
-created: 2026-01-30T11:55:18.354-05:00
-modified: 2026-07-17T11:33:20.592-04:00
-published: 2026-07-17T11:33:20.592-04:00
 Author: Jordan
 ---
 
-- Early in Selerim's history, 7,500 years before [[Tiialia]]'s founding, this brutal war raged between the two pantheons of elvish deities–the [Seldarine](https://5e.tools/tables.html#elf%20deities%20\(the%20seldarine\)_mtf) and the [Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20\(the%20dark%20seldarine\)_mtf).
+- Early in Selerim's history, 7,500 years before [[Tiialia]]'s founding, this brutal war raged between the two pantheons of elvish deities–the [Seldarine](https://5e.tools/tables.html#elf%20deities%20(the%20seldarine)_mtf) and the [Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20(the%20dark%20seldarine)_mtf).
 - This solar-system-spanning war lasted a millennium and a half, claimed an uncountable number of lives, ravaged the world of Selerim, and destroyed all Selerim's moons except for one–[[Lunadel]].
 - At the Nameless War's conclusion, after Selvetarm's eternal banishment to the Abyss, The Seldarine bequeathed the [[Summer Lands]] to the surviving slaves of The Dark Seldarine... and then they left.
 - There are some who, even to this day, decry the so-called benevolence of The Seldarine's gift. Left to toil and rebuild a ruined world, can such a gift be called freedom?
+

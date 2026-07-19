@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2026-05-03T11:29:43.020-04:00
-modified: 2026-05-07T10:21:59.209-04:00
-published: 2026-05-07T10:21:59.209-04:00
 Age: "27"
 Ancestry:
   - Human
@@ -21,37 +17,31 @@ Status: Alive
 Author: Ethan
 aliases:
 ---
-
 > [!infobox|right]
->
 > ## Roberto Batista
->
-> ![[z_assets/roberto_batista.png|300]]
->
+> ![[roberto_batista.png|300]]
 > ## Details
->
-> **Age**: 27
->
-> **Ancestry**: Human
->
-> **Gender**: Male
->
-> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], [[Places/Batistallas.md|Batistallas]]
->
-> **Role**: Duke, Playboy
->
-> **Affiliation:** [[Factions/Families of Tiialia/Batista Family.md|Batista Family]]
->
-> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
-[[The Stacked Deck]] found him getting high in the gardens of his manor before they stole [[Lord Zalvidar Batista]]'s gifts to Roberto.
+[[Selerim Wiki/Player Characters/The Stacked Deck/index]] found him getting high in the gardens of his manor before they stole [[Lord Zalvidar Batista]]'s gifts to Roberto.
 
 # Attributes
-
 - **Voice**:  Pretentious
 - **Traits**: Pretentious
 - **Goals**: House Batista is nice, but fine wine and women/men are better.
@@ -62,3 +52,4 @@ aliases:
 | Name                      | Relationship |
 | ------------------------- | ------------ |
 | [[Lord Zalvidar Batista]] | Uncle        |
+

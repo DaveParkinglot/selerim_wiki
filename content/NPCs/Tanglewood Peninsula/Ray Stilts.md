@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-05T08:53:59.114-04:00
-published: 2026-05-05T08:53:59.114-04:00
 Age: "44"
 Ancestry: Human
 Gender: Male
@@ -17,38 +13,32 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Ray Stilts
->
-> ![[z_assets/ray_stilts.png|300]]
->
+> ![[ray_stilts.png|300]]
 > ## Details
->
-> **Age**: 44
->
-> **Ancestry**: Human
->
-> **Gender**: Male
->
-> **Location**: [[Places/Crabbley.md|Crabbley]]
->
-> **Role**: Entrepreneur, Former Patron of The High Rollers
->
-> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age**: `= join(this.Age, ", ")`
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - Owner of Pinny Stilts, Inc. His co-owner Pinny went missing while sailing Boater's Bay.
 - For a while, he employed [[The High Rollers]] to conduct salvage operations along the coastlines of the Tanglewood Peninsula.
 
 # Attributes
-
 - **Voice**: Sleazy
 - **Traits**: Ambitious
 - **Goals:** Making money

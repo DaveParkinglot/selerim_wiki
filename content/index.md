@@ -1,14 +1,9 @@
 ---
-publish: true
 title: Welcome to Selerim
-created: 2026-04-21T09:58:34.000-04:00
-modified: 2026-07-18T16:55:39.153-04:00
-published: 2026-07-18T16:55:39.153-04:00
 Author: Jordan
 ---
-
 > [!Quote|author mark no-title]
-> _"The world of Selerim is ever-changing, inconsistent, and seemingly always unfinished._ <br> _Its histories are neither a science, nor are they exact."_  <br> <span style="float: right;">—[[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[White Grove|White Grove Academy]] </span>
+> *"The world of Selerim is ever-changing, inconsistent, and seemingly always unfinished.* <br> *Its histories are neither a science, nor are they exact."*  <br> <span style="float: right;">—[[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[White Grove|White Grove Academy]] </span>
 
 > [!cards|3 background-color-black no-title]
 > **[[World Overview]]**
@@ -20,7 +15,7 @@ Author: Jordan
 > **[[Adventure Log.base|Adventure Log]]**
 > [![[z_assets/adventurelog.png|banner+small cover center]]](Adventure%20Log.base)
 
-### Interactive Map of the [[Summer Lands]]:
+# Interactive Map of the [[Summer Lands]]:
 
 ```base
 views:

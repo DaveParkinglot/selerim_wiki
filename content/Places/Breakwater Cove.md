@@ -1,10 +1,4 @@
 ---
-publish: true
-created: 2025-10-17T09:49:06.000-04:00
-modified: 2026-07-18T15:10:17.066-04:00
-published: 2026-07-18T15:10:17.066-04:00
-tags:
-  - Settlement
 Author: Jordan
 Type:
   - Town
@@ -25,40 +19,35 @@ Appearances:
   - "[[Sharky's Revenge]]"
   - "[[Bootknife's Bounty]]"
 aliases:
+tags:
+  - Settlement
 ---
-
 > [!infobox|right]
->
 > ## Breakwater Cove
->
-> ![[z_assets/breakwater_cove.png|500]]
->
+> ![[breakwater_cove.png|500]]
 > ## Details
+> 
+>**Type**: `= join(this.Type, ", ")`
 >
-> **Type**: Town
+>**Age:** `= this["Age (years)"]`
 >
-> **Age:** 160
+>**Population**: `= this.Population`
 >
-> **Population**: 500
+>**Affiliation**: `= join(this.Affiliation, ", ")`
 >
-> **Affiliation**: None
+>**Government:** `= join(this.Government, ", ")`
 >
-> **Government:** Breakwater Family
->
-> **Appearances:** [[Adventures/The Hidden Hoard of Winchester Bone.md|The Hidden Hoard of Winchester Bone]], [[Adventures/Sharky's Revenge.md|Sharky's Revenge]], [[Adventures/Bootknife's Bounty.md|Bootknife's Bounty]]
+>**Appearances:** `= join(this.Appearances, ", ")`
 
 # Overview
-
 Small port town originally founded by the Breakwater family.
 
 # Attributes
-
 - **Appearance**: (Architecture, landscape, or vibe)
 - **Economy/Resources**: (What it produces, trades, or lacks)
 - **Dangers/Secrets**: (Rumors, threats, hidden lore)
 - **Points of Interest**:
-  - Bone Tavern
+	- Bone Tavern
 
 # Hooks
-
 - Bone Tavern is always on the brink of going out of business, and [[Captain Winchester Bone]] always has odd jobs.
