@@ -295,21 +295,6 @@ plugins:
       header: Cardo
       body: Merriweather
       code: JetBrains Mono
-  - source: https://github.com/DaveParkinglot/bg-varieties_temp
-    enabled: true
-    options:
-      type: dots
-      zIndex: -2
-      opacity: 0.3
-      speedMultiplier: 0.3
-      density: 70
-      interactive: true
-      theme: auto
-      palette: cosmic
-    order: 50
-    layout:
-      position: afterBody
-      priority: 10
 layout:
   groups:
     toolbar:
