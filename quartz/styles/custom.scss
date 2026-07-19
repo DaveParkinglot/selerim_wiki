@@ -104,4 +104,25 @@ main,
 
 
 
+// Style setting to fix Quartz doing a very bad job of handling fonts //
 
+// Force the body font onto paragraphs and lists
+article, .content {
+  p, ul, ol, li {
+    font-family: var(--bodyFont) !important;
+    font-size: 1rem !important;               // Ensure consistent sizing
+    line-height: var(--lineHeight) !important; // Ensure consistent line height
+    color: var(--text) !important;             // Ensure consistent coloring
+  }
+  
+  // Ensures spacing matches exactly between individual list items and paragraphs
+  ul, ol {
+    margin-top: 0;
+    margin-bottom: 1rem; 
+    
+    li {
+      margin-top: 0;
+      margin-bottom: 0.5rem; // Adjust this if you want more/less space between bullets
+    }
+  }
+}

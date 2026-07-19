@@ -19,9 +19,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: false
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Cardo
+      body: Merriweather
+      code: JetBrains Mono
     colors:
       lightMode:
         light: "#faf8f8"
