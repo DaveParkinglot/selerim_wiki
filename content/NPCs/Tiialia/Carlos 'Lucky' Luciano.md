@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T07:44:04.000-04:00
-modified: 2026-07-15T21:41:38.595-04:00
-published: 2026-07-15T21:41:38.595-04:00
+modified: 2026-07-18T23:08:11.190-04:00
+published: 2026-07-18T23:08:11.190-04:00
 Age: Unknown
 Ancestry:
   - Undead Human

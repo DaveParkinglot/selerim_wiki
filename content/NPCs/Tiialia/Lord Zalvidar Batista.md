@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lord Batista
 created: 2026-05-03T11:25:40.236-04:00
-modified: 2026-07-15T21:41:50.569-04:00
-published: 2026-07-15T21:41:50.569-04:00
+modified: 2026-07-18T23:08:11.213-04:00
+published: 2026-07-18T23:08:11.213-04:00
 Age: ??
 Ancestry:
   - Human

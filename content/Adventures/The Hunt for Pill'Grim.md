@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:26.326-04:00
-published: 2026-04-21T08:47:26.326-04:00
+modified: 2026-07-18T22:38:11.133-04:00
+published: 2026-07-18T22:38:11.133-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
