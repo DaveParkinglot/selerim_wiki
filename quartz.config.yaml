@@ -238,8 +238,8 @@ plugins:
       hideTagPages: false
       hideFolderPages: false
     layout:
-      position: left
-      priority: 70
+      position: right
+      priority: 25
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
