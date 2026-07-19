@@ -237,8 +237,8 @@ plugins:
       showTags: true
       hideTagPages: false
       hideFolderPages: false
-      condition: not-(not-index)
     layout:
+      condition: index-only
       position: left
       priority: 70
   - source: github:quartz-community/spacer
