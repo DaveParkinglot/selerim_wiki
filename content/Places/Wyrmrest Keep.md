@@ -1,4 +1,11 @@
 ---
+publish: true
+title: Wyrmrest Keep
+created: 2026-04-19T21:04:15.006-04:00
+modified: 2026-07-17T11:30:09.908-04:00
+published: 2026-07-17T11:30:09.908-04:00
+tags:
+  - Settlement
 Type:
   - Castle
 Age (years): 300
@@ -8,7 +15,6 @@ Affiliation:
 Government:
   - Autocracy
 Author: Mike Doom
-title: Wyrmrest Keep
 marker:
   - coordinates: 860, 3900
     icon: game-icons:spiked-dragon-head
@@ -18,34 +24,39 @@ marker:
 Appearances:
   - "[[Dragon Quest]]"
 aliases:
-tags:
-  - Settlement
 ---
+
 > [!infobox|right]
+>
 > ## Wyrmrest Keep
-> ![[wyrmrest_keep.png|500]]
+>
+> ![[z_assets/wyrmrest_keep.png|500]]
+>
 > ## Details
 >
->**Type**: `= join(this.Type, ", ")`
+> **Type**: Castle
 >
->**Age:** `= this["Age (years)"]`
+> **Age:** 300
 >
->**Population**: `= this.Population`
+> **Population**: 100
 >
->**Affiliation**: `= join(this.Affiliation, ", ")`
+> **Affiliation**: [[Greenscale the Destroyer|Greenscale the Destroyer]]
 >
->**Government:** `= join(this.Government, ", ")`
+> **Government:** Autocracy
 >
->**Appearances:** `= join(this.Appearances, ", ")`
+> **Appearances:** [[Dragon Quest|Dragon Quest]]
 
 # Overview
+
 The home of the dragon [[Greenscale the Destroyer]], and the location of his hoard. He has taken a more bureaucratic approach to destroying and has taken many prisoners to serve him and manage his holdings. The keep is not generally open to the public and appears to be mostly abandoned, except for the occasional skittering of a servant or smoke rising from the main tower.
 
 # Attributes
+
 - **Appearance**: Slightly ruined castle. Not quite in disrepair, but seemingly abandoned.
 - **Economy/Resources**: The dragon brings in wealth he plunders and hoards it here. Some neighboring settlements pay tribute to avoid being burned down.
 - **Dangers/Secrets**: A fully grown dragon, guarding his hoard.
 - **Points of Interest**: The dragon's hoard has kindled many a rumor and inspired many would-be dragon slayers who all now fertilize the fields around the keep.
 
 # Hooks
+
 - Greenscale the Destroyer has put out a call to arms for mercenaries. There has been a disruption to the income stream from the village of Timberheim, and it needs to be taken care of.
