@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-06-14T10:04:20.072-04:00
-published: 2026-06-14T10:04:20.072-04:00
+modified: 2026-07-20T09:49:16.000-04:00
+published: 2026-07-20T09:49:16.000-04:00
 Age: "7"
 Ancestry: Kobold
 Gender: Male
@@ -12,7 +12,7 @@ Role:
   - Student
   - Freshman
 Affiliation:
-  - Vlorngroth
+  - "[[Vlorngroth]]"
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Student, Freshman
 >
-> **Affiliation:** Vlorngroth
+> **Affiliation:** [[Places/Vlorngroth.md|Vlorngroth]]
 >
 > **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 >
@@ -48,7 +48,7 @@ Author: Jordan
 
 - A young kobold hailing from the underground city of [[Vlorngroth]], currently studying at [[White Grove]]
 - He escaped to the surface, following his uncle [[Shemcriz]], but got lost in Nova Jersaeria.
-- Showing a hint of magical talent, he was allowed admittance to The White Grove.
+- Showing a hint of magical talent, he was allowed admittance to White Grove.
 - Fellow students love how down to earth and relatable he is.
 
 # Attributes

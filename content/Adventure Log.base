@@ -23,9 +23,9 @@ views:
       - Setting
       - Platform
     sort:
-      - property: Players
-        direction: DESC
       - property: Start Date
+        direction: DESC
+      - property: Players
         direction: DESC
     summaries:
       Sessions: Sum
