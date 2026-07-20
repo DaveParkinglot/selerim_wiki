@@ -76,8 +76,14 @@ h1, h2, h3, h4, h5, h6 {
 /* 1. Strip backgrounds from Quartz layout wrappers and footer elements */
 html,
 body,
+.center,
+center,
 #quartz-body,
+.page > div#quartz-body div.sidebar.left,
+.page > div#quartz-body div.sidebar.left:has(.explorer),
+.page > div#quartz-body div.sidebar.left .explorer .explorer-content,
 .page,
+.leaflet-container,
 .header,
 .before-body,   /* Maps to: beforeBody */
 .page-body,     /* Maps to: pageBody */
@@ -104,18 +110,4 @@ footer          /* Maps to: footer */ {
   /* Keeps layout spacing clean over the background */
   padding: 2rem; 
   border-radius: 8px;
-}
-
-// Style setting to fix Quartz doing a very bad job of handling fonts //
-
-// Force the body font onto paragraphs, lists, meta elements, tree views, and their children
-article, 
-.content, 
-.content-meta, 
-footer, 
-.tree-item-children, 
-.nav-file-title {
-  &, p, span, a, li {
-    font-family: var(--bodyFont) !important;
-  }
 }

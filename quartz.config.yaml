@@ -17,7 +17,7 @@ configuration:
     - z_Templates
   theme:
     fontOrigin: googleFonts
-    cdnCaching: false
+    cdnCaching: true
     typography:
       header: Cardo
       body: Merriweather
@@ -261,13 +261,14 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
+      title: Recent Notes
       limit: 3
       showTags: true
       hideTagPages: false
       hideFolderPages: false
     layout:
-      position: left
-      display: desktop-only
+      position: right
+      condition: index-only
       priority: 100
   - source: github:quartz-community/spacer
     enabled: true
@@ -308,7 +309,7 @@ plugins:
       repo: github:saberzero1/quartz-themes
       subdir: plugin
     enabled: true
-    order: 50
+    order: 10
     options:
       theme: its-theme.drowned
   - source: https://github.com/DreamCutter28/quartz-image-zoom
@@ -317,12 +318,14 @@ plugins:
     options: {}
   - source: github:quartz-community/fonts
     enabled: true
+    order: 60
     options:
-      useThemeFonts: false
+      useThemeFonts: true
       fontOrigin: googleFonts
       title: Cardo
       header: Cardo
-      body: Merriweather
+      interface: Lora
+      body: Lora
       code: JetBrains Mono
   - source: https://github.com/DaveParkinglot/bg-varieties_temp
     enabled: true
