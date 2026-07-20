@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-07-20T11:32:04.571-04:00
-published: 2026-07-20T11:32:04.571-04:00
+modified: 2026-07-20T13:07:58.246-04:00
+published: 2026-07-20T13:07:58.246-04:00
 socialImage: selerim_planet_view.png
 Author: Jordan
 image: selerim_planet_view.png
@@ -14,7 +14,7 @@ Though the current age brims with hope, the [[Selerim Timeline|histories of Sele
 
 Eight millennia ago, Selerim was discovered by the war god [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf). For centuries, Selvetarm and his followers used Selerim as a brutal factory of war, exhausting its resources and sundering its ley lines to steal and enslave folk from other worlds. Despite his terrible deeds and his eternal banishment to the Infinite Abyss, Selvetarm remains the world's namesake to this day.
 
-By the reckoning of most, this is an Age of Unity, but the world itself remains fractured. The few and disparate [[Living Realms]] are separated by vast tracts of deadly [[Violet Bleed|arcane fallout]], a devastating reminder of the [[Nameless War|brutal war]] fought at the world's inception. Within each of these isolated pockets of life, civilization advances at a varying, non-linear pace.
+By the reckoning of most, this is the Age of Unity, but the world itself remains fractured. The few and disparate [[Living Realms]] are separated by vast tracts of deadly [[Violet Bleed|arcane fallout]], a devastating reminder of the [[Nameless War|brutal war]] fought at the world's inception. Within each of these isolated pockets of life, civilization advances at a varying, non-linear pace.
 
 # Lands of Summer
 
