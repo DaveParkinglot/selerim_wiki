@@ -4,15 +4,16 @@ aliases:
   - The Summerlands
   - The Summer Lands
 created: 2025-10-09T16:13:33.000-04:00
-modified: 2026-07-18T16:55:31.452-04:00
-published: 2026-07-18T16:55:31.452-04:00
+modified: 2026-07-20T11:13:46.354-04:00
+published: 2026-07-20T11:13:46.354-04:00
 Author: Jordan
 ---
 
-- The largest [[Living Realms|Living Realm]] of Selerim, the folk of these lands are lucky in that they are largely unaffected by the raging arcane fallout resulting from the [[Nameless War]].
-- Folk of these lands are mostly aware that they are surrounded by arcane fallout, but their Living Realm is large enough that expansion has not butted up against the fallout.
-- Unfortunately for the folk of this realm, the eruption of the [[Darkwells]] flooded many regions, diminishing its size.
-- In the current age, the Summer Lands span a 400 mile strip along Selerim's equator.
+The largest and most prolific [[Living Realms|Living Realm]] of Selerim, the Summer Lands are largely unaffected by the dreaded [[Violet Bleed]]. Named by the [Seldarine](https://5e.tools/tables.html#elf%20deities%20\(the%20seldarine\)_mtf) before they departed Selerim, this Living Realm was given as recompense to the survivors of the [[Nameless War]].
+
+Folk of these lands are mostly aware that they are surrounded by arcane fallout, but their Living Realm is large enough that expansion has not butted up against the fallout. Unfortunately for the folk of this realm, the eruption of the [[Darkwells]] flooded many regions, diminishing its size.
+
+In the current age, the Summer Lands span a 400 mile strip along Selerim's equator.
 
 ```base
 views:

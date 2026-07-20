@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T16:54:50.000-04:00
-modified: 2026-07-17T11:34:46.672-04:00
-published: 2026-07-17T11:34:46.672-04:00
+modified: 2026-07-20T11:32:04.571-04:00
+published: 2026-07-20T11:32:04.571-04:00
 socialImage: selerim_planet_view.png
 Author: Jordan
 image: selerim_planet_view.png
@@ -10,27 +10,29 @@ image: selerim_planet_view.png
 
 # World Primer
 
-The [[Selerim Timeline|timeline of Selerim]] is that of a world wounded by war and calamity. The few and disparate [[Living Realms]] are divided by vast tracts of [[Violet Bleed|arcane fallout]], a devastating reminder of the [[Nameless War|brutal war]] fought at the world's inception. Within each of these isolated pockets of life, civilization advances at a varying, non-linear pace.
+Though the current age brims with hope, the [[Selerim Timeline|histories of Selerim]] present a grim, fractured world wounded by war and calamity.
 
-In these times, we fix our focus on the [[Summer Lands]]–largest of the Living Realms and host to many fantastic environs, ancient and new:
+Eight millennia ago, Selerim was discovered by the war god [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf). For centuries, Selvetarm and his followers used Selerim as a brutal factory of war, exhausting its resources and sundering its ley lines to steal and enslave folk from other worlds. Despite his terrible deeds and his eternal banishment to the Infinite Abyss, Selvetarm remains the world's namesake to this day.
+
+By the reckoning of most, this is an Age of Unity, but the world itself remains fractured. The few and disparate [[Living Realms]] are separated by vast tracts of deadly [[Violet Bleed|arcane fallout]], a devastating reminder of the [[Nameless War|brutal war]] fought at the world's inception. Within each of these isolated pockets of life, civilization advances at a varying, non-linear pace.
+
+# Lands of Summer
+
+In these times, we fix our focus on the [[Summer Lands]]–largest and most prolific of the known Living Realms.
+
+Originally bequeathed to survivors of the [[Nameless War]] by the gods, the Summer Lands are host to many fantastic peoples and places:
 
 - [[Nova Jersaeria]], metro-capital of the expansionist [[Tiialia|Kingdom of Tiialia]], stands as a beacon of civilization and progress–despite constant conflict between its noble families.
 - Thieves and merchants alike ply their trade in the free port city of [[Scrimshaw City|Scrimshaw]], as an ancient abyssal rift rages beneath the city's mean streets.
 - The quiet lifestyle of settlements on the [[Tanglewood Peninsula]] is threatened by mutated monsters, and the call for adventurers has never been louder.
 - The [[Darkwells]] and other planar rifts lie dormant in the hidden places of the realm, waiting to be rediscovered and harnessed.
-- Progressive arcane theory and unheard-of adventures await new students at [[White Grove]], Tiialia's most reputable (and only) state-sanctioned magical academy.
-- In the subterranean city of [[Vlorngroth]], the inheritors of Selerim's ruthless aboriginals plot their long-awaited vengeance against the surface world.
-- The Salted City of [[Corrodreth]], born of a forgotten empire and destroyed within living memory, offers hints at a civilization beyond the deadly [[Violet Bleed]] to the far west.
-
-# Namesake
-
-Selerim was first settled over 8,000 years ago by [Selvetarm](https://5e.tools/deities.html#selvetarm_drow_mtf), the dark elf (drow) god of war. For two centuries, Selvetarm and his drow followers used the world as a brutal factory of war, exhausting its resources and creating Planar Rifts to steal and enslave folk from other worlds. Despite his terrible deeds and his eternal banishment into the Infinite Abyss, Selvetarm remains the world's namesake to this day.
-
-The [[Summer Lands]] were named by the [Seldarine](https://5e.tools/tables.html#elf%20deities%20\(the%20seldarine\)_mtf) before they departed Selerim, likely due to their location around the planet's equator.
+- Progressive arcane theory and unheard-of adventures await new students at [[White Grove|White Grove Academy]], Tiialia's most reputable (and only) state-sanctioned academy of magics.
+- In the subterranean city of [[Vlorngroth]], the disinherited successors to Selvetarm's brutal regime plot their long-awaited vengeance upon the surface world.
+- The ancient Salted City of [[Corrodreth]], born of a forgotten empire and destroyed within living memory, offers hints at a civilization beyond the [[Violet Bleed]] to the far west.
 
 # Peoples
 
-The diversity seen amongst the peoples of the [[Summer Lands]] is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of the [Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20\(the%20dark%20seldarine\)_mtf) empire. In the towns, villages, and cities of Selerim, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Vlorngroth]] are openly hostile to surface dwellers, while the drow living on the surface skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
+The diversity seen amongst the peoples of the [[Summer Lands]] is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of the [Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20\(the%20dark%20seldarine\)_mtf) empire. In the settlements of the Summer Lands, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Vlorngroth]] are openly hostile to surface dwellers, while the drow living on the surface skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
 
 # Technology
 

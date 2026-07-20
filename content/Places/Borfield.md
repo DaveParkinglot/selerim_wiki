@@ -2,8 +2,8 @@
 publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T16:13:07.000-05:00
-modified: 2026-07-18T15:10:11.211-04:00
-published: 2026-07-18T15:10:11.211-04:00
+modified: 2026-07-20T11:02:07.896-04:00
+published: 2026-07-20T11:02:07.896-04:00
 tags:
   - Settlement
 Type:
@@ -63,4 +63,4 @@ aliases:
   - The Bloody Toenail, tavern run by tavern keeper Rimpus the Red
   - Roadside Provisions, general store run by Hemmy Gurpend
   - Borfield High, a poorly run and unfunded high school with a pitiful graduation rate. It is situated in the ruins of a castle on the outskirts of town
-  - Dumptrash Canyon, a fractured magical leyline filled with [[Violet Bleed]]. Borfield residents throw their trash in it because, as they've observed, it slowly disintegrates anything that falls into it
+  - Dumptrash Canyon, a sundered ley line filled with [[Violet Bleed]]. Borfield residents throw their trash in it because, as they've observed, it slowly disintegrates anything that falls into it
