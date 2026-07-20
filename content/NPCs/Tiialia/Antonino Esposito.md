@@ -4,8 +4,8 @@ aliases:
   - King Esposito
   - King Antonino Esposito
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-15T11:31:33.855-04:00
-published: 2026-05-15T11:31:33.855-04:00
+modified: 2026-07-20T12:41:21.839-04:00
+published: 2026-07-20T12:41:21.839-04:00
 Age: "43"
 Ancestry: Human
 Gender: Male
@@ -17,6 +17,7 @@ Role:
 Affiliation:
   - "[[Esposito Family]]"
   - "[[The High Rollers]]"
+  - "[[Tiialia|Kingdom of Tiialia]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -41,7 +42,7 @@ Author: Jordan
 >
 > **Role**: King of Tiialia, Former Spymaster
 >
-> **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]], [[Factions/Tiialia.md|Kingdom of Tiialia]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >
