@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T11:30:00.000-04:00
-modified: 2026-07-21T09:13:34.432-04:00
-published: 2026-07-21T09:13:34.432-04:00
+modified: 2026-07-21T11:32:20.764-04:00
+published: 2026-07-21T11:32:20.764-04:00
 DM: Jordan
 Platform:
   - Foundry
@@ -102,7 +102,7 @@ The OG campaign.
 
 ### Adventure Premise
 
-- End the threat to [[Crabbley]] and [[Crillville]] by eliminating [[Malmstein the Tangler]] and the eco-terrorist cell [[Tanglers]].
+End the threat to [[Crabbley]] and [[Crillville]] by eliminating [[Malmstein the Tangler]] and the eco-terrorist cell [[Tanglers]].
 
 ### Outcomes
 
@@ -113,7 +113,7 @@ The OG campaign.
 
 ### Adventure Premise
 
-- Bring rent reductions and prosperity to [[Scrimshaw City]] by defeating [[Lord Davos Portnoir]] and his [[Tavernstool]] fanatics.
+Bring rent reductions and prosperity to [[Scrimshaw City]] by defeating [[Lord Davos Portnoir]] and his [[Tavernstool]] fanatics.
 
 ### Outcomes
 
@@ -123,8 +123,7 @@ The OG campaign.
 
 ### Adventure Premise
 
-- Remove control of [[Tiialia]] from the hands of the tyrant [[Lord Draco Landucci]] and the nasty [[Fanto-Domingo Family|Fanto-Domingo family]].
-- Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[Antonino Esposito]].
+Remove control of [[Tiialia]] from the hands of the tyrant [[Lord Draco Landucci]] and the nasty [[Fanto-Domingo Family|Fanto-Domingo family]]. Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[Antonino Esposito]].
 
 ### Outcomes
 
@@ -135,7 +134,7 @@ The OG campaign.
 
 ### Adventure Premise
 
-- Kill the lich [[Master Effree Jypstein|Effree Jypstein]] also known as "The Master" and eliminate the threat of his undead hordes to the world of Selerim.
+Kill the lich [[Master Effree Jypstein|Effree Jypstein]] also known as "The Master" and eliminate the threat of his undead hordes to the world of Selerim.
 
 ### Outcomes
 
@@ -148,8 +147,9 @@ The OG campaign.
 
 ### Adventure Premise
 
-- Those who wander into [[Wild Thicket]] are preyed upon by fey who serve someone, or something, known as [[Tzastis the Collector|"The Collector"]]. Not much is known about this Collector except that their fey minions are constantly appearing in these woods to deceive and kidnap any who wander in.
-- Tzastis is said to collect mortals like trophies in a location called the "[[Fathomless Vault]]", which is said to have many entrances on the material plane. One such entrance may be in the [[Trackless Mire]], according to [[Myrrdin Turftoe]].
+Those who wander into [[Wild Thicket]] are preyed upon by fey who serve someone, or something, known as [[Tzastis the Collector|"The Collector"]]. Not much is known about this Collector except that their fey minions are constantly appearing in these woods to deceive and kidnap any who wander in.
+
+Tzastis is said to collect mortals like trophies in a location called the "[[Fathomless Vault]]", which is said to have many entrances on the material plane. One such entrance may be in the [[Trackless Mire]], according to [[Myrrdin Turftoe]].
 
 ### Outcomes
 

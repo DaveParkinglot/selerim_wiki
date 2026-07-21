@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-07-15T08:47:24.641-04:00
-published: 2026-07-15T08:47:24.641-04:00
+modified: 2026-07-21T11:27:31.803-04:00
+published: 2026-07-21T11:27:31.803-04:00
 DM: Mike Doom
 Platform: Roll20
 Sessions: 2
@@ -71,8 +71,9 @@ Classes:
 
 # Adventure Premise
 
-- You are members of the Tiialan army serving in a special cohort called Dunlands Raiders under [[Captain Crebain Dunland]]. Your homelands are under attack by the forces of an evil warlock named [[Morganth]].
-- The fate of all [[Tiialia]] may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
+You are members of the Tiialan army serving in a special cohort called Dunlands Raiders under [[Captain Crebain Dunland]]. Your homelands are under attack by the forces of an evil warlock named [[Morganth]].
+
+The fate of all [[Tiialia]] may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
 
 # Outcomes
 

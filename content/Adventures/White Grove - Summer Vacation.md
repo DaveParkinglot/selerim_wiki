@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-16T21:13:04.000-04:00
-modified: 2026-06-22T22:27:21.000-04:00
-published: 2026-06-22T22:27:21.000-04:00
+modified: 2026-07-21T13:28:48.030-04:00
+published: 2026-07-21T13:28:48.030-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 4
@@ -57,8 +57,9 @@ Classes:
 
 # Adventure Premise
 
-- Over summer break, Headmaster [[Arctur Execlostrabaum]] has challenged the students of [[White Grove]] to a competitive off-campus scavenger hunt.
-- Students who succeed in the scavenger hunt will be given extra commendations in their culminating portfolio, which makes this an exceedingly valuable extra-curricular (if you care about having a successful career as a spellcaster).
+Over summer break, Headmaster [[Arctur Execlostrabaum]] has challenged the students of [[White Grove]] to a competitive off-campus scavenger hunt.
+
+Students who succeed in the scavenger hunt will be given extra commendations in their culminating portfolio, which makes this an exceedingly valuable extra-curricular (if you care about having a successful career as a spellcaster).
 
 # Outcomes
 

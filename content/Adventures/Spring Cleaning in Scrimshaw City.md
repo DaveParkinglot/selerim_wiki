@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:15.141-04:00
-published: 2026-04-21T08:47:15.141-04:00
+modified: 2026-07-21T11:29:56.072-04:00
+published: 2026-07-21T11:29:56.072-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -51,8 +51,9 @@ Classes:
 
 # Adventure Premise
 
-- Every year, demons from across Selerim (and beyond) converge on [[Scrimshaw City]] in an attempt to re-open the abyssal rift that rages beneath the city.
-- [[Hugh Mann]], the current reigning El Presidente of Scrimshaw City, is solely responsible for keeping the rift closed and his city free of demonic corruption. So, naturally, he has outsourced the majority of the work to enterprising adventurers like yourself.
+Every year, demons from across Selerim (and beyond) converge on [[Scrimshaw City]] in an attempt to re-open the abyssal rift that rages beneath the city.
+
+[[Hugh Mann]], the current reigning El Presidente of Scrimshaw City, is solely responsible for keeping the rift closed and his city free of demonic corruption. So, naturally, he has outsourced the majority of the work to enterprising adventurers like yourself.
 
 # Outcomes
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T13:57:03.000-04:00
-modified: 2026-07-18T17:07:59.441-04:00
-published: 2026-07-18T17:07:59.441-04:00
+modified: 2026-07-21T11:29:27.410-04:00
+published: 2026-07-21T11:29:27.410-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -56,9 +56,9 @@ Classes:
 
 # Adventure Premise
 
-- During the events of [[Bobby's Bachelor Birthday Bender]], his cousin [[Gane Shillis]]' soul was stolen by the infamous demon lord [[Pazuzu]].
-- The boys entered into an Infernal Contract with Pazuzu, agreeing to complete a quest to get Gane's soul back... on weekends.
-- Now, the boys must trek across the mystical Feywild and retrieve a very special item from the "[[Jaded Vault]]" to save Cousin Gane (and his comedy career).
+During the events of [[Bobby's Bachelor Birthday Bender]], his cousin [[Gane Shillis]]' soul was stolen by the infamous demon lord [[Pazuzu]]. The boys entered into an Infernal Contract with Pazuzu, agreeing to complete a quest to get Gane's soul back... on weekends.
+
+Now, the boys must trek across the mystical Feywild and retrieve a very special item from the [[Jade Vault]] to save Cousin Gane (and his comedy career).
 
 # Outcomes
 

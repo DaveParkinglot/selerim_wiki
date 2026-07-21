@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T10:23:37.000-04:00
-modified: 2026-04-21T08:47:42.194-04:00
-published: 2026-04-21T08:47:42.194-04:00
+modified: 2026-07-21T13:27:55.896-04:00
+published: 2026-07-21T13:27:55.896-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -55,7 +55,7 @@ Classes:
 
 # Adventure Premise
 
-- While he is abroad, [[Count Calloway Duskveil]] has commanded his lowly familiars to deep clean and revamp the dusty decor in his shadowy manor, Duskveil Keep.
+While he is abroad, [[Count Calloway Duskveil]] has commanded his lowly familiars to deep clean and revamp the dusty decor in his shadowy manor, Duskveil Keep.
 
 # Outcomes
 

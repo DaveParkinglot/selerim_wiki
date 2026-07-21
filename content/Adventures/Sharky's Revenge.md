@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:11.408-04:00
-published: 2026-04-21T08:47:11.408-04:00
+modified: 2026-07-21T11:29:46.215-04:00
+published: 2026-07-21T11:29:46.215-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -55,7 +55,7 @@ Classes:
 
 # Adventure Premise
 
-- It has been 39 years to the day that Captain Winchester Bone was forced to turn on his first crew and his old first mate, [[Sharky Dolphino]]. Stricken with guilt, [[Captain Winchester Bone|Bone]] tells his tale under the full moon on one foggy night...
+It has been 39 years to the day that [[Captain Winchester Bone]] was forced to turn on his first crew and his old first mate, [[Sharky Dolphino]]. Stricken with guilt, Bone tells his tale under the full moon on one foggy night...
 
 # Outcomes
 

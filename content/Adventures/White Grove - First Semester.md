@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-27T17:44:31.000-04:00
-modified: 2026-06-26T09:48:11.794-04:00
-published: 2026-06-26T09:48:11.794-04:00
+modified: 2026-07-21T13:28:39.819-04:00
+published: 2026-07-21T13:28:39.819-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -52,10 +52,11 @@ Classes:
 
 # Adventure Premise
 
-- In the last year, [[Antonino Esposito|King Antonino Esposito]] of [[Tiialia]] has put massive funding towards reopening [[White Grove]] as an independent magical institution. For the first time in over two centuries, admission is available to anyone with magical abilities—not just those training to become Tiialan artillery mages.
-- [[Arctur Execlostrabaum]], the highly eccentric Tiialan archmage, has been chosen as the headmaster of the school. It goes without saying that his highly progressive mindset has been a topic of discussion amongst conservative Tiialans. He believes magic is a staple of the world, to be shared with all peoples whether north, south, above, or even below...
-- We begin our adventure a few weeks into the first semester of your freshman year at the White Grove magic academy.
-- You are in the midst of preparing for your first Intro to Infernal exam, a class taught by the Grove's newest professor—[[Daemon Darkfyre]].
+In the last year, [[Antonino Esposito|King Antonino Esposito]] of [[Tiialia]] has put massive funding towards reopening [[White Grove]] as an independent magical institution. For the first time in over two centuries, admission is available to anyone with magical abilities—not just those training to become Tiialan artillery mages.
+
+[[Arctur Execlostrabaum]], the highly eccentric Tiialan archmage, has been chosen as the headmaster of the school. It goes without saying that his highly progressive mindset has been a topic of discussion amongst conservative Tiialans. He believes magic is a staple of the world, to be shared with all peoples whether north, south, above, or even below...
+
+We begin our adventure a few weeks into the first semester of your freshman year at the White Grove magic academy. You are in the midst of preparing for your first Intro to Infernal exam, a class taught by the Grove's newest professor—[[Daemon Darkfyre]].
 
 # Outcomes
 

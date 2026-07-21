@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-30T12:05:28.000-04:00
-modified: 2026-06-09T16:20:55.743-04:00
-published: 2026-06-09T16:20:55.743-04:00
+modified: 2026-07-21T11:33:52.852-04:00
+published: 2026-07-21T11:33:52.852-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -61,8 +61,9 @@ Classes:
 
 # Adventure Premise
 
-- The old, grizzled ship captain [[Captain Winchester Bone|Winchester Bone]] has heard rumors that his long-lost ship—the _Leaky Bucket_—has been spotted hanging in the overgrowth of the [[Tanglewood Peninsula|Tanglewood Wilds]].
-- He is seeking a group of adventurers to navigate the Tanglewood and locate the ship for him, and your adventuring party has contacted him about taking the job.
+The old, grizzled ship captain [[Captain Winchester Bone|Winchester Bone]] has heard rumors that his long-lost ship—the _Leaky Bucket_—has been spotted hanging in the overgrowth of the [[Tanglewood Peninsula|Tanglewood Wilds]].
+
+He is seeking a group of adventurers to navigate the Tanglewood and locate the ship for him, and your adventuring party has contacted him about taking the job.
 
 # Outcomes
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-03-28T08:16:55.230-04:00
-published: 2026-03-28T08:16:55.230-04:00
+modified: 2026-07-21T11:29:04.137-04:00
+published: 2026-07-21T11:29:04.137-04:00
 DM: Jordan
 Platform: Roll20
 Sessions: 1
@@ -55,8 +55,9 @@ Classes:
 
 # Adventure Premise
 
-- You and your beefcake [[S.I.M.P.]] compatriots are embarking on the Bold Trial, which could lead to your promotion from Frail Manlet to the rank of Bold Beefcake.
-- Survive these 3 trials and live to tell the tale and you will surely be given better responsibilities and the pick of S.I.M.P.'s best mercenary contracts!
+You and your beefcake [[S.I.M.P.]] compatriots are embarking on the Bold Trial, which could lead to your promotion from Frail Manlet to the rank of Bold Beefcake.
+
+Survive these 3 trials and live to tell the tale and you will surely be given better responsibilities and the pick of S.I.M.P.'s best mercenary contracts!
 
 # Outcomes
 

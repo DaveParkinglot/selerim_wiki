@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-06-09T16:23:39.342-04:00
-published: 2026-06-09T16:23:39.342-04:00
+modified: 2026-07-21T11:30:52.463-04:00
+published: 2026-07-21T11:30:52.463-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -51,11 +51,11 @@ Classes:
 
 # Adventure Premise
 
-- For a sleepy fishing village, [[Crabbley]] has always had more than its fair share of threats from both the land and the sea.
-- The latest monster to terrorize the town is a manticore the locals call "Old Crimsonclaw".
-- After a string of gruesome attacks on townsfolk and livestock alike, [[Antoona Bastifor|Mayor Bastifor]] has posted a 450 gold bounty on Old Crimsonclaw's head.
-- Your adventure begins at the Crab Claw Inn, a venue well known for cold brews and surf and turf specials.
-- Whoever your character is, whether brave or foolish, they will soon leave the safety of the town to track Old Crimsonclaw through the twisting trails of the Tanglewood wilds...
+For a sleepy fishing village, [[Crabbley]] has always had more than its fair share of threats from both the land and the sea. The latest monster to terrorize the town is a manticore the locals call "Old Crimsonclaw".
+
+After a string of gruesome attacks on townsfolk and livestock alike, [[Antoona Bastifor|Mayor Bastifor]] has posted a 450 gold bounty on Old Crimsonclaw's head. Your adventure begins at the Crab Claw Inn, a venue well known for cold brews and surf and turf specials.
+
+Whoever your character is, whether brave or foolish, they will soon leave the safety of the town to track Old Crimsonclaw through the twisting trails of the Tanglewood wilds...
 
 # Outcomes
 

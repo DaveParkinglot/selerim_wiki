@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:08.095-04:00
-published: 2026-04-21T08:47:08.095-04:00
+modified: 2026-07-21T11:28:45.665-04:00
+published: 2026-07-21T11:28:45.665-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -57,9 +57,9 @@ Classes:
 
 # Adventure Premise
 
-- Your brilliant leader, the wicked sorcerer [[Morganth|MORGANTH]], seeks the eldritch powers of a powerful yuan-ti warlock who perished in the fall of [[Corrodreth|CORRODRETH, THE SALTED CITY]].
-- As a devoted member of [[Morganth's LEGION OF DOOM|MORGANTH'S LEGION OF DOOM]], you will aid your master even unto death.
-- As such, you have agreed to infiltrate the accursed city and locate the warlock's tomb.
+Your brilliant leader, the wicked sorcerer [[Morganth|MORGANTH]], seeks the eldritch powers of a powerful yuan-ti warlock who perished in the fall of [[Corrodreth|CORRODRETH, THE SALTED CITY]].
+
+As a devoted member of [[Morganth's LEGION OF DOOM|MORGANTH'S LEGION OF DOOM]], you will aid your master even unto death. As such, you have agreed to infiltrate the accursed city and locate the warlock's tomb.
 
 # Outcomes
 

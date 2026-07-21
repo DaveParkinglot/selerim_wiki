@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-03T20:47:11.000-04:00
-modified: 2026-05-19T12:42:15.228-04:00
-published: 2026-05-19T12:42:15.228-04:00
+modified: 2026-07-21T11:31:24.464-04:00
+published: 2026-07-21T11:31:24.464-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -51,10 +51,9 @@ Classes:
 
 # Adventure Premise
 
-- [[Hugh Mann]], El Presidente of [[Scrimshaw City|Scrimshaw]], has vanished from the city on the eve of his own party, the [[Hellnight]] Soirée.
-- [[Binky Slivers]], bartender at The High Roller and Mann's fixer, has called you in because of your previous success in eliminating the demonic presence at the Crystal Theatre.
-- Binky believes the situation to be grim, and has said as much:  "The El Presidente's absence leaves us open to a hostile takeover by young professionals and barons of hell alike."
-- Binky has provided his research into the most important guests: [[Binky Sliver's Hellnight Dossier]].
+[[Hugh Mann]], El Presidente of [[Scrimshaw City|Scrimshaw]], has vanished from the city on the eve of his own party, the [[Hellnight]] Soirée. [[Binky Slivers]], bartender at The High Roller and Mann's fixer, has called you in because of your previous success in eliminating the demonic presence at the Crystal Theatre.
+
+Binky believes the situation to be grim, and has said as much:  "The El Presidente's absence leaves us open to a hostile takeover by young professionals and barons of hell alike." Binky has provided his research into the most important guests: [[Binky Sliver's Hellnight Dossier]].
 
 # Outcomes
 

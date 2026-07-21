@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:32.615-04:00
-published: 2026-04-21T08:47:32.615-04:00
+modified: 2026-07-21T11:34:20.218-04:00
+published: 2026-07-21T11:34:20.218-04:00
 DM: Mike Doom
 Platform: Roll20
 Sessions: 1
@@ -59,7 +59,7 @@ Classes:
 
 # Adventure Premise
 
-- You and your team have been sent by the Afterking to investigate the presence of non-undead activity in the city of [[Mournholde]]. The ruler has been receiving mixed reports and the party is meant to find the source of these rumors and if there is any truth to them, quash them once-and-for-all!
+You and your team have been sent by the [[Galgitch the Afterking|Afterking]] to investigate the presence of non-undead activity in the city of [[Mournholde]]. The ruler has been receiving mixed reports and the party is meant to find the source of these rumors and if there is any truth to them, quash them once-and-for-all!
 
 # Outcomes
 

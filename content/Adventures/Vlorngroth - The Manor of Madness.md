@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-06-14T10:05:49.410-04:00
-published: 2026-06-14T10:05:49.410-04:00
+modified: 2026-07-21T13:27:51.795-04:00
+published: 2026-07-21T13:27:51.795-04:00
 DM: Jordan
 Platform: Roll20
 Sessions: 2
@@ -72,10 +72,9 @@ Handouts:
 
 # Adventure Premise
 
-- You will play as a group of Inquisitor Initiates in the city of [[Vlorngroth]].
-- Your mission: subdue and extract a resident from Duskveil Asylum, also known as "The Manor of Madness".
-- A prophetic vision from [[Matron Mother Aranaea]] implies that one asylum resident will be necessary to the coming surface invasion.
-- Unfortunately, the prophecy is not too clear on which resident is the prophesied one…
+You are a group of Inquisitor Initiates in the city of [[Vlorngroth]]. Your mission: subdue and extract a resident from Duskveil Asylum, also known as "The Manor of Madness".
+
+A prophetic vision from [[Matron Mother Aranaea]] implies that one asylum resident will be necessary to the coming surface invasion. Unfortunately, the prophecy is not too clear on which resident is the prophesied one…
 
 # Outcomes
 

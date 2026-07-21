@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-07-18T22:38:11.133-04:00
-published: 2026-07-18T22:38:11.133-04:00
+modified: 2026-07-21T11:32:34.396-04:00
+published: 2026-07-21T11:32:34.396-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -59,10 +59,11 @@ Classes:
 
 # Adventure Premise
 
-- Many automatons created by the renowned inventor [[Dillon Lonergan]] malfunctioned under mysterious circumstances last week, wreaking havoc across all of [[Crabbley]].
-- The notice boards around the town mention a large bounty on the head of the dastardly villain “[[Pill’Grim]]”, who is believed to be the perpetrator of this terrible crime.
-- Meet [[Bopus]] at the Crab Claw Inn for more information.
-- Should you succeed in Bopus’ quest, the bounty and the local fame would surely turn your life around.
+Many automatons created by the renowned inventor [[Dillon Lonergan]] malfunctioned under mysterious circumstances last week, wreaking havoc across all of [[Crabbley]].
+
+The notice boards around the town mention a large bounty on the head of the dastardly villain “[[Pill’Grim]]”, who is believed to be the perpetrator of this terrible crime. Meet [[Bopus]] at the Crab Claw Inn for more information.
+
+Should you succeed in Bopus’ quest, the bounty and the local fame would surely turn your life around.
 
 # Outcomes
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:21.363-04:00
-published: 2026-04-21T08:47:21.363-04:00
+modified: 2026-07-21T11:32:02.060-04:00
+published: 2026-07-21T11:32:02.060-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -55,7 +55,7 @@ Classes:
 
 # Adventure Premise
 
-- Bone Tavern is failing, and [[Captain Winchester Bone]] needs to remain solvent in his retirement years. Retrieve his hoard of treasure, which is hidden in a quiet cove to the south.
+Bone Tavern is failing, and [[Captain Winchester Bone]] needs to remain solvent in his retirement years. Retrieve his hoard of treasure, which is hidden in a quiet cove to the south.
 
 # Outcomes
 

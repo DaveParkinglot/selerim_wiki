@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T08:02:27.000-04:00
-modified: 2026-06-14T10:11:01.108-04:00
-published: 2026-06-14T10:11:01.108-04:00
+modified: 2026-07-21T13:28:18.815-04:00
+published: 2026-07-21T13:28:18.815-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 4
@@ -57,7 +57,9 @@ Classes:
 
 # Adventure Premise
 
-- Word is spreading about movement of soldiers and ships belonging to the families [[Ruz Family|Ruz]] and [[Batista Family|Batista]], and perhaps even other forces interested in the future of [[Tiialia]]. As luck would have it, you have acquired a note that details a potential invasion of Isla Ruz by Batista-aligned forces. You and other intriguing characters have arrived at the harbor of [[Nova Jersaeria]] to investigate these claims, or perhaps to seek a way to warn [[Alejandro Ruz]], or perhaps embark as part of this supposed invasion to acquire fortune.
+Word is spreading about movement of soldiers and ships belonging to the families [[Ruz Family|Ruz]] and [[Batista Family|Batista]], and perhaps even other forces interested in the future of [[Tiialia]]. As luck would have it, you have acquired a note that details a potential invasion of Isla Ruz by Batista-aligned forces.
+
+You and other intriguing characters have arrived at the harbor of [[Nova Jersaeria]] to investigate these claims, or perhaps to seek a way to warn [[Alejandro Ruz]], or perhaps embark as part of this supposed invasion to acquire fortune.
 
 # Outcomes
 

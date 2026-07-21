@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-06-06T08:13:02.000-04:00
-published: 2026-06-06T08:13:02.000-04:00
+modified: 2026-07-21T13:27:33.288-04:00
+published: 2026-07-21T13:27:33.288-04:00
 DM: Jordan
 Platform: Roll20
 Sessions: 1
@@ -59,9 +59,9 @@ Classes:
 
 # Adventure Premise
 
-- Upstart duergar rebels led by one-time Inquisitor Initiate [[Dyksin Poosie]] have spoken out against [[High Lord Jorad Kranicz]]'s "rampant disregard of duergar culture".
-- Dyksin and his fellow traitors are holed up at the Forge of Dingon, and initial reports indicate that their position is lightly fortified.
-- They must be dealt with swiftly before they rally more disgruntled, disloyal duergar to their side.
+Upstart duergar rebels led by one-time Inquisitor Initiate [[Dyksin Poosie]] have spoken out against [[High Lord Jorad Kranicz]]'s "rampant disregard of duergar culture".
+
+Dyksin and his fellow traitors are holed up at the Forge of Dingon, and initial reports indicate that their position is lightly fortified. They must be dealt with swiftly before they rally more disgruntled, disloyal duergar to their side.
 
 # Outcomes
 

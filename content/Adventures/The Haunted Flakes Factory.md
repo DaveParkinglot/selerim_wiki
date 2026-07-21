@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-04-21T08:47:18.911-04:00
-published: 2026-04-21T08:47:18.911-04:00
+modified: 2026-07-21T11:31:01.529-04:00
+published: 2026-07-21T11:31:01.529-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -51,7 +51,7 @@ Classes:
 
 # Adventure Premise
 
-- On [[Hallowtide]] Eve, you and your friends are attending a beach bonfire party on the outskirts of the town of [[Crabbley]], enjoying beverages and scary ghost stories. Unfortunately, one of these spooky tales will be more than just a story…
+On [[Hallowtide]] Eve, you and your friends are attending a beach bonfire party on the outskirts of the town of [[Crabbley]], enjoying beverages and scary ghost stories. Unfortunately, one of these spooky tales will be more than just a story…
 
 # Outcomes
 

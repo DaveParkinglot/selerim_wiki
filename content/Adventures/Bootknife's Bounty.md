@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-05-12T09:23:41.029-04:00
-published: 2026-05-12T09:23:41.029-04:00
+modified: 2026-07-21T11:27:23.040-04:00
+published: 2026-07-21T11:27:23.040-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -55,8 +55,9 @@ Classes:
 
 # Adventure Premise
 
-- You are travelers on the sailing ship The Dankwood Express, heading west from the Tanglewood Peninsula ([[Crillville]], [[Crabbley]], [[Mitlin]], [[Oasis]], or [[Scrimshaw City]]). Your course is set for many destinations in The Great Delphin Sea ([[Breakwater Cove]], [[Forsyth Keep]], [[White Grove]], [[Nova Jersaeria]]). Where are you leaving and where are you heading to? And more importantly, why?
-- During the journey, you are approached by a goblin cabin boy named [[Li'l Gubbins]]. He says his uncle [[Bootknife]] has a big job coming up out of Breakwater Cove, and that he needs a good crew. The payout seems sizeable, but you'll want to meet this Bootknife fellow first…
+You are travelers on the sailing ship The Dankwood Express, heading west from the Tanglewood Peninsula ([[Crillville]], [[Crabbley]], [[Mitlin]], [[Oasis]], or [[Scrimshaw City]]). Your course is set for many destinations in The Great Delphin Sea ([[Breakwater Cove]], [[Forsyth Keep]], [[White Grove]], [[Nova Jersaeria]]). Where are you leaving and where are you heading to? And more importantly, why?
+
+During the journey, you are approached by a goblin cabin boy named [[Li'l Gubbins]]. He says his uncle [[Bootknife]] has a big job coming up out of Breakwater Cove, and that he needs a good crew. The payout seems sizeable, but you'll want to meet this Bootknife fellow first…
 
 # Outcomes
 

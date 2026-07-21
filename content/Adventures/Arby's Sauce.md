@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-06-18T15:37:38.779-04:00
-published: 2026-06-18T15:37:38.779-04:00
+modified: 2026-07-21T11:26:25.465-04:00
+published: 2026-07-21T11:26:25.465-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -60,12 +60,13 @@ Classes:
 
 # Adventure Premise
 
-- As an up and coming adventuring party in [[Scrimshaw City]], you have been approached by a mysterious stranger named [[Loeb]] who claims to be the Interim Chief Operating Officer of a well known business in the city. He has a task that, left undone, could spell doom for the local [[Tiialia|Tiialan]] eatery “[[The Spicy Meatball]]”.
+As an up and coming adventuring party in [[Scrimshaw City]], you have been approached by a mysterious stranger named [[Loeb]] who claims to be the Interim Chief Operating Officer of a well known business in the city. He has a task that, left undone, could spell doom for the local [[Tiialia|Tiialan]] eatery “[[The Spicy Meatball]]”.
 
 # Outcomes
 
-- After navigating through the Scrimshaw Wilds and the devious cave hideout of the redcap Fumbo Bimpis, the party was overwhelmed by tricksy fey and a diabolical Giant Goose. Rather than face imprisonment by the fey, the last conscious adventurer in the party pulled the pin on a Gnome-Nade, killing everyone (and the Giant Goose) instantly.
-- Before their untimely demise, the party saw several objects stolen from The Spicy Meatball. Fumbo Bimpis appeared to be creating a mirror of The Spicy Meatball in the Feywild, including petrified humanoid bar patrons.
+After navigating through the Scrimshaw Wilds and the devious cave hideout of the devious redcap Fumbo Bimpis, the party was overwhelmed by tricksy fey and a diabolical Giant Goose. Rather than face imprisonment by the fey, the last conscious adventurer in the party pulled the pin on a Gnome-Nade, killing everyone (and the Giant Goose) instantly.
+
+Before their untimely demise, the party saw several objects stolen from [[The Spicy Meatball]]. Fumbo Bimpis appeared to be creating a mirror of The Spicy Meatball in the Feywild, including petrified humanoid bar patrons.
 
 # Players & Characters
 

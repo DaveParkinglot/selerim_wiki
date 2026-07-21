@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T12:22:17.000-05:00
-modified: 2026-06-18T15:35:50.061-04:00
-published: 2026-06-18T15:35:50.061-04:00
+modified: 2026-07-21T11:27:08.937-04:00
+published: 2026-07-21T11:27:08.937-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -58,10 +58,9 @@ Classes:
 
 # Adventure Premise
 
-- Bobby Dismorphia, [[Borfield]]'s most eligible bachelor, has finally found romance... by way of an arranged marriage his father drew up at his birth 22 years ago.
-- The marriage contract stipulates that Bobby shall marry his childhood friend [[Blotta Balmer]] in the summer of his 22nd year, should he go that long without finding a more suitable bride. If you disregard the bride's 2,500 gold dowry (which Bobby is now on the hook for), he truly could have done so much worse.
-- [[Hoary Boulder]], Bobby's older friend, has worked out all the details of Bobby's Bachelor Birthday Bender. He insists that the finer details of the event remain a surprise, but he has provided travel funds to get each of you to [[The Spicy Meatball]], a restaurant he partly owns in the great port city of [[Scrimshaw City|Scrimshaw]].
-- You might not owe Bobby a gods' damned thing. Hells, you might even hate his guts, but you certainly won't miss out on an open bar and free passage to the greatest city east of [[Nova Jersaeria]]!
+Bobby Dismorphia, [[Borfield]]'s most eligible bachelor, has finally found romance... by way of an arranged marriage his father drew up at his birth 22 years ago. The marriage contract stipulates that Bobby shall marry his childhood friend [[Blotta Balmer]] in the summer of his 22nd year, should he go that long without finding a more suitable bride. If you disregard the bride's 2,500 gold dowry (which Bobby is now on the hook for), he truly could have done so much worse.
+
+[[Hoary Boulder]], Bobby's older friend, has worked out all the details of Bobby's Bachelor Birthday Bender. He insists that the finer details of the event remain a surprise, but he has provided travel funds to get each of you to [[The Spicy Meatball]], a restaurant he partly owns in the great port city of [[Scrimshaw City|Scrimshaw]]. You might not owe Bobby a gods' damned thing. Hells, you might even hate his guts, but you certainly won't miss out on an open bar and free passage to the greatest city east of [[Nova Jersaeria]]!
 
 # Outcomes
 

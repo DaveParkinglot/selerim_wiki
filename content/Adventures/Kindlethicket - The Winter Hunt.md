@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T10:08:23.000-04:00
-modified: 2026-05-04T11:42:38.714-04:00
-published: 2026-05-04T11:42:38.714-04:00
+modified: 2026-07-21T11:28:22.975-04:00
+published: 2026-07-21T11:28:22.975-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -55,8 +55,9 @@ Classes:
 
 # Adventure Premise
 
-- As every good elf in [[Mitlin]] knows, on Giftmas Eve, the Archfey [[Krampus]] leads the Winter Hunt across the domains of the Feywild and into the myriad material planes, capturing those who have broken sacred pacts and stowing them in his big black punishment sack. This year, an innocent soul from your world was unjustly marked as a pactbreaker and claimed by The Hunt.
-- The Wise Wizards of Mitlin have scried that this individual must be rescued, as they have information that could save the world. With no family to spend Giftmas with, you have been chosen for this perilous quest into the Feywild. [[Melvin Oaksleeves|Wise Wizard Melvin]]’s parting words echo in your mind: “This [[Giftmas]], the fate of Selerim teeters on a knife's edge. One misstep, and all will careen into oblivion… so do try not to mess it up. Good luck!”
+As every good elf in [[Mitlin]] knows, on [[Giftmas]] Eve, the Archfey [[Krampus]] leads the Winter Hunt across the domains of the Feywild and into the myriad material planes, capturing those who have broken sacred pacts and stowing them in his big black punishment sack. This year, an innocent soul from your world was unjustly marked as a pactbreaker and claimed by The Hunt.
+
+The Wise Wizards of Mitlin have scried that this individual must be rescued, as they have information that could save the world. With no family to spend Giftmas with, you have been chosen for this perilous quest into the Feywild. [[Melvin Oaksleeves|Wise Wizard Melvin]]’s parting words echo in your mind: “This [[Giftmas]], the fate of Selerim teeters on a knife's edge. One misstep, and all will careen into oblivion… so do try not to mess it up. Good luck!”
 
 # Outcomes
 

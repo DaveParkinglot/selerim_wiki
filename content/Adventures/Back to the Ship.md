@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-14T09:47:35.000-05:00
-modified: 2026-04-21T08:46:30.679-04:00
-published: 2026-04-21T08:46:30.679-04:00
+modified: 2026-07-21T11:26:52.184-04:00
+published: 2026-07-21T11:26:52.184-04:00
 DM: Jordan
 Players:
   - Mike Doom
@@ -53,7 +53,7 @@ Classes:
 
 # Adventure Premise
 
-- While working on a routine [[Giftmas]] delivery in the Krampus System, you and your shipmates are stranded at a mining outpost whose occupants have mysteriously vanished.
+While working on a routine [[Giftmas]] delivery in the Krampus System, you and your shipmates are stranded at a mining outpost whose occupants have mysteriously vanished.
 
 # Outcomes
 

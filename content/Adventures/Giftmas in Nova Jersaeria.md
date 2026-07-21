@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T15:37:56.000-04:00
-modified: 2026-04-21T08:46:36.815-04:00
-published: 2026-04-21T08:46:36.815-04:00
+modified: 2026-07-21T11:27:58.793-04:00
+published: 2026-07-21T11:27:58.793-04:00
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -55,8 +55,7 @@ Classes:
 
 # Adventure Premise
 
-- It's [[Giftmas]] Eve in [[Nova Jersaeria]].
-- [[Barl Nilewski]], the Boli Gnome is one of the best stromboli makers in the city, but his cart was robbed on the way to the Giftmas Market, and he needs you to figure out who did it!
+It's [[Giftmas]] Eve in [[Nova Jersaeria]]! [[Barl Nilewski]] the Boli Gnome is one of the best stromboli makers in the city, but his cart was robbed on the way to the Giftmas Market, and he needs you to figure out who did it!
 
 # Outcomes
 

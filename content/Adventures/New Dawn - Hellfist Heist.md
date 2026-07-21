@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T08:11:09.000-05:00
-modified: 2026-06-18T15:36:49.529-04:00
-published: 2026-06-18T15:36:49.529-04:00
+modified: 2026-07-21T11:28:53.130-04:00
+published: 2026-07-21T11:28:53.130-04:00
 DM: Jordan
 Players:
   - David
@@ -53,8 +53,9 @@ Classes:
 
 # Adventure Premise
 
-- [[Caleb Arlester]], a [[Scrimshaw City|Scrimshaw]]-based heist planner of some renown, has set a meet with rising crime boss [[Maureen Stonetooth]] under the guise of sale negotiations for a powerful relic of the Nine Hells, the [[Hellfist]].
-- As a member of Caleb's crew, you will secretly attend this meet and make a play to heist the relic from Stonetooth.
+[[Caleb Arlester]], a [[Scrimshaw City|Scrimshaw]]-based heist planner of some renown, has set a meet with rising crime boss [[Maureen Stonetooth]] under the guise of sale negotiations for a powerful relic of the Nine Hells, the [[Hellfist]].
+
+As a member of Caleb's crew, you will secretly attend this meet and make a play to heist the relic from Stonetooth.
 
 # Outcomes
 
