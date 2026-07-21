@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Living Realm
 created: 2026-02-04T12:08:10.014-05:00
-modified: 2026-07-17T11:24:39.417-04:00
-published: 2026-07-17T11:24:39.417-04:00
+modified: 2026-07-21T09:46:12.288-04:00
+published: 2026-07-21T09:46:12.288-04:00
 alias: Living Realm
 Author: Jordan
 ---

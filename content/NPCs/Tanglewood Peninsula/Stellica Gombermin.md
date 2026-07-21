@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:14:52.314-04:00
-published: 2026-04-21T09:14:52.314-04:00
-Age: "19"
+modified: 2026-07-21T09:10:23.947-04:00
+published: 2026-07-21T09:10:23.947-04:00
+Age: "17"
 Ancestry: Goblin
 Gender: Female
 Location:
@@ -28,7 +28,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 19
+> **Age**: 17
 >
 > **Ancestry**: Goblin
 >
@@ -46,19 +46,22 @@ Author: Jordan
 
 # Overview
 
-- Mayor Boje's devoted intern, Stellica went on to become the next mayor's intern as well after Boje turned into an abominable crab-based monster.
-- She now works for the current mayor of [[Antoona Bastifor]].
-- She aspires to one day have a Bachelor's of Arts degree in Political Science. No goblin has ever gotten this type of degree, so this would be huge for her.
+Stellica was originally Mayor Boje's devoted intern, until he was poisoned and turned into an abominable crab-based monster.
+
+After Boje's demise at the hands of the adventuring party [[The High Rollers]], [[Antoona Bastifor]] became the mayor and Stellica was promoted to staffer.
+
+She aspires to one day be more than just a staffer, and perhaps even get a political science degree. No goblin has ever gotten this type of degree, so this would be huge for her.
 
 # Attributes
 
-- **Voice**: High pitched and girlish
-- **Traits**: Eager and naive
+- **Voice**: High pitched, British, girlish
+- **Traits**: Eager but so so naive
 - **Goals:** If I work hard enough, I will become a great politician
-- **Appearance**: Short goblin girl with black hair and spectacles
+- **Appearance**: Short goblin girl with black hair and spectacles. Often has a flower in her hair
 
 # Relationships
 
 | Name                 | Relationship |
 | -------------------- | ------------ |
 | [[Antoona Bastifor]] | Boss         |
+| Mayor Boje           | Former Boss  |

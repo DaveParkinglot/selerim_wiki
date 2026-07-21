@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-07-17T11:31:01.695-04:00
-published: 2026-07-17T11:31:01.695-04:00
+modified: 2026-07-21T09:12:29.239-04:00
+published: 2026-07-21T09:12:29.239-04:00
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -67,7 +67,7 @@ Crabbley, once a sleepy fishing village without much going on, has become a hotb
 1. It's on the edge of a great frontier—the [[Tanglewood Peninsula|Tanglewood]] Wilds.
 2. The most famous adventuring party in the lands—[[The High Rollers]]—got there start here.
 
-Originally, Crabbley was founded by settlers migrating south from the dreary harbor town of [[Crillville]]. Since the eco-terrorist group [[The Tanglers]] committed atrocities in both Crabbley and [[Crillville]], the two towns joined both their militias and their governments to create the [[Tanglewood Defense Council]].
+Originally, Crabbley was founded by settlers migrating south from the dreary harbor town of [[Crillville]]. Since the eco-terrorist group the [[Tanglers]] committed atrocities in both Crabbley and [[Crillville]], the two towns joined both their militias and their governments to create the [[Tanglewood Defense Council]].
 
 # Attributes
 

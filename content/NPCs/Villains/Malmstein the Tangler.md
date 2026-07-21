@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-04T11:43:30.803-04:00
-published: 2026-05-04T11:43:30.803-04:00
+modified: 2026-07-21T09:13:34.446-04:00
+published: 2026-07-21T09:13:34.446-04:00
 Age: "48"
 Ancestry:
   - Half-Elf
@@ -12,7 +12,7 @@ Location:
 Role:
   - Eco-Terrorist, Druid
 Affiliation:
-  - "[[The Tanglers]]"
+  - "[[Tanglers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Deceased
@@ -37,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Eco-Terrorist, Druid
 >
-> **Affiliation:** [[The Tanglers|The Tanglers]]
+> **Affiliation:** [[Factions/Tanglers.md|Tanglers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >
@@ -45,7 +45,7 @@ Author: Jordan
 
 # Overview
 
-- One very angry druid, and the former leader of the eco-terrorist organization [[The Tanglers]].
+- One very angry druid, and the former leader of the eco-terrorist organization [[Tanglers]].
 - He crashed the [[Crab Fest]] and caused quite an issue for [[Crabbley]] and [[Crillville]], but he was put in his place one fateful Monday during the Invasion of Crillville.
 - Ultimately, he was captured by [[The High Rollers]] and impaled on [[Dick Gunbarrel]]'s greatsword.
 

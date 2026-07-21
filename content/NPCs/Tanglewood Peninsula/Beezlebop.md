@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-06-15T09:14:35.861-04:00
-published: 2026-06-15T09:14:35.861-04:00
+modified: 2026-07-21T09:12:38.955-04:00
+published: 2026-07-21T09:12:38.955-04:00
 tags:
   - Tanglewood-Peninsula
 Age: "60"
@@ -13,7 +13,7 @@ Location:
 Role:
   - Archmage
 Affiliation:
-  - "[[The Tanglers]]"
+  - "[[Tanglers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[The Crimsonclaw Bounty]]"
@@ -39,7 +39,7 @@ Author: Jordan
 >
 > **Role**: Archmage
 >
-> **Affiliation:** [[The Tanglers|The Tanglers]]
+> **Affiliation:** [[Factions/Tanglers.md|Tanglers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 >

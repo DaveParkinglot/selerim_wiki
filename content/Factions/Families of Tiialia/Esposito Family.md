@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2023-08-26T23:33:28.000-04:00
-modified: 2026-01-20T09:17:15.481-05:00
-published: 2026-01-20T09:17:15.481-05:00
+modified: 2026-07-21T09:37:55.408-04:00
+published: 2026-07-21T09:37:55.408-04:00
 Author: Jordan
 ---
 
-- All but wiped out after the Midsummer Massacre, when the Espositos were betrayed and killed en masse by the [[Fanto-Domingo Family]]
-- The only remaining family member is [[Antonino Esposito]], "Nino", who was a friend of [[Francis Greenstrider De Luca|Frankie's]] father
-- Quintino Esposito was the progenitor of the family, and he struck a bargain with the Dente family to always serve the Espositos, and in return his family would pay for passage aboard the [[Necronaut of Mournholde]]
-- Nino is actually a distant descendant of the last king of [[Tiialia]], and the last remnant of the royal line that was wiped out 100 years ago
+This noble family was all but wiped out after the Midsummer Massacre, when they were betrayed and killed en masse by the [[Fanto-Domingo Family]] under the guise of peace talks.
+
+The family's only survivor was the former spymaster [[Antonino Esposito]], who goes by "Nino". He was a friend of [[Francis Greenstrider De Luca|Frankie's]] father deceased father Marco.
+
+After Frankie discovered that Nino was the true heir to the Tiialan throne, [[The High Rollers]] deposed the regime of [[Lord Draco Landucci]], and ultimately Nino was crowned as [[Antonino Esposito|King Antonino Esposito I]] of Tiialia.

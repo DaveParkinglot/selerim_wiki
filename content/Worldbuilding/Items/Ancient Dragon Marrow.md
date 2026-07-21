@@ -4,8 +4,8 @@ aliases:
   - The Substance
   - ADM
 created: 2026-03-24T11:06:13.636-04:00
-modified: 2026-06-28T09:59:49.762-04:00
-published: 2026-06-28T09:59:49.762-04:00
+modified: 2026-07-21T09:40:46.842-04:00
+published: 2026-07-21T09:40:46.842-04:00
 Author: Jordan
 ---
 
@@ -14,9 +14,9 @@ Author: Jordan
 
 ![[z_assets/ancient_dragon_marrow.png]]
 
-- The dried marrow of the ancient dragons killed in the [[Generations' War]] is sacred to the elves of [[Mitlin]], who call it "The Substance".
-- It is a powerful upper that can result in dangerous wild magic surges, depending on the user's constitution.
-- The elves of Mitlin have discovered that the magical properties are similar to that of the [[Violet Bleed]], however, study of The Substance is prohibited by Mitlin's conservatives.
+The dried marrow of the ancient dragons killed in the [[Generations' War]] is sacred to the elves of [[Mitlin]], who call it "The Substance". It is a powerful upper that can result in dangerous wild magic surges, depending on the user's constitution.
+
+The elves of Mitlin have discovered that the magical properties are similar to that of the [[Violet Bleed]], however, study of The Substance is prohibited by Mitlin's conservatives.
 
 **Mechanically, the item works like this:**
 
