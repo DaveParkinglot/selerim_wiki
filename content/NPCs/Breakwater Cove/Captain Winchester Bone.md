@@ -3,9 +3,10 @@ publish: true
 aliases:
   - Captain Bone
   - Captain Winchester Bone
+  - Winchester Bone
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-07-03T11:00:10.943-04:00
-published: 2026-07-03T11:00:10.943-04:00
+modified: 2026-07-20T15:35:35.099-04:00
+published: 2026-07-20T15:35:35.099-04:00
 tags:
   - Breakwater-Cove
 Age: "66"
