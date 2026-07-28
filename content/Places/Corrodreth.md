@@ -4,11 +4,11 @@ aliases:
   - Corrodreth, the Salted City
 title: Corrodreth, the Salted City
 created: 2023-09-02T09:43:46.000-04:00
-modified: 2026-07-17T11:27:03.338-04:00
-published: 2026-07-17T11:27:03.338-04:00
+modified: 2026-07-27T16:21:31.094-04:00
+published: 2026-07-27T16:21:31.094-04:00
 Type:
   - Landmark
-Age (years): 1800
+founded_year: -1555
 Appearances:
   - "[[Adventures/Morganth's LEGION OF DOOM|Morganth's LEGION OF DOOM]]"
 marker:
@@ -31,9 +31,9 @@ tags:
 >
 > **Type**: Landmark
 >
-> **Age:** 1800
+> **Age:** 1,821 years
 >
-> **Population**:
+> **Population**: -
 >
 > **Affiliation**: -
 >

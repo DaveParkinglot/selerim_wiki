@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-09-17T12:03:07.000-04:00
-modified: 2026-06-14T10:04:13.197-04:00
-published: 2026-06-14T10:04:13.197-04:00
-Age: "163"
+modified: 2026-07-28T11:00:38.064-04:00
+published: 2026-07-28T11:00:38.064-04:00
+born: 102
 Ancestry:
   - Drow
   - Vampire
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 163
+> **Age:** 164 years
 >
 > **Ancestry**: Drow, Vampire
 >

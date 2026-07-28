@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T09:13:12.047-04:00
-published: 2026-04-21T09:13:12.047-04:00
-Age: "267"
+modified: 2026-07-27T17:44:04.558-04:00
+published: 2026-07-27T17:44:04.558-04:00
+born: -1
 Ancestry:
   - Rakshasa
 Gender: Male
@@ -32,7 +32,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 267
+> **Age:** 267 years
 >
 > **Ancestry**: Rakshasa
 >

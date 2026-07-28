@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-18T15:32:52.486-04:00
-published: 2026-06-18T15:32:52.486-04:00
-Age: ??
+modified: 2026-07-27T17:33:30.081-04:00
+published: 2026-07-27T17:33:30.081-04:00
+born: -10000
 Ancestry: Marut
 Gender: N/A
 Location:
@@ -27,7 +27,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: ??
+> **Age:** ??
 >
 > **Ancestry**: Marut
 >

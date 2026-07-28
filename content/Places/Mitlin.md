@@ -2,14 +2,14 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T08:16:34.000-04:00
-modified: 2026-07-17T11:27:55.517-04:00
-published: 2026-07-17T11:27:55.517-04:00
+modified: 2026-07-27T16:16:50.798-04:00
+published: 2026-07-27T16:16:50.798-04:00
 tags:
   - Tanglewood-Peninsula
   - Settlement
 Type:
   - Town
-Age (years): 120
+founded_year: 144
 Population: 3200
 Affiliation:
   - None
@@ -41,9 +41,9 @@ Author: Jordan
 >
 > **Type**: Town
 >
-> **Age:** 120
+> **Age:** 122 years
 >
-> **Population**: 3200
+> **Population**: 3,200
 >
 > **Affiliation**: None
 >

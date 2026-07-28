@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T09:13:14.831-04:00
-published: 2026-04-21T09:13:14.831-04:00
-Age: "49"
+modified: 2026-07-27T18:22:45.039-04:00
+published: 2026-07-27T18:22:45.039-04:00
+born: 215
 Ancestry:
   - Orc
 Gender: Male
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 49
+> **Age:** 51 years
 >
 > **Ancestry**: Orc
 >

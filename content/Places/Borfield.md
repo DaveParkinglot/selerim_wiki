@@ -2,13 +2,13 @@
 publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T16:13:07.000-05:00
-modified: 2026-07-20T11:02:07.896-04:00
-published: 2026-07-20T11:02:07.896-04:00
+modified: 2026-07-27T16:10:31.543-04:00
+published: 2026-07-27T16:10:31.543-04:00
 tags:
   - Settlement
 Type:
   - Hamlet
-Age (years): 200
+founded_year: 65
 Population: 400
 Affiliation:
   - None
@@ -37,7 +37,7 @@ aliases:
 >
 > **Type**: Hamlet
 >
-> **Age:** 200
+> **Age:** 201
 >
 > **Population**: 400
 >

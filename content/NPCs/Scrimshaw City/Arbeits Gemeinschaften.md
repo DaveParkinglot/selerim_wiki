@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Arby
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-18T15:37:49.414-04:00
-published: 2026-06-18T15:37:49.414-04:00
-Age: "48"
+modified: 2026-07-27T17:43:34.279-04:00
+published: 2026-07-27T17:43:34.279-04:00
+born: 217
 Ancestry:
   - Bugbear
 Gender: Male
@@ -30,7 +30,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 48
+> **Age:** 49 years
 >
 > **Ancestry**: Bugbear
 >

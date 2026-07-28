@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-08-12T08:58:27.000-04:00
-modified: 2026-04-21T08:49:58.300-04:00
-published: 2026-04-21T08:49:58.300-04:00
-Age: "174"
+modified: 2026-07-27T17:31:58.811-04:00
+published: 2026-07-27T17:31:58.811-04:00
+born: 92
 Ancestry: Fiend (Devil), Sahuagin
 Gender: Male
 Location:
@@ -26,7 +26,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 174
+> **Age:** 174 years
 >
 > **Ancestry**: Fiend (Devil), Sahuagin
 >

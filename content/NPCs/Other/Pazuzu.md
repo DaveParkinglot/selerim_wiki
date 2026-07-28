@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-08-12T09:10:18.000-04:00
-modified: 2026-07-16T14:14:22.452-04:00
-published: 2026-07-16T14:14:22.452-04:00
-Age: ??
+modified: 2026-07-27T17:33:59.886-04:00
+published: 2026-07-27T17:33:59.886-04:00
+born: -10000
 Ancestry:
   - Demon
 Gender: Male
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: ??
+> **Age:** ??
 >
 > **Ancestry**: Demon
 >

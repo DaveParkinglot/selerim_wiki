@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:35.808-04:00
-published: 2026-04-21T09:14:35.808-04:00
-Age: "56"
+modified: 2026-07-28T10:49:27.593-04:00
+published: 2026-07-28T10:49:27.593-04:00
+born: 211
 Ancestry: Human
 Gender: Male
 Location:
@@ -27,7 +27,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 56
+> **Age:** 55 years
 >
 > **Ancestry**: Human
 >

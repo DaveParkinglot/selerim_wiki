@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:14:45.767-04:00
-published: 2026-04-21T09:14:45.767-04:00
-Age: "142"
+modified: 2026-07-28T10:50:55.620-04:00
+published: 2026-07-28T10:50:55.620-04:00
+born: 127
 Ancestry:
   - Half Sea Elf
 Gender: Male
@@ -27,7 +27,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 142
+> **Age:** 139 years
 >
 > **Ancestry**: Half Sea Elf
 >

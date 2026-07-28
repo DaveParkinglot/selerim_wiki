@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-16T21:13:04.000-04:00
-modified: 2026-07-21T13:28:48.030-04:00
-published: 2026-07-21T13:28:48.030-04:00
+modified: 2026-07-28T11:06:33.439-04:00
+published: 2026-07-28T11:06:33.439-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 4
@@ -80,7 +80,7 @@ Students who succeed in the scavenger hunt will be given extra commendations in 
 ## Session 3
 
 - [[Cristos Babblestaff]] wandered back into the temple in the nick of time and was able to use his Aid spell scroll to save the day.
-- Provost Serpentios was killed as he begged the students to spare him, saying that they could join him as members of [[Morganth's LEGION OF DOOM|Morganth's Legion of Doom]].
+- Provost Serpentios was killed as he begged the students to spare him, saying that they could join him as members of the [[Legion of Doom]].
 - Deeper in the temple, [[Sari]] was being held captive by the Provost, and the students were able to both rescue her and kill a large gelatinous cube filled with magic items.
 - As Sari was already on her way to completing the scavenger hunt, she quickly joined with the party, and everyone grabbed a coconut, the second item in the scavenger hunt.
 - After making their way back to [[White Grove]] campus, the students researched the meaning of the next clue of the scavenger hunt and took some much needed rest and relaxation.

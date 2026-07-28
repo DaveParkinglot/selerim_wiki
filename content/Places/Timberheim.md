@@ -2,13 +2,13 @@
 publish: true
 title: Timberheim
 created: 2026-04-19T21:24:31.189-04:00
-modified: 2026-07-17T11:27:51.460-04:00
-published: 2026-07-17T11:27:51.460-04:00
+modified: 2026-07-27T16:18:27.811-04:00
+published: 2026-07-27T16:18:27.811-04:00
 tags:
   - Settlement
 Type:
   - Village
-Age (years): 250
+founded_year: 15
 Population: 400
 Affiliation:
   - "[[Greenscale the Destroyer]]"
@@ -36,7 +36,7 @@ aliases:
 >
 > **Type**: Village
 >
-> **Age:** 250
+> **Age:** 251 years
 >
 > **Population**: 400
 >

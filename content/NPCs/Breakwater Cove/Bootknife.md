@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-15T09:11:46.597-04:00
-published: 2026-06-15T09:11:46.597-04:00
+modified: 2026-07-27T17:26:09.824-04:00
+published: 2026-07-27T17:26:09.824-04:00
 tags:
   - Breakwater-Cove
-Age: "37"
+born: 229
 Ancestry: Goblin
 Gender: Male
 Location:
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 37
+> **Age:** 37 years
 >
 > **Ancestry**: Goblin
 >

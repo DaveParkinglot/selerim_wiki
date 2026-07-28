@@ -3,13 +3,13 @@ publish: true
 aliases:
   - The Yuleshade
 created: 2025-12-09T19:13:43.000-05:00
-modified: 2026-06-16T09:05:10.373-04:00
-published: 2026-06-16T09:05:10.373-04:00
+modified: 2026-07-27T16:20:10.006-04:00
+published: 2026-07-27T16:20:10.006-04:00
 tags:
   - Region
 Type:
   - Domain of Delight
-Age (years): 6200
+founded_year: -6150
 Population: 10000
 Affiliation:
   - None
@@ -30,9 +30,9 @@ Appearances:
 >
 > **Type**: Domain of Delight
 >
-> **Age:** 6200
+> **Age:** 6,416 years
 >
-> **Population**: 10000
+> **Population**: 10,000
 >
 > **Affiliation**: None
 >

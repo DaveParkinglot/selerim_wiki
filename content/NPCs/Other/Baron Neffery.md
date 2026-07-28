@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-08-05T13:44:04.000-04:00
-modified: 2026-04-21T08:49:56.553-04:00
-published: 2026-04-21T08:49:56.553-04:00
-Age: ??
+modified: 2026-07-27T17:34:09.018-04:00
+published: 2026-07-27T17:34:09.018-04:00
+born: -10000
 Ancestry:
   - Fiend (Devil)
 Gender: Male
@@ -27,7 +27,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: ??
+> **Age:** ??
 >
 > **Ancestry**: Fiend (Devil)
 >

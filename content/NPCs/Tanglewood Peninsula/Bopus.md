@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-07-21T08:58:11.464-04:00
-published: 2026-07-21T08:58:11.464-04:00
-Age: "64"
+modified: 2026-07-28T10:46:11.547-04:00
+published: 2026-07-28T10:46:11.547-04:00
+born: 201
 Ancestry: Gnome
 Gender: Male
 Location:
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 64
+> **Age:** 65 years
 >
 > **Ancestry**: Gnome
 >

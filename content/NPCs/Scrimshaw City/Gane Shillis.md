@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-02-25T10:14:57.000-05:00
-modified: 2026-04-21T09:13:31.249-04:00
-published: 2026-04-21T09:13:31.249-04:00
-Age: "32"
+modified: 2026-07-27T18:20:09.337-04:00
+published: 2026-07-27T18:20:09.337-04:00
+born: 234
 Ancestry:
   - Orc
 Gender: Male
@@ -31,7 +31,7 @@ aliases:
 >
 > ## Details
 >
-> **Age**: 32
+> **Age:** 32 years
 >
 > **Ancestry**: Orc
 >

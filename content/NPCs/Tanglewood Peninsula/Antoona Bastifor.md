@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-06-15T09:13:48.637-04:00
-published: 2026-06-15T09:13:48.637-04:00
+modified: 2026-07-28T10:43:59.027-04:00
+published: 2026-07-28T10:43:59.027-04:00
 tags:
   - Crabbley
   - Tanglewood-Peninsula
-Age: "43"
+born: 221
 Ancestry: Elf
 Gender: Female
 Location:
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 43
+> **Age:** 45 years
 >
 > **Ancestry**: Elf
 >

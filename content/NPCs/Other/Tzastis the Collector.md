@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-18T15:36:32.598-04:00
-published: 2026-06-18T15:36:32.598-04:00
-Age: ??
+modified: 2026-07-27T17:35:14.192-04:00
+published: 2026-07-27T17:35:14.192-04:00
+born: -10000
 Ancestry: Archfey
 Gender: N/A
 Location:
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: ??
+> **Age:** ??
 >
 > **Ancestry**: Archfey
 >

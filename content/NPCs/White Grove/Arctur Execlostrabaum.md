@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-27T09:59:49.067-04:00
-published: 2026-05-27T09:59:49.067-04:00
-Age: "214"
+modified: 2026-07-28T11:01:36.778-04:00
+published: 2026-07-28T11:01:36.778-04:00
+born: 47
 Ancestry: Dwarf
 Gender: Male
 Location:
@@ -28,7 +28,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 214
+> **Age:** 219 years
 >
 > **Ancestry**: Dwarf
 >

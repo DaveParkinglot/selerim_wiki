@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-10-22T08:02:28.000-04:00
-modified: 2026-05-03T11:49:13.101-04:00
-published: 2026-05-03T11:49:13.101-04:00
-Age: "32"
+modified: 2026-07-28T10:53:10.084-04:00
+published: 2026-07-28T10:53:10.084-04:00
+born: 234
 Ancestry:
   - Human
 Gender: Male
@@ -29,7 +29,7 @@ Author: Ethan
 >
 > ## Details
 >
-> **Age**: 32
+> **Age:** 32 years
 >
 > **Ancestry**: Human
 >

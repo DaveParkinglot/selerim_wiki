@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-14T09:20:52.787-04:00
-published: 2026-06-14T09:20:52.787-04:00
-Age: "42"
+modified: 2026-07-28T11:00:51.679-04:00
+published: 2026-07-28T11:00:51.679-04:00
+born: 216
 Ancestry: Drow
 Gender: Male
 Location:
@@ -27,7 +27,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 42
+> **Age:** 50 years
 >
 > **Ancestry**: Drow
 >

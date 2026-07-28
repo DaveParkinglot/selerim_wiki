@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-05-05T08:54:16.196-04:00
-published: 2026-05-05T08:54:16.196-04:00
-Age: "24"
+modified: 2026-07-28T10:46:45.209-04:00
+published: 2026-07-28T10:46:45.209-04:00
+born: 241
 Ancestry: Owlin
 Gender: Male
 Location:
@@ -30,7 +30,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 24
+> **Age:** 25 years
 >
 > **Ancestry**: Owlin
 >

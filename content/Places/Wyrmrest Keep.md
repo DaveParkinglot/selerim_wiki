@@ -2,13 +2,13 @@
 publish: true
 title: Wyrmrest Keep
 created: 2026-04-19T21:04:15.006-04:00
-modified: 2026-07-17T11:30:09.908-04:00
-published: 2026-07-17T11:30:09.908-04:00
+modified: 2026-07-27T16:19:44.914-04:00
+published: 2026-07-27T16:19:44.914-04:00
 tags:
   - Settlement
 Type:
   - Castle
-Age (years): 300
+founded_year: -34
 Population: 100
 Affiliation:
   - "[[Greenscale the Destroyer]]"
@@ -36,7 +36,7 @@ aliases:
 >
 > **Type**: Castle
 >
-> **Age:** 300
+> **Age:** 300 years
 >
 > **Population**: 100
 >

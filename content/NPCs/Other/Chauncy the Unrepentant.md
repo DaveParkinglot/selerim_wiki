@@ -4,9 +4,9 @@ aliases:
   - Sir Chauncy
   - Chauncy the Brave
 created: 2025-08-12T09:01:12.000-04:00
-modified: 2026-07-17T17:38:20.829-04:00
-published: 2026-07-17T17:38:20.829-04:00
-Age: "26"
+modified: 2026-07-27T17:31:54.096-04:00
+published: 2026-07-27T17:31:54.096-04:00
+born: 241
 Ancestry:
   - Fiend (Devil)
 Gender: Male
@@ -42,7 +42,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 26
+> **Age:** 25 years
 >
 > **Ancestry**: Fiend (Devil)
 >

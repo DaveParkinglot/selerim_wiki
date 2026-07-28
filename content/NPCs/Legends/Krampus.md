@@ -3,9 +3,9 @@ publish: true
 aliases:
   - The Winter Huntsman
 created: 2025-12-09T19:17:17.000-05:00
-modified: 2026-06-15T09:42:38.816-04:00
-published: 2026-06-15T09:42:38.816-04:00
-Age: "6500"
+modified: 2026-07-27T17:39:15.478-04:00
+published: 2026-07-27T17:39:15.478-04:00
+born: -10000
 Ancestry:
   - Archfey
 Gender: Male
@@ -31,7 +31,7 @@ tags:
 >
 > ## Details
 >
-> **Age**: 6500
+> **Age:** ??
 >
 > **Ancestry**: Archfey
 >

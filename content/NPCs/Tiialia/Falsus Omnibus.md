@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-08-26T23:27:19.000-04:00
-modified: 2026-05-03T11:37:06.614-04:00
-published: 2026-05-03T11:37:06.614-04:00
-Age: "45"
+modified: 2026-07-28T10:54:41.812-04:00
+published: 2026-07-28T10:54:41.812-04:00
+born: 221
 Ancestry:
   - Human
 Gender: Male
@@ -26,7 +26,7 @@ Author: Ethan
 >
 > ## Details
 >
-> **Age**: 45
+> **Age:** 45 years
 >
 > **Ancestry**: Human
 >

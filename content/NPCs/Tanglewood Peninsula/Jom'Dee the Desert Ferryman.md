@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:36.994-04:00
-published: 2026-04-21T09:14:36.994-04:00
-Age: "42"
+modified: 2026-07-28T10:49:45.649-04:00
+published: 2026-07-28T10:49:45.649-04:00
+born: 229
 Ancestry: Tabaxi
 Gender: Male
 Location:
@@ -26,7 +26,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 42
+> **Age:** 37 years
 >
 > **Ancestry**: Tabaxi
 >

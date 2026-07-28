@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-05-11T10:07:20.392-04:00
-published: 2026-05-11T10:07:20.392-04:00
-Age: "36"
+modified: 2026-07-28T10:54:29.386-04:00
+published: 2026-07-28T10:54:29.386-04:00
+born: 230
 Ancestry: Kobold
 Gender: Male
 Location:
@@ -27,7 +27,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 36
+> **Age:** 36 years
 >
 > **Ancestry**: Kobold
 >

@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:33.601-04:00
-published: 2026-04-21T09:14:33.601-04:00
-Age: "60"
+modified: 2026-07-28T10:48:53.022-04:00
+published: 2026-07-28T10:48:53.022-04:00
+born: 213
 Ancestry: Goblin
 Gender: Male
 Location:
@@ -26,7 +26,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 60
+> **Age:** 53 years
 >
 > **Ancestry**: Goblin
 >

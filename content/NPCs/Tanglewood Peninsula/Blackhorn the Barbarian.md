@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-06-15T09:14:32.138-04:00
-published: 2026-06-15T09:14:32.138-04:00
-Age: "49"
+modified: 2026-07-28T10:44:59.934-04:00
+published: 2026-07-28T10:44:59.934-04:00
+born: 215
 Ancestry: Rhinoan
 Gender: Male
 Location:
@@ -27,7 +27,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 49
+> **Age:** 51 years
 >
 > **Ancestry**: Rhinoan
 >

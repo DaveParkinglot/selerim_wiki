@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-06-18T15:35:50.127-04:00
-published: 2026-06-18T15:35:50.127-04:00
-Age: "97"
+modified: 2026-07-27T18:17:14.201-04:00
+published: 2026-07-27T18:17:14.201-04:00
+born: 167
 Ancestry:
   - Dwarf
 Gender: Male
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 97
+> **Age:** 99 years
 >
 > **Ancestry**: Dwarf
 >

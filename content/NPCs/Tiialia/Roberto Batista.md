@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-05-03T11:29:43.020-04:00
-modified: 2026-07-19T08:33:15.483-04:00
-published: 2026-07-19T08:33:15.483-04:00
-Age: "27"
+modified: 2026-07-28T10:56:08.895-04:00
+published: 2026-07-28T10:56:08.895-04:00
+born: 239
 Ancestry:
   - Human
 Gender: Male
@@ -30,7 +30,7 @@ aliases:
 >
 > ## Details
 >
-> **Age**: 27
+> **Age:** 27 years
 >
 > **Ancestry**: Human
 >

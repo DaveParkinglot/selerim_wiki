@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-10-15T10:42:10.000-04:00
-modified: 2026-05-12T09:23:41.094-04:00
-published: 2026-05-12T09:23:41.094-04:00
-Age: "22"
+modified: 2026-07-28T11:02:29.595-04:00
+published: 2026-07-28T11:02:29.595-04:00
+born: 244
 Ancestry:
   - Elf
 Gender: Male
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 22
+> **Age:** 22 years
 >
 > **Ancestry**: Elf
 >

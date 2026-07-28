@@ -3,13 +3,13 @@ publish: true
 aliases:
   - Timphiliax's Rest
 created: 2025-12-08T11:41:36.000-05:00
-modified: 2026-06-16T09:05:55.146-04:00
-published: 2026-06-16T09:05:55.146-04:00
+modified: 2026-07-27T16:15:22.738-04:00
+published: 2026-07-27T16:15:22.738-04:00
 tags:
   - Tanglewood-Peninsula
 Type:
   - Landmark
-Age (years): 2260
+founded_year: -1994
 Author: Jordan
 Appearances:
   - "[[Kindlethicket - Envoys of Mitlin]]"
@@ -26,7 +26,7 @@ Appearances:
 >
 > **Type**: Landmark
 >
-> **Age:** 2260
+> **Age:** 2,260 years
 >
 > **Appearances:** [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
 

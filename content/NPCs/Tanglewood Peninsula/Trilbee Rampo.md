@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-06-18T15:24:02.696-04:00
-published: 2026-06-18T15:24:02.696-04:00
-Age: "58"
+modified: 2026-07-28T10:52:04.453-04:00
+published: 2026-07-28T10:52:04.453-04:00
+born: 207
 Ancestry: Half-Elf
 Gender: Male
 Location:
@@ -26,7 +26,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 58
+> **Age:** 59 years
 >
 > **Ancestry**: Half-Elf
 >

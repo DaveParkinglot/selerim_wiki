@@ -1,15 +1,17 @@
 ---
 publish: true
+aliases:
+  - The Bleeding City
 title: Batistallas
 created: 2026-04-30T10:04:28.649-04:00
-modified: 2026-07-17T11:26:50.809-04:00
-published: 2026-07-17T11:26:50.809-04:00
+modified: 2026-07-27T16:10:06.111-04:00
+published: 2026-07-27T16:10:06.111-04:00
 tags:
   - Settlement
   - Kingdom-of-Tiialia
 Type:
   - City
-Age (years): 105
+founded_year: 161
 Population: 40000
 Affiliation:
   - "[[Tiialia|Kingdom of Tiialia]]"
@@ -25,7 +27,6 @@ marker:
     colour: "#cfb53b"
     minZoom: -4
     mapName: Summer_Lands_Map
-aliases:
 ---
 
 > [!infobox|right]
@@ -40,7 +41,7 @@ aliases:
 >
 > **Age:** 105
 >
-> **Population**: 40000
+> **Population**: 40,000
 >
 > **Affiliation**: [[Factions/Tiialia.md|Kingdom of Tiialia]], [[Factions/Families of Tiialia/Batista Family.md|Batista Family]]
 >

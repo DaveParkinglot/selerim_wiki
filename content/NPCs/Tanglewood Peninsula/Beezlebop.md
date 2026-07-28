@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-07-21T09:12:38.955-04:00
-published: 2026-07-21T09:12:38.955-04:00
+modified: 2026-07-28T10:44:13.859-04:00
+published: 2026-07-28T10:44:13.859-04:00
 tags:
   - Tanglewood-Peninsula
-Age: "60"
+born: 202
 Ancestry: Loxodon
 Gender: Male
 Location:
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 60
+> **Age:** 64 years
 >
 > **Ancestry**: Loxodon
 >

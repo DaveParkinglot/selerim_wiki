@@ -4,13 +4,13 @@ aliases:
   - White Grove Academy
 title: White Grove, Magic Academy
 created: 2023-09-02T09:45:40.000-04:00
-modified: 2026-07-17T11:27:47.774-04:00
-published: 2026-07-17T11:27:47.774-04:00
+modified: 2026-07-27T16:19:17.341-04:00
+published: 2026-07-27T16:19:17.341-04:00
 tags:
   - Settlement
 Type:
   - Magical Academy
-Age (years): 180
+founded_year: 64
 Population: 600
 Affiliation:
   - "[[Tiialia]]"
@@ -37,7 +37,7 @@ Author: Jordan
 >
 > **Type**: Magical Academy
 >
-> **Age:** 180
+> **Age:** 202 years
 >
 > **Population**: 600
 >

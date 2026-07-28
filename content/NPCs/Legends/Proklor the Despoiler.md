@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-15T09:42:42.742-04:00
-published: 2026-06-15T09:42:42.742-04:00
-Age: ??
+modified: 2026-07-27T17:29:41.642-04:00
+published: 2026-07-27T17:29:41.642-04:00
+born: -7505
 Ancestry: Drow, Draegloth
 Gender: Male
 Location:
@@ -30,7 +30,7 @@ aliases:
 >
 > ## Details
 >
-> **Age**: ??
+> **Age:** 7,771 years
 >
 > **Ancestry**: Drow, Draegloth
 >

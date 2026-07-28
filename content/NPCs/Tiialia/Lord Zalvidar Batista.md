@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Lord Batista
 created: 2026-05-03T11:25:40.236-04:00
-modified: 2026-07-19T08:33:15.475-04:00
-published: 2026-07-19T08:33:15.475-04:00
-Age: ??
+modified: 2026-07-28T10:55:15.900-04:00
+published: 2026-07-28T10:55:15.900-04:00
+born: -10000
 Ancestry:
   - Human
 Gender: Male
@@ -31,7 +31,7 @@ Author: Ethan
 >
 > ## Details
 >
-> **Age**: ??
+> **Age:** ??
 >
 > **Ancestry**: Human
 >

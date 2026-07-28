@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-04-21T09:15:11.485-04:00
-published: 2026-04-21T09:15:11.485-04:00
-Age: "72"
+modified: 2026-07-28T10:55:42.902-04:00
+published: 2026-07-28T10:55:42.902-04:00
+born: 192
 Ancestry: Human
 Gender: Female
 Location:
@@ -26,7 +26,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 72
+> **Age:** 74 years
 >
 > **Ancestry**: Human
 >

@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T09:13:28.407-04:00
-published: 2026-04-21T09:13:28.407-04:00
-Age: "45"
+modified: 2026-07-27T18:20:44.098-04:00
+published: 2026-07-27T18:20:44.098-04:00
+born: 219
 Ancestry:
   - Tiefling
 Gender: Male
@@ -27,7 +27,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 45
+> **Age:** 47 years
 >
 > **Ancestry**: Tiefling
 >

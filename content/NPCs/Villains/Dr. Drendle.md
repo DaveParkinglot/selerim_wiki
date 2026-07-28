@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-18T15:31:09.558-04:00
-published: 2026-06-18T15:31:09.558-04:00
-Age: "52"
+modified: 2026-07-28T10:59:56.044-04:00
+published: 2026-07-28T10:59:56.044-04:00
+born: 211
 Ancestry:
   - Undead Human
 Gender: Male
@@ -28,7 +28,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 52
+> **Age:** 54 years (deceased)
 >
 > **Ancestry**: Undead Human
 >

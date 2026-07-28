@@ -2,9 +2,9 @@
 publish: true
 aliases: Geblorgurin
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-15T09:42:36.596-04:00
-published: 2026-06-15T09:42:36.596-04:00
-Age: Deceased
+modified: 2026-07-28T09:24:57.732-04:00
+published: 2026-07-28T09:24:57.732-04:00
+born: -400
 Ancestry: Dwarf
 Gender: Male
 Location:
@@ -28,7 +28,7 @@ tags:
 >
 > ## Details
 >
-> **Age**: Deceased
+> **Age**: 402 years (Deceased)
 >
 > **Ancestry**: Dwarf
 >

@@ -2,14 +2,14 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T12:39:25.000-04:00
-modified: 2026-07-21T09:12:29.239-04:00
-published: 2026-07-21T09:12:29.239-04:00
+modified: 2026-07-27T16:14:42.450-04:00
+published: 2026-07-27T16:14:42.450-04:00
 tags:
   - Tanglewood-Peninsula
   - Settlement
 Type:
   - Village
-Age (years): 25
+founded_year: 240
 Population: 600
 Affiliation:
   - None
@@ -48,7 +48,7 @@ Author: Jordan
 >
 > **Type**: Village
 >
-> **Age:** 25
+> **Age:** 26 years
 >
 > **Population**: 600
 >

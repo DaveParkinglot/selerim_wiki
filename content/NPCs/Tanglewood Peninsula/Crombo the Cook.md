@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:27.603-04:00
-published: 2026-04-21T09:14:27.603-04:00
-Age: "17"
+modified: 2026-07-28T10:47:24.333-04:00
+published: 2026-07-28T10:47:24.333-04:00
+born: 248
 Ancestry: Dragonborn
 Gender: Male
 Location:
@@ -26,7 +26,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 17
+> **Age:** 18 years
 >
 > **Ancestry**: Dragonborn
 >

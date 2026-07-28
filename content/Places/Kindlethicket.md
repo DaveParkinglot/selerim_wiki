@@ -2,14 +2,14 @@
 publish: true
 title: Kindlethicket, Fey Crossing
 created: 2025-11-02T10:04:59.135-05:00
-modified: 2026-07-17T11:30:56.633-04:00
-published: 2026-07-17T11:30:56.633-04:00
+modified: 2026-07-27T16:15:48.291-04:00
+published: 2026-07-27T16:15:48.291-04:00
 tags:
   - Tanglewood-Peninsula
   - Settlement
 Type:
   - Fey Crossing
-Age (years): 1
+founded_year: 264
 Population: 200
 Affiliation:
   - None
@@ -39,7 +39,7 @@ aliases:
 >
 > **Type**: Fey Crossing
 >
-> **Age:** 1
+> **Age:** 2 years
 >
 > **Population**: 200
 >

@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:38.152-04:00
-published: 2026-04-21T09:14:38.152-04:00
-Age: "127"
+modified: 2026-07-28T10:50:04.562-04:00
+published: 2026-07-28T10:50:04.562-04:00
+born: 136
 Ancestry: Elf
 Gender: Male
 Location:
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 127
+> **Age:** 130 years
 >
 > **Ancestry**: Elf
 >

@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-12-08T11:33:00.000-05:00
-modified: 2026-05-05T08:54:38.218-04:00
-published: 2026-05-05T08:54:38.218-04:00
-Age: "48"
+modified: 2026-07-28T10:51:27.680-04:00
+published: 2026-07-28T10:51:27.680-04:00
+born: 218
 Ancestry:
   - Elf
 Gender: Male
@@ -31,7 +31,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 48
+> **Age:** 48 years
 >
 > **Ancestry**: Elf
 >

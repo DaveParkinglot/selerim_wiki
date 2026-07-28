@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-04-21T09:13:25.199-04:00
-published: 2026-04-21T09:13:25.199-04:00
-Age: "93"
+modified: 2026-07-27T18:21:34.293-04:00
+published: 2026-07-27T18:21:34.293-04:00
+born: 168
 Ancestry:
   - Sea Elf
 Gender: Male
@@ -27,7 +27,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 93
+> **Age:** 98 years
 >
 > **Ancestry**: Sea Elf
 >

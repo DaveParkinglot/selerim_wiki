@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-18T15:35:50.070-04:00
-published: 2026-06-18T15:35:50.070-04:00
-Age: "3"
+modified: 2026-07-27T18:22:10.993-04:00
+published: 2026-07-27T18:22:10.993-04:00
+born: 262
 Ancestry:
   - Galeb Duhr, Rock Elemental
 Gender: Male
@@ -28,7 +28,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 3
+> **Age:** 4 years
 >
 > **Ancestry**: Galeb Duhr, Rock Elemental
 >

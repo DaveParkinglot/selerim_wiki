@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-08-12T08:54:32.000-04:00
-modified: 2026-04-21T08:50:01.175-04:00
-published: 2026-04-21T08:50:01.175-04:00
-Age: "340"
+modified: 2026-07-27T17:32:39.277-04:00
+published: 2026-07-27T17:32:39.277-04:00
+born: -98
 Ancestry: Night Hag
 Gender: Female
 Location:
@@ -26,7 +26,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 340
+> **Age:** 364 years
 >
 > **Ancestry**: Night Hag
 >

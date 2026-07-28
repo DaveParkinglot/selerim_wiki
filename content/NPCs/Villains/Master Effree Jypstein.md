@@ -3,9 +3,9 @@ publish: true
 aliases:
   - The Master
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-07-17T11:24:39.358-04:00
-published: 2026-07-17T11:24:39.358-04:00
-Age: 66 (deceased)
+modified: 2026-07-28T10:59:29.526-04:00
+published: 2026-07-28T10:59:29.526-04:00
+born: 198
 Ancestry:
   - Human
 Gender: Male
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 66 (deceased)
+> **Age**: 66 years (deceased)
 >
 > **Ancestry**: Human
 >

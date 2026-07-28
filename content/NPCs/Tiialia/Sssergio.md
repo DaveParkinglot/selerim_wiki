@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-06-18T15:27:38.600-04:00
-published: 2026-06-18T15:27:38.600-04:00
-Age: "32"
+modified: 2026-07-28T10:56:58.831-04:00
+published: 2026-07-28T10:56:58.831-04:00
+born: 229
 Ancestry:
   - Yuan-ti
 Gender: Male
@@ -28,7 +28,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 32
+> **Age:** 37 years
 >
 > **Ancestry**: Yuan-ti
 >

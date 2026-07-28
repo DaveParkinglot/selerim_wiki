@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-06-14T09:18:30.977-04:00
-published: 2026-06-14T09:18:30.977-04:00
-Age: "22"
+modified: 2026-07-28T10:45:22.992-04:00
+published: 2026-07-28T10:45:22.992-04:00
+born: 242
 Ancestry: Orc
 Gender: Female
 Location:
@@ -27,7 +27,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 22
+> **Age:** 24 years
 >
 > **Ancestry**: Orc
 >

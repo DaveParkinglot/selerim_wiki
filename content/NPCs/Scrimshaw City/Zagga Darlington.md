@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-01-02T15:31:31.000-05:00
-modified: 2026-04-21T09:14:00.510-04:00
-published: 2026-04-21T09:14:00.510-04:00
-Age: "32"
+modified: 2026-07-27T18:16:46.741-04:00
+published: 2026-07-27T18:16:46.741-04:00
+born: 234
 Ancestry:
   - Orc
 Gender: Female
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 32
+> **Age:** 32 years
 >
 > **Ancestry**: Orc
 >

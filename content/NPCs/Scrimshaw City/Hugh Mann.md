@@ -3,9 +3,9 @@ publish: true
 aliases:
   - El Presidente Hugh Mann
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-04T11:42:11.651-04:00
-published: 2026-05-04T11:42:11.651-04:00
-Age: "326"
+modified: 2026-07-27T18:19:00.682-04:00
+published: 2026-07-27T18:19:00.682-04:00
+born: -61
 Ancestry:
   - Fiend (Devil)
 Gender: Male
@@ -41,7 +41,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 326
+> **Age:** 327 years
 >
 > **Ancestry**: Fiend (Devil)
 >

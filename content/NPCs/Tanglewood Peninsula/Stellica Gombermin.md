@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-07-21T09:10:23.947-04:00
-published: 2026-07-21T09:10:23.947-04:00
-Age: "17"
+modified: 2026-07-27T17:39:19.033-04:00
+published: 2026-07-27T17:39:19.033-04:00
+born: 247
 Ancestry: Goblin
 Gender: Female
 Location:
@@ -28,7 +28,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 17
+> **Age:** 19 years
 >
 > **Ancestry**: Goblin
 >

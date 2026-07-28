@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-01T12:24:31.120-04:00
-published: 2026-05-01T12:24:31.120-04:00
-Age: "286"
+modified: 2026-07-27T17:33:12.219-04:00
+published: 2026-07-27T17:33:12.219-04:00
+born: -22
 Ancestry: Halfling
 Gender: Male
 Location:
@@ -26,7 +26,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 286
+> **Age:** 288 years
 >
 > **Ancestry**: Halfling
 >

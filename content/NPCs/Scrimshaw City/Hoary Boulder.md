@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-18T15:37:04.121-04:00
-published: 2026-06-18T15:37:04.121-04:00
-Age: "35"
+modified: 2026-07-27T18:19:29.188-04:00
+published: 2026-07-27T18:19:29.188-04:00
+born: 229
 Ancestry:
   - Human
 Gender: Male
@@ -31,7 +31,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 35
+> **Age:** 37 years
 >
 > **Ancestry**: Human
 >

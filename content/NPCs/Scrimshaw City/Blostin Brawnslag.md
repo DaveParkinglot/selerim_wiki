@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-04T11:37:32.801-04:00
-published: 2026-05-04T11:37:32.801-04:00
-Age: "78"
+modified: 2026-07-27T18:22:58.666-04:00
+published: 2026-07-27T18:22:58.666-04:00
+born: 186
 Ancestry:
   - Dwarf
 Gender: Male
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 78
+> **Age:** 80 years
 >
 > **Ancestry**: Dwarf
 >

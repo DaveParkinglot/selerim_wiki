@@ -2,14 +2,14 @@
 publish: true
 title: Crillville, Harbor Town
 created: 2025-10-09T14:45:41.000-04:00
-modified: 2026-07-21T09:13:24.937-04:00
-published: 2026-07-21T09:13:24.937-04:00
+modified: 2026-07-27T16:14:58.340-04:00
+published: 2026-07-27T16:14:58.340-04:00
 tags:
   - Tanglewood-Peninsula
   - Settlement
 Type:
   - Town
-Age (years): 80
+founded_year: 185
 Population: 2500
 Affiliation:
   - "[[Tanglewood Defense Council]]"
@@ -38,9 +38,9 @@ Author: Jordan
 >
 > **Type**: Town
 >
-> **Age:** 80
+> **Age:** 81 years
 >
-> **Population**: 2500
+> **Population**: 2,500
 >
 > **Affiliation**: [[Factions/Tanglewood Defense Council.md|Tanglewood Defense Council]]
 >

@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-14T08:48:55.337-04:00
-published: 2026-06-14T08:48:55.337-04:00
-Age: "22"
+modified: 2026-07-27T17:34:53.958-04:00
+published: 2026-07-27T17:34:53.958-04:00
+born: 243
 Ancestry: Troll
 Gender: Male
 Location:
@@ -30,7 +30,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 22
+> **Age:** 23 years
 >
 > **Ancestry**: Troll
 >

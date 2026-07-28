@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-18T15:28:34.456-04:00
-published: 2026-06-18T15:28:34.456-04:00
-Age: "347"
+modified: 2026-07-28T10:58:22.475-04:00
+published: 2026-07-28T10:58:22.475-04:00
+born: -83
 Ancestry:
   - Devil
 Gender: Male
@@ -35,7 +35,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 347
+> **Age:** 349 years
 >
 > **Ancestry**: Devil
 >

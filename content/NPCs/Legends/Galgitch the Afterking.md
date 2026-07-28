@@ -5,11 +5,10 @@ aliases:
   - The Afterking
   - Afterking
 created: 2025-10-17T09:50:27.000-04:00
-modified: 2026-06-15T09:44:08.212-04:00
-published: 2026-06-15T09:44:08.212-04:00
-Status: Alive
+modified: 2026-07-27T17:28:21.282-04:00
+published: 2026-07-27T17:28:21.282-04:00
+born: 90
 Author: Jordan
-Age: "165"
 Ancestry:
   - Undead Human
 Gender: Male
@@ -21,6 +20,7 @@ Affiliation:
   - None
 Appearances:
   - "[[The Mournholde Incident]]"
+Status: Alive
 tags:
 ---
 
@@ -32,7 +32,7 @@ tags:
 >
 > ## Details
 >
-> **Age**: 165
+> **Age:** 176 years
 >
 > **Ancestry**: Undead Human
 >

@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-12-24T09:05:08.273-05:00
-modified: 2026-06-18T15:37:23.324-04:00
-published: 2026-06-18T15:37:23.324-04:00
-Age: "33"
+modified: 2026-07-27T18:22:19.484-04:00
+published: 2026-07-27T18:22:19.484-04:00
+born: 233
 Ancestry:
   - Half Elf
 Gender: Male
@@ -28,7 +28,7 @@ aliases:
 >
 > ## Details
 >
-> **Age**: 33
+> **Age:** 33 years
 >
 > **Ancestry**: Half Elf
 >

@@ -2,14 +2,14 @@
 publish: true
 title: Mournholde, City of the Dead
 created: 2023-09-20T14:56:26.000-04:00
-modified: 2026-07-17T11:27:26.196-04:00
-published: 2026-07-17T11:27:26.196-04:00
+modified: 2026-07-27T16:17:02.745-04:00
+published: 2026-07-27T16:17:02.745-04:00
 tags:
   - Settlement
 Type:
   - City of the Dead
   - Free City
-Age (years): 130
+founded_year: 131
 Population: 7000
 Affiliation:
   - None
@@ -37,9 +37,9 @@ Author: Jordan
 >
 > **Type**: City of the Dead, Free City
 >
-> **Age:** 130
+> **Age:** 135 years
 >
-> **Population**: 7000
+> **Population**: 7,000
 >
 > **Affiliation**: None
 >

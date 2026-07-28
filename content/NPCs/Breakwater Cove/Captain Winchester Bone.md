@@ -5,11 +5,11 @@ aliases:
   - Captain Winchester Bone
   - Winchester Bone
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-07-20T15:35:35.099-04:00
-published: 2026-07-20T15:35:35.099-04:00
+modified: 2026-07-27T17:26:05.822-04:00
+published: 2026-07-27T17:26:05.822-04:00
 tags:
   - Breakwater-Cove
-Age: "66"
+born: 200
 Ancestry: Human
 Gender: Male
 Location:
@@ -35,7 +35,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 66
+> **Age:** 66 years
 >
 > **Ancestry**: Human
 >

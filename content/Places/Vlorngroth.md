@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2025-10-03T09:55:09.000-04:00
-modified: 2026-07-17T11:24:39.380-04:00
-published: 2026-07-17T11:24:39.380-04:00
+modified: 2026-07-27T16:18:52.939-04:00
+published: 2026-07-27T16:18:52.939-04:00
 tags:
   - Settlement
 Type:
   - Capital City
-Age (years): 1250
+founded_year: -1275
 Population: 22000
 Affiliation:
   - "[[Vlorn Dynasty]]"
@@ -35,9 +35,9 @@ Author: Jordan
 >
 > **Type**: Capital City
 >
-> **Age:** 1250
+> **Age:** 1,541 years
 >
-> **Population**: 22000
+> **Population**: 22,000
 >
 > **Affiliation**: [[Factions/Vlorn Dynasty.md|Vlorn Dynasty]]
 >

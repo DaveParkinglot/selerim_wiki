@@ -4,14 +4,14 @@ aliases:
   - Tanglewood
 title: Tanglewood Peninsula
 created: 2025-11-02T10:13:27.000-05:00
-modified: 2026-07-17T11:28:18.933-04:00
-published: 2026-07-17T11:28:18.933-04:00
+modified: 2026-07-27T16:20:46.089-04:00
+published: 2026-07-27T16:20:46.089-04:00
 tags:
   - Tanglewood-Peninsula
   - Region
 Type:
   - Region
-Age (years): 264
+founded_year: -1000
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[The Hunt for Pill'Grim]]"
@@ -50,14 +50,15 @@ Author: Jordan
 >
 > **Type**: Region
 >
-> **Age:** 264
+> **Age:** 1,266 years
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]], [[Adventures/The Lost Archives of Wigglestaff.md|The Lost Archives of Wigglestaff]], [[Adventures/The Rentpire Strikes Back.md|The Rentpire Strikes Back]], [[Adventures/The Haunted Flakes Factory.md|The Haunted Flakes Factory]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]], [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]], [[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
 
 # Overview
 
 - The Tanglewood Peninsula is the peninsula of land between Boater's Bay and the Cloven Sea.
-- Many settlements have grown up on the peninsula since the [[Darkwells]] erupted, but the region is still a mostly unexplored and unsettled frontier, known as the Tanglewood Wilds.
+- Prior to the flooding by the [[Darkwells]], this region was the border between ancient elvish and human empires.
+- Only in the last two centuries has this region been resettled, but it is still a mostly unexplored and unsettled frontier, known as the Tanglewood Wilds.
 - Notable Tanglewood settlements include [[Crabbley]], [[Crillville]], and [[Mitlin]]
 
 # Attributes

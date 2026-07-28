@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-12-24T09:16:48.076-05:00
-modified: 2026-06-18T15:35:56.711-04:00
-published: 2026-06-18T15:35:56.711-04:00
-Age: "47"
+modified: 2026-07-27T18:17:25.982-04:00
+published: 2026-07-27T18:17:25.982-04:00
+born: 220
 Ancestry:
   - Satyr
 Gender: Male
@@ -31,7 +31,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 47
+> **Age:** 46 years
 >
 > **Ancestry**: Satyr
 >

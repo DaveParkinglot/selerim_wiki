@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-10-02T12:18:30.000-04:00
-modified: 2026-06-14T10:04:46.367-04:00
-published: 2026-06-14T10:04:46.367-04:00
-Age: "35"
+modified: 2026-07-28T11:01:04.792-04:00
+published: 2026-07-28T11:01:04.792-04:00
+born: 231
 Ancestry:
   - Goblin
   - Kobold
@@ -30,7 +30,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 35
+> **Age:** 35 years
 >
 > **Ancestry**: Goblin, Kobold, Mutant
 >

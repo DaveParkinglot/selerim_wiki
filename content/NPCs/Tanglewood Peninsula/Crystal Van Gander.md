@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-04-21T09:14:28.765-04:00
-published: 2026-04-21T09:14:28.765-04:00
-Age: "17"
+modified: 2026-07-28T10:47:46.308-04:00
+published: 2026-07-28T10:47:46.308-04:00
+born: 247
 Ancestry: Human
 Gender: Female
 Location:
@@ -28,7 +28,7 @@ Author:
 >
 > ## Details
 >
-> **Age**: 17
+> **Age:** 19 years
 >
 > **Ancestry**: Human
 >

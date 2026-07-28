@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-06-09T16:27:23.950-04:00
-published: 2026-06-09T16:27:23.950-04:00
-Age: "52"
+modified: 2026-07-27T17:43:50.436-04:00
+published: 2026-07-27T17:43:50.436-04:00
+born: 212
 Ancestry:
   - Half-Orc
 Gender: Male
@@ -28,7 +28,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 52
+> **Age:** 54 years
 >
 > **Ancestry**: Half-Orc
 >

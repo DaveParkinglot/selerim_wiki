@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-05-04T11:45:40.952-04:00
-published: 2026-05-04T11:45:40.952-04:00
-Age: "9"
+modified: 2026-07-27T17:34:44.262-04:00
+published: 2026-07-27T17:34:44.262-04:00
+born: 255
 Ancestry: Fey Dragon
 Gender: Male
 Location:
@@ -26,7 +26,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 9
+> **Age:** 11 years
 >
 > **Ancestry**: Fey Dragon
 >

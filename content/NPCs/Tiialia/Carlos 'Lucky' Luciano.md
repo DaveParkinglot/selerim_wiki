@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2025-10-22T07:44:04.000-04:00
-modified: 2026-07-19T08:33:15.468-04:00
-published: 2026-07-19T08:33:15.468-04:00
-Age: Unknown
+modified: 2026-07-28T10:54:08.235-04:00
+published: 2026-07-28T10:54:08.235-04:00
+born: 209
 Ancestry:
   - Undead Human
 Gender: Male
@@ -30,7 +30,7 @@ Author: Ethan
 >
 > ## Details
 >
-> **Age**: Unknown
+> **Age:** 57 years
 >
 > **Ancestry**: Undead Human
 >

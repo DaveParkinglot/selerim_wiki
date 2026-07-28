@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2025-07-25T11:17:12.000-04:00
-modified: 2026-06-15T09:12:02.931-04:00
-published: 2026-06-15T09:12:02.931-04:00
+modified: 2026-07-27T17:25:56.993-04:00
+published: 2026-07-27T17:25:56.993-04:00
 tags:
   - Breakwater-Cove
-Age: "89"
+born: 177
 Ancestry:
   - Half-Elf
 Gender: Female
@@ -29,7 +29,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age**: 89
+> **Age:** 89 years
 >
 > **Ancestry**: Half-Elf
 >

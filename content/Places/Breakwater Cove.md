@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-10-17T09:49:06.000-04:00
-modified: 2026-07-18T15:10:17.066-04:00
-published: 2026-07-18T15:10:17.066-04:00
+modified: 2026-07-27T16:13:16.866-04:00
+published: 2026-07-27T16:13:16.866-04:00
 tags:
   - Settlement
 Author: Jordan
 Type:
   - Town
-Age (years): 160
+founded_year: 104
 Population: 500
 Affiliation:
   - None
@@ -37,7 +37,7 @@ aliases:
 >
 > **Type**: Town
 >
-> **Age:** 160
+> **Age:** 162 years
 >
 > **Population**: 500
 >
