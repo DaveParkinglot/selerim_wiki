@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:45.000-04:00
-modified: 2026-07-28T11:15:51.917-04:00
-published: 2026-07-28T11:15:51.917-04:00
 born: 250
 Ancestry: Human
 Gender: Male
@@ -19,42 +15,36 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Vowel Noosins
->
-> ![[z_assets/vowel_noosins.png|300]]
->
+> ![[vowel_noosins.png|300]]
 > ## Details
->
-> **Age:** 16 years
->
-> **Ancestry**: Human
->
-> **Gender**: Male
->
-> **Location**: [[Places/White Grove.md|White Grove]]
->
-> **Role**: Student, Freshman
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - A selectively mute student studying at The White Grove.
 - Stole Temur Octagon's notes for The Earl.
 
 # Attributes
-
 - **Voice**: Mute
-- **Traits**:
+- **Traits**: 
 - **Goals:** Graduate, maybe learn to not be selectively mute some day
-- **Appearance**:
+- **Appearance**: 
 
 # Relationships
 
@@ -64,3 +54,4 @@ Author: Jordan
 | [[Vyvian Wynter]]         | Study buddy          |
 | [[Stibby Flimstock]]      | Study buddy          |
 | [[Curtottix Dragopolese]] | Study buddy          |
+

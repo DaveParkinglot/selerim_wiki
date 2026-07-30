@@ -1,13 +1,7 @@
 ---
-publish: true
-created: 2023-08-26T23:03:37.000-04:00
-modified: 2026-07-21T09:40:35.405-04:00
-published: 2026-07-21T09:40:35.405-04:00
 Author: Jordan
 ---
-
 Civil war fought 25 years ago between the 4 big families of [[Tiialia]]:
-
 - [[Adonzio Family]]
 - [[Fanto-Domingo Family]]
 - [[Landucci Family]]

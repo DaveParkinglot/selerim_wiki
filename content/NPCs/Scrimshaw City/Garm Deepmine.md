@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-07-27T18:19:54.754-04:00
-published: 2026-07-27T18:19:54.754-04:00
 born: 168
 Ancestry:
   - Dwarf
@@ -18,41 +14,35 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Garm Deepmine
->
-> ![[z_assets/garm_deepmine.png|300]]
->
+> ![[garm_deepmine.png|300]]
 > ## Details
->
-> **Age:** 98 years
->
-> **Ancestry**: Dwarf
->
-> **Gender**: Male
->
-> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
->
-> **Role**: Company Head
->
-> **Affiliation:** Deepmine Delvings
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 Legitimate businessman and patriarch of the Deepmine family. Often accompanied by his loyal bodyguard [[Choncho Stonetooth]].
 
 # Attributes
-
 - **Voice**: Some kind of mob boss
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 

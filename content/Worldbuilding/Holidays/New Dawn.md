@@ -1,12 +1,7 @@
 ---
-publish: true
-created: 2025-12-10T07:56:22.000-05:00
-modified: 2026-07-21T09:20:13.332-04:00
-published: 2026-07-21T09:20:13.332-04:00
 Date: "[[Selerim Calendar|Avaurus]] 1st"
 Author: Jordan
 ---
-
-**Date:** [[Selerim Calendar|Avaurus]] 1st
+**Date:** `= this["Date"]`
 
 Holy feast day of Lady Luck Avandra, this holiday is held on the first day of the new year.

@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-12-24T08:53:02.346-05:00
-modified: 2026-07-27T18:18:05.492-04:00
-published: 2026-07-27T18:18:05.492-04:00
 born: 215
 Ancestry:
   - Dwarf
@@ -18,46 +14,40 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Maureen Stonetooth
->
-> ![[z_assets/maureen_stonetooth.png|300]]
->
+> ![[maureen_stonetooth.png|300]]
 > ## Details
->
-> **Age:** 51 years
->
-> **Ancestry**: Dwarf
->
-> **Gender**: Female
->
-> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
->
-> **Role**: Crime Boss
->
-> **Affiliation:** Stonetooth's Scoundrels
->
-> **Appearances:** [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - Rising crime boss in the city of [[Scrimshaw City|Scrimshaw]].
 - She is the head of [[Stonetooth's Scoundrels]], a crime organization that extorts money from local businesses in The Shanties.
 
 # Attributes
-
 - **Voice**: Normal, pitched up slightly
-- **Traits**:
-  - Ambition, ruthless, cunning
-  - Doesn't mind getting her hands dirty
-  - Worships the god Avandra, Lady Luck
-- **Goals**:
-  - Become rich off of the magic item trade in [[Scrimshaw City]]
-  - Run other crews out of The Shanties
+- **Traits**: 
+	- Ambition, ruthless, cunning
+	- Doesn't mind getting her hands dirty
+	- Worships the god Avandra, Lady Luck
+- **Goals**: 
+	- Become rich off of the magic item trade in [[Scrimshaw City]]
+	- Run other crews out of The Shanties
 - **Appearance:** Red haired dwarf woman with a scar on her right cheek, wears expensive looking armor and distinctive jewelry
 
 # Relationships
@@ -66,3 +56,4 @@ Author: Jordan
 | ---------------------- | ----------------- |
 | [[Choncho Stonetooth]] | Estranged Brother |
 | [[Caleb Arlester]]     | Rival             |
+

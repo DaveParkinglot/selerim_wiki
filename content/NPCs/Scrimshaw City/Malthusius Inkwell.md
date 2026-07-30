@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-07-27T18:18:20.353-04:00
-published: 2026-07-27T18:18:20.353-04:00
 born: 234
 Ancestry:
   - Human
@@ -19,43 +15,37 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Malthusius Inkwell
->
-> ![[z_assets/malthusius_inkwell.png|300]]]
->
+> ![[malthusius_inkwell.png|300]]]
 > ## Details
->
-> **Age:** 32 years
->
-> **Ancestry**: Human
->
-> **Gender**: Male
->
-> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
->
-> **Role**: Investigative Journalist
->
-> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - A journalist who is always on the lookout for a scoop.
 - He used his journalistic genius and investigative skills to corner Lord Portnoir on the newspaper page, and aided [[The High Rollers]] in deposing Portnoir.
 - Now, he can often be found hanging around [[The Spicy Meatball]].
 
 # Attributes
-
 - **Voice**: Nasally nerd
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 

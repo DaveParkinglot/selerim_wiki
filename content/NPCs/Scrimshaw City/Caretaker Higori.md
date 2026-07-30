@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-07-27T18:21:34.293-04:00
-published: 2026-07-27T18:21:34.293-04:00
 born: 168
 Ancestry:
   - Sea Elf
@@ -18,41 +14,35 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Caretaker Higori
->
-> ![[z_assets/caretaker_higori.png|300]]
->
+> ![[caretaker_higori.png|300]]
 > ## Details
->
-> **Age:** 98 years
->
-> **Ancestry**: Sea Elf
->
-> **Gender**: Male
->
-> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
->
-> **Role**: Rogue
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - Garderner, herbalist, healer, and the caretaker of the Henge of Avandra in [[Scrimshaw City]].
 - Unseelie fey have been overtaking the henge and upsetting him quite a bit recently.
 
 # Attributes
-
 - **Voice**: Soft spoken and wise
 - **Traits**: Dislikes adventurers because no one wants to help him
-- **Goals:**
+- **Goals:** 
 - **Appearance**: Blue-gray skinned tall sea elf
 
 # Relationships

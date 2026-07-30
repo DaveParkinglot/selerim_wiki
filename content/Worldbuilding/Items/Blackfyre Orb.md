@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-12-24T09:27:42.000-05:00
-modified: 2026-07-22T08:53:00.000-04:00
-published: 2026-07-22T08:53:00.000-04:00
 Author: Jordan
 ---
 

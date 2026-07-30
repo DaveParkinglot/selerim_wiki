@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-07-27T18:20:27.730-04:00
-published: 2026-07-27T18:20:27.730-04:00
 born: 214
 Ancestry:
   - Halfling
@@ -20,44 +16,38 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Franky Fizzno
->
-> ![[z_assets/frankie_fizzno.png|300]]
->
+> ![[frankie_fizzno.png|300]]
 > ## Details
->
-> **Age:** 52 years
->
-> **Ancestry**: Halfling
->
-> **Gender**: Male
->
-> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]], Varies
->
-> **Role**: Bard, Bandmember (Lead Lutist)
->
-> **Affiliation:** Crag Delta
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
-- He and [[Blostin Brawnslag]] gave the first quest to [[The High Rollers]] after they requested that the party track down and locate [[Spurgon Bogolog]], their missing frontman.
+ - He and [[Blostin Brawnslag]] gave the first quest to [[The High Rollers]] after they requested that the party track down and locate [[Spurgon Bogolog]], their missing frontman.
 - World renowned lutist, and one of the 3 members of Crag Delta.
 - They've played venues from [[Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
 - His actual name and stage name are Franky Fizzno.
 
 # Attributes
-
 - **Voice**: Squeaky and high pitched
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 

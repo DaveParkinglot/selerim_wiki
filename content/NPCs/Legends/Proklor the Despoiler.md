@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-07-27T17:29:41.642-04:00
-published: 2026-07-27T17:29:41.642-04:00
 born: -7505
 Ancestry: Drow, Draegloth
 Gender: Male
@@ -21,33 +17,28 @@ Author: Jordan
 tags:
 aliases:
 ---
-
 > [!infobox|right]
->
 > ## Proklor the Despoiler
->
-> ![[z_assets/proklor_the_despoiler.png|300]]
->
+> ![[proklor_the_despoiler.png|300]]
 > ## Details
->
-> **Age:** 7,771 years
->
-> **Ancestry**: Drow, Draegloth
->
-> **Gender**: Male
->
-> **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
->
-> **Role**: Villain, Destroyer of Worlds
->
-> **Affiliation:** [[Places/Vlorngroth.md|Vlorngroth]]
->
-> **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 - An ancient, legendary draegloth demigod who has ravaged kingdoms across dozens of worlds on the material plane.
 - He was plucked from his cradle by Lolth herself, and turned into a draegloth thousands of years ago
 - Until recently he resided in Demonweb layer of the abyss with his goddess Lolth
@@ -56,7 +47,6 @@ aliases:
 - He has a spiritual shard of [[Tharizdun, the Chained Oblivion]] contained within him, which is what gives him all his powers
 
 # Attributes
-
 - **Voice**: Deep, powerful, mean and Australian
 - **Traits**: Will subjugate you and your civilization. A single minded conqueror of civilizations
 - **Goals:** Dominate the enemies of Lolth

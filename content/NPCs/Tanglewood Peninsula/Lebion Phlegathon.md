@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-07-28T10:50:04.562-04:00
-published: 2026-07-28T10:50:04.562-04:00
 born: 136
 Ancestry: Elf
 Gender: Male
@@ -20,37 +16,31 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Lebion Phlegathon
->
-> ![[z_assets/lebion_plegathon.png|300]]
->
+> ![[lebion_plegathon.png|300]]
 > ## Details
->
-> **Age:** 130 years
->
-> **Ancestry**: Elf
->
-> **Gender**: Male
->
-> **Location**: [[Places/Mitlin.md|Mitlin]]
->
-> **Role**: Lead Ranger
->
-> **Affiliation:** Mitlin
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 [[Mitlin]]'s lead ranger, wields a greatsword and wears heavier armor than most other rangers in Mitlin.
 
 # Attributes
-
 - **Voice**: Slightly pompous
 - **Traits**: Fiercely loyal
 - **Goals:** Protect Mitlin from all threats

@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-07-28T10:46:11.547-04:00
-published: 2026-07-28T10:46:11.547-04:00
 born: 201
 Ancestry: Gnome
 Gender: Male
@@ -20,38 +16,32 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Bopus
->
-> ![[z_assets/bopus.png|300]]
->
+> ![[bopus.png|300]]
 > ## Details
->
-> **Age:** 65 years
->
-> **Ancestry**: Gnome
->
-> **Gender**: Male
->
-> **Location**: [[Places/Crabbley.md|Crabbley]], The Cronium Caves
->
-> **Role**: Gnome Diplomat
->
-> **Affiliation:** Cronium Gnomes
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hunt for Pill'Grim.md|The Hunt for Pill'Grim]], [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 > [!Quote|author mark no-title]
-> _Well, hey fellas!_  <br> <span style="float: right;">—[[Bopus]] <br>  </span>
+> *Well, hey fellas!*  <br> <span style="float: right;">—[[Bopus]] <br>  </span>
 
 ## [[The High Rollers Campaign]]
-
 Bopus was a gnome diplomat living in The Cronium Caves, a gnome commune beneath [[Crabbley]]. The Cronium gnomes preferred to stay hidden, until their commune was invaded by kobolds. Bopus bravely went to Crabbley in search of help, and recruited [[The High Rollers]] to assist his people. They dragged their feet for a while, but eventually they took up Bopus' quest and helped retake the Cronium Caves from the kobolds.
 
 After the repatriation of the Cronium Caves, the best gnomish scientists and a reformed [[Dillon Lonergan]] finished the teleporter that the gnomes were working on prior to the kobold incursion. During a routine teleporter test, Bopus was flung into the far reaches of the Astral Sea, where he made briefly contact with the vestige of a dead god. Upon his return, a strange blue hatted clone of Bopus named "Dopus" manifested itself.
@@ -59,19 +49,15 @@ After the repatriation of the Cronium Caves, the best gnomish scientists and a r
 Some time later, Bopus contacted the The High Rollers mid-adventure to request help testing the teleporter. They travelled to a different world and fought some villains there before they were teleported back to Selerim.
 
 ## [[The Hunt for Pill'Grim]]
-
 - Bopus recruited brave adventurers to assist in hunting down a villainous turkey automaton created by [[Dillon Lonergan]] in this multiversal romp.
 
 ## [[The Crimsonclaw Bounty|The Crimonclaw Bounty]]
-
 - While carousing at the Crab Claw Inn, Bopus provided the details and the map of Old Crimsonclaw's suspected location to a fledgling adventuring party.
 
 ## [[Selerim 5K]]
-
 - In the [[Selerim 5K]] setting, Bopus is known as [[The Machine God]]. Exactly how he ascended to godhood is not yet known, but many bots are made in his image such as the many varieties of Bopus Bots.
 
 # Attributes
-
 - **Voice**: High pitched and annoying
 - **Traits**: Patient, friendly, too bubbly at times Believes that the weak should be protected by the strong and that curiosity and inventiveness are crucial.
 - **Goals:** Ensure the prosperity of the Cronium Gnomes, assist with inventing cool things

@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:44.000-04:00
-modified: 2026-07-28T10:47:24.333-04:00
-published: 2026-07-28T10:47:24.333-04:00
 born: 248
 Ancestry: Dragonborn
 Gender: Male
@@ -17,49 +13,42 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Crombo the Cook
->
-> ![[z_assets/crombo_the_cook.png|300]]
->
+> ![[crombo_the_cook.png|300]]
 > ## Details
->
-> **Age:** 18 years
->
-> **Ancestry**: Dragonborn
->
-> **Gender**: Male
->
-> **Location**: [[Places/Crabbley.md|Crabbley]]
->
-> **Role**: Adventurer, Bard, Head Chef
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
 
 ## [[The High Rollers Campaign]]
-
 - Carefree dragonborn bard who wants to be an adventurer, unfortunately he is also the full time head chef at The Soggy Bottom and his work schedule is insane.
 - He goes by "The Unchained" after he was rescued from being kidnapped by kobolds.
 
 ## [[The Hunt for Pill'Grim]]
-
 - He was attempting to create an adventuring party with [[Bondoon Jr.]]
 - His new party was at the adventurer tryouts for the teleporter adventure.
 
 # Attributes
-
 - **Voice**: Normal
-- **Traits**:
+- **Traits**: 
 - **Goals:** Become a renowned adventurer
-- **Appearance**:
+- **Appearance**: 
 
 # Relationships
 

@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-21T11:30:43.000-04:00
-modified: 2026-07-27T17:43:50.436-04:00
-published: 2026-07-27T17:43:50.436-04:00
 born: 212
 Ancestry:
   - Half-Orc
@@ -19,35 +15,30 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
-
 > [!infobox|right]
->
 > ## Arno Rickshir
->
-> ![[z_assets/arno_rickshir.png|300]]
->
+> ![[arno_rickshir.png|300]]
 > ## Details
->
-> **Age:** 54 years
->
-> **Ancestry**: Half-Orc
->
-> **Gender**: Male
->
-> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]], Varies
->
-> **Role**: Pawn Shop Owner
->
-> **Affiliation:** None
->
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
->
-> **Status:** Alive
+> 
+> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
+> 
+> **Ancestry**: `= join(this.Ancestry, ", ")`
+> 
+> **Gender**: `= join(this.Gender, ", ")`
+> 
+> **Location**: `= join(this.Location, ", ")`
+> 
+> **Role**: `= join(this.Role, ", ")`
+> 
+> **Affiliation:** `= join(this.Affiliation, ", ")`
+> 
+> **Appearances:** `= join(this.Appearances, ", ")`
+> 
+> **Status:** `= join(this.Status, ", ")`
 
 # Overview
-
 > [!Quote|author mark no-title]
-> _You never know WHAT is gonna come through that door!_ <br> <span style="float: right;">—[[Arno Rickshir]] <br>  </span>
+> *You never know WHAT is gonna come through that door!* <br> <span style="float: right;">—[[Arno Rickshir]] <br>  </span>
 
 - Though [[The High Rollers]] were able to recover his stolen goods from kobold thieves, his old man and his son were killed while journeying through the [[Tanglewood Peninsula|Tanglewood]].
 - Owner of Boldriver Pawn Shop, the best place to buy and trade magic items in [[Scrimshaw City]], and anywhere else
@@ -55,13 +46,13 @@ Author: Jordan
 - Inseparable from his best friend and only remaining permanent employee, the sentient bag of holding named Deep Tote
 
 # Attributes
-
 - **Voice**: Gruff like Rick Harrison
-- **Traits**:
-- **Goals:**
-- **Appearance**:
+- **Traits**: 
+- **Goals:** 
+- **Appearance**: 
 
 # Relationships
 
 | Name                 | Relationship |
 | -------------------- | ------------ |
+

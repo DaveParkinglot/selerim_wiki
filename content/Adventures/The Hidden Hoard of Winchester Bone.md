@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-07-21T11:32:02.060-04:00
-published: 2026-07-21T11:32:02.060-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -31,42 +27,35 @@ Classes:
   - Barbarian
   - Rogue
 ---
-
-> [!infobox|right]
->
+ > [!infobox|right]
 > ## The Hidden Hoard of Winchester Bone
->
-> ![[z_assets/hidden_hoard.png|500]]
->
+> ![[hidden_hoard.png|500]]
 > > [!caption|center]
 > > Bone's hidden hoard, complete with decorative skeletons
 >
-> ## Details
+>## Details
 >
-> **DM**: Jordan
->
-> **Platform**: Foundry
->
-> **Sessions**: 1
->
-> **Run Dates**: 2024-02-17
->
-> **In-World Dates**: 263-09-05
+> **DM**: `= join(this.DM, ", ")`
+> 
+> **Platform**: `= join(this.Platform, ", ")`
+> 
+> **Sessions**: `= join(this.Sessions, ", ")`
+> 
+> **Run Dates**: `= join(dateformat(this["Start Date"], "yyyy-MM-dd"), ", ")`
+> 
+> **In-World Dates**: `= join(this["In-World Start Date"], ", ")`
 
 # Adventure Premise
-
 Bone Tavern is failing, and [[Captain Winchester Bone]] needs to remain solvent in his retirement years. Retrieve his hoard of treasure, which is hidden in a quiet cove to the south.
 
 # Outcomes
-
 - The Drakes, as the party began calling themselves, carefully navigated the trap-filled corridors of Bone Cove to find the hidden hoard.
 - Captain Winchester Bone now has the cash flow he needs to maintain his exorbitant lifestyle, and Bone Tavern won't go underwater anytime soon!
 
 # Players & Characters
-
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Ethan | Fingus Bingus | Half-Elf | Bard |
-| Mike Doom | Curly | Human | Fighter |
-| Jimmy | Cromulent Fuckstable | Half-Orc | Barbarian |
-| AJ | Wom Batinator | Human | Rogue |
+| `= this.Players[0]` | `= this.Characters[0]` | `= this.Races[0]` | `= this.Classes[0]` |
+| `= this.Players[1]` | `= this.Characters[1]` | `= this.Races[1]` | `= this.Classes[1]` |
+| `= this.Players[2]` | `= this.Characters[2]` | `= this.Races[2]` | `= this.Classes[2]` |
+| `= this.Players[3]` | `= this.Characters[3]` | `= this.Races[3]` | `= this.Classes[3]` |

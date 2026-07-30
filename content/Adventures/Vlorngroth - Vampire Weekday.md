@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-10-03T10:23:37.000-04:00
-modified: 2026-07-21T13:27:55.896-04:00
-published: 2026-07-21T13:27:55.896-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -32,33 +28,28 @@ Classes:
   - Warlock
 ---
 
-> [!infobox|right]
->
+ > [!infobox|right]
 > ## Vlorngroth - Vampire Weekday
->
-> ![[z_assets/duskveil_keep.png|500]]
->
+> ![[duskveil_keep.png|500]]
 > > [!caption|center]
 > > Duskveil Keep
 >
-> ## Details
+>## Details
 >
-> **DM**: Jordan
->
-> **Platform**: Foundry
->
-> **Sessions**: 1
->
-> **Run Dates**: 2025-10-29
->
-> **In-World Dates**: 265-11-13
+> **DM**: `= join(this.DM, ", ")`
+> 
+> **Platform**: `= join(this.Platform, ", ")`
+> 
+> **Sessions**: `= join(this.Sessions, ", ")`
+> 
+> **Run Dates**: `= join(dateformat(this["Start Date"], "yyyy-MM-dd"), ", ")`
+> 
+> **In-World Dates**: `= join(this["In-World Start Date"], ", ")`
 
 # Adventure Premise
-
 While he is abroad, [[Count Calloway Duskveil]] has commanded his lowly familiars to deep clean and revamp the dusty decor in his shadowy manor, Duskveil Keep.
 
 # Outcomes
-
 - Morbus, the Count's most loyal familiar, was turned to mince meat by a glassbone horror while handing out chores, and the familiars had to retrieve Count Duskveil's chore list from his remains.
 - The familiars defeated a glassbone horror of [[Tharizdun, the Chained Oblivion|Tharizdun]] by destroying the cursed mirror it was bound to.
 - The familiars discovered a strange dagger, an ancient implement of Tharizdun, and Nemata picked it up for safekeeping.
@@ -68,10 +59,10 @@ While he is abroad, [[Count Calloway Duskveil]] has commanded his lowly familiar
 - Each familiar received a Cortex Band in appreciation of their hard work, and their efforts may have even brought Coach Cortex closer to sanity... though he still seemed extremely erratic.
 
 # Players & Characters
-
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Bishop | Nemata | Duergar | Fighter |
-| Ethan | Bombus Mitz | Drow | Cleric |
-| Gorrie | Ebli Gigs | Kobold | Warlock |
-| Mike Doom | The Darkness | Drow | Warlock |
+| `= this.Players[0]` | `= this.Characters[0]` | `= this.Races[0]` | `= this.Classes[0]` |
+| `= this.Players[1]` | `= this.Characters[1]` | `= this.Races[1]` | `= this.Classes[1]` |
+| `= this.Players[2]` | `= this.Characters[2]` | `= this.Races[2]` | `= this.Classes[2]` |
+| `= this.Players[3]` | `= this.Characters[3]` | `= this.Races[3]` | `= this.Classes[3]` |
+

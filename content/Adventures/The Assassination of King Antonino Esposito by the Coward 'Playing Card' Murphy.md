@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2026-05-03T17:11:13.701-04:00
-modified: 2026-05-09T18:20:18.433-04:00
-published: 2026-05-09T18:20:18.433-04:00
 DM: Ethan
 Platform: Foundry
 Sessions: 2
@@ -29,48 +25,41 @@ Classes:
   - Rogue
   - Fighter
 ---
-
 > [!infobox|right]
->
 > ## The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy
->
 > ![[Adventure Picture.png|500]]
->
 > > [!caption|center]
-> > Image caption
+> >Image caption
 >
-> ## Details
+>## Details
 >
-> **DM**: Ethan
->
-> **Platform**: Foundry
->
-> **Sessions**: 2
->
-> **Run Dates**: 2026-04-30 - 2026-05-26
->
-> **In-World Dates**: 266-11-22
+> **DM**: `= join(this.DM, ", ")`
+> 
+> **Platform**: `= join(this.Platform, ", ")`
+> 
+> **Sessions**: `= join(this.Sessions, ", ")`
+> 
+> **Run Dates**: `= join(dateformat(this["Start Date"], "yyyy-MM-dd"), ", ")` - `= join(dateformat(this["End Date"], "yyyy-MM-dd"), ", ")`
+> 
+> **In-World Dates**: `= join(this["In-World Start Date"], ", ")`
 
 # Adventure Premise
-
 - Adventure Premise goes here.
 
 # Session Outline (remove this before publishing)
-
 - 3-4 bullet outline of session
--
--
--
+- 
+- 
+- 
 
 # Outcomes
-
 - List of adventure outcomes
 
 # Players & Characters
-
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Jordan | [[Player Characters/The Stacked Deck/Hector Fanto-Domingo.md\|Hector Fanto-Domingo]] | Human | Barbarian |
-| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
-| Mike Doom | [[Player Characters/The Stacked Deck/The Knight of Confidence.md\|The Knight of Confidence]] | Human | Fighter |
-|  |  |  |  |
+| `= this.Players[0]` | `= this.Characters[0]` | `= this.Races[0]` | `= this.Classes[0]` |
+| `= this.Players[1]` | `= this.Characters[1]` | `= this.Races[1]` | `= this.Classes[1]` |
+| `= this.Players[2]` | `= this.Characters[2]` | `= this.Races[2]` | `= this.Classes[2]` |
+| `= this.Players[3]` | `= this.Characters[3]` | `= this.Races[3]` | `= this.Classes[3]` |
+

@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2025-07-25T14:10:28.000-04:00
-modified: 2026-07-21T11:29:56.072-04:00
-published: 2026-07-21T11:29:56.072-04:00
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -27,43 +23,36 @@ Classes:
   - Warlock
   - Cleric
 ---
-
 > [!infobox|right]
->
 > ## Spring Cleaning in Scrimshaw City
->
-> ![[z_assets/barry_the_barlgura.png|500]]
->
+> ![[barry_the_barlgura.png|500]]
 > > [!caption|center]
-> > Barry the Barlgura vandalizes the Crystal Theatre
+> >Barry the Barlgura vandalizes the Crystal Theatre
 >
-> ## Details
+>## Details
 >
-> **DM**: Jordan
->
-> **Platform**: Foundry
->
-> **Sessions**: 1
->
-> **Run Dates**: 2025-05-01
->
-> **In-World Dates**: 265-04-15
+> **DM**: `= join(this.DM, ", ")`
+> 
+> **Platform**: `= join(this.Platform, ", ")`
+> 
+> **Sessions**: `= join(this.Sessions, ", ")`
+> 
+> **Run Dates**: `= join(dateformat(this["Start Date"], "yyyy-MM-dd"), ", ")`
+> 
+> **In-World Dates**: `= join(this["In-World Start Date"], ", ")`
 
 # Adventure Premise
-
 Every year, demons from across Selerim (and beyond) converge on [[Scrimshaw City]] in an attempt to re-open the abyssal rift that rages beneath the city.
 
 [[Hugh Mann]], the current reigning El Presidente of Scrimshaw City, is solely responsible for keeping the rift closed and his city free of demonic corruption. So, naturally, he has outsourced the majority of the work to enterprising adventurers like yourself.
 
 # Outcomes
-
 - After a short job interview involving the demi-plane arcade game SUPER ABYSS BATTLER 4, the party navigated the mean streets of Scrimshaw, a meaner group of teenagers, and a group of former [[Tavernstool]] employees to make it to the Crystal Theatre.
 - Once there, they barely managed to defeat the musical theatre loving demons led by Barry the Barlgura.
 
 # Players & Characters
-
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Mike Doom | David Hellscream | Orc | Fighter |
-| Laura | Bianca “Mad Dog” Bianchi | Goliath | Warlock |
-| Gorrie | Colin Forbackup | Orc | Cleric |
+| `= this.Players[0]` | `= this.Characters[0]` | `= this.Races[0]` | `= this.Classes[0]` |
+| `= this.Players[1]` | `= this.Characters[1]` | `= this.Races[1]` | `= this.Classes[1]` |
+| `= this.Players[2]` | `= this.Characters[2]` | `= this.Races[2]` | `= this.Classes[2]` |
