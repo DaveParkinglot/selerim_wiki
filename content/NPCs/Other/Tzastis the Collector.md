@@ -15,6 +15,7 @@ Appearances:
   - "[[White Grove - Summer Vacation]]"
 Status: Alive
 Author: Jordan
+aliases: Tzastis
 ---
 > [!infobox|right]
 > ## Tzastis the Collector
