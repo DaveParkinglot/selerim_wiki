@@ -25,12 +25,6 @@
       "commit": "f8fc7da3515a4d4bbe0bd4be0fd9188823866a01",
       "installedAt": "2026-06-04T19:58:35.633Z"
     },
-    "bg-varieties_temp": {
-      "source": "https://github.com/DaveParkinglot/bg-varieties_temp",
-      "resolved": "https://github.com/DaveParkinglot/bg-varieties_temp",
-      "commit": "643c586fbda00a9f8edec4164f5adb456fefcf84",
-      "installedAt": "2026-07-20T12:17:03.626Z"
-    },
     "breadcrumbs": {
       "source": "github:quartz-community/breadcrumbs",
       "resolved": "https://github.com/quartz-community/breadcrumbs.git",
@@ -203,13 +197,7 @@
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
       "commit": "48da13cf01ba6d742e616da2e837fd2a9478ac79",
-      "installedAt": "2026-04-13T12:44:05.826Z"
-    },
-    "quartz-themes": {
-      "source": "github:saberzero1/quartz-themes",
-      "resolved": "https://github.com/saberzero1/quartz-themes.git",
-      "commit": "945135e8b70576753d0591e1713fe56553100b3d",
-      "installedAt": "2026-06-14T01:37:33.868Z"
+      "installedAt": "2026-08-02T18:57:50.327Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
@@ -276,6 +264,12 @@
       "resolved": "https://github.com/quartz-community/tag-page.git",
       "commit": "eabf3eec55c0bab7f49e69957341f34d2ae3c5a1",
       "installedAt": "2026-06-04T19:58:35.633Z"
+    },
+    "unlisted-pages": {
+      "source": "github:quartz-community/unlisted-pages",
+      "resolved": "https://github.com/quartz-community/unlisted-pages.git",
+      "commit": "3a01e0cb208dd6ef3c7520963198cd2991c6742c",
+      "installedAt": "2026-08-02T16:09:11.329Z"
     }
   }
 }

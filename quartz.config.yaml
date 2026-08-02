@@ -19,9 +19,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Cardo
-      body: Merriweather
-      code: JetBrains Mono
+      header: Schibsted Grotesk
+      body: Source Sans Pro
+      code: IBM Plex Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -32,7 +32,7 @@ configuration:
         secondary: "#284b63"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#0000"
+        textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
         lightgray: "#393639"
@@ -42,7 +42,7 @@ configuration:
         secondary: "#7b97aa"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#0000"
+        textHighlight: "#b3aa0288"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -64,17 +64,7 @@ plugins:
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
-      comments: true
-      highlight: true
-      wikilinks: true
-      callouts: true
-      mermaid: true
-      parseTags: true
-      parseArrows: true
-      parseBlockReferences: true
       enableInHtmlEmbed: false
-      enableYouTubeEmbed: true
-      enableVideoEmbed: true
       enableCheckbox: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown
@@ -107,7 +97,7 @@ plugins:
     enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
-    enabled: true
+    enabled: false
     order: 90
   - source: github:quartz-community/ox-hugo
     enabled: false
@@ -115,12 +105,31 @@ plugins:
   - source: github:quartz-community/roam
     enabled: false
     order: 92
+  - source: github:quartz-community/fonts
+    enabled: true
+    order: 60
+    options:
+      fontOrigin: googleFonts
+      title: Cardo
+      header: Cardo
+      interface: Lora
+      body: Lora
+      code: JetBrains Mono
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
     enabled: false
+  - source: github:quartz-community/unlisted-pages
+    enabled: true
+    options: {}
+    order: 45
   - source: github:quartz-community/encrypted-pages
     enabled: true
+    options:
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
   - source: github:quartz-community/stacked-pages
     enabled: false
     layout:
@@ -150,42 +159,11 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
-    options:
-      title: Explorer
-      folderClickBehavior: link
     layout:
       position: left
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
-    options:
-      localGraph:
-        drag: true
-        zoom: true
-        depth: 1
-        scale: 1.1
-        repelForce: 0.5
-        centerForce: 0.3
-        linkDistance: 30
-        fontSize: 0.6
-        opacityScale: 1
-        removeTags: []
-        showTags: true
-        enableRadial: false
-      globalGraph:
-        drag: true
-        zoom: true
-        depth: -1
-        scale: 0.9
-        repelForce: 0.5
-        centerForce: 0.3
-        linkDistance: 30
-        fontSize: 0.6
-        opacityScale: 1
-        removeTags: []
-        showTags: true
-        focusOnHover: true
-        enableRadial: true
     layout:
       position: right
       priority: 10
@@ -201,7 +179,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 30
+      priority: 50
   - source: github:quartz-community/article-title
     enabled: true
     layout:
@@ -299,49 +277,18 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: quartz-themes/core
+    enabled: true
+    options:
+      themeFonts: false
+      theme: its-theme
+      variation: drowned
+      mode: both
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
+    options:
+      enableCopyTool: false
     order: 50
-    options:
-      enableCopyTool: true
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    order: 10
-    options:
-      theme: its-theme.drowned
-  - source: https://github.com/DreamCutter28/quartz-image-zoom
-    enabled: false
-    order: 50
-    options: {}
-  - source: github:quartz-community/fonts
-    enabled: true
-    order: 60
-    options:
-      useThemeFonts: true
-      fontOrigin: googleFonts
-      title: Cardo
-      header: Cardo
-      interface: Lora
-      body: Lora
-      code: JetBrains Mono
-  - source: https://github.com/DaveParkinglot/bg-varieties_temp
-    enabled: true
-    options:
-      type: dots
-      zIndex: -2
-      opacity: 0.4
-      speedMultiplier: 0.3
-      density: 80
-      interactive: true
-      theme: auto
-      palette: cosmic
-    order: 50
-    layout:
-      position: afterBody
-      priority: 10
 layout:
   groups:
     toolbar:
