@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:45.000Z
+modified: 2026-07-28T14:53:53.505Z
+published: 2026-07-28T14:53:53.505Z
 born: 203
 Ancestry: Deep Gnome
 Gender: Male
@@ -15,33 +19,39 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Bedmund the Catatonic
-> ![[bedmund_the_catatonic.png|300]]
+>
+> ![[z_assets/bedmund_the_catatonic.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 63 years
+>
+> **Ancestry**: Deep Gnome
+>
+> **Gender**: Male
+>
+> **Location**: Esposito Vineyard, [[Factions/Tiialia.md|Tiialia]]
+>
+> **Role**: Sleepy Wizard
+>
+> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 - He was once a prisoner of the [[Vlorn Dynasty]], sequestered away in Duskveil Asylum, until he managed to escape after being interrogated by inquisitors one fateful evening.
 - After escaping, he fled the Underdark and headed to the surface, winding up in a big comfortable bed in a countryside vineyard.
 - Now, he occasionally provides spells to The High Rollers and stays in the large bed in their vineyard's basement.
 
 # Attributes
+
 - **Voice**: High pitched, slow and lethargic
 - **Traits**: Enjoys sleeping and casting spells. Sleep can help you uncover secrets you could never find while awake
 - **Goals:** Slumber and learn the secrets of the arcane

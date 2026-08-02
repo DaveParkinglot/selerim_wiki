@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:43.000Z
+modified: 2026-07-27T22:22:45.039Z
+published: 2026-07-27T22:22:45.039Z
 born: 215
 Ancestry:
   - Orc
@@ -16,36 +20,42 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Bogtar Stinkuss
-> ![[bogtar_stinkuss.png|300]]
+>
+> ![[z_assets/bogtar_stinkuss.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 51 years
+>
+> **Ancestry**: Orc
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Bouncer, Aspiring Playwright
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]]
+>
+> **Status:** Alive
 
 # Overview
+
 - The hulking, openly gay orc who works as a bouncer at the illustrious Crystal Theatre.
 - When you get under the surface, he's just a sweetheart with a love of the arts.
 
 # Attributes
+
 - **Voice**: Gruff
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

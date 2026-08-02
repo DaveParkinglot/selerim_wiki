@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:44.000Z
+modified: 2026-07-28T14:48:53.022Z
+published: 2026-07-28T14:48:53.022Z
 born: 213
 Ancestry: Goblin
 Gender: Male
@@ -13,35 +17,41 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Grasbo the Barkeep
-> ![[grasbo.png|300]]
+>
+> ![[z_assets/grasbo.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 53 years
+>
+> **Ancestry**: Goblin
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Barkeep, Small Business Owner
+>
+> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 Aspiring restauranteur in Crabbley. Owns the popular watering hole The Soggy Bottom Tavern.
 
 # Attributes
-- **Voice**: 
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+
+- **Voice**:
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

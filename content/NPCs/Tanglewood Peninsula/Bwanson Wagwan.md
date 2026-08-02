@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:44.000Z
+modified: 2026-07-28T14:46:45.209Z
+published: 2026-07-28T14:46:45.209Z
 born: 241
 Ancestry: Owlin
 Gender: Male
@@ -17,36 +21,42 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Bwanson Wagwan
-> ![[bwanson_wagwan.png|300]]
+>
+> ![[z_assets/bwanson_wagwan.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 25 years
+>
+> **Ancestry**: Owlin
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Mitlin.md|Mitlin]]
+>
+> **Role**: Former Adventurer, Druid, Merchant
+>
+> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Bwanson adventured with [[The High Rollers]] during their time on the Tanglewood Peninsula.
 - He settled down to start his magic shop Jack of Owl Trades in Mitlin with his business partner Scryer Young.
 
 # Attributes
+
 - **Voice**: High pitched, says "hoo-hoo" like an owl a lot
-- **Traits**: 
-	- I have much to be proud of, but I am still just one strand in the grand, interwoven tapestry of life. Nature offers rich and abundant metaphors for understanding the complexities of life.
-	- Ideals: Preserving life and nature is always a worthwhile endeavor. (Good)
+- **Traits**:
+  - I have much to be proud of, but I am still just one strand in the grand, interwoven tapestry of life. Nature offers rich and abundant metaphors for understanding the complexities of life.
+  - Ideals: Preserving life and nature is always a worthwhile endeavor. (Good)
 - **Goals:** Sell magic items to adventurers, make a small profit
 - **Appearance**: Short owlin druid with a necktie
 

@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:45.000Z
+modified: 2026-07-28T15:12:35.413Z
+published: 2026-07-28T15:12:35.413Z
 born: 244
 Ancestry: Drow Elf
 Gender: Female
@@ -15,40 +19,45 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Stephenie Stalacnicz
-> ![[stephenie_stalacnicz.png|300]]
+>
+> ![[z_assets/stephenie_stalacnicz.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 22 years
+>
+> **Ancestry**: Drow Elf
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Student, Junior
+>
+> **Affiliation:** Vlorngroth
+>
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
 
 # Overview
+
 - A brilliant student who tested out of a good deal of classes. She started as a junior but is constantly held back academically and otherwise by her jock boyfriend [[Asmodeas Brickhaus]].
 - Her on again off again relationship with [[Asmodeas Brickhaus]] has been very bad for her academic career.
 
 # Attributes
+
 - **Voice**: Mean girls
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
 | Name                   | Relationship |
 | ---------------------- | ------------ |
 | [[Asmodeas Brickhaus]] | Boyfriend    |
-

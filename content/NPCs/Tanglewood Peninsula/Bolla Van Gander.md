@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:44.000Z
+modified: 2026-07-28T14:45:40.994Z
+published: 2026-07-28T14:45:40.994Z
 born: 220
 Ancestry: Human
 Gender: Female
@@ -15,36 +19,42 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Bolla Van Gander
-> ![[bolla_van_gander.png|300]]
+>
+> ![[z_assets/bolla_van_gander.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 46 years
+>
+> **Ancestry**: Human
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Former Adventurer, Wizard, Advisor
+>
+> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Former adventurer, powerful wizard, and advisor to Mayor [[Antoona Bastifor]].
 - She was an adventurer with her husband [[Biltus Van Gander]] before they settled down to start a family in the sleepy fishing village of [[Crabbley]].
 
 # Attributes
-- **Voice**: 
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+
+- **Voice**:
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

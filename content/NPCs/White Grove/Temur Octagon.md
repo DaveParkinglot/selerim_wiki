@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:00.000Z
+modified: 2026-07-28T15:13:11.794Z
+published: 2026-07-28T15:13:11.794Z
 born: 241
 Ancestry: Human
 Gender: Male
@@ -15,33 +19,39 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Temur Octagon
-> ![[temur_octagon.png|300]]
+>
+> ![[z_assets/temur_octagon.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 25 years
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Student, Morganth Cultist
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+>
+> **Status:** Alive
 
 # Overview
+
 - A pompous senior at [[White Grove|White Grove Academy]] who betrayed his friend [[Cristos Babblestaff]] and nearly killed him in the library while working as an agent of the [[Legion of Doom]].
 - Temur was posing as a student at White Grove, but he actually was only there to sabotage the school and steal information on [[Tzastis the Collector]] from the library.
 - Later, after being caught and imprisoned, Temur claimed he was mind controlled by the dark powers of the treacherous Provost Serpentios.
 
 # Attributes
+
 - **Voice**: Douchey aha
 - **Traits**: Douchebag
 - **Goals:** Clear his name
@@ -52,4 +62,3 @@ Author: Jordan
 | Name                    | Relationship  |
 | ----------------------- | ------------- |
 | [[Cristos Babblestaff]] | Former Friend |
-

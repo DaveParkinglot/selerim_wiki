@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:43.000Z
+modified: 2026-07-28T15:00:51.679Z
+published: 2026-07-28T15:00:51.679Z
 born: 216
 Ancestry: Drow
 Gender: Male
@@ -14,28 +18,33 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Carbuckle Duskshot
-> ![[carbuckle_duskshot.png|300]]
+>
+> ![[z_assets/carbuckle_duskshot.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 50 years
+>
+> **Ancestry**: Drow
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
+>
+> **Role**: Gunslinger Bounty Hunter, Former Inquisitor, Colonel
+>
+> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 - 5'9 drow with nothin to lose. Always wears a duster, even underwater.
 - A drow gunslinger bounty hunter who once hunted [[The High Rollers]] for their bounty in [[Vlorngroth]].
 - He became an unlikely ally in the fight against [[Master Effree Jypstein]]'s undead.
@@ -43,6 +52,7 @@ Author: Jordan
 - He is currently serving as a Colonel in the [[Tiialia|Tiialan]] military, based in the town of Scallion.
 
 # Attributes
+
 - **Voice**: Southern/western I'm not really sure
 - **Traits**: Loyal to his friends, open-minded for a drow from the [[Vlorn Dynasty]]
 - **Goals:** Be free from the yoke of Vlorngroth, collect bounties, live on the edge

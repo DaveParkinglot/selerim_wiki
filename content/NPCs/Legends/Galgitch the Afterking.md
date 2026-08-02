@@ -1,4 +1,12 @@
 ---
+publish: true
+aliases:
+  - Galgitch
+  - The Afterking
+  - Afterking
+created: 2025-10-17T13:50:27.000Z
+modified: 2026-07-27T21:28:21.282Z
+published: 2026-07-27T21:28:21.282Z
 born: 90
 Author: Jordan
 Ancestry:
@@ -13,39 +21,41 @@ Affiliation:
 Appearances:
   - "[[The Mournholde Incident]]"
 Status: Alive
-aliases:
-  - Galgitch
-  - The Afterking
-  - Afterking
 tags:
 ---
+
 > [!infobox|right]
+>
 > ## Galgitch the Afterking
-> ![[galgitch_the_afterking.png|300]]
+>
+> ![[z_assets/galgitch_the_afterking.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 176 years
+>
+> **Ancestry**: Undead Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Mournholde.md|Mournholde]]
+>
+> **Role**: Afterking of Mournholde
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The Mournholde Incident.md|The Mournholde Incident]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Lawful neutral death knight ruler of [[Ghoulfen Island]], he rules from his necropolis in [[Mournholde]].
 - He was once an adventurer, and though his party succeeded in killing the lich that cursed the island now known as Ghoulfen, he perished in the fighting and became the first Undead Immortal to rise on the island, but not the last.
 - Realizing his story was not over, he set about creating the island as it exists today.
 
 # Attributes
+
 - **Voice**: Deep, booming, otherworldly
 - **Traits**: Pragmatic, self-serving, isolationist
 - **Goals**: Maintain the sanctity of Undeath on Ghoulfen Island

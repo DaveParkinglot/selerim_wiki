@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-09-17T16:03:07.000Z
+modified: 2026-07-28T15:00:38.064Z
+published: 2026-07-28T15:00:38.064Z
 born: 102
 Ancestry:
   - Drow
@@ -16,28 +20,33 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Count Calloway Duskveil
-> ![[calloway_duskveil.png|300]]
+>
+> ![[z_assets/calloway_duskveil.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 164 years
+>
+> **Ancestry**: Drow, Vampire
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
+>
+> **Role**: Former Inquisitor
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]], [[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]]
+>
+> **Status:** Alive
 
 # Overview
+
 - His nickname was once The Midnight Marquis, from his time in the Inquisitors.
 - His family once owned Duskveil Asylum (aka The Manor of Madness) before it was given over to the cause of the Vlorn Dynasty.
 - While he is friends with powerful folk, he himself is not nearly as ambitious, preferring to keep to himself.
@@ -45,10 +54,11 @@ Author: Jordan
 - He is the uncle of the former Inquisitor turned bounty hunter [[Carbuckle Duskshot]], who dropped the Veil in favor of the Shot.
 
 # Attributes
+
 - **Voice**: Southern gentleman
-- **Traits**: 
-	- Ruthless to underlings, exceedingly respectful to those he considers his peers
-	- Might makes right
+- **Traits**:
+  - Ruthless to underlings, exceedingly respectful to those he considers his peers
+  - Might makes right
 - **Goals:** Retake his ancestral manse so he can be indulgent there
 - **Appearance**: Tall handsome drow gentleman, wears a long brim hat at nearly all times
 
@@ -58,4 +68,3 @@ Author: Jordan
 | ---------------------- | ------------------- |
 | [[Carbuckle Duskshot]] | Nephew              |
 | [[Morbus]]             | Most Loyal Familiar |
-

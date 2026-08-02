@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:43.000Z
+modified: 2026-07-27T22:22:29.184Z
+published: 2026-07-27T22:22:29.184Z
 born: 220
 Ancestry:
   - Human
@@ -14,37 +18,43 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Bourtney Heiser
-> ![[bourtney_heiser.png|300]]
+>
+> ![[z_assets/bourtney_heiser.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 46 years
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]]
+>
+> **Role**: Barkeep
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Barkeep at the tavern The Billowing Boar. He is originally from Tiialia.
 - Before [[Lord Davos Portnoir]]'s deposition by [[The High Rollers]], he was one of many tenants suffering from rent increases.
 - He is still resentful of his parents for naming him Bourtney.
 
 # Attributes
+
 - **Voice**: Mean and rough
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 

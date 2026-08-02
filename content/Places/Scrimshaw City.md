@@ -1,4 +1,14 @@
 ---
+publish: true
+aliases:
+  - Scrimshaw
+  - Free City of Scrimshaw
+title: Scrimshaw, Free Port City
+created: 2025-07-25T16:30:40.000Z
+modified: 2026-07-27T20:17:34.107Z
+published: 2026-07-27T20:17:34.107Z
+tags:
+  - Settlement
 Type:
   - Free City
 founded_year: -250
@@ -13,7 +23,6 @@ Appearances:
   - "[[Arby's Sauce]]"
   - "[[Spring Cleaning in Scrimshaw City]]"
   - "[[The Hellnight Soirée]]"
-title: Scrimshaw, Free Port City
 marker:
   - coordinates: 815, 3155
     icon: game-icons:medieval-gate
@@ -21,56 +30,57 @@ marker:
     minZoom: -4
     mapName: Summer_Lands_Map
 Author: Jordan
-aliases:
-  - Scrimshaw
-  - Free City of Scrimshaw
-tags:
-  - Settlement
 ---
 
 > [!infobox|right]
+>
 > ## Scrimshaw City
->  ![[scrimshaw_city.png|500]]
+>
+> ![[z_assets/scrimshaw_city.png|500]]
+>
 > > [!caption|center]
 > > Scene view
-> 
->  ![[scrimshaw_topdown.webp|500]]
+>
+> ![[z_assets/scrimshaw_topdown.webp|500]]
+>
 > > [!caption|center]
 > > Map view
-> 
+>
 > ## Details
-> 
->**Type**: `= join(this.Type, ", ")`
 >
->**Age:** `= regexreplace(string([[World Overview]].current_year - this.founded_year), "\B(?=(\d{3})+(?!\d))", ",")` years
+> **Type**: Free City
 >
->**Population**: `= regexreplace(string(this.population), "\B(?=(\d{3})+(?!\d))", ",")`
+> **Age:** 516 years
 >
->**Affiliation**: `= join(this.Affiliation, ", ")`
+> **Population**: 18,000
 >
->**Government:** `= join(this.Government, ", ")`
+> **Affiliation**: None
 >
->**Appearances:** `= join(this.Appearances, ", ")`
+> **Government:** [[NPCs/Scrimshaw City/Hugh Mann.md|El Presidente Hugh Mann]], [[Tavernstool|Tavernstool]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
 
 # Overview
+
 - Old as the waves themselves and twice as salty, the port city of Scrimshaw is currently controlled by El Presidente [[Hugh Mann]] after the previous El Presidente [[Lord Davos Portnoir|Davos Portnoir]] was overthrown by [[The High Rollers]].
 - An abyssal rift, raging for millennia, is buried deep below the mean streets of Scrimshaw City. The original Seven Pirate Kings incorporated in order to found Scrimshaw, seeking to contain, control, and harness the rift’s power. For fifty years, the Seven Kings succeeded in harnessing the power, bringing great prosperity to Scrimshaw. But, as is natural for hot blooded pirates, betrayal soon thwarted their stability, leading to a demonic invasion that nearly destroyed the city.
 - And so, cowed by the demonic forces pouring from the abyss, the Four Faithful Pirate Kings of Scrimshaw made a Pact with the Nine Hells to save the city that burned around them. [[The Faithful Pact]] states that a devil shall always rule in Scrimshaw, in order to prevent a demonic invasion from once again consuming the city. There must always be an El Presidente.
 
 # Attributes
+
 - **Appearance**: (Architecture, landscape, or vibe)
-- **Economy/Resources**: 
-	- Deepmine Delvings Inc., mining and resource trading
-	- Tavernstool, huge fandom for pit fighting @ The Pit
+- **Economy/Resources**:
+  - Deepmine Delvings Inc., mining and resource trading
+  - Tavernstool, huge fandom for pit fighting @ The Pit
 - **Dangers/Secrets**: (Rumors, threats, hidden lore)
-	- Fey invasion at The Henge of Avandra
-	- Centaur tribes on Scrimshaw's sister island
-	- Portnoir Loyalists
-	- [[Euron Underfoe]] and his takeover of old Mr. Gobblefirn's apothecary (Gobblefirn Apothecary)
-- **Points of Interest**: 
-	- The Billowing Boar Tavern
-	- The Henge of Avandra
-	- The Temple of Melora
-	- The Pit
-	- The High Roller Bar & Grille
-	- The Shanties
+  - Fey invasion at The Henge of Avandra
+  - Centaur tribes on Scrimshaw's sister island
+  - Portnoir Loyalists
+  - [[Euron Underfoe]] and his takeover of old Mr. Gobblefirn's apothecary (Gobblefirn Apothecary)
+- **Points of Interest**:
+  - The Billowing Boar Tavern
+  - The Henge of Avandra
+  - The Temple of Melora
+  - The Pit
+  - The High Roller Bar & Grille
+  - The Shanties

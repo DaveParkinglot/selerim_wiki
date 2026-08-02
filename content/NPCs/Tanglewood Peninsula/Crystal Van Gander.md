@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:44.000Z
+modified: 2026-07-28T14:47:46.308Z
+published: 2026-07-28T14:47:46.308Z
 born: 247
 Ancestry: Human
 Gender: Female
@@ -15,37 +19,43 @@ Status: Alive
 Author:
   - Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Crystal Van Gander
-> ![[crystal_van_gander.png|300]]
+>
+> ![[z_assets/crystal_van_gander.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 19 years
+>
+> **Ancestry**: Human
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Hedge Warlock, Farmer
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Edgy hedge warlock teen living on a farm in Crabbley, she wants to be an adventurer like her parents were.
-- She is at odds with her mother, a wizard, because she doesn't want to study magic. 
+- She is at odds with her mother, a wizard, because she doesn't want to study magic.
 - She constantly insists that being a warlock isn't a phase for her.
 
 # Attributes
+
 - **Voice**: Angsty teen girl
-- **Traits**: 
+- **Traits**:
 - **Goals:** Become an accomplished spellcaster like her mother
-- **Appearance**: 
+- **Appearance**:
 
 # Relationships
 

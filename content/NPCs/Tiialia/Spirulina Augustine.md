@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:45.000Z
+modified: 2026-07-28T14:56:41.523Z
+published: 2026-07-28T14:56:41.523Z
 born: 177
 Ancestry: Tiefling
 Gender: Female
@@ -13,31 +17,37 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Spirulina Augustine
-> ![[spirulina_augustine.png|300]]
+>
+> ![[z_assets/spirulina_augustine.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 89 years
+>
+> **Ancestry**: Tiefling
+>
+> **Gender**: Female
+>
+> **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]]
+>
+> **Role**: Alchemist
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
 
 # Overview
+
 - The kindly old Tiefling woman who owns Spirulina's Solutions in the Tiialan Marketplace.
 
 # Attributes
+
 - **Voice**: Kindly old woman
 - **Traits**: Very nice to her customers. Sends gift bags and birthday presents.
 - **Goals:** Provide for herself while providing healing and sundries to adventurers and commoners alike.

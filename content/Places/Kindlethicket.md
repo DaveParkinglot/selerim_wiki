@@ -1,4 +1,12 @@
 ---
+publish: true
+title: Kindlethicket, Fey Crossing
+created: 2025-11-02T15:04:59.135Z
+modified: 2026-07-27T20:15:48.291Z
+published: 2026-07-27T20:15:48.291Z
+tags:
+  - Tanglewood-Peninsula
+  - Settlement
 Type:
   - Fey Crossing
 founded_year: 264
@@ -7,7 +15,6 @@ Affiliation:
   - None
 Government:
   - The Prince of Lamps and Luminosity
-title: Kindlethicket, Fey Crossing
 marker:
   - coordinates: 1045, 3405
     icon: game-icons:mushroom-house
@@ -20,35 +27,38 @@ Appearances:
   - "[[Kindlethicket - The Winter Hunt]]"
   - "[[Lighting the Lighthouse]]"
 aliases:
-tags:
-  - Tanglewood-Peninsula
-  - Settlement
 ---
+
 > [!infobox|right]
+>
 > ## Kindlethicket
-> ![[kindlethicket.png|400]]
+>
+> ![[z_assets/kindlethicket.png|400]]
+>
 > ## Details
-> 
->**Type**: `= join(this.Type, ", ")`
 >
->**Age:** `= regexreplace(string([[World Overview]].current_year - this.founded_year), "\B(?=(\d{3})+(?!\d))", ",")` years
+> **Type**: Fey Crossing
 >
->**Population**: `= regexreplace(string(this.population), "\B(?=(\d{3})+(?!\d))", ",")`
+> **Age:** 2 years
 >
->**Affiliation**: `= join(this.Affiliation, ", ")`
+> **Population**: 200
 >
->**Government:** `= join(this.Government, ", ")`
+> **Affiliation**: None
 >
->**Appearances:** `= join(this.Appearances, ", ")`
+> **Government:** The Prince of Lamps and Luminosity
+>
+> **Appearances:** [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]], [[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
 
 # Overview
+
 Kindlethicket is a fey crossing—a location where the Selerim Material Plane intersects with The Feywild, the Plane of Faerie. It sprung up on the eastern arm of the [[Tanglewood Peninsula]] in the Spring of 264.
 
 # Attributes
-- **Appearance**: 
-	- Faerie architecture, lots of mushrooms and twinkling lights
-	- Buildings are formed from mushrooms and trees
-	- Sprites and faeries dart around hundreds of lamps hanging from branches on trees
+
+- **Appearance**:
+  - Faerie architecture, lots of mushrooms and twinkling lights
+  - Buildings are formed from mushrooms and trees
+  - Sprites and faeries dart around hundreds of lamps hanging from branches on trees
 - **Economy/Resources**: (What it produces, trades, or lacks)
 - **Dangers/Secrets**: (Rumors, threats, hidden lore)
 - **Points of Interest**: (Taverns, landmarks, shrines, ruins, etc.)

@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-12-08T16:33:00.000Z
+modified: 2026-07-28T14:51:27.680Z
+published: 2026-07-28T14:51:27.680Z
 born: 218
 Ancestry:
   - Elf
@@ -18,31 +22,37 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Scryer Young
-> ![[scryer_young.png|300]]
+>
+> ![[z_assets/scryer_young.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 48 years
+>
+> **Ancestry**: Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Mitlin.md|Mitlin]]
+>
+> **Role**: Merchant, Scryer
+>
+> **Affiliation:** None
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]], [[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Business partner of [[Bwanson Wagwan]], he works with Bwanson at the magic item shop Jack of Owl Trades in [[Mitlin]].
 
 # Attributes
+
 - **Voice**: Posh nasally elf
 - **Traits**: Enjoys haggling with adventurers, and selling them magic items to help them in their quests.
 - **Goals:** Sell magic items to adventurers, make a small profit

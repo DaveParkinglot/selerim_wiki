@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2025-07-21T15:30:44.000Z
+modified: 2026-07-27T22:18:41.354Z
+published: 2026-07-27T22:18:41.354Z
 born: 229
 Ancestry:
   - Human
@@ -17,36 +21,42 @@ Appearances:
 Status: Alive
 Author: Jordan
 ---
+
 > [!infobox|right]
+>
 > ## Loeb
-> ![[loeb.png|300]]
+>
+> ![[z_assets/loeb.png|300]]
+>
 > ## Details
-> 
-> **Age:** `= regexreplace(string([[World Overview]].current_year - this.born), "\B(?=(\d{3})+(?!\d))", ",")` years
-> 
-> **Ancestry**: `= join(this.Ancestry, ", ")`
-> 
-> **Gender**: `= join(this.Gender, ", ")`
-> 
-> **Location**: `= join(this.Location, ", ")`
-> 
-> **Role**: `= join(this.Role, ", ")`
-> 
-> **Affiliation:** `= join(this.Affiliation, ", ")`
-> 
-> **Appearances:** `= join(this.Appearances, ", ")`
-> 
-> **Status:** `= join(this.Status, ", ")`
+>
+> **Age:** 37 years
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Scrimshaw City.md|Scrimshaw City]], [[Worldbuilding/Miscellaneous/The Spicy Meatball.md|The Spicy Meatball]]
+>
+> **Role**: Acting CEO, Blood Hunter
+>
+> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
+>
+> **Status:** Alive
 
 # Overview
+
 - Originally, Loeb was [[Tadeusz]]'s blood hunter battle buddy who was lost after their voyage to kill a kraken went wrong.
 - Like all blood hunters, he is steely on the surface, with a bestial fury underneath. He uses this very effectively in managing [[The Spicy Meatball]] and all of its misfit workers in the absence of [[Tadeusz]] and the rest of [[The High Rollers]].
 
 # Attributes
+
 - **Voice**: Geralt of Rivia
-- **Traits**: 
-- **Goals:** 
-- **Appearance**: 
+- **Traits**:
+- **Goals:**
+- **Appearance**:
 
 # Relationships
 
