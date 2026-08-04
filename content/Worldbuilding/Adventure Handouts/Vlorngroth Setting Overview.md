@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-22T16:50:53.000Z
-modified: 2026-05-12T13:27:48.729Z
-published: 2026-05-12T13:27:48.729Z
+modified: 2026-08-04T13:45:58.735Z
+published: 2026-08-04T13:45:58.735Z
 Author: Jordan
 ---
 
@@ -18,7 +18,7 @@ _[[Vlorngroth]], beneath the Fungal Firmament_
 
 ## PLANS OF THE HIGH LORD
 
-The true nature of High Lord Kranicz’s plan is known only to his war council, but the [[Vlorngroth]] populace need only look at recent happenings to know that the gears of his plan have begun to turn. Criers recruit able-bodied fighters in every street, and the slaves of the city have been called to combat training for the first time in two centuries. For many [[Vlorngroth]] citizens, the most interesting development is the ongoing "accelerated recruitment program" for the dynasty's most elite group of spies: The Inquisitor's Order. For those looking to make a name for themselves in the ruthless meritocracy of [[Vlorn Dynasty]], this is the clearest path forward.
+The true nature of High Lord Kranicz’s plan is known only to his war council, but the [[Vlorngroth]] populace need only look at recent happenings to know that the gears of his plan have begun to turn. Criers recruit able-bodied fighters in every street, and the slaves of the city have been called to combat training for the first time in two centuries. For many [[Vlorngroth]] citizens, the most interesting development is the ongoing "accelerated recruitment program" for the dynasty's most elite group of spies: the Inquisitor's Order. For those looking to make a name for themselves in the ruthless meritocracy of [[Vlorn Dynasty]], this is the clearest path forward.
 
 ![[z_assets/vlorngroth_streets.png]]
 

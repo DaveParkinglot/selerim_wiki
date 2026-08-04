@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Detzin
 created: 2025-11-02T15:33:16.000Z
-modified: 2026-07-28T14:47:58.415Z
-published: 2026-07-28T14:47:58.415Z
+modified: 2026-08-04T19:10:14.156Z
+published: 2026-08-04T19:10:14.156Z
 born: 224
 Ancestry:
   - Wood Elf
@@ -75,4 +75,4 @@ Author: Jordan
 | Name               | Relationship                      |
 | ------------------ | --------------------------------- |
 | [[Bwanson Wagwan]] | Friend/Gamblers Anonymous Sponsor |
-| Purt Sterner       | Loan Shark                        |
+| [[Purt Sterner]]   | Loan Shark                        |
