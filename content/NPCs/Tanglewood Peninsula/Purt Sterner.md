@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-04T14:50:43.511Z
-modified: 2026-08-04T19:11:12.498Z
-published: 2026-08-04T19:11:12.498Z
+modified: 2026-08-04T23:24:09.038Z
+published: 2026-08-04T23:24:09.038Z
 born: 215
 Ancestry:
   - Half-Elf
@@ -25,7 +25,7 @@ aliases:
 >
 > ## Purt Sterner
 >
-> ![[z_assets/Pasted image 20260804105116.png|300]]
+> ![[z_assets/purt_sterner.png|300]]
 >
 > ## Details
 >

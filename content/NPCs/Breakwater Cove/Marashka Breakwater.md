@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T15:17:12.000Z
-modified: 2026-07-27T21:25:56.993Z
-published: 2026-07-27T21:25:56.993Z
+modified: 2026-08-04T23:28:31.523Z
+published: 2026-08-04T23:28:31.523Z
 tags:
   - Breakwater-Cove
 born: 177
@@ -47,8 +47,7 @@ Author: Jordan
 
 # Overview
 
-- Former Master Gunner of The Leaky Bucket.
-- Descendant of the legendary Breakwater family, who founded [[Breakwater Cove]].
+Former Master Gunner of The Leaky Bucket. Descendant of the legendary [[Breakwater]] family, they who founded [[Breakwater Cove]].
 
 # Attributes
 

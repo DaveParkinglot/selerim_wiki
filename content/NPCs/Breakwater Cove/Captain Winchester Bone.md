@@ -5,8 +5,8 @@ aliases:
   - Captain Winchester Bone
   - Winchester Bone
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T21:26:05.822Z
-published: 2026-07-27T21:26:05.822Z
+modified: 2026-08-04T23:27:41.481Z
+published: 2026-08-04T23:27:41.481Z
 tags:
   - Breakwater-Cove
 born: 200
@@ -53,8 +53,9 @@ Author: Jordan
 
 # Overview
 
-- Once a renowned ship captain, he now owns Bone Tavern in [[Breakwater Cove]]. Loves to recount his days of yore to whoever will listen.
-- He has sailed with many crews aboard many ships, but he is most known for his time aboard the Leaky Bucket.
+Once a renowned ship captain, Captain Bone now owns Bone Tavern in [[Breakwater Cove]]. He loves to recount his days of yore to whoever will listen, though he often falls asleep before he finishes.
+
+He has sailed with many crews aboard many ships, but he is most known for his time aboard the Leaky Bucket.
 
 ## [[The Hidden Hoard of Winchester Bone]]
 
@@ -62,19 +63,22 @@ In order to keep Bone Tavern afloat financially, Captain Bone requested the assi
 
 ## [[Sharky's Revenge]]
 
-- At some point, he had to fight half his crew and his first mate [[Sharky Dolphino]] over some relics they plundered from a ship bound for [[Mournholde]].
-  - The following is Bone's accounting of the events that led to the end of "Bone and Sharky's Crew":
-    - Sharky, being an orphan cast out of Tiialia, wanted to use powerful artifacts they looted to get revenge on those who had wronged him
-    - Bone had no choice but to mutiny, and he used one of the artifacts on Sharky and his supporters.
-    - "Yarrr… lost over half me crew that day. Twas a terrible time."
-    - "Yarrr… The artifact were a small vase with a skull on it… still remember the way the eyes gleamed, lookin up at me… blasted the ol' skin right from their bones and sucked in their souls to boot"
-    - "Yarr, I chucked that strange vase right in the ocean on me way back home, suppose it's still there buried beneath the waves"
+At some point Bone had to fight half his crew and his first mate [[Sharky Dolphino]] over relics plundered from a ship bound for [[Mournholde]].
+
+The following is Bone's accounting of the events that led to the end of "Bone and Sharky's Crew":
+
+- Sharky, being an orphan cast out of Tiialia, wanted to use powerful artifacts they looted to get revenge on those who had wronged him
+- Bone had no choice but to mutiny, and he used one of the artifacts on Sharky and his supporters.
+- "Yarrr… lost over half me crew that day. Twas a terrible time."
+- "Yarrr… The artifact were a small vase with a skull on it… still remember the way the eyes gleamed, lookin up at me… blasted the ol' skin right from - their bones and sucked in their souls to boot"
+- "Yarr, I chucked that strange vase right in the ocean on me way back home, suppose it's still there buried beneath the waves"
 - Bone was visited by Sharky, and requested help from adventurers to thwart Sharky's plans.
 
 ## [[The Hunt for the Leaky Bucket]]
 
-- Captain Bone recruited new adventurers to hunt down his missing ship, the Leaky Bucket.
-- The ship vanished off the coast of [[Breakwater Cove]] several decades ago after the ship's mage incorrectly used a teleportation spell. Bone was out for a swim at the time, and was left stranded in the open ocean.
+Captain Bone recruited new adventurers to hunt down his missing ship, the Leaky Bucket.
+
+The ship vanished off the coast of [[Breakwater Cove]] two decades ago after the ship's mage incorrectly used a teleportation spell. Bone was out for a swim at the time, and was left stranded in the open ocean.
 
 # Attributes
 

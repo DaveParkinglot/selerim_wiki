@@ -1,10 +1,12 @@
 ---
 publish: true
 created: 2025-12-24T14:27:42.000Z
-modified: 2026-07-22T12:53:00.000Z
-published: 2026-07-22T12:53:00.000Z
+modified: 2026-08-04T23:24:13.221Z
+published: 2026-08-04T23:24:13.221Z
 Author: Jordan
 ---
+
+![[z_assets/blackfyre_orb.png]]
 
 Not much is known about these abyssal artifacts, except that they can be used to summon demons to the material plane. One orb was used to summon a demon into the heartland of [[Tiialia]], but the incursion was thwarted by [[Dunland's Raiders]].
 

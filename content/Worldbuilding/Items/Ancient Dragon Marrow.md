@@ -4,24 +4,23 @@ aliases:
   - The Substance
   - ADM
 created: 2026-03-24T15:06:13.636Z
-modified: 2026-07-21T13:40:46.842Z
-published: 2026-07-21T13:40:46.842Z
+modified: 2026-08-04T23:22:13.013Z
+published: 2026-08-04T23:22:13.013Z
 Author: Jordan
 ---
 
 > [!Quote|author mark no-title]
-> _[[The Forsaken Expanse]] is littered with dragon bones that can wreck a sandskiff, but the marrow still contains the magics of those long-dead wyrms. <br><br> It's quite the kick, or so I've heard._ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]] <br> to [[The High Rollers]] </span>
+> _[[The Forsaken Expanse]] is littered with dragon bones that can wreck a sandskiff, but the marrow still contains the magics of those long-dead wyrms. <br> It's quite the kick, or so I've heard._ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]] <br> to [[The High Rollers]] </span>
 
 ![[z_assets/ancient_dragon_marrow.png]]
 
 The dried marrow of the ancient dragons killed in the [[Generations' War]] is sacred to the elves of [[Mitlin]], who call it "The Substance". It is a powerful upper that can result in dangerous wild magic surges, depending on the user's constitution.
 
-The elves of Mitlin have discovered that the magical properties are similar to that of the [[Violet Bleed]], however, study of The Substance is prohibited by Mitlin's conservatives.
+The elves of Mitlin have discovered that the magical properties are similar to that of the [[Violet Bleed]], however, study of The Substance is prohibited by Mitlin's conservative [[Dragon Faithful]].
 
 **Mechanically, the item works like this:**
-
-- The marrow can be consumed with a bonus action, granting advantage on the next ability check, attack roll, or saving throw that made within the next hour. Remember, addiction is a disease.
-- After taking a hit, roll a DC 15 Constitution saving throw and consult the following table for additional effects:
+The marrow can be consumed with a bonus action, granting advantage on the next D20 test made within the next hour.
+Remember, addiction is a disease. After taking a hit, roll a DC 15 Constitution saving throw and consult the following table for additional effects:
 
 | Result             | Effect                                    |
 | ------------------ | ----------------------------------------- |
