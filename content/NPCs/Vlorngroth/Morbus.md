@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-02T16:18:30.000Z
-modified: 2026-07-28T15:01:04.792Z
-published: 2026-07-28T15:01:04.792Z
+modified: 2026-08-04T23:33:59.463Z
+published: 2026-08-04T23:33:59.463Z
 born: 231
 Ancestry:
   - Goblin
@@ -48,9 +48,9 @@ Author: Jordan
 
 # Overview
 
-- Morbus is a disgusting goblin kobold hybrid, further mutated by experiments done to him by [[Count Calloway Duskveil]].
-- On more than one occasion, Morbus' body has been entirely dismantled while doing odd jobs for Count Duskveil, but he is always stitched back together by his master.
-- Morbus is fiercely loyal to Duskveil, and claims to be the longest tenured familiar in the employe of Count Duskveil with 16 dedicated years of service.
+Morbus is a disgusting goblin kobold hybrid, further mutated by experiments done to him by [[Count Calloway Duskveil]]. On more than one occasion, Morbus' body has been entirely dismantled while doing odd jobs for Count Duskveil, but he is always stitched back together by his master.
+
+Morbus is fiercely loyal to Duskveil, and claims to be the longest tenured familiar in the employe of Count Duskveil with 16 dedicated years of service.
 
 # Attributes
 

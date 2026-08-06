@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-05-03T15:42:03.359Z
-modified: 2026-07-19T13:05:57.892Z
-published: 2026-07-19T13:05:57.892Z
+modified: 2026-08-06T20:28:20.017Z
+published: 2026-08-06T20:28:20.017Z
 Author: Jordan
 ---
 
-Human, rogue, gambling addict. "Card" of [[Players Characters/The Stacked Deck/index/|The Stacked Deck]] may not always be the most effective operative, but he gets results.
+Human, rogue, gambling addict. "Card" of [[Player Characters/The Stacked Deck/index|The Stacked Deck]] may not always be the most effective operative, but he gets results.
