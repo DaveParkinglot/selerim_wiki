@@ -1,15 +1,19 @@
 ---
 publish: true
 created: 2026-06-13T02:16:38.120Z
-modified: 2026-06-28T14:18:47.300Z
-published: 2026-06-28T14:18:47.300Z
+modified: 2026-08-07T23:39:45.460Z
+published: 2026-08-07T23:39:45.460Z
 Type:
   - Megalopolis
 Age (years): 5450
 Population: 36000000
 Affiliation:
+  - None
 Government:
-Author: Jordan
+  - "[[Hugh Mann|The Mann]]"
+Author:
+  - Jordan
+  - Mike Doom
 Appearances:
   - "[[The Missing Dwarf]]"
 aliases:
@@ -29,22 +33,22 @@ aliases:
 >
 > **Population**: 36000000
 >
-> **Affiliation**: -
+> **Affiliation**: None
 >
-> **Government:** -
+> **Government:** [[NPCs/Scrimshaw City/Hugh Mann.md|The Mann]]
 >
 > **Appearances:** [[The Missing Dwarf|The Missing Dwarf]]
 
 # Overview
 
-Formerly [[Scrimshaw City]]. 5,000 years into the future, it has become a dystopian cyberpunk city.
+Formerly [[Scrimshaw City]], but still a Free City. 5,000 years into the future, it has become a dystopian cyberpunk city.
 
 Competing powers:
 
-- Batista Syndicate - "legitimate business", powerhouse, oligarchic criminal organization with deep political influence
+- [[Batista Syndicate]] - "legitimate business", powerhouse, oligarchic criminal organization with deep political influence
 - [[Hugh Mann|The Mann]] - behind the scenes string puller, rumor mill says he doesn't even exist
-- Tiialan Logistics - by the books logistics company. "We can get anything, anywhere." Like the Spacing Guild in Dune
-- Avandra Collective - corporate cult, obsessed with Luck and Gambling
+- [[Tiialan Logistics]] - by the books logistics company. "We can get anything, anywhere." Like the Spacing Guild in Dune
+- [[Avandra Collective]] - corporate cult, obsessed with Luck and Gambling
 
 # Attributes
 

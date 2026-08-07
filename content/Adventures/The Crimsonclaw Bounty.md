@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:30:52.463Z
-published: 2026-07-21T15:30:52.463Z
+modified: 2026-08-07T23:15:27.920Z
+published: 2026-08-07T23:15:27.920Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -17,7 +17,7 @@ Players:
 Characters:
   - Jaemee Babaganoush
   - "[['Playing Card' Murphy]]"
-  - "[[The Knight of Confidence]]"
+  - "[[Knight of Confidence]]"
 Races:
   - Human
   - Human
@@ -71,4 +71,4 @@ Whoever your character is, whether brave or foolish, they will soon leave the sa
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Jaemee Babaganoush | Human | Wizard |
 | Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
-| Mike Doom | [[Player Characters/The Stacked Deck/The Knight of Confidence.md\|The Knight of Confidence]] | Human | Fighter |
+| Mike Doom | [[Player Characters/The Stacked Deck/Knight of Confidence.md\|Knight of Confidence]] | Human | Fighter |

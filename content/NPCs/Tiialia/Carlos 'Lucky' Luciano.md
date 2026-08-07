@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T11:44:04.000Z
-modified: 2026-08-07T00:44:48.151Z
-published: 2026-08-07T00:44:48.151Z
+modified: 2026-08-07T23:00:44.874Z
+published: 2026-08-07T23:00:44.874Z
 born: 209
 Ancestry:
   - Undead Human
@@ -26,7 +26,7 @@ Author: Ethan
 >
 > ## Carlos 'Lucky' Luciano
 >
-> ![[z_assets/carlos_luciano.png|300]]
+> ![[z_assets/carlos_luciano.png|200]]
 >
 > ## Details
 >

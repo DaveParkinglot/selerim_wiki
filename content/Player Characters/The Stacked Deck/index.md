@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Stacked Deck
 created: 2026-05-04T01:29:36.536Z
-modified: 2026-08-06T20:28:55.453Z
-published: 2026-08-06T20:28:55.453Z
+modified: 2026-08-07T23:15:27.936Z
+published: 2026-08-07T23:15:27.936Z
 Author: Jordan
 ---
 
@@ -14,7 +14,7 @@ There have been a few changes in the roster, but there are 3 primary members of 
 
 - [['Playing Card' Murphy]]
 - [[Hector Fanto-Domingo]]
-- [[The Knight of Confidence]]
+- [[Knight of Confidence]]
 
 Their grand adventures are cataloged here:
 

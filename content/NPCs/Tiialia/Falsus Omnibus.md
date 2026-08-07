@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-27T03:27:19.000Z
-modified: 2026-07-28T14:54:41.812Z
-published: 2026-07-28T14:54:41.812Z
+modified: 2026-08-07T23:49:40.350Z
+published: 2026-08-07T23:49:40.350Z
 born: 221
 Ancestry:
   - Human
@@ -14,6 +14,7 @@ Role: Conman, Crime affiliate
 Affiliation: Batiste Family
 Appearances:
   - "[[The Great Tiialan Heist]]"
+  - "[[The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]"
 Status: Alive
 Author: Ethan
 ---
@@ -38,7 +39,7 @@ Author: Ethan
 >
 > **Affiliation:** Batiste Family
 >
-> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]]
+> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy.md|The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]
 >
 > **Status:** Alive
 

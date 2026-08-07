@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T12:02:27.000Z
-modified: 2026-07-21T17:28:18.815Z
-published: 2026-07-21T17:28:18.815Z
+modified: 2026-08-07T23:15:27.930Z
+published: 2026-08-07T23:15:27.930Z
 DM: Ethan
 Platform: Foundry
 Sessions: 4
@@ -19,7 +19,7 @@ Players:
   - Devin
 Characters:
   - Asana Totashi
-  - "[[The Knight of Confidence]]"
+  - "[[Knight of Confidence]]"
   - "[[Hector Fanto-Domingo]]"
   - "[['Playing Card' Murphy]]"
 Races:
@@ -100,6 +100,6 @@ You and other intriguing characters have arrived at the harbor of [[Nova Jersaer
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Asana Totashi | Human | Monk |
-| Mike Doom | [[Player Characters/The Stacked Deck/The Knight of Confidence.md\|The Knight of Confidence]] | Human | Fighter |
+| Mike Doom | [[Player Characters/The Stacked Deck/Knight of Confidence.md\|Knight of Confidence]] | Human | Fighter |
 | Jordan | [[Player Characters/The Stacked Deck/Hector Fanto-Domingo.md\|Hector Fanto-Domingo]] | Human | Barbarian |
 | Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
