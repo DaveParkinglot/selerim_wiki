@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T11:44:04.000Z
-modified: 2026-07-28T14:54:08.235Z
-published: 2026-07-28T14:54:08.235Z
+modified: 2026-08-07T00:44:48.151Z
+published: 2026-08-07T00:44:48.151Z
 born: 209
 Ancestry:
   - Undead Human
@@ -55,7 +55,7 @@ Author: Ethan
 # Attributes
 
 - **Voice**: Jason Statham
-- **Traits**: Keeps being reincarnated bigger and more undeader until [[Player Characters/The Stacked Deck/index]] took his Amulet of the Black Skull
+- **Traits**: Keeps being reincarnated bigger and more undeader until [[Player Characters/The Stacked Deck/index|The Stacked Deck]] took his Amulet of the Black Skull
 - **Ideals:** Serving the Batistas
 - **Appearance**: Large warrior, balding hair.
 

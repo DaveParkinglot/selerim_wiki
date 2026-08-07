@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lord Batista
 created: 2026-05-03T15:25:40.236Z
-modified: 2026-07-28T14:55:15.900Z
-published: 2026-07-28T14:55:15.900Z
+modified: 2026-08-07T00:45:31.670Z
+published: 2026-08-07T00:45:31.670Z
 born: -10000
 Ancestry:
   - Human
@@ -49,7 +49,7 @@ Author: Ethan
 
 # Overview
 
-- During [[The Great Tiialan Heist]], he had brought multiple Tiialan Stones to his nephew [[Roberto Batista]]’s estate to gift to him, which were stolen by [[Player Characters/The Stacked Deck/index]].
+- During [[The Great Tiialan Heist]], he had brought multiple Tiialan Stones to his nephew [[Roberto Batista]]’s estate to gift to him, which were stolen by [[Player Characters/The Stacked Deck/index|The Stacked Deck]].
 - He rules Batistallas with an iron fist.
 - He is referred to as “The Eternal Batista”.
 

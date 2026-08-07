@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-03T15:29:43.020Z
-modified: 2026-07-28T14:56:08.895Z
-published: 2026-07-28T14:56:08.895Z
+modified: 2026-08-07T00:45:42.597Z
+published: 2026-08-07T00:45:42.597Z
 born: 239
 Ancestry:
   - Human
@@ -48,7 +48,7 @@ aliases:
 
 # Overview
 
-[[Player Characters/The Stacked Deck/index]] found him getting high in the gardens of his manor before they stole [[Lord Zalvidar Batista]]'s gifts to Roberto.
+[[Player Characters/The Stacked Deck/index|The Stacked Deck]] found him getting high in the gardens of his manor before they stole [[Lord Zalvidar Batista]]'s gifts to Roberto.
 
 # Attributes
 

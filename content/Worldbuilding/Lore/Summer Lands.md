@@ -4,8 +4,8 @@ aliases:
   - The Summerlands
   - The Summer Lands
 created: 2025-10-09T20:13:33.000Z
-modified: 2026-08-03T01:09:31.000Z
-published: 2026-08-03T01:09:31.000Z
+modified: 2026-08-07T12:43:55.116Z
+published: 2026-08-07T12:43:55.116Z
 Author: Jordan
 ---
 
@@ -19,7 +19,7 @@ In the current age, the Summer Lands span a 400 mile strip along Selerim's equat
 views:
   - type: leaflet-map
     name: Summer Lands Interactive Map
-    mapName: Summer_Lands_Map
+    mapName: Summer_Lands_Map2
     image: z_assets/summer_lands.webp
     height: 600
     minZoom: -3
