@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-13T02:16:38.120Z
-modified: 2026-08-07T23:39:45.460Z
-published: 2026-08-07T23:39:45.460Z
+modified: 2026-08-08T01:50:33.586Z
+published: 2026-08-08T01:50:33.586Z
 Type:
   - Megalopolis
 Age (years): 5450
@@ -55,7 +55,7 @@ Competing powers:
 - **Appearance**: (Architecture, landscape, or vibe)
 - **Economy/Resources**: (What it produces, trades, or lacks)
 - **Dangers/Secrets**: (Rumors, threats, hidden lore)
-- **Points of Interest**: (Taverns, landmarks, shrines, ruins, etc.)
+- **Points of Interest**: Noir Jersaeria, notable district in the city's crime ridden underbelly
 
 # Hooks
 

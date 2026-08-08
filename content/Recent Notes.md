@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T00:41:36.793Z
-modified: 2026-08-08T01:17:05.934Z
-published: 2026-08-08T01:17:05.934Z
+modified: 2026-08-08T01:40:34.396Z
+published: 2026-08-08T01:40:34.396Z
 unlisted: true
 ---
 
@@ -13,6 +13,7 @@ filters:
     - file.name != "Recent Notes"
     - file.name != "index"
     - file.name != "404"
+    - '!file.path.contains("tags")'
 properties:
   file.name:
     displayName: Title
