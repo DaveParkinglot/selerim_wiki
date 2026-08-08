@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-07T23:53:26.335Z
-modified: 2026-08-08T00:58:56.374Z
-published: 2026-08-08T00:58:56.374Z
+modified: 2026-08-08T01:11:22.572Z
+published: 2026-08-08T01:11:22.572Z
 Author: Jordan
 aliases:
 ---
 
 > [!Quote|author mark no-title]
-> _"In all my long life, no [[Living Realms|Living Realm]] has made contact with our own. I once thought this fact disappointing._  <br><br>_After learning of Dreth, I see it now as a divine blessing._" <span style="float: right;">—[[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[White Grove|White Grove Academy]] </span>
+> _"In all my long life, no [[Living Realms|Living Realm]] has made contact with our own. I once thought this fact disappointing._  <br><br>_After learning of Dreth, I see it now as divine blessing._" <span style="float: right;">—[[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[White Grove|White Grove Academy]] </span>
 
 > [!caption]
 > ![[z_assets/malyks_rimespire.png|invertbc cover]]
