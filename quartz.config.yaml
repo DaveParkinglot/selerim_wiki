@@ -240,10 +240,11 @@ plugins:
     enabled: true
     options:
       title: Recent Notes
-      limit: 3
+      limit: 5
       showTags: true
-      hideTagPages: false
-      hideFolderPages: false
+      linkToMore: "Recent-Notes/"
+      hideTagPages: true
+      hideFolderPages: true
     layout:
       position: right
       condition: index-only
