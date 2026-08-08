@@ -242,7 +242,7 @@ plugins:
       title: Recent Notes
       limit: 5
       showTags: true
-      linkToMore: "Recent-Notes/"
+      linkToMore: "Recent-notes/"
       hideTagPages: true
       hideFolderPages: true
     layout:
