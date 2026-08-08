@@ -1,18 +1,17 @@
 ---
 publish: true
 created: 2026-08-07T23:53:26.335Z
-modified: 2026-08-08T00:14:11.949Z
-published: 2026-08-08T00:14:11.949Z
+modified: 2026-08-08T00:58:56.374Z
+published: 2026-08-08T00:58:56.374Z
 Author: Jordan
 aliases:
 ---
 
 > [!Quote|author mark no-title]
-> _"In all my long life, no [[Living Realms|Living Realm]] has made contact with our own. I once thought this disappointing._  <br><br>_After learning of Dreth, I see that now as a divine blessing._" <span style="float: right;">—[[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[White Grove|White Grove Academy]] </span>
+> _"In all my long life, no [[Living Realms|Living Realm]] has made contact with our own. I once thought this fact disappointing._  <br><br>_After learning of Dreth, I see it now as a divine blessing._" <span style="float: right;">—[[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[White Grove|White Grove Academy]] </span>
 
-![[z_assets/Pasted image 20260807200939.png|800]]
-
-> [!caption|center]
+> [!caption]
+> ![[z_assets/malyks_rimespire.png|invertbc cover]]
 > Malyk's Rimespire, center of the ever-circling storm
 
 Smaller in size than its neighboring [[Living Realms|Living Realm]], Dreth is located far to the west of the [[Summer Lands]]. Geographically, these realms are closest to each other, yet their environs and cultures could not be further apart.
