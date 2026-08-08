@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T23:53:26.335Z
-modified: 2026-08-08T01:11:22.572Z
-published: 2026-08-08T01:11:22.572Z
+modified: 2026-08-08T01:18:46.247Z
+published: 2026-08-08T01:18:46.247Z
 Author: Jordan
 aliases:
 ---
@@ -14,7 +14,7 @@ aliases:
 > ![[z_assets/malyks_rimespire.png|invertbc cover]]
 > Malyk's Rimespire, center of the ever-circling storm
 
-Smaller in size than its neighboring [[Living Realms|Living Realm]], Dreth is located far to the west of the [[Summer Lands]]. Geographically, these realms are closest to each other, yet their environs and cultures could not be further apart.
+Smaller in size than its neighboring [[Living Realms|Living Realm]], Dreth is located far to the west of the [[Summer Lands]]. Geographically, these realms are each other's closest neighbors, yet their environs and cultures could not be further apart.
 
 The majority of Dreth is a hostile arctic wasteland, engulfed by an unceasing ice storm cast long ago by the god [Malyk](https://5e.tools/deities.html#malyk_drow_mtf).
 
