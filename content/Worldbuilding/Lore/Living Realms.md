@@ -1,11 +1,9 @@
 ---
 publish: true
-aliases:
-  - Living Realm
+aliases: Living Realm
 created: 2026-02-04T17:08:10.014Z
-modified: 2026-07-21T13:46:12.288Z
-published: 2026-07-21T13:46:12.288Z
-alias: Living Realm
+modified: 2026-08-07T23:53:54.097Z
+published: 2026-08-07T23:53:54.097Z
 Author: Jordan
 ---
 

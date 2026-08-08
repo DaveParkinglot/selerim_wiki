@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-11-04T00:10:51.076Z
-modified: 2026-08-07T23:43:01.740Z
-published: 2026-08-07T23:43:01.740Z
+modified: 2026-08-08T00:17:13.152Z
+published: 2026-08-08T00:17:13.152Z
 Author: Jordan
 ---
 
@@ -12,8 +12,10 @@ _**b-b-b-bonus setting!**_
 
 Organization pending
 
-Corporations:
+Key Factions:
 
 - [[Deep Rock Corporation]]
 - [[Batista Syndicate]]
+- [[Tiialan Logistics]]
 - [[Astral Empire of Tiialia]]
+- [[Avandra Collective]]
