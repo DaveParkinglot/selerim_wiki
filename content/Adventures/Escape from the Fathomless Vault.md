@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T13:24:00.000Z
-modified: 2026-08-09T18:42:22.027Z
-published: 2026-08-09T18:42:22.027Z
+modified: 2026-08-09T23:25:33.184Z
+published: 2026-08-09T23:25:33.184Z
 DM: Jordan
 Platform:
   - Foundry
@@ -19,10 +19,10 @@ Players:
   - Mike Doom
   - Otto
 Characters:
-  - Quarf Lustigoff
-  - Bobby Dismorphia
-  - David Hellscream
-  - Squeembo Montgomery
+  - "[[Quarf Lustigoff]]"
+  - "[[Bobby Dismorphia]]"
+  - "[[David Hellscream]]"
+  - "[[Squeembo Montgomery]]"
 Races:
   - Astral Elf
   - Orc
@@ -121,7 +121,7 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 ### The Vault
 
 - Now in the ruins, Chauncy met up with the party while they searched for the vault entrance. After locating a large iron wrought cage humming with arcane energy, the boys approached it. The cage spoke in a cold metallic voice: "Please, present your invitation and state your name."
-- Quarf used his disguise kit to cross dress as the [[Jade Queen]], whose vault invitation they stole. Surprisingly, this worked very well on the Arcane Intelligence security, and group entered the Fathomless Vault.
+- Quarf used his costume kit to cross dress as the [[Jade Queen]], whose vault invitation they stole. Surprisingly, this worked very well on the Arcane Intelligence security, and group entered the Fathomless Vault.
 - In the vault lobby at last, the boys surprised [[Tzastis the Collector]] and set to work dismantling their defenses, which included many animated objects as well as an autonomous cannon.
 - Using Tadeusz's Tome of Collection, the boys and Temur each took turns reading the names of Tzastis' dead followers, written in blood by Tadeusz himself. This severely weakened Tzastis during the battle.
 - Tzastis banished Squeembo back to his plane of origin: the material plane. While banished, Squeembo was free falling from the sky, and as he fell he could see a terrible invasion of cities in the east.
@@ -147,7 +147,7 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Ethan | Quarf Lustigoff | Astral Elf | Bard |
-| Peter | Bobby Dismorphia | Orc | Fighter |
-| Mike Doom | David Hellscream | Orc | FIghter |
-| Otto | Squeembo Montgomery | Halfling | Cleric |
+| Ethan | [[Player Characters/Bobby's Boys/Quarf Lustigoff.md\|Quarf Lustigoff]] | Astral Elf | Bard |
+| Peter | [[Player Characters/Bobby's Boys/Bobby Dismorphia.md\|Bobby Dismorphia]] | Orc | Fighter |
+| Mike Doom | [[Player Characters/Bobby's Boys/David Hellscream.md\|David Hellscream]] | Orc | FIghter |
+| Otto | [[Player Characters/Bobby's Boys/Squeembo Montgomery.md\|Squeembo Montgomery]] | Halfling | Cleric |
