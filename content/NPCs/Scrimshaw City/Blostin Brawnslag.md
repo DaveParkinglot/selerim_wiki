@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T22:22:58.666Z
-published: 2026-07-27T22:22:58.666Z
+modified: 2026-08-09T12:43:09.518Z
+published: 2026-08-09T12:43:09.518Z
 born: 186
 Ancestry:
   - Dwarf

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - El Presidente Hugh Mann
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T22:19:00.682Z
-published: 2026-07-27T22:19:00.682Z
+modified: 2026-08-09T12:43:09.576Z
+published: 2026-08-09T12:43:09.576Z
 born: -61
 Ancestry:
   - Fiend (Devil)

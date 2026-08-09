@@ -4,8 +4,8 @@ aliases:
   - Professor Daemon Darkfyre
   - Professor Darkfyre
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T15:12:24.389Z
-published: 2026-07-28T15:12:24.389Z
+modified: 2026-08-09T12:43:09.802Z
+published: 2026-08-09T12:43:09.802Z
 born: -61
 Ancestry: Human
 Gender: Male

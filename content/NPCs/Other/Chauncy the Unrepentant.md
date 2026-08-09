@@ -4,8 +4,8 @@ aliases:
   - Sir Chauncy
   - Chauncy the Brave
 created: 2025-08-12T13:01:12.000Z
-modified: 2026-07-27T21:31:54.096Z
-published: 2026-07-27T21:31:54.096Z
+modified: 2026-08-09T12:43:09.477Z
+published: 2026-08-09T12:43:09.477Z
 born: 241
 Ancestry:
   - Fiend (Devil)

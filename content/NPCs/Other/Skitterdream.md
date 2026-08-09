@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T21:34:44.262Z
-published: 2026-07-27T21:34:44.262Z
+modified: 2026-08-09T12:43:09.491Z
+published: 2026-08-09T12:43:09.491Z
 born: 255
 Ancestry: Fey Dragon
 Gender: Male

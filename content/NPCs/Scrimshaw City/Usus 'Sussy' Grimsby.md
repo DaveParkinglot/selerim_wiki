@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-27T22:17:14.201Z
-published: 2026-07-27T22:17:14.201Z
+modified: 2026-08-09T12:43:09.610Z
+published: 2026-08-09T12:43:09.610Z
 born: 167
 Ancestry:
   - Dwarf

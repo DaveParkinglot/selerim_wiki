@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T22:22:10.993Z
-published: 2026-07-27T22:22:10.993Z
+modified: 2026-08-09T12:43:09.539Z
+published: 2026-08-09T12:43:09.539Z
 born: 262
 Ancestry:
   - Galeb Duhr, Rock Elemental

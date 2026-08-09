@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T22:21:58.164Z
-published: 2026-07-27T22:21:58.164Z
+modified: 2026-08-09T12:43:09.546Z
+published: 2026-08-09T12:43:09.546Z
 born: 225
 Ancestry:
   - Tiefling

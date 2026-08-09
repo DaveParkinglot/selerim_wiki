@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-27T21:39:19.033Z
-published: 2026-07-27T21:39:19.033Z
+modified: 2026-08-09T12:43:09.689Z
+published: 2026-08-09T12:43:09.689Z
 born: 247
 Ancestry: Goblin
 Gender: Female

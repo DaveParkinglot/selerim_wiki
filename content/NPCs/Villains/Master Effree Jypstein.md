@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Master
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-28T14:59:29.526Z
-published: 2026-07-28T14:59:29.526Z
+modified: 2026-08-09T12:43:09.788Z
+published: 2026-08-09T12:43:09.788Z
 born: 198
 Ancestry:
   - Human

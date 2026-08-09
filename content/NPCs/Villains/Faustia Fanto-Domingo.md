@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-28T14:59:49.886Z
-published: 2026-07-28T14:59:49.886Z
+modified: 2026-08-09T12:43:09.762Z
+published: 2026-08-09T12:43:09.762Z
 born: 220
 Ancestry:
   - Human

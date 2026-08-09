@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-28T14:46:11.547Z
-published: 2026-07-28T14:46:11.547Z
+modified: 2026-08-09T12:43:09.633Z
+published: 2026-08-09T12:43:09.633Z
 born: 201
 Ancestry: Gnome
 Gender: Male

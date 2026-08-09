@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-28T14:48:37.070Z
-published: 2026-07-28T14:48:37.070Z
+modified: 2026-08-09T12:43:09.655Z
+published: 2026-08-09T12:43:09.655Z
 born: 243
 Ancestry: Kobold
 Gender: Male

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T21:34:53.958Z
-published: 2026-07-27T21:34:53.958Z
+modified: 2026-08-09T12:43:09.484Z
+published: 2026-08-09T12:43:09.484Z
 born: 243
 Ancestry: Troll
 Gender: Male

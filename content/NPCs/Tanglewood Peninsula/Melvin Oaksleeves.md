@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-28T14:50:20.554Z
-published: 2026-07-28T14:50:20.554Z
+modified: 2026-08-09T12:43:09.668Z
+published: 2026-08-09T12:43:09.668Z
 born: 54
 Ancestry: Elf
 Gender: Male

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-28T15:00:51.679Z
-published: 2026-07-28T15:00:51.679Z
+modified: 2026-08-09T12:43:09.796Z
+published: 2026-08-09T12:43:09.796Z
 born: 216
 Ancestry: Drow
 Gender: Male

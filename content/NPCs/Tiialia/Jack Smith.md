@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:54:50.141Z
-published: 2026-07-28T14:54:50.141Z
+modified: 2026-08-09T12:43:09.734Z
+published: 2026-08-09T12:43:09.734Z
 born: 218
 Ancestry: Human
 Gender: Male

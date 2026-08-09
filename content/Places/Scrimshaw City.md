@@ -5,8 +5,8 @@ aliases:
   - Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T16:30:40.000Z
-modified: 2026-07-27T20:17:34.107Z
-published: 2026-07-27T20:17:34.107Z
+modified: 2026-08-09T12:43:09.817Z
+published: 2026-08-09T12:43:09.817Z
 tags:
   - Settlement
 Type:

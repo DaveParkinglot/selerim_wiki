@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-28T14:49:07.844Z
-published: 2026-07-28T14:49:07.844Z
+modified: 2026-08-09T12:43:09.661Z
+published: 2026-08-09T12:43:09.661Z
 born: 236
 Ancestry: Half-Orc
 Gender: Male

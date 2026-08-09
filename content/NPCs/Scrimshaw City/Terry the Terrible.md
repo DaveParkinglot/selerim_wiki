@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T14:16:48.076Z
-modified: 2026-07-27T22:17:25.982Z
-published: 2026-07-27T22:17:25.982Z
+modified: 2026-08-09T12:43:09.604Z
+published: 2026-08-09T12:43:09.604Z
 born: 220
 Ancestry:
   - Satyr

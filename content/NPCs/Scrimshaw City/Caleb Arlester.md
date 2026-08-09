@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T14:05:08.273Z
-modified: 2026-07-27T22:22:19.484Z
-published: 2026-07-27T22:22:19.484Z
+modified: 2026-08-09T12:43:09.531Z
+published: 2026-08-09T12:43:09.531Z
 born: 233
 Ancestry:
   - Half Elf

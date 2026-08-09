@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:56:58.831Z
-published: 2026-07-28T14:56:58.831Z
+modified: 2026-08-09T12:43:09.749Z
+published: 2026-08-09T12:43:09.749Z
 born: 229
 Ancestry:
   - Yuan-ti

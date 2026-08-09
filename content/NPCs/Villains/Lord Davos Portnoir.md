@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-28T14:58:22.475Z
-published: 2026-07-28T14:58:22.475Z
+modified: 2026-08-09T12:43:09.769Z
+published: 2026-08-09T12:43:09.769Z
 born: -83
 Ancestry:
   - Devil

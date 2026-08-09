@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:52:58.474Z
-published: 2026-07-28T14:52:58.474Z
+modified: 2026-08-09T12:43:09.703Z
+published: 2026-08-09T12:43:09.703Z
 born: 191
 Ancestry: Human
 Gender: Male

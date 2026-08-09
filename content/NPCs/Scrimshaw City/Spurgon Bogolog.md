@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-27T22:17:52.235Z
-published: 2026-07-27T22:17:52.235Z
+modified: 2026-08-09T12:43:09.597Z
+published: 2026-08-09T12:43:09.597Z
 born: 232
 Ancestry:
   - Halfling

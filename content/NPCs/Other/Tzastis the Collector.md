@@ -2,8 +2,8 @@
 publish: true
 aliases: Tzastis
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-31T13:37:17.608Z
-published: 2026-07-31T13:37:17.608Z
+modified: 2026-08-09T12:43:09.498Z
+published: 2026-08-09T12:43:09.498Z
 born: -10000
 Ancestry: Archfey
 Gender: N/A

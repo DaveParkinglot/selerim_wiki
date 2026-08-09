@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:53:53.505Z
-published: 2026-07-28T14:53:53.505Z
+modified: 2026-08-09T12:43:09.726Z
+published: 2026-08-09T12:43:09.726Z
 born: 203
 Ancestry: Deep Gnome
 Gender: Male

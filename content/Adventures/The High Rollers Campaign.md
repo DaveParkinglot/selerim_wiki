@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T15:30:00.000Z
-modified: 2026-07-21T15:32:20.764Z
-published: 2026-07-21T15:32:20.764Z
+modified: 2026-08-09T12:43:09.444Z
+published: 2026-08-09T12:43:09.444Z
 DM: Jordan
 Platform:
   - Foundry

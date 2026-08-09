@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:51:42.570Z
-published: 2026-07-28T14:51:42.570Z
+modified: 2026-08-09T12:43:09.682Z
+published: 2026-08-09T12:43:09.682Z
 born: 215
 Ancestry: Human
 Gender: Male

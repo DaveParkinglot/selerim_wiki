@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:52:04.453Z
-published: 2026-07-28T14:52:04.453Z
+modified: 2026-08-09T12:43:09.696Z
+published: 2026-08-09T12:43:09.696Z
 born: 207
 Ancestry: Half-Elf
 Gender: Male

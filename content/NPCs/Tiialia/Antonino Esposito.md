@@ -5,8 +5,8 @@ aliases:
   - King Antonino Esposito
   - King Antonino Esposito I
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:53:22.956Z
-published: 2026-07-28T14:53:22.956Z
+modified: 2026-08-09T12:43:09.711Z
+published: 2026-08-09T12:43:09.711Z
 born: 221
 Ancestry: Human
 Gender: Male

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-28T14:48:23.087Z
-published: 2026-07-28T14:48:23.087Z
+modified: 2026-08-09T12:43:09.648Z
+published: 2026-08-09T12:43:09.648Z
 born: 231
 Ancestry: Half-Giant
 Gender: Male

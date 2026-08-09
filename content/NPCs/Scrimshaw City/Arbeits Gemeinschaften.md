@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Arby
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T21:43:34.279Z
-published: 2026-07-27T21:43:34.279Z
+modified: 2026-08-09T12:43:09.505Z
+published: 2026-08-09T12:43:09.505Z
 born: 217
 Ancestry:
   - Bugbear
