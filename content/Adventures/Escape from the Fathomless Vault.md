@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T13:24:00.000Z
-modified: 2026-08-09T15:59:34.365Z
-published: 2026-08-09T15:59:34.365Z
+modified: 2026-08-09T18:42:22.027Z
+published: 2026-08-09T18:42:22.027Z
 DM: Jordan
 Platform:
   - Foundry
@@ -103,24 +103,25 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 
 - The boys parleyed with [[Chauncy the Unrepentant]] at the edge of the Umbral Vale, making a fey promise that they would not interfere or attack him while they work toward a common goal: infiltrating the Fathomless Vault and locating [[The High Rollers]].
 - Chauncy was dodgy about his motives, but he insisted he would not harm the party and that he simply wished to take back "something that The High Rollers took from me". Chauncy split from the party to search for an entrance to the vault, but he gave them a sending stone to communicate with.
-- [[Temur Octagon]], fearing for his life in the dreaded Umbral Vale, insisted upon hiding inside a bag of holding, only occasionally coming up for air and light beers courtesy of Bobby.
-- Nearing the ringed city at the center of the Umbral Vale, the boys heard the booming voice of [[Tadeusz]] emanate from the Tome of Collection in Quarf's hands:
+- [[Temur Octagon]], fearing for his life in the dreaded Umbral Vale, insists upon hiding inside a bag of holding, only occasionally coming up for air and light beers courtesy of Bobby.
+- Nearing the ringed city at the center of the Umbral Vale, the boys hear the booming voice of [[Tadeusz]] emanate from the Tome of Collection that Quarf holds:
 
 > [!Quote|author mark no-title]
-> "_FAR YOU HAVE TRAVELED_
-> _LONG HAVE YOU WANDERED_
-> _NIGH IS THE TIME_
-> _WILL YOU VANISH AS THE HIGH ROLLERS DID, OR…  BECOME LEGENDS IN YOUR OWN RIGHT?_"  <br> <span style="float: right;">—[[Tadeusz]] </span>
+> "_FAR YOU HAVE TRAVELED,_ <br>
+> _LONG HAVE YOU WANDERED,_ <br>
+> _NIGH IS THE TIME._ <br>
+> _WILL YOU VANISH AS THE HIGH ROLLERS DID, <br>
+> OR…  BECOME LEGENDS IN YOUR OWN RIGHT?_"  <br> <span style="float: right;">—[[Tadeusz]] </span>
 
 - While traversing the corrupt Umbral Vale, Bobby nearly was possessed by the will of a dead god, but the party helped him escape the madness.
-- The boys also encountered a tree in the process of falling over, in the middle of an uncorrupted grove. It begged them to tell true stories to it before it dies. All the boys shared true tales of their lives, except for Quarf, who fabricated a tale of pride and debauchery. The tree became a shambling mound, which nearly overwhelmed the boys.
+- The boys also encountered a tree in the process of falling over, in the middle of an uncorrupted grove. It begged them to tell true stories to it before it died. All the boys shared true tales of their lives, except for Quarf, who fabricated a tale of pride and debauchery. The tree became a shambling mound, which nearly overwhelmed the boys.
 - At the edge of the Umbral Vale, the sky was alight with a horrid glare. The boys hid in the withered tree line while plotting a way to get through the wall into the ruins. The boys spotted [[Fumbo Bimpis]] and a Goose Hydra guarding a nearby breach in the ruined wall of the ringed city.
-- Everyone except Quarf hopped in the bag of holding, while Quarf snuck up to the ruined wall and used Boarman's Porkpie Hat of Boarmancy to create a tunnel through it.
+- Everyone except Quarf hopped in the bag of holding. Quarf then snuck up to the ruined wall and used Boarman's Porkpie Hat of Boarmancy to create a tunnel through it.
 
 ### The Vault
 
 - Now in the ruins, Chauncy met up with the party while they searched for the vault entrance. After locating a large iron wrought cage humming with arcane energy, the boys approached it. The cage spoke in a cold metallic voice: "Please, present your invitation and state your name."
-- Quarf used his disguise kit to cross dress as the [[Jaded Queen]], whose vault invitation they stole. Surprisingly, this worked very well on the Arcane Intelligence security guard, and group entered the Fathomless Vault.
+- Quarf used his disguise kit to cross dress as the [[Jade Queen]], whose vault invitation they stole. Surprisingly, this worked very well on the Arcane Intelligence security, and group entered the Fathomless Vault.
 - In the vault lobby at last, the boys surprised [[Tzastis the Collector]] and set to work dismantling their defenses, which included many animated objects as well as an autonomous cannon.
 - Using Tadeusz's Tome of Collection, the boys and Temur each took turns reading the names of Tzastis' dead followers, written in blood by Tadeusz himself. This severely weakened Tzastis during the battle.
 - Tzastis banished Squeembo back to his plane of origin: the material plane. While banished, Squeembo was free falling from the sky, and as he fell he could see a terrible invasion of cities in the east.

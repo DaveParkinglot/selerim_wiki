@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:00.000Z
-modified: 2026-08-09T13:35:37.398Z
-published: 2026-08-09T13:35:37.398Z
+modified: 2026-08-09T16:17:23.000Z
+published: 2026-08-09T16:17:23.000Z
 born: 241
 Ancestry: Human
 Gender: Male
@@ -64,10 +64,12 @@ Temur played a crucial role as [[Hugh Mann]]'s deep cover agent in the [[Legion 
 - While he spent a long time hiding in [[Bobby Dismorphia|Bobby]]'s bag of holding, he came out to provide assistance when the boys dealt with the Arcane Intelligence that requested invitations from visitors to the Fathomless Vault.
 - With his high intelligence, he also helped to read the names from the Tome of Collection, severely weakening [[Tzastis the Collector]] in the confrontation in the vault lobby.
 
+Temur’s studies focus on Arcane Intelligence, though his partying usually gets in the way of actually studying.
+
 # Attributes
 
 - **Voice**: Douchey aha
-- **Traits**: Douchebag
+- **Traits**: Douchebag with a heart of gold
 - **Goals:** Clear his name
 - **Appearance**: Slicked back blonde hair
 
