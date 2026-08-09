@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-31T13:24:00.266Z
-modified: 2026-08-09T13:57:31.770Z
-published: 2026-08-09T13:57:31.770Z
+created: 2026-07-31T13:24:00.000Z
+modified: 2026-08-09T15:59:34.365Z
+published: 2026-08-09T15:59:34.365Z
 DM: Jordan
 Platform:
   - Foundry
@@ -42,7 +42,7 @@ Classes:
 > ![[z_assets/tome_of_collection.png|400]]
 >
 > > [!caption|center]
-> > [[Tadeusz]]' Tome of Collection, key to [[Tzastis the Collector|Tzastis]]' downfall
+> > [[Tadeusz]]'s Tome of Collection, the key to [[Tzastis the Collector|Tzastis]]' downfall
 >
 > ## Details
 >
@@ -103,14 +103,14 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 
 - The boys parleyed with [[Chauncy the Unrepentant]] at the edge of the Umbral Vale, making a fey promise that they would not interfere or attack him while they work toward a common goal: infiltrating the Fathomless Vault and locating [[The High Rollers]].
 - Chauncy was dodgy about his motives, but he insisted he would not harm the party and that he simply wished to take back "something that The High Rollers took from me". Chauncy split from the party to search for an entrance to the vault, but he gave them a sending stone to communicate with.
-- [[Temur Octagon]], fearing for his life in the dreaded Umbral Vale, insists upon hiding inside a bag of holding, only occasionally coming up for air and light beers courtesy of Bobby.
-- Nearing the ringed city at the center of the Umbral Vale, the boys hear the booming voice of [[Tadeusz]] emanate from the Tome of Collection that Quarf holds:
+- [[Temur Octagon]], fearing for his life in the dreaded Umbral Vale, insisted upon hiding inside a bag of holding, only occasionally coming up for air and light beers courtesy of Bobby.
+- Nearing the ringed city at the center of the Umbral Vale, the boys heard the booming voice of [[Tadeusz]] emanate from the Tome of Collection in Quarf's hands:
 
-> [!quote]
+> [!Quote|author mark no-title]
 > "_FAR YOU HAVE TRAVELED_
 > _LONG HAVE YOU WANDERED_
 > _NIGH IS THE TIME_
-> _WILL YOU VANISH AS THE HIGH ROLLERS DID, OR…  BECOME LEGENDS IN YOUR OWN RIGHT?_"
+> _WILL YOU VANISH AS THE HIGH ROLLERS DID, OR…  BECOME LEGENDS IN YOUR OWN RIGHT?_"  <br> <span style="float: right;">—[[Tadeusz]] </span>
 
 - While traversing the corrupt Umbral Vale, Bobby nearly was possessed by the will of a dead god, but the party helped him escape the madness.
 - The boys also encountered a tree in the process of falling over, in the middle of an uncorrupted grove. It begged them to tell true stories to it before it dies. All the boys shared true tales of their lives, except for Quarf, who fabricated a tale of pride and debauchery. The tree became a shambling mound, which nearly overwhelmed the boys.
@@ -130,12 +130,14 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 - Before any of the boys could react, Chauncy double tapped Otieno in the back with his Acheron Crossbow, killing him.
 - Chauncy began to attack the boys, dealing significant damage with his infernal weaponry. He proved a very fearsome opponent, nearly taking down both David and Bobby.
 - Looking out the now unraveling walls of the exhibit into the Astral Sea, the boys realized that they had to quickly make an escape before the entire Fathomless Vault decomposed.
-- In a flash of genius, David Hellscream chopped the decaying floorboards out from beneath Chauncy's feet, sending him spiraling out into the Astral Sea. After Chauncy was dealt with, the boys collected [[The High Rollers]] into their bag of holding and used Tzastis' controller to escape the Fathomless Vault.
+- In a flash of genius, David Hellscream chopped the decaying floorboards out from beneath Chauncy's feet, sending him spiraling out into the Astral Sea.
+- David retrieved a note dropped by Chauncy in the melee: a declined application to join [[Pazuzu]]’s Pals.
+- After Chauncy was dealt with, the boys collected [[The High Rollers]] into their bag of holding and used Tzastis' controller to escape the unraveling Fathomless Vault.
 
 ### Epilogue
 
 - The boys returned [[White Grove]] to find the campus in chaos. Students were protesting for [[Tiialia]] to get involved in the “Eastern Invasion".
-- Due to time dilation in the Feywild, months have gone by in the material plane, and [[Hugh Mann]] was scrambling to return to [[Scrimshaw City]]. He hastily described the current situation to the party:
+- Due to time dilation in the Feywild, months had gone by in the material plane, and [[Hugh Mann]] was scrambling to return to [[Scrimshaw City]]. He hastily described the current situation to the party:
   - "An invading force from the Underdark came to the surface. They have taken the eastern cities of Fordsfaire and Aldaris."
   - "Amongst their ranks is an unbeatable demonic demigod."
   - "To make matters worse the [[Antonino Esposito|king of Tiialia]] is missing or dead..."

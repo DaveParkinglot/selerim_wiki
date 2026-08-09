@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T00:41:36.793Z
-modified: 2026-08-09T12:42:03.070Z
-published: 2026-08-09T12:42:03.070Z
+modified: 2026-08-09T15:56:27.704Z
+published: 2026-08-09T15:56:27.704Z
 unlisted: true
 ---
 
@@ -26,7 +26,7 @@ views:
     name: Recent Notes
     order:
       - file.name
-      - formula.created_date
+      - file.ctime
     sort:
       - property: file.ctime
         direction: DESC
