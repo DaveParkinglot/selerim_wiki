@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-03T15:29:43.020Z
-modified: 2026-08-07T23:34:56.532Z
-published: 2026-08-07T23:34:56.532Z
+modified: 2026-08-11T15:47:54.317Z
+published: 2026-08-11T15:47:54.317Z
 born: 239
 Ancestry:
   - Human
@@ -48,7 +48,7 @@ aliases:
 
 # Overview
 
-Roberto is the young nephew of [[Lord Zalvidar Batista]]. For his 25th birthday party he his uncle had secured for him three Tiialan Stones, but these were stolen by [[Player Characters/The Stacked Deck/index|The Stacked Deck]].
+Roberto is the young nephew of [[Lord Zalvidar Batista]]. For his 25th birthday party his uncle secured for him three Tiialan Stones, but these were all stolen by [[Player Characters/The Stacked Deck/index|The Stacked Deck]].
 
 The Stacked Deck encountered Roberto on their way into his manor for their heist, where they saw him snorting fairy dust in the gardens.
 

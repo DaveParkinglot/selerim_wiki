@@ -2,12 +2,13 @@
 publish: true
 aliases: arcane fallout
 created: 2026-02-05T14:54:52.000Z
-modified: 2026-07-21T13:45:58.329Z
-published: 2026-07-21T13:45:58.329Z
+modified: 2026-08-11T15:45:20.729Z
+published: 2026-08-11T15:45:20.729Z
 Author: Jordan
 ---
 
 ![[z_assets/violet_bleed.png|500]]
+
 The common name for the purplish haze of arcane fallout that obscures and afflicts the unlivable regions of Selerim.
 
 ---
