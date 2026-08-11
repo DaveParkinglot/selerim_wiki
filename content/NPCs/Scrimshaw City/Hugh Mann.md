@@ -3,11 +3,10 @@ publish: true
 aliases:
   - El Presidente Hugh Mann
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-09T12:43:09.576Z
-published: 2026-08-09T12:43:09.576Z
+modified: 2026-08-11T15:31:39.600Z
+published: 2026-08-11T15:31:39.600Z
 born: -61
-Ancestry:
-  - Fiend (Devil)
+Ancestry: Fiend (Devil)
 Gender: Male
 Location:
   - "[[Scrimshaw City]]"
@@ -21,6 +20,7 @@ Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Spring Cleaning in Scrimshaw City]]"
   - "[[The Hellnight Soirée]]"
+  - "[[Escape from the Fathomless Vault]]"
 Status: Alive
 Author: Jordan
 ---
@@ -53,11 +53,13 @@ Author: Jordan
 >
 > **Affiliation:** Tavernstool, [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
 >
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >
 > **Status:** Alive
 
 # Overview
+
+See also: [[Daemon Darkfyre]]
 
 - A devil from one of the Nine Hells who isn't actually all that bad.
 - Hundreds of years ago, Hugh and his friends were thrown away as battlefield fodder by the man who would become the devil [[Lord Davos Portnoir]].

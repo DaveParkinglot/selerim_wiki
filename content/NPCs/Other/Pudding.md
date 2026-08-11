@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-09T12:43:09.484Z
-published: 2026-08-09T12:43:09.484Z
+modified: 2026-08-11T15:31:01.668Z
+published: 2026-08-11T15:31:01.668Z
 born: 243
 Ancestry: Troll
 Gender: Male
@@ -18,6 +18,7 @@ Affiliation:
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
+  - "[[Escape from the Fathomless Vault]]"
 Status: Alive
 Author: Jordan
 ---
@@ -42,7 +43,7 @@ Author: Jordan
 >
 > **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
 >
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >
 > **Status:** Alive
 
@@ -60,6 +61,10 @@ Author: Jordan
 ## [[Spring Cleaning in Scrimshaw City]]
 
 - Pudding was seen talking with [[Hugh Mann]] in The High Roller Bar & Gift Shop.
+
+### [[Escape from the Fathomless Vault]]
+
+Pudding was hiding in a large suit of armor, working with [[Hugh Mann]] in disguise. Mann was masquerading as Professor [[Daemon Darkfyre]], and he was using Pudding as security.
 
 # Attributes
 

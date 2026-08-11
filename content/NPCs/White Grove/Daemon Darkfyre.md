@@ -4,8 +4,8 @@ aliases:
   - Professor Daemon Darkfyre
   - Professor Darkfyre
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-09T12:43:09.802Z
-published: 2026-08-09T12:43:09.802Z
+modified: 2026-08-11T15:27:28.833Z
+published: 2026-08-11T15:27:28.833Z
 born: -61
 Ancestry: Human
 Gender: Male
@@ -18,6 +18,7 @@ Affiliation:
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
+  - "[[Escape from the Fathomless Vault]]"
 Status: Alive
 Author: Jordan
 ---
@@ -42,11 +43,13 @@ Author: Jordan
 >
 > **Affiliation:** None
 >
-> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >
 > **Status:** Alive
 
 # Overview
+
+See: [[Hugh Mann]]
 
 ## [[White Grove - First Semester]]
 
@@ -60,11 +63,11 @@ Initially, he was suspected of aiding the [[Legion of Doom]] cultists who attack
 
 Daemon was giving [[Temur Octagon]] some outdoor time on the Quad while he was imprisoned within a portrait. He also was lounging at the extra credit celebration at Leviathan Lagoon.
 
-## [[Escape from the Fathomless Vault DM]]
+## [[Escape from the Fathomless Vault]]
 
 Daemon revealed himself to be the El Presidente of [[Scrimshaw City|Scrimshaw]], [[Hugh Mann]]. He was masquerading as Professor Darkfyre to gather intel at [[White Grove]], though he would not reveal the extent of his plans.
 
-He was the mastermind behind the plot to free [[The High Rollers]]. His co-conspirators included [[Bobby's Boys]], [[Pudding]], [[Temur Octagon]], and [[Skitterdream]].
+He was the mastermind behind the plot to free [[The High Rollers]]. His co-conspirators included [[Player Characters/Bobby's Boys/index|Bobby's Boys]], [[Pudding]], [[Temur Octagon]], and [[Skitterdream]].
 
 Daemon took the [[Labubu]] from [[Bobby Dismorphia]], stating that it would be unsafe and unwise to take it on the quest, much less return it to [[Pazuzu]].
 

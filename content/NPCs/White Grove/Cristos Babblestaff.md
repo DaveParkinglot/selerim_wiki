@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T15:03:06.105Z
-published: 2026-07-28T15:03:06.105Z
+modified: 2026-08-11T15:32:06.870Z
+published: 2026-08-11T15:32:06.870Z
 born: 242
 Ancestry: Orc
 Gender: Male
@@ -16,6 +16,7 @@ Affiliation:
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
+  - "[[Escape from the Fathomless Vault]]"
 Status: Alive
 Author: Jordan
 ---
@@ -40,7 +41,7 @@ Author: Jordan
 >
 > **Affiliation:** None
 >
-> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >
 > **Status:** Alive
 

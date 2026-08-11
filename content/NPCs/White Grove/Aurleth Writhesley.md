@@ -1,11 +1,10 @@
 ---
 publish: true
 created: 2025-10-15T14:42:10.000Z
-modified: 2026-07-28T15:02:29.595Z
-published: 2026-07-28T15:02:29.595Z
+modified: 2026-08-11T15:32:29.536Z
+published: 2026-08-11T15:32:29.536Z
 born: 244
-Ancestry:
-  - Elf
+Ancestry: Elf
 Gender: Male
 Location:
   - "[[White Grove]]"
@@ -17,6 +16,7 @@ Affiliation:
   - "[[Mitlin]]"
 Appearances:
   - "[[White Grove - Summer Vacation]]"
+  - "[[Escape from the Fathomless Vault]]"
 Status: Alive
 Author: Jordan
 ---
@@ -41,7 +41,7 @@ Author: Jordan
 >
 > **Affiliation:** [[Places/Mitlin.md|Mitlin]]
 >
-> **Appearances:** [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+> **Appearances:** [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >
 > **Status:** Alive
 

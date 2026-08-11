@@ -2,8 +2,8 @@
 publish: true
 aliases: Tzastis
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-09T12:43:09.498Z
-published: 2026-08-09T12:43:09.498Z
+modified: 2026-08-11T15:29:45.607Z
+published: 2026-08-11T15:29:45.607Z
 born: -10000
 Ancestry: Archfey
 Gender: N/A
@@ -18,6 +18,7 @@ Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
+  - "[[Escape from the Fathomless Vault]]"
 Status: Alive
 Author: Jordan
 ---
@@ -30,7 +31,7 @@ Author: Jordan
 >
 > ## Details
 >
-> **Age:** ??
+> **Age:** ?? (deceased)
 >
 > **Ancestry**: Archfey
 >
@@ -42,7 +43,7 @@ Author: Jordan
 >
 > **Affiliation:** None
 >
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >
 > **Status:** Alive
 
@@ -59,8 +60,11 @@ Author: Jordan
 
 ### [[Saving Cousin Gane]]
 
-- Bobby Dismorphia and his boys discovered and stole an invitation to the [[Fathomless Vault]], which was intended for the [[Jade Queen]].
-- Bobby, having studied the adventures of The High Rollers during his time as a NEAT, is aware that Selerim's foremost adventuring party is trapped in the vault. He may have plans to free them, but only time will tell.
+Bobby Dismorphia and his boys discovered and stole an invitation to the [[Fathomless Vault]], which was intended for the [[Jade Queen]]. Bobby, having studied the adventures of The High Rollers during his time as a NEAT, was aware that Selerim's foremost adventuring party [[The High Rollers]] were trapped in the vault. They group may make plans to free them, but only time will tell.
+
+### [[Escape from the Fathomless Vault]]
+
+After a harrowing journey through the Feywild, [[Player Characters/Bobby's Boys/index|Bobby's Boys]] located an entrance to Tzastis' Fathomless Vault. They slew the vulpine archfey with assistance from [[Tadeusz]]'s Tome of Collection.
 
 # Attributes
 

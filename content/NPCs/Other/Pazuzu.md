@@ -1,11 +1,10 @@
 ---
 publish: true
 created: 2025-08-12T13:10:18.000Z
-modified: 2026-07-27T21:33:59.886Z
-published: 2026-07-27T21:33:59.886Z
+modified: 2026-08-11T15:25:33.876Z
+published: 2026-08-11T15:25:33.876Z
 born: -10000
-Ancestry:
-  - Demon
+Ancestry: Demon
 Gender: Male
 Location:
   - Pazunia

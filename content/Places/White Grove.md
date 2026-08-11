@@ -4,8 +4,8 @@ aliases:
   - White Grove Academy
 title: White Grove, Magic Academy
 created: 2023-09-02T13:45:40.000Z
-modified: 2026-07-27T20:19:17.341Z
-published: 2026-07-27T20:19:17.341Z
+modified: 2026-08-11T15:37:07.104Z
+published: 2026-08-11T15:37:07.104Z
 tags:
   - Settlement
 Type:
@@ -18,6 +18,7 @@ Government: N/A
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
+  - "[[Escape from the Fathomless Vault]]"
 marker:
   - coordinates: 555, 680
     icon: fa7-solid:university
@@ -45,7 +46,7 @@ Author: Jordan
 >
 > **Government:** N/A
 >
-> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
+> **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 
 # Overview
 

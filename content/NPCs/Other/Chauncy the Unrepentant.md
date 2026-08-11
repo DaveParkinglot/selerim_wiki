@@ -4,11 +4,10 @@ aliases:
   - Sir Chauncy
   - Chauncy the Brave
 created: 2025-08-12T13:01:12.000Z
-modified: 2026-08-09T12:43:09.477Z
-published: 2026-08-09T12:43:09.477Z
+modified: 2026-08-11T15:35:27.729Z
+published: 2026-08-11T15:35:27.729Z
 born: 241
-Ancestry:
-  - Fiend (Devil)
+Ancestry: Fiend (Devil)
 Gender: Male
 Location:
   - Carceri, The Prison Plane
@@ -22,6 +21,7 @@ Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[The Hellnight Soirée]]"
   - "[[Bobby's Bachelor Birthday Bender]]"
+  - "[[Escape from the Fathomless Vault]]"
 Status: Alive
 Author: Jordan
 ---
@@ -54,7 +54,7 @@ Author: Jordan
 >
 > **Affiliation:** None
 >
-> **Appearances:** [[Adventures/Dunland's Raiders.md|Dunland's Raiders]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]], [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]]
+> **Appearances:** [[Adventures/Dunland's Raiders.md|Dunland's Raiders]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]], [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >
 > **Status:** Alive
 
@@ -79,6 +79,12 @@ Formerly a decorated war hero of [[Tiialia]], brave Sir Chauncy has fallen far a
 
 - Chauncy was spotted by Bobby and his boys attempting to escape the lower planes through Pazunia, first layer of the Infinite Abyss.
 - He was quickly entangled by Uncle Bobson's vines, and the boys promptly beat him to death, presumably sending him back to the Nine Hells.
+
+### [[Escape from the Fathomless Vault]]
+
+Chauncy was hunting for an entrance for the Fathomless Vault at the same time as [[Player Characters/Bobby's Boys/index|Bobby's Boys]]. They allied for a short time, making a fey promise to not fight until they located [[The High Rollers]] in the vault. Chauncy claimed that he wanted to retrieve something that The High Rollers took from him.
+
+When the group located The High Rollers, Chauncy shot the paralyzed [[Otieno]] twice in the back with his Acheron crossbow. He was defeated after [[David Hellscream]] knocked him into the Astral Sea.
 
 # Attributes
 

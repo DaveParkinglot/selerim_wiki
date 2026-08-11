@@ -4,13 +4,14 @@ aliases:
   - Corrodreth, the Salted City
 title: Corrodreth, the Salted City
 created: 2023-09-02T13:43:46.000Z
-modified: 2026-07-27T20:21:31.094Z
-published: 2026-07-27T20:21:31.094Z
+modified: 2026-08-11T15:37:29.669Z
+published: 2026-08-11T15:37:29.669Z
 Type:
   - Landmark
 founded_year: -1555
 Appearances:
   - "[[Adventures/Morganth's LEGION OF DOOM|Morganth's LEGION OF DOOM]]"
+  - "[[Escape from the Fathomless Vault]]"
 marker:
   - coordinates: 160, 180
     icon: game-icons:ancient-ruins
@@ -39,7 +40,7 @@ tags:
 >
 > **Government:** -
 >
-> **Appearances:** [[Adventures/Morganth's LEGION OF DOOM.md|Morganth's LEGION OF DOOM]]
+> **Appearances:** [[Adventures/Morganth's LEGION OF DOOM.md|Morganth's LEGION OF DOOM]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 
 # Overview
 

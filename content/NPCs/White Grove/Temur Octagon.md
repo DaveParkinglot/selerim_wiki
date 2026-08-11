@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:00.000Z
-modified: 2026-08-09T16:17:23.000Z
-published: 2026-08-09T16:17:23.000Z
+modified: 2026-08-11T15:36:25.562Z
+published: 2026-08-11T15:36:25.562Z
 born: 241
 Ancestry: Human
 Gender: Male
@@ -46,9 +46,11 @@ Author: Jordan
 
 # Overview
 
+Temur is a student at [[White Grove]] whose studies focus on Arcane Intelligence, though his partying usually gets in the way of actually studying.
+
 # [[White Grove - First Semester]]
 
-A pompous senior at [[White Grove|White Grove Academy]], Temur betrayed his friend [[Cristos Babblestaff]] and nearly killed him in the library while working as an agent of the [[Legion of Doom]].
+A pompous super senior at [[White Grove|White Grove Academy]], Temur betrayed his friend [[Cristos Babblestaff]] and nearly killed him in the library while working as an agent of the [[Legion of Doom]].
 
 It seemed that Temur was posing as a student at White Grove, but he actually was only there to sabotage the school and steal information on [[Tzastis the Collector]] from the library.
 
@@ -63,8 +65,6 @@ Temur played a crucial role as [[Hugh Mann]]'s deep cover agent in the [[Legion 
 - He told [[Squeembo Montgomery|Squeembo]] the location of an entrance to the Fathomless Vault, and traveled with the boys after they left [[White Grove]].
 - While he spent a long time hiding in [[Bobby Dismorphia|Bobby]]'s bag of holding, he came out to provide assistance when the boys dealt with the Arcane Intelligence that requested invitations from visitors to the Fathomless Vault.
 - With his high intelligence, he also helped to read the names from the Tome of Collection, severely weakening [[Tzastis the Collector]] in the confrontation in the vault lobby.
-
-Temur’s studies focus on Arcane Intelligence, though his partying usually gets in the way of actually studying.
 
 # Attributes
 
