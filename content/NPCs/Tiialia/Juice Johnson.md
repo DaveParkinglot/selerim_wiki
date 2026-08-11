@@ -1,11 +1,10 @@
 ---
 publish: true
 created: 2026-08-07T23:30:19.056Z
-modified: 2026-08-07T23:35:17.340Z
-published: 2026-08-07T23:35:17.340Z
+modified: 2026-08-11T18:17:37.467Z
+published: 2026-08-11T18:17:37.467Z
 born: 224
-Ancestry:
-  - Human
+Ancestry: Human
 Gender: Nonbinary
 Location:
   - "[[Nova Jersaeria]]"
