@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T00:41:36.793Z
-modified: 2026-08-09T15:56:27.704Z
-published: 2026-08-09T15:56:27.704Z
+modified: 2026-08-11T15:40:30.995Z
+published: 2026-08-11T15:40:30.995Z
 unlisted: true
 ---
 
@@ -20,6 +20,8 @@ properties:
   file.name:
     displayName: Title
   formula.created_date:
+    displayName: Created
+  file.ctime:
     displayName: Created
 views:
   - type: table

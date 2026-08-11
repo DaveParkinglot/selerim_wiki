@@ -1,11 +1,10 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-08-09T12:43:09.590Z
-published: 2026-08-09T12:43:09.590Z
+modified: 2026-08-11T15:42:25.011Z
+published: 2026-08-11T15:42:25.011Z
 born: 234
-Ancestry:
-  - Human
+Ancestry: Human
 Gender: Male
 Location:
   - "[[Scrimshaw City]]"
@@ -24,7 +23,7 @@ Author: Jordan
 >
 > ## Malthusius Inkwell
 >
-> ![[z_assets/malthusius_inkwell.png|300]]]
+> ![[z_assets/malthusius_inkwell.png|300]]
 >
 > ## Details
 >
