@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-14T19:23:00.921Z
-modified: 2026-07-01T01:26:08.602Z
-published: 2026-07-01T01:26:08.602Z
+modified: 2026-08-12T13:44:21.848Z
+published: 2026-08-12T13:44:21.848Z
 Author: Jordan
 ---
 
@@ -105,6 +105,13 @@ I like to think of this part of the session as a montage, with each round repres
 
 ---
 
+> [!note] Loot
+> As a DM, you are also a Distribution Manager (for loot and magic items!). When determining loot for your party, consider the following:
+>
+> - Timing of loot distribution is crucial. The earlier loot is given, the more likely your players are to use it in a given session.
+> - In one shot adventures, try to distribute loot early so your players get a chance to use their loot. Do not distribute loot at the end of the session. Players won't care, and it kills pacing.
+> - In multi-session adventures, it is more reasonable to distribute loot at the end, but I still recommend giving it out earlier because players tend to forget loot given at the end of a session.
+
 # Part 3: Optional Encounter - 30-45 minutes
 
 I like to put in one encounter that the characters can bypass or expedite with either stealth, clever roleplay, or by some other means. This gives you some flexibility as a DM if things are moving slower or faster than you expected. I have no specific advice for how to design this encounter, but here are some guidelines:
@@ -143,7 +150,7 @@ While this ISN’T a guide on how to create fun & balanced encounters, here are 
 The final encounter of your adventure should almost always resolve as a combat encounter. By this point, players should be well acquainted with their character sheets, so give them a challenge. Again, this is not a guide on encounter design, but here are some basic pointers:
 
 - Don’t put a million enemies in this encounter. Keep it to the boss and maybe just a few henchmen. You won’t want to keep track of that many things in combat, trust me. Ideally, your turn as the DM should take no longer than 2 minutes.
-- If you want to give out loot or plant some hooks for future adventures, this is where you should do that.
+- If you want to plant some hooks for future adventures, this is where you should do that.
 
 ---
 
