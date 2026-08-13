@@ -3,11 +3,10 @@ publish: true
 aliases:
   - Lord Batista
 created: 2026-05-03T15:25:40.236Z
-modified: 2026-08-07T00:45:31.670Z
-published: 2026-08-07T00:45:31.670Z
+modified: 2026-08-13T13:01:06.629Z
+published: 2026-08-13T13:01:06.629Z
 born: -10000
-Ancestry:
-  - Human
+Ancestry: Human
 Gender: Male
 Location:
   - "[[Nova Jersaeria]]"
@@ -19,6 +18,7 @@ Affiliation:
   - "[[Batista Family]]"
 Appearances:
   - "[[The Great Tiialan Heist]]"
+  - "[[The Rescue (and or murder) of King Antonino Esposito]]"
 Status: Alive
 Author: Ethan
 ---
@@ -43,7 +43,7 @@ Author: Ethan
 >
 > **Affiliation:** [[Factions/Families of Tiialia/Batista Family.md|Batista Family]]
 >
-> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]]
+> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >
 > **Status:** Alive
 
@@ -62,7 +62,7 @@ Author: Ethan
 
 # Relationships
 
-| Name                       | Relationship |
-| -------------------------- | ------------ |
-| [[Roberto Batista]]        | Nephew       |
-| [[Carlos 'Lucky' Luciano]] | Henchman     |
+| Name                | Relationship |
+| ------------------- | ------------ |
+| [[Roberto Batista]] | Nephew       |
+| \[\[]]                | Henchman     |

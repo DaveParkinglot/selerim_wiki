@@ -1,20 +1,44 @@
 ---
 publish: true
 created: 2023-09-26T13:14:17.000Z
-modified: 2026-06-16T13:06:59.969Z
-published: 2026-06-16T13:06:59.969Z
+modified: 2026-08-13T12:47:37.117Z
+published: 2026-08-13T12:47:37.117Z
+tags:
+  - Settlement
 Author: Jordan
 Type:
   - Region
-Age (years):
-Population:
+founded_year: -325
+Population: 250
 Affiliation:
+  - None
 Government:
+  - Circle of the Thicket
 Appearances:
-  - adventures it has appeared in
+  - "[[The High Rollers Campaign]]"
 aliases:
 ---
 
-- From [[Francis Greenstrider De Luca]]'s backstory.
-- The location where he first encountered incursions from [[Tzastis the Collector]].
-- [[Myrrdin Turftoe]] helped passerbys escape The Collector here.
+> [!infobox|right]
+>
+> ## Wild Thicket
+>
+> ![[z_assets/wild_thicket_twin_pine.jpg|300]]
+>
+> ## Details
+>
+> **Type**: Region
+>
+> **Age:** 591 years
+>
+> **Population**: 250
+>
+> **Affiliation**: None
+>
+> **Government:** Circle of the Thicket
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+
+Druids following the halfling archdruid [[Myrrdin Turftoe]] live here in harmony with the pines, as they have done since before the founding of [[Tiialia]], and even before the Incorporation of the Pirate Kings of [[Scrimshaw City|Scrimshaw]]. A portal to the Feywild once brimmed with energy between the trunks of the great realm tree that druids call "Twin Pine". This planar rift was sealed shortly after [[Tzastis the Collector]] escaped their imprisonment in the Feywild and re-entered the material plane. Despite the best efforts of Myrrdin and the Circle of the Thicket, Tzastis and several of their most powerful minions escaped, vanishing into the forests to the west.
+
+Early in [[Francis Greenstrider De Luca]]'s adventuring career, before he joined [[The High Rollers]], he journeyed here and was saved from Tzastis by Myrrdin.

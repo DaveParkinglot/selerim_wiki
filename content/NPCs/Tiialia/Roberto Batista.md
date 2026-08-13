@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-03T15:29:43.020Z
-modified: 2026-08-11T15:47:54.317Z
-published: 2026-08-11T15:47:54.317Z
+modified: 2026-08-13T13:02:42.392Z
+published: 2026-08-13T13:02:42.392Z
 born: 239
 Ancestry:
   - Human
@@ -17,6 +17,7 @@ Affiliation:
   - "[[Batista Family]]"
 Appearances:
   - "[[The Great Tiialan Heist]]"
+  - "[[The Rescue (and or murder) of King Antonino Esposito]]"
 Status: Alive
 Author: Ethan
 aliases:
@@ -42,7 +43,7 @@ aliases:
 >
 > **Affiliation:** [[Factions/Families of Tiialia/Batista Family.md|Batista Family]]
 >
-> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]]
+> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >
 > **Status:** Alive
 

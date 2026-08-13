@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-09T12:43:09.762Z
-published: 2026-08-09T12:43:09.762Z
+modified: 2026-08-13T13:02:50.806Z
+published: 2026-08-13T13:02:50.806Z
 born: 220
 Ancestry:
   - Human
@@ -16,6 +16,7 @@ Affiliation:
   - "[[Landucci Family]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
+  - "[[The Rescue (and or murder) of King Antonino Esposito]]"
 Status: Deceased
 Author: Jordan
 ---
@@ -40,7 +41,7 @@ Author: Jordan
 >
 > **Affiliation:** [[Factions/Families of Tiialia/Fanto-Domingo Family.md|Fanto-Domingo Family]], [[Factions/Families of Tiialia/Landucci Family.md|Landucci Family]]
 >
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >
 > **Status:** Deceased
 

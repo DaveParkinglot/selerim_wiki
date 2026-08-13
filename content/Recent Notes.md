@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T00:41:36.793Z
-modified: 2026-08-11T15:40:30.995Z
-published: 2026-08-11T15:40:30.995Z
+modified: 2026-08-13T12:53:53.953Z
+published: 2026-08-13T12:53:53.953Z
 unlisted: true
 ---
 
@@ -15,12 +15,10 @@ filters:
     - file.name != "404"
     - '!file.path.contains("tags")'
 formulas:
-  created_date: file.ctime.format("MM/DD/YYYY")
+  Created Date: file.ctime.format("YYYY-MM-DD")
 properties:
   file.name:
     displayName: Title
-  formula.created_date:
-    displayName: Created
   file.ctime:
     displayName: Created
 views:
@@ -28,9 +26,9 @@ views:
     name: Recent Notes
     order:
       - file.name
-      - file.ctime
+      - formula.Created Date
     sort:
-      - property: file.ctime
+      - property: formula.Created Date
         direction: DESC
 
 ```

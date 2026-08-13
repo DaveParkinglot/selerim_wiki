@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T12:02:28.000Z
-modified: 2026-07-28T14:53:10.084Z
-published: 2026-07-28T14:53:10.084Z
+modified: 2026-08-13T13:01:57.760Z
+published: 2026-08-13T13:01:57.760Z
 born: 234
 Ancestry:
   - Human
@@ -17,6 +17,7 @@ Affiliation:
 Appearances:
   - "[[The Great Tiialan Heist]]"
   - "[[Voyage a la Isla Ruz]]"
+  - "[[The Rescue (and or murder) of King Antonino Esposito]]"
 Status: Alive
 Author: Ethan
 ---
@@ -41,7 +42,7 @@ Author: Ethan
 >
 > **Affiliation:** Ruz Family, [[Factions/Tiialia.md|Tiialia]]
 >
-> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]]
+> **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >
 > **Status:** Alive
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-27T21:24:16.000Z
-modified: 2026-08-08T12:10:27.348Z
-published: 2026-08-08T12:10:27.348Z
+modified: 2026-08-13T12:31:05.877Z
+published: 2026-08-13T12:31:05.877Z
 DM: Ethan
 Platform: Foundry
 Sessions: 1
@@ -19,7 +19,7 @@ Characters:
   - Asana Totashi
   - Jaguar
   - "[[Hector Fanto-Domingo]]"
-  - "[['Playing Card' Murphy]]"
+  - "[['Playing Card' Murphy|\"Playing Card\" Murphy]]"
 Races:
   - Human
   - Tabaxi
@@ -67,7 +67,7 @@ All through Nova Jersaeria, word has spread that [[Lord Zalvidar Batista|Lord Za
 - The adventures went through several rounds of festivities, trying to gain information about the Batista estate and the treasures held on the second floor. First, the adventures mingled in the reception hall, eating hors d'oeuvres and trying to fit in. Next, they proceeded to the banquet hall, where they tried their best at dancing. The adventurers at this point became concerned that [[Lord Zalvidar Batista]] may, in fact, be a vampire. After that, they enjoyed dinner with the rest of the guests in the dining room, only slightly making fools of themselves based on where they ended up sitting. Finally, they went to the lounge where ["The Tiialan Triumph"](https://www.youtube.com/watch?v=pGdtkUiKaA8) was performed, during which time they snuck away to go upstairs.
 - On their way upstairs, they encountered Juice Johnson, who was contracted to cook for the event. He ignored them as they went through the kitchen.
 - In a back storeroom, they found [[Alejandro Ruz]] tied up and rescued him from his capture. He promised the adventures that they were all now friends of the Ruz family as he fled through a back window.
-- The adventurers snuck upstairs to Lord Batista's office to steal the Tiialan Stones. However, they fell into a trap, with [[Falsus Omnibus]] stepping out to call them Ruz spies, after which the adventurers were descended upon by [[Mervin 'The Mayor' Bissell]], [[Carlos 'Lucky' Luciano]], and a slew of Batista guards.
+- The adventurers snuck upstairs to Lord Batista's office to steal the Tiialan Stones. However, they fell into a trap, with [[Falsus Omnibus]] stepping out to call them Ruz spies, after which the adventurers were descended upon by Mervin "The Mayor" Bissell, [[Carlos 'Lucky' Luciano|Carlos "Lucky" Luciano]], and a slew of Batista guards.
 - They defeated these enemies and acquired loot from Lord Batista's chest, including two Tiialan Stones: Tiialan Stone, Protection and Tiialan Stone, Agility. They also found Mervin's Letter to Lord Zalvidar Batista.
 - The adventurers cornered [[Falsus Omnibus]], who bartered for his life by saying that, if they just knocked him out and left him some of the money from Lord Batista's chest nearby for him to pick up. They decided to let him live by this deal and leapt out of the back window before they could be discovered.
 - The adventurers ran off into the woods, hoping to escape with their loot and not knowing how the Batista Family might react to this heist.
@@ -79,4 +79,4 @@ All through Nova Jersaeria, word has spread that [[Lord Zalvidar Batista|Lord Za
 | Bishop | Asana Totashi | Human | Monk |
 | Mike Doom | Jaguar | Tabaxi | Rogue |
 | Jordan | [[Player Characters/The Stacked Deck/Hector Fanto-Domingo.md\|Hector Fanto-Domingo]] | Human | Barbarian |
-| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
+| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|"Playing Card" Murphy]] | Human | Rogue |

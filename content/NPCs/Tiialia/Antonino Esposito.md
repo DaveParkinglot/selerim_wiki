@@ -5,8 +5,8 @@ aliases:
   - King Antonino Esposito
   - King Antonino Esposito I
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-09T12:43:09.711Z
-published: 2026-08-09T12:43:09.711Z
+modified: 2026-08-13T13:01:31.064Z
+published: 2026-08-13T13:01:31.064Z
 born: 221
 Ancestry: Human
 Gender: Male
@@ -21,6 +21,7 @@ Affiliation:
   - "[[Tiialia|Kingdom of Tiialia]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
+  - "[[The Rescue (and or murder) of King Antonino Esposito]]"
 Status: Alive
 Author: Jordan
 ---
@@ -45,7 +46,7 @@ Author: Jordan
 >
 > **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]], [[Factions/Tiialia.md|Kingdom of Tiialia]]
 >
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >
 > **Status:** Alive
 

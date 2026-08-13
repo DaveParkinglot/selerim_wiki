@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-28T14:45:22.992Z
-published: 2026-07-28T14:45:22.992Z
+modified: 2026-08-13T13:02:08.791Z
+published: 2026-08-13T13:02:08.791Z
 born: 242
 Ancestry: Orc
 Gender: Female
@@ -15,6 +15,7 @@ Affiliation:
   - "[[The Backbreakers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
+  - "[[The Rescue (and or murder) of King Antonino Esposito]]"
 Status: Alive
 Author: Jordan
 ---
@@ -39,7 +40,7 @@ Author: Jordan
 >
 > **Affiliation:** [[The Backbreakers|The Backbreakers]]
 >
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >
 > **Status:** Alive
 

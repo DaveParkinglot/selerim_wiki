@@ -3,11 +3,10 @@ publish: true
 aliases:
   - Ernesto de La Sern
 created: 2026-08-07T23:25:59.781Z
-modified: 2026-08-07T23:34:13.027Z
-published: 2026-08-07T23:34:13.027Z
+modified: 2026-08-13T13:01:52.782Z
+published: 2026-08-13T13:01:52.782Z
 born: 236
-Ancestry:
-  - Human
+Ancestry: Human
 Gender: Male
 Location:
   - Isla Ruz
@@ -17,6 +16,7 @@ Affiliation:
   - "[[Ruz Family]]"
 Appearances:
   - "[[Voyage a la Isla Ruz]]"
+  - "[[The Rescue (and or murder) of King Antonino Esposito]]"
 Status: Alive
 Author: Ethan
 ---
@@ -25,7 +25,7 @@ Author: Ethan
 >
 > ## General Ernesto de la Sern
 >
-> ![[NPC.Picture.png|300]]
+> ![[z_assets/ernesto_de_la_sern.png|300]]
 >
 > ## Details
 >
@@ -41,7 +41,7 @@ Author: Ethan
 >
 > **Affiliation:** [[Factions/Families of Tiialia/Ruz Family.md|Ruz Family]]
 >
-> **Appearances:** [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]]
+> **Appearances:** [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >
 > **Status:** Alive
 

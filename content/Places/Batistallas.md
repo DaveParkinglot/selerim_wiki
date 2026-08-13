@@ -4,8 +4,8 @@ aliases:
   - The Bleeding City
 title: Batistallas
 created: 2026-04-30T14:04:28.649Z
-modified: 2026-07-27T20:10:06.111Z
-published: 2026-07-27T20:10:06.111Z
+modified: 2026-08-13T13:01:26.082Z
+published: 2026-08-13T13:01:26.082Z
 tags:
   - Settlement
   - Kingdom-of-Tiialia
@@ -21,6 +21,7 @@ Government:
 Author: Ethan
 Appearances:
   - "[[The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]"
+  - "[[The Rescue (and or murder) of King Antonino Esposito]]"
 marker:
   - coordinates: 92, 2610
     icon: game-icons:medieval-gate
@@ -47,7 +48,7 @@ marker:
 >
 > **Government:** [[NPCs/Tiialia/Lord Zalvidar Batista.md|Lord Zalvidar Batista]]
 >
-> **Appearances:** [[Adventures/The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy.md|The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]
+> **Appearances:** [[Adventures/The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy.md|The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 
 # Overview
 

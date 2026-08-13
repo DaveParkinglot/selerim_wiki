@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T12:02:27.000Z
-modified: 2026-08-07T23:15:27.930Z
-published: 2026-08-07T23:15:27.930Z
+modified: 2026-08-13T12:31:42.527Z
+published: 2026-08-13T12:31:42.527Z
 DM: Ethan
 Platform: Foundry
 Sessions: 4
@@ -21,7 +21,7 @@ Characters:
   - Asana Totashi
   - "[[Knight of Confidence]]"
   - "[[Hector Fanto-Domingo]]"
-  - "[['Playing Card' Murphy]]"
+  - "[['Playing Card' Murphy|\"Playing Card\" Murphy]]"
 Races:
   - Human
   - Human
@@ -66,18 +66,18 @@ You and other intriguing characters have arrived at the harbor of [[Nova Jersaer
 ## Session 1
 
 - At the Port of Nova Jersaeria, the adventurers won a card game against [[Juice Johnson]], which allowed them to stock up on some supplies.
-- The adventurers encountered [[Jaemee "The Unsinkable" Babaganoush]] on his ship in port. He told them that he was hired to deliver cargo for the Batistas but that his true allegiance was to the Ruz resistance. Jaemee encouraged the adventurers to prepare his ship for escape as a gang of bugbears and goblins could descended upon the ship. The adventurers cut clear the ropes connecting the ship to the dock, drew up the anchor winch, and unfurled the rigging. They narrowly escaped from the bugbears and goblins and set sail for Isla Ruz.
+- The adventurers encountered Jaemee "The Unsinkable" Babaganoush on his ship in port. He told them that he was hired to deliver cargo for the Batistas but that his true allegiance was to the Ruz resistance. Jaemee encouraged the adventurers to prepare his ship for escape as a gang of bugbears and goblins could descended upon the ship. The adventurers cut clear the ropes connecting the ship to the dock, drew up the anchor winch, and unfurled the rigging. They narrowly escaped from the bugbears and goblins and set sail for Isla Ruz.
 - On the Delphin Sea, the crew encountered increasingly rough weather while they tried to investigate what was in the hold of Jaemee's ship. Asana Totashi eventually discovered that there appeared to be a large shipment of Infernal Iron on the ship.
 - The crew landed at Burguessia Bay, where the Batista invaders had expected Jaemee's shipment to arrive. The adventurers surprised the Batistas and combat ensued.
 - The adventurers defeated a cohort of Batista guards and dark priests. They also encountered a Duergar Mind Master that appeared to be working with the Batistas.
-- They also shocking encountered the reanimated (and bigger) corpse of [[Carlos 'Lucky' Luciano]]. After killing Carlos a second time, Asana Totashi picked up the Batista Amulet of the Black Skull from his corpse.
+- They also shocking encountered the reanimated (and bigger) corpse of [[Carlos 'Lucky' Luciano|Carlos "Lucky" Luciano]]. After killing Carlos a second time, Asana Totashi picked up the Batista Amulet of the Black Skull from his corpse.
 - Between this artifact, the Duergar, Mervin's Letter to Lord Zalvidar Batista, and the Infernal Iron, the crew seemed to have established enough evidence to prove the Batista collusion with the forces of Morganth. With all of these artifacts, they set sail for Port Ruz.
 
 ## Session 2
 
 - On the Isla Ruz it was a race against time to warn Tiialan authorities about the dastardly plot of the Batista family to ally with the forces of [[Morganth]] and invade the island. Luckily, the most inept group of misfits (the adventurers) have somehow fallen into possession of a preponderance of evidence proving the Batista betrayal. If only they could warn [[Alejandro Ruz]] before it is too late!
-- "Playing Card" Murphy had seemingly gotten violently sick from an abundance of raw coconuts that he picked up at Burguessia Bay, and was too sick to join the rest of the adventurers.
-- The adventurers landed at Port Ruz - it seemed that [[Jaemee "The Unsinkable" Babaganoush]] wanted to deliver the Infernal Iron to the Ruzs instead of the Batistas. Jaemee informed the adventurers of a tavern to which they can travel where they will be met with a contact that can get them in contact with the Ruz family.
+- Murphy had seemingly gotten violently sick from an abundance of raw coconuts that he picked up at Burguessia Bay, and was too sick to join the rest of the adventurers.
+- The adventurers landed at Port Ruz - it seemed that Jaemee "The Unsinkable" Babaganoush wanted to deliver the Infernal Iron to the Ruzs instead of the Batistas. Jaemee informed the adventurers of a tavern to which they can travel where they will be met with a contact that can get them in contact with the Ruz family.
 - The adventurers traveled to a Tavern where they encountered [[Verum Omnibus]], the brother of [[Falsus Omnibus]]. He explained that that, just at a nearby table, is a group that is about to go fight at the Gran Coliseo de la Ruz. Because the winner of such gladiatorial fights gets to meet with the Ruz family, this group is planning to win and assassinate [[Alejandro Ruz]]. The adventurers were tasked with beating this group at a drinking match so that they passed out and the adventurers can take their place - this could have helped them save the Ruz family and tell them about the Batista plot.
 - In their conversations with Verum, the adventurers learned that there appear to be two competing plots happening in Tiialia: Factions within the Ruz family appear to be colluding with the subterranean city of [[Vlorngroth]] in some plot to defeat the Batistas, while the Batistas have allied with [[Morganth's LEGION OF DOOM|Morganth's Legion of Doom]] to defeat the Ruz family (and perhaps even overthrow the Tiialian throne?)
 - The adventurers outdrank the other party. Verum then remembered that it might have been the other gladiatorial team that was actually the Batista spies...
@@ -87,9 +87,9 @@ You and other intriguing characters have arrived at the harbor of [[Nova Jersaer
 
 ## Session 3
 
-- "Playing Card" Murphy rejoined the heroes (against his will). He had, in a poisoned stupor, won a great deal against the House when gambling at the Gran Coliseo. When he came to collect, he was thrown out into the gladiatorial arena with the rest of the adventurers.
+- Murphy rejoined the heroes (against his will). He had, in a poisoned stupor, won a great deal against the House when gambling at the Gran Coliseo. When he came to collect, he was thrown out into the gladiatorial arena with the rest of the adventurers.
 - The adventurers defeated the other team and seemingly saved the Ruz Family from assassination. They were greeted by [[General Ernesto de la Sern]] and invited to the royal Salon Pueblo Ruz thanks to their victory.
-- The adventurers came to the royal Salon, and worked to try and gain court favor to be able to meet with either [[Alejandro Ruz]], [[General Ernesto de la Sern]], or [[Ambassador "Tiny" Timmy Trebles]] (from the Esposito court).
+- The adventurers came to the royal Salon, and worked to try and gain court favor to be able to meet with either [[Alejandro Ruz]], [[General Ernesto de la Sern]], or Ambassador "Tiny" Timmy Trebles (from the Esposito court).
 - The adventurers stumbled through this task, with The Knight of Confidence dramatically failing to gain court favor despite initially appearing successful at the task.
 - The adventurers had enough court favor to talk to [[General Ernesto de la Sern]].
 - The adventurers finally determined which way the wind was blowing: They didn't like [[Vlorngroth]], but they HATED [[Morganth's LEGION OF DOOM|Morganth's Legion of Doom]]. They decided to side with the Ruz family against the Batistas. This was possibly a very significant decision for the future of Tiialia.
@@ -102,4 +102,4 @@ You and other intriguing characters have arrived at the harbor of [[Nova Jersaer
 | Bishop | Asana Totashi | Human | Monk |
 | Mike Doom | [[Player Characters/The Stacked Deck/Knight of Confidence.md\|Knight of Confidence]] | Human | Fighter |
 | Jordan | [[Player Characters/The Stacked Deck/Hector Fanto-Domingo.md\|Hector Fanto-Domingo]] | Human | Barbarian |
-| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
+| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|"Playing Card" Murphy]] | Human | Rogue |

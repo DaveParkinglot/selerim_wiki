@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-08-07T23:15:27.920Z
-published: 2026-08-07T23:15:27.920Z
+modified: 2026-08-13T12:30:47.940Z
+published: 2026-08-13T12:30:47.940Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -16,7 +16,7 @@ Players:
   - Mike Doom
 Characters:
   - Jaemee Babaganoush
-  - "[['Playing Card' Murphy]]"
+  - "[['Playing Card' Murphy|\"Playing Card\" Murphy]]"
   - "[[Knight of Confidence]]"
 Races:
   - Human
@@ -70,5 +70,5 @@ Whoever your character is, whether brave or foolish, they will soon leave the sa
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Jaemee Babaganoush | Human | Wizard |
-| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
+| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|"Playing Card" Murphy]] | Human | Rogue |
 | Mike Doom | [[Player Characters/The Stacked Deck/Knight of Confidence.md\|Knight of Confidence]] | Human | Fighter |

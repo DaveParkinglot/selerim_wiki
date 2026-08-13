@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - '"Playing Card" Murphy'
 created: 2026-05-03T15:42:03.359Z
-modified: 2026-08-07T13:06:34.412Z
-published: 2026-08-07T13:06:34.412Z
+modified: 2026-08-13T12:27:50.493Z
+published: 2026-08-13T12:27:50.493Z
 Author: Jordan
 ---
 

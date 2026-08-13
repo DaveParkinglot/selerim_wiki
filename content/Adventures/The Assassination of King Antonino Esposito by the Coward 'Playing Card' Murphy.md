@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-05-03T21:11:13.701Z
-modified: 2026-08-08T12:12:22.111Z
-published: 2026-08-08T12:12:22.111Z
+created: 2026-05-03T21:11:13.000Z
+modified: 2026-08-13T12:27:48.576Z
+published: 2026-08-13T12:27:48.576Z
 DM: Ethan
 Platform: Foundry
 Sessions: 2
@@ -18,7 +18,7 @@ Players:
   - Mike Doom
 Characters:
   - "[[Hector Fanto-Domingo]]"
-  - "[['Playing Card' Murphy]]"
+  - "[['Playing Card' Murphy|\"Playing Card\" Murphy]]"
   - "[[Knight of Confidence]]"
 Races:
   - Human
@@ -37,7 +37,7 @@ Classes:
 > ![[z_assets/batista_tourist_map.png|300]]
 >
 > > [!caption|center]
-> > A tourist map of [[Batistallas]] at the time of the assassination attempt
+> > A tourist map of [[Batistallas]] showing the route of the king’s carriagecade
 >
 > ## Details
 >
@@ -56,7 +56,7 @@ Classes:
 Word has spread across [[Tiialia]] that [[Antonino Esposito|King Antonino Esposito]] is visiting [[Batistallas]], a major city under control of the [[Batista Family]], to shore up unity across the realm. But with the Batista and [[Ruz Family|Ruz]] families on the brink of war, and with rumors about impending incursions by the forces of [[Morganth]] or even [[Vlorngroth]], these are dangerous times in Tiialia.
 
 You have been summoned to the _Carousel Club_ in downtown Batistallas at urgent request of Ambassador “Tiny” Timmy Trebles and [[Falsus Omnibus]], who have relayed the following message:
-“King Esposito in grave danger. [['Playing Card' Murphy]] is hired assassin. Save the king and save Tiallia. Meet at Carousel Club for instructions.”
+“King Esposito in grave danger. [['Playing Card' Murphy| Murphy]] is hired assassin. Save the king and save Tiallia. Meet at Carousel Club for instructions.”
 
 Will you heed the call and save the Kingdom of Tiallia, or will you end up the first casualties in the downfall of the Esposito lineage?
 
@@ -64,7 +64,7 @@ Will you heed the call and save the Kingdom of Tiallia, or will you end up the f
 
 ### Session 1
 
-- [[Hector Fanto-Domingo|Hector]] and the [[Knight of Confidence]] met at the entrance to Batistallas after receiving their summons. As they walked into the city, they were summoned off to a side street by none other than "Playing Card" Murphy, who is under the impression that he simply has to lay low for a few days in order to win a prize, as described in this message he received:
+- [[Hector Fanto-Domingo|Hector]] and the [[Knight of Confidence]] met at the entrance to Batistallas after receiving their summons. As they walked into the city, they were summoned off to a side street by none other than pression that he simply has to lay low for a few days in order to win a prize, as described in this message he received:
   - Outside: CONGRATULATIONS, YOU’VE WON (TIME SENSITIVE REWARD INSIDE)! Inside: Congratulations, Mr. Murphy! You have been selected for the “Raise the Roof” award in Batistallas! To participate, arrive at the roof of the Batista Church Depository in Batistallas at midday, Mourne 22nd. If you do this, you will be presented with 20,000 gold pieces or its equivalent in game chips at the fabulous Carousel Club! Sincerely, The Committee of Innovative Awards
 
 - As Murphy is explaining the situation, the group is descended upon by some city watch who turn out to be imposters. They make swift work of these imposters but are seen by citizens of the city supposedly killing members of the city watch, and thus are branded as wanted.
@@ -75,7 +75,7 @@ Will you heed the call and save the Kingdom of Tiallia, or will you end up the f
 - **Round 1 of the investigation**
   - Hector first investigates the Abandoned Yuan-ti Keep, as he things the king might be a snake guy. In a shocking turn of events, he finds a large snakelike shed skin, as well as a slithering path with multiple sets of humanoid footprints heading from the old keep toward the city.
   - The Knight of Confidence investigates BT\&T Arena and sees that security is always high around BT\&T Arena, especially after the stampedes following [[Nova Jersaeria]]’s win over Batistallas in the Batistaball World Cup last season. There is no game scheduled for the day of the King’s visit, but he imagines this area will be locked down. Unless Batistallas’s star Batistaball player, Belé, is in on the plot to assassinate the king, he is pretty sure the conspiracy does not pass through the sports arena. However, he does find a plaque by the arena, dedicated “To the Band of Batista, the mysterious company of soldiers who arrived at the end of the siege of the [[Corrodreth|Salted City]], the veterans of whom were gifted this land and founded Batistallas after the siege concluded.” What interesting lore!
-  - "Playing Card" Murphy goes to the River Walk, pretending to be a street performer. While security seems tight along this side of the river, looking across to where the parade route continues to the eastern end of the city across the Zalvidar Bridge, the city guard presence seems to taper off. He encounters a fisherman wearing a Make All Tiialia Awesome hat. Upon questioning he is quick to share about how he saw two Ruzians talking with one another all suspicious-like just the other day. He thinks that he heard the words “Fake King Esposito” and “Grassy Knoll.”
+  - Murphy goes to the River Walk, pretending to be a street performer. While security seems tight along this side of the river, looking across to where the parade route continues to the eastern end of the city across the Zalvidar Bridge, the city guard presence seems to taper off. He encounters a fisherman wearing a Make All Tiialia Awesome hat. Upon questioning he is quick to share about how he saw two Ruzians talking with one another all suspicious-like just the other day. He thinks that he heard the words “Fake King Esposito” and “Grassy Knoll.”
 
 - \*\*Round 2 of the investigation
   - Hector then goes to the Zalvidar Batista Lordship Library. A transcription from one of the “Batista Tapes” catches his eye – a conversation some time ago between Falsus Omnibus and Roberto Batista:
@@ -120,5 +120,5 @@ Will you heed the call and save the Kingdom of Tiallia, or will you end up the f
 | Player              | Character Name         | Race              | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Jordan | [[Player Characters/The Stacked Deck/Hector Fanto-Domingo.md\|Hector Fanto-Domingo]] | Human | Barbarian |
-| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|'Playing Card' Murphy]] | Human | Rogue |
+| Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|"Playing Card" Murphy]] | Human | Rogue |
 | Mike Doom | [[Player Characters/The Stacked Deck/Knight of Confidence.md\|Knight of Confidence]] | Human | Fighter |
