@@ -4,17 +4,16 @@ aliases:
   - White Grove Academy
 title: White Grove, Magic Academy
 created: 2023-09-02T13:45:40.000Z
-modified: 2026-08-11T15:37:07.104Z
-published: 2026-08-11T15:37:07.104Z
+modified: 2026-08-13T20:03:04.315Z
+published: 2026-08-13T20:03:04.315Z
 tags:
   - Settlement
 Type:
   - Magical Academy
 founded_year: 64
 Population: 600
-Affiliation:
-  - "[[Tiialia]]"
-Government: N/A
+Government:
+  - "[[Tiialia|Kingdom of Tiialia]]"
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
@@ -42,9 +41,7 @@ Author: Jordan
 >
 > **Population**: 600
 >
-> **Affiliation**: [[Factions/Tiialia.md|Tiialia]]
->
-> **Government:** N/A
+> **Government:** [[Factions/Tiialia.md|Kingdom of Tiialia]]
 >
 > **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 

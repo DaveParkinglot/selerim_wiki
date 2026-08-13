@@ -4,8 +4,8 @@ aliases:
   - The Bleeding City
 title: Batistallas
 created: 2026-04-30T14:04:28.649Z
-modified: 2026-08-13T13:01:26.082Z
-published: 2026-08-13T13:01:26.082Z
+modified: 2026-08-13T19:58:02.327Z
+published: 2026-08-13T19:58:02.327Z
 tags:
   - Settlement
   - Kingdom-of-Tiialia
@@ -13,11 +13,9 @@ Type:
   - City
 founded_year: 161
 Population: 40000
-Affiliation:
-  - "[[Tiialia|Kingdom of Tiialia]]"
-  - "[[Batista Family]]"
 Government:
-  - "[[Lord Zalvidar Batista]]"
+  - "[[Batista Family]]"
+  - "[[Tiialia|Kingdom of Tiialia]]"
 Author: Ethan
 Appearances:
   - "[[The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]"
@@ -44,9 +42,9 @@ marker:
 >
 > **Population**: 40,000
 >
-> **Affiliation**: [[Factions/Tiialia.md|Kingdom of Tiialia]], [[Factions/Families of Tiialia/Batista Family.md|Batista Family]]
+> **Affiliation**: -
 >
-> **Government:** [[NPCs/Tiialia/Lord Zalvidar Batista.md|Lord Zalvidar Batista]]
+> **Government:** [[Factions/Families of Tiialia/Batista Family.md|Batista Family]], [[Factions/Tiialia.md|Kingdom of Tiialia]]
 >
 > **Appearances:** [[Adventures/The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy.md|The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 

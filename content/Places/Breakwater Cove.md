@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-17T13:49:06.000Z
-modified: 2026-07-27T20:13:16.866Z
-published: 2026-07-27T20:13:16.866Z
+modified: 2026-08-13T19:58:08.454Z
+published: 2026-08-13T19:58:08.454Z
 tags:
   - Settlement
 Author: Jordan
@@ -10,8 +10,6 @@ Type:
   - Town
 founded_year: 104
 Population: 500
-Affiliation:
-  - None
 Government:
   - Breakwater Family
 marker:
@@ -41,7 +39,7 @@ aliases:
 >
 > **Population**: 500
 >
-> **Affiliation**: None
+> **Affiliation**: -
 >
 > **Government:** Breakwater Family
 >

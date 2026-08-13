@@ -2,18 +2,17 @@
 publish: true
 title: Wyrmrest Keep
 created: 2026-04-20T01:04:15.006Z
-modified: 2026-07-27T20:19:44.914Z
-published: 2026-07-27T20:19:44.914Z
+modified: 2026-08-13T20:03:30.123Z
+published: 2026-08-13T20:03:30.123Z
 tags:
   - Settlement
 Type:
   - Castle
 founded_year: -34
 Population: 100
-Affiliation:
-  - "[[Greenscale the Destroyer]]"
 Government:
   - Autocracy
+  - "[[Greenscale the Destroyer]]"
 Author: Mike Doom
 marker:
   - coordinates: 860, 3900
@@ -40,9 +39,7 @@ aliases:
 >
 > **Population**: 100
 >
-> **Affiliation**: [[Greenscale the Destroyer|Greenscale the Destroyer]]
->
-> **Government:** Autocracy
+> **Government:** Autocracy, [[Greenscale the Destroyer|Greenscale the Destroyer]]
 >
 > **Appearances:** [[Dragon Quest|Dragon Quest]]
 

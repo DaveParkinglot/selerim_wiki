@@ -2,8 +2,8 @@
 publish: true
 title: Crillville, Harbor Town
 created: 2025-10-09T18:45:41.000Z
-modified: 2026-07-27T20:14:58.340Z
-published: 2026-07-27T20:14:58.340Z
+modified: 2026-08-13T19:59:28.706Z
+published: 2026-08-13T19:59:28.706Z
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -11,10 +11,9 @@ Type:
   - Town
 founded_year: 185
 Population: 2500
-Affiliation:
-  - "[[Tanglewood Defense Council]]"
 Government:
   - "[[Dick Gunbarrel]]"
+  - "[[Tanglewood Defense Council]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[The Lost Archives of Wigglestaff]]"
@@ -42,9 +41,7 @@ Author: Jordan
 >
 > **Population**: 2,500
 >
-> **Affiliation**: [[Factions/Tanglewood Defense Council.md|Tanglewood Defense Council]]
->
-> **Government:** [[NPCs/Tanglewood Peninsula/Dick Gunbarrel.md|Dick Gunbarrel]]
+> **Government:** [[NPCs/Tanglewood Peninsula/Dick Gunbarrel.md|Dick Gunbarrel]], [[Factions/Tanglewood Defense Council.md|Tanglewood Defense Council]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Lost Archives of Wigglestaff.md|The Lost Archives of Wigglestaff]], [[Adventures/The Rentpire Strikes Back.md|The Rentpire Strikes Back]]
 

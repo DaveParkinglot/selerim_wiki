@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T16:39:25.000Z
-modified: 2026-08-09T12:43:09.810Z
-published: 2026-08-09T12:43:09.810Z
+modified: 2026-08-13T19:58:58.036Z
+published: 2026-08-13T19:58:58.036Z
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -11,8 +11,6 @@ Type:
   - Village
 founded_year: 240
 Population: 600
-Affiliation:
-  - None
 Government:
   - "[[Crabbley Council]]"
   - "[[Tanglewood Defense Council]]"
@@ -51,8 +49,6 @@ Author: Jordan
 > **Age:** 26 years
 >
 > **Population**: 600
->
-> **Affiliation**: None
 >
 > **Government:** [[Factions/Crabbley Council.md|Crabbley Council]], [[Factions/Tanglewood Defense Council.md|Tanglewood Defense Council]]
 >

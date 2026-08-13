@@ -2,16 +2,14 @@
 publish: true
 title: Timberheim
 created: 2026-04-20T01:24:31.189Z
-modified: 2026-07-27T20:18:27.811Z
-published: 2026-07-27T20:18:27.811Z
+modified: 2026-08-13T20:02:19.681Z
+published: 2026-08-13T20:02:19.681Z
 tags:
   - Settlement
 Type:
   - Village
 founded_year: 15
 Population: 400
-Affiliation:
-  - "[[Greenscale the Destroyer]]"
 Government:
   - Council of Elders
 Author: Mike Doom
@@ -39,8 +37,6 @@ aliases:
 > **Age:** 251 years
 >
 > **Population**: 400
->
-> **Affiliation**: [[Greenscale the Destroyer|Greenscale the Destroyer]]
 >
 > **Government:** Council of Elders
 >

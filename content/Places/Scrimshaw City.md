@@ -5,16 +5,14 @@ aliases:
   - Free City of Scrimshaw
 title: Scrimshaw, Free Port City
 created: 2025-07-25T16:30:40.000Z
-modified: 2026-08-09T12:43:09.817Z
-published: 2026-08-09T12:43:09.817Z
+modified: 2026-08-13T20:01:08.702Z
+published: 2026-08-13T20:01:08.702Z
 tags:
   - Settlement
 Type:
   - Free City
 founded_year: -250
 Population: 18000
-Affiliation:
-  - None
 Government:
   - "[[Hugh Mann|El Presidente Hugh Mann]]"
   - "[[Tavernstool]]"
@@ -53,8 +51,6 @@ Author: Jordan
 > **Age:** 516 years
 >
 > **Population**: 18,000
->
-> **Affiliation**: None
 >
 > **Government:** [[NPCs/Scrimshaw City/Hugh Mann.md|El Presidente Hugh Mann]], [[Tavernstool|Tavernstool]]
 >

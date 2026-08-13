@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2023-09-26T13:14:17.000Z
-modified: 2026-08-13T12:47:37.117Z
-published: 2026-08-13T12:47:37.117Z
+modified: 2026-08-13T20:03:11.864Z
+published: 2026-08-13T20:03:11.864Z
 tags:
   - Settlement
 Author: Jordan
@@ -10,8 +10,6 @@ Type:
   - Region
 founded_year: -325
 Population: 250
-Affiliation:
-  - None
 Government:
   - Circle of the Thicket
 Appearances:
@@ -32,8 +30,6 @@ aliases:
 > **Age:** 591 years
 >
 > **Population**: 250
->
-> **Affiliation**: None
 >
 > **Government:** Circle of the Thicket
 >

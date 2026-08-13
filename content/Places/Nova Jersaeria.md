@@ -2,8 +2,8 @@
 publish: true
 title: Nova Jersaeria, Tiialan Capital
 created: 2025-06-20T13:32:25.000Z
-modified: 2026-07-27T20:17:19.370Z
-published: 2026-07-27T20:17:19.370Z
+modified: 2026-08-13T20:00:56.169Z
+published: 2026-08-13T20:00:56.169Z
 tags:
   - Settlement
   - Kingdom-of-Tiialia
@@ -11,9 +11,9 @@ Type:
   - Capital City
 founded_year: 0
 Population: 95000
-Affiliation:
+Government:
+  - "[[Antonino Esposito|King Antonino Esposito I]]"
   - "[[Tiialia|Kingdom of Tiialia]]"
-Government: "[[Antonino Esposito|King Antonino Esposito I]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Giftmas in Nova Jersaeria]]"
@@ -42,9 +42,7 @@ Author: Jordan
 >
 > **Population**: 95,000
 >
-> **Affiliation**: [[Factions/Tiialia.md|Kingdom of Tiialia]]
->
-> **Government:** [[NPCs/Tiialia/Antonino Esposito.md|King Antonino Esposito I]]
+> **Government:** [[NPCs/Tiialia/Antonino Esposito.md|King Antonino Esposito I]], [[Factions/Tiialia.md|Kingdom of Tiialia]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Giftmas in Nova Jersaeria.md|Giftmas in Nova Jersaeria]], [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]]
 

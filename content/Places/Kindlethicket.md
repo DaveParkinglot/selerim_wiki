@@ -2,8 +2,8 @@
 publish: true
 title: Kindlethicket, Fey Crossing
 created: 2025-11-02T15:04:59.135Z
-modified: 2026-07-27T20:15:48.291Z
-published: 2026-07-27T20:15:48.291Z
+modified: 2026-08-13T19:59:52.958Z
+published: 2026-08-13T19:59:52.958Z
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -11,8 +11,6 @@ Type:
   - Fey Crossing
 founded_year: 264
 Population: 200
-Affiliation:
-  - None
 Government:
   - The Prince of Lamps and Luminosity
 marker:
@@ -42,8 +40,6 @@ aliases:
 > **Age:** 2 years
 >
 > **Population**: 200
->
-> **Affiliation**: None
 >
 > **Government:** The Prince of Lamps and Luminosity
 >

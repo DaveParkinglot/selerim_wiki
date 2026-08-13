@@ -3,16 +3,14 @@ publish: true
 aliases:
   - The Yuleshade
 created: 2025-12-10T00:13:43.000Z
-modified: 2026-07-27T20:20:10.006Z
-published: 2026-07-27T20:20:10.006Z
+modified: 2026-08-13T20:03:37.324Z
+published: 2026-08-13T20:03:37.324Z
 tags:
   - Region
 Type:
   - Domain of Delight
 founded_year: -6150
 Population: 10000
-Affiliation:
-  - None
 Government:
   - "[[Krampus]]"
 Author: Jordan
@@ -33,8 +31,6 @@ Appearances:
 > **Age:** 6,416 years
 >
 > **Population**: 10,000
->
-> **Affiliation**: None
 >
 > **Government:** [[NPCs/Legends/Krampus.md|Krampus]]
 >

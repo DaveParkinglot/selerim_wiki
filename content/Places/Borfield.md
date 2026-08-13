@@ -2,16 +2,14 @@
 publish: true
 title: Borfield, Lawless Hamlet
 created: 2026-01-06T21:13:07.000Z
-modified: 2026-07-27T20:10:31.543Z
-published: 2026-07-27T20:10:31.543Z
+modified: 2026-08-13T19:58:05.192Z
+published: 2026-08-13T19:58:05.192Z
 tags:
   - Settlement
 Type:
   - Hamlet
 founded_year: 65
 Population: 400
-Affiliation:
-  - None
 Government:
   - "[[Harlburs]]"
   - "[[Poison Tongues]]"
@@ -41,7 +39,7 @@ aliases:
 >
 > **Population**: 400
 >
-> **Affiliation**: None
+> **Affiliation**: -
 >
 > **Government:** [[Harlburs|Harlburs]], [[Poison Tongues|Poison Tongues]]
 >

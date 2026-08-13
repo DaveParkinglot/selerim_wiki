@@ -2,8 +2,8 @@
 publish: true
 title: Mournholde, City of the Dead
 created: 2023-09-20T18:56:26.000Z
-modified: 2026-07-27T20:17:02.745Z
-published: 2026-07-27T20:17:02.745Z
+modified: 2026-08-13T20:00:38.802Z
+published: 2026-08-13T20:00:38.802Z
 tags:
   - Settlement
 Type:
@@ -11,8 +11,6 @@ Type:
   - Free City
 founded_year: 131
 Population: 7000
-Affiliation:
-  - None
 Government:
   - "[[Galgitch the Afterking]]"
   - Mayor Gerard Duck
@@ -40,8 +38,6 @@ Author: Jordan
 > **Age:** 135 years
 >
 > **Population**: 7,000
->
-> **Affiliation**: None
 >
 > **Government:** [[NPCs/Legends/Galgitch the Afterking.md|Galgitch the Afterking]], Mayor Gerard Duck
 >

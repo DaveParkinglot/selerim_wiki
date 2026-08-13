@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2023-08-27T13:24:37.000Z
-modified: 2026-07-08T23:25:38.694Z
-published: 2026-07-08T23:25:38.694Z
+modified: 2026-08-13T20:01:56.159Z
+published: 2026-08-13T20:01:56.159Z
 Author: Jordan
 Appearances:
-  - "[[Escape from the Fathomless Vault DM]]"
+  - "[[Escape from the Fathomless Vault]]"
 ---
 
 - A blood hunter hailing from [[Forsyth Keep]]

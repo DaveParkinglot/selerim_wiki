@@ -1,19 +1,17 @@
 ---
 publish: true
 created: 2025-10-03T13:55:09.000Z
-modified: 2026-07-27T20:18:52.939Z
-published: 2026-07-27T20:18:52.939Z
+modified: 2026-08-13T20:02:45.462Z
+published: 2026-08-13T20:02:45.462Z
 tags:
   - Settlement
 Type:
   - Capital City
 founded_year: -1275
 Population: 22000
-Affiliation:
-  - "[[Vlorn Dynasty]]"
 Government:
-  - "[[High Lord Jorad Kranicz]]"
   - The Matron Mothers
+  - "[[Vlorn Dynasty]]"
 Appearances:
   - "[[Vlorngroth - The Manor of Madness]]"
   - "[[Vlorngroth - The Forge of Dingon]]"
@@ -39,9 +37,7 @@ Author: Jordan
 >
 > **Population**: 22,000
 >
-> **Affiliation**: [[Factions/Vlorn Dynasty.md|Vlorn Dynasty]]
->
-> **Government:** [[High Lord Jorad Kranicz|High Lord Jorad Kranicz]], The Matron Mothers
+> **Government:** The Matron Mothers, [[Factions/Vlorn Dynasty.md|Vlorn Dynasty]]
 >
 > **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/Vlorngroth - The Forge of Dingon.md|Vlorngroth - The Forge of Dingon]], [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]], [[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]]
 
