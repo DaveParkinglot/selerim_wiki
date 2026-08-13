@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T12:16:34.000Z
-modified: 2026-07-27T20:16:50.798Z
-published: 2026-07-27T20:16:50.798Z
+modified: 2026-08-13T15:40:48.233Z
+published: 2026-08-13T15:40:48.233Z
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -53,10 +53,11 @@ Author: Jordan
 
 # Overview
 
-- Built into the towering trees that grow on the southeast side of the Tanglewood Peninsula, Mitlin is a peaceful town inhabited mainly by elves.
-- The [[Oaken Conclave]] is the main ruling body.
-- The Home Tree, first of the Great Oaks of Mitlin, stands at the center of the town.
-- The religious sect Dragon Faithful has most of its members in Mitlin.
+Mitlin is a peaceful forest town inhabited mainly by elves, located on the southeastern side of the Tanglewood Peninsula. Most of its structures are built into the towering trees that encircle the town. The Home Tree, first of the Great Oaks of Mitlin, stands at the center of the town.
+
+The [[Oaken Conclave]] is the main ruling body, though Mitlin has also banded together with the other settlements on the Tanglewood Peninsula to form the [[Tanglewood Defense Council]].
+
+The [[Dragon Faithful]] is the largest religious sect in Mitlin, though many elves also worship the [Seldarine](https://5e.tools/tables.html#elf%20deities%20\(the%20seldarine\)_mtf) pantheon of deities.
 
 # Attributes
 
@@ -64,9 +65,14 @@ Author: Jordan
   - Elvish treetop village, green and brown are the dominant colors
 - **Economy/Resources**:
   - Lumber (from approved sources)
-  - Mitlin maintained a small port to the south and the Aldwood Lighthouse before the area was encased in eldritch ice
-- **Dangers/Secrets**: (Rumors, threats, hidden lore)
+  - Mitlin maintains a small port to the south and the Aldwood Lighthouse
+- **Dangers/Secrets**:
+  - Trade of [[Ancient Dragon Marrow|Substance]] is strictly forbidden by the Oaken Conclave
+  - Substance-addicted gnoll tribes from [[The Forsaken Expanse]]
+  - Mitlin's rangers fiercely defend its borders from external threats
 - **Points of Interest**:
-  - Kindlethicket, a fey crossing, is less than a day's journey from Mitlin
-  - The edge of the Forsaken Expanse
+  - [[Kindlethicket]], a fey crossing, is less than a day's journey from Mitlin
+  - The edge of The Forsaken Expanse is a few hours' journey northeast
   - Jack of Owl Trades, [[Bwanson Wagwan]]'s magic shop
+  - Silver Oak Market (MitMart) boasts many market vendors with various items for sale
+  - Fadeleaf Dispensary, run by Arabelle and Aranthor Fadeleaf

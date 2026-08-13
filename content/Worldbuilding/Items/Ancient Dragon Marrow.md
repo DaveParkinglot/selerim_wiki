@@ -1,11 +1,11 @@
 ---
 publish: true
 aliases:
-  - The Substance
+  - Substance
   - ADM
 created: 2026-03-24T15:06:13.636Z
-modified: 2026-08-09T12:43:09.851Z
-published: 2026-08-09T12:43:09.851Z
+modified: 2026-08-13T15:35:20.433Z
+published: 2026-08-13T15:35:20.433Z
 Author: Jordan
 ---
 
