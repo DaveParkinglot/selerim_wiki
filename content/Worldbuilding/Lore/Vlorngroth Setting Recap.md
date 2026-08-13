@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-26T14:17:18.000Z
-modified: 2026-08-09T12:43:09.857Z
-published: 2026-08-09T12:43:09.857Z
+modified: 2026-08-13T15:14:51.374Z
+published: 2026-08-13T15:14:51.374Z
 Author: Jordan
 ---
 
@@ -43,4 +43,4 @@ Author: Jordan
 ## [[Vlorngroth - Vampire Weekday|Vampire Weekday]]
 
 - A group of steadfast familiars and their hapless interns completed [[Count Calloway Duskveil]]'s chore list in Duskveil Keep.
-- They cleansed a corrupted mirror of a glassbone horror of [[Tharizdun, the Chained Oblivion]], fed some bodies to a corpse flower, and successfully negotiated with the mind flayer Coach Cortex.
+- They cleansed a corrupted mirror of a glassbone horror of [[Tharizdun]], fed some bodies to a corpse flower, and successfully negotiated with the mind flayer Coach Cortex.

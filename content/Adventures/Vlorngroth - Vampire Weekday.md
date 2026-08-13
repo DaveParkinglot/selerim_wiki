@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T14:23:37.000Z
-modified: 2026-07-21T17:27:55.896Z
-published: 2026-07-21T17:27:55.896Z
+modified: 2026-08-13T15:14:51.350Z
+published: 2026-08-13T15:14:51.350Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -60,7 +60,7 @@ While he is abroad, [[Count Calloway Duskveil]] has commanded his lowly familiar
 # Outcomes
 
 - Morbus, the Count's most loyal familiar, was turned to mince meat by a glassbone horror while handing out chores, and the familiars had to retrieve Count Duskveil's chore list from his remains.
-- The familiars defeated a glassbone horror of [[Tharizdun, the Chained Oblivion|Tharizdun]] by destroying the cursed mirror it was bound to.
+- The familiars defeated a glassbone horror of [[Tharizdun|Tharizdun]] by destroying the cursed mirror it was bound to.
 - The familiars discovered a strange dagger, an ancient implement of Tharizdun, and Nemata picked it up for safekeeping.
 - Despite massive intern casualties including Dwyer, Thomathy, and the ever-loyal Suds Mackenzie, the familiars were successful in feeding five corpses to the Count's prized corpse flower.
 - After troubleshooting and gathering requirements, the familiars completed a round of THE CORTEX GAMES in THE MIND ZONE in order to convince [[Inquisitor's Dossier#Coach Cortex|Coach Cortex]] to change the frequency of his pocket dimension so it would stop interfering with the internal transmitter.

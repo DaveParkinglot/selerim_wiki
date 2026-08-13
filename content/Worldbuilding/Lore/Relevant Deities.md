@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-21T15:41:30.000Z
-modified: 2026-07-17T15:33:43.849Z
-published: 2026-07-17T15:33:43.849Z
+modified: 2026-08-13T15:14:51.371Z
+published: 2026-08-13T15:14:51.371Z
 Author: Jordan
 ---
 
@@ -14,7 +14,7 @@ For a more exhaustive list of potential deities, visit <https://5e.tools/deitie
 | ----------------------------------- | -------------- | ------------------------------------ | ------------------------ | ------------------------------------ | -------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Tiamat                              | Lawful Evil    | Betrayer Gods                        | Order, Trickery, War     | Dragon queen of Hell                 | Taloned dragon claw                                | [Tiamat](https://5e.tools/deities.html#tiamat_exandria_egw)                             |
 | Asmodeus                            | Lawful Evil    | Betrayer Gods                        | Trickery, War            | God of the Nine Hells                | Crown of spiked onyx and curved horns              | [Asmodeus](https://5e.tools/deities.html#asmodeus_faer%c3%bbnian_frhof)                 |
-| [[Tharizdun, the Chained Oblivion]] | Chaotic Evil   | Betrayer Gods                        | Death, Grave, Trickery   | Darkness, destruction                | Crooked, seven-pointed star made of chains         | [Tharizdun](https://5e.tools/deities.html#tharizdun_greyhawk_xdmg)                      |
+| [[Tharizdun]] | Chaotic Evil   | Betrayer Gods                        | Death, Grave, Trickery   | Darkness, destruction                | Crooked, seven-pointed star made of chains         | [Tharizdun](https://5e.tools/deities.html#tharizdun_greyhawk_xdmg)                      |
 | Naviask                             | Neutral Good   | Archfey                              | Life, Nature             | The Summer Court                     | Wreath of flowers shaped into demon horns          | [Naviask](https://5e.tools/deities.html#naviask_exandria_egw)                           |
 | Myrkul                              | Neutral Evil   | N/A - Broadly Worshipped and Reviled | Death                    | Corruption, the dead, death, old age | White human skull framed by a runed triangle       | [Myrkul](https://5e.tools/deities.html#myrkul_faer%c3%bbnian_frhof)                     |
 | Iuz                                 | Chaotic Evil   | N/A - Broadly Worshipped and Reviled | Death                    | Pain, oppression                     | Grinning human skull                               | [Iuz](https://5e.tools/deities.html#iuz_greyhawk_xdmg)                                  |

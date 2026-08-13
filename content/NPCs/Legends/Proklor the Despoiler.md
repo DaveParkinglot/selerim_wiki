@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T21:29:41.642Z
-published: 2026-07-27T21:29:41.642Z
+modified: 2026-08-13T15:20:11.197Z
+published: 2026-08-13T15:20:11.197Z
 born: -7505
 Ancestry: Drow, Draegloth
 Gender: Male
@@ -48,17 +48,20 @@ aliases:
 
 # Overview
 
-- An ancient, legendary draegloth demigod who has ravaged kingdoms across dozens of worlds on the material plane.
-- He was plucked from his cradle by Lolth herself, and turned into a draegloth thousands of years ago
-- Until recently he resided in Demonweb layer of the abyss with his goddess Lolth
-- Lolth only breaks him out for special occasions, lending his services to drow on worlds where she wants a favor
-- Summoned by a group of Vlorn inquisitor initiates during the events of [[Vlorngroth - The Manor of Madness]].
-- He has a spiritual shard of [[Tharizdun, the Chained Oblivion]] contained within him, which is what gives him all his powers
+Proklor is an ancient, legendary draegloth demigod who has ravaged kingdoms across dozens of worlds on the myriad material planes. He participated in the [[Nameless War]] that sundered the world of Selerim, fighting on the side of the [Dark Seldarine](https://5e.tools/deities.html#ghaunadaur_drow_mtf,flstcategory:the%20dark%20seldarine=1).
+
+He usually resides in the Demonweb Pits, the layer of the Abyss that Lolth lays claim to. The Spider Queen only breaks him out for special occasions, lending his services to drow leaders on worlds she has an interest in. Supposedly, he has a spiritual shard of [[Tharizdun]] contained within him, which gives him enormous power.
+
+## [[Vlorngroth - The Manor of Madness]]
+
+Proklor was summoned by a group of Vlorn Inquisitor initiates during the events of [[Vlorngroth - The Manor of Madness]].
+
+To cow pride of the inquisitors, Proklor shared that he was plucked from the cradle by the goddess [Lolth](https://5e.tools/deities.html#lolth_faer%c3%bbnian_frhof) herself and turned into a draegloth thousands of years ago.
 
 # Attributes
 
-- **Voice**: Deep, powerful, mean and Australian
-- **Traits**: Will subjugate you and your civilization. A single minded conqueror of civilizations
+- **Voice**: Deep, powerful, mean and very Australian
+- **Traits**: Will subjugate you and your entire civilization. A single minded conqueror with unwavering loyalty to Lolth.
 - **Goals:** Dominate the enemies of Lolth
 - **Appearance**: 20 ft. tall half drow half demon demigod
 
