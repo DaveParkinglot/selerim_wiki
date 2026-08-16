@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-08-08T12:22:38.632Z
-modified: 2026-08-08T12:23:48.350Z
-published: 2026-08-08T12:23:48.350Z
+modified: 2026-08-13T20:09:20.488Z
+published: 2026-08-13T20:09:20.488Z
+tags:
+  - Selerim-5K
 Ancestry: Warforged
 Class: Paladin
 ---

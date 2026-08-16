@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-08-08T12:17:58.480Z
-modified: 2026-08-08T12:24:04.589Z
-published: 2026-08-08T12:24:04.589Z
+modified: 2026-08-13T20:09:14.293Z
+published: 2026-08-13T20:09:14.293Z
+tags:
+  - Selerim-5K
 Ancestry: Human
 Class: Rogue
 ---

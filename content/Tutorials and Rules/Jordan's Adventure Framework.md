@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-01-14T19:23:00.921Z
-modified: 2026-08-12T13:44:21.848Z
-published: 2026-08-12T13:44:21.848Z
+created: 2026-01-14T19:37:57.000Z
+modified: 2026-08-14T17:30:16.000Z
+published: 2026-08-14T17:30:16.000Z
 Author: Jordan
 ---
 
@@ -208,4 +208,4 @@ Hitting Ctrl + Space bar will allow you to use the Quick Insert module to quickl
   Other places you can find D\&D resources:
 - YouTube
 - Try searching Google
-- Chatbots like Chat GPT are nice for gathering ideas, but don’t rely on it too heavily on them or very bad things will happen to your soul and that of your adventure
+- AI chatbots might help you gather ideas, but don’t rely on it too heavily on them or very bad things will happen to your soul and that of your adventure. I honestly recommend not using them at all for creative pursuits.

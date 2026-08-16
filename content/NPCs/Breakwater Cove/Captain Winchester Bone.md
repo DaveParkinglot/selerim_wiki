@@ -5,8 +5,8 @@ aliases:
   - Captain Winchester Bone
   - Winchester Bone
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-04T23:27:41.481Z
-published: 2026-08-04T23:27:41.481Z
+modified: 2026-08-13T20:13:46.898Z
+published: 2026-08-13T20:13:46.898Z
 tags:
   - Breakwater-Cove
 born: 200
@@ -55,7 +55,7 @@ Author: Jordan
 
 Once a renowned ship captain, Captain Bone now owns Bone Tavern in [[Breakwater Cove]]. He loves to recount his days of yore to whoever will listen, though he often falls asleep before he finishes.
 
-He has sailed with many crews aboard many ships, but he is most known for his time aboard the Leaky Bucket.
+He has sailed with many crews aboard many ships, but he is most known for his time aboard the _Leaky Bucket_.
 
 ## [[The Hidden Hoard of Winchester Bone]]
 
@@ -76,7 +76,7 @@ The following is Bone's accounting of the events that led to the end of "Bone an
 
 ## [[The Hunt for the Leaky Bucket]]
 
-Captain Bone recruited new adventurers to hunt down his missing ship, the Leaky Bucket.
+Captain Bone recruited new adventurers to hunt down his missing ship, the _Leaky Bucket_.
 
 The ship vanished off the coast of [[Breakwater Cove]] two decades ago after the ship's mage incorrectly used a teleportation spell. Bone was out for a swim at the time, and was left stranded in the open ocean.
 

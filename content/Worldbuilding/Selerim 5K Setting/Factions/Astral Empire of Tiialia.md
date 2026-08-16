@@ -3,8 +3,10 @@ publish: true
 aliases:
   - Tiialan Empire
 created: 2026-08-07T23:42:48.582Z
-modified: 2026-08-08T02:20:49.312Z
-published: 2026-08-08T02:20:49.312Z
+modified: 2026-08-13T20:07:47.843Z
+published: 2026-08-13T20:07:47.843Z
+tags:
+  - Selerim-5K
 ---
 
 Far far into the future, the [[Tiialia|Kingdom of Tiialia]] has taken great bounds into the stars.

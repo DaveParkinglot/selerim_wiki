@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-08-08T12:17:57.052Z
-modified: 2026-08-08T12:23:58.522Z
-published: 2026-08-08T12:23:58.522Z
+modified: 2026-08-13T20:09:11.109Z
+published: 2026-08-13T20:09:11.109Z
+tags:
+  - Selerim-5K
 Ancestry: Autognome
 Class: Warlock
 ---
