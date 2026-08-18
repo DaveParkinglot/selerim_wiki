@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-09T12:43:09.512Z
-published: 2026-08-09T12:43:09.512Z
+modified: 2026-08-18T15:09:35.129Z
+published: 2026-08-18T15:09:35.129Z
 born: 212
 Ancestry:
   - Half-Orc
@@ -47,7 +47,7 @@ Author: Jordan
 # Overview
 
 > [!Quote|author mark no-title]
-> _You never know WHAT is gonna come through that door!_ <br> <span style="float: right;">—[[Arno Rickshir]] <br>  </span>
+> _"You never know WHAT is gonna come through that door!"_ <br> <span style="float: right;">—Arno Rickshir <br>  </span>
 
 - Though [[The High Rollers]] were able to recover his stolen goods from kobold thieves, his old man and his son were killed while journeying through the [[Tanglewood Peninsula|Tanglewood]].
 - Owner of Boldriver Pawn Shop, the best place to buy and trade magic items in [[Scrimshaw City]], and anywhere else

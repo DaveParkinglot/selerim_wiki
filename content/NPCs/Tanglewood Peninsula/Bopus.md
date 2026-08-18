@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-08-09T12:43:09.633Z
-published: 2026-08-09T12:43:09.633Z
+modified: 2026-08-18T15:09:48.423Z
+published: 2026-08-18T15:09:48.423Z
 born: 201
 Ancestry: Gnome
 Gender: Male
@@ -48,7 +48,7 @@ Author: Jordan
 # Overview
 
 > [!Quote|author mark no-title]
-> _Well, hey fellas!_  <br> <span style="float: right;">—[[Bopus]] <br>  </span>
+> _"Well, hey fellas!"_  <br> <span style="float: right;">—[[Bopus]] <br>  </span>
 
 ## [[The High Rollers Campaign]]
 
