@@ -4,8 +4,8 @@ aliases:
   - Substance
   - ADM
 created: 2026-03-24T15:06:13.636Z
-modified: 2026-08-18T15:13:00.883Z
-published: 2026-08-18T15:13:00.883Z
+modified: 2026-08-18T15:25:08.369Z
+published: 2026-08-18T15:25:08.369Z
 Author: Jordan
 ---
 
@@ -14,9 +14,9 @@ Author: Jordan
 
 ![[z_assets/ancient_dragon_marrow.png]]
 
-The dried marrow of the ancient dragons killed in the [[Generations' War]] is sacred to the elves of [[Mitlin]], who call it "The Substance". It is a powerful upper that can result in dangerous wild magic surges, depending on the user's constitution.
+The dried marrow of the ancient dragons killed in the [[Generations' War]] is sacred to the elves of [[Mitlin]], who call it the "Substance". It is a powerful upper that can result in dangerous wild magic surges, depending on the user's constitution.
 
-The elves of Mitlin have discovered that the magical properties are similar to that of the [[Violet Bleed]], however, study of The Substance is prohibited by Mitlin's conservative [[Dragon Faithful]].
+The elves of Mitlin have discovered that the magical properties are similar to that of the [[Violet Bleed]], however, study of the Substance is prohibited by Mitlin's conservative [[Dragon Faithful]].
 
 **Mechanically, the item works like this:**
 The marrow can be consumed with a bonus action, granting advantage on the next D20 test made within the next hour.
