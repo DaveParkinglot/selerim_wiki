@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T16:39:25.000Z
-modified: 2026-08-13T19:58:58.036Z
-published: 2026-08-13T19:58:58.036Z
+modified: 2026-08-19T13:21:38.791Z
+published: 2026-08-19T13:21:38.791Z
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -75,7 +75,7 @@ Originally, Crabbley was founded by settlers migrating south from the dreary har
 - **Points of Interest**:
   - Ruined watchtower outside town
   - The Van Gander homestead
-  - [[The Cult of the Crab]] compound
+  - The [[Cult of the Crab]] compound
   - The sparkling Cronium Caves, beneath Crabbley
   - Soggy Bottom Tavern
   - Crab Claw Inn

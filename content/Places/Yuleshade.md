@@ -32,7 +32,7 @@ Appearances:
 >
 > **Population**: 10,000
 >
-> **Government:** [[NPCs/Legends/Krampus.md|Krampus]]
+> **Government:** [[Krampus.md|Krampus]]
 >
 > **Appearances:** [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]]
 
