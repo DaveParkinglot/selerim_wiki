@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T11:47:45.000Z
-modified: 2026-08-13T13:37:55.609Z
-published: 2026-08-13T13:37:55.609Z
+modified: 2026-08-20T11:58:37.014Z
+published: 2026-08-20T11:58:37.014Z
 DM: Ethan
 Platform: Foundry
 Sessions: 1
@@ -132,9 +132,9 @@ It seems the party has saved Tiialia from immanent invasion but left the Tallwoo
 
 ## Players & Characters
 
-| Player              | Character Name                     | Race  | Class     |
-| ------------------- | ---------------------------------- | ----- | --------- |
-| Mike Doom | [[Knight of Confidence]]           | Human | Fighter   |
-| Jordan | [[Hector Fanto-Domingo]]           | Human | Barbarian |
-| Devin |  Murphy]]          | Human | Rogue     |
-| Peter | [[Bobby Dismorphia\|Astral Bobby]] | Orc   | Fighter   |
+| Player              | Character Name                                   | Race  | Class     |
+| ------------------- | ------------------------------------------------ | ----- | --------- |
+| Mike Doom | [[Knight of Confidence]]                         | Human | Fighter   |
+| Jordan | [[Hector Fanto-Domingo]]                         | Human | Barbarian |
+| Devin | [['Playing Card' Murphy\|"Playing Card" Murphy]] | Human | Rogue     |
+| Peter | [[Bobby Dismorphia\|Astral Bobby]]               | Orc   | Fighter   |

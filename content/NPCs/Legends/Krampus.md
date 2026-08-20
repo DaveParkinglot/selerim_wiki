@@ -3,11 +3,10 @@ publish: true
 aliases:
   - The Winter Huntsman
 created: 2025-12-10T00:17:17.000Z
-modified: 2026-08-19T22:46:47.990Z
-published: 2026-08-19T22:46:47.990Z
+modified: 2026-08-20T11:58:50.770Z
+published: 2026-08-20T11:58:50.770Z
 born: -10000
-Ancestry:
-  - Archfey
+Ancestry: Archfey
 Gender: Male
 Location:
   - "[[Yuleshade]]"
