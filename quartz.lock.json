@@ -200,10 +200,11 @@
       "installedAt": "2026-08-02T19:11:42.770Z"
     },
     "quartz-image-zoom": {
-      "source": "https://github.com/vazome/quartz-image-zoom",
-      "resolved": "https://github.com/vazome/quartz-image-zoom",
-      "commit": "eb516f150d95859c31c1fa5507f2fd81b35bbb15",
-      "installedAt": "2026-08-28T12:49:54.386Z"
+      "source": "github:TimoStahl/quartz-image-zoom#spa_fix",
+      "resolved": "https://github.com/TimoStahl/quartz-image-zoom.git",
+      "commit": "ec7ea2049d6e40a28ac3d27f1fc71c935a304dda",
+      "ref": "spa_fix",
+      "installedAt": "2026-08-28T13:57:40.005Z"
     },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",

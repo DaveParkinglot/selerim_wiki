@@ -304,8 +304,7 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-  - source: https://github.com/vazome/quartz-image-zoom
-    ref: #ec7ea2049d6e40a28ac3d27f1fc71c935a304dda
+  - source: github:TimoStahl/quartz-image-zoom#spa_fix
     enabled: true
     options: {}
     order: 50
