@@ -57,7 +57,6 @@ plugins:
     enabled: true
     options:
       theme:
-        light: github-light
         dark: github-dark
       keepBackground: false
     order: 20
@@ -242,7 +241,7 @@ plugins:
       title: Recent Notes
       limit: 5
       showTags: true
-      linkToMore: "recent-notes"
+      linkToMore: recent-notes
       hideTagPages: true
       hideFolderPages: true
     layout:
@@ -284,7 +283,7 @@ plugins:
       themeFonts: false
       theme: its-theme
       variation: drowned
-      mode: both
+      mode: dark
   - source: github:Requiae/quartz-leaflet-bases-plugin
     enabled: true
     options:
@@ -306,6 +305,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: https://github.com/vazome/quartz-image-zoom
+    ref: #ec7ea2049d6e40a28ac3d27f1fc71c935a304dda
     enabled: true
     options: {}
     order: 50
