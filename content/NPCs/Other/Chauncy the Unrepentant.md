@@ -4,8 +4,8 @@ aliases:
   - Sir Chauncy
   - Chauncy the Brave
 created: 2025-08-12T13:01:12.000Z
-modified: 2026-08-11T15:35:27.729Z
-published: 2026-08-11T15:35:27.729Z
+modified: 2026-08-29T13:55:21.000Z
+published: 2026-08-29T13:55:21.000Z
 born: 241
 Ancestry: Fiend (Devil)
 Gender: Male
@@ -64,27 +64,26 @@ Formerly a decorated war hero of [[Tiialia]], brave Sir Chauncy has fallen far a
 
 ## [[Dunland's Raiders]]
 
-- As a brave knight of [[Tiialia]], Chauncy became a war hero after he and [[Dunland's Raiders]] defeated the forces of [[Morganth]] and saved [[Tiialia]] from a demonic invasion.
+As a brave knight of [[Tiialia]], Chauncy became a war hero after he and [[Dunland's Raiders]] defeated the forces of [[Morganth]] and saved [[Tiialia]] from a demonic invasion.
 
 ## [[The High Rollers Campaign]]
 
-- Chauncy put in his lot with the [[Landucci Family]] and betrayed [[The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Otieno]].
+Chauncy put in his lot with the [[Landucci Family]] and betrayed [[The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Otieno]].
 
 ## [[The Hellnight Soirée]]
 
-- After his death, he battled on the fiery plains of Avernus for a time before he somehow made his way to the Prison Plane of Carceri, where he now works to earn his freedom from a powerful Soul Dealer.
-- He attempted to barge into [[The Hellnight Soirée|Hellnight Soirée]], but was soundly defeated and sent back to the Lower Planes by a group of brave bouncers.
+After his death, he battled on the fiery plains of Avernus for a time before he somehow made his way to the Prison Plane of Carceri, where he worked to earn his freedom from a powerful Soul Dealer. He attempted to barge into [[The Hellnight Soirée|Hellnight Soirée]], but was soundly defeated and sent back to the Lower Planes by a group of brave bouncers.
 
 ## [[Bobby's Bachelor Birthday Bender]]
 
-- Chauncy was spotted by Bobby and his boys attempting to escape the lower planes through Pazunia, first layer of the Infinite Abyss.
-- He was quickly entangled by Uncle Bobson's vines, and the boys promptly beat him to death, presumably sending him back to the Nine Hells.
+Chauncy was spotted by [[Bobby Dismorphia|Bobby]] and his boys attempting to escape the lower planes through [[Pazunia]], first layer of the Infinite Abyss.
+He was quickly entangled by Uncle Bobson's vines, and the boys promptly beat him to death, presumably sending him back to the Nine Hells.
 
 ### [[Escape from the Fathomless Vault]]
 
 Chauncy was hunting for an entrance for the Fathomless Vault at the same time as [[Player Characters/Bobby's Boys/index|Bobby's Boys]]. They allied for a short time, making a fey promise to not fight until they located [[The High Rollers]] in the vault. Chauncy claimed that he wanted to retrieve something that The High Rollers took from him.
 
-When the group located The High Rollers, Chauncy shot the paralyzed [[Otieno]] twice in the back with his Acheron crossbow. He was defeated after [[David Hellscream]] knocked him into the Astral Sea.
+When the group located The High Rollers, Chauncy shot the paralyzed [[Otieno]] twice in the back with his Acheron crossbow, repaying him for his mortal death. Chauncy was defeated after [[David Hellscream]] knocked him into the Astral Sea.
 
 # Attributes
 

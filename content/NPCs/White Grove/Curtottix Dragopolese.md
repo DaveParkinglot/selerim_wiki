@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T15:03:19.686Z
-published: 2026-07-28T15:03:19.686Z
+modified: 2026-08-29T12:52:04.000Z
+published: 2026-08-29T12:52:04.000Z
 born: 259
 Ancestry: Kobold
 Gender: Male
@@ -47,7 +47,7 @@ Author: Jordan
 # Overview
 
 - A young kobold hailing from the underground city of [[Vlorngroth]], currently studying at [[White Grove]]
-- He escaped to the surface, following his uncle [[Shemcriz]], but got lost in Nova Jersaeria.
+- He escaped to the surface, following his uncle [[Shemcriz Dragopolese]], but got lost in Nova Jersaeria.
 - Showing a hint of magical talent, he was allowed admittance to White Grove.
 - Fellow students love how down to earth and relatable he is.
 
@@ -60,8 +60,9 @@ Author: Jordan
 
 # Relationships
 
-| Name                 | Relationship |
-| -------------------- | ------------ |
-| [[Vowel Noosins]]    | Study buddy  |
-| [[Vyvian Wynter]]    | Study buddy  |
-| [[Stibby Flimstock]] | Study buddy  |
+| Name                     | Relationship |
+| ------------------------ | ------------ |
+| [[Vowel Noosins]]        | Study buddy  |
+| [[Vyvian Wynter]]        | Study buddy  |
+| [[Stibby Flimstock]]     | Study buddy  |
+| [[Shemcriz Dragopolese]] | Uncle        |

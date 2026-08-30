@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-11T15:31:01.668Z
-published: 2026-08-11T15:31:01.668Z
+modified: 2026-08-24T15:25:11.173Z
+published: 2026-08-24T15:25:11.173Z
 born: 243
 Ancestry: Troll
 Gender: Male
@@ -62,7 +62,7 @@ Author: Jordan
 
 - Pudding was seen talking with [[Hugh Mann]] in The High Roller Bar & Gift Shop.
 
-### [[Escape from the Fathomless Vault]]
+## [[Escape from the Fathomless Vault]]
 
 Pudding was hiding in a large suit of armor, working with [[Hugh Mann]] in disguise. Mann was masquerading as Professor [[Daemon Darkfyre]], and he was using Pudding as security.
 
