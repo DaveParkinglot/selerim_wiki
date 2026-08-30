@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - Proklor
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-13T15:20:11.197Z
-published: 2026-08-13T15:20:11.197Z
+modified: 2026-08-30T14:38:01.267Z
+published: 2026-08-30T14:38:01.267Z
 born: -7505
 Ancestry: Drow, Draegloth
 Gender: Male
@@ -11,6 +13,7 @@ Location:
 Role:
   - Villain
   - Destroyer of Worlds
+  - Prince of Draegloths
 Affiliation:
   - "[[Vlorngroth]]"
 Appearances:
@@ -19,7 +22,6 @@ Appearances:
 Status: Alive
 Author: Jordan
 tags:
-aliases:
 ---
 
 > [!infobox|right]
@@ -38,7 +40,7 @@ aliases:
 >
 > **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
 >
-> **Role**: Villain, Destroyer of Worlds
+> **Role**: Villain, Destroyer of Worlds, Prince of Draegloths
 >
 > **Affiliation:** [[Places/Vlorngroth.md|Vlorngroth]]
 >
@@ -50,7 +52,7 @@ aliases:
 
 Proklor is an ancient, legendary draegloth demigod who has ravaged kingdoms across dozens of worlds on the myriad material planes. He participated in the [[Nameless War]] that sundered the world of Selerim, fighting on the side of the [Dark Seldarine](https://5e.tools/deities.html#ghaunadaur_drow_mtf,flstcategory:the%20dark%20seldarine=1).
 
-He usually resides in the Demonweb Pits, the layer of the Abyss that Lolth lays claim to. The Spider Queen only breaks him out for special occasions, lending his services to drow leaders on worlds she has an interest in. Supposedly, he has a spiritual shard of [[Tharizdun]] contained within him, which gives him enormous power.
+He usually resides in the Demonweb Pits, the layer of the Abyss that Lolth lays claim to. The Spider Queen only breaks him out for special occasions, lending his services to drow leaders on worlds she has an interest in. Supposedly, he has a spiritual shard of [[Tharizdun]] contained within him, which gives him enormous power. His weapons of choice are his greatswords: Thirst and Slaughter.
 
 ## [[Vlorngroth - The Manor of Madness]]
 

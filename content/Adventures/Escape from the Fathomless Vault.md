@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T13:24:00.000Z
-modified: 2026-08-18T15:12:48.655Z
-published: 2026-08-18T15:12:48.655Z
+modified: 2026-08-30T13:41:44.232Z
+published: 2026-08-30T13:41:44.232Z
 DM: Jordan
 Platform:
   - Foundry
@@ -141,7 +141,7 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 - Due to time dilation in the Feywild, months had gone by in the material plane, and [[Hugh Mann]] was scrambling to return to [[Scrimshaw City]]. He hastily described the current situation to the party:
   - "An invading force from the Underdark came to the surface. They have taken the eastern cities of Fordsfaire and Aldaris."
   - "Amongst their ranks is an unbeatable demonic demigod."
-  - "To make matters worse the [[Antonino Esposito|king of Tiialia]] is missing or dead..."
+  - "To make matters worse, I received word today that [[Antonino Esposito|King Antonino Esposito I of Tiialia]] may have been [[The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy|assassinated]] in [[Batistallas]]."
 
 # Players & Characters
 

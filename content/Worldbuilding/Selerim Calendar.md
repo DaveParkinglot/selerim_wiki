@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-26T14:29:29.000Z
-modified: 2026-08-07T23:41:43.248Z
-published: 2026-08-07T23:41:43.248Z
+modified: 2026-08-30T15:05:01.409Z
+published: 2026-08-30T15:05:01.409Z
 Author: Jordan
 ---
 
@@ -14,7 +14,7 @@ Used broadly by most of the world, this calendar was created during the reign of
 | -------- | --- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Avaurus  | 1   | Winter | The first month of each year is dedicated to [Avandra](https://5e.tools/deities.html#avandra_dawn%20war_dmg,fbsr:avandra), the widely worshipped goddess of change and luck. Her festival day of New Dawn is on the first day of this month.                                                                    |
 | Rimefall | 2   | Spring | An evolution of "Rime's Fall". Scholars believe this originated from dwarves of an unknown world. The histories of just what or who "Rime" was are unclear, but the name now denotes the beginning of the Spring season.                                                                                        |
-| Brine    | 3   | Spring | The third month celebrates the life and work of gnomish philosopher [[Brin]], who codified the importance of "the rule of three", discovered dry brining, and founded the religion [[Brinism]].                                                                                                                 |
+| Brine    | 3   | Spring | The third month celebrates the life and works of forgotten gnomish philosopher.                                                                                                                                                                                                                                 |
 | Japel    | 4   | Spring | This name was selected from an antiquated elvish calendar from a world destroyed millennia ago in the [[Nameless War]]. Scholarly research suggests that fey goblins used to congregate during this time to spread japes and jests.                                                                             |
 | Sel      | 5   | Summer | The advent of the summer brings the heat of Seladel, the name the elves gave to Selerim's solitary, life-giving star.                                                                                                                                                                                           |
 | Redwar   | 6   | Summer | The Tiialan month of war is named for one of their most revered deities, [The Red Knight](https://5e.tools/deities.html#the%20red%20knight_faer%c3%bbnian_frhof). The greatest conquests of [[Tiialia]], including the Salting of [[Corrodreth]] were accomplished in this month.                               |
