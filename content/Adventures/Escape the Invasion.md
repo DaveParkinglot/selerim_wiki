@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-08-30 15:07:29 UTC
-modified: 2026-08-30T15:17:51.341Z
-published: 2026-08-30T15:17:51.341Z
+created: 2026-08-30 14:07:29 UTC
+modified: 2026-08-30T15:46:27.273Z
+published: 2026-08-30T15:46:27.273Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
