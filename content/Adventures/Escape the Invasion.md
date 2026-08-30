@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-21T13:30:12.000Z
-modified: 2026-08-30T15:06:29.830Z
-published: 2026-08-30T15:06:29.830Z
+modified: 2026-08-30T15:07:29.700Z
+published: 2026-08-30T15:07:29.700Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -39,7 +39,7 @@ Classes:
 > ![[z_assets/fordsfaire_ablaze.png|400]]
 >
 > > [!caption|center]
-> > Fordsfaire during the [[Vlorn Dynasty|Vlorn]] invasion
+> > Fordsfaire during the [[Vlorn Dynasty|Vlorn]] Invasion
 >
 > ## Details
 >

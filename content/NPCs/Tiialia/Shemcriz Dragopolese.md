@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-29T12:55:47.000Z
-published: 2026-08-29T12:55:47.000Z
+modified: 2026-08-30T15:16:29.933Z
+published: 2026-08-30T15:16:29.933Z
 born: 244
 Ancestry: Kobold
 Gender: Male
@@ -16,6 +16,7 @@ Affiliation:
   - None
 Appearances:
   - "[[The High Rollers Campaign]]"
+  - "[[Escape the Invasion]]"
 Status: Alive
 Author: Jordan
 ---
@@ -40,7 +41,7 @@ Author: Jordan
 >
 > **Affiliation:** None
 >
-> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Escape the Invasion.md|Escape the Invasion]]
 >
 > **Status:** Alive
 
@@ -50,7 +51,7 @@ Shemcriz is a sturdy, thick, and hapless kobold who gets in way over his head wa
 
 ## [[Escape the Invasion]]
 
-Shemcriz was present during the [[Vlorn Dynasty|Vlorn]] invasion of Fordsfaire. He was locked up in Trispire Prison for attempting to steal a liquor license when the invasion began. Luckily, he was released from his cell by a group of outlaws. He then assisted them in fleeing the burning city.
+Shemcriz was present during the [[Vlorn Dynasty|Vlorn]] invasion of Fordsfaire. He was locked up in Trispire Prison for attempting to steal a liquor license when the invasion began. Luckily, he was released from his cell by a group of escaping prisoners. He then assisted them in fleeing the burning city.
 
 # Attributes
 

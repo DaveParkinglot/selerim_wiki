@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-02T16:18:30.000Z
-modified: 2026-08-04T23:33:59.463Z
-published: 2026-08-04T23:33:59.463Z
+modified: 2026-08-30T15:14:30.165Z
+published: 2026-08-30T15:14:30.165Z
 born: 231
 Ancestry:
   - Goblin
@@ -18,6 +18,7 @@ Affiliation:
 Appearances:
   - "[[Vlorngroth - 2 Manor 2 Madness]]"
   - "[[Vlorngroth - Vampire Weekday]]"
+  - "[[Escape the Invasion]]"
 Status: Alive
 Author: Jordan
 ---
@@ -42,7 +43,7 @@ Author: Jordan
 >
 > **Affiliation:** None
 >
-> **Appearances:** [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]], [[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]]
+> **Appearances:** [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]], [[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]], [[Adventures/Escape the Invasion.md|Escape the Invasion]]
 >
 > **Status:** Alive
 
@@ -50,7 +51,7 @@ Author: Jordan
 
 Morbus is a disgusting goblin kobold hybrid, further mutated by experiments done to him by [[Count Calloway Duskveil]]. On more than one occasion, Morbus' body has been entirely dismantled while doing odd jobs for Count Duskveil, but he is always stitched back together by his master.
 
-Morbus is fiercely loyal to Duskveil, and claims to be the longest tenured familiar in the employe of Count Duskveil with 16 dedicated years of service.
+Morbus is fiercely loyal to Count Duskveil, and claims to be the longest tenured familiar in the employ of the Count, with 16 dedicated years of service.
 
 # Attributes
 

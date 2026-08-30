@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Proklor
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-30T14:38:01.267Z
-published: 2026-08-30T14:38:01.267Z
+modified: 2026-08-30T15:15:34.255Z
+published: 2026-08-30T15:15:34.255Z
 born: -7505
 Ancestry: Drow, Draegloth
 Gender: Male
@@ -19,6 +19,7 @@ Affiliation:
 Appearances:
   - "[[Vlorngroth - The Manor of Madness]]"
   - "[[The High Rollers Campaign]]"
+  - "[[Escape the Invasion]]"
 Status: Alive
 Author: Jordan
 tags:
@@ -44,7 +45,7 @@ tags:
 >
 > **Affiliation:** [[Places/Vlorngroth.md|Vlorngroth]]
 >
-> **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+> **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Escape the Invasion.md|Escape the Invasion]]
 >
 > **Status:** Alive
 
@@ -59,6 +60,10 @@ He usually resides in the Demonweb Pits, the layer of the Abyss that Lolth lays 
 Proklor was summoned by a group of Vlorn Inquisitor initiates during the events of [[Vlorngroth - The Manor of Madness]].
 
 To cow pride of the inquisitors, Proklor shared that he was plucked from the cradle by the goddess [Lolth](https://5e.tools/deities.html#lolth_faer%c3%bbnian_frhof) herself and turned into a draegloth thousands of years ago.
+
+## [[Escape the Invasion]]
+
+Proklor led the Invasion of Fordsfaire, fully conquering the city in a single night.
 
 # Attributes
 
