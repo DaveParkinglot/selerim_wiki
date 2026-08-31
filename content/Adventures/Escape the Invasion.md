@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-30 14:07:29 UTC
-modified: 2026-08-30T15:46:27.273Z
-published: 2026-08-30T15:46:27.273Z
+modified: 2026-08-31T12:33:04.000Z
+published: 2026-08-31T12:33:04.000Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -23,7 +23,7 @@ Characters:
 Races:
   - Human
   - Human
-  - Human
+  - Drow
   - Halfling
 Classes:
   - Barbarian
@@ -69,7 +69,8 @@ A gang of vampires led by the disgusting cretin [[Morbus]] discovered the fleein
 
 - Chuhm met a fitting end, and was flattened when a building fell on him. He just barely missed being [[chuhms_demise.png|reverse defenestrated]].
 - Dex stopped to assist a mother and child, and was vaporized when an arcane cannister—fired from a trebuchet beyond the city's walls—landed on his head.
-  The other prisoners, including Shemcriz, Ogen, and Bernard, barely managed to hop over a babbling brook. This running water stopped the vampire horde in its tracks, and the group escaped the soon-to-be conquered city of Fordsfaire. As they fled out the southwest gate, prisoner Tony "Two-Hands", a forgettable background character, defiantly made masturbatory gesticulations at the invaders.
+
+The other prisoners, including Shemcriz, Ogen, and Bernard, barely managed to hop over a babbling brook. This running water stopped the vampire horde in its tracks, and the group escaped the soon-to-be conquered city of Fordsfaire. As they fled out the southwest gate, prisoner Tony "Two-Hands", a forgettable background character, defiantly made masturbatory gesticulations at the invaders.
 
 # Players & Characters
 
@@ -77,5 +78,5 @@ A gang of vampires led by the disgusting cretin [[Morbus]] discovered the fleein
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Chuhm "The Defenestrator" | Human | Barbarian |
 | Otto | Ogden Toboggden | Human | Warlock |
-| Peter | Bernard Archibault | Human | Sorcerer |
+| Peter | Bernard Archibault | Drow | Sorcerer |
 | Mike Doom | Dex Pendable | Halfling | Paladin |
