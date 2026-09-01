@@ -1,0 +1,63 @@
+---
+publish: true
+created: 2025-07-21T15:30:44.000Z
+modified: 2026-07-28T14:50:04.562Z
+published: 2026-07-28T14:50:04.562Z
+born: 136
+Ancestry: Elf
+Gender: Male
+Location:
+  - "[[Mitlin]]"
+Role:
+  - Lead Ranger
+Affiliation:
+  - Mitlin
+Appearances:
+  - "[[The High Rollers Campaign]]"
+  - "[[Kindlethicket - Envoys of Mitlin]]"
+  - "[[Kindlethicket - The Winter Hunt]]"
+  - "[[The Marrowsucker Contract]]"
+Status: Alive
+Author: Jordan
+---
+
+> [!infobox|right]
+>
+> ## Lebion Phlegathon
+>
+> ![[z_assets/lebion_plegathon.png|300]]
+>
+> ## Details
+>
+> **Age:** 130 years
+>
+> **Ancestry**: Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Mitlin.md|Mitlin]]
+>
+> **Role**: Lead Ranger
+>
+> **Affiliation:** Mitlin
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
+>
+> **Status:** Alive
+
+# Overview
+
+[[Mitlin]]'s lead ranger, wields a greatsword and wears heavier armor than most other rangers in Mitlin.
+
+# Attributes
+
+- **Voice**: Slightly pompous
+- **Traits**: Fiercely loyal
+- **Goals:** Protect Mitlin from all threats
+- **Appearance**: Greatsword, chain mail, longbow
+
+# Relationships
+
+| Name                  | Relationship |
+| --------------------- | ------------ |
+| [[Melvin Oaksleeves]] | Leader       |
