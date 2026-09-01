@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-27T21:24:16.000Z
-modified: 2026-08-13T12:31:05.877Z
-published: 2026-08-13T12:31:05.877Z
+modified: 2026-08-31T19:42:50.006Z
+published: 2026-08-31T19:42:50.006Z
 DM: Ethan
 Platform: Foundry
 Sessions: 1
@@ -39,7 +39,7 @@ Classes:
 > ![[z_assets/robertos_birthday_gala.png|600]]
 >
 > > [!caption|center]
-> > The long-awaited birthday gala of young Roberto Batista
+> > The long-awaited birthday gala of young [[Roberto Batista]]
 >
 > ## Details
 >

@@ -3,14 +3,16 @@ publish: true
 aliases:
   - Substance
   - ADM
+  - Dragon Dust
+  - Marrow Dust
 created: 2026-03-24T15:06:13.636Z
-modified: 2026-08-19T13:21:17.822Z
-published: 2026-08-19T13:21:17.822Z
+modified: 2026-09-01T11:59:00.390Z
+published: 2026-09-01T11:59:00.390Z
 Author: Jordan
 ---
 
 > [!Quote|author mark no-title]
-> _"[[The Forsaken Expanse]] is littered with dragon bones that can wreck a sandskiff, <br> but that dragon bone marrow still contains the magics of those long-dead wyrms. <br> It's quite the kick, or so I've heard."_ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]], <br> to [[The High Rollers]] </span>
+> _"[[The Forsaken Expanse]] is littered with <br> dragon bones that can wreck a sandskiff, <br> but that dragon bone marrow still contains <br> the magics of those long-dead wyrms. <br> It's quite the kick, or so I've heard."_ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]], <br> to [[The High Rollers]] </span>
 
 ![[z_assets/ancient_dragon_marrow.png]]
 
