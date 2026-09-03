@@ -202,9 +202,9 @@
     "quartz-image-zoom": {
       "source": "github:TimoStahl/quartz-image-zoom#spa_fix",
       "resolved": "https://github.com/TimoStahl/quartz-image-zoom.git",
-      "commit": "ec7ea2049d6e40a28ac3d27f1fc71c935a304dda",
+      "commit": "244bac78ab8cc71041525e052b3bb8ec9b2931c8",
       "ref": "spa_fix",
-      "installedAt": "2026-08-28T13:57:40.005Z"
+      "installedAt": "2026-09-03T15:39:54.090Z"
     },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
