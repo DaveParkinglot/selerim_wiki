@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-11-03T23:37:06.000Z
-modified: 2026-06-14T14:55:31.193Z
-published: 2026-06-14T14:55:31.193Z
+modified: 2026-09-03T16:10:31.744Z
+published: 2026-09-03T16:10:31.744Z
 DM: Mike Doom
 Platform: Foundry
 Sessions: 8
@@ -42,13 +42,21 @@ Classes:
   - Bard
 ---
 
-# Details
-
-- **DM**: Mike Doom
-- **Platform:** Foundry
-- **Sessions:** 8
-- **Run Dates:** 2025-03-12 - 2025-07-02
-- **In-World Dates:** 5050-01-01T00:00:00.000-05:00 - 5050-04-28T00:00:00.000-04:00
+> [!infobox|right]
+>
+> ## Selerim 5K
+>
+> ## Details
+>
+> **DM**: Mike Doom
+>
+> **Platform**: Foundry
+>
+> **Sessions**: 8
+>
+> **Run Dates**: 2025-03-12 - 2025-07-02
+>
+> **In-World Dates**: January 01, 5050 - April 28, 5050
 
 # Adventure Premise
 

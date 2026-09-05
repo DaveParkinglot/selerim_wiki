@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T13:24:00.000Z
-modified: 2026-08-30T13:41:44.232Z
-published: 2026-08-30T13:41:44.232Z
+modified: 2026-09-05T12:27:05.393Z
+published: 2026-09-05T12:27:05.393Z
 DM: Jordan
 Platform:
   - Foundry
@@ -101,9 +101,9 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 
 ### The Umbral Vale
 
-- The boys parleyed with [[Chauncy the Unrepentant]] at the edge of the Umbral Vale, making a fey promise that they would not interfere or attack him while they work toward a common goal: infiltrating the Fathomless Vault and locating [[The High Rollers]].
-- Chauncy was dodgy about his motives, but he insisted he would not harm the party and that he simply wished to take back "something that The High Rollers took from me". Chauncy split from the party to search for an entrance to the vault, but he gave them a sending stone to communicate with.
-- [[Temur Octagon]], fearing for his life in the dreaded Umbral Vale, insists upon hiding inside a bag of holding, only occasionally coming up for air and light beers courtesy of Bobby.
+- The boys parleyed with [[Chauncy the Unrepentant]] at the edge of the Umbral Vale, making a Fey Promise to not interfere or attack him while they worked toward a common goal: infiltrating the Fathomless Vault to locate [[The High Rollers]].
+- Chauncy was dodgy about his motives, but he insisted he would not harm the party and that he simply wished to take back "something that The High Rollers stole from him". Chauncy split from the party to search for an entrance to the vault, but he gave them a sending stone to communicate with.
+- [[Temur Octagon]], fearing for his life in the dreaded Umbral Vale, insisted upon hiding inside Bobby's bag of holding, only occasionally coming up for air and light beers.
 - Nearing the ringed city at the center of the Umbral Vale, the boys hear the booming voice of [[Tadeusz]] emanate from the Tome of Collection that Quarf holds:
 
 > [!Quote|author mark no-title]
@@ -116,7 +116,7 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 - While traversing the corrupt Umbral Vale, Bobby nearly was possessed by the will of a dead god, but the party helped him escape the madness.
 - The boys also encountered a tree in the process of falling over, in the middle of an uncorrupted grove. It begged them to tell true stories to it before it died. All the boys shared true tales of their lives, except for Quarf, who fabricated a tale of pride and debauchery. The tree became a shambling mound, which nearly overwhelmed the boys.
 - At the edge of the Umbral Vale, the sky was alight with a horrid glare. The boys hid in the withered tree line while plotting a way to get through the wall into the ruins. The boys spotted [[Fumbo Bimpis]] and a Goose Hydra guarding a nearby breach in the ruined wall of the ringed city.
-- Everyone except Quarf hopped in the bag of holding. Quarf then snuck up to the ruined wall and used Boarman's Porkpie Hat of Boarmancy to create a tunnel through it.
+- Everyone except Quarf hopped into the bag of holding. Quarf then snuck up to the ruined wall and used Boarman's Porkpie Hat of Boarmancy to create a tunnel through it.
 
 ### The Vault
 
@@ -132,8 +132,8 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 - Chauncy began to attack the boys, dealing significant damage with his infernal weaponry. He proved a very fearsome opponent, nearly taking down both David and Bobby.
 - Looking out the now unraveling walls of the exhibit into the Astral Sea, the boys realized that they had to quickly make an escape before the entire Fathomless Vault decomposed.
 - In a flash of genius, David Hellscream chopped the decaying floorboards out from beneath Chauncy's feet, sending him spiraling out into the Astral Sea.
-- David retrieved a note dropped by Chauncy in the melee: a declined application to join [[Pazuzu]]’s Pals.
-- After Chauncy was dealt with, the boys collected [[The High Rollers]] into their bag of holding and used Tzastis' controller to escape the unraveling Fathomless Vault.
+- David retrieved a note dropped by Chauncy: a declined application to join [[Pazuzu]]’s Pals.
+- With Chauncy adrift in the Astral Sea, the boys collected the remaining High Rollers in their bag of holding and used Tzastis' controller to escape the unraveling Fathomless Vault.
 
 ### Epilogue
 
