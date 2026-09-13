@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:34:20.218Z
-published: 2026-07-21T15:34:20.218Z
+modified: 2026-09-13T02:16:03.731Z
+published: 2026-09-13T02:16:03.731Z
 DM: Mike Doom
 Platform: Roll20
 Sessions: 1
@@ -67,7 +67,7 @@ You and your team have been sent by the [[Galgitch the Afterking|Afterking]] to 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Lute Bardwalker | Drow | Bard |
 | Logan | David Bluke | Half-Elf | Rogue |

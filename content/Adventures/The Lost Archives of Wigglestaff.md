@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:33:58.175Z
-published: 2026-07-21T15:33:58.175Z
+modified: 2026-09-13T02:16:00.210Z
+published: 2026-09-13T02:16:00.210Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -77,7 +77,7 @@ Investigate what Redtusk is doing on the island of the wizard Wigglestaff, and b
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Kyle | Crank Creamsicle | Half-Elf | Paladin |
 | Larry | Shume Lettux | Tortle | Barbarian |

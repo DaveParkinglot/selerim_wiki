@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-27T21:24:16.000Z
-modified: 2026-08-31T19:42:50.006Z
-published: 2026-08-31T19:42:50.006Z
+modified: 2026-09-13T02:15:32.363Z
+published: 2026-09-13T02:15:32.363Z
 DM: Ethan
 Platform: Foundry
 Sessions: 1
@@ -74,7 +74,7 @@ All through Nova Jersaeria, word has spread that [[Lord Zalvidar Batista|Lord Za
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Asana Totashi | Human | Monk |
 | Mike Doom | Jaguar | Tabaxi | Rogue |

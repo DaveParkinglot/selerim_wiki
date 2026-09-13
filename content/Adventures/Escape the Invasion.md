@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-30 14:07:29 UTC
-modified: 2026-08-31T12:33:04.000Z
-published: 2026-08-31T12:33:04.000Z
+modified: 2026-09-13T02:15:02.173Z
+published: 2026-09-13T02:15:02.173Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -74,7 +74,7 @@ The other prisoners, including Shemcriz, Ogen, and Bernard, barely managed to ho
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Chuhm "The Defenestrator" | Human | Barbarian |
 | Otto | Ogden Toboggden | Human | Warlock |

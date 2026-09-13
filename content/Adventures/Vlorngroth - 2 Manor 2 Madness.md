@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T16:00:36.610Z
-published: 2026-07-21T16:00:36.610Z
+modified: 2026-09-13T02:16:15.687Z
+published: 2026-09-13T02:16:15.687Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -71,7 +71,7 @@ His ancestral manse, the converted Duskveil Asylum (aka The Manor of Madness) wa
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Peter | Pedgar Barkov | Drow | Rogue |
 | Laura | Meldryd the Babysitter | Drow | Ranger |

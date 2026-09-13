@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-04T00:47:11.000Z
-modified: 2026-07-21T15:31:24.464Z
-published: 2026-07-21T15:31:24.464Z
+modified: 2026-09-13T02:15:36.716Z
+published: 2026-09-13T02:15:36.716Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -65,7 +65,7 @@ Binky believes the situation to be grim, and has said as much:  "The El Preside
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Laura | Bianca “Mad Dog” Bianchi | Goliath | Warlock |
 | Gorrie | Colin Forbackup | Orc | Cleric |

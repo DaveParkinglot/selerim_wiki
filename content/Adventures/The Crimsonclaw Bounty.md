@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-08-13T12:30:47.940Z
-published: 2026-08-13T12:30:47.940Z
+modified: 2026-09-13T02:15:29.787Z
+published: 2026-09-13T02:15:29.787Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -67,7 +67,7 @@ Whoever your character is, whether brave or foolish, they will soon leave the sa
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Jaemee Babaganoush | Human | Wizard |
 | Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|"Playing Card" Murphy]] | Human | Rogue |

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-22T12:02:27.000Z
-modified: 2026-08-13T12:31:42.527Z
-published: 2026-08-13T12:31:42.527Z
+modified: 2026-09-13T02:16:24.510Z
+published: 2026-09-13T02:16:24.510Z
 DM: Ethan
 Platform: Foundry
 Sessions: 4
@@ -97,7 +97,7 @@ You and other intriguing characters have arrived at the harbor of [[Nova Jersaer
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Asana Totashi | Human | Monk |
 | Mike Doom | [[Player Characters/The Stacked Deck/Knight of Confidence.md\|Knight of Confidence]] | Human | Fighter |

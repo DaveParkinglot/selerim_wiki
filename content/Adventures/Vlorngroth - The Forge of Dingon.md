@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T17:27:33.288Z
-published: 2026-07-21T17:27:33.288Z
+modified: 2026-09-13T02:16:17.849Z
+published: 2026-09-13T02:16:17.849Z
 DM: Jordan
 Platform: Roll20
 Sessions: 1
@@ -70,7 +70,7 @@ Dyksin and his fellow traitors are holed up at the Forge of Dingon, and initial 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Alela | Drow | Paladin |
 | Mike Doom | Sister Katharine Voidstone | Drow | Cleric |

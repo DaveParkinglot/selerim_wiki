@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-30T16:05:28.000Z
-modified: 2026-07-21T15:33:52.852Z
-published: 2026-07-21T15:33:52.852Z
+modified: 2026-09-13T02:15:50.430Z
+published: 2026-09-13T02:15:50.430Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -77,7 +77,7 @@ He is seeking a group of adventurers to navigate the Tanglewood and locate the s
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Laura | Shrimba Scrampi | Genasi | Warlock |
 | Gorrie | Crodd Farmington | Human | Fighter |

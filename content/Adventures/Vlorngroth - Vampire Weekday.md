@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T14:23:37.000Z
-modified: 2026-08-13T15:14:51.350Z
-published: 2026-08-13T15:14:51.350Z
+modified: 2026-09-13T02:16:22.041Z
+published: 2026-09-13T02:16:22.041Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -69,7 +69,7 @@ While he is abroad, [[Count Calloway Duskveil]] has commanded his lowly familiar
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Nemata | Duergar | Fighter |
 | Ethan | Bombus Mitz | Drow | Cleric |

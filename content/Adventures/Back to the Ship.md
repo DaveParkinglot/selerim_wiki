@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-14T14:47:35.000Z
-modified: 2026-08-19T22:42:59.789Z
-published: 2026-08-19T22:42:59.789Z
+modified: 2026-09-13T02:14:50.295Z
+published: 2026-09-13T02:14:50.295Z
 DM: Jordan
 Players:
   - Mike Doom
@@ -64,7 +64,7 @@ While working on a routine [[Giftmas]] delivery in the [[Krampus]] System, you a
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Mike Doom | Francis "Voidstrider" De Luca | Human | Cleric |
 | Ethan | Cran Halcard | Human | Rogue |

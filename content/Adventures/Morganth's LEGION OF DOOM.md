@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:28:45.665Z
-published: 2026-07-21T15:28:45.665Z
+modified: 2026-09-13T02:15:12.129Z
+published: 2026-09-13T02:15:12.129Z
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -68,7 +68,7 @@ As a devoted member of [[Morganth's LEGION OF DOOM|MORGANTH'S LEGION OF DOOM]], 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Kyle | Papa Vince | Human | Ranger |
 | Laura | Bianca “Mad Dog” Bianchi | Goliath | Warlock |

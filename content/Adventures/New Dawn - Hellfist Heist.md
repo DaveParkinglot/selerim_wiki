@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T13:11:09.000Z
-modified: 2026-07-21T15:28:53.130Z
-published: 2026-07-21T15:28:53.130Z
+modified: 2026-09-13T02:15:13.736Z
+published: 2026-09-13T02:15:13.736Z
 DM: Jordan
 Players:
   - David
@@ -71,7 +71,7 @@ As a member of Caleb's crew, you will secretly attend this meet and make a play 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | David | Keylene | Goliath | Barbarian |
 | Steph | Ahna | Human | Ranger |

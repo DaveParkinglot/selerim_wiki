@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:26:25.465Z
-published: 2026-07-21T15:26:25.465Z
+modified: 2026-09-13T02:14:47.357Z
+published: 2026-09-13T02:14:47.357Z
 DM: Jordan
 Platform: Foundry
 Sessions: 2
@@ -70,7 +70,7 @@ Before their untimely demise, the party saw several objects stolen from [[The Sp
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Peter | Cowman Shisito | Half-Elf | Cleric |
 | George | Stanway Pegasus | Human | Wizard |

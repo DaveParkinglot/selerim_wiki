@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:28:06.963Z
-published: 2026-07-21T15:28:06.963Z
+modified: 2026-09-13T02:15:05.729Z
+published: 2026-09-13T02:15:05.729Z
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -72,7 +72,7 @@ With all its rangers out ranging and its fighters out fighting, Mitlin needs sta
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Cale | Bingus | Dwarf | Barbarian |
 | Laura | Topaz Algus | Tiefling | Monk |

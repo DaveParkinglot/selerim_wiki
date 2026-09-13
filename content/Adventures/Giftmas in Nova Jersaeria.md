@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T19:37:56.000Z
-modified: 2026-07-21T15:27:58.793Z
-published: 2026-07-21T15:27:58.793Z
+modified: 2026-09-13T02:15:04.160Z
+published: 2026-09-13T02:15:04.160Z
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -68,7 +68,7 @@ It's [[Giftmas]] Eve in [[Nova Jersaeria]]! [[Barl Nilewski]] the Boli Gnome is 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Jessa | Nutmeg Winnipeg | Dwarf | Paladin |
 | Laura | Jingle Jangle | Goliath | Fighter |

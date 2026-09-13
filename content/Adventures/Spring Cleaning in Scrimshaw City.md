@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:29:56.072Z
-published: 2026-07-21T15:29:56.072Z
+modified: 2026-09-13T02:15:23.235Z
+published: 2026-09-13T02:15:23.235Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -62,7 +62,7 @@ Every year, demons from across Selerim (and beyond) converge on [[Scrimshaw City
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Mike Doom | David Hellscream | Orc | Fighter |
 | Laura | Bianca “Mad Dog” Bianchi | Goliath | Warlock |

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T13:24:00.000Z
-modified: 2026-09-05T12:27:05.393Z
-published: 2026-09-05T12:27:05.393Z
+modified: 2026-09-13T02:14:59.972Z
+published: 2026-09-13T02:14:59.972Z
 DM: Jordan
 Platform:
   - Foundry
@@ -145,7 +145,7 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | [[Player Characters/Bobby's Boys/Quarf Lustigoff.md\|Quarf Lustigoff]] | Astral Elf | Bard |
 | Peter | [[Player Characters/Bobby's Boys/Bobby Dismorphia.md\|Bobby Dismorphia]] | Orc | Fighter |

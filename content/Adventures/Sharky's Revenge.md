@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:29:46.215Z
-published: 2026-07-21T15:29:46.215Z
+modified: 2026-09-13T02:15:21.040Z
+published: 2026-09-13T02:15:21.040Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -64,7 +64,7 @@ It has been 39 years to the day that [[Captain Winchester Bone]] was forced to t
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Fingus Bingus | Half-Elf | Bard |
 | Mike Doom | Curly | Human | Fighter |

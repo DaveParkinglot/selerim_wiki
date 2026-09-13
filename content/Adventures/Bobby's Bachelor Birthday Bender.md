@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T17:22:17.000Z
-modified: 2026-07-21T15:27:08.937Z
-published: 2026-07-21T15:27:08.937Z
+modified: 2026-09-13T02:14:53.247Z
+published: 2026-09-13T02:14:53.247Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -78,7 +78,7 @@ Bobby Dismorphia, [[Borfield]]'s most eligible bachelor, has finally found roman
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Peter | Bobby Dismorphia | Orc | Fighter |
 | Otto | Squeembo Montgomery | Halfling | Cleric |

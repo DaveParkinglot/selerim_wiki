@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:29:04.137Z
-published: 2026-07-21T15:29:04.137Z
+modified: 2026-09-13T02:15:16.569Z
+published: 2026-09-13T02:15:16.569Z
 DM: Jordan
 Platform: Roll20
 Sessions: 1
@@ -65,7 +65,7 @@ Survive these 3 trials and live to tell the tale and you will surely be given be
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Evan | Force Maxum | Half-Orc | Barbarian |
 | Sam | Cornwallis | Aasimar | Warlock |

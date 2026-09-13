@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:36:05.681Z
-published: 2026-07-21T15:36:05.681Z
+modified: 2026-09-13T02:16:08.340Z
+published: 2026-09-13T02:16:08.340Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -67,7 +67,7 @@ Across the channel north of [[Crillville]], Redtusk's half-brother Boss Renton h
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Michael | Bru Ski | Harengon | Monk |
 | Bishop | Elenda Duskwood | Elf | Rogue |

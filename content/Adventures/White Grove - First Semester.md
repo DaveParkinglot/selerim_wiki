@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-27T21:44:31.000Z
-modified: 2026-07-21T17:28:39.819Z
-published: 2026-07-21T17:28:39.819Z
+modified: 2026-09-13T02:16:27.177Z
+published: 2026-09-13T02:16:27.177Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -69,8 +69,8 @@ We begin our adventure a few weeks into the first semester of your freshman year
 
 # Players & Characters
 
-| Player              | Character Name     | Race   | Class   |
-| ------------------- | ------------------ | ------ | ------- |
-| Ethan | Crimslaw Brutefang | Orc    | Wizard  |
-| Mike Doom | Tony Gorgonzoli    | Human  | Wizard  |
-| Gorrie | The Earl           | Genasi | Warlock |
+| Player              | Character Name     | Ancestry | Class   |
+| ------------------- | ------------------ | -------- | ------- |
+| Ethan | Crimslaw Brutefang | Orc      | Wizard  |
+| Mike Doom | Tony Gorgonzoli    | Human    | Wizard  |
+| Gorrie | The Earl           | Genasi   | Warlock |

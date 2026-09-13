@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:27:31.803Z
-published: 2026-07-21T15:27:31.803Z
+modified: 2026-09-13T02:14:44.487Z
+published: 2026-09-13T02:14:44.487Z
 DM: Mike Doom
 Platform: Roll20
 Sessions: 2
@@ -84,7 +84,7 @@ The fate of all [[Tiialia]] may well rest in your hands. Fight for honor! Fight 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Peter | Eclipse Malificent | Half-Orc | Druid |
 | Peter | Sir Chauncy the Brave | Human | Paladin |

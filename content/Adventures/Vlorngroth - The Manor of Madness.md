@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T17:27:51.795Z
-published: 2026-07-21T17:27:51.795Z
+modified: 2026-09-13T02:16:19.419Z
+published: 2026-09-13T02:16:19.419Z
 DM: Jordan
 Platform: Roll20
 Sessions: 2
@@ -87,7 +87,7 @@ A prophetic vision from [[Matron Mother Aranaea]] implies that one asylum reside
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | George | Ashal Fractilian | Kobold | Warlock |
 | George | Feelay Minion | Drow | Rogue |

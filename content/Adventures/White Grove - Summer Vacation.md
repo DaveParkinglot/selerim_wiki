@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-17T01:13:04.000Z
-modified: 2026-07-28T15:06:33.439Z
-published: 2026-07-28T15:06:33.439Z
+modified: 2026-09-13T02:16:31.054Z
+published: 2026-09-13T02:16:31.054Z
 DM: Jordan
 Platform: Foundry
 Sessions: 4
@@ -99,7 +99,7 @@ Students who succeed in the scavenger hunt will be given extra commendations in 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Crimslaw Brutefang | Orc | Wizard |
 | Mike Doom | Tony Gorgonzoli | Human | Wizard |

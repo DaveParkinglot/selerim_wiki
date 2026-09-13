@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:27:23.040Z
-published: 2026-07-21T15:27:23.040Z
+modified: 2026-09-13T02:14:36.800Z
+published: 2026-09-13T02:14:36.800Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -68,7 +68,7 @@ During the journey, you are approached by a goblin cabin boy named [[Li'l Gubbin
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Gorrie | Galath Goatjumper Kalageaku | Goliath | Paladin |
 | Mike Doom | Joey Babaganoush | Human | Monk |

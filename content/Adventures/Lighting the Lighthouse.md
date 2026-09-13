@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-11-02T14:22:56.000Z
-modified: 2026-04-21T12:47:04.036Z
-published: 2026-04-21T12:47:04.036Z
+modified: 2026-09-13T02:15:10.258Z
+published: 2026-09-13T02:15:10.258Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -75,7 +75,7 @@ Once this is accomplished, the Aldwood Star can be placed atop the lighthouse to
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Otto | Squeembo Montgomery | Halfling | Cleric |
 | Becca | Blink | Gnome | Druid |

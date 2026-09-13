@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T17:57:03.000Z
-modified: 2026-07-21T15:29:27.410Z
-published: 2026-07-21T15:29:27.410Z
+modified: 2026-09-13T02:15:18.661Z
+published: 2026-09-13T02:15:18.661Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -75,7 +75,7 @@ Now, the boys must trek across the mystical Feywild and retrieve a very special 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Peter | Bobby Dismorphia | Orc | Fighter |
 | Otto | Squeembo Montgomery | Halfling | Cleric |

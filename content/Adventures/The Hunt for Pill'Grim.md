@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:32:34.396Z
-published: 2026-07-21T15:32:34.396Z
+modified: 2026-09-13T02:15:48.093Z
+published: 2026-09-13T02:15:48.093Z
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -71,7 +71,7 @@ Should you succeed in Bopus’ quest, the bounty and the local fame would surely
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Peter | Thurney Snooper | Human | Warlock |
 | Leah | Unknown | Unknown | Unknown |

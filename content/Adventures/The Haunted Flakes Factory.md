@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:31:01.529Z
-published: 2026-07-21T15:31:01.529Z
+modified: 2026-09-13T02:15:34.650Z
+published: 2026-09-13T02:15:34.650Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -60,7 +60,7 @@ On [[Hallowtide]] Eve, you and your friends are attending a beach bonfire party 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Peter | Berrymaw Bonetoberious | Human | Warlock |
 | Larry | Shume Lettux | Tortle | Barbarian |

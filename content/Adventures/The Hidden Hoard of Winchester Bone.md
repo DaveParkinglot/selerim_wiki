@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:32:02.060Z
-published: 2026-07-21T15:32:02.060Z
+modified: 2026-09-13T02:15:38.201Z
+published: 2026-09-13T02:15:38.201Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -64,7 +64,7 @@ Bone Tavern is failing, and [[Captain Winchester Bone]] needs to remain solvent 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Ethan | Fingus Bingus | Half-Elf | Bard |
 | Mike Doom | Curly | Human | Fighter |

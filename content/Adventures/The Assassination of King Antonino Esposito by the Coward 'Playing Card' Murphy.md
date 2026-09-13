@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-03T21:11:13.000Z
-modified: 2026-08-13T12:27:48.576Z
-published: 2026-08-13T12:27:48.576Z
+modified: 2026-09-13T02:15:26.970Z
+published: 2026-09-13T02:15:26.970Z
 DM: Ethan
 Platform: Foundry
 Sessions: 2
@@ -117,7 +117,7 @@ Will you heed the call and save the Kingdom of Tiallia, or will you end up the f
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Jordan | [[Player Characters/The Stacked Deck/Hector Fanto-Domingo.md\|Hector Fanto-Domingo]] | Human | Barbarian |
 | Devin | [[Player Characters/The Stacked Deck/'Playing Card' Murphy.md\|"Playing Card" Murphy]] | Human | Rogue |

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:08:23.000Z
-modified: 2026-08-09T12:43:09.437Z
-published: 2026-08-09T12:43:09.437Z
+modified: 2026-09-13T02:15:08.141Z
+published: 2026-09-13T02:15:08.141Z
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -66,7 +66,7 @@ The Wise Wizards of Mitlin have scried that this individual must be rescued, as 
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Melkar Dragonheart | Dragonborn | Ranger |
 | Laura | Clara Biscuit | Warforged | Bard |

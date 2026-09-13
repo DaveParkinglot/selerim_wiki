@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T15:30:00.000Z
-modified: 2026-08-09T12:43:09.444Z
-published: 2026-08-09T12:43:09.444Z
+modified: 2026-09-13T02:15:45.381Z
+published: 2026-09-13T02:15:45.381Z
 DM: Jordan
 Platform:
   - Foundry
@@ -83,7 +83,7 @@ The OG campaign.
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Evan | [[Player Characters/The High Rollers/Clint Weapon.md\|Clint Weapon]] | Human | Barbarian |
 | Logan | [[NPCs/Tiialia/Bancil Nobeltrim.md\|Bancil Nobeltrim]] | Half-Elf | Paladin |

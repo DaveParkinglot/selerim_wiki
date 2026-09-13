@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-07-21T15:46:20.035Z
-published: 2026-07-21T15:46:20.035Z
+modified: 2026-09-13T02:16:14.334Z
+published: 2026-09-13T02:16:14.334Z
 DM: Bishop
 Platform: Foundry
 Sessions: 1
@@ -60,7 +60,7 @@ Rumors have been spreading of a pack of wolves roaming near the village of Grain
 
 # Players & Characters
 
-| Player              | Character Name         | Race              | Class               |
+| Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Laura | Mylleria Skeeter | Human | Ranger |
 | Sam | Cornwallis | Aasimar | Warlock |
