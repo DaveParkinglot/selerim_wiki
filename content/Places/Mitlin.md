@@ -2,8 +2,8 @@
 publish: true
 title: Mitlin, Treetop Town
 created: 2025-09-24T12:16:34.000Z
-modified: 2026-08-13T20:00:17.055Z
-published: 2026-08-13T20:00:17.055Z
+modified: 2026-09-13T17:59:53.388Z
+published: 2026-09-13T17:59:53.388Z
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -58,7 +58,9 @@ The [[Dragon Faithful]] is the largest religious sect in Mitlin, though many elv
 # Attributes
 
 - **Appearance**:
-  - Elvish treetop village, green and brown are the dominant colors
+  - Elvish treetop town, green and brown are the dominant colors
+  - Most major businesses and municipal buildings are on forest floor or the lower levels
+  - Wooden walkways crisscross Mitlin's great trees, connecting buildings and houses that hang from or sit atop the tree branches
 - **Economy/Resources**:
   - Lumber (from approved sources)
   - Mitlin maintains a small port to the south and the Aldwood Lighthouse
@@ -72,3 +74,4 @@ The [[Dragon Faithful]] is the largest religious sect in Mitlin, though many elv
   - Jack of Owl Trades, [[Bwanson Wagwan]]'s magic shop
   - Silver Oak Market (MitMart) boasts many market vendors with various items for sale
   - Fadeleaf Dispensary, run by Arabelle and Aranthor Fadeleaf
+  - Longwood Tavern, owned by the Phlegathon family

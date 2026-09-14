@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-09-13T02:15:58.114Z
-published: 2026-09-13T02:15:58.114Z
+modified: 2026-09-13T18:31:00.314Z
+published: 2026-09-13T18:31:00.314Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -55,7 +55,7 @@ Classes:
 
 # Adventure Premise
 
-On the outskirts of the desolate [[The Forsaken Expanse]], the Marrowsucker gnoll tribe has been defiling the bones of ancient dragons. They have hoarded "[[Ancient Dragon Marrow|The Substance]]", a dragon-bone byproduct that the elves of [[Mitlin]] consider to be sacred.
+On the outskirts of the desolate [[The Forsaken Expanse]], the Marrowsucker gnoll tribe has been defiling the bones of ancient dragons. They have hoarded the "[[Ancient Dragon Marrow|Substance]]", a dragon-bone byproduct that the elves of [[Mitlin]] consider to be sacred.
 
 The wizard [[Melvin Oaksleeves]], of the [[Oaken Conclave]], has put out a call for adventurers to eliminate the gnoll tribe and retrieve the hoarded Substance.
 

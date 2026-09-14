@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-09T12:43:09.689Z
-published: 2026-08-09T12:43:09.689Z
+modified: 2026-09-13T16:36:07.503Z
+published: 2026-09-13T16:36:07.503Z
 born: 247
 Ancestry: Goblin
 Gender: Female
@@ -10,7 +10,6 @@ Location:
   - "[[Crabbley]]"
 Role:
   - Intern
-  - Staffer
   - Aspiring Politician
 Affiliation:
   - "[[Crabbley Council]]"
@@ -36,7 +35,7 @@ Author: Jordan
 >
 > **Location**: [[Places/Crabbley.md|Crabbley]]
 >
-> **Role**: Intern, Staffer, Aspiring Politician
+> **Role**: Intern, Aspiring Politician
 >
 > **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
 >
@@ -48,9 +47,9 @@ Author: Jordan
 
 Stellica was originally Mayor Boje's devoted intern, until he was poisoned and turned into an abominable crab-based monster.
 
-After Boje's demise at the hands of the adventuring party [[The High Rollers]], [[Antoona Bastifor]] became the mayor and Stellica was promoted to staffer.
+After Boje's demise at the hands of the adventuring party [[The High Rollers]], [[Antoona Bastifor]] became the mayor and Stellica was promoted to head intern.
 
-She aspires to one day be more than just a staffer, and perhaps even get a political science degree. No goblin has ever gotten this type of degree, so this would be huge for her.
+She aspires to one day be more than just the mayor's intern, and perhaps even get a political science degree. No goblin has ever gotten this type of degree, so this would be huge for her.
 
 # Attributes
 
