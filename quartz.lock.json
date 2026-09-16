@@ -181,12 +181,6 @@
       "commit": "1ae94b7961332d383bd68a92b1178be54f1422a7",
       "installedAt": "2026-09-16T17:36:36.716Z"
     },
-    "og-image": {
-      "source": "github:quartz-community/og-image",
-      "resolved": "https://github.com/quartz-community/og-image.git",
-      "commit": "124cdd71a69f9522731b66c11ec3c60d1529823f",
-      "installedAt": "2026-09-16T17:36:37.068Z"
-    },
     "ox-hugo": {
       "source": "github:quartz-community/ox-hugo",
       "resolved": "https://github.com/quartz-community/ox-hugo.git",
