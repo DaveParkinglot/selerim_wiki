@@ -228,6 +228,9 @@ plugins:
     options:
       links:
         GitHub: https://github.com/DaveParkinglot/selerim_wiki
+    layout:
+      position: footer
+      priority: 105
   - source: github:quartz-community/recent-notes
     enabled: true
     options:

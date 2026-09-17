@@ -129,32 +129,6 @@ footer          /* Maps to: footer */ {
   box-shadow: none !important;
 }
 
-/* Prevent footer overlap on mobile screens */
-footer {
-  clear: both !important;
-  position: relative !important;
-  z-index: 1 !important;
-  margin-top: 2rem !important;
-  padding-top: 1rem !important;
-}
-
-/* Ensure the main page container stacks properly on small screens */
-@media (max-width: 768px) {
-  .page,
-  .center,
-  footer {
-    display: flex !important;
-    flex-direction: column !important;
-    width: 100% !important;
-  }
-
-  /* Force vertical spacing above footer */
-  footer {
-    margin-top: 3rem !important;
-  }
-}
-
-
 /* Disable the main "Explorer" header toggle button */
 button.title-button.explorer-toggle,
 button.explorer-toggle {
@@ -172,4 +146,11 @@ button.title-button.explorer-toggle svg.fold,
 a.nav-file-title.tree-item-self {
   pointer-events: auto !important;
   cursor: pointer !important;
+}
+
+/* Hide footer completely on mobile viewports */
+@media all and (max-width: 800px) {
+  footer {
+    display: none !important;
+  }
 }
