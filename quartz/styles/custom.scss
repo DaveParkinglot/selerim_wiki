@@ -111,3 +111,65 @@ footer          /* Maps to: footer */ {
   padding: 2rem; 
   border-radius: 8px;
 }
+
+/* Force canvas container to render link strokes at visible opacity */
+.graph-container canvas {
+  opacity: 1 !important;
+}
+
+/* Ensure CSS variable resolves properly for canvas JS */
+:root {
+  --gray: #888888 !important; /* Forces a solid mid-gray for unhovered links */
+  --lightgray: #888888 !important;
+}
+
+/* Remove gray border from quote callouts */
+.callout[data-callout="quote"] {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Prevent footer overlap on mobile screens */
+footer {
+  clear: both !important;
+  position: relative !important;
+  z-index: 1 !important;
+  margin-top: 2rem !important;
+  padding-top: 1rem !important;
+}
+
+/* Ensure the main page container stacks properly on small screens */
+@media (max-width: 768px) {
+  .page,
+  .center,
+  footer {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+  }
+
+  /* Force vertical spacing above footer */
+  footer {
+    margin-top: 3rem !important;
+  }
+}
+
+
+/* Disable the main "Explorer" header toggle button */
+button.title-button.explorer-toggle,
+button.explorer-toggle {
+  pointer-events: none !important;
+  cursor: default !important;
+}
+
+/* Hide the fold arrow icon next to the Explorer header */
+button.title-button.explorer-toggle svg.fold,
+.explorer-toggle svg {
+  display: none !important;
+}
+
+/* Ensure sub-file links remain clickable */
+a.nav-file-title.tree-item-self {
+  pointer-events: auto !important;
+  cursor: pointer !important;
+}
