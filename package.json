@@ -80,7 +80,7 @@
     "@quartz-community/search": "^1.0.0",
     "@quartz-community/spacer": "^1.0.0",
     "@quartz-community/stacked-pages": "^1.0.0",
-    "@quartz-community/syntax-highlighting": "^1.0.0",
+    "@quartz-community/syntax-highlighting": "^1.0.1",
     "@quartz-community/table-of-contents": "^1.0.0",
     "@quartz-community/tag-list": "^1.0.0",
     "@quartz-community/tag-page": "^1.0.0",

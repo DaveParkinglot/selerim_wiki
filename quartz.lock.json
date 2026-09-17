@@ -248,12 +248,6 @@
       "commit": "ad8085518489fe4128c5aeadea9ec1a8df8e6ecf",
       "installedAt": "2026-09-16T17:36:37.193Z"
     },
-    "syntax-highlighting": {
-      "source": "github:quartz-community/syntax-highlighting",
-      "resolved": "https://github.com/quartz-community/syntax-highlighting.git",
-      "commit": "569f473b625c62ff720ec3c48507b9662b51d0aa",
-      "installedAt": "2026-09-16T17:36:37.216Z"
-    },
     "table-of-contents": {
       "source": "github:quartz-community/table-of-contents",
       "resolved": "https://github.com/quartz-community/table-of-contents.git",
