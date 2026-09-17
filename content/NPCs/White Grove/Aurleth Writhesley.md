@@ -1,0 +1,70 @@
+---
+publish: true
+created: 2025-10-15T14:42:10.000Z
+modified: 2026-08-11T15:32:29.536Z
+published: 2026-08-11T15:32:29.536Z
+born: 244
+Ancestry: Elf
+Gender: Male
+Location:
+  - "[[White Grove]]"
+Role:
+  - Student
+  - Sophomore
+  - Entrepreneur
+Affiliation:
+  - "[[Mitlin]]"
+Appearances:
+  - "[[White Grove - Summer Vacation]]"
+  - "[[Escape from the Fathomless Vault]]"
+Status: Alive
+Author: Jordan
+---
+
+> [!infobox|right]
+>
+> ## Aurleth Writhesley
+>
+> ![[z_assets/aurleth_writhesley.png|300]]
+>
+> ## Details
+>
+> **Age:** 22 years
+>
+> **Ancestry**: Elf
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/White Grove.md|White Grove]]
+>
+> **Role**: Student, Sophomore, Entrepreneur
+>
+> **Affiliation:** [[Places/Mitlin.md|Mitlin]]
+>
+> **Appearances:** [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
+>
+> **Status:** Alive
+
+# Overview
+
+- A hoity toity elf from [[Mitlin]], he enjoys making a quick buck from his magic item business while attending school at [[White Grove]].
+- He is in the Arcane College.
+- The new magic shop "Jack of Owl Trades" run by [[Bwanson Wagwan]] has cut in on his family's business in [[Mitlin]], Writhesley Family Wizardry. As the heir to the family business, Aurleth wants to get training on things like Arcane Intelligence so he can compete.
+
+# Attributes
+
+- **Voice**: Hoity toity elf voice
+- **Traits**:
+  - I inherited the family business, for better or for worse.
+  - I see trade as an art form, and I'm the artist.
+  - Ideal: Order. Markets must be regulated to ensure fairness and stability. (Lawful)
+  - Bond: The ledger of my first sale is my most prized possession.
+  - Flaw: I cut corners to maximize profit, even if it means skirting the law.
+- **Goals**: Improve his magical abilities to get his magic shop off the ground
+- **Appearance:** Tall slender auburn haired elf
+
+# Relationships
+
+| Name                  | Relationship |
+| --------------------- | ------------ |
+| [[Melvin Oaksleeves]] | Great Uncle  |
