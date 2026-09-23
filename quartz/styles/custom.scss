@@ -129,23 +129,26 @@ footer          /* Maps to: footer */ {
   box-shadow: none !important;
 }
 
-/* Disable the main "Explorer" header toggle button */
-button.title-button.explorer-toggle,
-button.explorer-toggle {
-  pointer-events: none !important;
-  cursor: default !important;
-}
+/* Apply these styles only to tablet and desktop screens */
+@media screen and (min-width: 768px) {
+  /* Disable the main "Explorer" header toggle button */
+  button.title-button.explorer-toggle,
+  button.explorer-toggle {
+    pointer-events: none !important;
+    cursor: default !important;
+  }
 
-/* Hide the fold arrow icon next to the Explorer header */
-button.title-button.explorer-toggle svg.fold,
-.explorer-toggle svg {
-  display: none !important;
-}
+  /* Hide the fold arrow icon next to the Explorer header */
+  button.title-button.explorer-toggle svg.fold,
+  .explorer-toggle svg {
+    display: none !important;
+  }
 
-/* Ensure sub-file links remain clickable */
-a.nav-file-title.tree-item-self {
-  pointer-events: auto !important;
-  cursor: pointer !important;
+  /* Ensure sub-file links remain clickable */
+  a.nav-file-title.tree-item-self {
+    pointer-events: auto !important;
+    cursor: pointer !important;
+  }
 }
 
 /* Hide footer completely on mobile viewports */
