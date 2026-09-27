@@ -157,3 +157,19 @@ footer          /* Maps to: footer */ {
     display: none !important;
   }
 }
+
+/* Enable smooth horizontal scrolling for tables on mobile screens */
+table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Optional: Keep headers and cells padded for readability */
+table th,
+table td {
+  min-width: 120px; /* Prevents columns from compressing too narrow */
+  padding: 8px 12px;
+}
