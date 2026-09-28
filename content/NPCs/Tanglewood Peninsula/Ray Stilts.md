@@ -1,0 +1,60 @@
+---
+publish: true
+created: 2025-07-21T15:30:45.000Z
+modified: 2026-09-17T19:36:53.088Z
+published: 2026-09-17T19:36:53.088Z
+born: 223
+Ancestry: Human
+Gender: Male
+Location:
+  - "[[Crabbley]]"
+Role:
+  - Entrepreneur, Former Patron of The High Rollers
+Affiliation:
+  - "[[Crabbley Council]]"
+Appearances:
+  - "[[The High Rollers Campaign]]"
+Status: Alive
+Author: Jordan
+---
+
+> [!infobox|right]
+>
+> ## Ray Stilts
+>
+> ![[z_assets/ray_stilts.png|300]]
+>
+> ## Details
+>
+> **Age:** 43 years
+>
+> **Ancestry**: Human
+>
+> **Gender**: Male
+>
+> **Location**: [[Places/Crabbley.md|Crabbley]]
+>
+> **Role**: Entrepreneur, Former Patron of The High Rollers
+>
+> **Affiliation:** [[Factions/Crabbley Council.md|Crabbley Council]]
+>
+> **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
+>
+> **Status:** Alive
+
+# Overview
+
+- Owner of Pinny Stilts, Inc. His co-owner Pinny went missing while sailing Boater's Bay.
+- For a while, he employed [[Player Characters/The High Rollers/index]] to conduct salvage operations along the coastlines of the Tanglewood Peninsula.
+
+# Attributes
+
+- **Voice**: Sleazy
+- **Traits**: Ambitious
+- **Goals:** Making money
+- **Appearance**: Wears ostentatious purple clothes.
+
+# Relationships
+
+| Name  | Relationship |
+| ----- | ------------ |
