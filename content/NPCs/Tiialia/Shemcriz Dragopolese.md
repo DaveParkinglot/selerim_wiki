@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-30T15:16:29.933Z
-published: 2026-08-30T15:16:29.933Z
+modified: 2026-09-17T19:36:53.126Z
+published: 2026-09-17T19:36:53.126Z
 born: 244
 Ancestry: Kobold
 Gender: Male
@@ -47,7 +47,7 @@ Author: Jordan
 
 # Overview
 
-Shemcriz is a sturdy, thick, and hapless kobold who gets in way over his head way too often. He originally came to the surface with a scouting party from [[Vlorngroth]], but he overstayed his welcome in the distillery of the Esposito Vineyard and was captured by [[The High Rollers]]. A bit later, he was found by The High Rollers (and luckily saved) while being sacrificed to a yuan-ti god in a Temple of Dendar in northern [[Tiialia]].
+Shemcriz is a sturdy, thick, and hapless kobold who gets in way over his head way too often. He originally came to the surface with a scouting party from [[Vlorngroth]], but he overstayed his welcome in the distillery of the Esposito Vineyard and was captured by [[Player Characters/The High Rollers/index]]. A bit later, he was found by The High Rollers (and luckily saved) while being sacrificed to a yuan-ti god in a Temple of Dendar in northern [[Tiialia]].
 
 ## [[Escape the Invasion]]
 

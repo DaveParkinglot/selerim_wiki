@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-09T12:43:09.703Z
-published: 2026-08-09T12:43:09.703Z
+modified: 2026-09-17T19:36:53.103Z
+published: 2026-09-17T19:36:53.103Z
 born: 191
 Ancestry: Human
 Gender: Male
@@ -13,7 +13,7 @@ Role:
   - Butler
 Affiliation:
   - "[[Esposito Family]]"
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/index]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Butler
 >
-> **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Player Characters/The High Rollers/index.md|index]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

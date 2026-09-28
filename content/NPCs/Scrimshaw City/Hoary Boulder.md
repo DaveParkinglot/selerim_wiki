@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-09T12:43:09.561Z
-published: 2026-08-09T12:43:09.561Z
+modified: 2026-09-17T19:36:52.898Z
+published: 2026-09-17T19:36:52.898Z
 born: 229
 Ancestry:
   - Human
@@ -14,7 +14,7 @@ Role:
   - Bracketologist
   - Former Thief
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/index]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -41,7 +41,7 @@ Author: Jordan
 >
 > **Role**: Chief Accountant, Bracketologist, Former Thief
 >
-> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]], [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]]
 >
@@ -52,7 +52,7 @@ Author: Jordan
 ## [[The High Rollers Campaign]]
 
 - "Nothing better than a crisp glass of pink lemonade in the morning". Everyone's favorite 35 year old kid.
-- Hoary was brought into [[Beezlebop]]'s hidden manor after [[The High Rollers]] convinced him that hanging out in his mom's basement was less cool than adventuring.
+- Hoary was brought into [[Beezlebop]]'s hidden manor after [[Player Characters/The High Rollers/index]] convinced him that hanging out in his mom's basement was less cool than adventuring.
 - Hoary lost his right eye after being kidnapped by kobolds.
 - Hoary departed his mom's basement in [[Crabbley]] and journeyed with The High Rollers and [[Captain Chorn Chinfer]] to [[Scrimshaw City]]. There, he hoped to begin working for [[Tavernstool]] because he was a huge fan of [[Lord Davos Portnoir]].
   **Downtime after Tiialia arc**:

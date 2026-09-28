@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-08-09T12:43:09.655Z
-published: 2026-08-09T12:43:09.655Z
+modified: 2026-09-17T19:36:53.036Z
+published: 2026-09-17T19:36:53.036Z
 born: 243
 Ancestry: Kobold
 Gender: Male
@@ -47,7 +47,7 @@ Author: Jordan
 # Overview
 
 - Dillon has spent most of his life serving the [[Vlorn Dynasty]], mostly against his will and at the tip of a drow's knife.
-- He was recently brought onto a project to create a doomsday machine to reclaim the Tanglewood Peninsula for the Vlorn, but that project recently fell apart due to intervention from [[The High Rollers]] intervention.
+- He was recently brought onto a project to create a doomsday machine to reclaim the Tanglewood Peninsula for the Vlorn, but that project recently fell apart due to intervention from [[Player Characters/The High Rollers/index]] intervention.
 - At Eros' urging, Dillon turned over a new leaf and became the local artificer in the town of [[Crabbley]].
 - He assisted the Cronium Gnomes in repairing their broken teleporter, which almost never malfunctions now.
 

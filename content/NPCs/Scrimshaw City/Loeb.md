@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-08-09T12:43:09.583Z
-published: 2026-08-09T12:43:09.583Z
+modified: 2026-09-17T19:36:52.932Z
+published: 2026-09-17T19:36:52.932Z
 born: 229
 Ancestry:
   - Human
@@ -14,7 +14,7 @@ Role:
   - Acting CEO
   - Blood Hunter
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/index]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -40,7 +40,7 @@ Author: Jordan
 >
 > **Role**: Acting CEO, Blood Hunter
 >
-> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
 >
@@ -49,7 +49,7 @@ Author: Jordan
 # Overview
 
 - Originally, Loeb was [[Tadeusz]]'s blood hunter battle buddy who was lost after their voyage to kill a kraken went wrong.
-- Like all blood hunters, he is steely on the surface, with a bestial fury underneath. He uses this very effectively in managing [[The Spicy Meatball]] and all of its misfit workers in the absence of [[Tadeusz]] and the rest of [[The High Rollers]].
+- Like all blood hunters, he is steely on the surface, with a bestial fury underneath. He uses this very effectively in managing [[The Spicy Meatball]] and all of its misfit workers in the absence of [[Tadeusz]] and the rest of [[Player Characters/The High Rollers/index]].
 
 # Attributes
 

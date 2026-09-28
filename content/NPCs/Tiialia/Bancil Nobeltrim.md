@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-24T15:24:32.415Z
-published: 2026-08-24T15:24:32.415Z
+modified: 2026-09-17T19:36:53.114Z
+published: 2026-09-17T19:36:53.114Z
 born: 236
 Ancestry: Half-Elf
 Gender: Male
@@ -13,7 +13,7 @@ Role:
   - Former Adventurer
   - Family Guy
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/index]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Paladin, Former Adventurer, Family Guy
 >
-> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >
@@ -52,7 +52,7 @@ Author: Jordan
 ## **[[The High Rollers Campaign]]**
 
 - A paladin of the god of justice, Tyr. Bancil hails from [[Crillville]].
-- Bancil adventured with [[The High Rollers]] for a long while after besting [[Tadeusz]] in a duel to prove his worth.
+- Bancil adventured with [[Player Characters/The High Rollers/index]] for a long while after besting [[Tadeusz]] in a duel to prove his worth.
 - Bancil, along with the other High Rollers, performed both great and terrible deeds while adventuring.
 - After the adventuring party deposed [[Lord Davos Portnoir]], Bancil travelled with his family to [[Nova Jersaeria]] to spread justice and the word of Tyr.
 

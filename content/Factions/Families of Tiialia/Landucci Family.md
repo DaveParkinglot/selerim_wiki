@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2023-08-27T03:33:28.000Z
-modified: 2026-08-09T12:43:09.464Z
-published: 2026-08-09T12:43:09.464Z
+modified: 2026-09-17T19:36:52.733Z
+published: 2026-09-17T19:36:52.733Z
 Author: Jordan
 ---
 
@@ -10,4 +10,4 @@ Before his death, the patriarch was [[Lord Draco Landucci]], High Commander of t
 
 Draco Landucci had 2 twin sons named Lorus and Korus, who were renowned warriors. He also had a failson named Montius "Monty" Landucci.
 
-[[Lord Draco Landucci]] and his twin sons Lorus and Korus were killed by [[The High Rollers]] and [[Antonino Esposito]] after their plot was discovered.
+[[Lord Draco Landucci]] and his twin sons Lorus and Korus were killed by [[Player Characters/The High Rollers/index]] and [[Antonino Esposito]] after their plot was discovered.

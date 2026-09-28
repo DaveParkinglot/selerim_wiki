@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Master
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-09T12:43:09.788Z
-published: 2026-08-09T12:43:09.788Z
+modified: 2026-09-17T19:36:53.160Z
+published: 2026-09-17T19:36:53.160Z
 born: 198
 Ancestry:
   - Human
@@ -54,13 +54,13 @@ Author: Jordan
   - Geelayne eventually regained a fraction of her former power and struck out with rangers from Mitlin to end the threat that Effree posed to the world, but she failed and was once again resurrected by Effree, this time as a banshee.
 - After The Three disbanded due to Effree's actions, he spent years living as a noble in [[Scrimshaw City]], before retreating to his ancestral home in the Jypstein Isles on the Great Delphin Sea.
 - Some time after that, Effree became a powerful lich, took up the pseudonym "The Master", and sought to control (or end) all life in the [[Summer Lands]].
-- Thankfully, he was killed on his private island by [[The High Rollers]].
+- Thankfully, he was killed on his private island by [[Player Characters/The High Rollers/index]].
 
 # Attributes
 
 - **Voice**: Sinister posh
 - **Traits**: Cartoonishly evil
-- **Goals:** Spread his plague of undeath, raise [[The High Rollers]] from the grave and use them to control the world
+- **Goals:** Spread his plague of undeath, raise [[Player Characters/The High Rollers/index]] from the grave and use them to control the world
 - **Appearance**: Tall, stick-thin, pale white lich with flowing robes
 
 # Relationships

@@ -1,18 +1,18 @@
 ---
 publish: true
 created: 2025-10-02T16:18:30.000Z
-modified: 2026-08-30T15:14:30.165Z
-published: 2026-08-30T15:14:30.165Z
+modified: 2026-09-20T12:59:21.000Z
+published: 2026-09-20T12:59:21.000Z
 born: 231
 Ancestry:
   - Goblin
   - Kobold
-  - Mutant
 Gender: Male
 Location:
   - "[[Vlorngroth]]"
 Role:
   - Familiar
+  - Disgusting Cretin
 Affiliation:
   - None
 Appearances:
@@ -33,13 +33,13 @@ Author: Jordan
 >
 > **Age:** 35 years
 >
-> **Ancestry**: Goblin, Kobold, Mutant
+> **Ancestry**: Goblin, Kobold
 >
 > **Gender**: Male
 >
 > **Location**: [[Places/Vlorngroth.md|Vlorngroth]]
 >
-> **Role**: Familiar
+> **Role**: Familiar, Disgusting Cretin
 >
 > **Affiliation:** None
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T14:05:08.273Z
-modified: 2026-08-09T12:43:09.531Z
-published: 2026-08-09T12:43:09.531Z
+modified: 2026-09-17T19:36:52.854Z
+published: 2026-09-17T19:36:52.854Z
 born: 233
 Ancestry:
   - Half Elf
@@ -50,7 +50,7 @@ aliases:
 - He has done some minor heists in the past few years, stealing a few noteworthy magical items:
   - A Chime of Opening, stolen from a rival crew led by [[Terry the Terrible]].
   - An entire barrel of Devil's Breath Vodka, heisted from [[Lord Davos Portnoir]]'s manor after he was deposed and killed.
-  - A Potion of Storm Giant Strength, stolen from the local Tiialan eatery [[The Spicy Meatball]], which was established by [[The High Rollers]].
+  - A Potion of Storm Giant Strength, stolen from the local Tiialan eatery [[The Spicy Meatball]], which was established by [[Player Characters/The High Rollers/index]].
 
 # Attributes
 

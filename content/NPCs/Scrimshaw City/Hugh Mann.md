@@ -3,8 +3,8 @@ publish: true
 aliases:
   - El Presidente Hugh Mann
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-11T15:31:39.600Z
-published: 2026-08-11T15:31:39.600Z
+modified: 2026-09-17T19:36:52.920Z
+published: 2026-09-17T19:36:52.920Z
 born: -61
 Ancestry: Fiend (Devil)
 Gender: Male
@@ -15,7 +15,7 @@ Role:
   - Former Adventurer
 Affiliation:
   - Tavernstool
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/index]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Spring Cleaning in Scrimshaw City]]"
@@ -51,7 +51,7 @@ Author: Jordan
 >
 > **Role**: El Presidente, Former Adventurer
 >
-> **Affiliation:** Tavernstool, [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** Tavernstool, [[Player Characters/The High Rollers/index.md|index]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >
@@ -63,7 +63,7 @@ See also: [[Daemon Darkfyre]]
 
 - A devil from one of the Nine Hells who isn't actually all that bad.
 - Hundreds of years ago, Hugh and his friends were thrown away as battlefield fodder by the man who would become the devil [[Lord Davos Portnoir]].
-- He adventured with [[The High Rollers]] for a time, and eventually had his vengeance by deposing [[Lord Davos Portnoir]].
+- He adventured with [[Player Characters/The High Rollers/index]] for a time, and eventually had his vengeance by deposing [[Lord Davos Portnoir]].
 - With Portnoir deposed, Hugh Mann now reigns as El Presidente of [[Scrimshaw City]], and he has sole ownership of [[Tavernstool]], Portnoir's old company.
 - His status as a devil is, at this point, widely known in Scrimshaw.
 

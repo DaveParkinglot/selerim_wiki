@@ -5,24 +5,32 @@ aliases:
   - ADM
   - Dragon Dust
   - Marrow Dust
+  - Arcane Cocaine
 created: 2026-03-24T15:06:13.636Z
-modified: 2026-09-01T11:59:00.390Z
-published: 2026-09-01T11:59:00.390Z
+modified: 2026-09-23T23:36:02.569Z
+published: 2026-09-23T23:36:02.569Z
 Author: Jordan
 ---
 
 > [!Quote|author mark no-title]
-> _"[[The Forsaken Expanse]] is littered with <br> dragon bones that can wreck a sandskiff, <br> but that dragon bone marrow still contains <br> the magics of those long-dead wyrms. <br> It's quite the kick, or so I've heard."_ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]], <br> to [[The High Rollers]] </span>
+> _"[[The Forsaken Expanse]] is littered with dragon bones that can <br> wreck a sandskiff, but that dragon bone marrow still contains  <br> the magics of those long-dead wyrms. <br> It's quite the kick, or so I've heard."_ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]], <br> to [[Player Characters/The High Rollers/index|The High Rollers]] </span>
 
 ![[z_assets/ancient_dragon_marrow.png]]
 
-The dried marrow of the ancient dragons killed in the [[Generations' War]] is sacred to the elves of [[Mitlin]], who call it the "Substance". It is a powerful upper that can result in dangerous wild magic surges, depending on the user's constitution.
+A drug of many names, the dried marrow of the ancient dragons killed in the [[Generations' War]] is sacred to the elves of [[Mitlin]], who call it the "Substance". Other names include, but are not limited to:
 
-The elves of Mitlin have discovered that the magical properties are similar to that of the [[Violet Bleed]], however, study of the Substance is prohibited by Mitlin's conservative [[Dragon Faithful]].
+- Dragon Dust
+- Marrow Dust
+- Arcane Cocaine
+- ADM
+  It is a powerful upper that can result in dangerous wild magic surges, depending on the user's constitution.
+
+The elves of Mitlin have discovered that the magical properties are similar to that of the [[Violet Bleed]], however, study of the Substance is prohibited by Mitlin's conservative religious faction, the [[Dragon Faithful]].
 
 **Mechanically, the item works like this:**
 The marrow can be consumed with a bonus action, granting advantage on the next D20 test made within the next hour.
 Remember, addiction is a disease. After taking a hit, roll a DC 15 Constitution saving throw and consult the following table for additional effects:
+_All effects are at the DMs discretion._
 
 | Result             | Effect                                    |
 | ------------------ | ----------------------------------------- |

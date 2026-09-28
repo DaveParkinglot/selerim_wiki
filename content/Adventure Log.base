@@ -23,6 +23,8 @@ views:
       - Setting
       - Platform
     sort:
+      - property: DM
+        direction: DESC
       - property: Start Date
         direction: DESC
       - property: Players

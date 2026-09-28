@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-09T12:43:09.755Z
-published: 2026-08-09T12:43:09.755Z
+modified: 2026-09-17T19:36:53.132Z
+published: 2026-09-17T19:36:53.132Z
 born: 211
 Ancestry:
   - Undead Human
@@ -46,7 +46,7 @@ Author: Jordan
 
 # Overview
 
-- The former [[Crabbley]] alchemist, before he gave up his mortality in favor of undeath. He was using the Gem of Eyes in a dark ritual at the Aldwood Lighthouse before he was slain by [[The High Rollers]]].
+- The former [[Crabbley]] alchemist, before he gave up his mortality in favor of undeath. He was using the Gem of Eyes in a dark ritual at the Aldwood Lighthouse before he was slain by [[Player Characters/The High Rollers/index]]].
 - Despite this, his ritual summoned an eldritch storm and turned the surrounding water to ice. A  somewhat convenient paper trail made it clear that he was working for someone calling themselves "The Master"...
 - Somehow, Drendle returned during [[Master Effree Jypstein]]'s invasion of [[Tiialia]].
 - He was slain by The High Rollers and their unlikely ally [[Carbuckle Duskshot]] while he was spreading his plagues through the town of [[Scallion]] in northern Tiialia.

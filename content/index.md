@@ -2,8 +2,8 @@
 publish: true
 title: Welcome to Selerim
 created: 2026-04-21T13:58:34.000Z
-modified: 2026-08-18T16:31:33.894Z
-published: 2026-08-18T16:31:33.894Z
+modified: 2026-09-17T19:30:31.789Z
+published: 2026-09-17T19:30:31.789Z
 Author: Jordan
 ---
 

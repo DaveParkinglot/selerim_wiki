@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-09T12:43:09.769Z
-published: 2026-08-09T12:43:09.769Z
+modified: 2026-09-17T19:36:53.141Z
+published: 2026-09-17T19:36:53.141Z
 born: -83
 Ancestry:
   - Devil
@@ -54,7 +54,7 @@ Author: Jordan
 # Overview
 
 - The original El Presidente of [[Scrimshaw City]], who turned out to be a devil hiding in plain sight.
-- He was sent screaming back to the Nine Hells after [[Hugh Mann]] and [[The High Rollers]] slew him in his lair beneath the Tavernstool Office Complex.
+- He was sent screaming back to the Nine Hells after [[Hugh Mann]] and [[Player Characters/The High Rollers/index]] slew him in his lair beneath the Tavernstool Office Complex.
 
 # Attributes
 

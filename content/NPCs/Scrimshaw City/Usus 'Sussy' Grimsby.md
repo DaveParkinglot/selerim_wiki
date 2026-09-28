@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-08-09T12:43:09.610Z
-published: 2026-08-09T12:43:09.610Z
+modified: 2026-09-17T19:36:52.975Z
+published: 2026-09-17T19:36:52.975Z
 born: 167
 Ancestry:
   - Dwarf
@@ -13,7 +13,7 @@ Role:
   - Former Gladiator Trainer
   - Failed Blood Hunter
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/index]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -39,7 +39,7 @@ Author: Jordan
 >
 > **Role**: Former Gladiator Trainer, Failed Blood Hunter
 >
-> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
 >

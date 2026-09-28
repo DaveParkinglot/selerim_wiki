@@ -2,8 +2,8 @@
 publish: true
 title: Crabbley, Fishing Village
 created: 2025-09-17T16:39:25.000Z
-modified: 2026-08-19T13:21:38.791Z
-published: 2026-08-19T13:21:38.791Z
+modified: 2026-09-17T19:36:53.172Z
+published: 2026-09-17T19:36:53.172Z
 tags:
   - Tanglewood-Peninsula
   - Settlement
@@ -56,12 +56,12 @@ Author: Jordan
 
 # Overview
 
-Home of the [[Cult of the Crab]], the famous Soggy Bottom Tavern, the Crab Claw Inn, and so many other fantastic places to take your family!  Come visit scenic Crabbley with your family and get one free commemorative item from [[The High Rollers]] gift shop.
+Home of the [[Cult of the Crab]], the famous Soggy Bottom Tavern, the Crab Claw Inn, and so many other fantastic places to take your family!  Come visit scenic Crabbley with your family and get one free commemorative item from [[Player Characters/The High Rollers/index]] gift shop.
 
 Crabbley, once a sleepy fishing village without much going on, has become a hotbed of for adventurers for two reasons:
 
 1. It's on the edge of a great frontier—the [[Tanglewood Peninsula|Tanglewood]] Wilds.
-2. The most famous adventuring party in the lands—[[The High Rollers]]—got there start here.
+2. The most famous adventuring party in the lands—[[Player Characters/The High Rollers/index]]—got there start here.
 
 Originally, Crabbley was founded by settlers migrating south from the dreary harbor town of [[Crillville]]. Since the eco-terrorist group the [[Tanglers]] committed atrocities in both Crabbley and [[Crillville]], the two towns joined both their militias and their governments to create the [[Tanglewood Defense Council]].
 

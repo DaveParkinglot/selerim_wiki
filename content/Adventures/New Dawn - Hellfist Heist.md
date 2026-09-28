@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T13:11:09.000Z
-modified: 2026-09-13T02:15:13.736Z
-published: 2026-09-13T02:15:13.736Z
+modified: 2026-09-21T19:33:10.662Z
+published: 2026-09-21T19:33:10.662Z
 DM: Jordan
 Players:
   - David
@@ -65,7 +65,7 @@ As a member of Caleb's crew, you will secretly attend this meet and make a play 
 - Each crew member reached out to a contact in [[Scrimshaw City]] who might have information on Stonetooth's base of operations:
   - Ahna went to The High Roller Bar & Grille & Casino to talk to the fixer [[Binky Slivers]]. Binky shared the danger that the Hellfist posed to the city, and confessed that he himself had given Caleb the Hellfist contract. With this new info, Ahna successfully negotiated for a 25% pay increase.
   - Keylene went to [[The Spicy Meatball]] to talk to [[Terry the Terrible]], and learned that Maureen bought a powerful ballista to defend her hideout from intruders.
-  - Bianca went to the Boldriver Pawnshop to meet up with her old friend [[Zagga Darlington]]. Zagga shared that, not too long ago, Maureen purchased a magical poison gas trap from [[Arno Rickshir]] along with a small hoard of magical items.
+  - Bianca went to the Boldriver Pawnshop to meet up with her old friend [[Jordan's Notes/deleted npcs/Zagga Darlington]]. Zagga shared that, not too long ago, Maureen purchased a magical poison gas trap from [[Arno Rickshir]] along with a small hoard of magical items.
 - Crossing through The Shanties, the crew smartly identified that a cellar in an old Deepmine building had seen some activity, and investigated it. They found an abandoned mine shaft that doubled as a smuggling route. After a short battle against a subterranean horror (a roper), they burst through the back entrance to Stonetooth's hideout and confronted Maureen, who was slowly succumbing to the Hellfist's infernal influence.
 - A short, decisive battle ensued, and the crew was victorious after Ahna shot the Hellfist off of Stonetooth's arm. In thanks for saving her life, Stonetooth gave them a small hoard of magical items and agreed to make amends with Caleb for hurling him through Hell.
 

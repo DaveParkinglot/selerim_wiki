@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T15:30:00.000Z
-modified: 2026-09-13T02:15:45.381Z
-published: 2026-09-13T02:15:45.381Z
+modified: 2026-09-17T19:36:52.699Z
+published: 2026-09-17T19:36:52.699Z
 DM: Jordan
 Platform:
   - Foundry
@@ -107,7 +107,7 @@ End the threat to [[Crabbley]] and [[Crillville]] by eliminating [[Malmstein the
 ### Outcomes
 
 - The forces of Crabbley and Crillville retook Crillville after it was occupied by The Tanglers.
-- In the final confrontation, [[The High Rollers]] struck down Malmstein, who was summarily executed by [[Dick Gunbarrel]].
+- In the final confrontation, [[Player Characters/The High Rollers/index]] struck down Malmstein, who was summarily executed by [[Dick Gunbarrel]].
 
 ## Depose Lord Davos Portnoir
 

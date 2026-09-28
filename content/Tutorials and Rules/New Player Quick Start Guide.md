@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-06T15:52:45.000Z
-modified: 2026-06-28T14:00:28.790Z
-published: 2026-06-28T14:00:28.790Z
+modified: 2026-09-17T19:42:38.009Z
+published: 2026-09-17T19:42:38.009Z
 Author: Jordan
 ---
 
@@ -10,6 +10,7 @@ Author: Jordan
 
 Every game of D\&D is different, but every game of D\&D follows this basic loop:
 ![[z_assets/gameplay_loops.png|800]]
+
 90% of D\&D is describing what your character does in a situation. The other 10% is rolling dice.
 
 ## Combat

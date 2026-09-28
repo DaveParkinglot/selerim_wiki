@@ -4,8 +4,8 @@ aliases:
   - Sir Chauncy
   - Chauncy the Brave
 created: 2025-08-12T13:01:12.000Z
-modified: 2026-08-29T13:55:21.000Z
-published: 2026-08-29T13:55:21.000Z
+modified: 2026-09-17T19:36:52.756Z
+published: 2026-09-17T19:36:52.756Z
 born: 241
 Ancestry: Fiend (Devil)
 Gender: Male
@@ -60,7 +60,7 @@ Author: Jordan
 
 # Overview
 
-Formerly a decorated war hero of [[Tiialia]], brave Sir Chauncy has fallen far after his betrayal of [[The High Rollers]] and [[Antonino Esposito|King Esposito]]. After his death, he became a Hellknight and eventually was imprisoned in Carceri. In [[Tiialia]], the name Chauncy is now synonymous with betrayal of ones friends. Using it will get you cast out of taverns and spit upon by the commonfolk.
+Formerly a decorated war hero of [[Tiialia]], brave Sir Chauncy has fallen far after his betrayal of [[Player Characters/The High Rollers/index]] and [[Antonino Esposito|King Esposito]]. After his death, he became a Hellknight and eventually was imprisoned in Carceri. In [[Tiialia]], the name Chauncy is now synonymous with betrayal of ones friends. Using it will get you cast out of taverns and spit upon by the commonfolk.
 
 ## [[Dunland's Raiders]]
 
@@ -68,7 +68,7 @@ As a brave knight of [[Tiialia]], Chauncy became a war hero after he and [[Dunla
 
 ## [[The High Rollers Campaign]]
 
-Chauncy put in his lot with the [[Landucci Family]] and betrayed [[The High Rollers]]. This proved to be a costly mistake, as he was slain by an arrow from [[Otieno]].
+Chauncy put in his lot with the [[Landucci Family]] and betrayed [[Player Characters/The High Rollers/index]]. This proved to be a costly mistake, as he was slain by an arrow from [[Otieno]].
 
 ## [[The Hellnight Soirée]]
 
@@ -81,7 +81,7 @@ He was quickly entangled by Uncle Bobson's vines, and the boys promptly beat him
 
 ### [[Escape from the Fathomless Vault]]
 
-Chauncy was hunting for an entrance for the Fathomless Vault at the same time as [[Player Characters/Bobby's Boys/index|Bobby's Boys]]. They allied for a short time, making a fey promise to not fight until they located [[The High Rollers]] in the vault. Chauncy claimed that he wanted to retrieve something that The High Rollers took from him.
+Chauncy was hunting for an entrance for the Fathomless Vault at the same time as [[Player Characters/Bobby's Boys/index|Bobby's Boys]]. They allied for a short time, making a fey promise to not fight until they located [[Player Characters/The High Rollers/index]] in the vault. Chauncy claimed that he wanted to retrieve something that The High Rollers took from him.
 
 When the group located The High Rollers, Chauncy shot the paralyzed [[Otieno]] twice in the back with his Acheron crossbow, repaying him for his mortal death. Chauncy was defeated after [[David Hellscream]] knocked him into the Astral Sea.
 

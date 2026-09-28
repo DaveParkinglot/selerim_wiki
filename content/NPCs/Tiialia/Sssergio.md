@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-09T12:43:09.749Z
-published: 2026-08-09T12:43:09.749Z
+modified: 2026-09-17T19:36:53.129Z
+published: 2026-09-17T19:36:53.129Z
 born: 229
 Ancestry:
   - Yuan-ti
@@ -47,7 +47,7 @@ Author: Jordan
 # Overview
 
 - [[Riggle Fragoo]]'s best and only salesman.
-- He worked as [[The High Rollers]] during their time in Nova Jersaeria.
+- He worked as [[Player Characters/The High Rollers/index]] during their time in Nova Jersaeria.
 
 # Attributes
 

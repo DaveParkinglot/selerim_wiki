@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-09T12:43:09.726Z
-published: 2026-08-09T12:43:09.726Z
+modified: 2026-09-17T19:36:53.118Z
+published: 2026-09-17T19:36:53.118Z
 born: 203
 Ancestry: Deep Gnome
 Gender: Male
@@ -12,7 +12,7 @@ Location:
 Role:
   - Sleepy Wizard
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/index]]"
 Appearances:
   - "[[Vlorngroth - The Manor of Madness]]"
   - "[[The High Rollers Campaign]]"
@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Sleepy Wizard
 >
-> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
 >
 > **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

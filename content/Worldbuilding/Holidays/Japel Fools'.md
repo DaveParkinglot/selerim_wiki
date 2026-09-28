@@ -1,8 +1,10 @@
 ---
 publish: true
+aliases:
+  - Japel Fools' Day
 created: 2025-12-12T18:22:06.000Z
-modified: 2026-07-21T13:20:03.620Z
-published: 2026-07-21T13:20:03.620Z
+modified: 2026-09-25T13:54:46.397Z
+published: 2026-09-25T13:54:46.397Z
 Date: "[[Selerim Calendar|Japel]] 1st"
 Author: Jordan
 ---

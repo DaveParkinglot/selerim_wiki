@@ -4,8 +4,8 @@ aliases:
   - Professor Daemon Darkfyre
   - Professor Darkfyre
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-11T15:27:28.833Z
-published: 2026-08-11T15:27:28.833Z
+modified: 2026-09-17T19:36:53.168Z
+published: 2026-09-17T19:36:53.168Z
 born: -61
 Ancestry: Human
 Gender: Male
@@ -67,7 +67,7 @@ Daemon was giving [[Temur Octagon]] some outdoor time on the Quad while he was i
 
 Daemon revealed himself to be the El Presidente of [[Scrimshaw City|Scrimshaw]], [[Hugh Mann]]. He was masquerading as Professor Darkfyre to gather intel at [[White Grove]], though he would not reveal the extent of his plans.
 
-He was the mastermind behind the plot to free [[The High Rollers]]. His co-conspirators included [[Player Characters/Bobby's Boys/index|Bobby's Boys]], [[Pudding]], [[Temur Octagon]], and [[Skitterdream]].
+He was the mastermind behind the plot to free [[Player Characters/The High Rollers/index]]. His co-conspirators included [[Player Characters/Bobby's Boys/index|Bobby's Boys]], [[Pudding]], [[Temur Octagon]], and [[Skitterdream]].
 
 Daemon took the [[Labubu]] from [[Bobby Dismorphia]], stating that it would be unsafe and unwise to take it on the quest, much less return it to [[Pazuzu]].
 

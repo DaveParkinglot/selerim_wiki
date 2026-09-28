@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-08-11T15:42:25.011Z
-published: 2026-08-11T15:42:25.011Z
+modified: 2026-09-17T19:36:52.942Z
+published: 2026-09-17T19:36:52.942Z
 born: 234
 Ancestry: Human
 Gender: Male
@@ -11,7 +11,7 @@ Location:
 Role:
   - Investigative Journalist
 Affiliation:
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/index]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -37,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Investigative Journalist
 >
-> **Affiliation:** [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
 >
@@ -46,7 +46,7 @@ Author: Jordan
 # Overview
 
 - A journalist who is always on the lookout for a scoop.
-- He used his journalistic genius and investigative skills to corner Lord Portnoir on the newspaper page, and aided [[The High Rollers]] in deposing Portnoir.
+- He used his journalistic genius and investigative skills to corner Lord Portnoir on the newspaper page, and aided [[Player Characters/The High Rollers/index]] in deposing Portnoir.
 - Now, he can often be found hanging around [[The Spicy Meatball]].
 
 # Attributes

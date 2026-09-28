@@ -5,8 +5,8 @@ aliases:
   - King Antonino Esposito
   - King Antonino Esposito I
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-13T13:01:31.064Z
-published: 2026-08-13T13:01:31.064Z
+modified: 2026-09-17T19:36:53.108Z
+published: 2026-09-17T19:36:53.108Z
 born: 221
 Ancestry: Human
 Gender: Male
@@ -17,7 +17,7 @@ Role:
   - Former Spymaster
 Affiliation:
   - "[[Esposito Family]]"
-  - "[[The High Rollers]]"
+  - "[[Player Characters/The High Rollers/index]]"
   - "[[Tiialia|Kingdom of Tiialia]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
@@ -44,7 +44,7 @@ Author: Jordan
 >
 > **Role**: King of Tiialia, Former Spymaster
 >
-> **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Player Characters/The High Rollers/The High Rollers.md|The High Rollers]], [[Factions/Tiialia.md|Kingdom of Tiialia]]
+> **Affiliation:** [[Factions/Families of Tiialia/Esposito Family.md|Esposito Family]], [[Player Characters/The High Rollers/index.md|index]], [[Factions/Tiialia.md|Kingdom of Tiialia]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >
@@ -63,7 +63,7 @@ Author: Jordan
 
 - He still held some sway, and had been working as a Tiialan spymaster out of his family's vineyard, supporting the [[Landucci Family]] and the [[Adonzio Family]].
 - Despite this, [[Lord Draco Landucci]] schemed to undermine his authority, planning to give ownership of the Esposito Vineyard to [[Trilbee Rampo]].
-- [[The High Rollers]], while adventuring in [[The Forsaken Expanse]], intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
+- [[Player Characters/The High Rollers/index]], while adventuring in [[The Forsaken Expanse]], intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
 - After some time working with The High Rollers, Nino discovered his true ancestry, overthrew the tyrant [[Lord Draco Landucci]], and rightfully took the crown of [[Tiialia]] for himself.
 
 # Attributes

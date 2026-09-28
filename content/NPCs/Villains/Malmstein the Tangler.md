@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-09T12:43:09.782Z
-published: 2026-08-09T12:43:09.782Z
+modified: 2026-09-17T19:36:53.154Z
+published: 2026-09-17T19:36:53.154Z
 born: 216
 Ancestry:
   - Half-Elf
@@ -47,7 +47,7 @@ Author: Jordan
 
 - One very angry druid, and the former leader of the eco-terrorist organization [[Tanglers]].
 - He crashed the [[Crab Fest]] and caused quite an issue for [[Crabbley]] and [[Crillville]], but he was put in his place one fateful Monday during the Invasion of Crillville.
-- Ultimately, he was captured by [[The High Rollers]] and impaled on [[Dick Gunbarrel]]'s greatsword.
+- Ultimately, he was captured by [[Player Characters/The High Rollers/index]] and impaled on [[Dick Gunbarrel]]'s greatsword.
 
 # Attributes
 
