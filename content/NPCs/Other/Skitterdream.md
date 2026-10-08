@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T14:06:41.278Z
-published: 2026-10-08T14:06:41.278Z
+modified: 2026-10-08T15:13:52.053Z
+published: 2026-10-08T15:13:52.053Z
 born: 255
 Ancestry: Fey Dragon
 Gender: Male
@@ -45,7 +45,7 @@ Author: Jordan
 # Overview
 
 - A fey dragonling serving the interests of the Summer Court.
-- Provided a boon to [[Player Characters/The High Rollers/index]] before their encounter with [[Master Effree Jypstein]]. In return, Skitterdream asked only that they fulfill a request... which they were unable to complete:
+- Provided a boon to [[Player Characters/The High Rollers/index|The High Rollers]] before their encounter with [[Master Effree Jypstein]]. In return, Skitterdream asked only that they fulfill a request... which they were unable to complete:
 - "I entreat you on behalf of the opponents of The Black Prince. After these threats to your material plane are dealt with, the services of The High Rollers will soon be needed by an archfey of the summer court"
   - "To aid you in your current quests, and with the hope of receiving your help at its end, I have given you a powerful boon: the experience of dreams, and a single Quickdream Potion. Forget it not."
 - "The wreath that you once found must be recovered, as it contains the instructions from Naviask, which are known to none save the Blooming Balor. Naviask himself has disappeared, perhaps killed or imprisoned by The Black Prince."

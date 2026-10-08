@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-10-08T14:10:26.576Z
-published: 2026-10-08T14:10:26.576Z
+modified: 2026-10-08T15:17:47.779Z
+published: 2026-10-08T15:17:47.779Z
 born: 218
 Ancestry: Human
 Gender: Male
@@ -45,7 +45,7 @@ Author: Jordan
 
 - His friends call him Jack "Don't call me 'Black Jack'" Black Jack Smith
 - Owner of the blacksmith shop Steel Yourself.
-- Once had his own party montage with [[Player Characters/The High Rollers/index]].
+- Once had his own party montage with [[Player Characters/The High Rollers/index|The High Rollers]].
 - Hates it when you call him Black Jack.
 
 # Attributes

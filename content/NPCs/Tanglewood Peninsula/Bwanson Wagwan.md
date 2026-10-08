@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-10-08T14:08:33.404Z
-published: 2026-10-08T14:08:33.404Z
+modified: 2026-10-08T15:13:47.016Z
+published: 2026-10-08T15:13:47.016Z
 born: 241
 Ancestry: Owlin
 Gender: Male
@@ -48,7 +48,7 @@ Author: Jordan
 
 # Overview
 
-- Bwanson adventured with [[Player Characters/The High Rollers/index]] during their time on the Tanglewood Peninsula.
+- Bwanson adventured with [[Player Characters/The High Rollers/index|The High Rollers]] during their time on the Tanglewood Peninsula.
 - He settled down to start his magic shop Jack of Owl Trades in Mitlin with his business partner Scryer Young.
 
 # Attributes

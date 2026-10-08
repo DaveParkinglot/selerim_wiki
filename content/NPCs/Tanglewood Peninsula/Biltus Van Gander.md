@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-09-17T19:36:52.996Z
-published: 2026-09-17T19:36:52.996Z
+modified: 2026-10-08T15:13:48.082Z
+published: 2026-10-08T15:13:48.082Z
 tags:
   - Crabbley
   - Tanglewood-Peninsula
@@ -49,7 +49,7 @@ Author: Jordan
 # Overview
 
 - Biltus was formerly an adventurer before he and his family settled down as farmers in Crabbley.
-- His family housed [[Player Characters/The High Rollers/index]] for a time, while they were on a quest to rescue the Van Gander's prized hog.
+- His family housed [[Player Characters/The High Rollers/index|The High Rollers]] for a time, while they were on a quest to rescue the Van Gander's prized hog.
 - Unfortunately the prized hog was never recovered from the kobolds who stole it.
 
 # Attributes

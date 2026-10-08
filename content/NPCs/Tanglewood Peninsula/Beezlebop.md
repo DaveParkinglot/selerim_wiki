@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-09-17T19:36:52.985Z
-published: 2026-09-17T19:36:52.985Z
+modified: 2026-10-08T15:13:47.743Z
+published: 2026-10-08T15:13:47.743Z
 tags:
   - Tanglewood-Peninsula
 born: 202
@@ -51,7 +51,7 @@ Author: Jordan
 
 - As an ally of [[Malmstein the Tangler]], he helped create freakishly mutated monsters in his huge spooky mansion.
 - [[Sleeto Van Coof]] inadvertently foiled his operations when he attempted to rob the mansion, but most of his party was turned to slag in Beezlebop's slagma traps.
-- [[Player Characters/The High Rollers/index]] encountered a Living Portrait of Beezlebop himself when they helped Sleeto and young [[Hoary Boulder]] finish the heist of the mansion, though the actual Beezlebop was nowhere to be found...
+- [[Player Characters/The High Rollers/index|The High Rollers]] encountered a Living Portrait of Beezlebop himself when they helped Sleeto and young [[Hoary Boulder]] finish the heist of the mansion, though the actual Beezlebop was nowhere to be found...
 
 ## [[The Crimsonclaw Bounty]]
 

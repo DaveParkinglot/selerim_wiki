@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T14:08:23.000Z
-modified: 2026-09-17T19:36:52.689Z
-published: 2026-09-17T19:36:52.689Z
+modified: 2026-10-08T15:14:23.312Z
+published: 2026-10-08T15:14:23.312Z
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -62,7 +62,7 @@ The Wise Wizards of Mitlin have scried that this individual must be rescued, as 
 # Outcomes
 
 - The [[Prince of Lamps and Luminosity]] aided the party by teleporting them to Winter in The Feywild, where they assisted Grammy Toothache in fending off Krampus' henchmen. They then navigated the terrors of Krampus' domain, The Yuleshade, and entered Krampus' hunting lodge under the premise of caroling. They bested Krampus' champion Jake Frost, and successfully petitioned Krampus for the release of the innocent soul they had sought to save.
-- The individual held in Krampus' punishment sack was the troll [[Pudding]], who had crucial information about the disappearance of Selerim's foremost adventuring party, [[Player Characters/The High Rollers/index]]. The party returned to [[Mitlin]] with Pudding, whose crucial information will undoubtedly influence future events—events known only to the Wise Wizards. Their arduous Giftmas quest completed, Mitlin's newest misfit heroes sat down for a mug of cocoa at Longwood Tavern.
+- The individual held in Krampus' punishment sack was the troll [[Pudding]], who had crucial information about the disappearance of Selerim's foremost adventuring party, [[Player Characters/The High Rollers/index|The High Rollers]]. The party returned to [[Mitlin]] with Pudding, whose crucial information will undoubtedly influence future events—events known only to the Wise Wizards. Their arduous Giftmas quest completed, Mitlin's newest misfit heroes sat down for a mug of cocoa at Longwood Tavern.
 
 # Players & Characters
 

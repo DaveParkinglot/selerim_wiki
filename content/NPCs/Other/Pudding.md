@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T14:06:34.407Z
-published: 2026-10-08T14:06:34.407Z
+modified: 2026-10-08T15:13:52.965Z
+published: 2026-10-08T15:13:52.965Z
 born: 243
 Ancestry: Troll
 Gender: Male
@@ -51,7 +51,7 @@ Author: Jordan
 
 ## [[The High Rollers Campaign]]
 
-- [[Player Characters/The High Rollers/index]] encountered this helpful troll trying to get back to his home in the Underdark. He assisted them in clearing out a kobold lair. Afterwards he went back to his troll home and troll wife in the Underdark...
+- [[Player Characters/The High Rollers/index|The High Rollers]] encountered this helpful troll trying to get back to his home in the Underdark. He assisted them in clearing out a kobold lair. Afterwards he went back to his troll home and troll wife in the Underdark...
 - Pudding was found to have been collected by [[Tzastis the Collector]] when The High Rollers infiltrated The Fathomless Vault. Though the powerful adventuring party never made it out of the vault, but somehow Pudding did, making him one of the few who know the location of The High Rollers.
 
 ## [[Kindlethicket - The Winter Hunt]]

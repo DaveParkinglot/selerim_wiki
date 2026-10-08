@@ -5,8 +5,8 @@ aliases:
   - King Antonino Esposito
   - King Antonino Esposito I
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-10-08T14:10:10.508Z
-published: 2026-10-08T14:10:10.508Z
+modified: 2026-10-08T15:11:34.475Z
+published: 2026-10-08T15:11:34.475Z
 born: 221
 Ancestry: Human
 Gender: Male
@@ -63,7 +63,7 @@ Author: Jordan
 
 - He still held some sway, and had been working as a Tiialan spymaster out of his family's vineyard, supporting the [[Landucci Family]] and the [[Adonzio Family]].
 - Despite this, [[Lord Draco Landucci]] schemed to undermine his authority, planning to give ownership of the Esposito Vineyard to [[Trilbee Rampo]].
-- [[Player Characters/The High Rollers/index]], while adventuring in [[The Forsaken Expanse]], intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
+- [[Player Characters/The High Rollers/index|The High Rollers]], while adventuring in [[The Forsaken Expanse]], intercepted Trilbee and unwittingly forced him to cede ownership of the vineyard to them.
 - After some time working with The High Rollers, Nino discovered his true ancestry, overthrew the tyrant [[Lord Draco Landucci]], and rightfully took the crown of [[Tiialia]] for himself.
 
 # Attributes

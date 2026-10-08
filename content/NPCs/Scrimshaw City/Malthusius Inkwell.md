@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-10-08T14:07:49.598Z
-published: 2026-10-08T14:07:49.598Z
+modified: 2026-10-08T15:13:48.989Z
+published: 2026-10-08T15:13:48.989Z
 born: 234
 Ancestry: Human
 Gender: Male
@@ -46,7 +46,7 @@ Author: Jordan
 # Overview
 
 - A journalist who is always on the lookout for a scoop.
-- He used his journalistic genius and investigative skills to corner Lord Portnoir on the newspaper page, and aided [[Player Characters/The High Rollers/index]] in deposing Portnoir.
+- He used his journalistic genius and investigative skills to corner Lord Portnoir on the newspaper page, and aided [[Player Characters/The High Rollers/index|The High Rollers]] in deposing Portnoir.
 - Now, he can often be found hanging around [[The Spicy Meatball]].
 
 # Attributes

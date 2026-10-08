@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T14:07:35.837Z
-published: 2026-10-08T14:07:35.837Z
+modified: 2026-10-08T15:13:49.846Z
+published: 2026-10-08T15:13:49.846Z
 born: 229
 Ancestry:
   - Human
@@ -52,7 +52,7 @@ Author: Jordan
 ## [[The High Rollers Campaign]]
 
 - "Nothing better than a crisp glass of pink lemonade in the morning". Everyone's favorite 35 year old kid.
-- Hoary was brought into [[Beezlebop]]'s hidden manor after [[Player Characters/The High Rollers/index]] convinced him that hanging out in his mom's basement was less cool than adventuring.
+- Hoary was brought into [[Beezlebop]]'s hidden manor after [[Player Characters/The High Rollers/index|The High Rollers]] convinced him that hanging out in his mom's basement was less cool than adventuring.
 - Hoary lost his right eye after being kidnapped by kobolds.
 - Hoary departed his mom's basement in [[Crabbley]] and journeyed with The High Rollers and [[Captain Chorn Chinfer]] to [[Scrimshaw City]]. There, he hoped to begin working for [[Tavernstool]] because he was a huge fan of [[Lord Davos Portnoir]].
   **Downtime after Tiialia arc**:

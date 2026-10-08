@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T13:24:00.000Z
-modified: 2026-09-28T15:48:00.189Z
-published: 2026-09-28T15:48:00.189Z
+modified: 2026-10-08T15:17:38.263Z
+published: 2026-10-08T15:17:38.263Z
 DM: Jordan
 Platform:
   - Foundry
@@ -60,7 +60,7 @@ Classes:
 
 While hopelessly lost in the Feywild after completing a quest for [[Pazuzu]], your party awoke one morning to a map and a note entreating you to travel to the realm's westernmost fey crossing.
 
-The author of the note claims to be an ally, and wishes to discuss your party's participation in the rescue of [[Player Characters/The High Rollers/index]], the renowned group of adventurers who mysteriously vanished nearly 2 years ago.
+The author of the note claims to be an ally, and wishes to discuss your party's participation in the rescue of [[Player Characters/The High Rollers/index|The High Rollers]], the renowned group of adventurers who mysteriously vanished nearly 2 years ago.
 
 # Outcomes
 
@@ -77,12 +77,12 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 ## Session 2
 
 - The boys earned a much needed night of rest on a quad bunk bed in an old [[White Grove]] dorm room after "months" in the Feywild. In the material world, only a few weeks had passed.
-- Discussed the rescue operation of [[Player Characters/The High Rollers/index]] with a disguised [[Hugh Mann]]. He shared his schemes with the group:
+- Discussed the rescue operation of [[Player Characters/The High Rollers/index|The High Rollers]] with a disguised [[Hugh Mann]]. He shared his schemes with the group:
   - "I leaked information to unsavory folk in the lower planes (begrudgingly) including my sister [[Humana]], hoping they might find an entrance"
   - "I fed false information and planted a deep cover agent in the [[Legion of Doom]], hoping that they too might find an entrance"
 - When he learned of the party's great success in heisting the Jade Vault and stealing an invitation to the Fathomless Vault, he knew he needed to get in contact.
 - As the group's newfound patron for the adventure, he and his troll assistant [[Pudding]] provided magical gear from White Grove's Arcane Armory.
-- Hugh Mann shared the grim fact that no rescue party will be sent for the party if they should fail to return from the Fathomless Vault. This is his last attempt to gain access to the Fathomless Vault to rescue his old adventuring party [[Player Characters/The High Rollers/index]] before he turns his attention to other matters.
+- Hugh Mann shared the grim fact that no rescue party will be sent for the party if they should fail to return from the Fathomless Vault. This is his last attempt to gain access to the Fathomless Vault to rescue his old adventuring party [[Player Characters/The High Rollers/index|The High Rollers]] before he turns his attention to other matters.
 - Hugh confiscated the [[Labubu]] from Bobby, stating that “if there is a time to return Labubu to Pazuzu, it decidedly is not now. Too many things are now in motion…”
 - "Squeembis" joined up with the [[Sons of Tiialia]] and made a new friend in the chapter president [[Cristos Babblestaff]].
 - David sparred with several students, beating them senseless with his mighty hammer, a Dwarven Thrower.
@@ -101,7 +101,7 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 
 ### The Umbral Vale
 
-- The boys parleyed with [[Chauncy the Unrepentant]] at the edge of the Umbral Vale, making a Fey Promise to not interfere or attack him while they worked toward a common goal: infiltrating the Fathomless Vault to locate [[Player Characters/The High Rollers/index]].
+- The boys parleyed with [[Chauncy the Unrepentant]] at the edge of the Umbral Vale, making a Fey Promise to not interfere or attack him while they worked toward a common goal: infiltrating the Fathomless Vault to locate [[Player Characters/The High Rollers/index|The High Rollers]].
 - Chauncy was dodgy about his motives, but he insisted he would not harm the party and that he simply wished to take back "something that The High Rollers stole from him". Chauncy split from the party to search for an entrance to the vault, but he gave them a sending stone to communicate with.
 - [[Temur Octagon]], fearing for his life in the dreaded Umbral Vale, insisted upon hiding inside Bobby's bag of holding, only occasionally coming up for air and light beers.
 - Nearing the ringed city at the center of the Umbral Vale, the boys hear the booming voice of [[Tadeusz]] emanate from the Tome of Collection that Quarf holds:

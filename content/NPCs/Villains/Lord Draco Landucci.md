@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:53.152Z
-published: 2026-09-17T19:36:53.152Z
+modified: 2026-10-08T15:13:40.138Z
+published: 2026-10-08T15:13:40.138Z
 born: 210
 Ancestry:
   - Human
@@ -46,7 +46,7 @@ Author: Jordan
 
 # Overview
 
-- Before his death at the hands of [[Player Characters/The High Rollers/index]], Lord Landucci was all of these things:
+- Before his death at the hands of [[Player Characters/The High Rollers/index|The High Rollers]], Lord Landucci was all of these things:
   - Tiialan Lord
   - [[Landucci Family]] patriarch
   - High Commander of the Legions of Tiialia

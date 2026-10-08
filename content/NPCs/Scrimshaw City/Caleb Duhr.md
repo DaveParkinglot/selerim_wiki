@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T14:07:12.069Z
-published: 2026-10-08T14:07:12.069Z
+modified: 2026-10-08T15:13:50.366Z
+published: 2026-10-08T15:13:50.366Z
 born: 262
 Ancestry:
   - Galeb Duhr, Rock Elemental
@@ -47,7 +47,7 @@ Author: Jordan
 # Overview
 
 - The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
-- After fighting and losing to [[Player Characters/The High Rollers/index]] in the pit, Caleb decided he wanted to live in [[The Spicy Meatball]]. He is often used in advertising campaigns because he can be painted to look almost exactly like a meatball.
+- After fighting and losing to [[Player Characters/The High Rollers/index|The High Rollers]] in the pit, Caleb decided he wanted to live in [[The Spicy Meatball]]. He is often used in advertising campaigns because he can be painted to look almost exactly like a meatball.
 
 # Attributes
 

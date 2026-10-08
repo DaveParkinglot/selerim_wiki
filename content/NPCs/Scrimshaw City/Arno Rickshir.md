@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T14:06:53.477Z
-published: 2026-10-08T14:06:53.477Z
+modified: 2026-10-08T15:13:51.767Z
+published: 2026-10-08T15:13:51.767Z
 born: 212
 Ancestry:
   - Half-Orc
@@ -48,7 +48,7 @@ Author: Jordan
 > [!Quote|author mark no-title]
 > _"You never know WHAT is gonna come through that door!"_ <br> <span style="float: right;">—Arno Rickshir <br>  </span>
 
-- Though [[Player Characters/The High Rollers/index]] were able to recover his stolen goods from kobold thieves, his old man and his son were killed while journeying through the [[Tanglewood Peninsula|Tanglewood]].
+- Though [[Player Characters/The High Rollers/index|The High Rollers]] were able to recover his stolen goods from kobold thieves, his old man and his son were killed while journeying through the [[Tanglewood Peninsula|Tanglewood]].
 - Owner of Boldriver Pawn Shop, the best place to buy and trade magic items in [[Scrimshaw City]], and anywhere else
 - Sometimes travels around in his Pocket Pawn Shop, a version of his pawn shop that fits inside of a wagon
 - Inseparable from his best friend and only remaining permanent employee, the sentient bag of holding named Deep Tote

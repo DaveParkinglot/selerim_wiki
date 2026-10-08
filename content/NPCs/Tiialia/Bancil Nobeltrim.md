@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-10-08T14:10:14.034Z
-published: 2026-10-08T14:10:14.034Z
+modified: 2026-10-08T15:13:42.753Z
+published: 2026-10-08T15:13:42.753Z
 born: 236
 Ancestry: Half-Elf
 Gender: Male
@@ -52,7 +52,7 @@ Author: Jordan
 ## **[[The High Rollers Campaign]]**
 
 - A paladin of the god of justice, Tyr. Bancil hails from [[Crillville]].
-- Bancil adventured with [[Player Characters/The High Rollers/index]] for a long while after besting [[Tadeusz]] in a duel to prove his worth.
+- Bancil adventured with [[Player Characters/The High Rollers/index|The High Rollers]] for a long while after besting [[Tadeusz]] in a duel to prove his worth.
 - Bancil, along with the other High Rollers, performed both great and terrible deeds while adventuring.
 - After the adventuring party deposed [[Lord Davos Portnoir]], Bancil travelled with his family to [[Nova Jersaeria]] to spread justice and the word of Tyr.
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-26T14:17:18.000Z
-modified: 2026-09-17T19:36:53.201Z
-published: 2026-09-17T19:36:53.201Z
+modified: 2026-10-08T15:13:21.917Z
+published: 2026-10-08T15:13:21.917Z
 Author: Jordan
 ---
 
@@ -18,7 +18,7 @@ A month after Proklor's summoning, the rebellious duergar, Dyksin Poosie, who pa
 
 ## [[The High Rollers Campaign]]
 
-Incursions by Vlorn agents began to occur in [[Tiialia]] while [[Player Characters/The High Rollers/index]] were adventuring there. They thwarted the incursions, killing many scouts and even a draegloth, which held a decree from [[High Lord Jorad Kranicz]] about an impending Vlorn invasion of Tiialia. A drow bounty hunter named [[Carbuckle Duskshot]] began hunting The High Rollers, but ultimately became an ally of necessity after both the adventuring party and Carbuckle were caught up in [[Master Effree Jypstein]]'s undead invasion of [[Nova Jersaeria]].
+Incursions by Vlorn agents began to occur in [[Tiialia]] while [[Player Characters/The High Rollers/index|The High Rollers]] were adventuring there. They thwarted the incursions, killing many scouts and even a draegloth, which held a decree from [[High Lord Jorad Kranicz]] about an impending Vlorn invasion of Tiialia. A drow bounty hunter named [[Carbuckle Duskshot]] began hunting The High Rollers, but ultimately became an ally of necessity after both the adventuring party and Carbuckle were caught up in [[Master Effree Jypstein]]'s undead invasion of [[Nova Jersaeria]].
 
 ## Adventure 3 - [[Vlorngroth - 2 Manor 2 Madness|2 Manor 2 Madness]]
 

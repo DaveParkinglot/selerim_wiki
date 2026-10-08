@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T14:04:55.484Z
-published: 2026-10-08T14:04:55.484Z
+modified: 2026-10-08T15:13:41.529Z
+published: 2026-10-08T15:13:41.529Z
 born: 216
 Ancestry: Drow
 Gender: Male
@@ -46,7 +46,7 @@ Author: Jordan
 # Overview
 
 - 5'9 drow with nothin to lose. Always wears a duster, even underwater.
-- A drow gunslinger bounty hunter who once hunted [[Player Characters/The High Rollers/index]] for their bounty in [[Vlorngroth]].
+- A drow gunslinger bounty hunter who once hunted [[Player Characters/The High Rollers/index|The High Rollers]] for their bounty in [[Vlorngroth]].
 - He became an unlikely ally in the fight against [[Master Effree Jypstein]]'s undead.
 - He has a twin brother who was turned into a draegloth when they were young.
 - He is currently serving as a Colonel in the [[Tiialia|Tiialan]] military, based in the town of Scallion.

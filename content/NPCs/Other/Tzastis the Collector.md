@@ -2,8 +2,8 @@
 publish: true
 aliases: Tzastis
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T14:06:44.170Z
-published: 2026-10-08T14:06:44.170Z
+modified: 2026-10-08T15:13:52.650Z
+published: 2026-10-08T15:13:52.650Z
 born: -10000
 Ancestry: Archfey
 Gender: N/A
@@ -54,12 +54,12 @@ Author: Jordan
 
 ## [[The High Rollers Campaign]]
 
-- One of their goals is to preserve the history of famous and powerful adventurers, including [[Player Characters/The High Rollers/index]].
+- One of their goals is to preserve the history of famous and powerful adventurers, including [[Player Characters/The High Rollers/index|The High Rollers]].
 - During their last, [[The High Rollers Campaign#Thwart The Collector|ill-fated adventure]], The High Rollers and their companions Eros and Maldoy were collected by Tzastis, excluding the blood hunter [[Tadeusz]]. They were placed on display as trophies in the 900th exhibit of the Fathomless Vault, a false copy of their restaurant [[The Spicy Meatball]].
 
 ### [[Saving Cousin Gane]]
 
-Bobby Dismorphia and his boys discovered and stole an invitation to the [[Fathomless Vault]], which was intended for the [[Jade Queen]]. Bobby, having studied the adventures of The High Rollers during his time as a NEAT, was aware that Selerim's foremost adventuring party [[Player Characters/The High Rollers/index]] were trapped in the vault. They group may make plans to free them, but only time will tell.
+Bobby Dismorphia and his boys discovered and stole an invitation to the [[Fathomless Vault]], which was intended for the [[Jade Queen]]. Bobby, having studied the adventures of The High Rollers during his time as a NEAT, was aware that Selerim's foremost adventuring party [[Player Characters/The High Rollers/index|The High Rollers]] were trapped in the vault. They group may make plans to free them, but only time will tell.
 
 ### [[Escape from the Fathomless Vault]]
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.887Z
-published: 2026-09-17T19:36:52.887Z
+modified: 2026-10-08T15:10:57.371Z
+published: 2026-10-08T15:10:57.371Z
 born: 214
 Ancestry:
   - Halfling
@@ -47,7 +47,7 @@ Author: Jordan
 
 # Overview
 
-- He and [[Blostin Brawnslag]] gave the first quest to [[Player Characters/The High Rollers/index]] after they requested that the party track down and locate [[Spurgon Bogolog]], their missing frontman.
+- He and [[Blostin Brawnslag]] gave the first quest to [[Player Characters/The High Rollers/index|The High Rollers]] after they requested that the party track down and locate [[Spurgon Bogolog]], their missing frontman.
 - World renowned lutist, and one of the 3 members of Crag Delta.
 - They've played venues from [[Nova Jersaeria]], but when they're not touring they live in [[Scrimshaw City]] and play gigs at The Pit.
 - His actual name and stage name are Franky Fizzno.

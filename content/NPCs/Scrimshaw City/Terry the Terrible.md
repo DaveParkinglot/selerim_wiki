@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T14:16:48.076Z
-modified: 2026-10-08T14:07:55.440Z
-published: 2026-10-08T14:07:55.440Z
+modified: 2026-10-08T15:13:48.389Z
+published: 2026-10-08T15:13:48.389Z
 born: 220
 Ancestry:
   - Satyr
@@ -49,7 +49,7 @@ Author: Jordan
 
 # Overview
 
-- Terry used to run a small time bandit gang in [[Scrimshaw City|Scrimshaw]], but after kidnapping [[Hoary Boulder]] and running afoul of [[Player Characters/The High Rollers/index]], his crew was wiped out.
+- Terry used to run a small time bandit gang in [[Scrimshaw City|Scrimshaw]], but after kidnapping [[Hoary Boulder]] and running afoul of [[Player Characters/The High Rollers/index|The High Rollers]], his crew was wiped out.
 - After some soul searching, he decided to take a job as sous chef at [[The Spicy Meatball]]. He is now head chef, after the disappearance of The High Rollers.
 
 # Attributes

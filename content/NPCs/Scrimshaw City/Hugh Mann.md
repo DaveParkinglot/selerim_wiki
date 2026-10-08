@@ -3,8 +3,8 @@ publish: true
 aliases:
   - El Presidente Hugh Mann
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T14:07:42.767Z
-published: 2026-10-08T14:07:42.767Z
+modified: 2026-10-08T15:13:49.305Z
+published: 2026-10-08T15:13:49.305Z
 born: -61
 Ancestry: Fiend (Devil)
 Gender: Male
@@ -63,7 +63,7 @@ See also: [[Daemon Darkfyre]]
 
 - A devil from one of the Nine Hells who isn't actually all that bad.
 - Hundreds of years ago, Hugh and his friends were thrown away as battlefield fodder by the man who would become the devil [[Lord Davos Portnoir]].
-- He adventured with [[Player Characters/The High Rollers/index]] for a time, and eventually had his vengeance by deposing [[Lord Davos Portnoir]].
+- He adventured with [[Player Characters/The High Rollers/index|The High Rollers]] for a time, and eventually had his vengeance by deposing [[Lord Davos Portnoir]].
 - With Portnoir deposed, Hugh Mann now reigns as El Presidente of [[Scrimshaw City]], and he has sole ownership of [[Tavernstool]], Portnoir's old company.
 - His status as a devil is, at this point, widely known in Scrimshaw.
 
