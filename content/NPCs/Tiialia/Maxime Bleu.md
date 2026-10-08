@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:55:42.902Z
-published: 2026-07-28T14:55:42.902Z
+modified: 2026-10-08T14:11:00.856Z
+published: 2026-10-08T14:11:00.856Z
 born: 192
 Ancestry: Human
 Gender: Female
@@ -11,7 +11,6 @@ Location:
 Role:
   - Shopkeeper
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -36,7 +35,7 @@ Author: Jordan
 >
 > **Role**: Shopkeeper
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

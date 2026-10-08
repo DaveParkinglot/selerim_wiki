@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.866Z
-published: 2026-09-17T19:36:52.866Z
+modified: 2026-10-08T14:07:12.069Z
+published: 2026-10-08T14:07:12.069Z
 born: 262
 Ancestry:
   - Galeb Duhr, Rock Elemental
@@ -13,7 +13,7 @@ Role:
   - Rock
   - Mascot
 Affiliation:
-  - "[[Player Characters/The High Rollers/index]]"
+  - "[[Player Characters/The High Rollers/index|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Rock, Mascot
 >
-> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

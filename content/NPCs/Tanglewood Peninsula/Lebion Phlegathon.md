@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-28T14:50:04.562Z
-published: 2026-07-28T14:50:04.562Z
+modified: 2026-10-08T14:09:18.080Z
+published: 2026-10-08T14:09:18.080Z
 born: 136
 Ancestry: Elf
 Gender: Male
@@ -11,7 +11,7 @@ Location:
 Role:
   - Lead Ranger
 Affiliation:
-  - Mitlin
+  - Rangers of Mitlin
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Kindlethicket - Envoys of Mitlin]]"
@@ -39,7 +39,7 @@ Author: Jordan
 >
 > **Role**: Lead Ranger
 >
-> **Affiliation:** Mitlin
+> **Affiliation:** Rangers of Mitlin
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
 >

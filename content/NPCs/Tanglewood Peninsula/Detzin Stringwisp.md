@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Detzin
 created: 2025-11-02T15:33:16.000Z
-modified: 2026-08-04T19:10:14.156Z
-published: 2026-08-04T19:10:14.156Z
+modified: 2026-10-08T14:08:42.474Z
+published: 2026-10-08T14:08:42.474Z
 born: 224
 Ancestry:
   - Wood Elf
@@ -15,7 +15,6 @@ Role:
   - Bard
   - Solo Artist
 Affiliation:
-  - "[[Mitlin]]"
 Appearances:
   - "[[The Marrowsucker Contract]]"
   - "[[Lighting the Lighthouse]]"
@@ -41,7 +40,7 @@ Author: Jordan
 >
 > **Role**: Bard, Solo Artist
 >
-> **Affiliation:** [[Places/Mitlin.md|Mitlin]]
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]], [[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
 >

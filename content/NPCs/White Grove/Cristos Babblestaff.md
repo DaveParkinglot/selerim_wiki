@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-11T15:32:06.870Z
-published: 2026-08-11T15:32:06.870Z
+modified: 2026-10-08T14:12:34.851Z
+published: 2026-10-08T14:12:34.851Z
 born: 242
 Ancestry: Orc
 Gender: Male
@@ -12,7 +12,6 @@ Role:
   - Student
   - Super Senior
 Affiliation:
-  - None
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
@@ -39,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Student, Super Senior
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >

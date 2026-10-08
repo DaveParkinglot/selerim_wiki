@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T13:10:18.000Z
-modified: 2026-08-11T15:25:33.876Z
-published: 2026-08-11T15:25:33.876Z
+modified: 2026-10-08T14:06:28.150Z
+published: 2026-10-08T14:06:28.150Z
 born: -10000
 Ancestry: Demon
 Gender: Male
@@ -12,7 +12,7 @@ Role:
   - Dark Angel of the Four Winds
   - Eldest Child of the Infinite Abyss
 Affiliation:
-  - None
+  - "[[Pazuzu's Pals]]"
 Appearances:
   - "[[The Hellnight Soirée]]"
   - "[[Bobby's Bachelor Birthday Bender]]"
@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Dark Angel of the Four Winds, Eldest Child of the Infinite Abyss
 >
-> **Affiliation:** None
+> **Affiliation:** [[Pazuzu's Pals|Pazuzu's Pals]]
 >
 > **Appearances:** [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]], [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]]
 >

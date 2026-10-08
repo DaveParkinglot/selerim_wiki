@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-09-17T19:36:53.129Z
-published: 2026-09-17T19:36:53.129Z
+modified: 2026-10-08T14:11:30.944Z
+published: 2026-10-08T14:11:30.944Z
 born: 229
 Ancestry:
   - Yuan-ti
@@ -13,7 +13,6 @@ Location:
 Role:
   - Account Executive
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -38,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Account Executive
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

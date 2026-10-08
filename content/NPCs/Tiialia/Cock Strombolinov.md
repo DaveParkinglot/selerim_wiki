@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:54:20.043Z
-published: 2026-07-28T14:54:20.043Z
+modified: 2026-10-08T14:10:21.000Z
+published: 2026-10-08T14:10:21.000Z
 born: 240
 Ancestry:
   - Yuan-ti
@@ -13,7 +13,6 @@ Location:
 Role:
   - Bodyguard
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -38,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Bodyguard
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

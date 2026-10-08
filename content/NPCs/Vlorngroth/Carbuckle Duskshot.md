@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:53.163Z
-published: 2026-09-17T19:36:53.163Z
+modified: 2026-10-08T14:04:55.484Z
+published: 2026-10-08T14:04:55.484Z
 born: 216
 Ancestry: Drow
 Gender: Male
@@ -12,7 +12,7 @@ Role:
   - Gunslinger Bounty Hunter, Former Inquisitor
   - Colonel
 Affiliation:
-  - "[[Player Characters/The High Rollers/index]]"
+  - "[[Vlorn Dynasty]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -37,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Gunslinger Bounty Hunter, Former Inquisitor, Colonel
 >
-> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
+> **Affiliation:** [[Factions/Vlorn Dynasty.md|Vlorn Dynasty]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

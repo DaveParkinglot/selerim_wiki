@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-28T14:46:32.183Z
-published: 2026-07-28T14:46:32.183Z
+modified: 2026-10-08T14:08:29.440Z
+published: 2026-10-08T14:08:29.440Z
 born: 220
 Ancestry: Half-Elf
 Gender: Male
@@ -11,7 +11,6 @@ Location:
 Role:
   - Shopkeeper
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -36,7 +35,7 @@ Author: Jordan
 >
 > **Role**: Shopkeeper
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

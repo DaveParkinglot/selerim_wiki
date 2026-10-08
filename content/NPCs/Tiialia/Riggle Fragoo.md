@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:55:58.046Z
-published: 2026-07-28T14:55:58.046Z
+modified: 2026-10-08T14:11:20.253Z
+published: 2026-10-08T14:11:20.253Z
 born: 228
 Ancestry: Bullywug
 Gender: Male
@@ -10,9 +10,9 @@ Location:
   - "[[Nova Jersaeria]]"
   - Sewers
 Role:
-  - Business man, Magic item purveyor
+  - Business Frog
+  - Magic Item Salesfrog
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -35,9 +35,9 @@ Author: Jordan
 >
 > **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], Sewers
 >
-> **Role**: Business man, Magic item purveyor
+> **Role**: Business Frog, Magic Item Salesfrog
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

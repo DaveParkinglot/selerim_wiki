@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-02T20:31:31.000Z
-modified: 2026-07-27T22:16:46.741Z
-published: 2026-07-27T22:16:46.741Z
+modified: 2026-10-08T14:08:00.526Z
+published: 2026-10-08T14:08:00.526Z
 born: 234
 Ancestry:
   - Orc
@@ -13,7 +13,6 @@ Role:
   - Former Gangster
   - Private Security
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[New Dawn - Hellfist Heist]]"
@@ -39,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Former Gangster, Private Security
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
 >

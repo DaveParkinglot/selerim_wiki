@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-09-17T19:36:53.091Z
-published: 2026-09-17T19:36:53.091Z
+modified: 2026-10-08T14:09:43.733Z
+published: 2026-10-08T14:09:43.733Z
 born: 215
 Ancestry: Human
 Gender: Male
@@ -12,7 +12,6 @@ Role:
   - Thief
   - Spymaster
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -37,7 +36,7 @@ Author: Jordan
 >
 > **Role**: Thief, Spymaster
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

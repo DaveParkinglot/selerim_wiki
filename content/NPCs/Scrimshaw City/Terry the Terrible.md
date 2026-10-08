@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T14:16:48.076Z
-modified: 2026-09-17T19:36:52.964Z
-published: 2026-09-17T19:36:52.964Z
+modified: 2026-10-08T14:07:55.440Z
+published: 2026-10-08T14:07:55.440Z
 born: 220
 Ancestry:
   - Satyr
@@ -14,7 +14,7 @@ Role:
   - Former Criminal
   - Head Chef
 Affiliation:
-  - "[[Player Characters/The High Rollers/index]]"
+  - "[[Player Characters/The High Rollers/index|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -41,7 +41,7 @@ Author: Jordan
 >
 > **Role**: Former Criminal, Head Chef
 >
-> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]], [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
 >

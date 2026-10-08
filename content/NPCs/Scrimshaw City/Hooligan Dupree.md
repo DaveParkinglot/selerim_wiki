@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.908Z
-published: 2026-09-17T19:36:52.908Z
+modified: 2026-10-08T14:07:39.068Z
+published: 2026-10-08T14:07:39.068Z
 born: 233
 Ancestry:
   - Satyr
@@ -14,7 +14,7 @@ Role:
   - Bartender
   - Aspiring Salt Spitter
 Affiliation:
-  - None
+  - "[[Player Characters/The High Rollers/index|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -40,7 +40,7 @@ Author: Jordan
 >
 > **Role**: Failed Adventurer, Bartender, Aspiring Salt Spitter
 >
-> **Affiliation:** None
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
 >

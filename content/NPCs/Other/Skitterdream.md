@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.791Z
-published: 2026-09-17T19:36:52.791Z
+modified: 2026-10-08T14:06:41.278Z
+published: 2026-10-08T14:06:41.278Z
 born: 255
 Ancestry: Fey Dragon
 Gender: Male
@@ -11,7 +11,7 @@ Location:
 Role:
   - Fey Messenger
 Affiliation:
-  - The Summer Court
+  - Summer Court
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -36,7 +36,7 @@ Author: Jordan
 >
 > **Role**: Fey Messenger
 >
-> **Affiliation:** The Summer Court
+> **Affiliation:** Summer Court
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

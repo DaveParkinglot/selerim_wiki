@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-09-17T19:36:53.123Z
-published: 2026-09-17T19:36:53.123Z
+modified: 2026-10-08T14:10:26.576Z
+published: 2026-10-08T14:10:26.576Z
 born: 218
 Ancestry: Human
 Gender: Male
@@ -11,7 +11,6 @@ Location:
 Role:
   - Blacksmith
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -36,7 +35,7 @@ Author: Jordan
 >
 > **Role**: Blacksmith
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

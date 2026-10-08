@@ -1,19 +1,19 @@
 ---
 publish: true
 created: 2025-10-15T14:42:10.000Z
-modified: 2026-08-11T15:32:29.536Z
-published: 2026-08-11T15:32:29.536Z
+modified: 2026-10-08T14:12:30.376Z
+published: 2026-10-08T14:12:30.376Z
 born: 244
 Ancestry: Elf
 Gender: Male
 Location:
   - "[[White Grove]]"
+  - "[[Mitlin]]"
 Role:
   - Student
   - Sophomore
   - Entrepreneur
 Affiliation:
-  - "[[Mitlin]]"
 Appearances:
   - "[[White Grove - Summer Vacation]]"
   - "[[Escape from the Fathomless Vault]]"
@@ -35,11 +35,11 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: [[Places/White Grove.md|White Grove]]
+> **Location**: [[Places/White Grove.md|White Grove]], [[Places/Mitlin.md|Mitlin]]
 >
 > **Role**: Student, Sophomore, Entrepreneur
 >
-> **Affiliation:** [[Places/Mitlin.md|Mitlin]]
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >

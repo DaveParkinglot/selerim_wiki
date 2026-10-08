@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Lord Batista
 created: 2026-05-03T15:25:40.236Z
-modified: 2026-08-13T13:01:06.629Z
-published: 2026-08-13T13:01:06.629Z
+modified: 2026-10-08T14:10:56.975Z
+published: 2026-10-08T14:10:56.975Z
 born: -10000
 Ancestry: Human
 Gender: Male
@@ -13,7 +13,7 @@ Location:
   - "[[Batistallas]]"
   - The Vulture's Nest
 Role:
-  - Lord of [[Batista Family|House Batista]]
+  - Lord
 Affiliation:
   - "[[Batista Family]]"
 Appearances:
@@ -39,7 +39,7 @@ Author: Ethan
 >
 > **Location**: [[Places/Nova Jersaeria.md|Nova Jersaeria]], [[Places/Batistallas.md|Batistallas]], The Vulture's Nest
 >
-> **Role**: Lord of [[Batista Family|House Batista]]
+> **Role**: Lord
 >
 > **Affiliation:** [[Factions/Families of Tiialia/Batista Family.md|Batista Family]]
 >

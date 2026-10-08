@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T15:15:51.917Z
-published: 2026-07-28T15:15:51.917Z
+modified: 2026-10-08T14:12:52.628Z
+published: 2026-10-08T14:12:52.628Z
 born: 250
 Ancestry: Human
 Gender: Male
@@ -12,7 +12,6 @@ Role:
   - Student
   - Freshman
 Affiliation:
-  - None
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
@@ -38,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Student, Freshman
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 >

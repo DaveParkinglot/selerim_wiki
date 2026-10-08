@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-28T14:47:24.333Z
-published: 2026-07-28T14:47:24.333Z
+modified: 2026-10-08T14:08:37.008Z
+published: 2026-10-08T14:08:37.008Z
 born: 248
 Ancestry: Dragonborn
 Gender: Male
@@ -11,7 +11,6 @@ Location:
 Role:
   - Adventurer, Bard, Head Chef
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -36,7 +35,7 @@ Author: Jordan
 >
 > **Role**: Adventurer, Bard, Head Chef
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

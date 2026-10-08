@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-09-17T16:03:07.000Z
-modified: 2026-07-28T15:00:38.064Z
-published: 2026-07-28T15:00:38.064Z
+modified: 2026-10-08T14:12:05.973Z
+published: 2026-10-08T14:12:05.973Z
 born: 102
 Ancestry:
   - Drow
@@ -13,7 +13,7 @@ Location:
 Role:
   - Former Inquisitor
 Affiliation:
-  - None
+  - "[[Vlorn Dynasty]]"
 Appearances:
   - "[[Vlorngroth - 2 Manor 2 Madness]]"
   - "[[Vlorngroth - Vampire Weekday]]"
@@ -39,7 +39,7 @@ Author: Jordan
 >
 > **Role**: Former Inquisitor
 >
-> **Affiliation:** None
+> **Affiliation:** [[Factions/Vlorn Dynasty.md|Vlorn Dynasty]]
 >
 > **Appearances:** [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]], [[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]]
 >

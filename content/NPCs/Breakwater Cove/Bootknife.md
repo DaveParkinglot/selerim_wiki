@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T21:26:09.824Z
-published: 2026-07-27T21:26:09.824Z
+modified: 2026-10-08T14:05:19.378Z
+published: 2026-10-08T14:05:19.378Z
 tags:
   - Breakwater-Cove
 born: 229
@@ -14,7 +14,6 @@ Location:
 Role:
   - Roguish Fiend, Thief, Part-time Merchant
 Affiliation:
-  - None
 Appearances:
   - "[[Bootknife's Bounty]]"
 Status: Alive
@@ -39,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Roguish Fiend, Thief, Part-time Merchant
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/Bootknife's Bounty.md|Bootknife's Bounty]]
 >

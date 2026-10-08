@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-08T16:33:00.000Z
-modified: 2026-07-28T14:51:27.680Z
-published: 2026-07-28T14:51:27.680Z
+modified: 2026-10-08T14:09:41.107Z
+published: 2026-10-08T14:09:41.107Z
 born: 218
 Ancestry:
   - Elf
@@ -13,7 +13,6 @@ Role:
   - Merchant
   - Scryer
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Kindlethicket - Envoys of Mitlin]]"
@@ -41,7 +40,7 @@ Author: Jordan
 >
 > **Role**: Merchant, Scryer
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]], [[Adventures/Lighting the Lighthouse.md|Lighting the Lighthouse]]
 >

@@ -4,8 +4,8 @@ aliases:
   - Professor Daemon Darkfyre
   - Professor Darkfyre
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-09-17T19:36:53.168Z
-published: 2026-09-17T19:36:53.168Z
+modified: 2026-10-08T14:12:42.671Z
+published: 2026-10-08T14:12:42.671Z
 born: -61
 Ancestry: Human
 Gender: Male
@@ -14,7 +14,6 @@ Location:
 Role:
   - Professor of Infernal Magicks
 Affiliation:
-  - None
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
@@ -41,7 +40,7 @@ Author: Jordan
 >
 > **Role**: Professor of Infernal Magicks
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-05T17:44:04.000Z
-modified: 2026-07-27T21:34:09.018Z
-published: 2026-07-27T21:34:09.018Z
+modified: 2026-10-08T14:06:03.630Z
+published: 2026-10-08T14:06:03.630Z
 born: -10000
 Ancestry:
   - Fiend (Devil)
@@ -12,7 +12,6 @@ Location:
 Role:
   - Hell Baron
 Affiliation:
-  - None
 Appearances:
   - "[[The Hellnight Soirée]]"
 Status: Alive
@@ -37,7 +36,7 @@ Author: Jordan
 >
 > **Role**: Hell Baron
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
 >

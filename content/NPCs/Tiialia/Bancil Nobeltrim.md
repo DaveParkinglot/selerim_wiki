@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-09-17T19:36:53.114Z
-published: 2026-09-17T19:36:53.114Z
+modified: 2026-10-08T14:10:14.034Z
+published: 2026-10-08T14:10:14.034Z
 born: 236
 Ancestry: Half-Elf
 Gender: Male
@@ -13,7 +13,7 @@ Role:
   - Former Adventurer
   - Family Guy
 Affiliation:
-  - "[[Player Characters/The High Rollers/index]]"
+  - "[[Player Characters/The High Rollers/index|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Paladin, Former Adventurer, Family Guy
 >
-> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

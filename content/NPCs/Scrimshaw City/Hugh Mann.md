@@ -3,8 +3,8 @@ publish: true
 aliases:
   - El Presidente Hugh Mann
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.920Z
-published: 2026-09-17T19:36:52.920Z
+modified: 2026-10-08T14:07:42.767Z
+published: 2026-10-08T14:07:42.767Z
 born: -61
 Ancestry: Fiend (Devil)
 Gender: Male
@@ -15,7 +15,7 @@ Role:
   - Former Adventurer
 Affiliation:
   - Tavernstool
-  - "[[Player Characters/The High Rollers/index]]"
+  - "[[Player Characters/The High Rollers/index|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Spring Cleaning in Scrimshaw City]]"
@@ -51,7 +51,7 @@ Author: Jordan
 >
 > **Role**: El Presidente, Former Adventurer
 >
-> **Affiliation:** Tavernstool, [[Player Characters/The High Rollers/index.md|index]]
+> **Affiliation:** Tavernstool, [[Player Characters/The High Rollers/index.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >

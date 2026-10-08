@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-07-28T14:45:59.686Z
-published: 2026-07-28T14:45:59.686Z
+modified: 2026-10-08T14:08:23.786Z
+published: 2026-10-08T14:08:23.786Z
 born: 245
 Ancestry: Human
 Gender: Male
@@ -11,7 +11,6 @@ Location:
 Role:
   - Heir to the Cereal Factory
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -36,7 +35,7 @@ Author: Jordan
 >
 > **Role**: Heir to the Cereal Factory
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.768Z
-published: 2026-09-17T19:36:52.768Z
+modified: 2026-10-08T14:06:34.407Z
+published: 2026-10-08T14:06:34.407Z
 born: 243
 Ancestry: Troll
 Gender: Male
@@ -14,7 +14,7 @@ Location:
 Role:
   - Helpful Troll
 Affiliation:
-  - "[[Player Characters/The High Rollers/index]]"
+  - "[[Player Characters/The High Rollers/index|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -41,7 +41,7 @@ Author: Jordan
 >
 > **Role**: Helpful Troll
 >
-> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >

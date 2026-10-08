@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.876Z
-published: 2026-09-17T19:36:52.876Z
+modified: 2026-10-08T14:07:18.968Z
+published: 2026-10-08T14:07:18.968Z
 born: 225
 Ancestry:
   - Tiefling
@@ -12,7 +12,6 @@ Location:
 Role:
   - Ship Captain
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -37,7 +36,7 @@ Author: Jordan
 >
 > **Role**: Ship Captain
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

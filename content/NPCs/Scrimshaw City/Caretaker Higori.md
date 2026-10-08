@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T22:21:34.293Z
-published: 2026-07-27T22:21:34.293Z
+modified: 2026-10-08T14:07:21.752Z
+published: 2026-10-08T14:07:21.752Z
 born: 168
 Ancestry:
   - Sea Elf
@@ -12,7 +12,6 @@ Location:
 Role:
   - Rogue
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -37,7 +36,7 @@ Author: Jordan
 >
 > **Role**: Rogue
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

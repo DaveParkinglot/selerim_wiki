@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T15:12:35.413Z
-published: 2026-07-28T15:12:35.413Z
+modified: 2026-10-08T14:12:46.467Z
+published: 2026-10-08T14:12:46.467Z
 born: 244
 Ancestry: Drow Elf
 Gender: Female
@@ -12,7 +12,6 @@ Role:
   - Student
   - Junior
 Affiliation:
-  - Vlorngroth
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
@@ -38,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Student, Junior
 >
-> **Affiliation:** Vlorngroth
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 >

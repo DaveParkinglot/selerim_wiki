@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.744Z
-published: 2026-09-17T19:36:52.744Z
+modified: 2026-10-08T14:06:01.058Z
+published: 2026-10-08T14:06:01.058Z
 born: -10000
 Ancestry: Marut
 Gender: N/A
@@ -10,9 +10,8 @@ Location:
   - Sigil, City of Doors
 Role:
   - Unbiased, Unstoppable Machine of Death
-  - Marut of The Primus
 Affiliation:
-  - The Primus
+  - The Primus of Mechanus
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -35,9 +34,9 @@ Author: Jordan
 >
 > **Location**: Sigil, City of Doors
 >
-> **Role**: Unbiased, Unstoppable Machine of Death, Marut of The Primus
+> **Role**: Unbiased, Unstoppable Machine of Death
 >
-> **Affiliation:** The Primus
+> **Affiliation:** The Primus of Mechanus
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T21:33:12.219Z
-published: 2026-07-27T21:33:12.219Z
+modified: 2026-10-08T14:06:20.109Z
+published: 2026-10-08T14:06:20.109Z
 born: -22
 Ancestry: Halfling
 Gender: Male
@@ -11,7 +11,7 @@ Location:
 Role:
   - Archdruid, Mentor
 Affiliation:
-  - The Circle of the Thicket
+  - Circle of the Thicket
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -36,7 +36,7 @@ Author: Jordan
 >
 > **Role**: Archdruid, Mentor
 >
-> **Affiliation:** The Circle of the Thicket
+> **Affiliation:** Circle of the Thicket
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

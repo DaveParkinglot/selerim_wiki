@@ -5,8 +5,8 @@ aliases:
   - The Afterking
   - Afterking
 created: 2025-10-17T13:50:27.000Z
-modified: 2026-07-27T21:28:21.282Z
-published: 2026-07-27T21:28:21.282Z
+modified: 2026-10-08T14:05:24.123Z
+published: 2026-10-08T14:05:24.123Z
 born: 90
 Author: Jordan
 Ancestry:
@@ -17,7 +17,6 @@ Location:
 Role:
   - Afterking of Mournholde
 Affiliation:
-  - None
 Appearances:
   - "[[The Mournholde Incident]]"
 Status: Alive
@@ -42,7 +41,7 @@ tags:
 >
 > **Role**: Afterking of Mournholde
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The Mournholde Incident.md|The Mournholde Incident]]
 >

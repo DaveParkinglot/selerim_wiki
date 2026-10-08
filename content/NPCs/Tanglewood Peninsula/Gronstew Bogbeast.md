@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-09-17T19:36:53.047Z
-published: 2026-09-17T19:36:53.047Z
+modified: 2026-10-08T14:08:57.454Z
+published: 2026-10-08T14:08:57.454Z
 born: 236
 Ancestry: Half-Orc
 Gender: Male
@@ -12,7 +12,7 @@ Location:
 Role:
   - Adventurer, Barbarian
 Affiliation:
-  - "[[The Backbreakers]]"
+  - Backbreakers
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -37,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Adventurer, Barbarian
 >
-> **Affiliation:** [[The Backbreakers|The Backbreakers]]
+> **Affiliation:** Backbreakers
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

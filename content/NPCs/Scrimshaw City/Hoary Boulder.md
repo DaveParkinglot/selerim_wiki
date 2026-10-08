@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.898Z
-published: 2026-09-17T19:36:52.898Z
+modified: 2026-10-08T14:07:35.837Z
+published: 2026-10-08T14:07:35.837Z
 born: 229
 Ancestry:
   - Human
@@ -14,7 +14,7 @@ Role:
   - Bracketologist
   - Former Thief
 Affiliation:
-  - "[[Player Characters/The High Rollers/index]]"
+  - "[[Player Characters/The High Rollers/index|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -41,7 +41,7 @@ Author: Jordan
 >
 > **Role**: Chief Accountant, Bracketologist, Former Thief
 >
-> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]], [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]]
 >

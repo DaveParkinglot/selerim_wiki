@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.823Z
-published: 2026-09-17T19:36:52.823Z
+modified: 2026-10-08T14:06:53.477Z
+published: 2026-10-08T14:06:53.477Z
 born: 212
 Ancestry:
   - Half-Orc
@@ -13,7 +13,6 @@ Location:
 Role:
   - Pawn Shop Owner
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -38,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Pawn Shop Owner
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

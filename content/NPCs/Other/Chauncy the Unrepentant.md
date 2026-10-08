@@ -4,8 +4,8 @@ aliases:
   - Sir Chauncy
   - Chauncy the Brave
 created: 2025-08-12T13:01:12.000Z
-modified: 2026-09-17T19:36:52.756Z
-published: 2026-09-17T19:36:52.756Z
+modified: 2026-10-08T14:06:12.902Z
+published: 2026-10-08T14:06:12.902Z
 born: 241
 Ancestry: Fiend (Devil)
 Gender: Male
@@ -15,7 +15,6 @@ Role:
   - Betrayer
   - Hellknight
 Affiliation:
-  - None
 Appearances:
   - "[[Dunland's Raiders]]"
   - "[[The High Rollers Campaign]]"
@@ -52,7 +51,7 @@ Author: Jordan
 >
 > **Role**: Betrayer, Hellknight
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/Dunland's Raiders.md|Dunland's Raiders]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]], [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-02-25T15:14:57.000Z
-modified: 2026-07-27T22:20:09.337Z
-published: 2026-07-27T22:20:09.337Z
+modified: 2026-10-08T14:07:30.408Z
+published: 2026-10-08T14:07:30.408Z
 born: 234
 Ancestry:
   - Orc
@@ -15,7 +15,6 @@ Role:
   - Professional Comedian
   - Older Cousin
 Affiliation:
-  - None
 Appearances:
   - "[[Bobby's Bachelor Birthday Bender]]"
 Status: Alive
@@ -41,7 +40,7 @@ aliases:
 >
 > **Role**: Professional Comedian, Older Cousin
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/Bobby's Bachelor Birthday Bender.md|Bobby's Bachelor Birthday Bender]]
 >

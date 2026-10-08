@@ -5,8 +5,8 @@ aliases:
   - Captain Winchester Bone
   - Winchester Bone
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-13T20:13:46.898Z
-published: 2026-08-13T20:13:46.898Z
+modified: 2026-10-08T14:05:20.844Z
+published: 2026-10-08T14:05:20.844Z
 tags:
   - Breakwater-Cove
 born: 200
@@ -17,7 +17,6 @@ Location:
 Role:
   - Bartender, Retired Captain
 Affiliation:
-  - None
 Appearances:
   - "[[The Hidden Hoard of Winchester Bone]]"
   - "[[Sharky's Revenge]]"
@@ -45,7 +44,7 @@ Author: Jordan
 >
 > **Role**: Bartender, Retired Captain
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The Hidden Hoard of Winchester Bone.md|The Hidden Hoard of Winchester Bone]], [[Adventures/Sharky's Revenge.md|Sharky's Revenge]], [[Adventures/Bootknife's Bounty.md|Bootknife's Bounty]], [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 >

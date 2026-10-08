@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-02T16:18:30.000Z
-modified: 2026-09-20T12:59:21.000Z
-published: 2026-09-20T12:59:21.000Z
+modified: 2026-10-08T14:12:12.036Z
+published: 2026-10-08T14:12:12.036Z
 born: 231
 Ancestry:
   - Goblin
@@ -14,7 +14,7 @@ Role:
   - Familiar
   - Disgusting Cretin
 Affiliation:
-  - None
+  - "[[Vlorn Dynasty]]"
 Appearances:
   - "[[Vlorngroth - 2 Manor 2 Madness]]"
   - "[[Vlorngroth - Vampire Weekday]]"
@@ -41,7 +41,7 @@ Author: Jordan
 >
 > **Role**: Familiar, Disgusting Cretin
 >
-> **Affiliation:** None
+> **Affiliation:** [[Factions/Vlorn Dynasty.md|Vlorn Dynasty]]
 >
 > **Appearances:** [[Adventures/Vlorngroth - 2 Manor 2 Madness.md|Vlorngroth - 2 Manor 2 Madness]], [[Adventures/Vlorngroth - Vampire Weekday.md|Vlorngroth - Vampire Weekday]], [[Adventures/Escape the Invasion.md|Escape the Invasion]]
 >

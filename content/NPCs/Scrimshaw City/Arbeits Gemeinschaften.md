@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Arby
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.812Z
-published: 2026-09-17T19:36:52.812Z
+modified: 2026-10-08T14:06:51.396Z
+published: 2026-10-08T14:06:51.396Z
 born: 217
 Ancestry:
   - Bugbear
@@ -14,7 +14,7 @@ Location:
 Role:
   - Bouncer, Former Monster Wrangler
 Affiliation:
-  - "[[Player Characters/The High Rollers/index]]"
+  - "[[Player Characters/The High Rollers/index|The High Rollers]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Arby's Sauce]]"
@@ -40,7 +40,7 @@ Author: Jordan
 >
 > **Role**: Bouncer, Former Monster Wrangler
 >
-> **Affiliation:** [[Player Characters/The High Rollers/index.md|index]]
+> **Affiliation:** [[Player Characters/The High Rollers/index.md|The High Rollers]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Arby's Sauce.md|Arby's Sauce]]
 >

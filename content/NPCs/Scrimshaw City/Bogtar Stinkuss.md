@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T22:22:45.039Z
-published: 2026-07-27T22:22:45.039Z
+modified: 2026-10-08T14:07:00.401Z
+published: 2026-10-08T14:07:00.401Z
 born: 215
 Ancestry:
   - Orc
@@ -13,7 +13,6 @@ Role:
   - Bouncer
   - Aspiring Playwright
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Spring Cleaning in Scrimshaw City]]"
@@ -39,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Bouncer, Aspiring Playwright
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Spring Cleaning in Scrimshaw City.md|Spring Cleaning in Scrimshaw City]]
 >

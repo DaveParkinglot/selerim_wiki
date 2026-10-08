@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-08-13T13:02:08.791Z
-published: 2026-08-13T13:02:08.791Z
+modified: 2026-10-08T14:09:04.748Z
+published: 2026-10-08T14:09:04.748Z
 born: 242
 Ancestry: Orc
 Gender: Female
@@ -12,7 +12,7 @@ Location:
 Role:
   - Barbarian Adventurer
 Affiliation:
-  - "[[The Backbreakers]]"
+  - Backbreakers
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[The Rescue (and or murder) of King Antonino Esposito]]"
@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Barbarian Adventurer
 >
-> **Affiliation:** [[The Backbreakers|The Backbreakers]]
+> **Affiliation:** Backbreakers
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >

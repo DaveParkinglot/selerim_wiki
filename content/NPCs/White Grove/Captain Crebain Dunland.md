@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T15:02:43.795Z
-published: 2026-07-28T15:02:43.795Z
+modified: 2026-10-08T14:12:32.387Z
+published: 2026-10-08T14:12:32.387Z
 born: 222
 Ancestry: Human
 Gender: Male
@@ -12,7 +12,6 @@ Location:
 Role:
   - Captain
 Affiliation:
-  - None
 Appearances:
   - "[[Dunland's Raiders]]"
   - "[[White Grove - Summer Vacation]]"
@@ -38,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Captain
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/Dunland's Raiders.md|Dunland's Raiders]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 >

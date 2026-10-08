@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Proklor
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-08-30T15:15:34.255Z
-published: 2026-08-30T15:15:34.255Z
+modified: 2026-10-08T14:05:40.007Z
+published: 2026-10-08T14:05:40.007Z
 born: -7505
 Ancestry: Drow, Draegloth
 Gender: Male
@@ -15,7 +15,7 @@ Role:
   - Destroyer of Worlds
   - Prince of Draegloths
 Affiliation:
-  - "[[Vlorngroth]]"
+  - "[[Vlorn Dynasty]]"
 Appearances:
   - "[[Vlorngroth - The Manor of Madness]]"
   - "[[The High Rollers Campaign]]"
@@ -43,7 +43,7 @@ tags:
 >
 > **Role**: Villain, Destroyer of Worlds, Prince of Draegloths
 >
-> **Affiliation:** [[Places/Vlorngroth.md|Vlorngroth]]
+> **Affiliation:** [[Factions/Vlorn Dynasty.md|Vlorn Dynasty]]
 >
 > **Appearances:** [[Adventures/Vlorngroth - The Manor of Madness.md|Vlorngroth - The Manor of Madness]], [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Escape the Invasion.md|Escape the Invasion]]
 >

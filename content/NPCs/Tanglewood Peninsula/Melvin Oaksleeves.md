@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:44.000Z
-modified: 2026-09-17T19:36:53.072Z
-published: 2026-09-17T19:36:53.072Z
+modified: 2026-10-08T14:09:26.474Z
+published: 2026-10-08T14:09:26.474Z
 born: 54
 Ancestry: Elf
 Gender: Male
@@ -11,7 +11,8 @@ Location:
 Role:
   - Wise Wizard
 Affiliation:
-  - The Wise Wizards
+  - Wise Wizards
+  - "[[Oaken Conclave]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Kindlethicket - Envoys of Mitlin]]"
@@ -39,7 +40,7 @@ Author: Jordan
 >
 > **Role**: Wise Wizard
 >
-> **Affiliation:** The Wise Wizards
+> **Affiliation:** Wise Wizards, [[Factions/Oaken Conclave.md|Oaken Conclave]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Kindlethicket - Envoys of Mitlin.md|Kindlethicket - Envoys of Mitlin]], [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]], [[Adventures/The Marrowsucker Contract.md|The Marrowsucker Contract]]
 >

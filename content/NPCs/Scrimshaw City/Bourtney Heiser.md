@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.844Z
-published: 2026-09-17T19:36:52.844Z
+modified: 2026-10-08T14:07:01.994Z
+published: 2026-10-08T14:07:01.994Z
 born: 220
 Ancestry:
   - Human
@@ -12,7 +12,6 @@ Location:
 Role:
   - Barkeep
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -37,7 +36,7 @@ Author: Jordan
 >
 > **Role**: Barkeep
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

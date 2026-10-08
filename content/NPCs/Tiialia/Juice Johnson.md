@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T23:30:19.056Z
-modified: 2026-08-11T18:17:37.467Z
-published: 2026-08-11T18:17:37.467Z
+modified: 2026-10-08T14:10:28.739Z
+published: 2026-10-08T14:10:28.739Z
 born: 224
 Ancestry: Human
 Gender: Nonbinary
@@ -13,7 +13,6 @@ Role:
   - Entrepreneur
   - Sauce Guy
 Affiliation:
-  - None
 Appearances:
   - "[[The Great Tiialan Heist]]"
   - "[[Voyage a la Isla Ruz]]"
@@ -41,7 +40,7 @@ aliases:
 >
 > **Role**: Entrepreneur, Sauce Guy
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]], [[Adventures/The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy.md|The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:50:37.856Z
-published: 2026-07-28T14:50:37.856Z
+modified: 2026-10-08T14:09:29.177Z
+published: 2026-10-08T14:09:29.177Z
 born: 219
 Ancestry: Hobgoblin
 Gender: Male
@@ -11,7 +11,6 @@ Location:
 Role:
   - Bouncer
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -36,7 +35,7 @@ Author: Jordan
 >
 > **Role**: Bouncer
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

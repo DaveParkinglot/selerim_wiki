@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T12:58:27.000Z
-modified: 2026-07-27T21:31:58.811Z
-published: 2026-07-27T21:31:58.811Z
+modified: 2026-10-08T14:06:07.904Z
+published: 2026-10-08T14:06:07.904Z
 born: 92
 Ancestry: Fiend (Devil), Sahuagin
 Gender: Male
@@ -11,7 +11,6 @@ Location:
 Role:
   - Sahuagin Baron
 Affiliation:
-  - None
 Appearances:
   - "[[The Hellnight Soirée]]"
 Status: Alive
@@ -36,7 +35,7 @@ Author: Jordan
 >
 > **Role**: Sahuagin Baron
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:53.132Z
-published: 2026-09-17T19:36:53.132Z
+modified: 2026-10-08T14:11:41.404Z
+published: 2026-10-08T14:11:41.404Z
 born: 211
 Ancestry:
   - Undead Human
@@ -13,7 +13,6 @@ Role:
   - Necro-Alchemist
   - Plaguemancer
 Affiliation:
-  - "[[Master Effree Jypstein]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Deceased
@@ -38,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Necro-Alchemist, Plaguemancer
 >
-> **Affiliation:** [[NPCs/Villains/Master Effree Jypstein.md|Master Effree Jypstein]]
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-09-17T19:36:53.099Z
-published: 2026-09-17T19:36:53.099Z
+modified: 2026-10-08T14:09:47.632Z
+published: 2026-10-08T14:09:47.632Z
 born: 207
 Ancestry: Half-Elf
 Gender: Male
@@ -11,7 +11,6 @@ Location:
 Role:
   - Wagon Dealer, Maniacal Businessman
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -36,7 +35,7 @@ Author: Jordan
 >
 > **Role**: Wagon Dealer, Maniacal Businessman
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

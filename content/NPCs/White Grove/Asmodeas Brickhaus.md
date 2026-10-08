@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T15:01:59.203Z
-published: 2026-07-28T15:01:59.203Z
+modified: 2026-10-08T14:12:18.683Z
+published: 2026-10-08T14:12:18.683Z
 born: 246
 Ancestry: Tiefling
 Gender: Male
@@ -12,7 +12,6 @@ Role:
   - Student
   - Freshman
 Affiliation:
-  - None
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
@@ -38,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Student, Freshman
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 >

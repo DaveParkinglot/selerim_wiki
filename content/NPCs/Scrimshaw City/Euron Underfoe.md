@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-27T22:20:44.098Z
-published: 2026-07-27T22:20:44.098Z
+modified: 2026-10-08T14:07:25.869Z
+published: 2026-10-08T14:07:25.869Z
 born: 219
 Ancestry:
   - Tiefling
@@ -12,7 +12,6 @@ Location:
 Role:
   - Alchemist
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -37,7 +36,7 @@ Author: Jordan
 >
 > **Role**: Alchemist
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-08-29T12:52:04.000Z
-published: 2026-08-29T12:52:04.000Z
+modified: 2026-10-08T14:12:37.871Z
+published: 2026-10-08T14:12:37.871Z
 born: 259
 Ancestry: Kobold
 Gender: Male
@@ -12,7 +12,6 @@ Role:
   - Student
   - Freshman
 Affiliation:
-  - "[[Vlorngroth]]"
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
@@ -38,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Student, Freshman
 >
-> **Affiliation:** [[Places/Vlorngroth.md|Vlorngroth]]
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]]
 >

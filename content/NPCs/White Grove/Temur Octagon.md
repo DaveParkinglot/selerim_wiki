@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:00.000Z
-modified: 2026-08-11T15:36:25.562Z
-published: 2026-08-11T15:36:25.562Z
+modified: 2026-10-08T14:12:50.862Z
+published: 2026-10-08T14:12:50.862Z
 born: 241
 Ancestry: Human
 Gender: Male
@@ -11,7 +11,6 @@ Location:
 Role:
   - Student
 Affiliation:
-  - None
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
@@ -38,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Student
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >

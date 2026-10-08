@@ -3,8 +3,8 @@ publish: true
 aliases:
   - The Winter Huntsman
 created: 2025-12-10T00:17:17.000Z
-modified: 2026-08-20T11:58:50.770Z
-published: 2026-08-20T11:58:50.770Z
+modified: 2026-10-08T14:05:33.058Z
+published: 2026-10-08T14:05:33.058Z
 born: -10000
 Ancestry: Archfey
 Gender: Male
@@ -14,7 +14,6 @@ Role:
   - Archfey
   - Winter Huntsman
 Affiliation:
-  - None
 Appearances:
   - "[[Kindlethicket - The Winter Hunt]]"
 Status: Alive
@@ -40,7 +39,7 @@ tags:
 >
 > **Role**: Archfey, Winter Huntsman
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/Kindlethicket - The Winter Hunt.md|Kindlethicket - The Winter Hunt]]
 >

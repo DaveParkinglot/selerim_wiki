@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-07-28T14:52:17.572Z
-published: 2026-07-28T14:52:17.572Z
+modified: 2026-10-08T14:09:53.254Z
+published: 2026-10-08T14:09:53.254Z
 born: 249
 Ancestry: Goblin
 Gender: Male
@@ -12,7 +12,7 @@ Location:
 Role:
   - Adventurer, Rogue
 Affiliation:
-  - "[[The Backbreakers]]"
+  - Backbreakers
 Appearances:
   - "[[The High Rollers Campaign]]"
 Status: Alive
@@ -37,7 +37,7 @@ Author: Jordan
 >
 > **Role**: Adventurer, Rogue
 >
-> **Affiliation:** [[The Backbreakers|The Backbreakers]]
+> **Affiliation:** Backbreakers
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T12:54:32.000Z
-modified: 2026-07-27T21:32:39.277Z
-published: 2026-07-27T21:32:39.277Z
+modified: 2026-10-08T14:06:14.618Z
+published: 2026-10-08T14:06:14.618Z
 born: -98
 Ancestry: Night Hag
 Gender: Female
@@ -11,7 +11,6 @@ Location:
 Role:
   - Soul Dealer
 Affiliation:
-  - None
 Appearances:
   - "[[The Hellnight Soirée]]"
 Status: Alive
@@ -36,7 +35,7 @@ Author: Jordan
 >
 > **Role**: Soul Dealer
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The Hellnight Soirée.md|The Hellnight Soirée]]
 >

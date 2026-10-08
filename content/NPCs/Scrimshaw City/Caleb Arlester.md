@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-24T14:05:08.273Z
-modified: 2026-09-17T19:36:52.854Z
-published: 2026-09-17T19:36:52.854Z
+modified: 2026-10-08T14:07:03.686Z
+published: 2026-10-08T14:07:03.686Z
 born: 233
 Ancestry:
   - Half Elf
@@ -12,7 +12,6 @@ Location:
 Role:
   - Professional Thief
 Affiliation:
-  - None
 Appearances:
   - "[[New Dawn - Hellfist Heist]]"
 Status: Alive
@@ -38,7 +37,7 @@ aliases:
 >
 > **Role**: Professional Thief
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/New Dawn - Hellfist Heist.md|New Dawn - Hellfist Heist]]
 >

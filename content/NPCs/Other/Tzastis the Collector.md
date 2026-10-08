@@ -2,8 +2,8 @@
 publish: true
 aliases: Tzastis
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-09-17T19:36:52.801Z
-published: 2026-09-17T19:36:52.801Z
+modified: 2026-10-08T14:06:44.170Z
+published: 2026-10-08T14:06:44.170Z
 born: -10000
 Ancestry: Archfey
 Gender: N/A
@@ -13,7 +13,6 @@ Role:
   - Archfey
   - Collector of Relevant Mortals
 Affiliation:
-  - None
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[White Grove - First Semester]]"
@@ -41,7 +40,7 @@ Author: Jordan
 >
 > **Role**: Archfey, Collector of Relevant Mortals
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 >

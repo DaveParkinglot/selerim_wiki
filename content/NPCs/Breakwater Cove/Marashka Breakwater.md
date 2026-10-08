@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T15:17:12.000Z
-modified: 2026-08-04T23:28:31.523Z
-published: 2026-08-04T23:28:31.523Z
+modified: 2026-10-08T14:05:17.666Z
+published: 2026-10-08T14:05:17.666Z
 tags:
   - Breakwater-Cove
 born: 177
@@ -14,7 +14,6 @@ Location:
 Role:
   - Master Gunner
 Affiliation:
-  - None
 Appearances:
   - "[[The Crimsonclaw Bounty]]"
 Status: Alive
@@ -39,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Master Gunner
 >
-> **Affiliation:** None
+> **Affiliation:** -
 >
 > **Appearances:** [[Adventures/The Crimsonclaw Bounty.md|The Crimsonclaw Bounty]]
 >
