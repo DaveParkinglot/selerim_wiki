@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-09-13T02:14:44.487Z
-published: 2026-09-13T02:14:44.487Z
+modified: 2026-09-30T23:47:27.453Z
+published: 2026-09-30T23:47:27.453Z
 DM: Mike Doom
 Platform: Roll20
 Sessions: 2
@@ -21,7 +21,7 @@ Players:
   - Evan
 Characters:
   - Eclipse Malificent
-  - Sir Chauncy the Brave
+  - "[[Chauncy the Unrepentant|Sir Chauncy the Brave]]"
   - Sam Hornblower
   - David Bluke
   - Montius "Monty" Landucci
@@ -87,7 +87,7 @@ The fate of all [[Tiialia]] may well rest in your hands. Fight for honor! Fight 
 | Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Peter | Eclipse Malificent | Half-Orc | Druid |
-| Peter | Sir Chauncy the Brave | Human | Paladin |
+| Peter | [[NPCs/Other/Chauncy the Unrepentant.md\|Sir Chauncy the Brave]] | Human | Paladin |
 | Jimmy | Sam Hornblower | Half-Elf | Fighter |
 | Logan | David Bluke | Half-Elf | Rogue |
 | Jordan | Montius "Monty" Landucci | Human | Fighter |

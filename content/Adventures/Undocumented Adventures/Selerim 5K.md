@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-11-03T23:37:06.000Z
-modified: 2026-09-03T16:10:31.744Z
-published: 2026-09-03T16:10:31.744Z
+modified: 2026-09-30T23:48:33.077Z
+published: 2026-09-30T23:48:33.077Z
 DM: Mike Doom
 Platform: Foundry
 Sessions: 8
@@ -22,8 +22,8 @@ Players:
 Characters:
   - Sahuru
   - Sahuru Mk. 2
-  - Cran Halcard
-  - AUXILIARY BOPUS BOT 4950
+  - "[[Cran Halcard]]"
+  - "[[AUXILIARY BOPUS BOT 4950]]"
   - Frank Yarborough
   - Clara Biscuit SE641
 Races:
@@ -73,7 +73,7 @@ Classes:
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Bishop | Sahuru | Warforged | Paladin |
 | Bishop | Sahuru Mk. 2 | Warforged | Wizard |
-| Ethan | Cran Halcard | Human | Rogue |
-| Jordan | AUXILIARY BOPUS BOT 4950 | Autognome | Warlock |
+| Ethan | [[Worldbuilding/Selerim 5K Setting/Player Characters/Crippled Count Crew/Cran Halcard.md\|Cran Halcard]] | Human | Rogue |
+| Jordan | [[Worldbuilding/Selerim 5K Setting/Player Characters/Crippled Count Crew/AUXILIARY BOPUS BOT 4950.md\|AUXILIARY BOPUS BOT 4950]] | Autognome | Warlock |
 | Kyle | Frank Yarborough | Human | Paladin |
 | Laura | Clara Biscuit SE641 | Warforged | Bard |

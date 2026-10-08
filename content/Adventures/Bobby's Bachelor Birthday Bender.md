@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-06T17:22:17.000Z
-modified: 2026-09-13T02:14:53.247Z
-published: 2026-09-13T02:14:53.247Z
+modified: 2026-09-30T23:47:57.751Z
+published: 2026-09-30T23:47:57.751Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -19,8 +19,8 @@ Players:
   - Logan
   - Cale
 Characters:
-  - Bobby Dismorphia
-  - Squeembo Montgomery
+  - "[[Bobby Dismorphia]]"
+  - "[[Squeembo Montgomery]]"
   - Bobson Dugnut
   - Bingus
 Races:
@@ -80,7 +80,7 @@ Bobby Dismorphia, [[Borfield]]'s most eligible bachelor, has finally found roman
 
 | Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Peter | Bobby Dismorphia | Orc | Fighter |
-| Otto | Squeembo Montgomery | Halfling | Cleric |
+| Peter | [[Player Characters/Bobby's Boys/Bobby Dismorphia.md\|Bobby Dismorphia]] | Orc | Fighter |
+| Otto | [[Player Characters/Bobby's Boys/Squeembo Montgomery.md\|Squeembo Montgomery]] | Halfling | Cleric |
 | Logan | Bobson Dugnut | Orc | Ranger |
 | Cale | Bingus | Dwarf | Barbarian |

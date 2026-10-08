@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-02T17:57:03.000Z
-modified: 2026-09-13T02:15:18.661Z
-published: 2026-09-13T02:15:18.661Z
+modified: 2026-09-30T23:45:42.374Z
+published: 2026-09-30T23:45:42.374Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -17,10 +17,10 @@ Players:
   - Mike Doom
   - Ethan
 Characters:
-  - Bobby Dismorphia
-  - Squeembo Montgomery
-  - David Hellscream
-  - Quarf Lustigoff
+  - "[[Bobby Dismorphia]]"
+  - "[[Squeembo Montgomery]]"
+  - "[[David Hellscream]]"
+  - "[[Quarf Lustigoff]]"
 Races:
   - Orc
   - Halfling
@@ -77,7 +77,7 @@ Now, the boys must trek across the mystical Feywild and retrieve a very special 
 
 | Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Peter | Bobby Dismorphia | Orc | Fighter |
-| Otto | Squeembo Montgomery | Halfling | Cleric |
-| Mike Doom | David Hellscream | Orc | Fighter |
-| Ethan | Quarf Lustigoff | Astral Elf | Bard |
+| Peter | [[Player Characters/Bobby's Boys/Bobby Dismorphia.md\|Bobby Dismorphia]] | Orc | Fighter |
+| Otto | [[Player Characters/Bobby's Boys/Squeembo Montgomery.md\|Squeembo Montgomery]] | Halfling | Cleric |
+| Mike Doom | [[Player Characters/Bobby's Boys/David Hellscream.md\|David Hellscream]] | Orc | Fighter |
+| Ethan | [[Player Characters/Bobby's Boys/Quarf Lustigoff.md\|Quarf Lustigoff]] | Astral Elf | Bard |

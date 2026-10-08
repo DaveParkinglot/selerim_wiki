@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T15:30:00.000Z
-modified: 2026-09-17T19:36:52.699Z
-published: 2026-09-17T19:36:52.699Z
+modified: 2026-09-30T23:46:15.772Z
+published: 2026-09-30T23:46:15.772Z
 DM: Jordan
 Platform:
   - Foundry
@@ -30,7 +30,7 @@ Characters:
   - "[[Hugh Mann]]"
   - "[[Francis Greenstrider De Luca]]"
   - "[[Tadeusz]]"
-  - Eros
+  - "[[Eros]]"
   - P3360 TUR60
   - "[[Bwanson Wagwan]]"
 Races:
@@ -92,7 +92,7 @@ The OG campaign.
 | Mike Doom | [[NPCs/Scrimshaw City/Hugh Mann.md\|Hugh Mann]] | "Human" (Fiend) | Wizard |
 | Mike Doom | [[Player Characters/The High Rollers/Francis Greenstrider De Luca.md\|Francis Greenstrider De Luca]] | Half-Elf | Cleric/Druid |
 | Peter | [[Player Characters/The High Rollers/Tadeusz.md\|Tadeusz]] | Human | Blood Hunter |
-| George | Eros | Satyr | Bard |
+| George | [[Player Characters/The High Rollers/Eros.md\|Eros]] | Satyr | Bard |
 | George | P3360 TUR60 | Warforged | Rogue |
 | Fisher | [[NPCs/Tanglewood Peninsula/Bwanson Wagwan.md\|Bwanson Wagwan]] | Owlin | Druid |
 

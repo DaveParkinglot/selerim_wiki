@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-12-14T14:47:35.000Z
-modified: 2026-09-13T02:14:50.295Z
-published: 2026-09-13T02:14:50.295Z
+modified: 2026-09-30T23:48:08.065Z
+published: 2026-09-30T23:48:08.065Z
 DM: Jordan
 Players:
   - Mike Doom
@@ -18,7 +18,7 @@ Setting: Selerim 5K
 Author: Jordan
 Characters:
   - Francis "Voidstrider" De Luca
-  - Cran Halcard
+  - "[[Cran Halcard]]"
   - Liro Ashe
 Races:
   - Human
@@ -67,5 +67,5 @@ While working on a routine [[Giftmas]] delivery in the [[Krampus]] System, you a
 | Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Mike Doom | Francis "Voidstrider" De Luca | Human | Cleric |
-| Ethan | Cran Halcard | Human | Rogue |
+| Ethan | [[Worldbuilding/Selerim 5K Setting/Player Characters/Crippled Count Crew/Cran Halcard.md\|Cran Halcard]] | Human | Rogue |
 | Gorrie | Liro Ashe | Elf | Wizard |

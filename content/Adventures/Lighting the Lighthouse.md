@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-11-02T14:22:56.000Z
-modified: 2026-09-13T02:15:10.258Z
-published: 2026-09-13T02:15:10.258Z
+modified: 2026-09-30T23:45:25.869Z
+published: 2026-09-30T23:45:25.869Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -17,9 +17,9 @@ Players:
   - Peter
   - Leah
 Characters:
-  - Squeembo Montgomery
+  - "[[Squeembo Montgomery]]"
   - Blink
-  - Bobby Dismorphia
+  - "[[Bobby Dismorphia]]"
   - Bella Jingle
 Races:
   - Halfling
@@ -77,7 +77,7 @@ Once this is accomplished, the Aldwood Star can be placed atop the lighthouse to
 
 | Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Otto | Squeembo Montgomery | Halfling | Cleric |
+| Otto | [[Player Characters/Bobby's Boys/Squeembo Montgomery.md\|Squeembo Montgomery]] | Halfling | Cleric |
 | Becca | Blink | Gnome | Druid |
-| Peter | Bobby Dismorphia | Orc | Fighter |
+| Peter | [[Player Characters/Bobby's Boys/Bobby Dismorphia.md\|Bobby Dismorphia]] | Orc | Fighter |
 | Leah | Bella Jingle | Human | Warlock |

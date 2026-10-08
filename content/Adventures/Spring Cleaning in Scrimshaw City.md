@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-09-13T02:15:23.235Z
-published: 2026-09-13T02:15:23.235Z
+modified: 2026-09-30T23:45:48.330Z
+published: 2026-09-30T23:45:48.330Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -15,7 +15,7 @@ Players:
   - Laura
   - Gorrie
 Characters:
-  - David Hellscream
+  - "[[David Hellscream]]"
   - Bianca “Mad Dog” Bianchi
   - Colin Forbackup
 Races:
@@ -64,6 +64,6 @@ Every year, demons from across Selerim (and beyond) converge on [[Scrimshaw City
 
 | Player              | Character Name         | Ancestry          | Class               |
 | ------------------- | ---------------------- | ----------------- | ------------------- |
-| Mike Doom | David Hellscream | Orc | Fighter |
+| Mike Doom | [[Player Characters/Bobby's Boys/David Hellscream.md\|David Hellscream]] | Orc | Fighter |
 | Laura | Bianca “Mad Dog” Bianchi | Goliath | Warlock |
 | Gorrie | Colin Forbackup | Orc | Cleric |

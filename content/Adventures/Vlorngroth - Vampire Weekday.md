@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-03T14:23:37.000Z
-modified: 2026-09-13T02:16:22.041Z
-published: 2026-09-13T02:16:22.041Z
+modified: 2026-10-07T23:23:25.040Z
+published: 2026-10-07T23:23:25.040Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -62,7 +62,7 @@ While he is abroad, [[Count Calloway Duskveil]] has commanded his lowly familiar
 - Morbus, the Count's most loyal familiar, was turned to mince meat by a glassbone horror while handing out chores, and the familiars had to retrieve Count Duskveil's chore list from his remains.
 - The familiars defeated a glassbone horror of [[Tharizdun|Tharizdun]] by destroying the cursed mirror it was bound to.
 - The familiars discovered a strange dagger, an ancient implement of Tharizdun, and Nemata picked it up for safekeeping.
-- Despite massive intern casualties including Dwyer, Thomathy, and the ever-loyal Suds Mackenzie, the familiars were successful in feeding five corpses to the Count's prized corpse flower.
+- Despite massive intern casualties including Dwyer, Tomothy, and the ever-loyal Suds Mackenzie, the familiars were successful in feeding five corpses to the Count's prized corpse flower.
 - After troubleshooting and gathering requirements, the familiars completed a round of THE CORTEX GAMES in THE MIND ZONE in order to convince [[Inquisitor's Dossier#Coach Cortex|Coach Cortex]] to change the frequency of his pocket dimension so it would stop interfering with the internal transmitter.
 - Ebli's intern Christian Smith was hewn apart, body, mind, and soul after he refused to participate in THE CORTEX GAMES.
 - Each familiar received a Cortex Band in appreciation of their hard work, and their efforts may have even brought Coach Cortex closer to sanity... though he still seemed extremely erratic.

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-04T00:47:11.000Z
-modified: 2026-09-13T02:15:36.716Z
-published: 2026-09-13T02:15:36.716Z
+modified: 2026-09-30T23:46:03.180Z
+published: 2026-09-30T23:46:03.180Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -17,7 +17,7 @@ Players:
 Characters:
   - Bianca “Mad Dog” Bianchi
   - Colin Forbackup
-  - David Hellscream
+  - "[[David Hellscream]]"
 Races:
   - Goliath
   - Orc
@@ -69,4 +69,4 @@ Binky believes the situation to be grim, and has said as much:  "The El Preside
 | ------------------- | ---------------------- | ----------------- | ------------------- |
 | Laura | Bianca “Mad Dog” Bianchi | Goliath | Warlock |
 | Gorrie | Colin Forbackup | Orc | Cleric |
-| Mike Doom | David Hellscream | Orc | Fighter |
+| Mike Doom | [[Player Characters/Bobby's Boys/David Hellscream.md\|David Hellscream]] | Orc | Fighter |
