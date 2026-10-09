@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-10-08T14:10:17.224Z
-published: 2026-10-08T14:10:17.224Z
+modified: 2026-10-08T23:42:55.345Z
+published: 2026-10-08T23:42:55.345Z
 born: 203
 Ancestry: Deep Gnome
 Gender: Male
 Location:
   - Esposito Vineyard
-  - "[[Tiialia]]"
+  - "[[Factions/Kingdom of Tiialia/index|Kingdom of Tiialia]]"
 Role:
   - Sleepy Wizard
 Affiliation:
@@ -34,7 +34,7 @@ Author: Jordan
 >
 > **Gender**: Male
 >
-> **Location**: Esposito Vineyard, [[Factions/Tiialia.md|Tiialia]]
+> **Location**: Esposito Vineyard, [[Factions/Kingdom of Tiialia/index.md|Kingdom of Tiialia]]
 >
 > **Role**: Sleepy Wizard
 >

@@ -39,7 +39,7 @@ Author: Jordan
 >
 > **Role**: Court Witch
 >
-> **Affiliation:** [[Factions/Families of Tiialia/Fanto-Domingo Family.md|Fanto-Domingo Family]], [[Factions/Families of Tiialia/Landucci Family.md|Landucci Family]]
+> **Affiliation:** [[Factions/Kingdom of Tiialia/Families of Tiialia/Fanto-Domingo Family.md|Fanto-Domingo Family]], [[Factions/Kingdom of Tiialia/Families of Tiialia/Landucci Family.md|Landucci Family]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >

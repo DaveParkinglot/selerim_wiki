@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-27T21:44:31.000Z
-modified: 2026-09-13T02:16:27.177Z
-published: 2026-09-13T02:16:27.177Z
+modified: 2026-10-08T23:51:58.549Z
+published: 2026-10-08T23:51:58.549Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -52,7 +52,7 @@ Classes:
 
 # Adventure Premise
 
-In the last year, [[Antonino Esposito|King Antonino Esposito]] of [[Tiialia]] has put massive funding towards reopening [[White Grove]] as an independent magical institution. For the first time in over two centuries, admission is available to anyone with magical abilities—not just those training to become Tiialan artillery mages.
+In the last year, [[Antonino Esposito|King Antonino Esposito]] of [[Factions/Kingdom of Tiialia/index|Tiialia]] has put massive funding towards reopening [[White Grove]] as an independent magical institution. For the first time in over two centuries, admission is available to anyone with magical abilities—not just those training to become Tiialan artillery mages.
 
 [[Arctur Execlostrabaum]], the highly eccentric Tiialan archmage, has been chosen as the headmaster of the school. It goes without saying that his highly progressive mindset has been a topic of discussion amongst conservative Tiialans. He believes magic is a staple of the world, to be shared with all peoples whether north, south, above, or even below...
 

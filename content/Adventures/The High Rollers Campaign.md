@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T15:30:00.000Z
-modified: 2026-10-08T15:13:54.544Z
-published: 2026-10-08T15:13:54.544Z
+modified: 2026-10-08T23:51:41.867Z
+published: 2026-10-08T23:51:41.867Z
 DM: Jordan
 Platform:
   - Foundry
@@ -123,7 +123,7 @@ Bring rent reductions and prosperity to [[Scrimshaw City]] by defeating [[Lord D
 
 ### Adventure Premise
 
-Remove control of [[Tiialia]] from the hands of the tyrant [[Lord Draco Landucci]] and the nasty [[Fanto-Domingo Family|Fanto-Domingo family]]. Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[Antonino Esposito]].
+Remove control of [[Factions/Kingdom of Tiialia/index|Tiialia]] from the hands of the tyrant [[Lord Draco Landucci]] and the nasty [[Fanto-Domingo Family|Fanto-Domingo family]]. Reclaim the Tiialan Throne for the long lost and last heir of King Seraphino: [[Antonino Esposito]].
 
 ### Outcomes
 
@@ -194,7 +194,7 @@ Tzastis is said to collect mortals like trophies in a location called the "[[Fat
 ### Adventure Premise
 
 - **The High Lord's Proclamation:**
-  Prevent the Vlorn and [[Proklor the Despoiler]] from conquering the Kingdom of [[Tiialia]], and potentially the whole world…
+  Prevent the Vlorn and [[Proklor the Despoiler]] from conquering the Kingdom of [[Factions/Kingdom of Tiialia/index|Tiialia]], and potentially the whole world…
 
 ### Outcomes
 

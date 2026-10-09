@@ -4,8 +4,8 @@ aliases:
   - The Bleeding City
 title: Batistallas
 created: 2026-04-30T14:04:28.649Z
-modified: 2026-08-13T19:58:02.327Z
-published: 2026-08-13T19:58:02.327Z
+modified: 2026-10-08T23:40:11.496Z
+published: 2026-10-08T23:40:11.496Z
 tags:
   - Settlement
   - Kingdom-of-Tiialia
@@ -15,7 +15,7 @@ founded_year: 161
 Population: 40000
 Government:
   - "[[Batista Family]]"
-  - "[[Tiialia|Kingdom of Tiialia]]"
+  - "[[Factions/Kingdom of Tiialia/index|Kingdom of Tiialia]]"
 Author: Ethan
 Appearances:
   - "[[The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]]"
@@ -44,13 +44,13 @@ marker:
 >
 > **Affiliation**: -
 >
-> **Government:** [[Factions/Families of Tiialia/Batista Family.md|Batista Family]], [[Factions/Tiialia.md|Kingdom of Tiialia]]
+> **Government:** [[Factions/Kingdom of Tiialia/Families of Tiialia/Batista Family.md|Batista Family]], [[Factions/Kingdom of Tiialia/index.md|Kingdom of Tiialia]]
 >
 > **Appearances:** [[Adventures/The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy.md|The Assassination of King Antonino Esposito by the Coward 'Playing Card' Murphy]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 
 # Overview
 
-Batistallas is the largest city under primary control of the [[Batista Family]] within the [[Tiialia|Kingdom of Tiialia]]. Founded by veterans from the Band of Batista, a mysterious company of soldiers who arrived toward the end of the siege of the [[Corrodreth|Salted City]]. They were gifted this land for their support in the final days of the siege, and the city has since grown rapidly. However, this land also rests at the base of the [[Bleeding Peaks]], and is at times visited by haboobs composed of the dark arcane fallout sweeping down from the mountains.
+Batistallas is the largest city under primary control of the [[Batista Family]] within the [[Factions/Kingdom of Tiialia/index|Kingdom of Tiialia]]. Founded by veterans from the Band of Batista, a mysterious company of soldiers who arrived toward the end of the siege of the [[Corrodreth|Salted City]]. They were gifted this land for their support in the final days of the siege, and the city has since grown rapidly. However, this land also rests at the base of the [[Bleeding Peaks]], and is at times visited by haboobs composed of the dark arcane fallout sweeping down from the mountains.
 
 # Attributes
 

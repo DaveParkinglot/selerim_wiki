@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T20:54:50.000Z
-modified: 2026-07-29T23:52:29.053Z
-published: 2026-07-29T23:52:29.053Z
+modified: 2026-10-08T23:40:11.593Z
+published: 2026-10-08T23:40:11.593Z
 socialImage: selerim_planet_view.png
 Author: Jordan
 image: selerim_planet_view.png
@@ -23,7 +23,7 @@ In these times, we fix our focus on the [[Summer Lands]]–largest and most prol
 
 Originally bequeathed to survivors of the [[Nameless War]] by the gods, the Summer Lands are host to many fantastic peoples and places:
 
-- [[Nova Jersaeria]], metro-capital of the expansionist [[Tiialia|Kingdom of Tiialia]], stands as a beacon of civilization and progress–despite constant conflict between its noble families.
+- [[Nova Jersaeria]], metro-capital of the expansionist [[Factions/Kingdom of Tiialia/index|Kingdom of Tiialia]], stands as a beacon of civilization and progress–despite constant conflict between its noble families.
 - Thieves and merchants alike ply their trade in the free port city of [[Scrimshaw City|Scrimshaw]], as an ancient abyssal rift rages beneath the city's mean streets.
 - The quiet lifestyle of settlements on the [[Tanglewood Peninsula]] is threatened by mutated monsters, and the call for adventurers has never been louder.
 - The [[Darkwells]] and other planar rifts lie dormant in the hidden places of the realm, waiting to be rediscovered and harnessed.

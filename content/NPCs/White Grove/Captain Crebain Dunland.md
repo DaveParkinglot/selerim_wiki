@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:45.000Z
-modified: 2026-10-08T14:12:32.387Z
-published: 2026-10-08T14:12:32.387Z
+modified: 2026-10-08T23:47:47.196Z
+published: 2026-10-08T23:47:47.196Z
 born: 222
 Ancestry: Human
 Gender: Male
@@ -45,7 +45,7 @@ Author: Jordan
 
 # Overview
 
-- Captain of Dunland's Raiders, the Tiialan Commandos who thwarted [[Legion of Doom]] when [[Morganth]] and his minions attempted to summon demons in the heartland of [[Tiialia]].
+- Captain of Dunland's Raiders, the Tiialan Commandos who thwarted [[Legion of Doom]] when [[Morganth]] and his minions attempted to summon demons in the heartland of [[Factions/Kingdom of Tiialia/index|Tiialia]].
 
 # Attributes
 

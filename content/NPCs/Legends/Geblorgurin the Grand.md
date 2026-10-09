@@ -2,8 +2,8 @@
 publish: true
 aliases: Geblorgurin
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-07-28T13:24:57.732Z
-published: 2026-07-28T13:24:57.732Z
+modified: 2026-10-08T23:40:11.302Z
+published: 2026-10-08T23:40:11.302Z
 born: -400
 Ancestry: Dwarf
 Gender: Male
@@ -47,7 +47,7 @@ tags:
 # Overview
 
 - Once the king of the dwarves before his passing, Geblorgurin is highly regarded amongst all the peoples of Selerim, and amongst adventurers because of the many treasure-laden monuments he left behind.
-- Though it is a kingdom ruled by a human these days, Geblorgurin helped to found the [[Tiialia|Kingdom of Tiialia]]
+- Though it is a kingdom ruled by a human these days, Geblorgurin helped to found the [[Factions/Kingdom of Tiialia/index|Kingdom of Tiialia]]
 - It is said that these monuments contain great artifacts of power, but the monuments are said to test those who enter them. Only the worthy may wield the artifacts Geblorgurin left behind.
 - Dwarves (especially those of Geblorgurin's time) are fiercely protective of their belongings in life, but in death they desire nothing more than to have their belongings used by worthy individuals
 - Geblorgurin was the first wielder of the powerful artifact the [[Gem of Eyes]]

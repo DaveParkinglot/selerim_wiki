@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T15:13:41.529Z
-published: 2026-10-08T15:13:41.529Z
+modified: 2026-10-08T23:40:11.461Z
+published: 2026-10-08T23:40:11.461Z
 born: 216
 Ancestry: Drow
 Gender: Male
@@ -49,7 +49,7 @@ Author: Jordan
 - A drow gunslinger bounty hunter who once hunted [[Player Characters/The High Rollers/index|The High Rollers]] for their bounty in [[Vlorngroth]].
 - He became an unlikely ally in the fight against [[Master Effree Jypstein]]'s undead.
 - He has a twin brother who was turned into a draegloth when they were young.
-- He is currently serving as a Colonel in the [[Tiialia|Tiialan]] military, based in the town of Scallion.
+- He is currently serving as a Colonel in the [[Factions/Kingdom of Tiialia/index|Tiialan]] military, based in the town of Scallion.
 
 # Attributes
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2023-09-26T13:14:17.000Z
-modified: 2026-10-08T15:16:26.343Z
-published: 2026-10-08T15:16:26.343Z
+modified: 2026-10-08T23:49:43.218Z
+published: 2026-10-08T23:49:43.218Z
 tags:
   - Settlement
 Author: Jordan
@@ -35,6 +35,6 @@ aliases:
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 
-Druids following the halfling archdruid [[Myrrdin Turftoe]] live here in harmony with the pines, as they have done since before the founding of [[Tiialia]], and even before the Incorporation of the Pirate Kings of [[Scrimshaw City|Scrimshaw]]. A portal to the Feywild once brimmed with energy between the trunks of the great realm tree that druids call "Twin Pine". This planar rift was sealed shortly after [[Tzastis the Collector]] escaped their imprisonment in the Feywild and re-entered the material plane. Despite the best efforts of Myrrdin and the Circle of the Thicket, Tzastis and several of their most powerful minions escaped, vanishing into the forests to the west.
+Druids following the halfling archdruid [[Myrrdin Turftoe]] live here in harmony with the pines, as they have done since before the founding of [[Factions/Kingdom of Tiialia/index|Tiialia]], and even before the Incorporation of the Pirate Kings of [[Scrimshaw City|Scrimshaw]]. A portal to the Feywild once brimmed with energy between the trunks of the great realm tree that druids call "Twin Pine". This planar rift was sealed shortly after [[Tzastis the Collector]] escaped their imprisonment in the Feywild and re-entered the material plane. Despite the best efforts of Myrrdin and the Circle of the Thicket, Tzastis and several of their most powerful minions escaped, vanishing into the forests to the west.
 
 Early in [[Francis Greenstrider De Luca]]'s adventuring career, before he joined [[Player Characters/The High Rollers/index|The High Rollers]], he journeyed here and was saved from Tzastis by Myrrdin.

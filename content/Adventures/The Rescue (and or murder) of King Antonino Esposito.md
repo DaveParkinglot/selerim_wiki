@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T11:47:45.000Z
-modified: 2026-09-13T02:16:12.251Z
-published: 2026-09-13T02:16:12.251Z
+modified: 2026-10-08T23:51:45.396Z
+published: 2026-10-08T23:51:45.396Z
 DM: Ethan
 Platform: Foundry
 Sessions: 1
@@ -46,7 +46,7 @@ Characters:
 
 ## Adventure Premise
 
-Rumor is spreading across the [[Tiialia|Kingdom of Tiialia]] that [[Antonino Esposito|King Antonino Esposito I]] has been murdered in [[Batistallas]] by "Yi-Ti" belonging to some reborn [[Corrodreth]]. Others say that the king WAS a snake guy! A few even claim that it wasn't the king at all that was murdered, but an impersonator... Few are sure of where the truth lies. However, you know the truth (or some shred of it)—shared to you by a dying Ambassador “Tiny” Timmy Trebles--that King Antonino Esposito is being held captive by [[Lord Zalvidar Batista]] in his manor at the footsteps of the Bleeding Peaks for some sinister, impending purpose.
+Rumor is spreading across the [[Factions/Kingdom of Tiialia/index|Tiialia]] that [[Antonino Esposito|King Antonino Esposito I]] has been murdered in [[Batistallas]] by "Yi-Ti" belonging to some reborn [[Corrodreth]]. Others say that the king WAS a snake guy! A few even claim that it wasn't the king at all that was murdered, but an impersonator... Few are sure of where the truth lies. However, you know the truth (or some shred of it)—shared to you by a dying Ambassador “Tiny” Timmy Trebles--that King Antonino Esposito is being held captive by [[Lord Zalvidar Batista]] in his manor at the footsteps of the Bleeding Peaks for some sinister, impending purpose.
 
 It looks like it is all up to you, and perhaps some familiar friends, to save the king and maybe even save (or destroy) Tiialia itself. Will you take up the call to save the king?
 

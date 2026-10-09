@@ -39,7 +39,7 @@ Author: Ethan
 >
 > **Role**: General
 >
-> **Affiliation:** [[Factions/Families of Tiialia/Ruz Family.md|Ruz Family]]
+> **Affiliation:** [[Factions/Kingdom of Tiialia/Families of Tiialia/Ruz Family.md|Ruz Family]]
 >
 > **Appearances:** [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >

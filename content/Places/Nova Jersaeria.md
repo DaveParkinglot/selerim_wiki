@@ -2,8 +2,8 @@
 publish: true
 title: Nova Jersaeria, Tiialan Capital
 created: 2025-06-20T13:32:25.000Z
-modified: 2026-08-13T20:00:56.169Z
-published: 2026-08-13T20:00:56.169Z
+modified: 2026-10-09T00:26:12.217Z
+published: 2026-10-09T00:26:12.217Z
 tags:
   - Settlement
   - Kingdom-of-Tiialia
@@ -13,7 +13,7 @@ founded_year: 0
 Population: 95000
 Government:
   - "[[Antonino Esposito|King Antonino Esposito I]]"
-  - "[[Tiialia|Kingdom of Tiialia]]"
+  - "[[Factions/Kingdom of Tiialia/index|Kingdom of Tiialia]]"
 Appearances:
   - "[[The High Rollers Campaign]]"
   - "[[Giftmas in Nova Jersaeria]]"
@@ -42,23 +42,26 @@ Author: Jordan
 >
 > **Population**: 95,000
 >
-> **Government:** [[NPCs/Tiialia/Antonino Esposito.md|King Antonino Esposito I]], [[Factions/Tiialia.md|Kingdom of Tiialia]]
+> **Government:** [[NPCs/Tiialia/Antonino Esposito.md|King Antonino Esposito I]], [[Factions/Kingdom of Tiialia/index.md|Kingdom of Tiialia]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]], [[Adventures/Giftmas in Nova Jersaeria.md|Giftmas in Nova Jersaeria]], [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]]
 
 # Overview
 
-- The greatest city of this age, the [[Tiialia|Tiialan]] capital city has grown greatly since it was founded with the help of [[Geblorgurin the Grand]] some 250 years ago.
-- The line of the old Tiialan Kings was thought to have been snuffed out with King Seraphino's death at the First Siege of [[Corrodreth]], during the decades long [[Serpent Wars]]. This proved untrue, however, after [[Antonino Esposito]]'s royal heritage was discovered by [[Francis Greenstrider De Luca|Francis "Frankie" Greenstrider]]. With this knowledge, the traitor [[Lord Draco Landucci]] and his puppet King Adonzio were thwarted and deposed, respectively.
+The greatest city of this age, the [[Factions/Kingdom of Tiialia/index|Tiialan]] capital city has grown greatly since it was founded with the help of [[Geblorgurin the Grand]] some 250 years ago.
+
+The line of the old Tiialan Kings was thought to have been snuffed out with King Seraphino's death at the First Siege of [[Corrodreth]], during the [[Serpent Wars]]. This proved untrue, however, after [[Antonino Esposito]]'s royal heritage was discovered by [[Francis Greenstrider De Luca|Francis "Frankie" Greenstrider]]. With this knowledge, the traitor [[Lord Draco Landucci]] and his puppet King Adonzio were thwarted and deposed, respectively.
 
 # Attributes
 
 - **Appearance**: Italian, colorful rooftops, walled docks, a great keep atop the high hill of the city
 - **Economy/Resources**: (What it produces, trades, or lacks)
 - **Dangers/Secrets**:
-  - [[The War of the Four Families]]
+  - [[War of the Four Families]]
 - **Points of Interest**:
   - Tiialan Marketplace, home to many shop owners and merchants
+  - The Grand Lineage Archives
+    - Track the lineage of many folks. Originally founded by [[Geblorgurin the Grand|Geblorgurin]] to understand the cultures and heritages of lost worlds.
   - The Sewers
     - Mob presence in the sewers. The mob boss Rigor Mortoni rules the majority of the sewers. There is also a yuan-ti faction in the sewers
   - The Sewer Night Market, home to many more devious, unscrupulous shop owners and merchants

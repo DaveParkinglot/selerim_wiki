@@ -4,8 +4,8 @@ aliases:
   - Sir Chauncy
   - Chauncy the Brave
 created: 2025-08-12T13:01:12.000Z
-modified: 2026-10-08T15:13:53.545Z
-published: 2026-10-08T15:13:53.545Z
+modified: 2026-10-08T23:48:38.885Z
+published: 2026-10-08T23:48:38.885Z
 born: 241
 Ancestry: Fiend (Devil)
 Gender: Male
@@ -59,11 +59,11 @@ Author: Jordan
 
 # Overview
 
-Formerly a decorated war hero of [[Tiialia]], brave Sir Chauncy has fallen far after his betrayal of [[Player Characters/The High Rollers/index|The High Rollers]] and [[Antonino Esposito|King Esposito]]. After his death, he became a Hellknight and eventually was imprisoned in Carceri. In [[Tiialia]], the name Chauncy is now synonymous with betrayal of ones friends. Using it will get you cast out of taverns and spit upon by the commonfolk.
+Formerly a decorated war hero of [[Factions/Kingdom of Tiialia/index|Tiialia]], brave Sir Chauncy has fallen far after his betrayal of [[Player Characters/The High Rollers/index|The High Rollers]] and [[Antonino Esposito|King Esposito]]. After his death, he became a Hellknight and eventually was imprisoned in Carceri. In [[Factions/Kingdom of Tiialia/index|Tiialia]], the name Chauncy is now synonymous with betrayal of ones friends. Using it will get you cast out of taverns and spit upon by the commonfolk.
 
 ## [[Dunland's Raiders]]
 
-As a brave knight of [[Tiialia]], Chauncy became a war hero after he and [[Dunland's Raiders]] defeated the forces of [[Morganth]] and saved [[Tiialia]] from a demonic invasion.
+As a brave knight of [[Factions/Kingdom of Tiialia/index|Tiialia]], Chauncy became a war hero after he and [[Dunland's Raiders]] defeated the forces of [[Morganth]] and saved [[Factions/Kingdom of Tiialia/index|Tiialia]] from a demonic invasion.
 
 ## [[The High Rollers Campaign]]
 

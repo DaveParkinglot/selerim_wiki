@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-07T23:30:19.056Z
-modified: 2026-10-08T14:10:28.739Z
-published: 2026-10-08T14:10:28.739Z
+modified: 2026-10-08T23:48:49.961Z
+published: 2026-10-08T23:48:49.961Z
 born: 224
 Ancestry: Human
 Gender: Nonbinary
@@ -48,7 +48,7 @@ aliases:
 
 # Overview
 
-Juice Johnson has the juice. If you live in [[Tiialia]] and need the juice, he has it. He is often hired to cook for royal and high prestige events, and has a chain of hot sauce focused restaurants across Tiialia.
+Juice Johnson has the juice. If you live in [[Factions/Kingdom of Tiialia/index|Tiialia]] and need the juice, he has it. He is often hired to cook for royal and high prestige events, and has a chain of hot sauce focused restaurants across Tiialia.
 
 ## [[The Great Tiialan Heist]]
 

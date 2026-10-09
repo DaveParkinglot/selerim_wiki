@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-03T21:11:13.000Z
-modified: 2026-09-13T02:15:26.970Z
-published: 2026-09-13T02:15:26.970Z
+modified: 2026-10-08T23:51:32.237Z
+published: 2026-10-08T23:51:32.237Z
 DM: Ethan
 Platform: Foundry
 Sessions: 2
@@ -53,7 +53,7 @@ Classes:
 
 ## Adventure Premise
 
-Word has spread across [[Tiialia]] that [[Antonino Esposito|King Antonino Esposito]] is visiting [[Batistallas]], a major city under control of the [[Batista Family]], to shore up unity across the realm. But with the Batista and [[Ruz Family|Ruz]] families on the brink of war, and with rumors about impending incursions by the forces of [[Morganth]] or even [[Vlorngroth]], these are dangerous times in Tiialia.
+Word has spread across [[Factions/Kingdom of Tiialia/index|Tiialia]] that [[Antonino Esposito|King Antonino Esposito]] is visiting [[Batistallas]], a major city under control of the [[Batista Family]], to shore up unity across the realm. But with the Batista and [[Ruz Family|Ruz]] families on the brink of war, and with rumors about impending incursions by the forces of [[Morganth]] or even [[Vlorngroth]], these are dangerous times in Tiialia.
 
 You have been summoned to the _Carousel Club_ in downtown Batistallas at urgent request of Ambassador “Tiny” Timmy Trebles and [[Falsus Omnibus]], who have relayed the following message:
 “King Esposito in grave danger. [['Playing Card' Murphy| Murphy]] is hired assassin. Save the king and save Tiallia. Meet at Carousel Club for instructions.”

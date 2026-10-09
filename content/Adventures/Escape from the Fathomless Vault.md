@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T13:24:00.000Z
-modified: 2026-10-08T15:17:38.263Z
-published: 2026-10-08T15:17:38.263Z
+modified: 2026-10-08T23:51:29.062Z
+published: 2026-10-08T23:51:29.062Z
 DM: Jordan
 Platform:
   - Foundry
@@ -137,7 +137,7 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 
 ### Epilogue
 
-- The boys returned [[White Grove]] to find the campus in chaos. Students were protesting for [[Tiialia]] to get involved in the “Eastern Invasion".
+- The boys returned [[White Grove]] to find the campus in chaos. Students were protesting for [[Factions/Kingdom of Tiialia/index|Tiialia]] to get involved in the “Eastern Invasion".
 - Due to time dilation in the Feywild, months had gone by in the material plane, and [[Hugh Mann]] was scrambling to return to [[Scrimshaw City]]. He hastily described the current situation to the party:
   - "An invading force from the Underdark came to the surface. They have taken the eastern cities of Fordsfaire and Aldaris."
   - "Amongst their ranks is an unbeatable demonic demigod."

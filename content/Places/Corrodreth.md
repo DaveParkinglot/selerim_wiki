@@ -4,8 +4,8 @@ aliases:
   - Corrodreth, the Salted City
 title: Corrodreth, the Salted City
 created: 2023-09-02T13:43:46.000Z
-modified: 2026-08-11T15:37:29.669Z
-published: 2026-08-11T15:37:29.669Z
+modified: 2026-10-09T00:09:39.716Z
+published: 2026-10-09T00:09:39.716Z
 Type:
   - Landmark
 founded_year: -1555
@@ -52,10 +52,9 @@ tags:
 
 #### The Serpent Wars
 
-- Known in these times as "The Salted City", the desolate ruins of Corrodreth are talked of in hushed tones by citizens of [[Tiialia]].
-- At the conclusion of the [[Serpent Wars]], the enraged Tiialans laid siege to the city, destroying and salting it to ensure that no green thing would again grow in Corrodreth.
-- Much of the city was left as is, as the destruction wrought by the Tiialan artillery mages was devastating. The landscape surrounding Corrodreth still suffers from these wounds, a sobering reminder of the realities of arcane warfare.
-- It is said that the yuan-ti warlocks summoned an eldritch entity to the city in its twilight hour, but it would not serve, and so it remains buried in the deepest chambers of the ruined city.
+Known in these times as "The Salted City", the desolate ruins of Corrodreth are talked of in hushed tones by citizens of [[Factions/Kingdom of Tiialia/index|Tiialia]]. At the conclusion of the [[Serpent Wars]], the enraged Tiialans laid siege to the city, destroying and salting it to ensure that no green thing would again grow in Corrodreth. Much of the city was left as is, as the destruction wrought by the Tiialan artillery mages was devastating. The landscape surrounding Corrodreth still suffers from these wounds, a sobering reminder of the realities of arcane warfare.
+
+It is said that the yuan-ti warlocks summoned an eldritch entity to the city in its twilight hour, but it would not serve, and so it remains buried in the deepest chambers of the ruined city.
 
 # Attributes
 

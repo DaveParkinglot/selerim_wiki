@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-09-30T23:47:27.453Z
-published: 2026-09-30T23:47:27.453Z
+modified: 2026-10-08T23:51:23.699Z
+published: 2026-10-08T23:51:23.699Z
 DM: Mike Doom
 Platform: Roll20
 Sessions: 2
@@ -73,7 +73,7 @@ Classes:
 
 You are members of the Tiialan army serving in a special cohort called Dunlands Raiders under [[Captain Crebain Dunland]]. Your homelands are under attack by the forces of an evil warlock named [[Morganth]].
 
-The fate of all [[Tiialia]] may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
+The fate of all [[Factions/Kingdom of Tiialia/index|Tiialia]] may well rest in your hands. Fight for honor! Fight for glory! Fight for your homelands and send these devils back to the nine hells!
 
 # Outcomes
 

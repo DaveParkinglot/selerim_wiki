@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T15:13:40.138Z
-published: 2026-10-08T15:13:40.138Z
+modified: 2026-10-08T23:58:36.573Z
+published: 2026-10-08T23:58:36.573Z
 born: 210
 Ancestry:
   - Human
@@ -38,7 +38,7 @@ Author: Jordan
 >
 > **Role**: Tyrant Lord
 >
-> **Affiliation:** [[Factions/Families of Tiialia/Landucci Family.md|Landucci Family]], [[Factions/Families of Tiialia/Fanto-Domingo Family.md|Fanto-Domingo Family]]
+> **Affiliation:** [[Factions/Kingdom of Tiialia/Families of Tiialia/Landucci Family.md|Landucci Family]], [[Factions/Kingdom of Tiialia/Families of Tiialia/Fanto-Domingo Family.md|Fanto-Domingo Family]]
 >
 > **Appearances:** [[Adventures/The High Rollers Campaign.md|The High Rollers Campaign]]
 >
@@ -51,7 +51,7 @@ Author: Jordan
   - [[Landucci Family]] patriarch
   - High Commander of the Legions of Tiialia
   - Former sand yacht owner
-- He sought to rule all of Tiialia through the puppet king Antonio Adonzio.
+- He sought to rule all of Tiialia, using the elderly King Antonio Adonzio as his puppet.
 - He was killed by The High Rollers in the Nova Jersaeria throne room, along with [[Faustia Fanto-Domingo]] and his burly twin sons Lorus and Korus.
 - He is now known as the Tyrant Lord, and his family name is anathema in the holdings of Tiialia.
 

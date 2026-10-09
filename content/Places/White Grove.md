@@ -4,8 +4,8 @@ aliases:
   - White Grove Academy
 title: White Grove, Magic Academy
 created: 2023-09-02T13:45:40.000Z
-modified: 2026-08-13T20:03:04.315Z
-published: 2026-08-13T20:03:04.315Z
+modified: 2026-10-08T23:49:38.038Z
+published: 2026-10-08T23:49:38.038Z
 tags:
   - Settlement
 Type:
@@ -13,7 +13,7 @@ Type:
 founded_year: 64
 Population: 600
 Government:
-  - "[[Tiialia|Kingdom of Tiialia]]"
+  - "[[Factions/Kingdom of Tiialia/index|Kingdom of Tiialia]]"
 Appearances:
   - "[[White Grove - First Semester]]"
   - "[[White Grove - Summer Vacation]]"
@@ -41,7 +41,7 @@ Author: Jordan
 >
 > **Population**: 600
 >
-> **Government:** [[Factions/Tiialia.md|Kingdom of Tiialia]]
+> **Government:** [[Factions/Kingdom of Tiialia/index.md|Kingdom of Tiialia]]
 >
 > **Appearances:** [[Adventures/White Grove - First Semester.md|White Grove - First Semester]], [[Adventures/White Grove - Summer Vacation.md|White Grove - Summer Vacation]], [[Adventures/Escape from the Fathomless Vault.md|Escape from the Fathomless Vault]]
 
@@ -49,7 +49,7 @@ Author: Jordan
 
 - White Grove is perhaps the only reputable magic school in the world, located at a confluence of ley lines on a peninsula above the former holdings of [[Corrodreth]].
 - The school's campus is encircled by four [[Realm Trees]], which are said to represent the four fundamental pillars of magic—arcane, divine, primal, and infernal.
-- Though the college pre-dates [[Tiialia]], most of Tiialia's artillery mages, who famously laid waste to Corrodreth, were students of White Grove.
+- Though the college pre-dates [[Factions/Kingdom of Tiialia/index|Tiialia]], most of Tiialia's artillery mages, who famously laid waste to Corrodreth, were students of White Grove.
 - The Primal Tree has been withered since its magic was channeled to stave off an invasion from Corrodreth, during the [[Serpent Wars]].
 - During the Serpent Wars, the Grove was heavily co-opted by the Kingdom of Tiialia, in order to train its artillery mages. Since then it has been jokingly called TACC, or "Tiialan Arcane Cannon College"
 - Recently, admission has opened up to anyone with magical abilities—not just those training to become Tiialan artillery mages.

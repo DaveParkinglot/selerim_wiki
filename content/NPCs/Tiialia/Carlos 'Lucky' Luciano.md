@@ -43,7 +43,7 @@ Author: Ethan
 >
 > **Role**: Muscle, Undead Muscle
 >
-> **Affiliation:** [[Factions/Families of Tiialia/Batista Family.md|Batista Family]]
+> **Affiliation:** [[Factions/Kingdom of Tiialia/Families of Tiialia/Batista Family.md|Batista Family]]
 >
 > **Appearances:** [[Adventures/The Great Tiialan Heist.md|The Great Tiialan Heist]], [[Adventures/Voyage a la Isla Ruz.md|Voyage a la Isla Ruz]], [[Adventures/The Rescue (and or murder) of King Antonino Esposito.md|The Rescue (and or murder) of King Antonino Esposito]]
 >

@@ -3,12 +3,12 @@ publish: true
 aliases:
   - The Stacked Deck
 created: 2026-05-04T01:29:36.536Z
-modified: 2026-08-13T12:33:07.539Z
-published: 2026-08-13T12:33:07.539Z
+modified: 2026-10-08T23:40:11.565Z
+published: 2026-10-08T23:40:11.565Z
 Author: Jordan
 ---
 
-An adventuring party that has become embroiled in the feud between the [[Tiialia|Tiialan]] noble houses [[Ruz Family|Ruz]] and [[Batista Family|Batista]].
+An adventuring party that has become embroiled in the feud between the [[Factions/Kingdom of Tiialia/index|Tiialan]] noble houses [[Ruz Family|Ruz]] and [[Batista Family|Batista]].
 
 There have been a few changes in the roster, but there are 3 primary members of The Stacked Deck:
 

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2023-08-27T03:24:22.000Z
-modified: 2026-05-04T14:13:30.722Z
-published: 2026-05-04T14:13:30.722Z
+modified: 2026-10-08T23:59:53.261Z
+published: 2026-10-08T23:59:53.261Z
 Author: Jordan
 ---
 
-- [[Tiialia]] hooks:
-  - His father Marco De Luca was a spy working for the Landuccis in the [[The War of the Four Families]]
+- [[Factions/Kingdom of Tiialia/index|Kingdom of Tiialia]] hooks:
+  - His father Marco De Luca was a spy working for the Landuccis in the [[War of the Four Families]]
     - Before his father died, he was working closely to broker a peace between the four families
     - He was killed when a meet with the Fanto-Domingos went wrong
     - It is likely he was set up by a corrupt individual within [[Landucci Family]]
