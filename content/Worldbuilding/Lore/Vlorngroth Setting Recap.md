@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-26T14:17:18.000Z
-modified: 2026-10-10T18:05:05.764Z
-published: 2026-10-10T18:05:05.764Z
+modified: 2026-10-10T18:07:11.164Z
+published: 2026-10-10T18:07:11.164Z
 Author: Jordan
 ---
 
@@ -10,7 +10,7 @@ Author: Jordan
 
 # Adventure 1 -  [[Vlorngroth - The Manor of Madness|The Manor of Madness]]
 
-Nearly 2 years ago, a group of inquisitors of the [[Vlorn Dynasty]] located a [[Blackfyre Orb]] in Duskveil Asylum (aka, the Manor of Madness), and used it to summon the wretched draegloth demigod [[Proklor the Despoiler]]. Since that fateful day, Proklor has been seen rarely if at all. Rumors abound about the nature of High Lord Kranicz's deal with Proklor. Some say that the High Lord uses Proklor as a threat to those who would oppose him. Others claim Proklor has broken his pact with the Vlorn Dynasty, and that he roams the deepest chambers of the Underdark as a feral shadow of his former self. Still, others claim that the draegloth was mortally wounded by a powerful paladin of the surface world, and that he recovers his strength somewhere beneath Tan'Rin Keep. There may be truth in any of these statements, but to dabble in these discussions can prove dangerous, as it draws attention from the High Lord's covert agents, the [[Vlorngroth Inquisitors]].
+A group of inquisitors of the [[Vlorn Dynasty]] located a [[Blackfyre Orb]] in Duskveil Asylum (aka, the Manor of Madness), and used it to summon the wretched draegloth demigod [[Proklor the Despoiler]]. Since that fateful day, Proklor has been seen rarely if at all. Rumors abound about the nature of High Lord Kranicz's deal with Proklor. Some say that the High Lord uses Proklor as a threat to those who would oppose him. Others claim Proklor has broken his pact with the Vlorn Dynasty, and that he roams the deepest chambers of the Underdark as a feral shadow of his former self. Still, others claim that the draegloth was mortally wounded by a powerful paladin of the surface world, and that he recovers his strength somewhere beneath Tan'Rin Keep. There may be truth in any of these statements, but to dabble in these discussions can prove dangerous, as it draws attention from the High Lord's covert agents, the [[Vlorngroth Inquisitors]].
 
 # Adventure 2 - [[Vlorngroth - The Forge of Dingon|The Forge of Dingon]]
 
