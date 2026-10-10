@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-09-13T02:16:19.419Z
-published: 2026-09-13T02:16:19.419Z
+modified: 2026-10-10T18:02:42.114Z
+published: 2026-10-10T18:02:42.114Z
 DM: Jordan
 Platform: Roll20
 Sessions: 2
@@ -46,8 +46,9 @@ Classes:
 ---
 
 Handouts:
-[[Vlorngroth Setting Overview]]
-[[Inquisitor's Dossier]]
+
+- [[Vlorngroth Setting Overview]]
+- [[Inquisitor's Dossier]]
 
 > [!infobox|right]
 >
