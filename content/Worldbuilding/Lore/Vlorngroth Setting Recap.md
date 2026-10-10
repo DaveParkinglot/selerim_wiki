@@ -1,12 +1,16 @@
 ---
 publish: true
 created: 2025-10-26T14:17:18.000Z
-modified: 2026-10-10T18:07:11.164Z
-published: 2026-10-10T18:07:11.164Z
+modified: 2026-10-10T18:21:36.264Z
+published: 2026-10-10T18:21:36.264Z
 Author: Jordan
 ---
 
 > Recap of all the happenings in [[Vlorngroth]]. Each section header links to the respective adventure.
+
+# [[Vlorngroth Setting Overview]]
+
+The subterranean city of Vlorngroth, capital city of the ruthless meritocracy known as the [[Vlorn Dynasty]]. Long forgotten by most surface dwellers of the [[Summer Lands]], the Vlorn prepare for their long-awaited vengeance—an invasion of the surface world.
 
 # Adventure 1 -  [[Vlorngroth - The Manor of Madness|The Manor of Madness]]
 

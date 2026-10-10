@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-22T16:50:53.000Z
-modified: 2026-08-04T13:45:58.735Z
-published: 2026-08-04T13:45:58.735Z
+modified: 2026-10-10T18:16:46.232Z
+published: 2026-10-10T18:16:46.232Z
 Author: Jordan
 ---
 
@@ -10,7 +10,7 @@ Handout from [[Vlorngroth - The Manor of Madness]]
 
 ## VLORNGROTH
 
-In the cavernous depths of the Underdark, beneath the phosphorescence of the Fungal Firmament, lies the hidden city of [[Vlorngroth]]. [[Vlorngroth]] has long been the seat of power for the [[Vlorn Dynasty]], an empire long forgotten by most surface dwellers. The recent ascension of High Lord Jorad Kranicz has led to a militaristic renaissance in the city, with further emphasis being placed on infiltrations and incursions into the surface world. Slaves taken from the surface world have been pouring into [[Vlorngroth]] lately, but the High Lord’s ambitions do not end there. Rumor in [[Vlorngroth]] has it that even now, Kranicz plans a full-scale invasion of the surface world from his war room atop Tan’Rin Keep, the towering structure that juts downward from the Fungal Firmament.
+In the cavernous depths of the Underdark, beneath the phosphorescence of the Fungal Firmament, lies the hidden city of [[Vlorngroth]]. Vlorngroth has long been the seat of power for the [[Vlorn Dynasty]], an empire long forgotten by most surface dwellers. The recent ascension of High Lord Jorad Kranicz has led to a militaristic renaissance in the city, with further emphasis being placed on infiltrations and incursions into the surface world. Slaves taken from the surface world have been pouring into Vlorngroth lately, but the High Lord’s ambitions do not end there. Rumor in Vlorngroth has it that even now, Kranicz plans a full-scale invasion of the surface world from his war room atop Tan’Rin Keep, the towering structure that juts downward from the Fungal Firmament.
 
 ![[z_assets/vlorngroth.png]]
 
@@ -18,7 +18,7 @@ _[[Vlorngroth]], beneath the Fungal Firmament_
 
 ## PLANS OF THE HIGH LORD
 
-The true nature of High Lord Kranicz’s plan is known only to his war council, but the [[Vlorngroth]] populace need only look at recent happenings to know that the gears of his plan have begun to turn. Criers recruit able-bodied fighters in every street, and the slaves of the city have been called to combat training for the first time in two centuries. For many [[Vlorngroth]] citizens, the most interesting development is the ongoing "accelerated recruitment program" for the dynasty's most elite group of spies: the Inquisitor's Order. For those looking to make a name for themselves in the ruthless meritocracy of [[Vlorn Dynasty]], this is the clearest path forward.
+The true nature of High Lord Kranicz’s plan is known only to his war council, but the [[Vlorngroth]] populace need only look at recent happenings to know that the gears of his plan have begun to turn. Criers recruit able-bodied fighters in every street, and the slaves of the city have been called to combat training for the first time in two centuries. For many Vlorngroth citizens, the most interesting development is the ongoing "accelerated recruitment program" for the dynasty's most elite group of spies: the Inquisitor's Order. For those looking to make a name for themselves in the ruthless meritocracy of [[Vlorn Dynasty]], this is the clearest path forward.
 
 ![[z_assets/vlorngroth_streets.png]]
 
