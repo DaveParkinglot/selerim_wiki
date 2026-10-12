@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-18T20:54:50.000Z
-modified: 2026-10-08T23:40:11.593Z
-published: 2026-10-08T23:40:11.593Z
+modified: 2026-10-11T15:21:13.677Z
+published: 2026-10-11T15:21:13.677Z
 socialImage: selerim_planet_view.png
 Author: Jordan
 image: selerim_planet_view.png
@@ -33,7 +33,7 @@ Originally bequeathed to survivors of the [[Nameless War]] by the gods, the Summ
 
 # Peoples
 
-The diversity seen amongst the peoples of the [[Summer Lands]] is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of the [Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20\(the%20dark%20seldarine\)_mtf) empire. In the settlements of the Summer Lands, you will see all manner of humanoid species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of [[Vlorngroth]] are openly hostile to surface dwellers, while the drow living on the surface skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
+The diversity seen amongst the peoples of the [[Summer Lands]] is such because their ancestors were slaves, stolen from their various home worlds to work and die for the glory of the [Dark Seldarine](https://5e.tools/tables.html#drow%20deities%20\(the%20dark%20seldarine\)_mtf) empire. In the settlements of the Summer Lands, you will see all manner of sentient species interacting, cooperating, and coexisting. The world is not without bias and strife, but there exists an uncommon sense of togetherness when your ancestors were all collectively enslaved. The clear exception to this unity is, of course, the drow who remain on Selerim. The drow of the [[Vlorn Dynasty]] are openly hostile to surface dwellers, while the drow living on the surface skirt around the edges of civilization, fearing reprisal for their people's part in the histories.
 
 # Technology
 

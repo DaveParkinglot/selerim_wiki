@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-10-10T18:21:36.264Z
+created: 2025-10-26T14:17:18.000Z
 modified: 2026-10-10T19:37:24.385Z
 published: 2026-10-10T19:37:24.385Z
 Author: Jordan
