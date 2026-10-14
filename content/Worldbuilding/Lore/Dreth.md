@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-08-07T23:53:26.000Z
-modified: 2026-09-03T12:29:19.600Z
-published: 2026-09-03T12:29:19.600Z
+modified: 2026-10-14T20:08:37.346Z
+published: 2026-10-14T20:08:37.346Z
 Author: Jordan
 aliases:
 ---
 
 > [!Quote|author mark no-title]
-> _"In all my long life, no [[Living Realms|Living Realm]] has made contact with our own. <br> I once thought this fact disappointing... But, after learning of Dreth, <br> I now think of it as a divine blessing._" <span style="float: right;">—[[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[White Grove|White Grove Academy]] </span>
+> _"In all my long life, no [[Living Realms|Living Realm]] has <br> made contact with our own. <br> I once thought this fact disappointing... <br> But, after learning of Dreth, <br> I now think of it as a divine blessing._" <span style="float: right;">—[[Arctur Execlostrabaum]] <br> Foremost Loremaster of Selerim, Headmaster of [[White Grove|White Grove Academy]] </span>
 
 > [!caption]
 > ![[z_assets/malyks_rimespire.png|invertbc cover]]
@@ -16,7 +16,7 @@ aliases:
 
 Smaller in size than its neighboring [[Living Realms|Living Realm]], Dreth is located far to the west of the [[Summer Lands]]. Geographically, these realms are each other's closest neighbors, yet their environs and cultures could not be further apart.
 
-The majority of Dreth is a hostile arctic wasteland, engulfed by an unceasing ice storm cast long ago by the god [Malyk](https://5e.tools/deities.html#malyk_drow_mtf).
+The majority of Dreth is a dark, hostile arctic wasteland, engulfed by an unceasing ice storm cast long ago by the god [Malyk](https://5e.tools/deities.html#malyk_drow_mtf).
 
 The entire realm is claimed the dreadful [[Empire of Dreth]], a hegemonic civilization ruled by a terrible ruling caste of yuan-ti overlords.
 

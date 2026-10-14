@@ -4,8 +4,8 @@ aliases:
   - Barbanus the Bodacious
   - Barbanus the Slayer
 created: 2026-09-16T14:02:54.796Z
-modified: 2026-09-16T14:13:21.932Z
-published: 2026-09-16T14:13:21.932Z
+modified: 2026-10-13T02:49:22.267Z
+published: 2026-10-13T02:49:22.267Z
 born: -2045
 Ancestry: Human
 Gender: Male
@@ -62,3 +62,4 @@ In these times, the histories speak only of Barbanus' killing of the great black
 | Name            | Relationship |
 | --------------- | ------------ |
 | Timphiliax      | Enemy        |
+| Shellana Elaris | Enemy        |

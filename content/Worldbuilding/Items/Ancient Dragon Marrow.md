@@ -7,13 +7,13 @@ aliases:
   - Marrow Dust
   - Arcane Cocaine
 created: 2026-03-24T15:06:13.636Z
-modified: 2026-09-23T23:36:02.569Z
-published: 2026-09-23T23:36:02.569Z
+modified: 2026-10-14T20:07:25.511Z
+published: 2026-10-14T20:07:25.511Z
 Author: Jordan
 ---
 
 > [!Quote|author mark no-title]
-> _"[[The Forsaken Expanse]] is littered with dragon bones that can <br> wreck a sandskiff, but that dragon bone marrow still contains  <br> the magics of those long-dead wyrms. <br> It's quite the kick, or so I've heard."_ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]], <br> to [[Player Characters/The High Rollers/index|The High Rollers]] </span>
+> _"[[The Forsaken Expanse]] is littered with <br> dragon bones that can wreck a sandskiff, <br> but that bone marrow still contains the magics <br> of those long-dead wyrms. <br> It's quite the kick, or so I've heard."_ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]], <br> to [[Player Characters/The High Rollers/index|The High Rollers]] </span>
 
 ![[z_assets/ancient_dragon_marrow.png]]
 
@@ -23,7 +23,8 @@ A drug of many names, the dried marrow of the ancient dragons killed in the [[Ge
 - Marrow Dust
 - Arcane Cocaine
 - ADM
-  It is a powerful upper that can result in dangerous wild magic surges, depending on the user's constitution.
+
+It is a powerful upper that can result in dangerous wild magic surges, depending on the user's constitution.
 
 The elves of Mitlin have discovered that the magical properties are similar to that of the [[Violet Bleed]], however, study of the Substance is prohibited by Mitlin's conservative religious faction, the [[Dragon Faithful]].
 
