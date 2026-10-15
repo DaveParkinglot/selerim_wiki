@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-01-14T19:37:57.000Z
-modified: 2026-10-15T13:49:40.862Z
-published: 2026-10-15T13:49:40.862Z
+modified: 2026-10-15T14:07:54.251Z
+published: 2026-10-15T14:07:54.251Z
 Author: Jordan
 ---
 
@@ -179,6 +179,7 @@ Below are some Foundry VTT best practices. I’m planning to add to this when I 
 Again, this is not meant to be a Foundry VTT tutorial. Most of your Foundry knowledge will come from one or more of the following:
 
 - Foundry DM tutorial: <https://foundryvtt.com/article/tutorial/>
+- Learning Foundry VTT YouTube playlist: https://www.youtube.com/playlist?list=PLRQZ9N4eV7qVr21XykcmNBxK29hyOPcNm
 - A walkthrough from an experienced Foundry DM
 - Trial and error while setting up your session
 - Trial and error while running your session
