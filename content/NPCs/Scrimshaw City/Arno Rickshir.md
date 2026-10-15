@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-21T15:30:43.000Z
-modified: 2026-10-08T15:13:51.767Z
-published: 2026-10-08T15:13:51.767Z
+modified: 2026-10-15T13:49:08.663Z
+published: 2026-10-15T13:49:08.663Z
 born: 212
 Ancestry:
   - Half-Orc
@@ -45,7 +45,7 @@ Author: Jordan
 
 # Overview
 
-> [!Quote|author mark no-title]
+> [!Quote|author no-title]
 > _"You never know WHAT is gonna come through that door!"_ <br> <span style="float: right;">—Arno Rickshir <br>  </span>
 
 - Though [[Player Characters/The High Rollers/index|The High Rollers]] were able to recover his stolen goods from kobold thieves, his old man and his son were killed while journeying through the [[Tanglewood Peninsula|Tanglewood]].

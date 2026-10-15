@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-31T13:24:00.000Z
-modified: 2026-10-08T23:51:29.062Z
-published: 2026-10-08T23:51:29.062Z
+modified: 2026-10-15T13:49:32.403Z
+published: 2026-10-15T13:49:32.403Z
 DM: Jordan
 Platform:
   - Foundry
@@ -106,11 +106,11 @@ The author of the note claims to be an ally, and wishes to discuss your party's 
 - [[Temur Octagon]], fearing for his life in the dreaded Umbral Vale, insisted upon hiding inside Bobby's bag of holding, only occasionally coming up for air and light beers.
 - Nearing the ringed city at the center of the Umbral Vale, the boys hear the booming voice of [[Tadeusz]] emanate from the Tome of Collection that Quarf holds:
 
-> [!Quote|author mark no-title]
-> "_FAR YOU HAVE TRAVELED,_
-> _LONG HAVE YOU WANDERED,_
-> _NIGH IS THE TIME._
-> _WILL YOU VANISH AS THE HIGH ROLLERS DID,
+> [!Quote|author no-title]
+> "_FAR YOU HAVE TRAVELED,_ <br>
+> _LONG HAVE YOU WANDERED,_ <br>
+> _NIGH IS THE TIME._ <br>
+> _WILL YOU VANISH AS THE HIGH ROLLERS DID, <br>
 > OR…  BECOME LEGENDS IN YOUR OWN RIGHT?_"  <br> <span style="float: right;">—[[Tadeusz]] </span>
 
 - While traversing the corrupt Umbral Vale, Bobby nearly was possessed by the will of a dead god, but the party helped him escape the madness.

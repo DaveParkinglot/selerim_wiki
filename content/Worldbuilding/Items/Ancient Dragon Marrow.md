@@ -7,13 +7,13 @@ aliases:
   - Marrow Dust
   - Arcane Cocaine
 created: 2026-03-24T15:06:13.636Z
-modified: 2026-10-14T20:07:25.511Z
-published: 2026-10-14T20:07:25.511Z
+modified: 2026-10-15T13:48:47.242Z
+published: 2026-10-15T13:48:47.242Z
 Author: Jordan
 ---
 
-> [!Quote|author mark no-title]
-> _"[[The Forsaken Expanse]] is littered with <br> dragon bones that can wreck a sandskiff, <br> but that bone marrow still contains the magics <br> of those long-dead wyrms. <br> It's quite the kick, or so I've heard."_ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]], <br> to [[Player Characters/The High Rollers/index|The High Rollers]] </span>
+> [!Quote|author no-title]
+> _"[[The Forsaken Expanse]] is littered with dragon bones that can wreck a sandskiff, but that bone marrow still contains the magics of those long-dead wyrms. It's quite the kick, or so I've heard."_ <span style="float: right;">—[[Jom'Dee the Desert Ferryman|Jom'Dee]], to [[Player Characters/The High Rollers/index|The High Rollers]] </span>
 
 ![[z_assets/ancient_dragon_marrow.png]]
 
