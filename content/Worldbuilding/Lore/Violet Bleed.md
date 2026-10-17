@@ -2,8 +2,8 @@
 publish: true
 aliases: arcane fallout
 created: 2026-02-05T14:54:52.000Z
-modified: 2026-08-11T15:45:20.729Z
-published: 2026-08-11T15:45:20.729Z
+modified: 2026-10-17T12:18:59.703Z
+published: 2026-10-17T12:18:59.703Z
 Author: Jordan
 ---
 

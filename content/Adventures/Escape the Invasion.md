@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-30 14:07:29 UTC
-modified: 2026-09-13T02:15:02.173Z
-published: 2026-09-13T02:15:02.173Z
+modified: 2026-10-17T12:32:17.631Z
+published: 2026-10-17T12:32:17.631Z
 DM: Jordan
 Platform: Foundry
 Sessions: 1
@@ -65,12 +65,12 @@ Amidst this chaos, a daring group of prisoners enacted their escape plan. At fir
 
 With Slim Timmy's keychain, they looted the guard post and fled the underground cell block through an escape tunnel. Hurrying through the escape tunnel, the prisoners were set upon by a swarm of vampiric kobolds who claimed they would "drink surfacer blood for [[Count Calloway Duskveil|the Count]]". After killing the vampire swarm, they resurfaced to an ablaze city in bedlam. The invaders had overwhelmed the city, and the demon prince [[Proklor the Despoiler]] was slaughtering dozens of Fordsfaire's defenders with each swing of his dual greatswords.
 
-A gang of vampires led by the disgusting cretin [[Morbus]] discovered the fleeing prisoners, and broke away from the slaughter of the invasion to chase them. This began a mad dash to escape through the southeast gate of the city, with an ever-growing horde of vampire spawn chasing the prisoners. Tragically, Chuhm "The Defenstrator" and Dex Pendable perished in the escape attempt:
+A gang of vampire spawn led by the disgusting cretin [[Morbus]] discovered the fleeing prisoners, and broke away from the slaughter of the invasion to chase them. This began a mad dash to escape through the southeast gate of the city, with an ever-growing horde of vampire spawn chasing the prisoners. Tragically, Chuhm "The Defenstrator" and Dex Pendable perished in the escape attempt:
 
 - Chuhm met a fitting end, and was flattened when a building fell on him. He just barely missed being [[chuhms_demise.png|reverse defenestrated]].
 - Dex stopped to assist a mother and child, and was vaporized when an arcane cannister—fired from a trebuchet beyond the city's walls—landed on his head.
 
-The other prisoners, including Shemcriz, Ogen, and Bernard, barely managed to hop over a babbling brook. This running water stopped the vampire horde in its tracks, and the group escaped the soon-to-be conquered city of Fordsfaire. As they fled out the southwest gate, prisoner Tony "Two-Hands", a forgettable background character, defiantly made masturbatory gesticulations at the invaders.
+The other prisoners, including Shemcriz, Ogen, and Bernard, barely managed to hop over a babbling brook. This running water stopped the horde of vampire spawn in its tracks, and the group escaped the soon-to-be conquered city of Fordsfaire. As they fled out the southwest gate, prisoner Tony "Two-Hands", a forgettable background character, defiantly made masturbatory gesticulations at the invaders.
 
 # Players & Characters
 

@@ -1,10 +1,11 @@
 ---
 publish: true
 aliases:
-  - The Sundered God
+  - Sundered God
+  - Sundered One
 created: 2024-10-06T22:04:58.000Z
-modified: 2026-08-13T15:15:09.892Z
-published: 2026-08-13T15:15:09.892Z
+modified: 2026-10-16T14:41:35.333Z
+published: 2026-10-16T14:41:35.333Z
 Author: Jordan
 ---
 
