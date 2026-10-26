@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-10-08T23:51:23.699Z
-published: 2026-10-08T23:51:23.699Z
+modified: 2026-10-26T19:28:16.471Z
+published: 2026-10-26T19:28:16.471Z
 DM: Mike Doom
 Platform: Roll20
 Sessions: 2
@@ -77,10 +77,9 @@ The fate of all [[Factions/Kingdom of Tiialia/index|Tiialia]] may well rest in y
 
 # Outcomes
 
-- Morganth's forces were pushed back into a small hold, where they used a relic called the [[Blackfyre Orb]] to summon a demon from the Infinite Abyss.
-- Dunland's Raiders defeated the demon, and eventually engaged in pitched combat against the remaining forces of Morganth in a barren field, where they were victorious.
-- Skeeter Lutz went on a killing spree within the hold, killing many civilians.
-- Eclipse Malificent was working for unknown forces, and turned on the party. He stole the Blackfyre Orb, using it to teleport to some abyssal plane.
+Morganth's forces were pushed back into a small hold, where they used a relic called the [[Blackfyre Orb]] to summon a demon from the Infinite Abyss. Dunland's Raiders defeated the demon, and eventually engaged in pitched combat against the remaining forces of Morganth in a barren field, where they were victorious.
+
+Skeeter Lutz went on a killing spree within the hold, killing many civilians. Eclipse Malificent was working for unknown forces, and turned on the party. He stole the Blackfyre Orb, using it to teleport to some abyssal plane.
 
 # Players & Characters
 

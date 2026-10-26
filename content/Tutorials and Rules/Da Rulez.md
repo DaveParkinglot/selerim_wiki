@@ -31,7 +31,7 @@ The methods for generating stats are listed below, in order of preference.
 > [!NOTE] 4d6 drop the lowest
 > Roll 4d6, dropping the lowest value. Do this 6 times to get your 6 stats.
 >
-> In Foundry, the command for this is ` /r {4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1}`
+> In Foundry, the command for this is ` /r {4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1}`
 
 > [!NOTE] Point Buy
 > A more complex option that I won't be describing here.

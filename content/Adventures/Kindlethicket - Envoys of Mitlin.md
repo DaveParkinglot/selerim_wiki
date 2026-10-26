@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-09-13T02:15:05.729Z
-published: 2026-09-13T02:15:05.729Z
+modified: 2026-10-26T19:28:27.782Z
+published: 2026-10-26T19:28:27.782Z
 DM: Jordan
 Platform: In person
 Sessions: 1
@@ -68,7 +68,7 @@ With all its rangers out ranging and its fighters out fighting, Mitlin needs sta
 
 # Outcomes
 
-- The party aided The Prince of Lamps and Luminosity in dealing with the pesky unseelie fey, led by The Slimy Prince. They gained his favor and created a valuable alliance between Mitlin and the new fey crossing of Kindlethicket.
+The party aided The Prince of Lamps and Luminosity in dealing with the pesky unseelie fey, led by The Slimy Prince. They gained his favor and created a valuable alliance between Mitlin and the new fey crossing of Kindlethicket.
 
 # Players & Characters
 

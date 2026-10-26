@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-08-12T13:10:18.000Z
-modified: 2026-10-08T14:06:28.150Z
-published: 2026-10-08T14:06:28.150Z
+modified: 2026-10-17T11:40:52.169Z
+published: 2026-10-17T11:40:52.169Z
 born: -10000
 Ancestry: Demon
 Gender: Male
@@ -18,6 +18,7 @@ Appearances:
   - "[[Bobby's Bachelor Birthday Bender]]"
 Status: Alive
 Author: Jordan
+aliases:
 ---
 
 > [!infobox|right]

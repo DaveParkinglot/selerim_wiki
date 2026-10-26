@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-07-25T18:10:28.000Z
-modified: 2026-09-13T02:15:16.569Z
-published: 2026-09-13T02:15:16.569Z
+modified: 2026-10-26T19:29:14.471Z
+published: 2026-10-26T19:29:14.471Z
 DM: Jordan
 Platform: Roll20
 Sessions: 1
@@ -61,7 +61,7 @@ Survive these 3 trials and live to tell the tale and you will surely be given be
 
 # Outcomes
 
-- After absolutely crushing the three trials, the party found that the S.I.M.P. encampment was under attack by undead who had appeared out of nowhere. With the help of Manmeister Ricky Timbers, the new Bold Beefcakes cut a swathe through the undead and destroyed their leader, a deathlock atop a pale horse.
+After absolutely crushing the three trials, the party found that the S.I.M.P. encampment was under attack by undead who had come to the [[Bonogon Peaks]] on a necrotic ice sheet. With the help of Manmeister Ricky Timbers, the new Bold Beefcakes cut a swathe through the undead and destroyed their leader, a deathlock atop a pale horse.
 
 # Players & Characters
 
