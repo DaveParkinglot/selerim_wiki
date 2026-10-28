@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-17T13:49:06.000Z
-modified: 2026-08-13T19:58:08.454Z
-published: 2026-08-13T19:58:08.454Z
+modified: 2026-10-28T20:13:57.898Z
+published: 2026-10-28T20:13:57.898Z
 tags:
   - Settlement
 Author: Jordan
