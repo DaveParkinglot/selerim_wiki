@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2025-10-26T14:17:18.000Z
-modified: 2026-10-10T19:37:24.385Z
-published: 2026-10-10T19:37:24.385Z
+modified: 2026-10-29T17:29:28.424Z
+published: 2026-10-29T17:29:28.424Z
 Author: Jordan
 ---
 
@@ -14,15 +14,19 @@ The subterranean city of Vlorngroth is the capital city of the [[Vlorn Dynasty]]
 
 # Adventure 1 -  [[Vlorngroth - The Manor of Madness|The Manor of Madness]]
 
-A group of inquisitors of the [[Vlorn Dynasty]] located a [[Blackfyre Orb]] in Duskveil Asylum (aka, the Manor of Madness), and used it to summon the wretched draegloth demigod [[Proklor the Despoiler]]. Since that fateful day, Proklor has been seen rarely if at all. Rumors abound about the nature of High Lord Kranicz's deal with Proklor. Some say that the High Lord uses Proklor as a threat to those who would oppose him. Others claim Proklor has broken his pact with the Vlorn Dynasty, and that he roams the deepest chambers of the Underdark as a feral shadow of his former self. Still, others claim that the draegloth was mortally wounded by a powerful paladin of the surface world, and that he recovers his strength somewhere beneath Tan'Rin Keep. There may be truth in any of these statements, but to dabble in these discussions can prove dangerous, as it draws attention from the High Lord's covert agents, the [[Vlorngroth Inquisitors]].
+A group of inquisitors of the [[Vlorn Dynasty]] located a [[Blackfyre Orb]] in Duskveil Asylum (aka, the Manor of Madness), and used it to summon the wretched draegloth demigod [[Proklor the Despoiler]].
+
+Since that fateful day, Proklor has been seen rarely if at all. Rumors abound about the nature of High Lord Kranicz's deal with Proklor. Some say that the High Lord uses Proklor as a threat to those who would oppose him. Others claim Proklor has broken his pact with the Vlorn Dynasty, and that he roams the deepest chambers of the Underdark as a feral shadow of his former self. Still, others claim that the draegloth was mortally wounded by a powerful paladin of the surface world, and that he recovers his strength somewhere beneath Tan'Rin Keep. There may be truth in any of these statements, but to dabble in these discussions can prove dangerous, as it draws attention from the High Lord's covert agents, the [[Vlorngroth Inquisitors]].
 
 # Adventure 2 - [[Vlorngroth - The Forge of Dingon|The Forge of Dingon]]
 
-A month after Proklor's summoning, the rebellious duergar, Dyksin Poosie, who participated in that infamous asylum raid, was holding rallies and speaking out against the High Lord's "rampant disregard of duergar culture". A crack team of Inquisitors assassinated Dyksin and his followers at The Forge of Dingon, a duergar cultural heritage site. Notably, they also located a Surface Tunnel which led to a vineyard in the heartland of [[Factions/Kingdom of Tiialia/index|Tiialia]]. That foothold on the surface allowed many Inquisitors to infiltrate the local governments of Tiialia, but all full-scale surface incursions proved unsuccessful due to Tiialia's military prowess and the curious absence of [[Proklor the Despoiler]].
+A month after Proklor's summoning, the rebellious duergar, Dyksin Poosie, who participated in that infamous asylum raid, was holding rallies and speaking out against the High Lord's "rampant disregard of duergar culture". A crack team of Inquisitors assassinated Dyksin and his followers at the Forge of Dingon, a duergar cultural heritage site. Notably, they also located a Surface Tunnel which led to a vineyard in the heartland of [[Factions/Kingdom of Tiialia/index|Tiialia]]. That foothold on the surface allowed many Inquisitors to infiltrate the local governments of Tiialia, but all full-scale surface incursions proved unsuccessful due to Tiialia's military prowess and the curious absence of [[Proklor the Despoiler]].
 
 # [[The High Rollers Campaign]]
 
-Incursions by Vlorn agents began to occur in [[Factions/Kingdom of Tiialia/index|Tiialia]] while [[Player Characters/The High Rollers/index|The High Rollers]] were adventuring there. They thwarted the incursions, killing many scouts and even a draegloth, which held a decree from [[High Lord Jorad Kranicz]] about an impending Vlorn invasion of Tiialia. A drow bounty hunter named [[Carbuckle Duskshot]] began hunting The High Rollers, but ultimately became an ally of necessity after both the adventuring party and Carbuckle were caught up in [[Master Effree Jypstein]]'s undead invasion of [[Nova Jersaeria]].
+Vlorn agents began covert attacks on [[Factions/Kingdom of Tiialia/index|Tiialia]] while [[Player Characters/The High Rollers/index|The High Rollers]] were adventuring there. They thwarted several incursions, killing many scouts and even a draegloth, which held a decree from [[High Lord Jorad Kranicz]] about an impending Vlorn invasion of Tiialia.
+
+A drow bounty hunter named [[Carbuckle Duskshot]] also began hunting The High Rollers around this time. Ultimately, Duskshot became an ally of necessity after both the adventuring party and Carbuckle were caught up in [[Master Effree Jypstein]]'s undead invasion of [[Nova Jersaeria]].
 
 # Adventure 3 - [[Vlorngroth - 2 Manor 2 Madness|2 Manor 2 Madness]]
 
