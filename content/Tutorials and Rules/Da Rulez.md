@@ -24,8 +24,7 @@ _All rules and ruling are subject to the current DM._
 
 Like most things, stat generation for characters is up to the current DM.
 
-The methods for generating stats are listed below, in order of preference.
-Remember that in D\&D 5.5e you also get a stat bonus from your background.
+The methods for generating stats are listed below, in order of preference. Remember that in D\&D 5.5e you also get a stat bonus from your background.
 
 > [!NOTE] Group Stat Roll
 > Players take turns rolling 4d6, dropping the lowest. Each roll determines a single stat, and players continue rolling until they have an array of 6 stats. Depending on the # of players, the DM may also roll.
@@ -41,6 +40,6 @@ Remember that in D\&D 5.5e you also get a stat bonus from your background.
 > In Foundry, the command for this is ` /r {4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1}`
 
 > [!NOTE] Point Buy
-> This is a more complex option that involves math. As a result, I won't be describing here.
+> This is a more complex option that involves math. As a result, I won't be describing it here.
 >
 > Most character builders support this, including the Foundry Charactermancer.
