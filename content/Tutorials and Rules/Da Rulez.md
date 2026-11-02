@@ -16,9 +16,9 @@ _All rules and ruling are subject to the current DM._
 
 # House Rules
 
-- If you do not keep track of spell slots, items, or other resources, then your character does not have that thing. Trivial resources like Torches or Rope may be an exception
+- If you do not keep track of spell slots, items, or other resources, then your character does not have that thing. Trivial resources like Torches or Rope may be an exception.
 - On a square grid, every other diagonal costs 10 ft. of movement instead of 5 ft.
-- Spell Scrolls can be used by anyone (like in Baldur's Gate)
+- Spell Scrolls can be used by anyone (like in Baldur's Gate).
 
 # Stat Rules
 
