@@ -2,11 +2,17 @@ _All rules and ruling are subject to the current DM._
 
 # Guidelines for a Fun Time™
 
-1. You are expected to know your character sheet well enough to play without being disruptive to the game or to others. In combat, you should decide on what you are going to do _before_ it comes to your turn.
-2. Your character is generally expected to fit into the fictional world you are playing in (e.g., you probably shouldn't play George Bush, the statesman from Texas).
-3. Always remember that the game is about having fun with your pals and telling cool stories together. It isn't about winning, so don't be a poor sport!
-4. Be respectful of others and their time, and make an effort to make the game fun for everyone!
-5. You absolutely should not be multitasking on other things like video games or a TV show during a session. This behavior is considered extremely disrespectful in every culture, and this is generally a symptom of you being a bad person.
+## Character Creation
+
+- You should have your character created and ready to play prior to the session. It also helps to communicate to everyone in your group what you are playing. If you need help or have questions, you can always communicate with your DM or your group.
+- Your character is generally expected to fit into the fictional world that you are playing in (e.g., you probably shouldn't play George Bush, the statesman from Texas). When in doubt, take the time to communicate your character ideas to your DM.
+
+## Gameplay
+
+- Be respectful of others and their time, and make an effort to make the game fun for everyone!
+- This game is about having fun with your pals and telling cool stories together. It isn't about winning, so don't be a poor sport!
+- You absolutely should avoid multitasking on other things like video games or a TV show during a session. This behavior is considered extremely disrespectful in every culture, and this is generally a symptom of you being a bad person.
+- The DM has the final say on rulings.
 
 # House Rules
 
@@ -19,6 +25,7 @@ _All rules and ruling are subject to the current DM._
 Like most things, stat generation for characters is up to the current DM.
 
 The methods for generating stats are listed below, in order of preference.
+Remember that in D\&D 5.5e you also get a stat bonus from your background.
 
 > [!NOTE] Group Stat Roll
 > Players take turns rolling 4d6, dropping the lowest. Each roll determines a single stat, and players continue rolling until they have an array of 6 stats. Depending on the # of players, the DM may also roll.
@@ -26,7 +33,7 @@ The methods for generating stats are listed below, in order of preference.
 > With this method, all players end up with the same stat array. This makes for a level playing field, but everyone also gets the excitement of rolling.
 
 > [!NOTE] Standard Array
-> These are your stats: (15, 14, 13, 12, 10, 8)
+> These are your stats: {15, 14, 13, 12, 10, 8}
 
 > [!NOTE] 4d6 drop the lowest
 > Roll 4d6, dropping the lowest value. Do this 6 times to get your 6 stats.
@@ -34,6 +41,6 @@ The methods for generating stats are listed below, in order of preference.
 > In Foundry, the command for this is ` /r {4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1, 4d6dl1}`
 
 > [!NOTE] Point Buy
-> A more complex option that I won't be describing here.
+> This is a more complex option that involves math. As a result, I won't be describing here.
 >
 > Most character builders support this, including the Foundry Charactermancer.
