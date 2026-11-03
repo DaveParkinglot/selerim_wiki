@@ -1,3 +1,12 @@
+---
+publish: true
+created: 2026-10-08T15:25:48.995Z
+modified: 2026-11-03T14:41:37.141Z
+published: 2026-11-03T14:41:37.141Z
+Author:
+  - Jordan
+---
+
 _All rules and ruling are subject to the current DM._
 
 # Guidelines for a Fun Time™
