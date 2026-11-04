@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-29T20:18:58.000Z
-modified: 2026-11-04T13:23:44.028Z
-published: 2026-11-04T13:23:44.028Z
+modified: 2026-11-04T13:37:42.523Z
+published: 2026-11-04T13:37:42.523Z
 DM: Jordan
 Platform:
   - Foundry
@@ -22,7 +22,7 @@ Characters:
   - Nemata
   - Ebli Gigs
   - Bombus Mitz
-  - Klaus Jagermeister
+  - Klaus Jägermeister
 Races:
   - Duergar
   - Kobold
@@ -81,4 +81,4 @@ They tracked Hamson to the Foundry District, where he was gathering the iron nee
 | Bishop | Nemata | Duergar | Fighter |
 | Gorrie | Ebli Gigs | Kobold | Warlock |
 | Ethan | Bombus Mitz | Drow | Cleric |
-| Otto | Klaus Jagermeister | Drow | Wizard |
+| Otto | Klaus Jägermeister | Drow | Wizard |
