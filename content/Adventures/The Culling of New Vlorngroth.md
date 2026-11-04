@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-09-29T20:18:58.000Z
-modified: 2026-11-04T13:37:42.523Z
-published: 2026-11-04T13:37:42.523Z
+created: 2026-11-04T14:04:08.043Z
+modified: 2026-11-04T14:02:02.308Z
+published: 2026-11-04T14:02:02.308Z
 DM: Jordan
 Platform:
   - Foundry
@@ -39,7 +39,7 @@ Classes:
 >
 > ## The Culling of New Vlorngroth
 >
-> ![[z_assets/Pasted image 20261104081913.png|300]]
+> ![[z_assets/church_of_lathander.png|300]]
 >
 > > [!caption|center]
 > > The Church of Lathander, site of the secret rebel meeting
