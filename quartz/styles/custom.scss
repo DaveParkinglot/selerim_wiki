@@ -125,7 +125,7 @@ footer          /* Maps to: footer */ {
 
 /* Remove gray border from quote callouts */
 .callout[data-callout="quote"] {
-  border: none !important;
+  border: none !important;	
   box-shadow: none !important;
 }
 
@@ -138,18 +138,6 @@ footer          /* Maps to: footer */ {
     cursor: default !important;
   }
 
-  /* Hide the fold arrow icon next to the Explorer header */
-  button.title-button.explorer-toggle svg.fold,
-  .explorer-toggle svg {
-    display: none !important;
-  }
-
-  /* Ensure sub-file links remain clickable */
-  a.nav-file-title.tree-item-self {
-    pointer-events: auto !important;
-    cursor: pointer !important;
-  }
-}
 
 /* Hide footer completely on mobile viewports */
 @media all and (max-width: 800px) {
@@ -172,4 +160,14 @@ table th,
 table td {
   min-width: 120px; /* Prevents columns from compressing too narrow */
   padding: 8px 12px;
+}
+
+/* fix base tables broken 5.2.0 */
+.bases-table {
+  position: relative !important;
+  flex: none !important;
+  width: 100% !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
 }

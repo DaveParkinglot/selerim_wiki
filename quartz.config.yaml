@@ -19,9 +19,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Cardo
+      body: Lora
+      code: JetBrains Mono
     colors:
       lightMode:
         light: "#faf8f8"
@@ -76,10 +76,6 @@ plugins:
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
-    showByDefault: true
-    collapseByDefault: false
-    minEntries: 2
-    maxDepth: 6
     order: 50
     layout:
       position: right
