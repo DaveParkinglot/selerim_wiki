@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-11-22T14:23:05.118Z
-modified: 2026-11-22T15:02:55.600Z
-published: 2026-11-22T15:02:55.600Z
+modified: 2026-11-22T17:04:38.461Z
+published: 2026-11-22T17:04:38.461Z
 DM: Ethan
 Platform:
   - Foundry
@@ -42,7 +42,7 @@ Classes:
 > ![[z_assets/feast_of_fontanos.png|500]]
 >
 > > [!caption|center]
-> > Image caption
+> > What Chag imagines the Feast of Fontanos to be like
 >
 > ## Details
 >

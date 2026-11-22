@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-11-22T14:23:09.572Z
-modified: 2026-11-22T15:13:29.123Z
-published: 2026-11-22T15:13:29.123Z
+modified: 2026-11-22T17:49:19.101Z
+published: 2026-11-22T17:49:19.101Z
 DM: Ethan
 Platform:
+  - Foundry
 Sessions: 2
 Start Date: 2026-09-24
 End Date: 2026-10-15
@@ -41,13 +42,13 @@ Classes:
 > ![[z_assets/ucp_logo.png|500]]
 >
 > > [!caption|center]
-> > Image caption
+> > United Coalition of Planets Logo
 >
 > ## Details
 >
 > **DM**: Ethan
 >
-> **Platform**: -
+> **Platform**: Foundry
 >
 > **Sessions**: 2
 >
@@ -93,7 +94,7 @@ Crew at each of their stations did a skill challenge to determine progress as th
 
 The UCP Chuhm steered around a large asteroid, and was briefly caught up in the flare from a neighboring red dwarf star. As the flare subsides and the crew focuses their eyes, the sheen of ancient metal across the surface of a mysterious vessel slowly came into view. The design was unlike anything that any of them had seen before, and clearly was ancient in origin.
 
-![[z_assets/ancient_yetari_vessel.png|400]]
+![[z_assets/ancient_yetari_vessel.png|200]]
 _The ancient Yetari vessel in the asteroid field_
 
 The vessel appeared to align with that of the Yetari civilization, an ancient, warlike empire that stretched across far reaches of the Primary Quadrant tens of thousands of years ago. Although its hull appeared battered, the computer indicated a muted power source still emanated from deep within the ship. If that source could be amplified, the distress call could be more comprehensively analyzed. The captain ordered an away team composed of the four ensigns. However, they could not beam onboard because the environmental readings cannot discern the inside of the ship, so they entered through a breach in the hull via a shuttle craft.
@@ -109,24 +110,24 @@ Back aboard the UCP Chuhm, the crew recounted their story and the captain upload
 **Part II: Heir of the Yetari Empire**
 The ensigns, reveling in their success on their first away mission, were told by the captain to deliver the Yetari device to Chief Science Officer Valt. They stopped by the Lounge and Cultural Center to celebrate along the way. Chag realized that he had signed up for the open mic night to talk about Fantanos, but he failed to win any new adherents. Franky and Ernard were accosted by other ensigns interested in learning more about their exploits. Franky then went to deliver the Yetari device to Chief Science Officer Valt, only to realize that one of the ensigns had snatched it from him! She turned out to be a Pomerian spy. The ensigns intercepted her and recover the device, but she then said that the Pomerians had already hacked the UCP Chuhm's systems and knew exactly where Kalimar was located. The spy was confident that the Pomerians would beat the UCP to the secrets of Kalimar, Yetari device or no!
 
-![[z_assets/open_mic_night.png|600]]
+![[z_assets/open_mic_night.png|300]]
 _Chag fails at open mic night at the Lounge and Cultural Center_
 
 The UCP Chuhm arrived at Kalimar, and the ensigns were teleported to where sensors indicated the device to connect with the Yetari artifact would be located. However, the ensigns were instead transported to a locked room, where a group of Pomerians had also been trapped. After a standoff situation, the two parties decided to work together to escape the room. They decided to press a button in the middle of the room, which initiated a countdown timer. Eventually, the decided to let the time count down to zero, at which point the lights came and the doors opened. The Pomerian crew decide to go the way that that UCP crew were not going, saying that they would beat them to the Yetari secrets.
 
-![[z_assets/countdown_challenge.png|600]]
+![[z_assets/countdown_challenge.png|300]]
 _The Pomerians and the UCP crew part ways after succeeding the countdown challenge_
 
 The crew then encountered a room with a mysterious series of markings, similar to the countdown markers from the previous room. Bat GPT realized that some tiles in white are prime numbers, and then began jumping on only prime numbers. The crew found out the the prime numbered tiles were the tiles that they could land on without triggering a trap. All crew members found the math aspect of this room to be exhilarating and perhaps the most rewarding of all challenges that they had encountered and overcome.
 
-![[z_assets/yetari_tile_puzzle.png|600]]
+![[z_assets/yetari_tile_puzzle.png|300]]
 _The incredible prime numbers trap room, a favorite for all involved_
 
 The party moved into the core platform of the Yetari temple, and found a computer in a central platform with a place to fit the Yetari device. As the Pomerian crew approached from the other direction, they inserted the Yetari device. By inserting the device, they awakened a Yetari Visage, who bade them to take up their place as the heirs of the Yetari Empire: "Brave children of the stars. Welcome. Hear my voice! One voice, many faces. Does this better suit your expectations? (the Visage took various forms of gods in which the crew members believed) It is I. ...The journey you took to reach me could not have been an easy one. It seems you are the first to find me, although it appears you have company. I am the voice of the great and mighty Yetari Empire. Your awakening of my visage can only mean that the cycle of rebirth is upon us, and the Yetari must again claim our domain over the stars!"
 
 The Visage gave them a button, which they indicated that, when pressed, would unleash a virus on the Pomerian ship in orbit. At the same time, they gave the Pomerians the same button. The Yetari Visage indicated that they wanted a willing accomplice in their rebirth. Chag threw the button over the ledge of the temple immediately before any decisions could be made, and the Pomerians locked eyes with the UCP crew, nodded, and threw their button device over the ledge as well. Battle commenced!
 
-![[z_assets/yetari_vestige.png|600]]
+![[z_assets/yetari_vestige.png|300]]
 _The Yetari Visage_
 
 Together, the crew and the Pomerians held off the Yetari Detention Sentinels and pummeled the Yetari Visage. They realized that they could destroy the computer that birthed the visage to destroy the visage itself, and proceeded to do so. This caused the visage to explode into nothingness, cursing the failings of these supposed heirs of the empire.

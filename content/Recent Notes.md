@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-08T00:41:36.793Z
-modified: 2026-08-13T12:53:53.953Z
-published: 2026-08-13T12:53:53.953Z
+modified: 2026-11-22T18:11:13.334Z
+published: 2026-11-22T18:11:13.334Z
 unlisted: true
 ---
 
@@ -14,6 +14,8 @@ filters:
     - file.name != "index"
     - file.name != "404"
     - '!file.path.contains("tags")'
+    - file.path.startsWith("Selerim Wiki")
+    - '!file.fullname.endsWith("base")'
 formulas:
   Created Date: file.ctime.format("YYYY-MM-DD")
 properties:
