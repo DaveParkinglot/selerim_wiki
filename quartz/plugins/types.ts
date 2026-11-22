@@ -6,7 +6,7 @@ import {
   QuartzComponentConstructor,
   QuartzComponentProps,
 } from "../components/types"
-import { FilePath, FullSlug } from "../util/path"
+import { FilePath, FullSlug, SimpleSlug } from "../util/path"
 import { BuildCtx } from "../util/ctx"
 import { GlobalConfiguration } from "../cfg"
 import { VFile } from "vfile"
@@ -21,21 +21,87 @@ export interface PluginTypes {
 
 type OptionType = object | undefined
 type ExternalResourcesFn = (ctx: BuildCtx) => Partial<StaticResources> | undefined
+
+/** One page's entry in `static/contentIndex.json` (built-in content index). */
+export type ContentDetails = {
+  slug: FullSlug
+  filePath: FilePath
+  title: string
+  links: SimpleSlug[]
+  tags: string[]
+  content: string
+  richContent?: string
+  /** RSS / sitemap only — not written to contentIndex.json. */
+  date?: Date
+  /** RSS / sitemap only — not written to contentIndex.json. */
+  description?: string
+  /** Fields added by plugins through `extendContentIndex`. */
+  [extra: string]: unknown
+}
+
+/**
+ * Optional hook available on every plugin instance: return extra JSON-serialisable fields for a
+ * page's entry in `static/contentIndex.json`. Core fields cannot be overridden.
+ * See quartz/plugins/builtins/contentIndex.ts.
+ */
+export type ContentIndexExtension = (args: {
+  ctx: BuildCtx
+  fileData: QuartzPluginData
+  entry: Readonly<ContentDetails>
+}) => Record<string, unknown> | undefined | void
+
+interface PluginHooks {
+  extendContentIndex?: ContentIndexExtension
+}
 export type QuartzTransformerPlugin<Options extends OptionType = undefined> = (
   opts?: Options,
 ) => QuartzTransformerPluginInstance
-export type QuartzTransformerPluginInstance = {
+export type QuartzTransformerPluginInstance = PluginHooks & {
   name: string
   textTransform?: (ctx: BuildCtx, src: string) => string
   markdownPlugins?: (ctx: BuildCtx) => PluggableList
   htmlPlugins?: (ctx: BuildCtx) => PluggableList
+  /**
+   * rehype plugins for the pages that page types render from files (`.base`, `.canvas`, …).
+   * Those pages are rendered at emit time and never pass through `htmlPlugins`; these plugins
+   * run on each one's rendered body (with the page's vfile, so `file.data.frontmatter` and
+   * `file.data.referencedBy` are available) after the site's filters published it, and the page
+   * shows the resulting tree. `content` is the published content. Quartz 5.1+.
+   */
+  virtualPageHtmlPlugins?: (ctx: BuildCtx, content: ProcessedContent[]) => PluggableList
+  /**
+   * Transforms of a page's content tree when the page is rendered, when the content of other
+   * pages (and allFiles) is available. `before` runs before transclusions are inlined and page
+   * types' `treeTransforms` run (e.g. bases are filled in), `after` runs on the finished content.
+   * E.g. encrypted-pages swaps its page's content in `before` and encrypts the finished content in
+   * `after`. Each transform gets the page's own tree (a copy), slug and component data.
+   * Quartz 5.2+.
+   */
+  renderTransforms?: (ctx: BuildCtx) => RenderTransforms
   externalResources?: ExternalResourcesFn
+}
+
+/** A transformer's render-time transforms (see `renderTransforms`). */
+export interface RenderTransforms {
+  before?: TreeTransform[]
+  after?: TreeTransform[]
+}
+
+/**
+ * The transforms renderPage runs on a page's content, in order: the transformers' `before`, then
+ * (after transclusions are inlined) the page types' `treeTransforms`, then the transformers'
+ * `after`.
+ */
+export interface PageTreeTransforms {
+  before: TreeTransform[]
+  treeTransforms: TreeTransform[]
+  after: TreeTransform[]
 }
 
 export type QuartzFilterPlugin<Options extends OptionType = undefined> = (
   opts?: Options,
 ) => QuartzFilterPluginInstance
-export type QuartzFilterPluginInstance = {
+export type QuartzFilterPluginInstance = PluginHooks & {
   name: string
   shouldPublish(ctx: BuildCtx, content: ProcessedContent): boolean
 }
@@ -49,7 +115,7 @@ export type ChangeEvent = {
 export type QuartzEmitterPlugin<Options extends OptionType = undefined> = (
   opts?: Options,
 ) => QuartzEmitterPluginInstance
-export type QuartzEmitterPluginInstance = {
+export type QuartzEmitterPluginInstance = PluginHooks & {
   name: string
   emit: (
     ctx: BuildCtx,
@@ -93,7 +159,7 @@ export type PageGenerator = (args: {
   cfg: GlobalConfiguration
   ctx: BuildCtx
   [key: string]: unknown
-}) => VirtualPage[]
+}) => VirtualPage[] | Promise<VirtualPage[]>
 
 /** A function that mutates a HAST tree at render time, when allFiles is available. */
 export type TreeTransform = (
@@ -106,7 +172,7 @@ export type QuartzPageTypePlugin<Options extends OptionType = undefined> = (
   opts?: Options,
 ) => QuartzPageTypePluginInstance
 
-export interface QuartzPageTypePluginInstance {
+export interface QuartzPageTypePluginInstance extends PluginHooks {
   name: string
   priority?: number
   fileExtensions?: string[]
@@ -131,7 +197,7 @@ export interface PageTypePluginEntry {
   priority?: number
   fileExtensions?: string[]
   match: (...args: never[]) => boolean
-  generate?: (...args: never[]) => VirtualPage[]
+  generate?: (...args: never[]) => VirtualPage[] | Promise<VirtualPage[]>
   layout: string
   /** Optional page frame name (e.g. "default", "full-width", "minimal"). Defaults to "default". */
   frame?: string

@@ -23,7 +23,7 @@ export const CreateArgv = {
   template: {
     string: true,
     alias: ["t"],
-    choices: ["default", "obsidian", "ttrpg", "blog"],
+    choices: ["default", "obsidian", "ttrpg", "blog", "docs"],
     describe: "template to use for initial configuration",
   },
   source: {
@@ -76,6 +76,11 @@ export const SyncArgv = {
 
 export const BuildArgv = {
   ...CommonArgv,
+  config: {
+    string: true,
+    alias: ["C"],
+    describe: "path to the config file (default: ./quartz.config.yaml)",
+  },
   output: {
     string: true,
     alias: ["o"],
@@ -110,7 +115,8 @@ export const BuildArgv = {
   remoteDevHost: {
     string: true,
     default: "",
-    describe: "A URL override for the websocket connection if you are not developing on localhost",
+    describe:
+      "hostname to use for the hot-reload WebSocket connection if you are not developing on localhost",
   },
   bundleInfo: {
     boolean: true,
