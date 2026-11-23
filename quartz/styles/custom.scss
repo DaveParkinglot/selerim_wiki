@@ -59,17 +59,14 @@ body a.internal
 .bases-table td .bases-separator {
   display: inline !important;
 }
-
-/* Apply these styles only to tablet and desktop screens */
-@media screen and (min-width: 768px) {
-  /* Disable the main "Explorer" header toggle button */
-  button.title-button.explorer-toggle,
-  button.explorer-toggle {
-    pointer-events: none !important;
-    cursor: default !important;
+  /* Ensure sub-file links remain clickable */
+  a.nav-file-title.tree-item-self {
+    pointer-events: auto !important;
+    cursor: pointer !important;
   }
-  
-  /* Hide footer completely on mobile viewports */
+}
+
+/* Hide footer completely on mobile viewports */
 @media all and (max-width: 800px) {
   footer {
     display: none !important;
@@ -99,5 +96,4 @@ table td {
   width: 100% !important;
   min-width: 0 !important;
   max-width: 100% !important;
-}
 }
