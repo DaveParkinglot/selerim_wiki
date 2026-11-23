@@ -31,15 +31,6 @@ body a.internal
     transition: background-color 0.2s ease; /* Makes the highlight fade in smoothly */
 }
 
-
-
-// Style changes to fix Infobox callout styling //
-
-/* Infobox callout fix 1: Prevent heading underlines from bleeding into floated infoboxes */
-h1, h2, h3, h4, h5, h6 {
-  display: flow-root;
-}
-
 /*  Infobox callout fix 2: Reset Quartz's default callout box styles specifically for ITS infoboxes */
 .callout[data-callout~="infobox"] {
   border: none !important;
@@ -57,7 +48,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-
 // Style changes to fix comma separated values in Bases having extra spaces //
 
 /* Fix Bases comma-separated lists wrapping before commas */
@@ -70,65 +60,6 @@ h1, h2, h3, h4, h5, h6 {
   display: inline !important;
 }
 
-
-// Style changes to allow for Animated Backgrounds //
-
-/* 1. Strip backgrounds from Quartz layout wrappers and footer elements */
-html,
-body,
-.center,
-center,
-#quartz-body,
-.page > div#quartz-body div.sidebar.left,
-.page > div#quartz-body div.sidebar.left:has(.explorer),
-.page > div#quartz-body div.sidebar.left .explorer .explorer-content,
-.page,
-.leaflet-container,
-.header,
-.before-body,   /* Maps to: beforeBody */
-.page-body,     /* Maps to: pageBody */
-.after-body,    /* Maps to: afterBody */
-.left,          /* Maps to: left */
-.right,         /* Maps to: right */
-footer          /* Maps to: footer */ {
-  background: transparent !important;
-  background-color: transparent !important;
-  border-color: transparent !important;
-  box-shadow: none !important;
-}
-
-/* 2. Make your text readable over the background animation */
-/* Targets the main layout column wrapper where page content resides */
-.page .center {
-  /* Safely mixes 50% opacity into whatever --light color is active */
-  background: color-mix(in srgb, var(--light) 30%, transparent) !important; 
-  
-  /* Glassmorphism glass blur */
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  
-  /* Keeps layout spacing clean over the background */
-  padding: 2rem; 
-  border-radius: 8px;
-}
-
-/* Force canvas container to render link strokes at visible opacity */
-.graph-container canvas {
-  opacity: 1 !important;
-}
-
-/* Ensure CSS variable resolves properly for canvas JS */
-:root {
-  --gray: #888888 !important; /* Forces a solid mid-gray for unhovered links */
-  --lightgray: #888888 !important;
-}
-
-/* Remove gray border from quote callouts */
-.callout[data-callout="quote"] {
-  border: none !important;	
-  box-shadow: none !important;
-}
-
 /* Apply these styles only to tablet and desktop screens */
 @media screen and (min-width: 768px) {
   /* Disable the main "Explorer" header toggle button */
@@ -137,9 +68,8 @@ footer          /* Maps to: footer */ {
     pointer-events: none !important;
     cursor: default !important;
   }
-
-
-/* Hide footer completely on mobile viewports */
+  
+  /* Hide footer completely on mobile viewports */
 @media all and (max-width: 800px) {
   footer {
     display: none !important;
