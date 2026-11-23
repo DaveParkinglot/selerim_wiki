@@ -278,7 +278,7 @@ plugins:
     options:
       enableCopyTool: false
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
@@ -307,10 +307,6 @@ plugins:
     enabled: true
     order: 50
     options: {}
-  - source: github:TimoStahl/quartz-image-zoom#spa_fix
-    enabled: true
-    options: {}
-    order: 50
 layout:
   groups:
     toolbar:
