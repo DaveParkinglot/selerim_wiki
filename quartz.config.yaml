@@ -1,7 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Selerim Wiki
-  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -291,6 +290,18 @@ plugins:
     enabled: true
     options: {}
     order: 50
+  - source: github:UndefeatedOrca/quartz-random-note
+    enabled: true
+    order: 50
+    options: {}
+  - source: "@quartz-community/tag-list"
+    enabled: true
+    order: 50
+    options: {}
+  - source: "@quartz-community/bases-page"
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:

@@ -188,6 +188,12 @@
       "commit": "48da13cf01ba6d742e616da2e837fd2a9478ac79",
       "installedAt": "2026-08-02T18:57:50.327Z"
     },
+    "quartz-random-note": {
+      "source": "github:UndefeatedOrca/quartz-random-note",
+      "resolved": "https://github.com/UndefeatedOrca/quartz-random-note.git",
+      "commit": "e294e3ec0e3ac3b83d0e7a19ecf454c0beb30972",
+      "installedAt": "2026-11-23T00:46:09.830Z"
+    },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
       "resolved": "https://github.com/quartz-community/reader-mode.git",
