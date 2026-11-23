@@ -90,9 +90,6 @@ plugins:
   - source: github:quartz-community/citations
     enabled: false
     order: 85
-  - source: github:quartz-community/hard-line-breaks
-    enabled: false
-    order: 90
   - source: github:quartz-community/ox-hugo
     enabled: false
     order: 91
@@ -291,14 +288,6 @@ plugins:
     options: {}
     order: 50
   - source: github:UndefeatedOrca/quartz-random-note
-    enabled: true
-    order: 50
-    options: {}
-  - source: "@quartz-community/tag-list"
-    enabled: true
-    order: 50
-    options: {}
-  - source: "@quartz-community/bases-page"
     enabled: true
     order: 50
     options: {}

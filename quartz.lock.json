@@ -139,12 +139,6 @@
       "commit": "52db5936a4887b47b4a2a3a760a8597248615983",
       "installedAt": "2026-11-22T16:09:17.768Z"
     },
-    "hard-line-breaks": {
-      "source": "github:quartz-community/hard-line-breaks",
-      "resolved": "https://github.com/quartz-community/hard-line-breaks.git",
-      "commit": "8c14ad4ffea416baefcd2e2abdd5c41334846556",
-      "installedAt": "2026-11-22T16:09:17.807Z"
-    },
     "latex": {
       "source": "github:quartz-community/latex",
       "resolved": "https://github.com/quartz-community/latex.git",
@@ -162,6 +156,12 @@
       "resolved": "https://github.com/quartz-community/obsidian-flavored-markdown.git",
       "commit": "8132392f4480967d6396760057633bab9479d906",
       "installedAt": "2026-11-22T16:09:17.814Z"
+    },
+    "og-image": {
+      "source": "github:quartz-community/og-image",
+      "resolved": "https://github.com/quartz-community/og-image.git",
+      "commit": "9fd037fe678bbd50d032d9eec59b7f787633a402",
+      "installedAt": "2026-11-23T00:54:10.964Z"
     },
     "ox-hugo": {
       "source": "github:quartz-community/ox-hugo",
